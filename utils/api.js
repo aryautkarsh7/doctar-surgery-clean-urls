@@ -232,8 +232,13 @@
       const hospFileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + '.js';
       const hospUrl = 'data/hospitals/' + hospFileName;
       
+      const controller = new AbortController();
+      const fetchTimeout = setTimeout(() => controller.abort(), 3000);
+
       const [res1, json2, json3] = await Promise.all([
-        fetch(API_BASE + '/api/data/critical', { cache: 'no-store' }).catch(() => null),
+        fetch(API_BASE + '/api/data/critical', { cache: 'no-store', signal: controller.signal })
+          .then(res => { clearTimeout(fetchTimeout); return res; })
+          .catch(() => { clearTimeout(fetchTimeout); return null; }),
         loadScriptData(cityUrl, 'DOCTAR_TEMP_CITY'),
         loadScriptData(hospUrl, 'DOCTAR_TEMP_HOSP'),
       ]);

@@ -72,6 +72,8 @@
   }
 
   function hospitalPlaceholderImageUrl(name, w, h) {
+    const width = w || 400;
+    const height = h || 300;
     const label = String(name || 'Hospital').trim() || 'Hospital';
     const initials = label
       .replace(/&/g, ' and ')
@@ -92,6 +94,7 @@
       ['#b91c1c', '#f87171', '#fef2f2'],
       ['#0284c7', '#38bdf8', '#f0f9ff'],
     ];
+    const hash = stableHash(label);
     const colors = palettes[hash % palettes.length];
     
     const safeLabel = label
