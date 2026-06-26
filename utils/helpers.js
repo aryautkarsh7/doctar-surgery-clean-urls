@@ -125,11 +125,11 @@
   }
 
   function getHospitalsForCity(city) {
-    const cityHospitals = HOSPITALS.filter(hospital =>
-      hospital.city.toLowerCase() === city.toLowerCase()
-    );
-
-    return cityHospitals.length > 0 ? cityHospitals : HOSPITALS;
+    // Hospitals are already loaded per-city from the hospital JSON file,
+    // so all entries in HOSPITALS belong to the selected city/region.
+    // No need to filter by exact city name (which excluded sub-localities
+    // like "Bokaro Steel City", "Chas", etc.)
+    return HOSPITALS.length > 0 ? HOSPITALS : [];
   }
 
   // =====================================================
