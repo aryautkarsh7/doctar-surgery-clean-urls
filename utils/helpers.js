@@ -14,13 +14,15 @@
 
   function doctorAvatarHTML(doc, className) {
     const name = (doc && doc.name ? doc.name : 'Doctor').replace(/"/g, '');
-    // Real doctor photos live in `image` (http URLs). Show the URL directly —
-    // no onerror fallback, since some valid Google-hosted photo URLs (e.g.
-    // lh3.googleusercontent.com/...) intermittently 403 and were wrongly
-    // swapping to the placeholder. Placeholder is only used when there's no
-    // http image at all. `imageSourceUrl` is intentionally never read.
     const img = doc && doc.image;
-    const src = (img && img.startsWith('http')) ? img : 'images/doctor-placeholder.svg';
+    let src = 'images/doctor-placeholder.svg';
+    if (img) {
+      if (img.startsWith('http')) {
+        src = img;
+      } else if (img.startsWith('images/') || img.startsWith('doctor_images_webp/')) {
+        src = img.replace('doctor_images_webp/', 'images/doctors/');
+      }
+    }
     return `<img src="${src}" alt="${name}" class="${className} doctor-avatar-img">`;
   }
 

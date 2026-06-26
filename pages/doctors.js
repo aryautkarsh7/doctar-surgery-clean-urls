@@ -125,7 +125,7 @@
 
         <!-- MOBILE-ONLY MINI DOCTOR BAR (shown on Reviews/Booking) -->
         <div class="dpp-mini-bar" id="dpp-mini-bar">
-          <img class="dpp-mini-photo" src="${doc.image && doc.image.startsWith('http') ? doc.image : 'images/doctor-placeholder.svg'}" alt="${doc.name}">
+          <img class="dpp-mini-photo" src="${doc.image ? (doc.image.startsWith('doctor_images_webp/') ? doc.image.replace('doctor_images_webp/', 'images/doctors/') : doc.image) : 'images/doctor-placeholder.svg'}" alt="${doc.name}">
           <div>
             <div class="dpp-mini-name">${doc.name}</div>
             <div class="dpp-mini-info">${doc.specialty} | ₹${doc.fee.toLocaleString('en-IN')}</div>
