@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Bandodkar+Clinic/data=!4m7!3m6!1s0x3bbfeafb4be96dc9:0xead9d31cc58c00b8!8m2!3d15.5872305!4d73.806312!16s%2Fg%2F11b6dg4h2l!19sChIJyW3pS_vqvzsRuACMxRzT2eo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bandodkar+Clinic/data=!4m7!3m6!1s0x3bbfeafb4be96dc9:0xead9d31cc58c00b8!8m2!3d15.5872305!4d73.806312!16s%2Fg%2F11b6dg4h2l!19sChIJyW3pS_vqvzsRuACMxRzT2eo?authuser=0&hl=en&rclk=1"
@@ -114,7 +114,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bandodkar+Clinic/data=!4m7!3m6!1s0x3bbfeafb4be96dc9:0xead9d31cc58c00b8!8m2!3d15.5872305!4d73.806312!16s%2Fg%2F11b6dg4h2l!19sChIJyW3pS_vqvzsRuACMxRzT2eo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "district-hospital-mapusa",
@@ -162,7 +163,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/District+Hospital/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb20441cb14f:0x3780637101679c2f!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F1tf5zr3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb20441cb14f:0x3780637101679c2f!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F1tf5zr3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -231,7 +232,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+Hospital/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb20441cb14f:0x3780637101679c2f!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F1tf5zr3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dncc-hair-transplant-skin-and-obesity-centre-panjim-panaji",
@@ -280,7 +282,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DNCC+Hair+Transplant,+Skin+%26+Obesity+Centre+-+Panjim/@15.4949581,73.8207821,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc08ea46efc69:0x2496ee8c9719efd9!8m2!3d15.4949581!4d73.8207821!16s%2Fg%2F11dxd2cn9k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DNCC+Hair+Transplant,+Skin+%26+Obesity+Centre+-+Panjim/@15.4949581,73.8207821,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc08ea46efc69:0x2496ee8c9719efd9!8m2!3d15.4949581!4d73.8207821!16s%2Fg%2F11dxd2cn9k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -349,7 +351,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DNCC+Hair+Transplant,+Skin+%26+Obesity+Centre+-+Panjim/@15.4949581,73.8207821,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc08ea46efc69:0x2496ee8c9719efd9!8m2!3d15.4949581!4d73.8207821!16s%2Fg%2F11dxd2cn9k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ess-bee-hospital-kupwara-mapusa",
@@ -395,7 +398,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/ESS+BEE+hospital+Kupwara/@15.5934254,73.8160045,17z/data=!3m1!4b1!4m6!3m5!1s0x38e11f8fbec78185:0xc50ebf10f0965fc9!8m2!3d15.5934254!4d73.8160045!16s%2Fg%2F11c71ln2nw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ESS+BEE+hospital+Kupwara/@15.5934254,73.8160045,17z/data=!3m1!4b1!4m6!3m5!1s0x38e11f8fbec78185:0xc50ebf10f0965fc9!8m2!3d15.5934254!4d73.8160045!16s%2Fg%2F11c71ln2nw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -461,10 +464,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ESS+BEE+hospital+Kupwara/@15.5934254,73.8160045,17z/data=!3m1!4b1!4m6!3m5!1s0x38e11f8fbec78185:0xc50ebf10f0965fc9!8m2!3d15.5934254!4d73.8160045!16s%2Fg%2F11c71ln2nw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "face-360-sangolda",
@@ -513,7 +517,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Face+360/@15.5190664,73.8290214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18a1e63225b:0xe5229b1b98553c07!8m2!3d15.5190664!4d73.8290214!16s%2Fg%2F11svsbk5cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Face+360/@15.5190664,73.8290214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18a1e63225b:0xe5229b1b98553c07!8m2!3d15.5190664!4d73.8290214!16s%2Fg%2F11svsbk5cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -582,7 +586,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Face+360/@15.5190664,73.8290214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18a1e63225b:0xe5229b1b98553c07!8m2!3d15.5190664!4d73.8290214!16s%2Fg%2F11svsbk5cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "galaxy-hospital-mapusa-goa-mapusa",
@@ -631,7 +636,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Galaxy+Hospital+Mapusa+Goa/data=!4m7!3m6!1s0x3bbfeb19fda362a9:0xded12d6f905c6f2!8m2!3d15.6059159!4d73.8131328!16s%2Fg%2F11c60j5bpy!19sChIJqWKj_RnrvzsR8sYF-dYS7Q0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Galaxy+Hospital+Mapusa+Goa/data=!4m7!3m6!1s0x3bbfeb19fda362a9:0xded12d6f905c6f2!8m2!3d15.6059159!4d73.8131328!16s%2Fg%2F11c60j5bpy!19sChIJqWKj_RnrvzsR8sYF-dYS7Q0?authuser=0&hl=en&rclk=1"
@@ -700,7 +705,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Galaxy+Hospital+Mapusa+Goa/data=!4m7!3m6!1s0x3bbfeb19fda362a9:0xded12d6f905c6f2!8m2!3d15.6059159!4d73.8131328!16s%2Fg%2F11c60j5bpy!19sChIJqWKj_RnrvzsR8sYF-dYS7Q0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "goa-robotic-surgery-centre-panaji",
@@ -749,7 +755,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Goa+Robotic+Surgery+Centre/@15.4967374,73.8236188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1f846857447:0xb624c7b13d48d455!8m2!3d15.4967374!4d73.8236188!16s%2Fg%2F11p47sm9z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goa+Robotic+Surgery+Centre/@15.4967374,73.8236188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1f846857447:0xb624c7b13d48d455!8m2!3d15.4967374!4d73.8236188!16s%2Fg%2F11p47sm9z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -815,10 +821,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goa+Robotic+Surgery+Centre/@15.4967374,73.8236188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1f846857447:0xb624c7b13d48d455!8m2!3d15.4967374!4d73.8236188!16s%2Fg%2F11p47sm9z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hair-transplant-and-cosmetic-clinic-my-looks-care-looks-cosmetic-clinic-best-aesthetic-clinic-in-panjim-skin-clinic-panaji",
@@ -867,7 +874,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hair+Transplant+and+Cosmetic+Clinic+%7C+My+Looks+Care+%28Looks+Cosmetic+Clinic%29+%7C+Best+Aesthetic+Clinic+in+Panjim%7C+Skin+Clinic/data=!4m7!3m6!1s0x3bbfc08c00f7acd1:0x1285c87c62a3b748!8m2!3d15.4985645!4d73.8240516!16s%2Fg%2F11f2rskkt6!19sChIJ0az3AIzAvzsRSLejYnzIhRI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hair+Transplant+and+Cosmetic+Clinic+%7C+My+Looks+Care+%28Looks+Cosmetic+Clinic%29+%7C+Best+Aesthetic+Clinic+in+Panjim%7C+Skin+Clinic/data=!4m7!3m6!1s0x3bbfc08c00f7acd1:0x1285c87c62a3b748!8m2!3d15.4985645!4d73.8240516!16s%2Fg%2F11f2rskkt6!19sChIJ0az3AIzAvzsRSLejYnzIhRI?authuser=0&hl=en&rclk=1"
@@ -936,7 +943,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hair+Transplant+and+Cosmetic+Clinic+%7C+My+Looks+Care+%28Looks+Cosmetic+Clinic%29+%7C+Best+Aesthetic+Clinic+in+Panjim%7C+Skin+Clinic/data=!4m7!3m6!1s0x3bbfc08c00f7acd1:0x1285c87c62a3b748!8m2!3d15.4985645!4d73.8240516!16s%2Fg%2F11f2rskkt6!19sChIJ0az3AIzAvzsRSLejYnzIhRI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "healthway-hospital-panaji",
@@ -985,7 +993,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healthway+Hospital/@15.4941205,73.8310719,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0854a4ea0d7:0x6b321ec0897e1f68!8m2!3d15.4941205!4d73.8310719!16s%2Fg%2F11b6nplwy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthway+Hospital/@15.4941205,73.8310719,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0854a4ea0d7:0x6b321ec0897e1f68!8m2!3d15.4941205!4d73.8310719!16s%2Fg%2F11b6nplwy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1054,7 +1062,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healthway+Hospital/@15.4941205,73.8310719,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0854a4ea0d7:0x6b321ec0897e1f68!8m2!3d15.4941205!4d73.8310719!16s%2Fg%2F11b6nplwy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "holy-cross-general-remanso-hospital-mapusa",
@@ -1102,7 +1111,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Holy+Cross+General+Remanso+Hospital/data=!4m7!3m6!1s0x3bbfeae0c649fd57:0x64aa5f51c5e89f8b!8m2!3d15.5899772!4d73.8166973!16s%2Fg%2F1tdwcctw!19sChIJV_1JxuDqvzsRi5_oxVFfqmQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Holy+Cross+General+Remanso+Hospital/data=!4m7!3m6!1s0x3bbfeae0c649fd57:0x64aa5f51c5e89f8b!8m2!3d15.5899772!4d73.8166973!16s%2Fg%2F1tdwcctw!19sChIJV_1JxuDqvzsRi5_oxVFfqmQ?authuser=0&hl=en&rclk=1"
@@ -1171,7 +1180,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Holy+Cross+General+Remanso+Hospital/data=!4m7!3m6!1s0x3bbfeae0c649fd57:0x64aa5f51c5e89f8b!8m2!3d15.5899772!4d73.8166973!16s%2Fg%2F1tdwcctw!19sChIJV_1JxuDqvzsRi5_oxVFfqmQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kalangutkar-s-nursing-home-mapusa",
@@ -1219,7 +1229,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Kalangutkar's+Nursing+Home/@15.590797,73.8158244,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeae0e6ca0aa9:0xcfbc542351fb8f0a!8m2!3d15.590797!4d73.8158244!16s%2Fg%2F12637txll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalangutkar's+Nursing+Home/@15.590797,73.8158244,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeae0e6ca0aa9:0xcfbc542351fb8f0a!8m2!3d15.590797!4d73.8158244!16s%2Fg%2F12637txll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1288,7 +1298,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalangutkar's+Nursing+Home/@15.590797,73.8158244,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeae0e6ca0aa9:0xcfbc542351fb8f0a!8m2!3d15.590797!4d73.8158244!16s%2Fg%2F12637txll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "livom-clinic-panaji",
@@ -1337,7 +1348,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Livom+Clinic/data=!4m7!3m6!1s0x3bbfc11353c6a1e7:0x21485faa4a16316a!8m2!3d15.4860771!4d73.818024!16s%2Fg%2F11sw_2s_33!19sChIJ56HGUxPBvzsRajEWSqpfSCE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Livom+Clinic/data=!4m7!3m6!1s0x3bbfc11353c6a1e7:0x21485faa4a16316a!8m2!3d15.4860771!4d73.818024!16s%2Fg%2F11sw_2s_33!19sChIJ56HGUxPBvzsRajEWSqpfSCE?authuser=0&hl=en&rclk=1"
@@ -1406,7 +1417,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Livom+Clinic/data=!4m7!3m6!1s0x3bbfc11353c6a1e7:0x21485faa4a16316a!8m2!3d15.4860771!4d73.818024!16s%2Fg%2F11sw_2s_33!19sChIJ56HGUxPBvzsRajEWSqpfSCE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "manipal-hospitals-goa-dr-e-borges-rd",
@@ -1455,7 +1467,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Manipal+Hospitals+Goa/@15.4600884,73.8132224,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0cb6f59b763:0x5fef15ef316a7759!8m2!3d15.4600884!4d73.8132224!16s%2Fg%2F1tgz8t96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospitals+Goa/@15.4600884,73.8132224,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0cb6f59b763:0x5fef15ef316a7759!8m2!3d15.4600884!4d73.8132224!16s%2Fg%2F1tgz8t96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1524,7 +1536,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manipal+Hospitals+Goa/@15.4600884,73.8132224,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0cb6f59b763:0x5fef15ef316a7759!8m2!3d15.4600884!4d73.8132224!16s%2Fg%2F1tgz8t96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medi-services-mapusa",
@@ -1573,7 +1586,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Medi+Services/@15.605433,73.8198807,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb4261b6305b:0x1f28355f329c10a3!8m2!3d15.605433!4d73.8198807!16s%2Fg%2F11vm8cwjw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medi+Services/@15.605433,73.8198807,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb4261b6305b:0x1f28355f329c10a3!8m2!3d15.605433!4d73.8198807!16s%2Fg%2F11vm8cwjw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1639,10 +1652,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medi+Services/@15.605433,73.8198807,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb4261b6305b:0x1f28355f329c10a3!8m2!3d15.605433!4d73.8198807!16s%2Fg%2F11vm8cwjw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "modern-clinic-mapusa",
@@ -1688,7 +1702,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Modern+Clinic/@15.5920368,73.808983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeae2fae1f7d9:0x6d4b0f540391957!8m2!3d15.5920368!4d73.808983!16s%2Fg%2F1tk6tc29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modern+Clinic/@15.5920368,73.808983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeae2fae1f7d9:0x6d4b0f540391957!8m2!3d15.5920368!4d73.808983!16s%2Fg%2F1tk6tc29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1754,10 +1768,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Modern+Clinic/@15.5920368,73.808983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeae2fae1f7d9:0x6d4b0f540391957!8m2!3d15.5920368!4d73.808983!16s%2Fg%2F1tk6tc29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neel-clinic-health-and-physiotherapy-mapusa",
@@ -1806,7 +1821,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Neel+Clinic+(Health+and+Physiotherapy)/@15.6003765,73.8154449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb3364d2be83:0xb32e3b310771fe5c!8m2!3d15.6003765!4d73.8154449!16s%2Fg%2F11ssfn2m4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neel+Clinic+(Health+and+Physiotherapy)/@15.6003765,73.8154449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb3364d2be83:0xb32e3b310771fe5c!8m2!3d15.6003765!4d73.8154449!16s%2Fg%2F11ssfn2m4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1872,10 +1887,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neel+Clinic+(Health+and+Physiotherapy)/@15.6003765,73.8154449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb3364d2be83:0xb32e3b310771fe5c!8m2!3d15.6003765!4d73.8154449!16s%2Fg%2F11ssfn2m4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "north-goa-district-hospital-asilo-mapusa",
@@ -1925,7 +1941,7 @@
       "Google rating 2.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/North+Goa+District+Hospital+(Asilo)/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebd8ba888167:0xe92e711cf882c22c!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F11ryf3894v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/North+Goa+District+Hospital+(Asilo)/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebd8ba888167:0xe92e711cf882c22c!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F11ryf3894v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1994,7 +2010,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/North+Goa+District+Hospital+(Asilo)/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebd8ba888167:0xe92e711cf882c22c!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F11ryf3894v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pereira-medical-and-research-mapusa-l-mapusa",
@@ -2042,7 +2059,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Pereira+medical+and+research+mapusa+L/data=!4m7!3m6!1s0x3bbfeafdc3d3ae9f:0x986dd72d8f048a78!8m2!3d15.5928449!4d73.8026763!16s%2Fg%2F11g8v28466!19sChIJn67Tw_3qvzsReIoEjy3XbZg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pereira+medical+and+research+mapusa+L/data=!4m7!3m6!1s0x3bbfeafdc3d3ae9f:0x986dd72d8f048a78!8m2!3d15.5928449!4d73.8026763!16s%2Fg%2F11g8v28466!19sChIJn67Tw_3qvzsReIoEjy3XbZg?authuser=0&hl=en&rclk=1"
@@ -2108,10 +2125,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pereira+medical+and+research+mapusa+L/data=!4m7!3m6!1s0x3bbfeafdc3d3ae9f:0x986dd72d8f048a78!8m2!3d15.5928449!4d73.8026763!16s%2Fg%2F11g8v28466!19sChIJn67Tw_3qvzsReIoEjy3XbZg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "physiomantra-physiotherapy-consultation-services-galaxy-hospital-mapusa-goa-mapusa",
@@ -2161,7 +2179,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/PhysioMantra+%7C+Physiotherapy+Consultation+Services+%7C+Galaxy+Hospital+%7C+Mapusa,+Goa/@15.6059769,73.8130552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebb536cd8599:0x965d764428455be7!8m2!3d15.6059769!4d73.8130552!16s%2Fg%2F11fm7m9p50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PhysioMantra+%7C+Physiotherapy+Consultation+Services+%7C+Galaxy+Hospital+%7C+Mapusa,+Goa/@15.6059769,73.8130552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebb536cd8599:0x965d764428455be7!8m2!3d15.6059769!4d73.8130552!16s%2Fg%2F11fm7m9p50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2227,10 +2245,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PhysioMantra+%7C+Physiotherapy+Consultation+Services+%7C+Galaxy+Hospital+%7C+Mapusa,+Goa/@15.6059769,73.8130552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebb536cd8599:0x965d764428455be7!8m2!3d15.6059769!4d73.8130552!16s%2Fg%2F11fm7m9p50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "piles-clinic-mapusa",
@@ -2278,7 +2297,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Piles+Clinic/@15.5920137,73.8092371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb908db6bc17:0xb04a7526db77ccdb!8m2!3d15.5920137!4d73.8092371!16s%2Fg%2F11gjjbr3vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Piles+Clinic/@15.5920137,73.8092371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb908db6bc17:0xb04a7526db77ccdb!8m2!3d15.5920137!4d73.8092371!16s%2Fg%2F11gjjbr3vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2347,7 +2366,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Piles+Clinic/@15.5920137,73.8092371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb908db6bc17:0xb04a7526db77ccdb!8m2!3d15.5920137!4d73.8092371!16s%2Fg%2F11gjjbr3vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "redymed-cosmetic-surgery-and-hair-transplant-centre-best-hair-transplant-in-goa-porvorim",
@@ -2395,7 +2415,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/REDYMED+Cosmetic+Surgery+%26+hair+transplant+centre,+Best+hair+transplant+in+Goa/@15.5084466,73.8389657,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1170da91cd9:0x184bcfad9654d47c!8m2!3d15.5084466!4d73.8389657!16s%2Fg%2F11j4ss30z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/REDYMED+Cosmetic+Surgery+%26+hair+transplant+centre,+Best+hair+transplant+in+Goa/@15.5084466,73.8389657,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1170da91cd9:0x184bcfad9654d47c!8m2!3d15.5084466!4d73.8389657!16s%2Fg%2F11j4ss30z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2464,7 +2484,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/REDYMED+Cosmetic+Surgery+%26+hair+transplant+centre,+Best+hair+transplant+in+Goa/@15.5084466,73.8389657,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1170da91cd9:0x184bcfad9654d47c!8m2!3d15.5084466!4d73.8389657!16s%2Fg%2F11j4ss30z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rg-stone-urology-and-laparoscopy-hospital-pilern",
@@ -2513,7 +2534,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/data=!4m7!3m6!1s0x3bbfc06cc8a80dab:0xa72466447e5868e7!8m2!3d15.526834!4d73.825984!16s%2Fg%2F11clq2cs0r!19sChIJqw2oyGzAvzsR52hYfkRmJKc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/data=!4m7!3m6!1s0x3bbfc06cc8a80dab:0xa72466447e5868e7!8m2!3d15.526834!4d73.825984!16s%2Fg%2F11clq2cs0r!19sChIJqw2oyGzAvzsR52hYfkRmJKc?authuser=0&hl=en&rclk=1"
@@ -2582,7 +2603,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/data=!4m7!3m6!1s0x3bbfc06cc8a80dab:0xa72466447e5868e7!8m2!3d15.526834!4d73.825984!16s%2Fg%2F11clq2cs0r!19sChIJqw2oyGzAvzsR52hYfkRmJKc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sankalp-nursing-home-mapusa",
@@ -2631,7 +2653,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Sankalp+Nursing+Home/@15.6030048,73.8175377,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeca855555555:0xc2d82956aefc0b6a!8m2!3d15.6030048!4d73.8175377!16s%2Fg%2F1vgqbjmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sankalp+Nursing+Home/@15.6030048,73.8175377,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeca855555555:0xc2d82956aefc0b6a!8m2!3d15.6030048!4d73.8175377!16s%2Fg%2F1vgqbjmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2697,10 +2719,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sankalp+Nursing+Home/@15.6030048,73.8175377,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeca855555555:0xc2d82956aefc0b6a!8m2!3d15.6030048!4d73.8175377!16s%2Fg%2F1vgqbjmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ss-hair-transplant-clinic-panaji",
@@ -2748,7 +2771,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SS+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3bbfc1180b308423:0x73124da2ccb13764!8m2!3d15.4937066!4d73.8360534!16s%2Fg%2F11s19cpm80!19sChIJI4QwCxjBvzsRZDexzKJNEnM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SS+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3bbfc1180b308423:0x73124da2ccb13764!8m2!3d15.4937066!4d73.8360534!16s%2Fg%2F11s19cpm80!19sChIJI4QwCxjBvzsRZDexzKJNEnM?authuser=0&hl=en&rclk=1"
@@ -2817,7 +2840,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SS+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3bbfc1180b308423:0x73124da2ccb13764!8m2!3d15.4937066!4d73.8360534!16s%2Fg%2F11s19cpm80!19sChIJI4QwCxjBvzsRZDexzKJNEnM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sunrise-oncology-centre-mapusa-center-goa-mapusa",
@@ -2867,7 +2891,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sunrise+Oncology+Centre+%7C+Mapusa+Center+%E2%80%93+Goa/@15.6046417,73.820384,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb5ae3cf53b1:0x2cd4a0fe8cc7a17!8m2!3d15.6046417!4d73.820384!16s%2Fg%2F11vx6hqn7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunrise+Oncology+Centre+%7C+Mapusa+Center+%E2%80%93+Goa/@15.6046417,73.820384,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb5ae3cf53b1:0x2cd4a0fe8cc7a17!8m2!3d15.6046417!4d73.820384!16s%2Fg%2F11vx6hqn7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2933,10 +2957,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunrise+Oncology+Centre+%7C+Mapusa+Center+%E2%80%93+Goa/@15.6046417,73.820384,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb5ae3cf53b1:0x2cd4a0fe8cc7a17!8m2!3d15.6046417!4d73.820384!16s%2Fg%2F11vx6hqn7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tendulkar-memorial-hospital-mapusa",
@@ -2984,7 +3009,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://www.google.com/maps/place/Tendulkar+Memorial+Hospital/@15.599096,73.810074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb1c644f1f8d:0x3eaff2596533aa2d!8m2!3d15.599096!4d73.810074!16s%2Fg%2F11dxbc_kmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tendulkar+Memorial+Hospital/@15.599096,73.810074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb1c644f1f8d:0x3eaff2596533aa2d!8m2!3d15.599096!4d73.810074!16s%2Fg%2F11dxbc_kmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3050,10 +3075,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tendulkar+Memorial+Hospital/@15.599096,73.810074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb1c644f1f8d:0x3eaff2596533aa2d!8m2!3d15.599096!4d73.810074!16s%2Fg%2F11dxbc_kmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "trinity-healthcare-and-medical-research-esperan-a-hospital-panaji",
@@ -3101,7 +3127,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Trinity+Healthcare+And+Medical+Research,+Esperan%C3%A7a+Hospital/@15.484833,73.8115511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0e974000001:0x9d22530232f07e12!8m2!3d15.484833!4d73.8115511!16s%2Fg%2F11b6nt188p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trinity+Healthcare+And+Medical+Research,+Esperan%C3%A7a+Hospital/@15.484833,73.8115511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0e974000001:0x9d22530232f07e12!8m2!3d15.484833!4d73.8115511!16s%2Fg%2F11b6nt188p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3167,10 +3193,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Trinity+Healthcare+And+Medical+Research,+Esperan%C3%A7a+Hospital/@15.484833,73.8115511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0e974000001:0x9d22530232f07e12!8m2!3d15.484833!4d73.8115511!16s%2Fg%2F11b6nt188p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ved-ayurved-bhavan-ayurvedic-clinic-and-panchakarma-center-goa-india-penha-de-franc",
@@ -3218,7 +3245,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Ved+Ayurved+Bhavan+Ayurvedic+Clinic+And+Panchakarma+Center+Goa+India/@15.5195571,73.828935,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06e75ec71ad:0x7f38b7cf60afd7fe!8m2!3d15.5195571!4d73.828935!16s%2Fg%2F1hhkq5d_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ved+Ayurved+Bhavan+Ayurvedic+Clinic+And+Panchakarma+Center+Goa+India/@15.5195571,73.828935,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06e75ec71ad:0x7f38b7cf60afd7fe!8m2!3d15.5195571!4d73.828935!16s%2Fg%2F1hhkq5d_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3287,7 +3314,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ved+Ayurved+Bhavan+Ayurvedic+Clinic+And+Panchakarma+Center+Goa+India/@15.5195571,73.828935,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06e75ec71ad:0x7f38b7cf60afd7fe!8m2!3d15.5195571!4d73.828935!16s%2Fg%2F1hhkq5d_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vision-hospital-goa-mapusa",
@@ -3336,7 +3364,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vision+Hospital+Goa/@15.6041085,73.8200155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb22e915b243:0xe169c686ad111a19!8m2!3d15.6041085!4d73.8200155!16s%2Fg%2F11dfwyb40x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vision+Hospital+Goa/@15.6041085,73.8200155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb22e915b243:0xe169c686ad111a19!8m2!3d15.6041085!4d73.8200155!16s%2Fg%2F11dfwyb40x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3405,6 +3433,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vision+Hospital+Goa/@15.6041085,73.8200155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb22e915b243:0xe169c686ad111a19!8m2!3d15.6041085!4d73.8200155!16s%2Fg%2F11dfwyb40x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

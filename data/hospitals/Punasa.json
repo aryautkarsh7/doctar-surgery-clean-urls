@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+%26+Oral+Maxillofacial+Clinic/@22.6117494,88.3858881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89df6bbb79c61:0xeac24000f2f65e6a!8m2!3d22.6117494!4d88.3858881!16s%2Fg%2F11c7s_b3m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+%26+Oral+Maxillofacial+Clinic/@22.6117494,88.3858881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89df6bbb79c61:0xeac24000f2f65e6a!8m2!3d22.6117494!4d88.3858881!16s%2Fg%2F11c7s_b3m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -112,10 +112,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+%26+Oral+Maxillofacial+Clinic/@22.6117494,88.3858881,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89df6bbb79c61:0xeac24000f2f65e6a!8m2!3d22.6117494!4d88.3858881!16s%2Fg%2F11c7s_b3m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "face-mouth-dental-clinic-and-maxillofacial-centre-rajpur-sonarpur",
@@ -164,7 +165,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Face+Mouth+Dental+Clinic+%26+Maxillofacial+Centre/@22.4401271,88.4396288,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273e31ebf9335:0x6ea6f3948e19573a!8m2!3d22.4401271!4d88.4396288!16s%2Fg%2F11fhv9s7lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Face+Mouth+Dental+Clinic+%26+Maxillofacial+Centre/@22.4401271,88.4396288,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273e31ebf9335:0x6ea6f3948e19573a!8m2!3d22.4401271!4d88.4396288!16s%2Fg%2F11fhv9s7lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -233,7 +234,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Face+Mouth+Dental+Clinic+%26+Maxillofacial+Centre/@22.4401271,88.4396288,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273e31ebf9335:0x6ea6f3948e19573a!8m2!3d22.4401271!4d88.4396288!16s%2Fg%2F11fhv9s7lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gynaecomastia-surgery-north-dumdum",
@@ -282,7 +284,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gynaecomastia+Surgery/@22.6292868,88.4234076,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89e3c32bad40f:0x7a21347836ebe2eb!8m2!3d22.6292868!4d88.4234076!16s%2Fg%2F11knnxmpw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gynaecomastia+Surgery/@22.6292868,88.4234076,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89e3c32bad40f:0x7a21347836ebe2eb!8m2!3d22.6292868!4d88.4234076!16s%2Fg%2F11knnxmpw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -348,10 +350,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gynaecomastia+Surgery/@22.6292868,88.4234076,17z/data=!3m1!4b1!4m6!3m5!1s0x39f89e3c32bad40f:0x7a21347836ebe2eb!8m2!3d22.6292868!4d88.4234076!16s%2Fg%2F11knnxmpw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kidney-plus-clinics-kolkata-kolkata",
@@ -402,7 +405,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/data=!4m7!3m6!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1!19sChIJ0W9cWP5xAjoRjp1vXrBPH9A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/data=!4m7!3m6!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1!19sChIJ0W9cWP5xAjoRjp1vXrBPH9A?authuser=0&hl=en&rclk=1"
@@ -471,7 +474,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/data=!4m7!3m6!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1!19sChIJ0W9cWP5xAjoRjp1vXrBPH9A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "narmada-hospital-khandwa-taraf-kumbhi",
@@ -520,7 +524,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Narmada+Hospital/@21.8261576,76.3366487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b042fe344c5:0x8034669ca0e2f3f6!8m2!3d21.8261576!4d76.3366487!16s%2Fg%2F11qbs9xp0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narmada+Hospital/@21.8261576,76.3366487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b042fe344c5:0x8034669ca0e2f3f6!8m2!3d21.8261576!4d76.3366487!16s%2Fg%2F11qbs9xp0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -589,7 +593,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Narmada+Hospital/@21.8261576,76.3366487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b042fe344c5:0x8034669ca0e2f3f6!8m2!3d21.8261576!4d76.3366487!16s%2Fg%2F11qbs9xp0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephro-care-kolkata",
@@ -639,7 +644,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nephro+Care/@22.5688589,88.4117295,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephro+Care/@22.5688589,88.4117295,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -708,7 +713,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nephro+Care/@22.5688589,88.4117295,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-centre-howrah",
@@ -758,7 +764,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@22.4807129,88.1148427,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0287945a6efaa7:0xdce667ab31868272!8m2!3d22.4807129!4d88.1148427!16s%2Fg%2F11slfcsbqy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@22.4807129,88.1148427,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0287945a6efaa7:0xdce667ab31868272!8m2!3d22.4807129!4d88.1148427!16s%2Fg%2F11slfcsbqy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -824,10 +830,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@22.4807129,88.1148427,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0287945a6efaa7:0xdce667ab31868272!8m2!3d22.4807129!4d88.1148427!16s%2Fg%2F11slfcsbqy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nkpc-kidney-clinic-kolkata",
@@ -877,7 +884,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -946,7 +953,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oramax-bidhannagar",
@@ -995,7 +1003,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Oramax/@22.5944779,88.4051283,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275e3de77f5a7:0xe466e6dbc0a51913!8m2!3d22.5944779!4d88.4051283!16s%2Fg%2F11c1wkl7zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oramax/@22.5944779,88.4051283,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275e3de77f5a7:0xe466e6dbc0a51913!8m2!3d22.5944779!4d88.4051283!16s%2Fg%2F11c1wkl7zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1064,7 +1072,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oramax/@22.5944779,88.4051283,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275e3de77f5a7:0xe466e6dbc0a51913!8m2!3d22.5944779!4d88.4051283!16s%2Fg%2F11c1wkl7zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prakash-hospital-khandwa-taraf-kumbhi",
@@ -1113,7 +1122,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Prakash+Hospital/@21.8263336,76.336238,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b1472c65a9f:0x5ec1706a6c8b1353!8m2!3d21.8263336!4d76.336238!16s%2Fg%2F1thxz7wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prakash+Hospital/@21.8263336,76.336238,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b1472c65a9f:0x5ec1706a6c8b1353!8m2!3d21.8263336!4d76.336238!16s%2Fg%2F1thxz7wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1182,7 +1191,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prakash+Hospital/@21.8263336,76.336238,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd81b1472c65a9f:0x5ec1706a6c8b1353!8m2!3d21.8263336!4d76.336238!16s%2Fg%2F1thxz7wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pristyn-care-kolkata",
@@ -1231,7 +1241,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pristyn+Care/@22.5289942,88.3477605,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277472347036d:0xc2cb60826a957e7d!8m2!3d22.5289942!4d88.3477605!16s%2Fg%2F11y9nrwr0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pristyn+Care/@22.5289942,88.3477605,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277472347036d:0xc2cb60826a957e7d!8m2!3d22.5289942!4d88.3477605!16s%2Fg%2F11y9nrwr0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1297,10 +1307,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pristyn+Care/@22.5289942,88.3477605,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277472347036d:0xc2cb60826a957e7d!8m2!3d22.5289942!4d88.3477605!16s%2Fg%2F11y9nrwr0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rhinoplasty-gynaecomastia-hair-transplant-liposuction-botox-fillers-breast-and-other-cosmetic-surgery-south-dumdum",
@@ -1346,7 +1357,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/rhinoplasty,+gynaecomastia,hair+transplant,liposuction,+Botox,+fillers,+breast+and+other+cosmetic+surgery/@22.6012635,88.4075136,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02751a8ee66ab1:0xcb28067c8be1327c!8m2!3d22.6012635!4d88.4075136!16s%2Fg%2F11sfg9yqbf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/rhinoplasty,+gynaecomastia,hair+transplant,liposuction,+Botox,+fillers,+breast+and+other+cosmetic+surgery/@22.6012635,88.4075136,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02751a8ee66ab1:0xcb28067c8be1327c!8m2!3d22.6012635!4d88.4075136!16s%2Fg%2F11sfg9yqbf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1412,10 +1423,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/rhinoplasty,+gynaecomastia,hair+transplant,liposuction,+Botox,+fillers,+breast+and+other+cosmetic+surgery/@22.6012635,88.4075136,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02751a8ee66ab1:0xcb28067c8be1327c!8m2!3d22.6012635!4d88.4075136!16s%2Fg%2F11sfg9yqbf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ruby-speciality-liver-clinic-and-liver-transplant-kolkata",
@@ -1465,7 +1477,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ruby+Speciality+Liver+Clinic+and+Liver+Transplant/@22.5135669,88.4029506,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273358514c651:0xf3eecffab6b55d82!8m2!3d22.5135669!4d88.4029506!16s%2Fg%2F11s5xlsjc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ruby+Speciality+Liver+Clinic+and+Liver+Transplant/@22.5135669,88.4029506,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273358514c651:0xf3eecffab6b55d82!8m2!3d22.5135669!4d88.4029506!16s%2Fg%2F11s5xlsjc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1531,10 +1543,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ruby+Speciality+Liver+Clinic+and+Liver+Transplant/@22.5135669,88.4029506,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0273358514c651:0xf3eecffab6b55d82!8m2!3d22.5135669!4d88.4029506!16s%2Fg%2F11s5xlsjc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surgident-oral-and-maxillofacial-dental-clinic-and-implant-centre-kolkata",
@@ -1584,7 +1597,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/@22.4977202,88.3810673,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/@22.4977202,88.3810673,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1653,7 +1666,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SurgiDent+Oral+and+Maxillofacial+Dental+Clinic+and+Implant+Centre/@22.4977202,88.3810673,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a4f330c1bd:0x40b3bcc945e05463!8m2!3d22.4977202!4d88.3810673!16s%2Fg%2F11x7xfcxpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-gariahat-kidney-care-centre-kolkata",
@@ -1702,7 +1716,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/The+Gariahat+Kidney+Care+Centre/@22.5181153,88.3677804,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0276d36732d7df:0x579604391f441b72!8m2!3d22.5181153!4d88.3677804!16s%2Fg%2F11c55ryfrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Gariahat+Kidney+Care+Centre/@22.5181153,88.3677804,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0276d36732d7df:0x579604391f441b72!8m2!3d22.5181153!4d88.3677804!16s%2Fg%2F11c55ryfrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1771,7 +1785,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Gariahat+Kidney+Care+Centre/@22.5181153,88.3677804,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0276d36732d7df:0x579604391f441b72!8m2!3d22.5181153!4d88.3677804!16s%2Fg%2F11c55ryfrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -1821,7 +1836,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1887,9 +1902,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

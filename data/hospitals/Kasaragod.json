@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Aramana+Hospital+%26+Heart+Centre/@12.5073453,74.9905227,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48267839d1931:0xdcfbe7531f53f5ad!8m2!3d12.5073453!4d74.9905227!16s%2Fg%2F11ddxc7nkw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aramana+Hospital+%26+Heart+Centre/@12.5073453,74.9905227,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48267839d1931:0xdcfbe7531f53f5ad!8m2!3d12.5073453!4d74.9905227!16s%2Fg%2F11ddxc7nkw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aramana+Hospital+%26+Heart+Centre/@12.5073453,74.9905227,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48267839d1931:0xdcfbe7531f53f5ad!8m2!3d12.5073453!4d74.9905227!16s%2Fg%2F11ddxc7nkw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aryasamagrachikitsalaya-kasaragod",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Aryasamagrachikitsalaya/data=!4m7!3m6!1s0x3ba4826814c535e7:0x4509f1f1fa251a6!8m2!3d12.5037476!4d74.9894164!16s%2Fg%2F11gbfcy2lp!19sChIJ5zXFFGiCpDsRplGiHx-fUAQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aryasamagrachikitsalaya/data=!4m7!3m6!1s0x3ba4826814c535e7:0x4509f1f1fa251a6!8m2!3d12.5037476!4d74.9894164!16s%2Fg%2F11gbfcy2lp!19sChIJ5zXFFGiCpDsRplGiHx-fUAQ?authuser=0&hl=en&rclk=1"
@@ -232,7 +233,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aryasamagrachikitsalaya/data=!4m7!3m6!1s0x3ba4826814c535e7:0x4509f1f1fa251a6!8m2!3d12.5037476!4d74.9894164!16s%2Fg%2F11gbfcy2lp!19sChIJ5zXFFGiCpDsRplGiHx-fUAQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "asiadent-dental-centre-kasaragod",
@@ -280,7 +282,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Asiadent+Dental+Centre/@12.5071665,74.9904821,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4826783ca25b9:0xc8b8f37c690d7adc!8m2!3d12.5071665!4d74.9904821!16s%2Fg%2F11f4qx992r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asiadent+Dental+Centre/@12.5071665,74.9904821,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4826783ca25b9:0xc8b8f37c690d7adc!8m2!3d12.5071665!4d74.9904821!16s%2Fg%2F11f4qx992r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -349,7 +351,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asiadent+Dental+Centre/@12.5071665,74.9904821,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4826783ca25b9:0xc8b8f37c690d7adc!8m2!3d12.5071665!4d74.9904821!16s%2Fg%2F11f4qx992r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aster-women-and-child-centre-top-pediatric-maternity-and-pregnancy-hospital-in-kasaragod-rahmath-nagar",
@@ -399,7 +402,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aster+Women+%26+Child+Centre+-+Top+Pediatric,+Maternity+%26+Pregnancy+Hospital+in+Kasaragod/@12.50962,75.044484,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48311fc375abf:0x7996055be1f736a2!8m2!3d12.50962!4d75.044484!16s%2Fg%2F11ynbry_4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aster+Women+%26+Child+Centre+-+Top+Pediatric,+Maternity+%26+Pregnancy+Hospital+in+Kasaragod/@12.50962,75.044484,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48311fc375abf:0x7996055be1f736a2!8m2!3d12.50962!4d75.044484!16s%2Fg%2F11ynbry_4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -465,10 +468,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aster+Women+%26+Child+Centre+-+Top+Pediatric,+Maternity+%26+Pregnancy+Hospital+in+Kasaragod/@12.50962,75.044484,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48311fc375abf:0x7996055be1f736a2!8m2!3d12.50962!4d75.044484!16s%2Fg%2F11ynbry_4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayurmudhra-hospital-kasaragod",
@@ -516,7 +520,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ayurmudhra+Hospital/@12.4870117,74.9900578,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4839cbfe69a4d:0x99d533e2179322e!8m2!3d12.4870117!4d74.9900578!16s%2Fg%2F11h5kvdv5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayurmudhra+Hospital/@12.4870117,74.9900578,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4839cbfe69a4d:0x99d533e2179322e!8m2!3d12.4870117!4d74.9900578!16s%2Fg%2F11h5kvdv5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -582,10 +586,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayurmudhra+Hospital/@12.4870117,74.9900578,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4839cbfe69a4d:0x99d533e2179322e!8m2!3d12.4870117!4d74.9900578!16s%2Fg%2F11h5kvdv5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhat-s-dental-care-kasaragod",
@@ -633,7 +638,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Bhat's+Dental+Care/@12.5033389,74.986179,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483d0283c1727:0x52fa9f7059f42387!8m2!3d12.5033389!4d74.986179!16s%2Fg%2F11yxz0bnb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhat's+Dental+Care/@12.5033389,74.986179,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483d0283c1727:0x52fa9f7059f42387!8m2!3d12.5033389!4d74.986179!16s%2Fg%2F11yxz0bnb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -702,7 +707,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhat's+Dental+Care/@12.5033389,74.986179,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483d0283c1727:0x52fa9f7059f42387!8m2!3d12.5033389!4d74.986179!16s%2Fg%2F11yxz0bnb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "carewell-hospital-and-research-centre-pvt-ltd-nullipady",
@@ -751,7 +757,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Carewell+Hospital+%26+Research+Centre+Pvt+Ltd/@12.5114363,74.9982746,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482595dfe45ef:0x767d978dcd1360f3!8m2!3d12.5114363!4d74.9982746!16s%2Fg%2F1thp6ffm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Carewell+Hospital+%26+Research+Centre+Pvt+Ltd/@12.5114363,74.9982746,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482595dfe45ef:0x767d978dcd1360f3!8m2!3d12.5114363!4d74.9982746!16s%2Fg%2F1thp6ffm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -817,10 +823,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Carewell+Hospital+%26+Research+Centre+Pvt+Ltd/@12.5114363,74.9982746,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482595dfe45ef:0x767d978dcd1360f3!8m2!3d12.5114363!4d74.9982746!16s%2Fg%2F1thp6ffm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chaitra-medical-centre-vidya-nagar",
@@ -868,7 +875,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Chaitra+Medical+Centre/data=!4m7!3m6!1s0x3ba482557a408269:0xd298ddc2f19c8fe1!8m2!3d12.5169517!4d75.0119706!16s%2Fg%2F1tdxcqch!19sChIJaYJAelWCpDsR4Y-c8cLdmNI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaitra+Medical+Centre/data=!4m7!3m6!1s0x3ba482557a408269:0xd298ddc2f19c8fe1!8m2!3d12.5169517!4d75.0119706!16s%2Fg%2F1tdxcqch!19sChIJaYJAelWCpDsR4Y-c8cLdmNI?authuser=0&hl=en&rclk=1"
@@ -937,7 +944,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chaitra+Medical+Centre/data=!4m7!3m6!1s0x3ba482557a408269:0xd298ddc2f19c8fe1!8m2!3d12.5169517!4d75.0119706!16s%2Fg%2F1tdxcqch!19sChIJaYJAelWCpDsR4Y-c8cLdmNI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "city-dental-care-dental-clinic-kasaragod",
@@ -985,7 +993,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/CITY+DENTAL+CARE,+Dental+Clinic/@12.5010471,74.9905344,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483e834fa024b:0x80674a480fd5e769!8m2!3d12.5010471!4d74.9905344!16s%2Fg%2F11gm72tqyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CITY+DENTAL+CARE,+Dental+Clinic/@12.5010471,74.9905344,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483e834fa024b:0x80674a480fd5e769!8m2!3d12.5010471!4d74.9905344!16s%2Fg%2F11gm72tqyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1051,10 +1059,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CITY+DENTAL+CARE,+Dental+Clinic/@12.5010471,74.9905344,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483e834fa024b:0x80674a480fd5e769!8m2!3d12.5010471!4d74.9905344!16s%2Fg%2F11gm72tqyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-clinic-kasaragod",
@@ -1102,7 +1111,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Clinic/@12.5035176,74.9893459,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482688a6a37d3:0xb16fee1d519f9e43!8m2!3d12.5035176!4d74.9893459!16s%2Fg%2F11g86wvjs1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Clinic/@12.5035176,74.9893459,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482688a6a37d3:0xb16fee1d519f9e43!8m2!3d12.5035176!4d74.9893459!16s%2Fg%2F11g86wvjs1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1171,7 +1180,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Clinic/@12.5035176,74.9893459,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482688a6a37d3:0xb16fee1d519f9e43!8m2!3d12.5035176!4d74.9893459!16s%2Fg%2F11g86wvjs1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-speciality-clinic-kasaragod",
@@ -1218,7 +1228,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Dental+speciality+clinic/@12.5066287,74.9898269,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483079b68137f:0xd2b2e2b80b25e56!8m2!3d12.5066287!4d74.9898269!16s%2Fg%2F11j439x0ql?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+speciality+clinic/@12.5066287,74.9898269,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483079b68137f:0xd2b2e2b80b25e56!8m2!3d12.5066287!4d74.9898269!16s%2Fg%2F11j439x0ql?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1284,10 +1294,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+speciality+clinic/@12.5066287,74.9898269,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483079b68137f:0xd2b2e2b80b25e56!8m2!3d12.5066287!4d74.9898269!16s%2Fg%2F11j439x0ql?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dream-flower-ivf-centre-kasaragod",
@@ -1337,7 +1348,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dream+Flower+IVF+Centre/@12.504362,74.9876593,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48268f4f4ae65:0xbe1e41d1261430e2!8m2!3d12.504362!4d74.9876593!16s%2Fg%2F11cmbpl6wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dream+Flower+IVF+Centre/@12.504362,74.9876593,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48268f4f4ae65:0xbe1e41d1261430e2!8m2!3d12.504362!4d74.9876593!16s%2Fg%2F11cmbpl6wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1406,7 +1417,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dream+Flower+IVF+Centre/@12.504362,74.9876593,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48268f4f4ae65:0xbe1e41d1261430e2!8m2!3d12.504362!4d74.9876593!16s%2Fg%2F11cmbpl6wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ek-nayanar-memorial-co-operative-hospital-chengala",
@@ -1455,7 +1467,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/EK+Nayanar+Memorial+Co-Operative+Hospital/@12.5102391,75.0352363,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483a2f9696979:0xb6b71beae26c97ca!8m2!3d12.5102391!4d75.0352363!16s%2Fg%2F11s1y1tkkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/EK+Nayanar+Memorial+Co-Operative+Hospital/@12.5102391,75.0352363,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483a2f9696979:0xb6b71beae26c97ca!8m2!3d12.5102391!4d75.0352363!16s%2Fg%2F11s1y1tkkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1524,7 +1536,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/EK+Nayanar+Memorial+Co-Operative+Hospital/@12.5102391,75.0352363,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483a2f9696979:0xb6b71beae26c97ca!8m2!3d12.5102391!4d75.0352363!16s%2Fg%2F11s1y1tkkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "esthetics-faciomaxillary-surgery-and-pediatric-dental-speciality-clinic-kasaragod",
@@ -1573,7 +1586,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Esthetics+FacioMaxillary+Surgery+and+Pediatric+Dental+Speciality+Clinic/data=!4m7!3m6!1s0x3ba483d96413a3f1:0xd3c561865f2eab41!8m2!3d12.5047275!4d74.9880439!16s%2Fg%2F11rch75msm!19sChIJ8aMTZNmDpDsRQasuX4ZhxdM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Esthetics+FacioMaxillary+Surgery+and+Pediatric+Dental+Speciality+Clinic/data=!4m7!3m6!1s0x3ba483d96413a3f1:0xd3c561865f2eab41!8m2!3d12.5047275!4d74.9880439!16s%2Fg%2F11rch75msm!19sChIJ8aMTZNmDpDsRQasuX4ZhxdM?authuser=0&hl=en&rclk=1"
@@ -1642,7 +1655,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Esthetics+FacioMaxillary+Surgery+and+Pediatric+Dental+Speciality+Clinic/data=!4m7!3m6!1s0x3ba483d96413a3f1:0xd3c561865f2eab41!8m2!3d12.5047275!4d74.9880439!16s%2Fg%2F11rch75msm!19sChIJ8aMTZNmDpDsRQasuX4ZhxdM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "first-neuro-comprehensive-neuro-sciences-centre-kasaragod",
@@ -1692,7 +1706,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/First+Neuro+Comprehensive+Neuro+Sciences+Centre/@12.5135727,75.0056592,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48300347fcf03:0x3a88e9a539736f67!8m2!3d12.5135727!4d75.0056592!16s%2Fg%2F11vs5m3qv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/First+Neuro+Comprehensive+Neuro+Sciences+Centre/@12.5135727,75.0056592,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48300347fcf03:0x3a88e9a539736f67!8m2!3d12.5135727!4d75.0056592!16s%2Fg%2F11vs5m3qv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1761,7 +1775,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/First+Neuro+Comprehensive+Neuro+Sciences+Centre/@12.5135727,75.0056592,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48300347fcf03:0x3a88e9a539736f67!8m2!3d12.5135727!4d75.0056592!16s%2Fg%2F11vs5m3qv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "govt-general-hospital-kasaragod-kasaragod",
@@ -1809,7 +1824,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Govt+General+Hospital+Kasaragod/@12.5034125,74.9914531,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482427e15d633:0x887760b1d0ba3446!8m2!3d12.5034125!4d74.9914531!16s%2Fg%2F11bz09kjd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt+General+Hospital+Kasaragod/@12.5034125,74.9914531,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482427e15d633:0x887760b1d0ba3446!8m2!3d12.5034125!4d74.9914531!16s%2Fg%2F11bz09kjd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1878,7 +1893,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govt+General+Hospital+Kasaragod/@12.5034125,74.9914531,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482427e15d633:0x887760b1d0ba3446!8m2!3d12.5034125!4d74.9914531!16s%2Fg%2F11bz09kjd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "health-mall-kasaragod-primelife-healthmall-diagnostic-kasaragod",
@@ -1926,7 +1942,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/HEALTH+MALL+KASARAGOD+%28Primelife+Healthmall+Diagnostic%29/data=!4m7!3m6!1s0x3ba483c0069b2a6f:0x5ba8d8db4169b1d8!8m2!3d12.5070128!4d74.9908236!16s%2Fg%2F11flbxxpxd!19sChIJbyqbBsCDpDsR2LFpQdvYqFs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HEALTH+MALL+KASARAGOD+%28Primelife+Healthmall+Diagnostic%29/data=!4m7!3m6!1s0x3ba483c0069b2a6f:0x5ba8d8db4169b1d8!8m2!3d12.5070128!4d74.9908236!16s%2Fg%2F11flbxxpxd!19sChIJbyqbBsCDpDsR2LFpQdvYqFs?authuser=0&hl=en&rclk=1"
@@ -1995,7 +2011,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HEALTH+MALL+KASARAGOD+%28Primelife+Healthmall+Diagnostic%29/data=!4m7!3m6!1s0x3ba483c0069b2a6f:0x5ba8d8db4169b1d8!8m2!3d12.5070128!4d74.9908236!16s%2Fg%2F11flbxxpxd!19sChIJbyqbBsCDpDsR2LFpQdvYqFs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hnc-hospital-deli-kalnad",
@@ -2044,7 +2061,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/hnc+Hospital+Deli/@12.4751587,75.018155,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483d5baa8db53:0xe4af734f4cc86a3!8m2!3d12.4751587!4d75.018155!16s%2Fg%2F11bbygmjjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/hnc+Hospital+Deli/@12.4751587,75.018155,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483d5baa8db53:0xe4af734f4cc86a3!8m2!3d12.4751587!4d75.018155!16s%2Fg%2F11bbygmjjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2113,7 +2130,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/hnc+Hospital+Deli/@12.4751587,75.018155,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483d5baa8db53:0xe4af734f4cc86a3!8m2!3d12.4751587!4d75.018155!16s%2Fg%2F11bbygmjjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ideal-speciality-dental-clinic-kasaragod",
@@ -2162,7 +2180,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Ideal+speciality+dental+clinic/data=!4m7!3m6!1s0x3ba48365110a22c9:0x38f4632cf492c3e!8m2!3d12.5027783!4d74.9926228!16s%2Fg%2F11lgq460x4!19sChIJySIKEWWDpDsRPixJzzJGjwM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ideal+speciality+dental+clinic/data=!4m7!3m6!1s0x3ba48365110a22c9:0x38f4632cf492c3e!8m2!3d12.5027783!4d74.9926228!16s%2Fg%2F11lgq460x4!19sChIJySIKEWWDpDsRPixJzzJGjwM?authuser=0&hl=en&rclk=1"
@@ -2231,7 +2249,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ideal+speciality+dental+clinic/data=!4m7!3m6!1s0x3ba48365110a22c9:0x38f4632cf492c3e!8m2!3d12.5027783!4d74.9926228!16s%2Fg%2F11lgq460x4!19sChIJySIKEWWDpDsRPixJzzJGjwM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "institute-of-applied-dermatology-kasaragod",
@@ -2280,7 +2299,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Institute+of+Applied+Dermatology/@12.5450241,75.0009289,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482c4990dfa7f:0xc9abfa889c016d5b!8m2!3d12.5450241!4d75.0009289!16s%2Fg%2F1hm41d_9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Institute+of+Applied+Dermatology/@12.5450241,75.0009289,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482c4990dfa7f:0xc9abfa889c016d5b!8m2!3d12.5450241!4d75.0009289!16s%2Fg%2F1hm41d_9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2349,7 +2368,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Institute+of+Applied+Dermatology/@12.5450241,75.0009289,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482c4990dfa7f:0xc9abfa889c016d5b!8m2!3d12.5450241!4d75.0009289!16s%2Fg%2F1hm41d_9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "janardan-hospital-kasaragod",
@@ -2398,7 +2418,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Janardan+Hospital/@12.5033529,74.9879201,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48268f5750d1d:0xeec7a55f4e5aacd!8m2!3d12.5033529!4d74.9879201!16s%2Fg%2F11f__7dd4r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janardan+Hospital/@12.5033529,74.9879201,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48268f5750d1d:0xeec7a55f4e5aacd!8m2!3d12.5033529!4d74.9879201!16s%2Fg%2F11f__7dd4r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2467,7 +2487,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Janardan+Hospital/@12.5033529,74.9879201,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48268f5750d1d:0xeec7a55f4e5aacd!8m2!3d12.5033529!4d74.9879201!16s%2Fg%2F11f__7dd4r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "janardan-hospital-ortho-neuro-and-physiotherapy-and-rehabilitation-centre-kasaragod",
@@ -2519,7 +2540,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/JANARDAN+HOSPITAL,+Ortho,+Neuro+and+Physiotherapy+and+Rehabilitation+Centre/@12.5031236,74.9882743,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4836dad16c2a3:0xfbeff451e00b9695!8m2!3d12.5031236!4d74.9882743!16s%2Fg%2F11sczkyy9m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JANARDAN+HOSPITAL,+Ortho,+Neuro+and+Physiotherapy+and+Rehabilitation+Centre/@12.5031236,74.9882743,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4836dad16c2a3:0xfbeff451e00b9695!8m2!3d12.5031236!4d74.9882743!16s%2Fg%2F11sczkyy9m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2585,10 +2606,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JANARDAN+HOSPITAL,+Ortho,+Neuro+and+Physiotherapy+and+Rehabilitation+Centre/@12.5031236,74.9882743,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4836dad16c2a3:0xfbeff451e00b9695!8m2!3d12.5031236!4d74.9882743!16s%2Fg%2F11sczkyy9m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "k-s-abdulla-hospital-kasaragod",
@@ -2637,7 +2659,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/K+S+Abdulla+Hospital/@12.4849281,74.9914788,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4823d7b275b6f:0xa07615daea1ae10c!8m2!3d12.4849281!4d74.9914788!16s%2Fg%2F1tfhdvx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K+S+Abdulla+Hospital/@12.4849281,74.9914788,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4823d7b275b6f:0xa07615daea1ae10c!8m2!3d12.4849281!4d74.9914788!16s%2Fg%2F1tfhdvx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2706,7 +2728,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/K+S+Abdulla+Hospital/@12.4849281,74.9914788,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4823d7b275b6f:0xa07615daea1ae10c!8m2!3d12.4849281!4d74.9914788!16s%2Fg%2F1tfhdvx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kamath-dialysis-centres-kasaragod",
@@ -2754,7 +2777,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kamath+Dialysis+Centres/@12.5061265,74.9913193,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483faff332fe1:0xf5689e4865073432!8m2!3d12.5061265!4d74.9913193!16s%2Fg%2F11fd7d4l11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamath+Dialysis+Centres/@12.5061265,74.9913193,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483faff332fe1:0xf5689e4865073432!8m2!3d12.5061265!4d74.9913193!16s%2Fg%2F11fd7d4l11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2820,10 +2843,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kamath+Dialysis+Centres/@12.5061265,74.9913193,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483faff332fe1:0xf5689e4865073432!8m2!3d12.5061265!4d74.9913193!16s%2Fg%2F11fd7d4l11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kamath-medical-centre-kasaragod",
@@ -2871,7 +2895,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Kamath+Medical+Centre/@12.5060225,74.991239,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825d58dc4e55:0x333220b5f640739d!8m2!3d12.5060225!4d74.991239!16s%2Fg%2F1tfx3bfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamath+Medical+Centre/@12.5060225,74.991239,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825d58dc4e55:0x333220b5f640739d!8m2!3d12.5060225!4d74.991239!16s%2Fg%2F1tfx3bfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2937,10 +2961,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kamath+Medical+Centre/@12.5060225,74.991239,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825d58dc4e55:0x333220b5f640739d!8m2!3d12.5060225!4d74.991239!16s%2Fg%2F1tfx3bfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kasaragod-vision-centre-kasaragod",
@@ -2990,7 +3015,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kasaragod+Vision+Centre/@12.5002707,74.9900675,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483a155555555:0xed155351cc3ca070!8m2!3d12.5002707!4d74.9900675!16s%2Fg%2F11n106ypf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kasaragod+Vision+Centre/@12.5002707,74.9900675,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483a155555555:0xed155351cc3ca070!8m2!3d12.5002707!4d74.9900675!16s%2Fg%2F11n106ypf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3059,7 +3084,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kasaragod+Vision+Centre/@12.5002707,74.9900675,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483a155555555:0xed155351cc3ca070!8m2!3d12.5002707!4d74.9900675!16s%2Fg%2F11n106ypf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kerala-ayurveda-hospital-kasaragod",
@@ -3108,7 +3134,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kerala+Ayurveda+Hospital/@12.505854,74.9912873,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482689ee951e3:0x4ca3cf25d13a77e!8m2!3d12.505854!4d74.9912873!16s%2Fg%2F11g9q7fk6s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kerala+Ayurveda+Hospital/@12.505854,74.9912873,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482689ee951e3:0x4ca3cf25d13a77e!8m2!3d12.505854!4d74.9912873!16s%2Fg%2F11g9q7fk6s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3177,7 +3203,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kerala+Ayurveda+Hospital/@12.505854,74.9912873,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482689ee951e3:0x4ca3cf25d13a77e!8m2!3d12.505854!4d74.9912873!16s%2Fg%2F11g9q7fk6s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kewa-skin-and-aesthetic-clinic-kanhangad",
@@ -3226,7 +3253,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kewa+Skin+and+Aesthetic+Clinic/@12.3324722,75.0965546,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba47da50ea82f1f:0xec878e397ce7c77!8m2!3d12.3324722!4d75.0965546!16s%2Fg%2F11vy3p3r7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kewa+Skin+and+Aesthetic+Clinic/@12.3324722,75.0965546,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba47da50ea82f1f:0xec878e397ce7c77!8m2!3d12.3324722!4d75.0965546!16s%2Fg%2F11vy3p3r7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3292,10 +3319,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kewa+Skin+and+Aesthetic+Clinic/@12.3324722,75.0965546,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba47da50ea82f1f:0xec878e397ce7c77!8m2!3d12.3324722!4d75.0965546!16s%2Fg%2F11vy3p3r7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kids-and-family-dental-clinic-kasaragod",
@@ -3343,7 +3371,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kids+%26+family+DENTAL+CLINIC/@12.5083487,74.9884039,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4832145e18371:0x76245434ac360126!8m2!3d12.5083487!4d74.9884039!16s%2Fg%2F11t4dhdyyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kids+%26+family+DENTAL+CLINIC/@12.5083487,74.9884039,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4832145e18371:0x76245434ac360126!8m2!3d12.5083487!4d74.9884039!16s%2Fg%2F11t4dhdyyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3409,10 +3437,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kids+%26+family+DENTAL+CLINIC/@12.5083487,74.9884039,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4832145e18371:0x76245434ac360126!8m2!3d12.5083487!4d74.9884039!16s%2Fg%2F11t4dhdyyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kims-hospital-kasaragod-kasaragod",
@@ -3460,7 +3489,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/KIMS+Hospital+,+Kasaragod/@12.5072987,74.9907604,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4824263d7b0bf:0xa952fff5c0f5d0ae!8m2!3d12.5072987!4d74.9907604!16s%2Fg%2F11f1vlj6ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIMS+Hospital+,+Kasaragod/@12.5072987,74.9907604,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4824263d7b0bf:0xa952fff5c0f5d0ae!8m2!3d12.5072987!4d74.9907604!16s%2Fg%2F11f1vlj6ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3529,7 +3558,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIMS+Hospital+,+Kasaragod/@12.5072987,74.9907604,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4824263d7b0bf:0xa952fff5c0f5d0ae!8m2!3d12.5072987!4d74.9907604!16s%2Fg%2F11f1vlj6ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kinder-naasco-building-first-floor-nayaks-road-kasaragod-kasaragod",
@@ -3577,7 +3607,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/KINDER+NAASCO+BUILDING+FIRST+FLOOR+NAYAKS+ROAD+KASARAGOD/@12.5037544,74.9905984,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482662df41341:0x5fd51996209c70e4!8m2!3d12.5037544!4d74.9905984!16s%2Fg%2F11c70j8_8y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KINDER+NAASCO+BUILDING+FIRST+FLOOR+NAYAKS+ROAD+KASARAGOD/@12.5037544,74.9905984,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482662df41341:0x5fd51996209c70e4!8m2!3d12.5037544!4d74.9905984!16s%2Fg%2F11c70j8_8y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3646,7 +3676,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KINDER+NAASCO+BUILDING+FIRST+FLOOR+NAYAKS+ROAD+KASARAGOD/@12.5037544,74.9905984,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482662df41341:0x5fd51996209c70e4!8m2!3d12.5037544!4d74.9905984!16s%2Fg%2F11c70j8_8y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krishna-hospital-kasaragod",
@@ -3694,7 +3725,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Krishna+Hospital/@12.517049,75.0130874,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482555e5dabed:0xc5ab2d785e44b62b!8m2!3d12.517049!4d75.0130874!16s%2Fg%2F1tppqd6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Hospital/@12.517049,75.0130874,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482555e5dabed:0xc5ab2d785e44b62b!8m2!3d12.517049!4d75.0130874!16s%2Fg%2F1tppqd6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3763,7 +3794,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishna+Hospital/@12.517049,75.0130874,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482555e5dabed:0xc5ab2d785e44b62b!8m2!3d12.517049!4d75.0130874!16s%2Fg%2F1tppqd6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "liberty-dental-clinic-kasaragod-kasaragod",
@@ -3812,7 +3844,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Liberty+Dental+Clinic+Kasaragod/@12.5061042,74.9945082,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4834eff48987d:0x8a8548502e26182a!8m2!3d12.5061042!4d74.9945082!16s%2Fg%2F11y3w_bcbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Liberty+Dental+Clinic+Kasaragod/@12.5061042,74.9945082,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4834eff48987d:0x8a8548502e26182a!8m2!3d12.5061042!4d74.9945082!16s%2Fg%2F11y3w_bcbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3881,7 +3913,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Liberty+Dental+Clinic+Kasaragod/@12.5061042,74.9945082,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4834eff48987d:0x8a8548502e26182a!8m2!3d12.5061042!4d74.9945082!16s%2Fg%2F11y3w_bcbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lyfpath-diet-and-wellness-clinic-kasaragod",
@@ -3931,7 +3964,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lyfpath+diet+and+wellness+clinic/@12.5075339,74.9899175,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483fa69a00f47:0x387c20fc29896bb9!8m2!3d12.5075339!4d74.9899175!16s%2Fg%2F11w9yv07dz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lyfpath+diet+and+wellness+clinic/@12.5075339,74.9899175,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483fa69a00f47:0x387c20fc29896bb9!8m2!3d12.5075339!4d74.9899175!16s%2Fg%2F11w9yv07dz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3997,10 +4030,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lyfpath+diet+and+wellness+clinic/@12.5075339,74.9899175,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483fa69a00f47:0x387c20fc29896bb9!8m2!3d12.5075339!4d74.9899175!16s%2Fg%2F11w9yv07dz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maa-clinic-piles-fistula-fissur-kasaragod",
@@ -4048,7 +4082,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Maa+Clinic+Piles+Fistula+Fissur/@12.496393,74.989273,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4826af5c770e5:0x41bd03349dc7c03!8m2!3d12.496393!4d74.989273!16s%2Fg%2F11gb3wf_n0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Clinic+Piles+Fistula+Fissur/@12.496393,74.989273,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4826af5c770e5:0x41bd03349dc7c03!8m2!3d12.496393!4d74.989273!16s%2Fg%2F11gb3wf_n0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4117,7 +4151,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maa+Clinic+Piles+Fistula+Fissur/@12.496393,74.989273,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4826af5c770e5:0x41bd03349dc7c03!8m2!3d12.496393!4d74.989273!16s%2Fg%2F11gb3wf_n0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mallya-city-hospital-kasaragod",
@@ -4165,7 +4200,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Mallya+City+Hospital/@12.5067219,74.9893233,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48267bc1f34ad:0xddc2ed638b1bc87f!8m2!3d12.5067219!4d74.9893233!16s%2Fg%2F11xyp56y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mallya+City+Hospital/@12.5067219,74.9893233,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48267bc1f34ad:0xddc2ed638b1bc87f!8m2!3d12.5067219!4d74.9893233!16s%2Fg%2F11xyp56y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4234,7 +4269,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mallya+City+Hospital/@12.5067219,74.9893233,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48267bc1f34ad:0xddc2ed638b1bc87f!8m2!3d12.5067219!4d74.9893233!16s%2Fg%2F11xyp56y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangalore-dental-clinic-kasaragod",
@@ -4282,7 +4318,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Mangalore+Dental+Clinic/@12.5053535,74.9936739,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825d2b8a1851:0xac2003d1bee6fdf0!8m2!3d12.5053535!4d74.9936739!16s%2Fg%2F11b66c6c_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangalore+Dental+Clinic/@12.5053535,74.9936739,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825d2b8a1851:0xac2003d1bee6fdf0!8m2!3d12.5053535!4d74.9936739!16s%2Fg%2F11b66c6c_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4351,7 +4387,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangalore+Dental+Clinic/@12.5053535,74.9936739,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825d2b8a1851:0xac2003d1bee6fdf0!8m2!3d12.5053535!4d74.9936739!16s%2Fg%2F11b66c6c_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "marigold-house-of-dermatology-kasaragod",
@@ -4400,7 +4437,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Marigold+-+House+of+Dermatology/data=!4m7!3m6!1s0x3ba4830a5c2ca819:0x945b073e2d4a872a!8m2!3d12.5067219!4d74.9893233!16s%2Fg%2F11y1v7yp39!19sChIJGagsXAqDpDsRKodKLT4HW5Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Marigold+-+House+of+Dermatology/data=!4m7!3m6!1s0x3ba4830a5c2ca819:0x945b073e2d4a872a!8m2!3d12.5067219!4d74.9893233!16s%2Fg%2F11y1v7yp39!19sChIJGagsXAqDpDsRKodKLT4HW5Q?authuser=0&hl=en&rclk=1"
@@ -4469,7 +4506,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Marigold+-+House+of+Dermatology/data=!4m7!3m6!1s0x3ba4830a5c2ca819:0x945b073e2d4a872a!8m2!3d12.5067219!4d74.9893233!16s%2Fg%2F11y1v7yp39!19sChIJGagsXAqDpDsRKodKLT4HW5Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "meitra-united-heart-centre-kasaragod",
@@ -4519,7 +4557,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Meitra+United+Heart+Centre/data=!4m7!3m6!1s0x3ba4837796bcf825:0x30e156bcab5550ad!8m2!3d12.5095261!4d74.9945537!16s%2Fg%2F11rn21zvnd!19sChIJJfi8lneDpDsRrVBVq7xW4TA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meitra+United+Heart+Centre/data=!4m7!3m6!1s0x3ba4837796bcf825:0x30e156bcab5550ad!8m2!3d12.5095261!4d74.9945537!16s%2Fg%2F11rn21zvnd!19sChIJJfi8lneDpDsRrVBVq7xW4TA?authuser=0&hl=en&rclk=1"
@@ -4588,7 +4626,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meitra+United+Heart+Centre/data=!4m7!3m6!1s0x3ba4837796bcf825:0x30e156bcab5550ad!8m2!3d12.5095261!4d74.9945537!16s%2Fg%2F11rn21zvnd!19sChIJJfi8lneDpDsRrVBVq7xW4TA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mondal-clinic-kasaragod-piles-fissure-fistula-in-ano-kasaragod",
@@ -4636,7 +4675,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mondal+Clinic+Kasaragod+(Piles,Fissure,Fistula+in+ano...)/@12.5052559,74.9922198,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483e573bbb0c1:0x4bbc843179a3a3a2!8m2!3d12.5052559!4d74.9922198!16s%2Fg%2F11ww96rkkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mondal+Clinic+Kasaragod+(Piles,Fissure,Fistula+in+ano...)/@12.5052559,74.9922198,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483e573bbb0c1:0x4bbc843179a3a3a2!8m2!3d12.5052559!4d74.9922198!16s%2Fg%2F11ww96rkkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4702,10 +4741,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mondal+Clinic+Kasaragod+(Piles,Fissure,Fistula+in+ano...)/@12.5052559,74.9922198,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483e573bbb0c1:0x4bbc843179a3a3a2!8m2!3d12.5052559!4d74.9922198!16s%2Fg%2F11ww96rkkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephrology-dr-rahul-sai-g-kasaragod",
@@ -4754,7 +4794,7 @@
       "Google rating 1.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nephrology-Dr+Rahul+Sai+G/data=!4m7!3m6!1s0x3ba483d6d383b1ab:0xd685d196c6489233!8m2!3d12.5076679!4d74.9910586!16s%2Fg%2F11lf0n43np!19sChIJq7GD09aDpDsRM5JIxpbRhdY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephrology-Dr+Rahul+Sai+G/data=!4m7!3m6!1s0x3ba483d6d383b1ab:0xd685d196c6489233!8m2!3d12.5076679!4d74.9910586!16s%2Fg%2F11lf0n43np!19sChIJq7GD09aDpDsRM5JIxpbRhdY?authuser=0&hl=en&rclk=1"
@@ -4820,10 +4860,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nephrology-Dr+Rahul+Sai+G/data=!4m7!3m6!1s0x3ba483d6d383b1ab:0xd685d196c6489233!8m2!3d12.5076679!4d74.9910586!16s%2Fg%2F11lf0n43np!19sChIJq7GD09aDpDsRM5JIxpbRhdY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "perfect-smile-dental-clinic-kasaragod",
@@ -4871,7 +4912,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Perfect+Smile+Dental+Clinic/@12.5063405,74.9864341,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482666a40efc7:0xe91d133aa5605da6!8m2!3d12.5063405!4d74.9864341!16s%2Fg%2F11xf48sts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Perfect+Smile+Dental+Clinic/@12.5063405,74.9864341,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482666a40efc7:0xe91d133aa5605da6!8m2!3d12.5063405!4d74.9864341!16s%2Fg%2F11xf48sts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4940,7 +4981,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Perfect+Smile+Dental+Clinic/@12.5063405,74.9864341,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482666a40efc7:0xe91d133aa5605da6!8m2!3d12.5063405!4d74.9864341!16s%2Fg%2F11xf48sts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rey-makeup-studio-and-spa-kasaragod",
@@ -4989,7 +5031,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/REY+MAKEUP+STUDIO+%26+SPA/@12.5028528,74.9923562,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4830673932f6b:0x74175ed4f7fbd391!8m2!3d12.5028528!4d74.9923562!16s%2Fg%2F11sprv0nmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/REY+MAKEUP+STUDIO+%26+SPA/@12.5028528,74.9923562,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4830673932f6b:0x74175ed4f7fbd391!8m2!3d12.5028528!4d74.9923562!16s%2Fg%2F11sprv0nmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5055,10 +5097,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/REY+MAKEUP+STUDIO+%26+SPA/@12.5028528,74.9923562,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4830673932f6b:0x74175ed4f7fbd391!8m2!3d12.5028528!4d74.9923562!16s%2Fg%2F11sprv0nmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rianz-dental-home-kasaragod",
@@ -5106,7 +5149,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/RIANZ+Dental+Home/@12.5059409,74.9914905,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4813d07a42185:0xedd08ab75794537d!8m2!3d12.5059409!4d74.9914905!16s%2Fg%2F11y5rq9w6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RIANZ+Dental+Home/@12.5059409,74.9914905,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4813d07a42185:0xedd08ab75794537d!8m2!3d12.5059409!4d74.9914905!16s%2Fg%2F11y5rq9w6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5172,10 +5215,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RIANZ+Dental+Home/@12.5059409,74.9914905,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4813d07a42185:0xedd08ab75794537d!8m2!3d12.5059409!4d74.9914905!16s%2Fg%2F11y5rq9w6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-dental-clinic-kasaragod",
@@ -5223,7 +5267,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC/@12.5082956,74.9949678,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483be7f3e5bed:0x5917224a9457deee!8m2!3d12.5082956!4d74.9949678!16s%2Fg%2F11ytp7sf47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC/@12.5082956,74.9949678,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483be7f3e5bed:0x5917224a9457deee!8m2!3d12.5082956!4d74.9949678!16s%2Fg%2F11ytp7sf47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5292,7 +5336,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC/@12.5082956,74.9949678,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483be7f3e5bed:0x5917224a9457deee!8m2!3d12.5082956!4d74.9949678!16s%2Fg%2F11ytp7sf47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shubha-dental-clinic-kasaragod",
@@ -5340,7 +5385,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Shubha+Dental+Clinic/@12.4978769,74.9866304,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48376578ae4e3:0x7a9095356121dcf7!8m2!3d12.4978769!4d74.9866304!16s%2Fg%2F11fpkx2d7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubha+Dental+Clinic/@12.4978769,74.9866304,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48376578ae4e3:0x7a9095356121dcf7!8m2!3d12.4978769!4d74.9866304!16s%2Fg%2F11fpkx2d7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5409,7 +5454,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shubha+Dental+Clinic/@12.4978769,74.9866304,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48376578ae4e3:0x7a9095356121dcf7!8m2!3d12.4978769!4d74.9866304!16s%2Fg%2F11fpkx2d7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-designer-orthodontic-and-cosmetic-dental-clinic-kasaragod",
@@ -5460,7 +5506,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Designer+Orthodontic+and+Cosmetic+Dental+Clinic/@12.5064619,74.992902,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825d3dec20c7:0x2f5fec5d7ec2f54!8m2!3d12.5064619!4d74.992902!16s%2Fg%2F1hc14k0sv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Designer+Orthodontic+and+Cosmetic+Dental+Clinic/@12.5064619,74.992902,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825d3dec20c7:0x2f5fec5d7ec2f54!8m2!3d12.5064619!4d74.992902!16s%2Fg%2F1hc14k0sv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5526,10 +5572,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Designer+Orthodontic+and+Cosmetic+Dental+Clinic/@12.5064619,74.992902,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825d3dec20c7:0x2f5fec5d7ec2f54!8m2!3d12.5064619!4d74.992902!16s%2Fg%2F1hc14k0sv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spandana-ayurveda-center-kasaragod",
@@ -5577,7 +5624,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Spandana+Ayurveda+Center/@12.504305,74.9870864,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482689b4848a5:0x9a1df99fd3dfc5bd!8m2!3d12.504305!4d74.9870864!16s%2Fg%2F11hbc4q69w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spandana+Ayurveda+Center/@12.504305,74.9870864,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482689b4848a5:0x9a1df99fd3dfc5bd!8m2!3d12.504305!4d74.9870864!16s%2Fg%2F11hbc4q69w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5646,7 +5693,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spandana+Ayurveda+Center/@12.504305,74.9870864,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482689b4848a5:0x9a1df99fd3dfc5bd!8m2!3d12.504305!4d74.9870864!16s%2Fg%2F11hbc4q69w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sparsha-skin-and-kid-care-kasaragod",
@@ -5694,7 +5742,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Sparsha+Skin+%26+Kid+Care/@12.5074288,74.9898916,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48339f4b42647:0xf9f8d39eedb9e32!8m2!3d12.5074288!4d74.9898916!16s%2Fg%2F11g0hmc22n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsha+Skin+%26+Kid+Care/@12.5074288,74.9898916,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48339f4b42647:0xf9f8d39eedb9e32!8m2!3d12.5074288!4d74.9898916!16s%2Fg%2F11g0hmc22n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5760,10 +5808,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sparsha+Skin+%26+Kid+Care/@12.5074288,74.9898916,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48339f4b42647:0xf9f8d39eedb9e32!8m2!3d12.5074288!4d74.9898916!16s%2Fg%2F11g0hmc22n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sudarshanam-dental-care-kasaragod",
@@ -5812,7 +5861,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sudarshanam+Dental+Care/@12.5196681,74.9945453,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4830013a697cb:0xe6f60545471e6af5!8m2!3d12.5196681!4d74.9945453!16s%2Fg%2F11w_bypl7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudarshanam+Dental+Care/@12.5196681,74.9945453,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4830013a697cb:0xe6f60545471e6af5!8m2!3d12.5196681!4d74.9945453!16s%2Fg%2F11w_bypl7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5881,7 +5930,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sudarshanam+Dental+Care/@12.5196681,74.9945453,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4830013a697cb:0xe6f60545471e6af5!8m2!3d12.5196681!4d74.9945453!16s%2Fg%2F11w_bypl7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sunrise-hospital-kanhangad-kanhangad",
@@ -5930,7 +5980,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sunrise+Hospital,+Kanhangad/@12.332346,75.0953618,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba47c45588244b9:0xdd2eb963b7bc6b57!8m2!3d12.332346!4d75.0953618!16s%2Fg%2F1w6r6q9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunrise+Hospital,+Kanhangad/@12.332346,75.0953618,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba47c45588244b9:0xdd2eb963b7bc6b57!8m2!3d12.332346!4d75.0953618!16s%2Fg%2F1w6r6q9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5999,7 +6049,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunrise+Hospital,+Kanhangad/@12.332346,75.0953618,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba47c45588244b9:0xdd2eb963b7bc6b57!8m2!3d12.332346!4d75.0953618!16s%2Fg%2F1w6r6q9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swasthi-clinic-kasaragod",
@@ -6048,7 +6099,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Swasthi+Clinic/@12.5053318,74.98995,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48267eeddae7f:0xd748f20bf9092a65!8m2!3d12.5053318!4d74.98995!16s%2Fg%2F11dxbdl686?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swasthi+Clinic/@12.5053318,74.98995,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48267eeddae7f:0xd748f20bf9092a65!8m2!3d12.5053318!4d74.98995!16s%2Fg%2F11dxbdl686?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6117,7 +6168,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swasthi+Clinic/@12.5053318,74.98995,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48267eeddae7f:0xd748f20bf9092a65!8m2!3d12.5053318!4d74.98995!16s%2Fg%2F11dxbdl686?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-dental-garage-kasaragod",
@@ -6166,7 +6218,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Dental+Garage/@12.5033796,74.9936043,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483c1b8234e4b:0xf885788a280c4a44!8m2!3d12.5033796!4d74.9936043!16s%2Fg%2F11z0mq6xmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dental+Garage/@12.5033796,74.9936043,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483c1b8234e4b:0xf885788a280c4a44!8m2!3d12.5033796!4d74.9936043!16s%2Fg%2F11z0mq6xmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6232,10 +6284,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Dental+Garage/@12.5033796,74.9936043,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba483c1b8234e4b:0xf885788a280c4a44!8m2!3d12.5033796!4d74.9936043!16s%2Fg%2F11z0mq6xmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-dental-office-kasaragod",
@@ -6283,7 +6336,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/The+Dental+Office/@12.5054792,74.9881442,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48266329cc0b7:0xb55bb74c6994387e!8m2!3d12.5054792!4d74.9881442!16s%2Fg%2F1pp2v07xm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dental+Office/@12.5054792,74.9881442,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48266329cc0b7:0xb55bb74c6994387e!8m2!3d12.5054792!4d74.9881442!16s%2Fg%2F1pp2v07xm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6352,7 +6405,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Dental+Office/@12.5054792,74.9881442,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48266329cc0b7:0xb55bb74c6994387e!8m2!3d12.5054792!4d74.9881442!16s%2Fg%2F1pp2v07xm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-dental-tree-kasargod-kasaragod",
@@ -6400,7 +6454,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/The+Dental+Tree+Kasargod/data=!4m7!3m6!1s0x3ba4836ec8d8bb17:0xd4508012332b754c!8m2!3d12.5052367!4d74.9872559!16s%2Fg%2F11t0w1g4sq!19sChIJF7vYyG6DpDsRTHUrMxKAUNQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dental+Tree+Kasargod/data=!4m7!3m6!1s0x3ba4836ec8d8bb17:0xd4508012332b754c!8m2!3d12.5052367!4d74.9872559!16s%2Fg%2F11t0w1g4sq!19sChIJF7vYyG6DpDsRTHUrMxKAUNQ?authuser=0&hl=en&rclk=1"
@@ -6469,7 +6523,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Dental+Tree+Kasargod/data=!4m7!3m6!1s0x3ba4836ec8d8bb17:0xd4508012332b754c!8m2!3d12.5052367!4d74.9872559!16s%2Fg%2F11t0w1g4sq!19sChIJF7vYyG6DpDsRTHUrMxKAUNQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-kasaragod-district-co-operative-hospital-society-ltd-kumbla-kumbla-kumble",
@@ -6518,7 +6573,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Kasaragod+District+Co+operative+Hospital+Society+Ltd.+Kumbla/@12.5929522,74.9464341,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba3628de51f306b:0x7bfaa4b77e815ec3!8m2!3d12.5929522!4d74.9464341!16s%2Fg%2F11xkrw239?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Kasaragod+District+Co+operative+Hospital+Society+Ltd.+Kumbla/@12.5929522,74.9464341,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba3628de51f306b:0x7bfaa4b77e815ec3!8m2!3d12.5929522!4d74.9464341!16s%2Fg%2F11xkrw239?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6587,7 +6642,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Kasaragod+District+Co+operative+Hospital+Society+Ltd.+Kumbla/@12.5929522,74.9464341,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba3628de51f306b:0x7bfaa4b77e815ec3!8m2!3d12.5929522!4d74.9464341!16s%2Fg%2F11xkrw239?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tooth-x-dental-clinic-advanced-root-canal-centre-dr-hisham-ul-haq-kasaragod",
@@ -6635,7 +6691,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Tooth+X+Dental+Clinic+%7C+Advanced+Root+canal+centre+(Dr+Hisham+ul+Haq)/@12.5047342,74.9879781,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4833f0fe89d23:0x7c59dfbafabb11b8!8m2!3d12.5047342!4d74.9879781!16s%2Fg%2F11xgg4gddh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tooth+X+Dental+Clinic+%7C+Advanced+Root+canal+centre+(Dr+Hisham+ul+Haq)/@12.5047342,74.9879781,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4833f0fe89d23:0x7c59dfbafabb11b8!8m2!3d12.5047342!4d74.9879781!16s%2Fg%2F11xgg4gddh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6704,7 +6760,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tooth+X+Dental+Clinic+%7C+Advanced+Root+canal+centre+(Dr+Hisham+ul+Haq)/@12.5047342,74.9879781,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4833f0fe89d23:0x7c59dfbafabb11b8!8m2!3d12.5047342!4d74.9879781!16s%2Fg%2F11xgg4gddh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "trudent-orthodontic-and-dental-care-kasaragod",
@@ -6753,7 +6810,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/TruDent+-Orthodontic+and+Dental+Care/@12.5074172,74.9897901,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482679f9aaaab:0xfe6439d4602c94f3!8m2!3d12.5074172!4d74.9897901!16s%2Fg%2F11bw21pgrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TruDent+-Orthodontic+and+Dental+Care/@12.5074172,74.9897901,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482679f9aaaab:0xfe6439d4602c94f3!8m2!3d12.5074172!4d74.9897901!16s%2Fg%2F11bw21pgrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6822,7 +6879,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TruDent+-Orthodontic+and+Dental+Care/@12.5074172,74.9897901,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482679f9aaaab:0xfe6439d4602c94f3!8m2!3d12.5074172!4d74.9897901!16s%2Fg%2F11bw21pgrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "united-medical-centre-kasaragod",
@@ -6872,7 +6930,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/UNITED+MEDICAL+CENTRE/@12.509714,74.994703,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825c39e696dd:0xed77e25dd11c6c81!8m2!3d12.509714!4d74.994703!16s%2Fg%2F1263f9ct7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UNITED+MEDICAL+CENTRE/@12.509714,74.994703,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825c39e696dd:0xed77e25dd11c6c81!8m2!3d12.509714!4d74.994703!16s%2Fg%2F1263f9ct7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6941,7 +6999,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/UNITED+MEDICAL+CENTRE/@12.509714,74.994703,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825c39e696dd:0xed77e25dd11c6c81!8m2!3d12.509714!4d74.994703!16s%2Fg%2F1263f9ct7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "unity-dental-care-kasaragod",
@@ -6989,7 +7048,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Unity+dental+care/@12.5037832,74.9891909,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482686be2ca79:0xf1d4e2b00b9fccc4!8m2!3d12.5037832!4d74.9891909!16s%2Fg%2F11clhqnqcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unity+dental+care/@12.5037832,74.9891909,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482686be2ca79:0xf1d4e2b00b9fccc4!8m2!3d12.5037832!4d74.9891909!16s%2Fg%2F11clhqnqcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7055,10 +7114,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Unity+dental+care/@12.5037832,74.9891909,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba482686be2ca79:0xf1d4e2b00b9fccc4!8m2!3d12.5037832!4d74.9891909!16s%2Fg%2F11clhqnqcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "venus-womens-clinic-and-ivf-centre-kasaragod",
@@ -7109,7 +7169,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Venus+Womens+Clinic+%26+IVF+Centre/@12.5070108,74.9907742,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48388e0874505:0x6d879907f0862f6!8m2!3d12.5070108!4d74.9907742!16s%2Fg%2F11s4g6pjzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Venus+Womens+Clinic+%26+IVF+Centre/@12.5070108,74.9907742,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48388e0874505:0x6d879907f0862f6!8m2!3d12.5070108!4d74.9907742!16s%2Fg%2F11s4g6pjzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7178,7 +7238,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Venus+Womens+Clinic+%26+IVF+Centre/@12.5070108,74.9907742,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba48388e0874505:0x6d879907f0862f6!8m2!3d12.5070108!4d74.9907742!16s%2Fg%2F11s4g6pjzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "waedanta-dental-and-maxillofacial-surgery-kasaragod",
@@ -7227,7 +7288,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Waedanta+-+Dental+%26+Maxillofacial+Surgery/@12.5170381,75.0138803,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825550545b0d:0xd12114e39a19aaac!8m2!3d12.5170381!4d75.0138803!16s%2Fg%2F11bwkbxxyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Waedanta+-+Dental+%26+Maxillofacial+Surgery/@12.5170381,75.0138803,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825550545b0d:0xd12114e39a19aaac!8m2!3d12.5170381!4d75.0138803!16s%2Fg%2F11bwkbxxyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7296,6 +7357,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Waedanta+-+Dental+%26+Maxillofacial+Surgery/@12.5170381,75.0138803,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4825550545b0d:0xd12114e39a19aaac!8m2!3d12.5170381!4d75.0138803!16s%2Fg%2F11bwkbxxyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

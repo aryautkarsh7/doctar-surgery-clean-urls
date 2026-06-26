@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Aarogyam+Speciality+Hospital/data=!4m7!3m6!1s0x3bd3e8bbbe20052f:0xe263730e44b58646!8m2!3d20.3833759!4d78.1262597!16s%2Fg%2F11f2wlqzfb!19sChIJLwUgvrvo0zsRRoa1RA5zY-I?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogyam+Speciality+Hospital/data=!4m7!3m6!1s0x3bd3e8bbbe20052f:0xe263730e44b58646!8m2!3d20.3833759!4d78.1262597!16s%2Fg%2F11f2wlqzfb!19sChIJLwUgvrvo0zsRRoa1RA5zY-I?authuser=0&hl=en&rclk=1"
@@ -115,7 +115,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aarogyam+Speciality+Hospital/data=!4m7!3m6!1s0x3bd3e8bbbe20052f:0xe263730e44b58646!8m2!3d20.3833759!4d78.1262597!16s%2Fg%2F11f2wlqzfb!19sChIJLwUgvrvo0zsRRoa1RA5zY-I?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aas-dental-care-yavatmal",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/AAS+Dental+Care/data=!4m7!3m6!1s0x3bd3e8b90d1cf4d9:0x4e412b695adf8e86!8m2!3d20.3900616!4d78.1272029!16s%2Fg%2F11g8w_055y!19sChIJ2fQcDbno0zsRho7fWmkrQU4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AAS+Dental+Care/data=!4m7!3m6!1s0x3bd3e8b90d1cf4d9:0x4e412b695adf8e86!8m2!3d20.3900616!4d78.1272029!16s%2Fg%2F11g8w_055y!19sChIJ2fQcDbno0zsRho7fWmkrQU4?authuser=0&hl=en&rclk=1"
@@ -232,7 +233,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AAS+Dental+Care/data=!4m7!3m6!1s0x3bd3e8b90d1cf4d9:0x4e412b695adf8e86!8m2!3d20.3900616!4d78.1272029!16s%2Fg%2F11g8w_055y!19sChIJ2fQcDbno0zsRho7fWmkrQU4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "advanced-dental-care-and-implant-centre-yavatmal",
@@ -281,7 +283,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Advanced+Dental+Care+%26+Implant+Centre/data=!4m7!3m6!1s0x3bd3e8b44ec78ded:0x1d5defe3a1ef75ea!8m2!3d20.3934103!4d78.1296763!16s%2Fg%2F11c74yfx3y!19sChIJ7Y3HTrTo0zsR6nXvoePvXR0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Dental+Care+%26+Implant+Centre/data=!4m7!3m6!1s0x3bd3e8b44ec78ded:0x1d5defe3a1ef75ea!8m2!3d20.3934103!4d78.1296763!16s%2Fg%2F11c74yfx3y!19sChIJ7Y3HTrTo0zsR6nXvoePvXR0?authuser=0&hl=en&rclk=1"
@@ -350,7 +352,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advanced+Dental+Care+%26+Implant+Centre/data=!4m7!3m6!1s0x3bd3e8b44ec78ded:0x1d5defe3a1ef75ea!8m2!3d20.3934103!4d78.1296763!16s%2Fg%2F11c74yfx3y!19sChIJ7Y3HTrTo0zsR6nXvoePvXR0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "al-habib-hospital-yavatmal",
@@ -398,7 +401,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Al+Habib+Hospital/data=!4m7!3m6!1s0x3bd3e9f40f058983:0x5d48546eaebc06d0!8m2!3d20.3865028!4d78.1398674!16s%2Fg%2F11t9b5jbxd!19sChIJg4kFD_Tp0zsR0Aa8rm5USF0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Al+Habib+Hospital/data=!4m7!3m6!1s0x3bd3e9f40f058983:0x5d48546eaebc06d0!8m2!3d20.3865028!4d78.1398674!16s%2Fg%2F11t9b5jbxd!19sChIJg4kFD_Tp0zsR0Aa8rm5USF0?authuser=0&hl=en&rclk=1"
@@ -467,7 +470,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Al+Habib+Hospital/data=!4m7!3m6!1s0x3bd3e9f40f058983:0x5d48546eaebc06d0!8m2!3d20.3865028!4d78.1398674!16s%2Fg%2F11t9b5jbxd!19sChIJg4kFD_Tp0zsR0Aa8rm5USF0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "amit-hospital-yavatmal",
@@ -515,7 +519,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Amit+Hospital/data=!4m7!3m6!1s0x3bd3e9a0a89dd4d3:0xd94fe93c60159332!8m2!3d20.3838168!4d78.123598!16s%2Fg%2F11ghtr8l7l!19sChIJ09SdqKDp0zsRMpMVYDzpT9k?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amit+Hospital/data=!4m7!3m6!1s0x3bd3e9a0a89dd4d3:0xd94fe93c60159332!8m2!3d20.3838168!4d78.123598!16s%2Fg%2F11ghtr8l7l!19sChIJ09SdqKDp0zsRMpMVYDzpT9k?authuser=0&hl=en&rclk=1"
@@ -581,10 +585,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amit+Hospital/data=!4m7!3m6!1s0x3bd3e9a0a89dd4d3:0xd94fe93c60159332!8m2!3d20.3838168!4d78.123598!16s%2Fg%2F11ghtr8l7l!19sChIJ09SdqKDp0zsRMpMVYDzpT9k?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "avani-ent-and-cancer-clinic-rathod-hospital-bapat-chowk",
@@ -633,7 +638,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Avani+ENT+and+Cancer+clinic/data=!4m7!3m6!1s0x3bd3e9e1e3c2afb3:0xf504ddcce39933a9!8m2!3d20.3843217!4d78.1286561!16s%2Fg%2F11qrkv4nkn!19sChIJs6_C4-Hp0zsRqTOZ48zdBPU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avani+ENT+and+Cancer+clinic/data=!4m7!3m6!1s0x3bd3e9e1e3c2afb3:0xf504ddcce39933a9!8m2!3d20.3843217!4d78.1286561!16s%2Fg%2F11qrkv4nkn!19sChIJs6_C4-Hp0zsRqTOZ48zdBPU?authuser=0&hl=en&rclk=1"
@@ -699,10 +704,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Avani+ENT+and+Cancer+clinic/data=!4m7!3m6!1s0x3bd3e9e1e3c2afb3:0xf504ddcce39933a9!8m2!3d20.3843217!4d78.1286561!16s%2Fg%2F11qrkv4nkn!19sChIJs6_C4-Hp0zsRqTOZ48zdBPU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ayuderma-skin-and-hair-clinic-yavatmal",
@@ -750,7 +756,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ayuderma+skin+%26+Hair+clinic/data=!4m7!3m6!1s0x3bd3ef53bca92309:0xd4756e99803c0465!8m2!3d20.4208046!4d78.1413385!16s%2Fg%2F11n536f72k!19sChIJCSOpvFPv0zsRZQQ8gJluddQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayuderma+skin+%26+Hair+clinic/data=!4m7!3m6!1s0x3bd3ef53bca92309:0xd4756e99803c0465!8m2!3d20.4208046!4d78.1413385!16s%2Fg%2F11n536f72k!19sChIJCSOpvFPv0zsRZQQ8gJluddQ?authuser=0&hl=en&rclk=1"
@@ -816,10 +822,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayuderma+skin+%26+Hair+clinic/data=!4m7!3m6!1s0x3bd3ef53bca92309:0xd4756e99803c0465!8m2!3d20.4208046!4d78.1413385!16s%2Fg%2F11n536f72k!19sChIJCSOpvFPv0zsRZQQ8gJluddQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ayurveda-liver-clinic-opposite-to-bajoriya-pathology-labortary-datta-chowk",
@@ -868,7 +875,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/AYURVEDA+LIVER+CLINIC/data=!4m7!3m6!1s0x3bd3e9779d16ed9d:0xd89bcfb0c4e861a3!8m2!3d20.3865796!4d78.1280744!16s%2Fg%2F11fky5tnz1!19sChIJne0WnXfp0zsRo2HoxLDPm9g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AYURVEDA+LIVER+CLINIC/data=!4m7!3m6!1s0x3bd3e9779d16ed9d:0xd89bcfb0c4e861a3!8m2!3d20.3865796!4d78.1280744!16s%2Fg%2F11fky5tnz1!19sChIJne0WnXfp0zsRo2HoxLDPm9g?authuser=0&hl=en&rclk=1"
@@ -934,10 +941,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AYURVEDA+LIVER+CLINIC/data=!4m7!3m6!1s0x3bd3e9779d16ed9d:0xd89bcfb0c4e861a3!8m2!3d20.3865796!4d78.1280744!16s%2Fg%2F11fky5tnz1!19sChIJne0WnXfp0zsRo2HoxLDPm9g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "belsare-hospital-yavatmal",
@@ -985,7 +993,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Belsare+Hospital/@20.3850348,78.1223494,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd3e8bad31b0cfd:0xd380aa5e839ca70c!8m2!3d20.3850348!4d78.1223494!16s%2Fg%2F11dfjydkv0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Belsare+Hospital/@20.3850348,78.1223494,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd3e8bad31b0cfd:0xd380aa5e839ca70c!8m2!3d20.3850348!4d78.1223494!16s%2Fg%2F11dfjydkv0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1054,7 +1062,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Belsare+Hospital/@20.3850348,78.1223494,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd3e8bad31b0cfd:0xd380aa5e839ca70c!8m2!3d20.3850348!4d78.1223494!16s%2Fg%2F11dfjydkv0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhagwati-diabetes-and-thyroid-care-center-yavatmal",
@@ -1103,7 +1112,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Bhagwati+Diabetes+And+Thyroid+Care+Center/data=!4m7!3m6!1s0x3bd3e8bb29f3b435:0x84cf29137e7653bb!8m2!3d20.3842552!4d78.1260461!16s%2Fg%2F11dyltcr2j!19sChIJNbTzKbvo0zsRu1N2fhMpz4Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagwati+Diabetes+And+Thyroid+Care+Center/data=!4m7!3m6!1s0x3bd3e8bb29f3b435:0x84cf29137e7653bb!8m2!3d20.3842552!4d78.1260461!16s%2Fg%2F11dyltcr2j!19sChIJNbTzKbvo0zsRu1N2fhMpz4Q?authuser=0&hl=en&rclk=1"
@@ -1172,7 +1181,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhagwati+Diabetes+And+Thyroid+Care+Center/data=!4m7!3m6!1s0x3bd3e8bb29f3b435:0x84cf29137e7653bb!8m2!3d20.3842552!4d78.1260461!16s%2Fg%2F11dyltcr2j!19sChIJNbTzKbvo0zsRu1N2fhMpz4Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bombaywala-eye-and-dental-care-opp-s-t-work-shop",
@@ -1221,7 +1231,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Bombaywala+Eye+%26+Dental+Care/@20.3854561,78.1250145,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd3e8a37f934b0f:0x3b3143e73c562057!8m2!3d20.3854561!4d78.1250145!16s%2Fg%2F11g6mlb09y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bombaywala+Eye+%26+Dental+Care/@20.3854561,78.1250145,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd3e8a37f934b0f:0x3b3143e73c562057!8m2!3d20.3854561!4d78.1250145!16s%2Fg%2F11g6mlb09y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1287,10 +1297,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bombaywala+Eye+%26+Dental+Care/@20.3854561,78.1250145,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd3e8a37f934b0f:0x3b3143e73c562057!8m2!3d20.3854561!4d78.1250145!16s%2Fg%2F11g6mlb09y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "centre-for-surgical-exalance-and-ivf-maternity-care-yavatmal",
@@ -1339,7 +1350,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Centre+For+Surgical+Exalance+%26+IVF+Maternity+Care/data=!4m7!3m6!1s0x3bd3e70062dd1969:0x1aa245b1a3c49d90!8m2!3d20.3659046!4d78.0990024!16s%2Fg%2F11yq5kqfwt!19sChIJaRndYgDn0zsRkJ3Eo7FFoho?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Centre+For+Surgical+Exalance+%26+IVF+Maternity+Care/data=!4m7!3m6!1s0x3bd3e70062dd1969:0x1aa245b1a3c49d90!8m2!3d20.3659046!4d78.0990024!16s%2Fg%2F11yq5kqfwt!19sChIJaRndYgDn0zsRkJ3Eo7FFoho?authuser=0&hl=en&rclk=1"
@@ -1405,10 +1416,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Centre+For+Surgical+Exalance+%26+IVF+Maternity+Care/data=!4m7!3m6!1s0x3bd3e70062dd1969:0x1aa245b1a3c49d90!8m2!3d20.3659046!4d78.0990024!16s%2Fg%2F11yq5kqfwt!19sChIJaRndYgDn0zsRkJ3Eo7FFoho?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chavan-hospital-yavatmal",
@@ -1456,7 +1468,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Chavan+hospital/data=!4m7!3m6!1s0x3bd3e8b97770945b:0x23d92becc4c93519!8m2!3d20.3846527!4d78.1288842!16s%2Fg%2F11gcx_t8mr!19sChIJW5Rwd7no0zsRGTXJxOwr2SM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chavan+hospital/data=!4m7!3m6!1s0x3bd3e8b97770945b:0x23d92becc4c93519!8m2!3d20.3846527!4d78.1288842!16s%2Fg%2F11gcx_t8mr!19sChIJW5Rwd7no0zsRGTXJxOwr2SM?authuser=0&hl=en&rclk=1"
@@ -1525,7 +1537,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chavan+hospital/data=!4m7!3m6!1s0x3bd3e8b97770945b:0x23d92becc4c93519!8m2!3d20.3846527!4d78.1288842!16s%2Fg%2F11gcx_t8mr!19sChIJW5Rwd7no0zsRGTXJxOwr2SM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chintamani-dental-clinic-yavatmal",
@@ -1575,7 +1588,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chintamani+Dental+clinic/data=!4m7!3m6!1s0x3bd3e8b456ac4767:0x23e19b51993f7f76!8m2!3d20.3985569!4d78.1322773!16s%2Fg%2F11gcmnmyfd!19sChIJZ0esVrTo0zsRdn8_mVGb4SM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chintamani+Dental+clinic/data=!4m7!3m6!1s0x3bd3e8b456ac4767:0x23e19b51993f7f76!8m2!3d20.3985569!4d78.1322773!16s%2Fg%2F11gcmnmyfd!19sChIJZ0esVrTo0zsRdn8_mVGb4SM?authuser=0&hl=en&rclk=1"
@@ -1641,10 +1654,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chintamani+Dental+clinic/data=!4m7!3m6!1s0x3bd3e8b456ac4767:0x23e19b51993f7f76!8m2!3d20.3985569!4d78.1322773!16s%2Fg%2F11gcmnmyfd!19sChIJZ0esVrTo0zsRdn8_mVGb4SM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dermaplus-skin-hair-and-laser-clinic-yavatmal",
@@ -1693,7 +1707,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DERMAPLUS+SKIN,+HAIR+AND+LASER+CLINIC/data=!4m7!3m6!1s0x3bd3e97e9bd6b9ad:0xb2c612e91d06092f!8m2!3d20.3832954!4d78.1262315!16s%2Fg%2F11rsl7y9hg!19sChIJrbnWm37p0zsRLwkGHekSxrI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DERMAPLUS+SKIN,+HAIR+AND+LASER+CLINIC/data=!4m7!3m6!1s0x3bd3e97e9bd6b9ad:0xb2c612e91d06092f!8m2!3d20.3832954!4d78.1262315!16s%2Fg%2F11rsl7y9hg!19sChIJrbnWm37p0zsRLwkGHekSxrI?authuser=0&hl=en&rclk=1"
@@ -1762,7 +1776,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DERMAPLUS+SKIN,+HAIR+AND+LASER+CLINIC/data=!4m7!3m6!1s0x3bd3e97e9bd6b9ad:0xb2c612e91d06092f!8m2!3d20.3832954!4d78.1262315!16s%2Fg%2F11rsl7y9hg!19sChIJrbnWm37p0zsRLwkGHekSxrI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gawarle-hospita-yavatmal",
@@ -1810,7 +1825,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/GAWARLE+HOSPITA/data=!4m7!3m6!1s0x3bd3e6223fffffff:0x43100c5defcb0082!8m2!3d20.3729508!4d78.1037165!16s%2Fg%2F11kt236ghv!19sChIJ____PyLm0zsRggDL710MEEM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GAWARLE+HOSPITA/data=!4m7!3m6!1s0x3bd3e6223fffffff:0x43100c5defcb0082!8m2!3d20.3729508!4d78.1037165!16s%2Fg%2F11kt236ghv!19sChIJ____PyLm0zsRggDL710MEEM?authuser=0&hl=en&rclk=1"
@@ -1876,10 +1891,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GAWARLE+HOSPITA/data=!4m7!3m6!1s0x3bd3e6223fffffff:0x43100c5defcb0082!8m2!3d20.3729508!4d78.1037165!16s%2Fg%2F11kt236ghv!19sChIJ____PyLm0zsRggDL710MEEM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gawarle-piles-hospital-yavatmal",
@@ -1927,7 +1943,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Gawarle+Piles+Hospital/data=!4m7!3m6!1s0x3bd3e91a6e773ed1:0x5fb4b0b39e59fddd!8m2!3d20.3820765!4d78.113214!16s%2Fg%2F11h4qbcfd0!19sChIJ0T53bhrp0zsR3f1ZnrOwtF8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gawarle+Piles+Hospital/data=!4m7!3m6!1s0x3bd3e91a6e773ed1:0x5fb4b0b39e59fddd!8m2!3d20.3820765!4d78.113214!16s%2Fg%2F11h4qbcfd0!19sChIJ0T53bhrp0zsR3f1ZnrOwtF8?authuser=0&hl=en&rclk=1"
@@ -1996,7 +2012,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gawarle+Piles+Hospital/data=!4m7!3m6!1s0x3bd3e91a6e773ed1:0x5fb4b0b39e59fddd!8m2!3d20.3820765!4d78.113214!16s%2Fg%2F11h4qbcfd0!19sChIJ0T53bhrp0zsR3f1ZnrOwtF8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gayatri-medical-yavatmal-yavatmal",
@@ -2045,7 +2062,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gayatri+medical+Yavatmal/data=!4m7!3m6!1s0x3bd3e91b6bc259c9:0x1bf09c34ca51841e!8m2!3d20.3820484!4d78.1187146!16s%2Fg%2F11vsxym7bj!19sChIJyVnCaxvp0zsRHoRRyjSc8Bs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayatri+medical+Yavatmal/data=!4m7!3m6!1s0x3bd3e91b6bc259c9:0x1bf09c34ca51841e!8m2!3d20.3820484!4d78.1187146!16s%2Fg%2F11vsxym7bj!19sChIJyVnCaxvp0zsRHoRRyjSc8Bs?authuser=0&hl=en&rclk=1"
@@ -2111,10 +2128,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gayatri+medical+Yavatmal/data=!4m7!3m6!1s0x3bd3e91b6bc259c9:0x1bf09c34ca51841e!8m2!3d20.3820484!4d78.1187146!16s%2Fg%2F11vsxym7bj!19sChIJyVnCaxvp0zsRHoRRyjSc8Bs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gupta-hospital-yavatmal",
@@ -2162,7 +2180,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Gupta+hospital/data=!4m7!3m6!1s0x3bd3e8b9577e2a7f:0xa934f1317ea835d1!8m2!3d20.3824654!4d78.1283883!16s%2Fg%2F11c2ns250p!19sChIJfyp-V7no0zsR0TWofjHxNKk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+hospital/data=!4m7!3m6!1s0x3bd3e8b9577e2a7f:0xa934f1317ea835d1!8m2!3d20.3824654!4d78.1283883!16s%2Fg%2F11c2ns250p!19sChIJfyp-V7no0zsR0TWofjHxNKk?authuser=0&hl=en&rclk=1"
@@ -2231,7 +2249,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gupta+hospital/data=!4m7!3m6!1s0x3bd3e8b9577e2a7f:0xa934f1317ea835d1!8m2!3d20.3824654!4d78.1283883!16s%2Fg%2F11c2ns250p!19sChIJfyp-V7no0zsR0TWofjHxNKk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "haji-dental-clinic-yavatmal-yavatmal",
@@ -2280,7 +2299,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Haji+Dental+Clinic+Yavatmal/data=!4m7!3m6!1s0x3bd3e9229e123b73:0x469c1e450c635b83!8m2!3d20.3908789!4d78.139799!16s%2Fg%2F11yp0zrd3h!19sChIJczsSniLp0zsRg1tjDEUenEY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Haji+Dental+Clinic+Yavatmal/data=!4m7!3m6!1s0x3bd3e9229e123b73:0x469c1e450c635b83!8m2!3d20.3908789!4d78.139799!16s%2Fg%2F11yp0zrd3h!19sChIJczsSniLp0zsRg1tjDEUenEY?authuser=0&hl=en&rclk=1"
@@ -2346,10 +2365,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Haji+Dental+Clinic+Yavatmal/data=!4m7!3m6!1s0x3bd3e9229e123b73:0x469c1e450c635b83!8m2!3d20.3908789!4d78.139799!16s%2Fg%2F11yp0zrd3h!19sChIJczsSniLp0zsRg1tjDEUenEY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "herbal-obesity-and-panchakarma-clinic-yavatmal",
@@ -2395,7 +2415,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Herbal+obesity+and+panchakarma+clinic/data=!4m7!3m6!1s0x3bd3e9c6d302b747:0xd1c0676e889fe7f3!8m2!3d20.3869506!4d78.1312186!16s%2Fg%2F11j934jd6y!19sChIJR7cC08bp0zsR8-efiG5nwNE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Herbal+obesity+and+panchakarma+clinic/data=!4m7!3m6!1s0x3bd3e9c6d302b747:0xd1c0676e889fe7f3!8m2!3d20.3869506!4d78.1312186!16s%2Fg%2F11j934jd6y!19sChIJR7cC08bp0zsR8-efiG5nwNE?authuser=0&hl=en&rclk=1"
@@ -2461,10 +2481,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Herbal+obesity+and+panchakarma+clinic/data=!4m7!3m6!1s0x3bd3e9c6d302b747:0xd1c0676e889fe7f3!8m2!3d20.3869506!4d78.1312186!16s%2Fg%2F11j934jd6y!19sChIJR7cC08bp0zsR8-efiG5nwNE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kabra-sonography-clinic-yavatmal",
@@ -2512,7 +2533,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Kabra+Sonography+Clinic/data=!4m7!3m6!1s0x3bd3e8b90a28de3d:0x3a031bb5432f9378!8m2!3d20.3845738!4d78.1296365!16s%2Fg%2F11c0pjn_dj!19sChIJPd4oCrno0zsReJMvQ7UbAzo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kabra+Sonography+Clinic/data=!4m7!3m6!1s0x3bd3e8b90a28de3d:0x3a031bb5432f9378!8m2!3d20.3845738!4d78.1296365!16s%2Fg%2F11c0pjn_dj!19sChIJPd4oCrno0zsReJMvQ7UbAzo?authuser=0&hl=en&rclk=1"
@@ -2581,7 +2602,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kabra+Sonography+Clinic/data=!4m7!3m6!1s0x3bd3e8b90a28de3d:0x3a031bb5432f9378!8m2!3d20.3845738!4d78.1296365!16s%2Fg%2F11c0pjn_dj!19sChIJPd4oCrno0zsReJMvQ7UbAzo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kothari-hospital-yavatmal",
@@ -2629,7 +2651,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Kothari+Hospital/data=!4m7!3m6!1s0x3bd3e8b82b7d1747:0x90228d3a5be9de5d!8m2!3d20.3876601!4d78.1309274!16s%2Fg%2F11ckx6sd7s!19sChIJRxd9K7jo0zsRXd7pWzqNIpA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kothari+Hospital/data=!4m7!3m6!1s0x3bd3e8b82b7d1747:0x90228d3a5be9de5d!8m2!3d20.3876601!4d78.1309274!16s%2Fg%2F11ckx6sd7s!19sChIJRxd9K7jo0zsRXd7pWzqNIpA?authuser=0&hl=en&rclk=1"
@@ -2698,7 +2720,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kothari+Hospital/data=!4m7!3m6!1s0x3bd3e8b82b7d1747:0x90228d3a5be9de5d!8m2!3d20.3876601!4d78.1309274!16s%2Fg%2F11ckx6sd7s!19sChIJRxd9K7jo0zsRXd7pWzqNIpA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lachake-hospital-brain-and-spine-maternity-and-infertility-laparoscopy-centre-yavatmal",
@@ -2749,7 +2772,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lachake+Hospital+Brain+%26+Spine,+Maternity+%26+Infertility+,+Laparoscopy+Centre/data=!4m7!3m6!1s0x3bd3e97e5cf63cc1:0x616027e48319f04d!8m2!3d20.3850629!4d78.1276594!16s%2Fg%2F11zk1mb24b!19sChIJwTz2XH7p0zsRTfAZg-QnYGE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lachake+Hospital+Brain+%26+Spine,+Maternity+%26+Infertility+,+Laparoscopy+Centre/data=!4m7!3m6!1s0x3bd3e97e5cf63cc1:0x616027e48319f04d!8m2!3d20.3850629!4d78.1276594!16s%2Fg%2F11zk1mb24b!19sChIJwTz2XH7p0zsRTfAZg-QnYGE?authuser=0&hl=en&rclk=1"
@@ -2815,10 +2838,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lachake+Hospital+Brain+%26+Spine,+Maternity+%26+Infertility+,+Laparoscopy+Centre/data=!4m7!3m6!1s0x3bd3e97e5cf63cc1:0x616027e48319f04d!8m2!3d20.3850629!4d78.1276594!16s%2Fg%2F11zk1mb24b!19sChIJwTz2XH7p0zsRTfAZg-QnYGE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "madhavbaug-clinic-yawatmal-yavatmal",
@@ -2867,7 +2891,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Madhavbaug+Clinic+-+Yawatmal/data=!4m7!3m6!1s0x3bd3e8a0d1f12189:0x3f4af2b48fd6af77!8m2!3d20.3834653!4d78.1323632!16s%2Fg%2F1hf0wm1sj!19sChIJiSHx0aDo0zsRd6_Wj7TySj8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+Clinic+-+Yawatmal/data=!4m7!3m6!1s0x3bd3e8a0d1f12189:0x3f4af2b48fd6af77!8m2!3d20.3834653!4d78.1323632!16s%2Fg%2F1hf0wm1sj!19sChIJiSHx0aDo0zsRd6_Wj7TySj8?authuser=0&hl=en&rclk=1"
@@ -2936,7 +2960,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+Clinic+-+Yawatmal/data=!4m7!3m6!1s0x3bd3e8a0d1f12189:0x3f4af2b48fd6af77!8m2!3d20.3834653!4d78.1323632!16s%2Fg%2F1hf0wm1sj!19sChIJiSHx0aDo0zsRd6_Wj7TySj8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mane-hospital-yavatmal",
@@ -2984,7 +3009,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/MANE+HOSPITAL/data=!4m7!3m6!1s0x3bd3e8b9f126af8d:0x6bce558853d1ac0!8m2!3d20.386773!4d78.128149!16s%2Fg%2F11fx_0q68w!19sChIJja8m8bno0zsRwBo9hVjlvAY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MANE+HOSPITAL/data=!4m7!3m6!1s0x3bd3e8b9f126af8d:0x6bce558853d1ac0!8m2!3d20.386773!4d78.128149!16s%2Fg%2F11fx_0q68w!19sChIJja8m8bno0zsRwBo9hVjlvAY?authuser=0&hl=en&rclk=1"
@@ -3053,7 +3078,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MANE+HOSPITAL/data=!4m7!3m6!1s0x3bd3e8b9f126af8d:0x6bce558853d1ac0!8m2!3d20.386773!4d78.128149!16s%2Fg%2F11fx_0q68w!19sChIJja8m8bno0zsRwBo9hVjlvAY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mauli-hospital-and-dental-implant-centre-yavatmal",
@@ -3103,7 +3129,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mauli+Hospital+%26+Dental+Implant+Centre/data=!4m7!3m6!1s0x3bd3e93610cec883:0xa0ca84e4c9038a32!8m2!3d20.3786418!4d78.1133993!16s%2Fg%2F11fmg9rv4c!19sChIJg8jOEDbp0zsRMooDyeSEyqA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mauli+Hospital+%26+Dental+Implant+Centre/data=!4m7!3m6!1s0x3bd3e93610cec883:0xa0ca84e4c9038a32!8m2!3d20.3786418!4d78.1133993!16s%2Fg%2F11fmg9rv4c!19sChIJg8jOEDbp0zsRMooDyeSEyqA?authuser=0&hl=en&rclk=1"
@@ -3172,7 +3198,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mauli+Hospital+%26+Dental+Implant+Centre/data=!4m7!3m6!1s0x3bd3e93610cec883:0xa0ca84e4c9038a32!8m2!3d20.3786418!4d78.1133993!16s%2Fg%2F11fmg9rv4c!19sChIJg8jOEDbp0zsRMooDyeSEyqA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "om-face-and-dental-clinic-yavatmal",
@@ -3220,7 +3247,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Om+Face+%26+Dental+Clinic/data=!4m7!3m6!1s0x3bd3e7232181ca93:0x417de3f697c5976d!8m2!3d20.3909501!4d78.109796!16s%2Fg%2F11r3vskzj8!19sChIJk8qBISPn0zsRbZfFl_bjfUE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Face+%26+Dental+Clinic/data=!4m7!3m6!1s0x3bd3e7232181ca93:0x417de3f697c5976d!8m2!3d20.3909501!4d78.109796!16s%2Fg%2F11r3vskzj8!19sChIJk8qBISPn0zsRbZfFl_bjfUE?authuser=0&hl=en&rclk=1"
@@ -3286,10 +3313,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Om+Face+%26+Dental+Clinic/data=!4m7!3m6!1s0x3bd3e7232181ca93:0x417de3f697c5976d!8m2!3d20.3909501!4d78.109796!16s%2Fg%2F11r3vskzj8!19sChIJk8qBISPn0zsRbZfFl_bjfUE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "parasnath-speciality-clinics-knee-and-spine-clinic-in-yavatmal-yavatmal",
@@ -3340,7 +3368,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Parasnath+Speciality+Clinics+%7C+Knee+and+Spine+Clinic+in+Yavatmal/data=!4m7!3m6!1s0x3bd3e97736d6a5e7:0x175fcec53b3c09c9!8m2!3d20.3833537!4d78.1316909!16s%2Fg%2F11xg8vw3ln!19sChIJ56XWNnfp0zsRyQk8O8XOXxc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parasnath+Speciality+Clinics+%7C+Knee+and+Spine+Clinic+in+Yavatmal/data=!4m7!3m6!1s0x3bd3e97736d6a5e7:0x175fcec53b3c09c9!8m2!3d20.3833537!4d78.1316909!16s%2Fg%2F11xg8vw3ln!19sChIJ56XWNnfp0zsRyQk8O8XOXxc?authuser=0&hl=en&rclk=1"
@@ -3409,7 +3437,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parasnath+Speciality+Clinics+%7C+Knee+and+Spine+Clinic+in+Yavatmal/data=!4m7!3m6!1s0x3bd3e97736d6a5e7:0x175fcec53b3c09c9!8m2!3d20.3833537!4d78.1316909!16s%2Fg%2F11xg8vw3ln!19sChIJ56XWNnfp0zsRyQk8O8XOXxc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "patil-clinic-skin-specialist-yavatmal",
@@ -3457,7 +3486,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Patil+Clinic+Skin+Specialist/data=!4m7!3m6!1s0x3bd3e8b98d95d6d5:0x6bd56ba169645a29!8m2!3d20.3865503!4d78.1280725!16s%2Fg%2F11f2s990v5!19sChIJ1daVjbno0zsRKVpkaaFr1Ws?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patil+Clinic+Skin+Specialist/data=!4m7!3m6!1s0x3bd3e8b98d95d6d5:0x6bd56ba169645a29!8m2!3d20.3865503!4d78.1280725!16s%2Fg%2F11f2s990v5!19sChIJ1daVjbno0zsRKVpkaaFr1Ws?authuser=0&hl=en&rclk=1"
@@ -3523,10 +3552,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patil+Clinic+Skin+Specialist/data=!4m7!3m6!1s0x3bd3e8b98d95d6d5:0x6bd56ba169645a29!8m2!3d20.3865503!4d78.1280725!16s%2Fg%2F11f2s990v5!19sChIJ1daVjbno0zsRKVpkaaFr1Ws?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "phadke-hospital-yavatmal",
@@ -3574,7 +3604,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Phadke+Hospital/data=!4m7!3m6!1s0x3bd3e8ba2d66ef6b:0x770229b585729aea!8m2!3d20.3849102!4d78.1274185!16s%2Fg%2F1hc1s13jx!19sChIJa-9mLbro0zsR6ppyhbUpAnc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Phadke+Hospital/data=!4m7!3m6!1s0x3bd3e8ba2d66ef6b:0x770229b585729aea!8m2!3d20.3849102!4d78.1274185!16s%2Fg%2F1hc1s13jx!19sChIJa-9mLbro0zsR6ppyhbUpAnc?authuser=0&hl=en&rclk=1"
@@ -3643,7 +3673,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Phadke+Hospital/data=!4m7!3m6!1s0x3bd3e8ba2d66ef6b:0x770229b585729aea!8m2!3d20.3849102!4d78.1274185!16s%2Fg%2F1hc1s13jx!19sChIJa-9mLbro0zsR6ppyhbUpAnc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "priti-maternity-and-surgical-hospital-best-maternity-hospital-in-yavatmal-best-sonography-center-yavatmal",
@@ -3691,7 +3722,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Priti+Maternity+and+Surgical+Hospital+-+Best+Maternity+Hospital+In+Yavatmal+%7C+Best+Sonography+Center/data=!4m7!3m6!1s0x3bd3e9e9c6f98879:0x33a7b6710fdc9873!8m2!3d20.3852021!4d78.1270142!16s%2Fg%2F11kl2rfdfd!19sChIJeYj5xunp0zsRc5jcD3G2pzM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Priti+Maternity+and+Surgical+Hospital+-+Best+Maternity+Hospital+In+Yavatmal+%7C+Best+Sonography+Center/data=!4m7!3m6!1s0x3bd3e9e9c6f98879:0x33a7b6710fdc9873!8m2!3d20.3852021!4d78.1270142!16s%2Fg%2F11kl2rfdfd!19sChIJeYj5xunp0zsRc5jcD3G2pzM?authuser=0&hl=en&rclk=1"
@@ -3757,10 +3788,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Priti+Maternity+and+Surgical+Hospital+-+Best+Maternity+Hospital+In+Yavatmal+%7C+Best+Sonography+Center/data=!4m7!3m6!1s0x3bd3e9e9c6f98879:0x33a7b6710fdc9873!8m2!3d20.3852021!4d78.1270142!16s%2Fg%2F11kl2rfdfd!19sChIJeYj5xunp0zsRc5jcD3G2pzM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "radhakrishna-heart-and-criticare-hospital-yavatmal",
@@ -3809,7 +3841,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Radhakrishna+heart+and+criticare+hospital/@20.3854521,78.1253125,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd3e9314bf70f4b:0x81fe399bbb5d647d!8m2!3d20.3854521!4d78.1253125!16s%2Fg%2F11y_xrqwbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radhakrishna+heart+and+criticare+hospital/@20.3854521,78.1253125,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd3e9314bf70f4b:0x81fe399bbb5d647d!8m2!3d20.3854521!4d78.1253125!16s%2Fg%2F11y_xrqwbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3875,10 +3907,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radhakrishna+heart+and+criticare+hospital/@20.3854521,78.1253125,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd3e9314bf70f4b:0x81fe399bbb5d647d!8m2!3d20.3854521!4d78.1253125!16s%2Fg%2F11y_xrqwbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ranade-hospital-and-ashwini-nursing-home-yavatmal",
@@ -3926,7 +3959,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Ranade+Hospital+and+Ashwini+Nursing+home/data=!4m7!3m6!1s0x3bd3e8b41d0001bb:0xbb2517b67441331a!8m2!3d20.3961077!4d78.1304444!16s%2Fg%2F11dxhdk3zz!19sChIJuwEAHbTo0zsRGjNBdLYXJbs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ranade+Hospital+and+Ashwini+Nursing+home/data=!4m7!3m6!1s0x3bd3e8b41d0001bb:0xbb2517b67441331a!8m2!3d20.3961077!4d78.1304444!16s%2Fg%2F11dxhdk3zz!19sChIJuwEAHbTo0zsRGjNBdLYXJbs?authuser=0&hl=en&rclk=1"
@@ -3995,7 +4028,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ranade+Hospital+and+Ashwini+Nursing+home/data=!4m7!3m6!1s0x3bd3e8b41d0001bb:0xbb2517b67441331a!8m2!3d20.3961077!4d78.1304444!16s%2Fg%2F11dxhdk3zz!19sChIJuwEAHbTo0zsRGjNBdLYXJbs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sadhana-dental-care-and-implant-centre-yavatmal",
@@ -4043,7 +4077,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sadhana+Dental+Care+and+Implant+centre/data=!4m7!3m6!1s0x3bd3e98bbbe2a8e7:0x3331be19c0b67cea!8m2!3d20.389625!4d78.1358474!16s%2Fg%2F11sd_rf_2f!19sChIJ56jiu4vp0zsR6ny2wBm-MTM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadhana+Dental+Care+and+Implant+centre/data=!4m7!3m6!1s0x3bd3e98bbbe2a8e7:0x3331be19c0b67cea!8m2!3d20.389625!4d78.1358474!16s%2Fg%2F11sd_rf_2f!19sChIJ56jiu4vp0zsR6ny2wBm-MTM?authuser=0&hl=en&rclk=1"
@@ -4112,7 +4146,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sadhana+Dental+Care+and+Implant+centre/data=!4m7!3m6!1s0x3bd3e98bbbe2a8e7:0x3331be19c0b67cea!8m2!3d20.389625!4d78.1358474!16s%2Fg%2F11sd_rf_2f!19sChIJ56jiu4vp0zsR6ny2wBm-MTM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sanjivan-diabetic-foot-clinic-yavatmal",
@@ -4160,7 +4195,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/sanjivan+diabetic+foot+clinic/data=!4m7!3m6!1s0x3bd3e8b68d5354a9:0xf19389bf0c251cd0!8m2!3d20.3923519!4d78.1301201!16s%2Fg%2F11gg9c7777!19sChIJqVRTjbbo0zsR0BwlDL-Jk_E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/sanjivan+diabetic+foot+clinic/data=!4m7!3m6!1s0x3bd3e8b68d5354a9:0xf19389bf0c251cd0!8m2!3d20.3923519!4d78.1301201!16s%2Fg%2F11gg9c7777!19sChIJqVRTjbbo0zsR0BwlDL-Jk_E?authuser=0&hl=en&rclk=1"
@@ -4226,10 +4261,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/sanjivan+diabetic+foot+clinic/data=!4m7!3m6!1s0x3bd3e8b68d5354a9:0xf19389bf0c251cd0!8m2!3d20.3923519!4d78.1301201!16s%2Fg%2F11gg9c7777!19sChIJqVRTjbbo0zsR0BwlDL-Jk_E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sewa-hospital-yavatmal",
@@ -4277,7 +4313,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Sewa+Hospital/@20.3852327,78.1416914,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd3e8c450e830f9:0x2959358ef3393678!8m2!3d20.3852327!4d78.1416914!16s%2Fg%2F11f55js4f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sewa+Hospital/@20.3852327,78.1416914,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd3e8c450e830f9:0x2959358ef3393678!8m2!3d20.3852327!4d78.1416914!16s%2Fg%2F11f55js4f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4346,7 +4382,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sewa+Hospital/@20.3852327,78.1416914,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd3e8c450e830f9:0x2959358ef3393678!8m2!3d20.3852327!4d78.1416914!16s%2Fg%2F11f55js4f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shah-hospital-yavatmal",
@@ -4394,7 +4431,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Shah+Hospital/data=!4m7!3m6!1s0x3bd3e8ba76560f71:0x17b7a8039ee3b100!8m2!3d20.3866416!4d78.1263395!16s%2Fg%2F11cn9cj674!19sChIJcQ9Wdrro0zsRALHjngOotxc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shah+Hospital/data=!4m7!3m6!1s0x3bd3e8ba76560f71:0x17b7a8039ee3b100!8m2!3d20.3866416!4d78.1263395!16s%2Fg%2F11cn9cj674!19sChIJcQ9Wdrro0zsRALHjngOotxc?authuser=0&hl=en&rclk=1"
@@ -4463,7 +4500,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shah+Hospital/data=!4m7!3m6!1s0x3bd3e8ba76560f71:0x17b7a8039ee3b100!8m2!3d20.3866416!4d78.1263395!16s%2Fg%2F11cn9cj674!19sChIJcQ9Wdrro0zsRALHjngOotxc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shivaay-dental-care-yavatmal",
@@ -4511,7 +4549,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shivaay+Dental+Care/data=!4m7!3m6!1s0x3bd3e9b8c88445db:0x591f0e405286ad55!8m2!3d20.3805064!4d78.1244164!16s%2Fg%2F11l6qg0lwx!19sChIJ20WEyLjp0zsRVa2GUkAOH1k?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivaay+Dental+Care/data=!4m7!3m6!1s0x3bd3e9b8c88445db:0x591f0e405286ad55!8m2!3d20.3805064!4d78.1244164!16s%2Fg%2F11l6qg0lwx!19sChIJ20WEyLjp0zsRVa2GUkAOH1k?authuser=0&hl=en&rclk=1"
@@ -4577,10 +4615,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivaay+Dental+Care/data=!4m7!3m6!1s0x3bd3e9b8c88445db:0x591f0e405286ad55!8m2!3d20.3805064!4d78.1244164!16s%2Fg%2F11l6qg0lwx!19sChIJ20WEyLjp0zsRVa2GUkAOH1k?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shivneri-childrens-hospital-and-cardiac-center-yavatmal",
@@ -4630,7 +4669,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shivneri+Childrens+Hospital+%26+cardiac+center/data=!4m7!3m6!1s0x3bd3e9edd45d4e57:0x47355d7c3d5c985!8m2!3d20.3775557!4d78.1122573!16s%2Fg%2F11sq5l_p0h!19sChIJV05d1O3p0zsRhcnVw9dVcwQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivneri+Childrens+Hospital+%26+cardiac+center/data=!4m7!3m6!1s0x3bd3e9edd45d4e57:0x47355d7c3d5c985!8m2!3d20.3775557!4d78.1122573!16s%2Fg%2F11sq5l_p0h!19sChIJV05d1O3p0zsRhcnVw9dVcwQ?authuser=0&hl=en&rclk=1"
@@ -4696,10 +4735,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivneri+Childrens+Hospital+%26+cardiac+center/data=!4m7!3m6!1s0x3bd3e9edd45d4e57:0x47355d7c3d5c985!8m2!3d20.3775557!4d78.1122573!16s%2Fg%2F11sq5l_p0h!19sChIJV05d1O3p0zsRhcnVw9dVcwQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-diagnostic-center-yavatmal",
@@ -4748,7 +4788,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Diagnostic+Center/data=!4m7!3m6!1s0x3bd3e92b389890e9:0xe54353905f28b355!8m2!3d20.3824731!4d78.12783!16s%2Fg%2F11jv6phygn!19sChIJ6ZCYOCvp0zsRVbMoX5BTQ-U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Diagnostic+Center/data=!4m7!3m6!1s0x3bd3e92b389890e9:0xe54353905f28b355!8m2!3d20.3824731!4d78.12783!16s%2Fg%2F11jv6phygn!19sChIJ6ZCYOCvp0zsRVbMoX5BTQ-U?authuser=0&hl=en&rclk=1"
@@ -4814,10 +4854,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Diagnostic+Center/data=!4m7!3m6!1s0x3bd3e92b389890e9:0xe54353905f28b355!8m2!3d20.3824731!4d78.12783!16s%2Fg%2F11jv6phygn!19sChIJ6ZCYOCvp0zsRVbMoX5BTQ-U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-datta-hospital-and-research-center-yavatmal",
@@ -4866,7 +4907,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Datta+Hospital+and+Research+Center/data=!4m7!3m6!1s0x3bd3e8ba04c746c3:0x774fc752309ca34a!8m2!3d20.3742589!4d78.1102841!16s%2Fg%2F11dxsmhmfv!19sChIJw0bHBLro0zsRSqOcMFLHT3c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Datta+Hospital+and+Research+Center/data=!4m7!3m6!1s0x3bd3e8ba04c746c3:0x774fc752309ca34a!8m2!3d20.3742589!4d78.1102841!16s%2Fg%2F11dxsmhmfv!19sChIJw0bHBLro0zsRSqOcMFLHT3c?authuser=0&hl=en&rclk=1"
@@ -4935,7 +4976,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Datta+Hospital+and+Research+Center/data=!4m7!3m6!1s0x3bd3e8ba04c746c3:0x774fc752309ca34a!8m2!3d20.3742589!4d78.1102841!16s%2Fg%2F11dxsmhmfv!19sChIJw0bHBLro0zsRSqOcMFLHT3c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-siddhivinayak-piles-fistula-laser-surgery-hospital-yavatmal",
@@ -4983,7 +5025,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Siddhivinayak+Piles,+Fistula,+Laser+Surgery+Hospital/data=!4m7!3m6!1s0x3bd3e8b9e5939c89:0xec817467134c2eb9!8m2!3d20.3832096!4d78.1183881!16s%2Fg%2F11c56h0586!19sChIJiZyT5bno0zsRuS5ME2d0gew?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Siddhivinayak+Piles,+Fistula,+Laser+Surgery+Hospital/data=!4m7!3m6!1s0x3bd3e8b9e5939c89:0xec817467134c2eb9!8m2!3d20.3832096!4d78.1183881!16s%2Fg%2F11c56h0586!19sChIJiZyT5bno0zsRuS5ME2d0gew?authuser=0&hl=en&rclk=1"
@@ -5052,7 +5094,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Siddhivinayak+Piles,+Fistula,+Laser+Surgery+Hospital/data=!4m7!3m6!1s0x3bd3e8b9e5939c89:0xec817467134c2eb9!8m2!3d20.3832096!4d78.1183881!16s%2Fg%2F11c56h0586!19sChIJiZyT5bno0zsRuS5ME2d0gew?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-vasantrao-naik-govt-medical-hospital-yavatmal-yavatmal",
@@ -5102,7 +5145,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Vasantrao+Naik+Govt.+Medical+Hospital+Yavatmal/data=!4m7!3m6!1s0x3bd3e8b457056fdf:0x62ea06165945919d!8m2!3d20.3962707!4d78.1202552!16s%2Fm%2F08080yk!19sChIJ328FV7To0zsRnZFFWRYG6mI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Vasantrao+Naik+Govt.+Medical+Hospital+Yavatmal/data=!4m7!3m6!1s0x3bd3e8b457056fdf:0x62ea06165945919d!8m2!3d20.3962707!4d78.1202552!16s%2Fm%2F08080yk!19sChIJ328FV7To0zsRnZFFWRYG6mI?authuser=0&hl=en&rclk=1"
@@ -5171,7 +5214,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Vasantrao+Naik+Govt.+Medical+Hospital+Yavatmal/data=!4m7!3m6!1s0x3bd3e8b457056fdf:0x62ea06165945919d!8m2!3d20.3962707!4d78.1202552!16s%2Fm%2F08080yk!19sChIJ328FV7To0zsRnZFFWRYG6mI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srushti-lung-care-centre-yavatmal",
@@ -5219,7 +5263,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/SRUSHTI+LUNG+CARE+CENTRE/data=!4m7!3m6!1s0x3bd3e9c85a7de687:0x5345d26805046943!8m2!3d20.3899385!4d78.1306846!16s%2Fg%2F11mw1w33zz!19sChIJh-Z9Wsjp0zsRQ2kEBWjSRVM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRUSHTI+LUNG+CARE+CENTRE/data=!4m7!3m6!1s0x3bd3e9c85a7de687:0x5345d26805046943!8m2!3d20.3899385!4d78.1306846!16s%2Fg%2F11mw1w33zz!19sChIJh-Z9Wsjp0zsRQ2kEBWjSRVM?authuser=0&hl=en&rclk=1"
@@ -5288,7 +5332,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRUSHTI+LUNG+CARE+CENTRE/data=!4m7!3m6!1s0x3bd3e9c85a7de687:0x5345d26805046943!8m2!3d20.3899385!4d78.1306846!16s%2Fg%2F11mw1w33zz!19sChIJh-Z9Wsjp0zsRQ2kEBWjSRVM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sukhkarta-hospital-yavatmal",
@@ -5337,7 +5382,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sukhkarta+Hospital/data=!4m7!3m6!1s0x3bd3e8c7ffdd0f67:0x5c91423a9d106ddf!8m2!3d20.3842433!4d78.1292027!16s%2Fg%2F11f0kt033g!19sChIJZw_d_8fo0zsR320QnTpCkVw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sukhkarta+Hospital/data=!4m7!3m6!1s0x3bd3e8c7ffdd0f67:0x5c91423a9d106ddf!8m2!3d20.3842433!4d78.1292027!16s%2Fg%2F11f0kt033g!19sChIJZw_d_8fo0zsR320QnTpCkVw?authuser=0&hl=en&rclk=1"
@@ -5406,7 +5451,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sukhkarta+Hospital/data=!4m7!3m6!1s0x3bd3e8c7ffdd0f67:0x5c91423a9d106ddf!8m2!3d20.3842433!4d78.1292027!16s%2Fg%2F11f0kt033g!19sChIJZw_d_8fo0zsR320QnTpCkVw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sukhkarta-hospital-and-maternity-home-yavatmal",
@@ -5455,7 +5501,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sukhkarta+Hospital+and+Maternity+Home/data=!4m7!3m6!1s0x3bd3e8afbdfa7819:0x13f01f279e2eabc1!8m2!3d20.3843732!4d78.1292939!16s%2Fg%2F11g02b94h4!19sChIJGXj6va_o0zsRwasunicf8BM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sukhkarta+Hospital+and+Maternity+Home/data=!4m7!3m6!1s0x3bd3e8afbdfa7819:0x13f01f279e2eabc1!8m2!3d20.3843732!4d78.1292939!16s%2Fg%2F11g02b94h4!19sChIJGXj6va_o0zsRwasunicf8BM?authuser=0&hl=en&rclk=1"
@@ -5521,10 +5567,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sukhkarta+Hospital+and+Maternity+Home/data=!4m7!3m6!1s0x3bd3e8afbdfa7819:0x13f01f279e2eabc1!8m2!3d20.3843732!4d78.1292939!16s%2Fg%2F11g02b94h4!19sChIJGXj6va_o0zsRwasunicf8BM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "surgical-yavatmal",
@@ -5572,7 +5619,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Surgical/data=!4m7!3m6!1s0x3bd3e8bb7b2281b1:0x418652bcba61c7dc!8m2!3d20.382225!4d78.1244606!16s%2Fg%2F11b6wh0z0d!19sChIJsYEie7vo0zsR3MdhurxShkE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surgical/data=!4m7!3m6!1s0x3bd3e8bb7b2281b1:0x418652bcba61c7dc!8m2!3d20.382225!4d78.1244606!16s%2Fg%2F11b6wh0z0d!19sChIJsYEie7vo0zsR3MdhurxShkE?authuser=0&hl=en&rclk=1"
@@ -5641,7 +5688,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surgical/data=!4m7!3m6!1s0x3bd3e8bb7b2281b1:0x418652bcba61c7dc!8m2!3d20.382225!4d78.1244606!16s%2Fg%2F11b6wh0z0d!19sChIJsYEie7vo0zsR3MdhurxShkE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sushrut-surgical-hospital-yavatmal",
@@ -5690,7 +5738,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sushrut+Surgical+Hospital/data=!4m7!3m6!1s0x3bd3e98a277e3edf:0xca7122251141d473!8m2!3d20.3828834!4d78.1253876!16s%2Fg%2F11lds3zpvg!19sChIJ3z5-J4rp0zsRc9RBESUicco?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sushrut+Surgical+Hospital/data=!4m7!3m6!1s0x3bd3e98a277e3edf:0xca7122251141d473!8m2!3d20.3828834!4d78.1253876!16s%2Fg%2F11lds3zpvg!19sChIJ3z5-J4rp0zsRc9RBESUicco?authuser=0&hl=en&rclk=1"
@@ -5756,10 +5804,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sushrut+Surgical+Hospital/data=!4m7!3m6!1s0x3bd3e98a277e3edf:0xca7122251141d473!8m2!3d20.3828834!4d78.1253876!16s%2Fg%2F11lds3zpvg!19sChIJ3z5-J4rp0zsRc9RBESUicco?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tamgadge-dental-oral-hospital-yavatmal",
@@ -5807,7 +5856,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Tamgadge+Dental+Oral+Hospital/data=!4m7!3m6!1s0x3bd3e8b9a112aaf3:0x430ea57fce56e621!8m2!3d20.3867151!4d78.1286659!16s%2Fg%2F11dyzkw0ms!19sChIJ86oSobno0zsRIeZWzn-lDkM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tamgadge+Dental+Oral+Hospital/data=!4m7!3m6!1s0x3bd3e8b9a112aaf3:0x430ea57fce56e621!8m2!3d20.3867151!4d78.1286659!16s%2Fg%2F11dyzkw0ms!19sChIJ86oSobno0zsRIeZWzn-lDkM?authuser=0&hl=en&rclk=1"
@@ -5873,10 +5922,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tamgadge+Dental+Oral+Hospital/data=!4m7!3m6!1s0x3bd3e8b9a112aaf3:0x430ea57fce56e621!8m2!3d20.3867151!4d78.1286659!16s%2Fg%2F11dyzkw0ms!19sChIJ86oSobno0zsRIeZWzn-lDkM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tawde-hospital-yavatmal",
@@ -5924,7 +5974,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Tawde+Hospital/data=!4m7!3m6!1s0x3bd3e8b9b56da4bd:0x8a2829d79092824b!8m2!3d20.386466!4d78.1306018!16s%2Fg%2F1hjgs6s26!19sChIJvaRttbno0zsRS4KSkNcpKIo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tawde+Hospital/data=!4m7!3m6!1s0x3bd3e8b9b56da4bd:0x8a2829d79092824b!8m2!3d20.386466!4d78.1306018!16s%2Fg%2F1hjgs6s26!19sChIJvaRttbno0zsRS4KSkNcpKIo?authuser=0&hl=en&rclk=1"
@@ -5993,7 +6043,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tawde+Hospital/data=!4m7!3m6!1s0x3bd3e8b9b56da4bd:0x8a2829d79092824b!8m2!3d20.386466!4d78.1306018!16s%2Fg%2F1hjgs6s26!19sChIJvaRttbno0zsRS4KSkNcpKIo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tilakwadi-yavatmal",
@@ -6039,7 +6090,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Tilakwadi/@20.38149,78.1268334,18z/data=!3m1!4b1!4m7!3m6!1s0x3bd3e8b9518fd41f:0x264841234cd23996!8m2!3d20.3811671!4d78.1272232!16s%2Fg%2F12hm3p6wb!19sChIJH9SPUbno0zsRljnSTCNBSCY?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tilakwadi/@20.38149,78.1268334,18z/data=!3m1!4b1!4m7!3m6!1s0x3bd3e8b9518fd41f:0x264841234cd23996!8m2!3d20.3811671!4d78.1272232!16s%2Fg%2F12hm3p6wb!19sChIJH9SPUbno0zsRljnSTCNBSCY?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6105,10 +6156,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tilakwadi/@20.38149,78.1268334,18z/data=!3m1!4b1!4m7!3m6!1s0x3bd3e8b9518fd41f:0x264841234cd23996!8m2!3d20.3811671!4d78.1272232!16s%2Fg%2F12hm3p6wb!19sChIJH9SPUbno0zsRljnSTCNBSCY?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ujawane-diabetes-clinic-yavatmal",
@@ -6157,7 +6209,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ujawane+Diabetes+Clinic/data=!4m7!3m6!1s0x3bd3e911454f5ae9:0xbbb7fc711d2a4013!8m2!3d20.3826451!4d78.1280426!16s%2Fg%2F11g3y_4kdh!19sChIJ6VpPRRHp0zsRE0AqHXH8t7s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ujawane+Diabetes+Clinic/data=!4m7!3m6!1s0x3bd3e911454f5ae9:0xbbb7fc711d2a4013!8m2!3d20.3826451!4d78.1280426!16s%2Fg%2F11g3y_4kdh!19sChIJ6VpPRRHp0zsRE0AqHXH8t7s?authuser=0&hl=en&rclk=1"
@@ -6223,10 +6275,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ujawane+Diabetes+Clinic/data=!4m7!3m6!1s0x3bd3e911454f5ae9:0xbbb7fc711d2a4013!8m2!3d20.3826451!4d78.1280426!16s%2Fg%2F11g3y_4kdh!19sChIJ6VpPRRHp0zsRE0AqHXH8t7s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "umare-hospital-neurology-yavatmal",
@@ -6275,7 +6328,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Umare+Hospital+Neurology/data=!4m7!3m6!1s0x3bd3e9f823b4c63d:0x58391788afbbc37f!8m2!3d20.3872446!4d78.1270773!16s%2Fg%2F11fhnkl639!19sChIJPca0I_jp0zsRf8O7r4gXOVg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Umare+Hospital+Neurology/data=!4m7!3m6!1s0x3bd3e9f823b4c63d:0x58391788afbbc37f!8m2!3d20.3872446!4d78.1270773!16s%2Fg%2F11fhnkl639!19sChIJPca0I_jp0zsRf8O7r4gXOVg?authuser=0&hl=en&rclk=1"
@@ -6344,7 +6397,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Umare+Hospital+Neurology/data=!4m7!3m6!1s0x3bd3e9f823b4c63d:0x58391788afbbc37f!8m2!3d20.3872446!4d78.1270773!16s%2Fg%2F11fhnkl639!19sChIJPca0I_jp0zsRf8O7r4gXOVg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "yavatmal-cancer-centre-yavatmal",
@@ -6390,7 +6444,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Yavatmal+Cancer+Centre/data=!4m7!3m6!1s0x3bd3e9020f7e6235:0x5b781f0a3d6e88a1!8m2!3d20.3850617!4d78.1276597!16s%2Fg%2F11xg3qfzh_!19sChIJNWJ-DwLp0zsRoYhuPQofeFs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yavatmal+Cancer+Centre/data=!4m7!3m6!1s0x3bd3e9020f7e6235:0x5b781f0a3d6e88a1!8m2!3d20.3850617!4d78.1276597!16s%2Fg%2F11xg3qfzh_!19sChIJNWJ-DwLp0zsRoYhuPQofeFs?authuser=0&hl=en&rclk=1"
@@ -6456,10 +6510,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yavatmal+Cancer+Centre/data=!4m7!3m6!1s0x3bd3e9020f7e6235:0x5b781f0a3d6e88a1!8m2!3d20.3850617!4d78.1276597!16s%2Fg%2F11xg3qfzh_!19sChIJNWJ-DwLp0zsRoYhuPQofeFs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "yavatmal-piles-hospital-lohara",
@@ -6507,7 +6562,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Yavatmal+Piles+Hospital/data=!4m7!3m6!1s0x3bd3e7687106085d:0xaff5a7812999b084!8m2!3d20.3885985!4d78.1028429!16s%2Fg%2F11nncnz_xn!19sChIJXQgGcWjn0zsRhLCZKYGn9a8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yavatmal+Piles+Hospital/data=!4m7!3m6!1s0x3bd3e7687106085d:0xaff5a7812999b084!8m2!3d20.3885985!4d78.1028429!16s%2Fg%2F11nncnz_xn!19sChIJXQgGcWjn0zsRhLCZKYGn9a8?authuser=0&hl=en&rclk=1"
@@ -6576,7 +6631,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yavatmal+Piles+Hospital/data=!4m7!3m6!1s0x3bd3e7687106085d:0xaff5a7812999b084!8m2!3d20.3885985!4d78.1028429!16s%2Fg%2F11nncnz_xn!19sChIJXQgGcWjn0zsRhLCZKYGn9a8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "yavatmal-test-tube-baby-centre-yavatmal",
@@ -6625,7 +6681,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yavatmal+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x3bd3e8a51e6cc0ed:0xdf2a4ac3ec9b47bc!8m2!3d20.3844388!4d78.1205741!16s%2Fg%2F1hf8rr9sv!19sChIJ7cBsHqXo0zsRvEeb7MNKKt8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yavatmal+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x3bd3e8a51e6cc0ed:0xdf2a4ac3ec9b47bc!8m2!3d20.3844388!4d78.1205741!16s%2Fg%2F1hf8rr9sv!19sChIJ7cBsHqXo0zsRvEeb7MNKKt8?authuser=0&hl=en&rclk=1"
@@ -6694,7 +6750,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yavatmal+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x3bd3e8a51e6cc0ed:0xdf2a4ac3ec9b47bc!8m2!3d20.3844388!4d78.1205741!16s%2Fg%2F1hf8rr9sv!19sChIJ7cBsHqXo0zsRvEeb7MNKKt8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "yavatmal",
@@ -6740,7 +6797,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%8F%E0%A4%A8.+%E0%A4%AA%E0%A5%80.+%E0%A4%9A%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BE%E0%A4%A3/data=!4m7!3m6!1s0x3bd3e8a1a1a90bcd:0x10f329b757f4e306!8m2!3d20.3779115!4d78.1149389!16s%2Fg%2F11wj6g7qq0!19sChIJzQupoaHo0zsRBuP0V7cp8xA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%8F%E0%A4%A8.+%E0%A4%AA%E0%A5%80.+%E0%A4%9A%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BE%E0%A4%A3/data=!4m7!3m6!1s0x3bd3e8a1a1a90bcd:0x10f329b757f4e306!8m2!3d20.3779115!4d78.1149389!16s%2Fg%2F11wj6g7qq0!19sChIJzQupoaHo0zsRBuP0V7cp8xA?authuser=0&hl=en&rclk=1"
@@ -6806,10 +6863,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%8F%E0%A4%A8.+%E0%A4%AA%E0%A5%80.+%E0%A4%9A%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BE%E0%A4%A3/data=!4m7!3m6!1s0x3bd3e8a1a1a90bcd:0x10f329b757f4e306!8m2!3d20.3779115!4d78.1149389!16s%2Fg%2F11wj6g7qq0!19sChIJzQupoaHo0zsRBuP0V7cp8xA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hospital-yavatmal",
@@ -6855,7 +6913,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%B6%E0%A4%82%E0%A4%A4%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B8+hospital/data=!4m7!3m6!1s0x3bd3e90032868c95:0x93f40fbde8cf98c3!8m2!3d20.3899385!4d78.1306846!16s%2Fg%2F11y4b23yp7!19sChIJlYyGMgDp0zsRw5jP6L0P9JM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B6%E0%A4%82%E0%A4%A4%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B8+hospital/data=!4m7!3m6!1s0x3bd3e90032868c95:0x93f40fbde8cf98c3!8m2!3d20.3899385!4d78.1306846!16s%2Fg%2F11y4b23yp7!19sChIJlYyGMgDp0zsRw5jP6L0P9JM?authuser=0&hl=en&rclk=1"
@@ -6921,10 +6979,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%B6%E0%A4%82%E0%A4%A4%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B8+hospital/data=!4m7!3m6!1s0x3bd3e90032868c95:0x93f40fbde8cf98c3!8m2!3d20.3899385!4d78.1306846!16s%2Fg%2F11y4b23yp7!19sChIJlYyGMgDp0zsRw5jP6L0P9JM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "yavatmal",
@@ -6970,7 +7029,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A5%80+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A5%80%E0%A4%95/data=!4m7!3m6!1s0x3bd3e8af3d0501b9:0x61243a34351a3608!8m2!3d20.3891755!4d78.1177992!16s%2Fg%2F11ty5254jt!19sChIJuQEFPa_o0zsRCDYaNTQ6JGE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A5%80+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A5%80%E0%A4%95/data=!4m7!3m6!1s0x3bd3e8af3d0501b9:0x61243a34351a3608!8m2!3d20.3891755!4d78.1177992!16s%2Fg%2F11ty5254jt!19sChIJuQEFPa_o0zsRCDYaNTQ6JGE?authuser=0&hl=en&rclk=1"
@@ -7036,9 +7095,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A5%80+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A5%80%E0%A4%95/data=!4m7!3m6!1s0x3bd3e8af3d0501b9:0x61243a34351a3608!8m2!3d20.3891755!4d78.1177992!16s%2Fg%2F11ty5254jt!19sChIJuQEFPa_o0zsRCDYaNTQ6JGE?authuser=0&hl=en&rclk=1"
   }
 ]

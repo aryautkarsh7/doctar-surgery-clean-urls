@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/A.+V.+Da+Costa+Memorial+Clinic/@15.2906708,73.9610118,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb160f4ce1e57:0xd8eab723a7d359c6!8m2!3d15.2906708!4d73.9610118!16s%2Fg%2F1tg_vjpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A.+V.+Da+Costa+Memorial+Clinic/@15.2906708,73.9610118,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb160f4ce1e57:0xd8eab723a7d359c6!8m2!3d15.2906708!4d73.9610118!16s%2Fg%2F1tg_vjpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A.+V.+Da+Costa+Memorial+Clinic/@15.2906708,73.9610118,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb160f4ce1e57:0xd8eab723a7d359c6!8m2!3d15.2906708!4d73.9610118!16s%2Fg%2F1tg_vjpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ace-ent-and-head-neck-cancer-surgery-hospital-and-24-hrs-diagnostic-laboratory-madgaon",
@@ -162,7 +163,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/ACE+ENT+%26+Head+Neck+Cancer+Surgery+Hospital+%26+24+Hrs+Diagnostic+Laboratory/@15.2739622,73.9731467,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c37d415afd:0x7d752361ed9e0ece!8m2!3d15.2739622!4d73.9731467!16s%2Fg%2F11v5f0vsh3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ACE+ENT+%26+Head+Neck+Cancer+Surgery+Hospital+%26+24+Hrs+Diagnostic+Laboratory/@15.2739622,73.9731467,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c37d415afd:0x7d752361ed9e0ece!8m2!3d15.2739622!4d73.9731467!16s%2Fg%2F11v5f0vsh3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -231,7 +232,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ACE+ENT+%26+Head+Neck+Cancer+Surgery+Hospital+%26+24+Hrs+Diagnostic+Laboratory/@15.2739622,73.9731467,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c37d415afd:0x7d752361ed9e0ece!8m2!3d15.2739622!4d73.9731467!16s%2Fg%2F11v5f0vsh3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amr-dental-care-madgaon",
@@ -280,7 +282,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/AMR+Dental+Care/data=!4m7!3m6!1s0x3bbfb3c5eabe0e95:0xa4baf20e89d824ff!8m2!3d15.2717474!4d73.9675248!16s%2Fg%2F11c586x3tj!19sChIJlQ6-6sWzvzsR_yTYiQ7yuqQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMR+Dental+Care/data=!4m7!3m6!1s0x3bbfb3c5eabe0e95:0xa4baf20e89d824ff!8m2!3d15.2717474!4d73.9675248!16s%2Fg%2F11c586x3tj!19sChIJlQ6-6sWzvzsR_yTYiQ7yuqQ?authuser=0&hl=en&rclk=1"
@@ -346,10 +348,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AMR+Dental+Care/data=!4m7!3m6!1s0x3bbfb3c5eabe0e95:0xa4baf20e89d824ff!8m2!3d15.2717474!4d73.9675248!16s%2Fg%2F11c586x3tj!19sChIJlQ6-6sWzvzsR_yTYiQ7yuqQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apollo-dialysis-clinic-chicalim-goa-chicalim",
@@ -399,7 +402,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Chicalim,+Goa/@15.3948628,73.8369744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc78db9bbda47:0xfe52fd0bfb069f14!8m2!3d15.3948628!4d73.8369744!16s%2Fg%2F11xdk5_3tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Chicalim,+Goa/@15.3948628,73.8369744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc78db9bbda47:0xfe52fd0bfb069f14!8m2!3d15.3948628!4d73.8369744!16s%2Fg%2F11xdk5_3tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -465,10 +468,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Chicalim,+Goa/@15.3948628,73.8369744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc78db9bbda47:0xfe52fd0bfb069f14!8m2!3d15.3948628!4d73.8369744!16s%2Fg%2F11xdk5_3tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "asg-eye-hospital-panaji-panaji",
@@ -517,7 +521,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Panaji/@15.467003,73.80651,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18eb9e8da21:0xa614340b72124073!8m2!3d15.467003!4d73.80651!16s%2Fg%2F11nx17mvws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Panaji/@15.467003,73.80651,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18eb9e8da21:0xa614340b72124073!8m2!3d15.467003!4d73.80651!16s%2Fg%2F11nx17mvws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -586,7 +590,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Panaji/@15.467003,73.80651,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18eb9e8da21:0xa614340b72124073!8m2!3d15.467003!4d73.80651!16s%2Fg%2F11nx17mvws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashirwad-urology-and-laparoscopy-hospital-best-urology-hospital-in-margao-madgaon",
@@ -635,7 +640,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ashirwad+Urology+and+Laparoscopy+hospital-+best+urology+hospital+in+margao/@15.2706106,73.964545,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c1579ebe27:0xae8062ac3553ca47!8m2!3d15.2706106!4d73.964545!16s%2Fg%2F11cmg6gnyr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashirwad+Urology+and+Laparoscopy+hospital-+best+urology+hospital+in+margao/@15.2706106,73.964545,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c1579ebe27:0xae8062ac3553ca47!8m2!3d15.2706106!4d73.964545!16s%2Fg%2F11cmg6gnyr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -704,7 +709,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashirwad+Urology+and+Laparoscopy+hospital-+best+urology+hospital+in+margao/@15.2706106,73.964545,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c1579ebe27:0xae8062ac3553ca47!8m2!3d15.2706106!4d73.964545!16s%2Fg%2F11cmg6gnyr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aspire-dental-studio-and-specialty-clinic-madgaon",
@@ -755,7 +761,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aspire+Dental+Studio+%26+Specialty+Clinic/@15.2875153,73.9812079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c2720c7207:0x6f8b4fc56e195c8e!8m2!3d15.2875153!4d73.9812079!16s%2Fg%2F11l6rw1qtm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aspire+Dental+Studio+%26+Specialty+Clinic/@15.2875153,73.9812079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c2720c7207:0x6f8b4fc56e195c8e!8m2!3d15.2875153!4d73.9812079!16s%2Fg%2F11l6rw1qtm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -821,10 +827,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aspire+Dental+Studio+%26+Specialty+Clinic/@15.2875153,73.9812079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c2720c7207:0x6f8b4fc56e195c8e!8m2!3d15.2875153!4d73.9812079!16s%2Fg%2F11l6rw1qtm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aster-hospital-madgaon",
@@ -873,7 +880,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aster+Hospital/@15.2807455,73.9615317,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3ddc6a66fc3:0x76fae81493bff940!8m2!3d15.2807455!4d73.9615317!16s%2Fg%2F11cp7p9wkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aster+Hospital/@15.2807455,73.9615317,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3ddc6a66fc3:0x76fae81493bff940!8m2!3d15.2807455!4d73.9615317!16s%2Fg%2F11cp7p9wkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -942,7 +949,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aster+Hospital/@15.2807455,73.9615317,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3ddc6a66fc3:0x76fae81493bff940!8m2!3d15.2807455!4d73.9615317!16s%2Fg%2F11cp7p9wkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "carambolim-healthway-hospital-tiswadi-ella-village",
@@ -991,7 +999,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Carambolim+Healthway+Hospital,+Tiswadi/@15.4856164,73.9111814,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbfa972de7aef:0xb039b75f87320bde!8m2!3d15.4856164!4d73.9111814!16s%2Fg%2F11q534g5bz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Carambolim+Healthway+Hospital,+Tiswadi/@15.4856164,73.9111814,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbfa972de7aef:0xb039b75f87320bde!8m2!3d15.4856164!4d73.9111814!16s%2Fg%2F11q534g5bz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1057,10 +1065,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Carambolim+Healthway+Hospital,+Tiswadi/@15.4856164,73.9111814,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbfa972de7aef:0xb039b75f87320bde!8m2!3d15.4856164!4d73.9111814!16s%2Fg%2F11q534g5bz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "classic-hospital-madgaon",
@@ -1109,7 +1118,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Classic+Hospital/@15.269592,73.965776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6b6f12adb:0xfa0d0e4c8d9e7ff6!8m2!3d15.269592!4d73.965776!16s%2Fg%2F12hlm65hw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Classic+Hospital/@15.269592,73.965776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6b6f12adb:0xfa0d0e4c8d9e7ff6!8m2!3d15.269592!4d73.965776!16s%2Fg%2F12hlm65hw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1178,7 +1187,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Classic+Hospital/@15.269592,73.965776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6b6f12adb:0xfa0d0e4c8d9e7ff6!8m2!3d15.269592!4d73.965776!16s%2Fg%2F12hlm65hw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "colaco-s-physiotherapy-clinic-madgaon",
@@ -1228,7 +1238,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Colaco's+Physiotherapy+Clinic/@15.2755423,73.9590426,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d2ffffffff:0x64f753144a9f46fc!8m2!3d15.2755423!4d73.9590426!16s%2Fg%2F11t6_1bdvn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Colaco's+Physiotherapy+Clinic/@15.2755423,73.9590426,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d2ffffffff:0x64f753144a9f46fc!8m2!3d15.2755423!4d73.9590426!16s%2Fg%2F11t6_1bdvn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1297,7 +1307,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Colaco's+Physiotherapy+Clinic/@15.2755423,73.9590426,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d2ffffffff:0x64f753144a9f46fc!8m2!3d15.2755423!4d73.9590426!16s%2Fg%2F11t6_1bdvn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "da-silva-dental-clinic-madgaon",
@@ -1346,7 +1357,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Da+Silva+Dental+Clinic/@15.2715301,73.9648747,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3b35ba04b57:0x63f54d060fe6ffdc!8m2!3d15.2715301!4d73.9648747!16s%2Fg%2F1v8g9gh6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Da+Silva+Dental+Clinic/@15.2715301,73.9648747,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3b35ba04b57:0x63f54d060fe6ffdc!8m2!3d15.2715301!4d73.9648747!16s%2Fg%2F1v8g9gh6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1412,10 +1423,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Da+Silva+Dental+Clinic/@15.2715301,73.9648747,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3b35ba04b57:0x63f54d060fe6ffdc!8m2!3d15.2715301!4d73.9648747!16s%2Fg%2F1v8g9gh6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-clinic-baingini",
@@ -1463,7 +1475,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Clinic/@15.4872391,73.9059949,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbec20522db19:0x37f0843031f10669!8m2!3d15.4872391!4d73.9059949!16s%2Fg%2F11cn3h96mc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Clinic/@15.4872391,73.9059949,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbec20522db19:0x37f0843031f10669!8m2!3d15.4872391!4d73.9059949!16s%2Fg%2F11cn3h96mc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1529,10 +1541,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Clinic/@15.4872391,73.9059949,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbec20522db19:0x37f0843031f10669!8m2!3d15.4872391!4d73.9059949!16s%2Fg%2F11cn3h96mc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-concepts-madgaon",
@@ -1580,7 +1593,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Concepts/@15.288369,73.9524707,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb158c73bcb13:0xa2565aa896fb5f26!8m2!3d15.288369!4d73.9524707!16s%2Fg%2F11ddwwzlzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Concepts/@15.288369,73.9524707,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb158c73bcb13:0xa2565aa896fb5f26!8m2!3d15.288369!4d73.9524707!16s%2Fg%2F11ddwwzlzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1649,7 +1662,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Concepts/@15.288369,73.9524707,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb158c73bcb13:0xa2565aa896fb5f26!8m2!3d15.288369!4d73.9524707!16s%2Fg%2F11ddwwzlzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dentiva-dental-clinic-madgaon",
@@ -1698,7 +1712,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dentiva+Dental+Clinic/@15.2911072,73.9731876,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb11d41a6f897:0xaa4b5d0ecbe7a64c!8m2!3d15.2911072!4d73.9731876!16s%2Fg%2F11s1w08dkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentiva+Dental+Clinic/@15.2911072,73.9731876,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb11d41a6f897:0xaa4b5d0ecbe7a64c!8m2!3d15.2911072!4d73.9731876!16s%2Fg%2F11s1w08dkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1764,10 +1778,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dentiva+Dental+Clinic/@15.2911072,73.9731876,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb11d41a6f897:0xaa4b5d0ecbe7a64c!8m2!3d15.2911072!4d73.9731876!16s%2Fg%2F11s1w08dkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divine-medical-center-madgaon",
@@ -1817,7 +1832,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Divine+Medical+Center/@15.2714016,73.9617382,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c2ff5392cf:0x86802203ef2707f!8m2!3d15.2714016!4d73.9617382!16s%2Fg%2F11stpnypdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divine+Medical+Center/@15.2714016,73.9617382,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c2ff5392cf:0x86802203ef2707f!8m2!3d15.2714016!4d73.9617382!16s%2Fg%2F11stpnypdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1886,7 +1901,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divine+Medical+Center/@15.2714016,73.9617382,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c2ff5392cf:0x86802203ef2707f!8m2!3d15.2714016!4d73.9617382!16s%2Fg%2F11stpnypdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ferreira-dental-care-madgaon",
@@ -1934,7 +1950,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ferreira+Dental+Care/@15.2878002,73.9814291,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb35b42a55953:0x343417718545562!8m2!3d15.2878002!4d73.9814291!16s%2Fg%2F11vbrw387h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ferreira+Dental+Care/@15.2878002,73.9814291,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb35b42a55953:0x343417718545562!8m2!3d15.2878002!4d73.9814291!16s%2Fg%2F11vbrw387h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2000,10 +2016,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ferreira+Dental+Care/@15.2878002,73.9814291,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb35b42a55953:0x343417718545562!8m2!3d15.2878002!4d73.9814291!16s%2Fg%2F11vbrw387h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "flossopher-dental-and-cosmetology-goa-colva",
@@ -2052,7 +2069,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/FLOSSOPHER+DENTAL+%26+COSMETOLOGY+GOA./@15.2769311,73.92699,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb59337d09f4d:0xda0a4ef2d0569d68!8m2!3d15.2769311!4d73.92699!16s%2Fg%2F11m6_b6d99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FLOSSOPHER+DENTAL+%26+COSMETOLOGY+GOA./@15.2769311,73.92699,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb59337d09f4d:0xda0a4ef2d0569d68!8m2!3d15.2769311!4d73.92699!16s%2Fg%2F11m6_b6d99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2118,10 +2135,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/FLOSSOPHER+DENTAL+%26+COSMETOLOGY+GOA./@15.2769311,73.92699,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb59337d09f4d:0xda0a4ef2d0569d68!8m2!3d15.2769311!4d73.92699!16s%2Fg%2F11m6_b6d99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "galaxy-hospital-mapusa-goa-mapusa",
@@ -2170,7 +2188,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Galaxy+Hospital+Mapusa+Goa/data=!4m7!3m6!1s0x3bbfeb19fda362a9:0xded12d6f905c6f2!8m2!3d15.6059159!4d73.8131328!16s%2Fg%2F11c60j5bpy!19sChIJqWKj_RnrvzsR8sYF-dYS7Q0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Galaxy+Hospital+Mapusa+Goa/data=!4m7!3m6!1s0x3bbfeb19fda362a9:0xded12d6f905c6f2!8m2!3d15.6059159!4d73.8131328!16s%2Fg%2F11c60j5bpy!19sChIJqWKj_RnrvzsR8sYF-dYS7Q0?authuser=0&hl=en&rclk=1"
@@ -2239,7 +2257,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Galaxy+Hospital+Mapusa+Goa/data=!4m7!3m6!1s0x3bbfeb19fda362a9:0xded12d6f905c6f2!8m2!3d15.6059159!4d73.8131328!16s%2Fg%2F11c60j5bpy!19sChIJqWKj_RnrvzsR8sYF-dYS7Q0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "goa-dental-solutions-colva",
@@ -2288,7 +2307,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Goa+Dental+Solutions/@15.2786792,73.922861,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb4189bfffff1:0x83e97845f8b5922f!8m2!3d15.2786792!4d73.922861!16s%2Fg%2F1trtsry5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goa+Dental+Solutions/@15.2786792,73.922861,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb4189bfffff1:0x83e97845f8b5922f!8m2!3d15.2786792!4d73.922861!16s%2Fg%2F1trtsry5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2357,7 +2376,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goa+Dental+Solutions/@15.2786792,73.922861,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb4189bfffff1:0x83e97845f8b5922f!8m2!3d15.2786792!4d73.922861!16s%2Fg%2F1trtsry5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goa-medical-college-bambolim",
@@ -2406,7 +2426,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Goa+Medical+College/@15.4643263,73.8584025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbf57b548f663:0x50785c06ee0da5fc!8m2!3d15.4643263!4d73.8584025!16s%2Fm%2F04f29xp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goa+Medical+College/@15.4643263,73.8584025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbf57b548f663:0x50785c06ee0da5fc!8m2!3d15.4643263!4d73.8584025!16s%2Fm%2F04f29xp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2472,10 +2492,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goa+Medical+College/@15.4643263,73.8584025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbf57b548f663:0x50785c06ee0da5fc!8m2!3d15.4643263!4d73.8584025!16s%2Fm%2F04f29xp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goa-robotic-surgery-centre-panaji",
@@ -2524,7 +2545,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Goa+Robotic+Surgery+Centre/@15.4967374,73.8236188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1f846857447:0xb624c7b13d48d455!8m2!3d15.4967374!4d73.8236188!16s%2Fg%2F11p47sm9z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goa+Robotic+Surgery+Centre/@15.4967374,73.8236188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1f846857447:0xb624c7b13d48d455!8m2!3d15.4967374!4d73.8236188!16s%2Fg%2F11p47sm9z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2590,10 +2611,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goa+Robotic+Surgery+Centre/@15.4967374,73.8236188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1f846857447:0xb624c7b13d48d455!8m2!3d15.4967374!4d73.8236188!16s%2Fg%2F11p47sm9z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "grace-intensive-cardiac-care-centre-madgaon",
@@ -2643,7 +2665,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Grace+Intensive+Cardiac+Care+Centre/@15.2770645,73.9604739,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0xee2d01bd1c597a90!8m2!3d15.2770645!4d73.9604739!16s%2Fg%2F1tx8rn5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Grace+Intensive+Cardiac+Care+Centre/@15.2770645,73.9604739,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0xee2d01bd1c597a90!8m2!3d15.2770645!4d73.9604739!16s%2Fg%2F1tx8rn5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2712,7 +2734,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Grace+Intensive+Cardiac+Care+Centre/@15.2770645,73.9604739,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0xee2d01bd1c597a90!8m2!3d15.2770645!4d73.9604739!16s%2Fg%2F1tx8rn5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gracias-maternity-hospital-near-loyola-high-school",
@@ -2761,7 +2784,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gracias+Maternity+Hospital/@15.2737488,73.9566652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0xf366bbcf0e22ed27!8m2!3d15.2737488!4d73.9566652!16s%2Fg%2F1td2sbgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gracias+Maternity+Hospital/@15.2737488,73.9566652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0xf366bbcf0e22ed27!8m2!3d15.2737488!4d73.9566652!16s%2Fg%2F1td2sbgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2830,7 +2853,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gracias+Maternity+Hospital/@15.2737488,73.9566652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0xf366bbcf0e22ed27!8m2!3d15.2737488!4d73.9566652!16s%2Fg%2F1td2sbgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gynoveda-margao-pajifond-ayurveda-clinic-for-fertility-pcos-periods-madgaon",
@@ -2880,7 +2904,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gynoveda,+Margao,+Pajifond.+Ayurveda+Clinic+for+Fertility,+PCOS,+Periods/@15.272691,73.9624528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb30974ea09d3:0xee7d3c0fe489e7fd!8m2!3d15.272691!4d73.9624528!16s%2Fg%2F11x67krdjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gynoveda,+Margao,+Pajifond.+Ayurveda+Clinic+for+Fertility,+PCOS,+Periods/@15.272691,73.9624528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb30974ea09d3:0xee7d3c0fe489e7fd!8m2!3d15.272691!4d73.9624528!16s%2Fg%2F11x67krdjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2949,7 +2973,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gynoveda,+Margao,+Pajifond.+Ayurveda+Clinic+for+Fertility,+PCOS,+Periods/@15.272691,73.9624528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb30974ea09d3:0xee7d3c0fe489e7fd!8m2!3d15.272691!4d73.9624528!16s%2Fg%2F11x67krdjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healthway-hospital-panaji",
@@ -2998,7 +3023,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healthway+Hospital/@15.4941205,73.8310719,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0854a4ea0d7:0x6b321ec0897e1f68!8m2!3d15.4941205!4d73.8310719!16s%2Fg%2F11b6nplwy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthway+Hospital/@15.4941205,73.8310719,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0854a4ea0d7:0x6b321ec0897e1f68!8m2!3d15.4941205!4d73.8310719!16s%2Fg%2F11b6nplwy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3067,7 +3092,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healthway+Hospital/@15.4941205,73.8310719,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0854a4ea0d7:0x6b321ec0897e1f68!8m2!3d15.4941205!4d73.8310719!16s%2Fg%2F11b6nplwy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healthway-hospital-old-goa-ella",
@@ -3116,7 +3142,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healthway+Hospital+Old+Goa/data=!4m7!3m6!1s0x3bbfbec0603bc0cb:0xf20292b81bd11b89!8m2!3d15.4859655!4d73.9110423!16s%2Fg%2F11bwl0g0wv!19sChIJy8A7YMC-vzsRiRvRG7iSAvI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthway+Hospital+Old+Goa/data=!4m7!3m6!1s0x3bbfbec0603bc0cb:0xf20292b81bd11b89!8m2!3d15.4859655!4d73.9110423!16s%2Fg%2F11bwl0g0wv!19sChIJy8A7YMC-vzsRiRvRG7iSAvI?authuser=0&hl=en&rclk=1"
@@ -3185,7 +3211,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healthway+Hospital+Old+Goa/data=!4m7!3m6!1s0x3bbfbec0603bc0cb:0xf20292b81bd11b89!8m2!3d15.4859655!4d73.9110423!16s%2Fg%2F11bwl0g0wv!19sChIJy8A7YMC-vzsRiRvRG7iSAvI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "heartbeats-ivf-margao-madgaon",
@@ -3236,7 +3263,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Heartbeats+IVF+Margao/@15.2744846,73.9592765,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb364d7eba253:0xbfdeac17c2645627!8m2!3d15.2744846!4d73.9592765!16s%2Fg%2F11sgqhhw3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heartbeats+IVF+Margao/@15.2744846,73.9592765,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb364d7eba253:0xbfdeac17c2645627!8m2!3d15.2744846!4d73.9592765!16s%2Fg%2F11sgqhhw3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3305,7 +3332,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Heartbeats+IVF+Margao/@15.2744846,73.9592765,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb364d7eba253:0xbfdeac17c2645627!8m2!3d15.2744846!4d73.9592765!16s%2Fg%2F11sgqhhw3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "herbal-health-centre-madgaon",
@@ -3351,7 +3379,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Herbal+Health+Centre/@15.2720578,73.9582541,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0x689dacb907f3ce63!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1td689s6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Herbal+Health+Centre/@15.2720578,73.9582541,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0x689dacb907f3ce63!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1td689s6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3417,10 +3445,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Herbal+Health+Centre/@15.2720578,73.9582541,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0x689dacb907f3ce63!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1td689s6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "holy-spirit-dental-clinic-madgaon",
@@ -3468,7 +3497,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Holy+Spirit+Dental+Clinic/@15.2735195,73.9595973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c282433ca1:0xb02bf80938187b8b!8m2!3d15.2735195!4d73.9595973!16s%2Fg%2F11f0kzlqvy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Holy+Spirit+Dental+Clinic/@15.2735195,73.9595973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c282433ca1:0xb02bf80938187b8b!8m2!3d15.2735195!4d73.9595973!16s%2Fg%2F11f0kzlqvy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3537,7 +3566,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Holy+Spirit+Dental+Clinic/@15.2735195,73.9595973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c282433ca1:0xb02bf80938187b8b!8m2!3d15.2735195!4d73.9595973!16s%2Fg%2F11f0kzlqvy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "horizon-icu-and-hospital-madgaon",
@@ -3586,7 +3616,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Horizon+ICU+%26+Hospital/data=!4m7!3m6!1s0x3bbfb3c307ab23c1:0xaeea6cc1fc84ad16!8m2!3d15.2736257!4d73.9629778!16s%2Fg%2F1vfp6ndq!19sChIJwSOrB8OzvzsRFq2E_MFs6q4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Horizon+ICU+%26+Hospital/data=!4m7!3m6!1s0x3bbfb3c307ab23c1:0xaeea6cc1fc84ad16!8m2!3d15.2736257!4d73.9629778!16s%2Fg%2F1vfp6ndq!19sChIJwSOrB8OzvzsRFq2E_MFs6q4?authuser=0&hl=en&rclk=1"
@@ -3655,7 +3685,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Horizon+ICU+%26+Hospital/data=!4m7!3m6!1s0x3bbfb3c307ab23c1:0xaeea6cc1fc84ad16!8m2!3d15.2736257!4d73.9629778!16s%2Fg%2F1vfp6ndq!19sChIJwSOrB8OzvzsRFq2E_MFs6q4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hospicio-madgaon",
@@ -3704,7 +3735,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hospicio/@15.295346,73.9535639,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb15c874a876d:0x641ad86b59b361bd!8m2!3d15.295346!4d73.9535639!16s%2Fg%2F1hd_t5_y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospicio/@15.295346,73.9535639,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb15c874a876d:0x641ad86b59b361bd!8m2!3d15.295346!4d73.9535639!16s%2Fg%2F1hd_t5_y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3773,7 +3804,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hospicio/@15.295346,73.9535639,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb15c874a876d:0x641ad86b59b361bd!8m2!3d15.295346!4d73.9535639!16s%2Fg%2F1hd_t5_y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hospital-do-hoapicio-madgaon",
@@ -3819,7 +3851,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Hospital+Do+Hoapicio/@15.2720578,73.9582541,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0xde315fea9be5eef0!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1tfbg58k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital+Do+Hoapicio/@15.2720578,73.9582541,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0xde315fea9be5eef0!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1tfbg58k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3885,10 +3917,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hospital+Do+Hoapicio/@15.2720578,73.9582541,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0xde315fea9be5eef0!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1tfbg58k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jmj-dental-health-care-madgaon",
@@ -3936,7 +3969,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/JMJ+Dental+Health+Care/@15.2754482,73.9592323,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3297c3e180b:0x5e162ead61e64bac!8m2!3d15.2754482!4d73.9592323!16s%2Fg%2F11pc9m6s69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JMJ+Dental+Health+Care/@15.2754482,73.9592323,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3297c3e180b:0x5e162ead61e64bac!8m2!3d15.2754482!4d73.9592323!16s%2Fg%2F11pc9m6s69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4005,7 +4038,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JMJ+Dental+Health+Care/@15.2754482,73.9592323,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3297c3e180b:0x5e162ead61e64bac!8m2!3d15.2754482!4d73.9592323!16s%2Fg%2F11pc9m6s69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kudchadkar-hospital-margao",
@@ -4053,7 +4087,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kudchadkar+Hospital/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0xeb41464eb41b6b9c!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1td28sj_!19sChIJp6hDwemzvzsRnGsbtE5GQes?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kudchadkar+Hospital/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0xeb41464eb41b6b9c!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1td28sj_!19sChIJp6hDwemzvzsRnGsbtE5GQes?authuser=0&hl=en&rclk=1"
@@ -4119,10 +4153,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kudchadkar+Hospital/data=!4m7!3m6!1s0x3bbfb3e9c143a8a7:0xeb41464eb41b6b9c!8m2!3d15.2720578!4d73.9582541!16s%2Fg%2F1td28sj_!19sChIJp6hDwemzvzsRnGsbtE5GQes?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lord-s-pathology-regional-reference-laboratory-full-body-checkup-in-madgaon-madgaon",
@@ -4172,7 +4207,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lord%E2%80%99s+Pathology+Regional+Reference+Laboratory+%7C+Full+Body+Checkup+in+Madgaon/@15.2828793,73.9656603,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3218a2a63fd:0x4ccd0161578d5cfb!8m2!3d15.2828793!4d73.9656603!16s%2Fg%2F11x6wm2g8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lord%E2%80%99s+Pathology+Regional+Reference+Laboratory+%7C+Full+Body+Checkup+in+Madgaon/@15.2828793,73.9656603,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3218a2a63fd:0x4ccd0161578d5cfb!8m2!3d15.2828793!4d73.9656603!16s%2Fg%2F11x6wm2g8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4241,7 +4276,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lord%E2%80%99s+Pathology+Regional+Reference+Laboratory+%7C+Full+Body+Checkup+in+Madgaon/@15.2828793,73.9656603,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3218a2a63fd:0x4ccd0161578d5cfb!8m2!3d15.2828793!4d73.9656603!16s%2Fg%2F11x6wm2g8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "margao-dental-clinic-madgaon",
@@ -4289,7 +4325,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Margao+Dental+Clinic/@15.2873614,73.9550287,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb129949c3385:0x213347f44de81d8c!8m2!3d15.2873614!4d73.9550287!16s%2Fg%2F11gh5psdmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Margao+Dental+Clinic/@15.2873614,73.9550287,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb129949c3385:0x213347f44de81d8c!8m2!3d15.2873614!4d73.9550287!16s%2Fg%2F11gh5psdmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4358,7 +4394,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Margao+Dental+Clinic/@15.2873614,73.9550287,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb129949c3385:0x213347f44de81d8c!8m2!3d15.2873614!4d73.9550287!16s%2Fg%2F11gh5psdmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nebo-dental-care-margao-goa-madgaon",
@@ -4406,7 +4443,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Nebo+dental+care+-Margao,+Goa/@15.2981244,73.9715368,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb976824a1ff:0xf764930bec7e1288!8m2!3d15.2981244!4d73.9715368!16s%2Fg%2F11f4_ddf3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nebo+dental+care+-Margao,+Goa/@15.2981244,73.9715368,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb976824a1ff:0xf764930bec7e1288!8m2!3d15.2981244!4d73.9715368!16s%2Fg%2F11f4_ddf3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4475,7 +4512,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nebo+dental+care+-Margao,+Goa/@15.2981244,73.9715368,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb976824a1ff:0xf764930bec7e1288!8m2!3d15.2981244!4d73.9715368!16s%2Fg%2F11f4_ddf3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-centre-madgaon",
@@ -4525,7 +4563,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@15.2690034,73.9663375,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb30b1f2c4a5b:0x672cc543365951e6!8m2!3d15.2690034!4d73.9663375!16s%2Fg%2F11plsy0364?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@15.2690034,73.9663375,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb30b1f2c4a5b:0x672cc543365951e6!8m2!3d15.2690034!4d73.9663375!16s%2Fg%2F11plsy0364?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4591,10 +4629,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@15.2690034,73.9663375,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb30b1f2c4a5b:0x672cc543365951e6!8m2!3d15.2690034!4d73.9663375!16s%2Fg%2F11plsy0364?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-distric-hospital-margao-madgaon",
@@ -4644,7 +4683,7 @@
       "Google rating 1.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/New+Distric+Hospital,+Margao/@15.2878979,73.955259,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1cb413498c3:0x708d93f6fe222cba!8m2!3d15.2878979!4d73.955259!16s%2Fg%2F11sxr4q9xs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Distric+Hospital,+Margao/@15.2878979,73.955259,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1cb413498c3:0x708d93f6fe222cba!8m2!3d15.2878979!4d73.955259!16s%2Fg%2F11sxr4q9xs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4710,10 +4749,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Distric+Hospital,+Margao/@15.2878979,73.955259,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1cb413498c3:0x708d93f6fe222cba!8m2!3d15.2878979!4d73.955259!16s%2Fg%2F11sxr4q9xs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "niva-cancer-center-madgaon",
@@ -4759,7 +4799,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Niva+Cancer+Center/data=!4m7!3m6!1s0x3bbfb37fee0922ad:0xc039552389fa0d70!8m2!3d15.2844639!4d73.9773513!16s%2Fg%2F11xmf0c1_9!19sChIJrSIJ7n-zvzsRcA36iSNVOcA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Niva+Cancer+Center/data=!4m7!3m6!1s0x3bbfb37fee0922ad:0xc039552389fa0d70!8m2!3d15.2844639!4d73.9773513!16s%2Fg%2F11xmf0c1_9!19sChIJrSIJ7n-zvzsRcA36iSNVOcA?authuser=0&hl=en&rclk=1"
@@ -4825,10 +4865,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Niva+Cancer+Center/data=!4m7!3m6!1s0x3bbfb37fee0922ad:0xc039552389fa0d70!8m2!3d15.2844639!4d73.9773513!16s%2Fg%2F11xmf0c1_9!19sChIJrSIJ7n-zvzsRcA36iSNVOcA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "noble-hospital-madgaon",
@@ -4876,7 +4917,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Noble+Hospital/data=!4m7!3m6!1s0x3bbfb33754386479:0x2a2a03897a057eb!8m2!3d15.2830865!4d73.9692769!16s%2Fg%2F11f768gz_9!19sChIJeWQ4VDezvzsR61eglzigogI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Noble+Hospital/data=!4m7!3m6!1s0x3bbfb33754386479:0x2a2a03897a057eb!8m2!3d15.2830865!4d73.9692769!16s%2Fg%2F11f768gz_9!19sChIJeWQ4VDezvzsR61eglzigogI?authuser=0&hl=en&rclk=1"
@@ -4945,7 +4986,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Noble+Hospital/data=!4m7!3m6!1s0x3bbfb33754386479:0x2a2a03897a057eb!8m2!3d15.2830865!4d73.9692769!16s%2Fg%2F11f768gz_9!19sChIJeWQ4VDezvzsR61eglzigogI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "north-goa-district-hospital-asilo-mapusa",
@@ -4995,7 +5037,7 @@
       "Google rating 2.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/North+Goa+District+Hospital+(Asilo)/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebd8ba888167:0xe92e711cf882c22c!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F11ryf3894v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/North+Goa+District+Hospital+(Asilo)/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebd8ba888167:0xe92e711cf882c22c!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F11ryf3894v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5064,7 +5106,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/North+Goa+District+Hospital+(Asilo)/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebd8ba888167:0xe92e711cf882c22c!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F11ryf3894v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nurture-dental-care-goa-madgaon",
@@ -5113,7 +5156,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nurture+Dental+Care+Goa/@15.2838969,73.971979,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb33f0771e24d:0x5da117c543384eb8!8m2!3d15.2838969!4d73.971979!16s%2Fg%2F11jq2qjxkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nurture+Dental+Care+Goa/@15.2838969,73.971979,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb33f0771e24d:0x5da117c543384eb8!8m2!3d15.2838969!4d73.971979!16s%2Fg%2F11jq2qjxkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5179,10 +5222,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nurture+Dental+Care+Goa/@15.2838969,73.971979,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb33f0771e24d:0x5da117c543384eb8!8m2!3d15.2838969!4d73.971979!16s%2Fg%2F11jq2qjxkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "padma-spine-and-pain-centre-a-franchise-of-pain-clinic-of-india-madgaon",
@@ -5232,7 +5276,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Padma+Spine+And+Pain+centre+,+a+franchise+of+PAIN+CLINIC+OF+INDIA/@15.2704601,73.9654806,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6ab68bd57:0xf8a65e1babd5eba9!8m2!3d15.2704601!4d73.9654806!16s%2Fg%2F11fy4drrt3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Padma+Spine+And+Pain+centre+,+a+franchise+of+PAIN+CLINIC+OF+INDIA/@15.2704601,73.9654806,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6ab68bd57:0xf8a65e1babd5eba9!8m2!3d15.2704601!4d73.9654806!16s%2Fg%2F11fy4drrt3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5301,7 +5345,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Padma+Spine+And+Pain+centre+,+a+franchise+of+PAIN+CLINIC+OF+INDIA/@15.2704601,73.9654806,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6ab68bd57:0xf8a65e1babd5eba9!8m2!3d15.2704601!4d73.9654806!16s%2Fg%2F11fy4drrt3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "perfect-32-dental-clinic-madgaon",
@@ -5350,7 +5395,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Perfect+32+Dental+Clinic/@15.2997511,73.9648376,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb12eaa5f3471:0x8372566a9f9b6545!8m2!3d15.2997511!4d73.9648376!16s%2Fg%2F11rmfv_pjs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Perfect+32+Dental+Clinic/@15.2997511,73.9648376,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb12eaa5f3471:0x8372566a9f9b6545!8m2!3d15.2997511!4d73.9648376!16s%2Fg%2F11rmfv_pjs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5419,7 +5464,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Perfect+32+Dental+Clinic/@15.2997511,73.9648376,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb12eaa5f3471:0x8372566a9f9b6545!8m2!3d15.2997511!4d73.9648376!16s%2Fg%2F11rmfv_pjs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prabhu-s-dental-care-madgaon",
@@ -5467,7 +5513,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Prabhu's+Dental+Care/@15.2899748,73.9552218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb15edf8d101b:0xbad54704375a0ccd!8m2!3d15.2899748!4d73.9552218!16s%2Fg%2F1pt_f2ptl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prabhu's+Dental+Care/@15.2899748,73.9552218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb15edf8d101b:0xbad54704375a0ccd!8m2!3d15.2899748!4d73.9552218!16s%2Fg%2F1pt_f2ptl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5536,7 +5582,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prabhu's+Dental+Care/@15.2899748,73.9552218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb15edf8d101b:0xbad54704375a0ccd!8m2!3d15.2899748!4d73.9552218!16s%2Fg%2F1pt_f2ptl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "preserve-dental-hair-transplant-and-facial-aesthetic-centre-seraulim",
@@ -5585,7 +5632,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Preserve+Dental,+Hair+Transplant+and+Facial+Aesthetic+Centre/data=!4m7!3m6!1s0x3bbfb1ed01a1539d:0xc7ada672fab4d62e!8m2!3d15.2915473!4d73.93843!16s%2Fg%2F11s65ydz1b!19sChIJnVOhAe2xvzsRLta0-nKmrcc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Preserve+Dental,+Hair+Transplant+and+Facial+Aesthetic+Centre/data=!4m7!3m6!1s0x3bbfb1ed01a1539d:0xc7ada672fab4d62e!8m2!3d15.2915473!4d73.93843!16s%2Fg%2F11s65ydz1b!19sChIJnVOhAe2xvzsRLta0-nKmrcc?authuser=0&hl=en&rclk=1"
@@ -5654,7 +5701,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Preserve+Dental,+Hair+Transplant+and+Facial+Aesthetic+Centre/data=!4m7!3m6!1s0x3bbfb1ed01a1539d:0xc7ada672fab4d62e!8m2!3d15.2915473!4d73.93843!16s%2Fg%2F11s65ydz1b!19sChIJnVOhAe2xvzsRLta0-nKmrcc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "radiance-diagnostics-margao-madgaon",
@@ -5704,7 +5752,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Radiance+Diagnostics+-+Margao/data=!4m7!3m6!1s0x3bbfb1b37445bf11:0x3f6e29b223a54825!8m2!3d15.2960123!4d73.9908486!16s%2Fg%2F11fsjcdxf4!19sChIJEb9FdLOxvzsRJUilI7Ipbj8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiance+Diagnostics+-+Margao/data=!4m7!3m6!1s0x3bbfb1b37445bf11:0x3f6e29b223a54825!8m2!3d15.2960123!4d73.9908486!16s%2Fg%2F11fsjcdxf4!19sChIJEb9FdLOxvzsRJUilI7Ipbj8?authuser=0&hl=en&rclk=1"
@@ -5773,7 +5821,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radiance+Diagnostics+-+Margao/data=!4m7!3m6!1s0x3bbfb1b37445bf11:0x3f6e29b223a54825!8m2!3d15.2960123!4d73.9908486!16s%2Fg%2F11fsjcdxf4!19sChIJEb9FdLOxvzsRJUilI7Ipbj8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "redkar-hospital-and-research-center-oshalbag",
@@ -5822,7 +5871,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Redkar+Hospital+and+Research+Center./@15.6875609,73.8307542,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfed280370578f:0xb871c8ef5656c90a!8m2!3d15.6875609!4d73.8307542!16s%2Fg%2F11cn5dc2tn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Redkar+Hospital+and+Research+Center./@15.6875609,73.8307542,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfed280370578f:0xb871c8ef5656c90a!8m2!3d15.6875609!4d73.8307542!16s%2Fg%2F11cn5dc2tn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5891,7 +5940,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Redkar+Hospital+and+Research+Center./@15.6875609,73.8307542,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfed280370578f:0xb871c8ef5656c90a!8m2!3d15.6875609!4d73.8307542!16s%2Fg%2F11cn5dc2tn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rg-stone-urology-and-laparoscopy-hospital-pilern",
@@ -5940,7 +5990,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/@15.526834,73.825984,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06cc8a80dab:0xa72466447e5868e7!8m2!3d15.526834!4d73.825984!16s%2Fg%2F11clq2cs0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/@15.526834,73.825984,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06cc8a80dab:0xa72466447e5868e7!8m2!3d15.526834!4d73.825984!16s%2Fg%2F11clq2cs0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6009,7 +6059,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/@15.526834,73.825984,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06cc8a80dab:0xa72466447e5868e7!8m2!3d15.526834!4d73.825984!16s%2Fg%2F11clq2cs0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "royal-hospital-madgaon",
@@ -6058,7 +6109,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Royal+Hospital/@15.2708414,73.9720919,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c8b21a84a1:0xbcabb344e6f8eaf9!8m2!3d15.2708414!4d73.9720919!16s%2Fg%2F11c2ng737p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+Hospital/@15.2708414,73.9720919,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c8b21a84a1:0xbcabb344e6f8eaf9!8m2!3d15.2708414!4d73.9720919!16s%2Fg%2F11c2ng737p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6127,7 +6178,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Royal+Hospital/@15.2708414,73.9720919,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c8b21a84a1:0xbcabb344e6f8eaf9!8m2!3d15.2708414!4d73.9720919!16s%2Fg%2F11c2ng737p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sartham-dental-clinic-madgaon",
@@ -6175,7 +6227,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sartham+Dental+Clinic/@15.2826724,73.9786231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb370796c5017:0x82c4ec18ac7ee9cb!8m2!3d15.2826724!4d73.9786231!16s%2Fg%2F11v0kmk96h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sartham+Dental+Clinic/@15.2826724,73.9786231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb370796c5017:0x82c4ec18ac7ee9cb!8m2!3d15.2826724!4d73.9786231!16s%2Fg%2F11v0kmk96h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6241,10 +6293,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sartham+Dental+Clinic/@15.2826724,73.9786231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb370796c5017:0x82c4ec18ac7ee9cb!8m2!3d15.2826724!4d73.9786231!16s%2Fg%2F11v0kmk96h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shwet-dental-care-madgaon",
@@ -6292,7 +6345,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shwet+Dental+Care/@15.2907153,73.9605075,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb11bd4869c19:0x521d6b524c2de42a!8m2!3d15.2907153!4d73.9605075!16s%2Fg%2F11rqpvz25z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shwet+Dental+Care/@15.2907153,73.9605075,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb11bd4869c19:0x521d6b524c2de42a!8m2!3d15.2907153!4d73.9605075!16s%2Fg%2F11rqpvz25z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6358,10 +6411,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shwet+Dental+Care/@15.2907153,73.9605075,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb11bd4869c19:0x521d6b524c2de42a!8m2!3d15.2907153!4d73.9605075!16s%2Fg%2F11rqpvz25z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sinai-clinic-and-hospital-madgaon",
@@ -6409,7 +6463,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Sinai+Clinic+%26+Hospital/@15.274906,73.9553612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e890a88651:0xc2ffa03a7735430a!8m2!3d15.274906!4d73.9553612!16s%2Fg%2F1hm2c_q43?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sinai+Clinic+%26+Hospital/@15.274906,73.9553612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e890a88651:0xc2ffa03a7735430a!8m2!3d15.274906!4d73.9553612!16s%2Fg%2F1hm2c_q43?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6478,7 +6532,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sinai+Clinic+%26+Hospital/@15.274906,73.9553612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e890a88651:0xc2ffa03a7735430a!8m2!3d15.274906!4d73.9553612!16s%2Fg%2F1hm2c_q43?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skin-cafe-goa-madgaon",
@@ -6527,7 +6582,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SKIN+CAFE+GOA/data=!4m7!3m6!1s0x3bbfb3e86db4ea3b:0xac6ede66783cecb8!8m2!3d15.2859409!4d73.9553822!16s%2Fg%2F11gd4grqk5!19sChIJO-q0beizvzsRuOw8eGbebqw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SKIN+CAFE+GOA/data=!4m7!3m6!1s0x3bbfb3e86db4ea3b:0xac6ede66783cecb8!8m2!3d15.2859409!4d73.9553822!16s%2Fg%2F11gd4grqk5!19sChIJO-q0beizvzsRuOw8eGbebqw?authuser=0&hl=en&rclk=1"
@@ -6596,7 +6651,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SKIN+CAFE+GOA/data=!4m7!3m6!1s0x3bbfb3e86db4ea3b:0xac6ede66783cecb8!8m2!3d15.2859409!4d73.9553822!16s%2Fg%2F11gd4grqk5!19sChIJO-q0beizvzsRuOw8eGbebqw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smile-craft-goa-orthodontist-and-dentist-in-margao-madgaon",
@@ -6646,7 +6702,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Craft+Goa+-+Orthodontist+%26+Dentist+in+Margao/@15.2834451,73.9708343,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d9e680f575:0x655b7d3c588300cf!8m2!3d15.2834451!4d73.9708343!16s%2Fg%2F11bxjhgm1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Craft+Goa+-+Orthodontist+%26+Dentist+in+Margao/@15.2834451,73.9708343,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d9e680f575:0x655b7d3c588300cf!8m2!3d15.2834451!4d73.9708343!16s%2Fg%2F11bxjhgm1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6715,7 +6771,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Craft+Goa+-+Orthodontist+%26+Dentist+in+Margao/@15.2834451,73.9708343,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d9e680f575:0x655b7d3c588300cf!8m2!3d15.2834451!4d73.9708343!16s%2Fg%2F11bxjhgm1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-openly-dental-care-benaulim",
@@ -6764,7 +6821,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Openly+Dental+Care/@15.2585997,73.9312025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d3be53df6f:0x3238ec0bd5012465!8m2!3d15.2585997!4d73.9312025!16s%2Fg%2F11tc_c7fjc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Openly+Dental+Care/@15.2585997,73.9312025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d3be53df6f:0x3238ec0bd5012465!8m2!3d15.2585997!4d73.9312025!16s%2Fg%2F11tc_c7fjc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6833,7 +6890,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Openly+Dental+Care/@15.2585997,73.9312025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d3be53df6f:0x3238ec0bd5012465!8m2!3d15.2585997!4d73.9312025!16s%2Fg%2F11tc_c7fjc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smt-gopikabai-naik-maternity-and-surgical-hospital-madgaon",
@@ -6881,7 +6939,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Smt.+Gopikabai+Naik+Maternity+and+Surgical+Hospital/@15.2722921,73.9690617,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c5c7d421c9:0xa10154ca07da5a9d!8m2!3d15.2722921!4d73.9690617!16s%2Fg%2F11f2_ry54y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smt.+Gopikabai+Naik+Maternity+and+Surgical+Hospital/@15.2722921,73.9690617,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c5c7d421c9:0xa10154ca07da5a9d!8m2!3d15.2722921!4d73.9690617!16s%2Fg%2F11f2_ry54y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6950,7 +7008,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smt.+Gopikabai+Naik+Maternity+and+Surgical+Hospital/@15.2722921,73.9690617,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c5c7d421c9:0xa10154ca07da5a9d!8m2!3d15.2722921!4d73.9690617!16s%2Fg%2F11f2_ry54y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "studio32-dental-clinic-best-dentist-implantologist-in-colva-for-implants-braces-aligners-invisalign-and-more-colva",
@@ -6999,7 +7058,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/STUDIO32+Dental+Clinic+-+Best+Dentist,+Implantologist+in+Colva+for+Implants,+Braces,+Aligners,+Invisalign,+%26+More/@15.2773289,73.9204936,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb41b984efd27:0xc3ef29f856907f4d!8m2!3d15.2773289!4d73.9204936!16s%2Fg%2F11fx7lrjy5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STUDIO32+Dental+Clinic+-+Best+Dentist,+Implantologist+in+Colva+for+Implants,+Braces,+Aligners,+Invisalign,+%26+More/@15.2773289,73.9204936,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb41b984efd27:0xc3ef29f856907f4d!8m2!3d15.2773289!4d73.9204936!16s%2Fg%2F11fx7lrjy5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7068,7 +7127,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/STUDIO32+Dental+Clinic+-+Best+Dentist,+Implantologist+in+Colva+for+Implants,+Braces,+Aligners,+Invisalign,+%26+More/@15.2773289,73.9204936,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb41b984efd27:0xc3ef29f856907f4d!8m2!3d15.2773289!4d73.9204936!16s%2Fg%2F11fx7lrjy5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "studio32-dental-clinic-orthodontist-best-dentist-in-margao-madgaon",
@@ -7118,7 +7178,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/STUDIO32+Dental+Clinic+%E2%80%93+Orthodontist,+Best+Dentist+in+Margao/@15.2895751,73.9635246,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb161bb871c0f:0x4c59a5a4201facc5!8m2!3d15.2895751!4d73.9635246!16s%2Fg%2F11d_8_0zt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STUDIO32+Dental+Clinic+%E2%80%93+Orthodontist,+Best+Dentist+in+Margao/@15.2895751,73.9635246,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb161bb871c0f:0x4c59a5a4201facc5!8m2!3d15.2895751!4d73.9635246!16s%2Fg%2F11d_8_0zt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7187,7 +7247,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/STUDIO32+Dental+Clinic+%E2%80%93+Orthodontist,+Best+Dentist+in+Margao/@15.2895751,73.9635246,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb161bb871c0f:0x4c59a5a4201facc5!8m2!3d15.2895751!4d73.9635246!16s%2Fg%2F11d_8_0zt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sunrise-oncology-center-margao-goa-best-cancer-hospital-in-goa-chemotherapy-immunotherapy-oncocare-treatment-madgaon",
@@ -7237,7 +7298,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sunrise+Oncology+Center+Margao+Goa+-+Best+Cancer+Hospital+in+Goa,+Chemotherapy,+Immunotherapy,+Oncocare+Treatment/@15.2817031,73.9591725,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb343c35a9d25:0x5d0419e578d71f4a!8m2!3d15.2817031!4d73.9591725!16s%2Fg%2F11j9p511jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunrise+Oncology+Center+Margao+Goa+-+Best+Cancer+Hospital+in+Goa,+Chemotherapy,+Immunotherapy,+Oncocare+Treatment/@15.2817031,73.9591725,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb343c35a9d25:0x5d0419e578d71f4a!8m2!3d15.2817031!4d73.9591725!16s%2Fg%2F11j9p511jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7306,7 +7367,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunrise+Oncology+Center+Margao+Goa+-+Best+Cancer+Hospital+in+Goa,+Chemotherapy,+Immunotherapy,+Oncocare+Treatment/@15.2817031,73.9591725,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb343c35a9d25:0x5d0419e578d71f4a!8m2!3d15.2817031!4d73.9591725!16s%2Fg%2F11j9p511jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sunshine-hospital-madgaon",
@@ -7355,7 +7417,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sunshine+Hospital/@15.290448,73.9772588,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1f807717f41:0x2bc39a5176464cf8!8m2!3d15.290448!4d73.9772588!16s%2Fg%2F11jk4s2fj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunshine+Hospital/@15.290448,73.9772588,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1f807717f41:0x2bc39a5176464cf8!8m2!3d15.290448!4d73.9772588!16s%2Fg%2F11jk4s2fj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7424,7 +7486,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunshine+Hospital/@15.290448,73.9772588,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1f807717f41:0x2bc39a5176464cf8!8m2!3d15.290448!4d73.9772588!16s%2Fg%2F11jk4s2fj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "supravi-chest-centre-madgaon",
@@ -7472,7 +7535,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Supravi+Chest+Centre/@15.2705031,73.9595284,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c2007d09e3:0x30301f63df7a9ae5!8m2!3d15.2705031!4d73.9595284!16s%2Fg%2F11clwkvj1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Supravi+Chest+Centre/@15.2705031,73.9595284,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c2007d09e3:0x30301f63df7a9ae5!8m2!3d15.2705031!4d73.9595284!16s%2Fg%2F11clwkvj1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7541,7 +7604,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Supravi+Chest+Centre/@15.2705031,73.9595284,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c2007d09e3:0x30301f63df7a9ae5!8m2!3d15.2705031!4d73.9595284!16s%2Fg%2F11clwkvj1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-kidney-stone-moide",
@@ -7590,7 +7654,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Kidney+Stone/@15.6004621,73.8554835,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf9511fc026c69:0xb9242055bd2c3e81!8m2!3d15.6004621!4d73.8554835!16s%2Fg%2F11n__843cl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Kidney+Stone/@15.6004621,73.8554835,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf9511fc026c69:0xb9242055bd2c3e81!8m2!3d15.6004621!4d73.8554835!16s%2Fg%2F11n__843cl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7656,10 +7720,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Kidney+Stone/@15.6004621,73.8554835,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf9511fc026c69:0xb9242055bd2c3e81!8m2!3d15.6004621!4d73.8554835!16s%2Fg%2F11n__843cl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "themudo-s-dental-care-clinic-madgaon",
@@ -7707,7 +7772,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Themudo's+Dental+Care%2F+Clinic/@15.2597674,73.9644283,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3bea451d2b1:0xa3f17d794d356c59!8m2!3d15.2597674!4d73.9644283!16s%2Fg%2F124ynx67r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Themudo's+Dental+Care%2F+Clinic/@15.2597674,73.9644283,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3bea451d2b1:0xa3f17d794d356c59!8m2!3d15.2597674!4d73.9644283!16s%2Fg%2F124ynx67r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7776,7 +7841,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Themudo's+Dental+Care%2F+Clinic/@15.2597674,73.9644283,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3bea451d2b1:0xa3f17d794d356c59!8m2!3d15.2597674!4d73.9644283!16s%2Fg%2F124ynx67r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "trimurti-general-hospital-madgaon",
@@ -7825,7 +7891,7 @@
       "Google rating 2.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Trimurti+General+Hospital/@15.2866729,73.9773655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0x72724dc8b9767266!8m2!3d15.2866729!4d73.9773655!16s%2Fg%2F1vn_xdwc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trimurti+General+Hospital/@15.2866729,73.9773655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0x72724dc8b9767266!8m2!3d15.2866729!4d73.9773655!16s%2Fg%2F1vn_xdwc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7894,7 +7960,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Trimurti+General+Hospital/@15.2866729,73.9773655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0x72724dc8b9767266!8m2!3d15.2866729!4d73.9773655!16s%2Fg%2F1vn_xdwc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "v-m-salgaocar-hospital-bogmalo",
@@ -7943,7 +8010,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/V.+M.+Salgaocar+Hospital/data=!4m7!3m6!1s0x3bbfc749e2781321:0xb3ec11b1f42b97c8!8m2!3d15.394733!4d73.8368418!16s%2Fg%2F11h5w7wyg0!19sChIJIRN44knHvzsRyJcr9LER7LM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V.+M.+Salgaocar+Hospital/data=!4m7!3m6!1s0x3bbfc749e2781321:0xb3ec11b1f42b97c8!8m2!3d15.394733!4d73.8368418!16s%2Fg%2F11h5w7wyg0!19sChIJIRN44knHvzsRyJcr9LER7LM?authuser=0&hl=en&rclk=1"
@@ -8012,7 +8079,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/V.+M.+Salgaocar+Hospital/data=!4m7!3m6!1s0x3bbfc749e2781321:0xb3ec11b1f42b97c8!8m2!3d15.394733!4d73.8368418!16s%2Fg%2F11h5w7wyg0!19sChIJIRN44knHvzsRyJcr9LER7LM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vcare-hair-and-skin-clinic-goa-margao-skin-treatment-hair-treatment-hair-transplant-laser-hair-removal-skin-whitening-madgaon",
@@ -8061,7 +8129,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+GOA+-+Margao+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/@15.2781821,73.9590111,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3dce2383155:0xbce4588e05e25579!8m2!3d15.2781821!4d73.9590111!16s%2Fg%2F11y9plpby1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+GOA+-+Margao+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/@15.2781821,73.9590111,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3dce2383155:0xbce4588e05e25579!8m2!3d15.2781821!4d73.9590111!16s%2Fg%2F11y9plpby1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8130,7 +8198,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+GOA+-+Margao+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/@15.2781821,73.9590111,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3dce2383155:0xbce4588e05e25579!8m2!3d15.2781821!4d73.9590111!16s%2Fg%2F11y9plpby1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "victor-hospital-madgaon",
@@ -8179,7 +8248,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Victor+Hospital/data=!4m7!3m6!1s0x3bbfb3c6c5c4520d:0xa4045e195fdd67b3!8m2!3d15.2689598!4d73.9663188!16s%2Fg%2F1tdl4l90!19sChIJDVLExcazvzsRs2fdXxleBKQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Victor+Hospital/data=!4m7!3m6!1s0x3bbfb3c6c5c4520d:0xa4045e195fdd67b3!8m2!3d15.2689598!4d73.9663188!16s%2Fg%2F1tdl4l90!19sChIJDVLExcazvzsRs2fdXxleBKQ?authuser=0&hl=en&rclk=1"
@@ -8248,7 +8317,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Victor+Hospital/data=!4m7!3m6!1s0x3bbfb3c6c5c4520d:0xa4045e195fdd67b3!8m2!3d15.2689598!4d73.9663188!16s%2Fg%2F1tdl4l90!19sChIJDVLExcazvzsRs2fdXxleBKQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vida-clinics-an-associate-of-seabird-medicare-centre-madgaon",
@@ -8298,7 +8368,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vida+Clinics+an+associate+of+Seabird+Medicare+Centre/@15.2876757,73.981224,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3cbfc0b5bdd:0x7cee911edb8c9f56!8m2!3d15.2876757!4d73.981224!16s%2Fg%2F11ts3wrhbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vida+Clinics+an+associate+of+Seabird+Medicare+Centre/@15.2876757,73.981224,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3cbfc0b5bdd:0x7cee911edb8c9f56!8m2!3d15.2876757!4d73.981224!16s%2Fg%2F11ts3wrhbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8367,7 +8437,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vida+Clinics+an+associate+of+Seabird+Medicare+Centre/@15.2876757,73.981224,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3cbfc0b5bdd:0x7cee911edb8c9f56!8m2!3d15.2876757!4d73.981224!16s%2Fg%2F11ts3wrhbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vision-hospital-goa-mapusa",
@@ -8416,7 +8487,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vision+Hospital+Goa/@15.6041085,73.8200155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb22e915b243:0xe169c686ad111a19!8m2!3d15.6041085!4d73.8200155!16s%2Fg%2F11dfwyb40x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vision+Hospital+Goa/@15.6041085,73.8200155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb22e915b243:0xe169c686ad111a19!8m2!3d15.6041085!4d73.8200155!16s%2Fg%2F11dfwyb40x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8485,7 +8556,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vision+Hospital+Goa/@15.6041085,73.8200155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb22e915b243:0xe169c686ad111a19!8m2!3d15.6041085!4d73.8200155!16s%2Fg%2F11dfwyb40x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yashodhan-hospital-madgaon",
@@ -8534,7 +8606,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Yashodhan+Hospital/@15.2754821,73.979536,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3cda50c47e7:0x76aa11cbeb4a6a9d!8m2!3d15.2754821!4d73.979536!16s%2Fg%2F124svkbhx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashodhan+Hospital/@15.2754821,73.979536,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3cda50c47e7:0x76aa11cbeb4a6a9d!8m2!3d15.2754821!4d73.979536!16s%2Fg%2F124svkbhx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8603,6 +8675,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashodhan+Hospital/@15.2754821,73.979536,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3cda50c47e7:0x76aa11cbeb4a6a9d!8m2!3d15.2754821!4d73.979536!16s%2Fg%2F124svkbhx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

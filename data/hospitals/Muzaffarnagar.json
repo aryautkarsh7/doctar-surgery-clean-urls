@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Aashirwad+physiotharapy+clinic/@29.4835246,77.7100227,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7abbd6dee3:0x765f652901743a84!8m2!3d29.4835246!4d77.7100227!16s%2Fg%2F11c5656sgp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aashirwad+physiotharapy+clinic/@29.4835246,77.7100227,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7abbd6dee3:0x765f652901743a84!8m2!3d29.4835246!4d77.7100227!16s%2Fg%2F11c5656sgp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aashirwad+physiotharapy+clinic/@29.4835246,77.7100227,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7abbd6dee3:0x765f652901743a84!8m2!3d29.4835246!4d77.7100227!16s%2Fg%2F11c5656sgp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aditya-dental-clinic-dr-aditya-singh-malik-muzaffarnagar",
@@ -162,7 +163,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aditya+Dental+Clinic(Dr+Aditya+Singh+Malik)/@29.4703919,77.7011738,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7534851ca5:0xa4711e30f1f6e5de!8m2!3d29.4703919!4d77.7011738!16s%2Fg%2F11gdjpm3x4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditya+Dental+Clinic(Dr+Aditya+Singh+Malik)/@29.4703919,77.7011738,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7534851ca5:0xa4711e30f1f6e5de!8m2!3d29.4703919!4d77.7011738!16s%2Fg%2F11gdjpm3x4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -228,10 +229,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aditya+Dental+Clinic(Dr+Aditya+Singh+Malik)/@29.4703919,77.7011738,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7534851ca5:0xa4711e30f1f6e5de!8m2!3d29.4703919!4d77.7011738!16s%2Fg%2F11gdjpm3x4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aggarwal-dental-clinic-and-implant-centre-muzaffarnagar",
@@ -279,7 +281,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aggarwal+Dental+Clinic+%26+Implant+Centre/@29.4660741,77.7046833,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb381fdd6a7:0x302725d8e2cb3020!8m2!3d29.4660741!4d77.7046833!16s%2Fg%2F11qg56h65j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aggarwal+Dental+Clinic+%26+Implant+Centre/@29.4660741,77.7046833,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb381fdd6a7:0x302725d8e2cb3020!8m2!3d29.4660741!4d77.7046833!16s%2Fg%2F11qg56h65j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -345,10 +347,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aggarwal+Dental+Clinic+%26+Implant+Centre/@29.4660741,77.7046833,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb381fdd6a7:0x302725d8e2cb3020!8m2!3d29.4660741!4d77.7046833!16s%2Fg%2F11qg56h65j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ahlawat-heart-hospital-muzaffarnagar",
@@ -397,7 +400,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Ahlawat+heart+hospital/@29.4578105,77.7059531,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b02e2fdcd43:0x13d229425e64497a!8m2!3d29.4578105!4d77.7059531!16s%2Fg%2F11frss3jbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahlawat+heart+hospital/@29.4578105,77.7059531,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b02e2fdcd43:0x13d229425e64497a!8m2!3d29.4578105!4d77.7059531!16s%2Fg%2F11frss3jbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -466,7 +469,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ahlawat+heart+hospital/@29.4578105,77.7059531,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b02e2fdcd43:0x13d229425e64497a!8m2!3d29.4578105!4d77.7059531!16s%2Fg%2F11frss3jbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anand-dental-care-and-implant-center-best-dental-implant-center-top-dental-implant-center-cosmetic-dentist-in-muzaffarnagar-muzaffarnagar",
@@ -514,7 +518,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Anand+Dental+Care+%26+Implant+Center+-Best+Dental+Implant+Center+%7CTop+Dental+Implant+Center+%7CCosmetic+Dentist+in+Muzaffarnagar/@29.4691333,77.6980556,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba1d48498ef:0xfb1e973fe489a06f!8m2!3d29.4691333!4d77.6980556!16s%2Fg%2F11vw_wb3y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Dental+Care+%26+Implant+Center+-Best+Dental+Implant+Center+%7CTop+Dental+Implant+Center+%7CCosmetic+Dentist+in+Muzaffarnagar/@29.4691333,77.6980556,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba1d48498ef:0xfb1e973fe489a06f!8m2!3d29.4691333!4d77.6980556!16s%2Fg%2F11vw_wb3y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -580,10 +584,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anand+Dental+Care+%26+Implant+Center+-Best+Dental+Implant+Center+%7CTop+Dental+Implant+Center+%7CCosmetic+Dentist+in+Muzaffarnagar/@29.4691333,77.6980556,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba1d48498ef:0xfb1e973fe489a06f!8m2!3d29.4691333!4d77.6980556!16s%2Fg%2F11vw_wb3y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anand-hospital-muzaffarnagar",
@@ -632,7 +637,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Anand+Hospital/@29.4726072,77.7205316,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1be247776841:0xed8baf0196a89e8b!8m2!3d29.4726072!4d77.7205316!16s%2Fg%2F11gl20qy4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Hospital/@29.4726072,77.7205316,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1be247776841:0xed8baf0196a89e8b!8m2!3d29.4726072!4d77.7205316!16s%2Fg%2F11gl20qy4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -701,7 +706,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anand+Hospital/@29.4726072,77.7205316,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1be247776841:0xed8baf0196a89e8b!8m2!3d29.4726072!4d77.7205316!16s%2Fg%2F11gl20qy4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anand-nursing-home-muzaffarnagar",
@@ -749,7 +755,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Anand+Nursing+Home/@29.4644365,77.6963646,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba12bd0bee5:0x378ea0e9bcaf65e8!8m2!3d29.4644365!4d77.6963646!16s%2Fg%2F11g8w8bwlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Nursing+Home/@29.4644365,77.6963646,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba12bd0bee5:0x378ea0e9bcaf65e8!8m2!3d29.4644365!4d77.6963646!16s%2Fg%2F11g8w8bwlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -818,7 +824,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anand+Nursing+Home/@29.4644365,77.6963646,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba12bd0bee5:0x378ea0e9bcaf65e8!8m2!3d29.4644365!4d77.6963646!16s%2Fg%2F11g8w8bwlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anushree-ultrasound-center-and-dental-clinic-muzaffarnagar",
@@ -866,7 +873,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Anushree+ultrasound+center+and+Dental+Clinic/@29.464318,77.7114597,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b11e6437eab:0x1bb8d350311c6ba2!8m2!3d29.464318!4d77.7114597!16s%2Fg%2F11bt_h30td?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anushree+ultrasound+center+and+Dental+Clinic/@29.464318,77.7114597,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b11e6437eab:0x1bb8d350311c6ba2!8m2!3d29.464318!4d77.7114597!16s%2Fg%2F11bt_h30td?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -935,7 +942,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anushree+ultrasound+center+and+Dental+Clinic/@29.464318,77.7114597,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b11e6437eab:0x1bb8d350311c6ba2!8m2!3d29.464318!4d77.7114597!16s%2Fg%2F11bt_h30td?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arogyadham-clinic-ayurvedic-sexologist-in-muzaffarnagar-muzaffarnagar",
@@ -985,7 +993,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Arogyadham+Clinic+%7C+Ayurvedic+Sexologist+in+Muzaffarnagar/@29.467164,77.7001304,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0a672d763d:0x858ad43d6bf943c7!8m2!3d29.467164!4d77.7001304!16s%2Fg%2F11c1th_xh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arogyadham+Clinic+%7C+Ayurvedic+Sexologist+in+Muzaffarnagar/@29.467164,77.7001304,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0a672d763d:0x858ad43d6bf943c7!8m2!3d29.467164!4d77.7001304!16s%2Fg%2F11c1th_xh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1054,7 +1062,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arogyadham+Clinic+%7C+Ayurvedic+Sexologist+in+Muzaffarnagar/@29.467164,77.7001304,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0a672d763d:0x858ad43d6bf943c7!8m2!3d29.467164!4d77.7001304!16s%2Fg%2F11c1th_xh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "astha-medicare-muzaffarnagar",
@@ -1102,7 +1111,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Astha+Medicare/@29.4725612,77.7129691,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b13448c0d57:0x2bb95bea0b92a875!8m2!3d29.4725612!4d77.7129691!16s%2Fg%2F11j00837h6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Astha+Medicare/@29.4725612,77.7129691,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b13448c0d57:0x2bb95bea0b92a875!8m2!3d29.4725612!4d77.7129691!16s%2Fg%2F11j00837h6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1171,7 +1180,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Astha+Medicare/@29.4725612,77.7129691,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b13448c0d57:0x2bb95bea0b92a875!8m2!3d29.4725612!4d77.7129691!16s%2Fg%2F11j00837h6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bharatmata-nursing-home-muzaffarnagar",
@@ -1219,7 +1229,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Bharatmata+Nursing+Home/@29.4794418,77.7211832,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b69c18c01cb:0xed08b297eb8099b2!8m2!3d29.4794418!4d77.7211832!16s%2Fg%2F11c0rgj367?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharatmata+Nursing+Home/@29.4794418,77.7211832,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b69c18c01cb:0xed08b297eb8099b2!8m2!3d29.4794418!4d77.7211832!16s%2Fg%2F11c0rgj367?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1288,7 +1298,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bharatmata+Nursing+Home/@29.4794418,77.7211832,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b69c18c01cb:0xed08b297eb8099b2!8m2!3d29.4794418!4d77.7211832!16s%2Fg%2F11c0rgj367?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhardwaj-maternity-home-muzaffarnagar",
@@ -1336,7 +1347,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bhardwaj+maternity+home/@29.4771385,77.6972008,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b3cfcc40ef3:0xfaeeb6d0c608918d!8m2!3d29.4771385!4d77.6972008!16s%2Fg%2F11f649llhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhardwaj+maternity+home/@29.4771385,77.6972008,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b3cfcc40ef3:0xfaeeb6d0c608918d!8m2!3d29.4771385!4d77.6972008!16s%2Fg%2F11f649llhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1402,10 +1413,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhardwaj+maternity+home/@29.4771385,77.6972008,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b3cfcc40ef3:0xfaeeb6d0c608918d!8m2!3d29.4771385!4d77.6972008!16s%2Fg%2F11f649llhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "burger-clinic-muzaffarnagar",
@@ -1451,7 +1463,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Burger+clinic/@29.4824502,77.7018362,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7589fc924f:0xe5a78f2f69660095!8m2!3d29.4824502!4d77.7018362!16s%2Fg%2F11hf39fs3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Burger+clinic/@29.4824502,77.7018362,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7589fc924f:0xe5a78f2f69660095!8m2!3d29.4824502!4d77.7018362!16s%2Fg%2F11hf39fs3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1517,10 +1529,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Burger+clinic/@29.4824502,77.7018362,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7589fc924f:0xe5a78f2f69660095!8m2!3d29.4824502!4d77.7018362!16s%2Fg%2F11hf39fs3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cardio-hospital-muzaffarnagar",
@@ -1568,7 +1581,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://www.google.com/maps/place/Cardio+Hospital/@29.471795,77.7012563,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7516164427:0x5f104f70693ca24!8m2!3d29.471795!4d77.7012563!16s%2Fg%2F1hm5gfdtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cardio+Hospital/@29.471795,77.7012563,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7516164427:0x5f104f70693ca24!8m2!3d29.471795!4d77.7012563!16s%2Fg%2F1hm5gfdtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1637,7 +1650,8 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cardio+Hospital/@29.471795,77.7012563,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7516164427:0x5f104f70693ca24!8m2!3d29.471795!4d77.7012563!16s%2Fg%2F1hm5gfdtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cure-clinic-muzaffarnagar",
@@ -1685,7 +1699,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Cure+Clinic/@29.47917,77.694517,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bfc559f7485:0x9c3e19189863491f!8m2!3d29.47917!4d77.694517!16s%2Fg%2F11h64v0x4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cure+Clinic/@29.47917,77.694517,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bfc559f7485:0x9c3e19189863491f!8m2!3d29.47917!4d77.694517!16s%2Fg%2F11h64v0x4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1751,10 +1765,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cure+Clinic/@29.47917,77.694517,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bfc559f7485:0x9c3e19189863491f!8m2!3d29.47917!4d77.694517!16s%2Fg%2F11h64v0x4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "daurala-hospital-muzaffarnagar",
@@ -1802,7 +1817,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Daurala+Hospital/@29.4711162,77.6976832,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b74cefebcf1:0x29de89b7515434e9!8m2!3d29.4711162!4d77.6976832!16s%2Fg%2F11cn954b9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Daurala+Hospital/@29.4711162,77.6976832,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b74cefebcf1:0x29de89b7515434e9!8m2!3d29.4711162!4d77.6976832!16s%2Fg%2F11cn954b9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1871,7 +1886,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Daurala+Hospital/@29.4711162,77.6976832,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b74cefebcf1:0x29de89b7515434e9!8m2!3d29.4711162!4d77.6976832!16s%2Fg%2F11cn954b9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "daya-dental-care-muzaffarnagar",
@@ -1920,7 +1936,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DAYA+DENTAL+CARE/@29.4664604,77.7048073,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0bf4c3dbdd:0x87ff491fad8c27ed!8m2!3d29.4664604!4d77.7048073!16s%2Fg%2F11l6tmbwql?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DAYA+DENTAL+CARE/@29.4664604,77.7048073,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0bf4c3dbdd:0x87ff491fad8c27ed!8m2!3d29.4664604!4d77.7048073!16s%2Fg%2F11l6tmbwql?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1986,10 +2002,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DAYA+DENTAL+CARE/@29.4664604,77.7048073,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0bf4c3dbdd:0x87ff491fad8c27ed!8m2!3d29.4664604!4d77.7048073!16s%2Fg%2F11l6tmbwql?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dcdc-kidney-care-dh-muzzaffarnagar-muzaffarnagar",
@@ -2040,7 +2057,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DCDC+Kidney+Care+-+DH+Muzzaffarnagar/@29.4788218,77.6966843,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b875d78d997:0xc63fa83dbd992bce!8m2!3d29.4788218!4d77.6966843!16s%2Fg%2F11sttr4rb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DCDC+Kidney+Care+-+DH+Muzzaffarnagar/@29.4788218,77.6966843,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b875d78d997:0xc63fa83dbd992bce!8m2!3d29.4788218!4d77.6966843!16s%2Fg%2F11sttr4rb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2106,10 +2123,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DCDC+Kidney+Care+-+DH+Muzzaffarnagar/@29.4788218,77.6966843,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b875d78d997:0xc63fa83dbd992bce!8m2!3d29.4788218!4d77.6966843!16s%2Fg%2F11sttr4rb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dentcare-dental-clinic-and-implant-center-muzaffarnagar",
@@ -2158,7 +2176,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DentCare+Dental+clinic+and+implant+center/@29.464555,77.7156865,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b08c9870c83:0x9dbd497071721d2!8m2!3d29.464555!4d77.7156865!16s%2Fg%2F11vyvxgg57?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DentCare+Dental+clinic+and+implant+center/@29.464555,77.7156865,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b08c9870c83:0x9dbd497071721d2!8m2!3d29.464555!4d77.7156865!16s%2Fg%2F11vyvxgg57?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2224,10 +2242,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DentCare+Dental+clinic+and+implant+center/@29.464555,77.7156865,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b08c9870c83:0x9dbd497071721d2!8m2!3d29.464555!4d77.7156865!16s%2Fg%2F11vyvxgg57?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dev-dental-clinic-muzaffarnagar",
@@ -2275,7 +2294,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dev+Dental+Clinic/@29.4831868,77.7022709,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1be9a2579b55:0x45477f5258b3acf0!8m2!3d29.4831868!4d77.7022709!16s%2Fg%2F11h1sr9dfv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dev+Dental+Clinic/@29.4831868,77.7022709,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1be9a2579b55:0x45477f5258b3acf0!8m2!3d29.4831868!4d77.7022709!16s%2Fg%2F11h1sr9dfv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2341,10 +2360,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dev+Dental+Clinic/@29.4831868,77.7022709,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1be9a2579b55:0x45477f5258b3acf0!8m2!3d29.4831868!4d77.7022709!16s%2Fg%2F11h1sr9dfv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "district-women-hospital-muzaffarnagar",
@@ -2393,7 +2413,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/District+Women+Hospital/@29.4781136,77.6959931,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b79eb8e8113:0x131875d9458be665!8m2!3d29.4781136!4d77.6959931!16s%2Fg%2F11h6r7kd3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Women+Hospital/@29.4781136,77.6959931,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b79eb8e8113:0x131875d9458be665!8m2!3d29.4781136!4d77.6959931!16s%2Fg%2F11h6r7kd3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2462,7 +2482,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+Women+Hospital/@29.4781136,77.6959931,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b79eb8e8113:0x131875d9458be665!8m2!3d29.4781136!4d77.6959931!16s%2Fg%2F11h6r7kd3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divine-hospital-muzaffarnagar",
@@ -2510,7 +2531,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Divine+Hospital/@29.4897948,77.6986773,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b656c8b142f:0x35da48a8cf99cd8a!8m2!3d29.4897948!4d77.6986773!16s%2Fg%2F11jds2b18_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divine+Hospital/@29.4897948,77.6986773,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b656c8b142f:0x35da48a8cf99cd8a!8m2!3d29.4897948!4d77.6986773!16s%2Fg%2F11jds2b18_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2576,10 +2597,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divine+Hospital/@29.4897948,77.6986773,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b656c8b142f:0x35da48a8cf99cd8a!8m2!3d29.4897948!4d77.6986773!16s%2Fg%2F11jds2b18_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dwarka-dental-care-best-rct-specialist-dental-clinic-dentist-for-children-in-muzaffarnagar-muzaffarnagar",
@@ -2628,7 +2650,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Dwarka+Dental+Care+-+Best+RCT+Specialist+%7C+Dental+Clinic+%7C+Dentist+for+Children+in+Muzaffarnagar/@29.4759525,77.7139937,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b65d8cc9995:0x8786167a0ff3d091!8m2!3d29.4759525!4d77.7139937!16s%2Fg%2F11llpc8jwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dwarka+Dental+Care+-+Best+RCT+Specialist+%7C+Dental+Clinic+%7C+Dentist+for+Children+in+Muzaffarnagar/@29.4759525,77.7139937,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b65d8cc9995:0x8786167a0ff3d091!8m2!3d29.4759525!4d77.7139937!16s%2Fg%2F11llpc8jwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2697,7 +2719,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dwarka+Dental+Care+-+Best+RCT+Specialist+%7C+Dental+Clinic+%7C+Dentist+for+Children+in+Muzaffarnagar/@29.4759525,77.7139937,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b65d8cc9995:0x8786167a0ff3d091!8m2!3d29.4759525!4d77.7139937!16s%2Fg%2F11llpc8jwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "epilepsy-treatment-muzaffarnagar-muzaffarnagar",
@@ -2746,7 +2769,7 @@
     "metrics": [
       "Google rating 2.0"
     ],
-    "image": "https://www.google.com/maps/place/Epilepsy+treatment+muzaffarnagar/@29.4818417,77.6975363,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b72e6850989:0x55cd8088e63a8be3!8m2!3d29.4818417!4d77.6975363!16s%2Fg%2F1tfqp9_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Epilepsy+treatment+muzaffarnagar/@29.4818417,77.6975363,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b72e6850989:0x55cd8088e63a8be3!8m2!3d29.4818417!4d77.6975363!16s%2Fg%2F1tfqp9_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2812,10 +2835,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 2.0,
+    "rating": 2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Epilepsy+treatment+muzaffarnagar/@29.4818417,77.6975363,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b72e6850989:0x55cd8088e63a8be3!8m2!3d29.4818417!4d77.6975363!16s%2Fg%2F1tfqp9_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "evan-hospital-muzaffarnagar",
@@ -2864,7 +2888,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Evan+Hospital/@29.472177,77.7397764,17z/data=!3m1!4b1!4m6!3m5!1s0x390c04cbac9c72df:0xead1bbe9ac904910!8m2!3d29.472177!4d77.7397764!16s%2Fg%2F1ptwb87gh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Evan+Hospital/@29.472177,77.7397764,17z/data=!3m1!4b1!4m6!3m5!1s0x390c04cbac9c72df:0xead1bbe9ac904910!8m2!3d29.472177!4d77.7397764!16s%2Fg%2F1ptwb87gh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2933,7 +2957,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Evan+Hospital/@29.472177,77.7397764,17z/data=!3m1!4b1!4m6!3m5!1s0x390c04cbac9c72df:0xead1bbe9ac904910!8m2!3d29.472177!4d77.7397764!16s%2Fg%2F1ptwb87gh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ganga-nursing-home-multi-specialist-sujroo",
@@ -2981,7 +3006,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ganga+Nursing+Home+Multi+Specialist/@29.4463156,77.6974884,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b006b48fbe9:0xd3cff221b98ef5e2!8m2!3d29.4463156!4d77.6974884!16s%2Fg%2F11x02px2_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganga+Nursing+Home+Multi+Specialist/@29.4463156,77.6974884,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b006b48fbe9:0xd3cff221b98ef5e2!8m2!3d29.4463156!4d77.6974884!16s%2Fg%2F11x02px2_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3047,10 +3072,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ganga+Nursing+Home+Multi+Specialist/@29.4463156,77.6974884,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b006b48fbe9:0xd3cff221b98ef5e2!8m2!3d29.4463156!4d77.6974884!16s%2Fg%2F11x02px2_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ganga-ram-hospital-muzaffarnagar",
@@ -3098,7 +3124,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Ganga+Ram+Hospital/@29.470812,77.70069,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7548f51735:0x98df6ec23d03b02a!8m2!3d29.470812!4d77.70069!16s%2Fg%2F11csbqgdwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganga+Ram+Hospital/@29.470812,77.70069,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7548f51735:0x98df6ec23d03b02a!8m2!3d29.470812!4d77.70069!16s%2Fg%2F11csbqgdwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3167,7 +3193,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ganga+Ram+Hospital/@29.470812,77.70069,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7548f51735:0x98df6ec23d03b02a!8m2!3d29.470812!4d77.70069!16s%2Fg%2F11csbqgdwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gloria-dermatology-clinic-muzaffarnagar",
@@ -3216,7 +3243,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/GLORIA+DERMATOLOGY+CLINIC/@29.4728762,77.7052174,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bf878fcf703:0xbefb70ac8efbc9f2!8m2!3d29.4728762!4d77.7052174!16s%2Fg%2F11gy6jrqhg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GLORIA+DERMATOLOGY+CLINIC/@29.4728762,77.7052174,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bf878fcf703:0xbefb70ac8efbc9f2!8m2!3d29.4728762!4d77.7052174!16s%2Fg%2F11gy6jrqhg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3285,7 +3312,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GLORIA+DERMATOLOGY+CLINIC/@29.4728762,77.7052174,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bf878fcf703:0xbefb70ac8efbc9f2!8m2!3d29.4728762!4d77.7052174!16s%2Fg%2F11gy6jrqhg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gunjan-ivf-world-muzaffarnagar-muzaffarnagar",
@@ -3334,7 +3362,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gunjan+IVF+World+Muzaffarnagar/@29.4654315,77.7043411,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b361c7ba2bf:0x743c7f4766bb9743!8m2!3d29.4654315!4d77.7043411!16s%2Fg%2F11z2kbrvjb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gunjan+IVF+World+Muzaffarnagar/@29.4654315,77.7043411,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b361c7ba2bf:0x743c7f4766bb9743!8m2!3d29.4654315!4d77.7043411!16s%2Fg%2F11z2kbrvjb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3400,10 +3428,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gunjan+IVF+World+Muzaffarnagar/@29.4654315,77.7043411,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b361c7ba2bf:0x743c7f4766bb9743!8m2!3d29.4654315!4d77.7043411!16s%2Fg%2F11z2kbrvjb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gupta-nursing-home-and-laparoscopy-center-muzaffarnagar-muzaffarnagar",
@@ -3452,7 +3481,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gupta+Nursing+Home+%26+Laparoscopy+Center,+Muzaffarnagar/@29.4531254,77.7048022,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b015405d563:0xe3ebfe512152de74!8m2!3d29.4531254!4d77.7048022!16s%2Fg%2F1hdzjwynm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+Nursing+Home+%26+Laparoscopy+Center,+Muzaffarnagar/@29.4531254,77.7048022,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b015405d563:0xe3ebfe512152de74!8m2!3d29.4531254!4d77.7048022!16s%2Fg%2F1hdzjwynm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3518,10 +3547,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gupta+Nursing+Home+%26+Laparoscopy+Center,+Muzaffarnagar/@29.4531254,77.7048022,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b015405d563:0xe3ebfe512152de74!8m2!3d29.4531254!4d77.7048022!16s%2Fg%2F1hdzjwynm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gurbachan-dental-clinic-best-root-canal-treatment-dental-implant-treatment-clinic-braces-treatment-in-muzaffarnagar-muzaffarnagar",
@@ -3570,7 +3600,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gurbachan+Dental+Clinic+-+Best+Root+Canal+Treatment+%7C+Dental+Implant+Treatment+Clinic+%7C+Braces+Treatment+in+Muzaffarnagar/@29.4707183,77.6991582,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9ffcc0f4b9:0x2da6830e6d9ba096!8m2!3d29.4707183!4d77.6991582!16s%2Fg%2F11ggqtjq7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurbachan+Dental+Clinic+-+Best+Root+Canal+Treatment+%7C+Dental+Implant+Treatment+Clinic+%7C+Braces+Treatment+in+Muzaffarnagar/@29.4707183,77.6991582,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9ffcc0f4b9:0x2da6830e6d9ba096!8m2!3d29.4707183!4d77.6991582!16s%2Fg%2F11ggqtjq7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3636,10 +3666,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gurbachan+Dental+Clinic+-+Best+Root+Canal+Treatment+%7C+Dental+Implant+Treatment+Clinic+%7C+Braces+Treatment+in+Muzaffarnagar/@29.4707183,77.6991582,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9ffcc0f4b9:0x2da6830e6d9ba096!8m2!3d29.4707183!4d77.6991582!16s%2Fg%2F11ggqtjq7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hospital-jauli",
@@ -3688,7 +3719,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Hospital/@29.4252241,77.8466605,17z/data=!3m1!4b1!4m6!3m5!1s0x390c0761ac3972fb:0x12194fccfe7925d5!8m2!3d29.4252241!4d77.8466605!16s%2Fg%2F11h5l_j1l5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital/@29.4252241,77.8466605,17z/data=!3m1!4b1!4m6!3m5!1s0x390c0761ac3972fb:0x12194fccfe7925d5!8m2!3d29.4252241!4d77.8466605!16s%2Fg%2F11h5l_j1l5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3754,10 +3785,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hospital/@29.4252241,77.8466605,17z/data=!3m1!4b1!4m6!3m5!1s0x390c0761ac3972fb:0x12194fccfe7925d5!8m2!3d29.4252241!4d77.8466605!16s%2Fg%2F11h5l_j1l5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ila-hospital-muzaffarnagar",
@@ -3806,7 +3838,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ila+Hospital/@29.4732592,77.704757,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b748158dacb:0x112dadf70396d5cd!8m2!3d29.4732592!4d77.704757!16s%2Fg%2F11c32g6xc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ila+Hospital/@29.4732592,77.704757,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b748158dacb:0x112dadf70396d5cd!8m2!3d29.4732592!4d77.704757!16s%2Fg%2F11c32g6xc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3875,7 +3907,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ila+Hospital/@29.4732592,77.704757,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b748158dacb:0x112dadf70396d5cd!8m2!3d29.4732592!4d77.704757!16s%2Fg%2F11c32g6xc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indira-ivf-eves-test-tube-baby-centre-muzaffarnagar",
@@ -3922,7 +3955,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Eves+Test+Tube+Baby+Centre/@29.4540658,77.7212234,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bd3d37d3795:0xd24160627cac0105!8m2!3d29.4540658!4d77.7212234!16s%2Fg%2F11z1y2wz8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Eves+Test+Tube+Baby+Centre/@29.4540658,77.7212234,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bd3d37d3795:0xd24160627cac0105!8m2!3d29.4540658!4d77.7212234!16s%2Fg%2F11z1y2wz8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3988,10 +4021,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Eves+Test+Tube+Baby+Centre/@29.4540658,77.7212234,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bd3d37d3795:0xd24160627cac0105!8m2!3d29.4540658!4d77.7212234!16s%2Fg%2F11z1y2wz8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "j-u-hospital-muzaffarnagar",
@@ -4039,7 +4073,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/J+U+Hospital/@29.4957378,77.698792,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1d3ebaa6ca05:0xdeb24c252ad39e81!8m2!3d29.4957378!4d77.698792!16s%2Fg%2F11fv9c1vqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J+U+Hospital/@29.4957378,77.698792,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1d3ebaa6ca05:0xdeb24c252ad39e81!8m2!3d29.4957378!4d77.698792!16s%2Fg%2F11fv9c1vqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4108,7 +4142,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/J+U+Hospital/@29.4957378,77.698792,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1d3ebaa6ca05:0xdeb24c252ad39e81!8m2!3d29.4957378!4d77.698792!16s%2Fg%2F11fv9c1vqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jagdish-hospital-muzaffarnagar",
@@ -4156,7 +4191,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Jagdish+Hospital/@29.4721487,77.7255609,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bf8ff24e5f1:0x141d168287592843!8m2!3d29.4721487!4d77.7255609!16s%2Fg%2F11g0gd9f6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jagdish+Hospital/@29.4721487,77.7255609,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bf8ff24e5f1:0x141d168287592843!8m2!3d29.4721487!4d77.7255609!16s%2Fg%2F11g0gd9f6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4225,7 +4260,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jagdish+Hospital/@29.4721487,77.7255609,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bf8ff24e5f1:0x141d168287592843!8m2!3d29.4721487!4d77.7255609!16s%2Fg%2F11g0gd9f6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevan-prakash-hospital-muzaffarnagar",
@@ -4273,7 +4309,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Prakash+Hospital/@29.4729165,77.7114006,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6d668ab537:0x6f56893f606218a9!8m2!3d29.4729165!4d77.7114006!16s%2Fg%2F11cn93qbdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Prakash+Hospital/@29.4729165,77.7114006,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6d668ab537:0x6f56893f606218a9!8m2!3d29.4729165!4d77.7114006!16s%2Fg%2F11cn93qbdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4342,7 +4378,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Prakash+Hospital/@29.4729165,77.7114006,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6d668ab537:0x6f56893f606218a9!8m2!3d29.4729165!4d77.7114006!16s%2Fg%2F11cn93qbdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jyoti-hospital-muzaffarnagar",
@@ -4391,7 +4428,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jyoti+Hospital/@29.4530668,77.7056586,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b03fbb6f50d:0x28f73e21133c8daf!8m2!3d29.4530668!4d77.7056586!16s%2Fg%2F1hd_8dhgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jyoti+Hospital/@29.4530668,77.7056586,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b03fbb6f50d:0x28f73e21133c8daf!8m2!3d29.4530668!4d77.7056586!16s%2Fg%2F1hd_8dhgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4460,7 +4497,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jyoti+Hospital/@29.4530668,77.7056586,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b03fbb6f50d:0x28f73e21133c8daf!8m2!3d29.4530668!4d77.7056586!16s%2Fg%2F1hd_8dhgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalawati-medicentre-muzaffarnagar",
@@ -4509,7 +4547,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KALAWATI+MEDICENTRE+%E0%A4%95%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%A4%E0%A5%80+%E0%A4%AE%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0/@29.4747852,77.7178409,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb7903c99eb:0x7e764932b42fefb2!8m2!3d29.4747852!4d77.7178409!16s%2Fg%2F11qmp9r9k2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KALAWATI+MEDICENTRE+%E0%A4%95%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%A4%E0%A5%80+%E0%A4%AE%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0/@29.4747852,77.7178409,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb7903c99eb:0x7e764932b42fefb2!8m2!3d29.4747852!4d77.7178409!16s%2Fg%2F11qmp9r9k2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4578,7 +4616,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KALAWATI+MEDICENTRE+%E0%A4%95%E0%A4%B2%E0%A4%BE%E0%A4%B5%E0%A4%A4%E0%A5%80+%E0%A4%AE%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0/@29.4747852,77.7178409,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb7903c99eb:0x7e764932b42fefb2!8m2!3d29.4747852!4d77.7178409!16s%2Fg%2F11qmp9r9k2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kamboj-hospital-muzaffarnagar",
@@ -4626,7 +4665,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/kamboj+hospital/@29.4598489,77.716092,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b48a9956c0d:0xb1b176fa2aa55161!8m2!3d29.4598489!4d77.716092!16s%2Fg%2F11g0js9wzd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/kamboj+hospital/@29.4598489,77.716092,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b48a9956c0d:0xb1b176fa2aa55161!8m2!3d29.4598489!4d77.716092!16s%2Fg%2F11g0js9wzd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4695,7 +4734,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/kamboj+hospital/@29.4598489,77.716092,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b48a9956c0d:0xb1b176fa2aa55161!8m2!3d29.4598489!4d77.716092!16s%2Fg%2F11g0js9wzd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kanhaiya-lal-hospital-muzaffarnagar",
@@ -4743,7 +4783,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Kanhaiya+lal+Hospital/@29.4677089,77.7245433,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b3e65eae54b:0xa0d0eafcedc7f0ca!8m2!3d29.4677089!4d77.7245433!16s%2Fg%2F11f55ywtc8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kanhaiya+lal+Hospital/@29.4677089,77.7245433,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b3e65eae54b:0xa0d0eafcedc7f0ca!8m2!3d29.4677089!4d77.7245433!16s%2Fg%2F11f55ywtc8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4812,7 +4852,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kanhaiya+lal+Hospital/@29.4677089,77.7245433,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b3e65eae54b:0xa0d0eafcedc7f0ca!8m2!3d29.4677089!4d77.7245433!16s%2Fg%2F11f55ywtc8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kazmi-hospital-muzaffarnagar",
@@ -4860,7 +4901,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kazmi+Hospital/@29.4747202,77.6994982,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b75ee2fe457:0x52457f8fc3a90188!8m2!3d29.4747202!4d77.6994982!16s%2Fg%2F1hdzxypbf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kazmi+Hospital/@29.4747202,77.6994982,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b75ee2fe457:0x52457f8fc3a90188!8m2!3d29.4747202!4d77.6994982!16s%2Fg%2F1hdzxypbf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4926,10 +4967,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kazmi+Hospital/@29.4747202,77.6994982,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b75ee2fe457:0x52457f8fc3a90188!8m2!3d29.4747202!4d77.6994982!16s%2Fg%2F1hdzxypbf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kesa-hair-transplant-center-muzaffarnagar",
@@ -4977,7 +5019,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kesa+Hair+Transplant+Center/@29.4736137,77.7051121,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b3075fd679f:0x66cfaeac8b4483dc!8m2!3d29.4736137!4d77.7051121!16s%2Fg%2F11qyd9lnl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kesa+Hair+Transplant+Center/@29.4736137,77.7051121,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b3075fd679f:0x66cfaeac8b4483dc!8m2!3d29.4736137!4d77.7051121!16s%2Fg%2F11qyd9lnl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5043,10 +5085,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kesa+Hair+Transplant+Center/@29.4736137,77.7051121,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b3075fd679f:0x66cfaeac8b4483dc!8m2!3d29.4736137!4d77.7051121!16s%2Fg%2F11qyd9lnl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khan-clinic-and-trauma-centre-muzaffarnagar",
@@ -5092,7 +5135,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/KHAN+CLINIC+AND+TRAUMA+CENTRE/@29.4754113,77.6969837,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9e78deaea3:0xa990cfe399f590b1!8m2!3d29.4754113!4d77.6969837!16s%2Fg%2F11l6tmlyhh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KHAN+CLINIC+AND+TRAUMA+CENTRE/@29.4754113,77.6969837,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9e78deaea3:0xa990cfe399f590b1!8m2!3d29.4754113!4d77.6969837!16s%2Fg%2F11l6tmlyhh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5158,10 +5201,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KHAN+CLINIC+AND+TRAUMA+CENTRE/@29.4754113,77.6969837,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9e78deaea3:0xa990cfe399f590b1!8m2!3d29.4754113!4d77.6969837!16s%2Fg%2F11l6tmlyhh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khushi-clinic-and-physiotherepy-centre-muzaffarnagar",
@@ -5210,7 +5254,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Khushi+clinic+%26+physiotherepy+centre/@29.4614565,77.7225373,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bd72403400f:0x61d827506bb43eab!8m2!3d29.4614565!4d77.7225373!16s%2Fg%2F11t9wvkn18?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khushi+clinic+%26+physiotherepy+centre/@29.4614565,77.7225373,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bd72403400f:0x61d827506bb43eab!8m2!3d29.4614565!4d77.7225373!16s%2Fg%2F11t9wvkn18?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5279,7 +5323,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khushi+clinic+%26+physiotherepy+centre/@29.4614565,77.7225373,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bd72403400f:0x61d827506bb43eab!8m2!3d29.4614565!4d77.7225373!16s%2Fg%2F11t9wvkn18?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kirrvedaa-skin-clinic-chemical-peel-ayurvedic-treatment-infertility-treatment-skin-specialist-muzaffarnagar-muzaffarnagar",
@@ -5329,7 +5374,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kirrvedaa+Skin+Clinic+:+Chemical+Peel+%7C+Ayurvedic+Treatment+%7C+Infertility+Treatment+%7C+Skin+Specialist+Muzaffarnagar/@29.4755087,77.7160803,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9894e3afe7:0xf4add5cd2b893ff1!8m2!3d29.4755087!4d77.7160803!16s%2Fg%2F11xyq_1f26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kirrvedaa+Skin+Clinic+:+Chemical+Peel+%7C+Ayurvedic+Treatment+%7C+Infertility+Treatment+%7C+Skin+Specialist+Muzaffarnagar/@29.4755087,77.7160803,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9894e3afe7:0xf4add5cd2b893ff1!8m2!3d29.4755087!4d77.7160803!16s%2Fg%2F11xyq_1f26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5395,10 +5440,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kirrvedaa+Skin+Clinic+:+Chemical+Peel+%7C+Ayurvedic+Treatment+%7C+Infertility+Treatment+%7C+Skin+Specialist+Muzaffarnagar/@29.4755087,77.7160803,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9894e3afe7:0xf4add5cd2b893ff1!8m2!3d29.4755087!4d77.7160803!16s%2Fg%2F11xyq_1f26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kisan-hospital-muzaffarnagar",
@@ -5446,7 +5492,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Kisan+Hospital/@29.4728639,77.7098816,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bc9e95128b5:0xadbf52b7972f2d33!8m2!3d29.4728639!4d77.7098816!16s%2Fg%2F11gjp4cybv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kisan+Hospital/@29.4728639,77.7098816,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bc9e95128b5:0xadbf52b7972f2d33!8m2!3d29.4728639!4d77.7098816!16s%2Fg%2F11gjp4cybv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5512,10 +5558,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kisan+Hospital/@29.4728639,77.7098816,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bc9e95128b5:0xadbf52b7972f2d33!8m2!3d29.4728639!4d77.7098816!16s%2Fg%2F11gjp4cybv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kumar-clinic-muzaffarnagar",
@@ -5561,7 +5608,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Kumar+Clinic/@29.4652722,77.7144165,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b65cbd328e3:0xdc12f9d191ab3b49!8m2!3d29.4652722!4d77.7144165!16s%2Fg%2F11fkyxcv_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kumar+Clinic/@29.4652722,77.7144165,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b65cbd328e3:0xdc12f9d191ab3b49!8m2!3d29.4652722!4d77.7144165!16s%2Fg%2F11fkyxcv_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5627,10 +5674,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kumar+Clinic/@29.4652722,77.7144165,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b65cbd328e3:0xdc12f9d191ab3b49!8m2!3d29.4652722!4d77.7144165!16s%2Fg%2F11fkyxcv_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kusum-hospital-muzaffarnagar",
@@ -5678,7 +5726,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Kusum+Hospital/@29.4579378,77.7117632,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb7573fe253:0x5c21feb60bd4d8bf!8m2!3d29.4579378!4d77.7117632!16s%2Fg%2F11h3qrjnt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kusum+Hospital/@29.4579378,77.7117632,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb7573fe253:0x5c21feb60bd4d8bf!8m2!3d29.4579378!4d77.7117632!16s%2Fg%2F11h3qrjnt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5747,7 +5795,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kusum+Hospital/@29.4579378,77.7117632,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb7573fe253:0x5c21feb60bd4d8bf!8m2!3d29.4579378!4d77.7117632!16s%2Fg%2F11h3qrjnt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lalit-clinic-muzaffarnagar",
@@ -5795,7 +5844,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Lalit+Clinic/@29.4762789,77.690793,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9a352feaad:0x69c204facba9f6c0!8m2!3d29.4762789!4d77.690793!16s%2Fg%2F11fzf6nlqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lalit+Clinic/@29.4762789,77.690793,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9a352feaad:0x69c204facba9f6c0!8m2!3d29.4762789!4d77.690793!16s%2Fg%2F11fzf6nlqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5864,7 +5913,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lalit+Clinic/@29.4762789,77.690793,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9a352feaad:0x69c204facba9f6c0!8m2!3d29.4762789!4d77.690793!16s%2Fg%2F11fzf6nlqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "leela-nursing-home-muzaffarnagar",
@@ -5913,7 +5963,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Leela+Nursing+Home/@29.4558685,77.6972786,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6a403780a9:0x100c882492a16ef9!8m2!3d29.4558685!4d77.6972786!16s%2Fg%2F11h60f13cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Leela+Nursing+Home/@29.4558685,77.6972786,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6a403780a9:0x100c882492a16ef9!8m2!3d29.4558685!4d77.6972786!16s%2Fg%2F11h60f13cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5982,7 +6032,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Leela+Nursing+Home/@29.4558685,77.6972786,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6a403780a9:0x100c882492a16ef9!8m2!3d29.4558685!4d77.6972786!16s%2Fg%2F11h60f13cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "limra-health-care-centre-muzaffarnagar",
@@ -6030,7 +6081,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Limra+Health+Care+Centre/@29.4941411,77.7030798,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1d7d30f1bb0b:0x97d46cac95dba30e!8m2!3d29.4941411!4d77.7030798!16s%2Fg%2F11tt9nm06j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Limra+Health+Care+Centre/@29.4941411,77.7030798,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1d7d30f1bb0b:0x97d46cac95dba30e!8m2!3d29.4941411!4d77.7030798!16s%2Fg%2F11tt9nm06j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6099,7 +6150,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Limra+Health+Care+Centre/@29.4941411,77.7030798,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1d7d30f1bb0b:0x97d46cac95dba30e!8m2!3d29.4941411!4d77.7030798!16s%2Fg%2F11tt9nm06j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lokpriya-hospital-muzaffarnagar-muzaffarnagar",
@@ -6147,7 +6199,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Lokpriya+Hospital+Muzaffarnagar/@29.4975099,77.6992979,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1c7e1e6e2a25:0x8cd8ab57d9b17834!8m2!3d29.4975099!4d77.6992979!16s%2Fg%2F11vkz3gm0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lokpriya+Hospital+Muzaffarnagar/@29.4975099,77.6992979,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1c7e1e6e2a25:0x8cd8ab57d9b17834!8m2!3d29.4975099!4d77.6992979!16s%2Fg%2F11vkz3gm0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6216,7 +6268,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lokpriya+Hospital+Muzaffarnagar/@29.4975099,77.6992979,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1c7e1e6e2a25:0x8cd8ab57d9b17834!8m2!3d29.4975099!4d77.6992979!16s%2Fg%2F11vkz3gm0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madan-dental-clinic-muzaffarnagar",
@@ -6264,7 +6317,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Madan+Dental+Clinic/@29.4748185,77.6950104,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0071330895:0x44abab177af8a970!8m2!3d29.4748185!4d77.6950104!16s%2Fg%2F11yhy7ww27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madan+Dental+Clinic/@29.4748185,77.6950104,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0071330895:0x44abab177af8a970!8m2!3d29.4748185!4d77.6950104!16s%2Fg%2F11yhy7ww27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6330,10 +6383,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madan+Dental+Clinic/@29.4748185,77.6950104,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0071330895:0x44abab177af8a970!8m2!3d29.4748185!4d77.6950104!16s%2Fg%2F11yhy7ww27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maheshwari-hospital-nursing-home-and-eye-center-best-cataract-lasik-icl-contoura-vision-ivf-infertility-treatment-muzaffarnagar",
@@ -6383,7 +6437,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Maheshwari+Hospital+:+Nursing+Home+%26+Eye+Center,+Best+Cataract,+LASIK,+ICL,+Contoura+Vision,+IVF,+Infertility+Treatment/@29.4684448,77.7115779,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b127daa7891:0xc408e011871751c6!8m2!3d29.4684448!4d77.7115779!16s%2Fg%2F1hbpwpzjr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maheshwari+Hospital+:+Nursing+Home+%26+Eye+Center,+Best+Cataract,+LASIK,+ICL,+Contoura+Vision,+IVF,+Infertility+Treatment/@29.4684448,77.7115779,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b127daa7891:0xc408e011871751c6!8m2!3d29.4684448!4d77.7115779!16s%2Fg%2F1hbpwpzjr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6452,7 +6506,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maheshwari+Hospital+:+Nursing+Home+%26+Eye+Center,+Best+Cataract,+LASIK,+ICL,+Contoura+Vision,+IVF,+Infertility+Treatment/@29.4684448,77.7115779,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b127daa7891:0xc408e011871751c6!8m2!3d29.4684448!4d77.7115779!16s%2Fg%2F1hbpwpzjr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "marwah-dental-clinic-and-implant-center-dental-implants-braces-treatment-rct-specialist-in-muzaffarnagar-muzaffarnagar",
@@ -6500,7 +6555,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Marwah+Dental+Clinic+%26+Implant+Center+-Dental+Implants+%7CBraces+Treatment+%7CRCT+Specialist+in+Muzaffarnagar/@29.4723136,77.701864,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7556827ec5:0x79838232eaef30d6!8m2!3d29.4723136!4d77.701864!16s%2Fg%2F11hb4w2vrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Marwah+Dental+Clinic+%26+Implant+Center+-Dental+Implants+%7CBraces+Treatment+%7CRCT+Specialist+in+Muzaffarnagar/@29.4723136,77.701864,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7556827ec5:0x79838232eaef30d6!8m2!3d29.4723136!4d77.701864!16s%2Fg%2F11hb4w2vrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6569,7 +6624,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Marwah+Dental+Clinic+%26+Implant+Center+-Dental+Implants+%7CBraces+Treatment+%7CRCT+Specialist+in+Muzaffarnagar/@29.4723136,77.701864,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7556827ec5:0x79838232eaef30d6!8m2!3d29.4723136!4d77.701864!16s%2Fg%2F11hb4w2vrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medwin-hospital-muzaffarnagar",
@@ -6616,7 +6672,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Medwin+hospital/@29.4916345,77.6983617,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bbe0e4a4b4f:0xffd5fbf54673902e!8m2!3d29.4916345!4d77.6983617!16s%2Fg%2F11sc7_g243?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medwin+hospital/@29.4916345,77.6983617,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bbe0e4a4b4f:0xffd5fbf54673902e!8m2!3d29.4916345!4d77.6983617!16s%2Fg%2F11sc7_g243?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6682,10 +6738,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medwin+hospital/@29.4916345,77.6983617,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bbe0e4a4b4f:0xffd5fbf54673902e!8m2!3d29.4916345!4d77.6983617!16s%2Fg%2F11sc7_g243?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mercy-health-clinic-muzaffarnagar",
@@ -6733,7 +6790,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Mercy+Health+Clinic/@29.4777004,77.6953414,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bfd2f999a93:0x9eb7c68f9c546c85!8m2!3d29.4777004!4d77.6953414!16s%2Fg%2F11k58n9d2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mercy+Health+Clinic/@29.4777004,77.6953414,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bfd2f999a93:0x9eb7c68f9c546c85!8m2!3d29.4777004!4d77.6953414!16s%2Fg%2F11k58n9d2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6802,7 +6859,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mercy+Health+Clinic/@29.4777004,77.6953414,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bfd2f999a93:0x9eb7c68f9c546c85!8m2!3d29.4777004!4d77.6953414!16s%2Fg%2F11k58n9d2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "minocha-nursing-home-and-trauma-centre-muzaffarnagar",
@@ -6850,7 +6908,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Minocha+Nursing+Home+And+Trauma+Centre/@29.4522756,77.6970272,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1baa2c1adcb7:0xd69cd9b536f464fa!8m2!3d29.4522756!4d77.6970272!16s%2Fg%2F1hdz2p6n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Minocha+Nursing+Home+And+Trauma+Centre/@29.4522756,77.6970272,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1baa2c1adcb7:0xd69cd9b536f464fa!8m2!3d29.4522756!4d77.6970272!16s%2Fg%2F1hdz2p6n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6919,7 +6977,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Minocha+Nursing+Home+And+Trauma+Centre/@29.4522756,77.6970272,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1baa2c1adcb7:0xd69cd9b536f464fa!8m2!3d29.4522756!4d77.6970272!16s%2Fg%2F1hdz2p6n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mishra-nursing-home-muzaffarnagar",
@@ -6967,7 +7026,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://www.google.com/maps/place/Mishra+Nursing+Home/@29.4676489,77.7010109,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0af48b4ef7:0xa4c9ab783ff92646!8m2!3d29.4676489!4d77.7010109!16s%2Fg%2F11g7cxn7vg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mishra+Nursing+Home/@29.4676489,77.7010109,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0af48b4ef7:0xa4c9ab783ff92646!8m2!3d29.4676489!4d77.7010109!16s%2Fg%2F11g7cxn7vg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7036,7 +7095,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mishra+Nursing+Home/@29.4676489,77.7010109,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0af48b4ef7:0xa4c9ab783ff92646!8m2!3d29.4676489!4d77.7010109!16s%2Fg%2F11g7cxn7vg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mmc-ivf-muzaffarnagar-ivf-clinic-muzaffarnagar",
@@ -7086,7 +7146,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MMC+IVF+-+Muzaffarnagar+IVF+Clinic/@29.3728703,77.7059142,17z/data=!3m1!4b1!4m6!3m5!1s0x390c11404a0032e9:0xf7b25b9986187ed0!8m2!3d29.3728703!4d77.7059142!16s%2Fg%2F11txhnmv83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MMC+IVF+-+Muzaffarnagar+IVF+Clinic/@29.3728703,77.7059142,17z/data=!3m1!4b1!4m6!3m5!1s0x390c11404a0032e9:0xf7b25b9986187ed0!8m2!3d29.3728703!4d77.7059142!16s%2Fg%2F11txhnmv83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7152,10 +7212,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MMC+IVF+-+Muzaffarnagar+IVF+Clinic/@29.3728703,77.7059142,17z/data=!3m1!4b1!4m6!3m5!1s0x390c11404a0032e9:0xf7b25b9986187ed0!8m2!3d29.3728703!4d77.7059142!16s%2Fg%2F11txhnmv83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "national-hospital-muzaffarnagar",
@@ -7203,7 +7264,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/National+Hospital/@29.474905,77.6998502,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0027b941cb:0x5178c147bca2ec54!8m2!3d29.474905!4d77.6998502!16s%2Fg%2F11yc7v5_1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/National+Hospital/@29.474905,77.6998502,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0027b941cb:0x5178c147bca2ec54!8m2!3d29.474905!4d77.6998502!16s%2Fg%2F11yc7v5_1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7269,10 +7330,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/National+Hospital/@29.474905,77.6998502,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0027b941cb:0x5178c147bca2ec54!8m2!3d29.474905!4d77.6998502!16s%2Fg%2F11yc7v5_1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neurocity-hospital-muzaffarnagar",
@@ -7321,7 +7383,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Neurocity+Hospital/@29.4762608,77.7129646,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1be87081ebed:0x66c9c93b0ab7f0b2!8m2!3d29.4762608!4d77.7129646!16s%2Fg%2F11t8gpk9r9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neurocity+Hospital/@29.4762608,77.7129646,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1be87081ebed:0x66c9c93b0ab7f0b2!8m2!3d29.4762608!4d77.7129646!16s%2Fg%2F11t8gpk9r9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7390,7 +7452,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neurocity+Hospital/@29.4762608,77.7129646,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1be87081ebed:0x66c9c93b0ab7f0b2!8m2!3d29.4762608!4d77.7129646!16s%2Fg%2F11t8gpk9r9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neurotherapy-centre-of-muzaffarnagar-muzaffarnagar",
@@ -7439,7 +7502,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Neurotherapy+Centre+of+Muzaffarnagar/@29.4467368,77.6993643,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b675a7f20c1:0xb1f24cfdb97d2a4a!8m2!3d29.4467368!4d77.6993643!16s%2Fg%2F11y3n8wdgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neurotherapy+Centre+of+Muzaffarnagar/@29.4467368,77.6993643,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b675a7f20c1:0xb1f24cfdb97d2a4a!8m2!3d29.4467368!4d77.6993643!16s%2Fg%2F11y3n8wdgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7508,7 +7571,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neurotherapy+Centre+of+Muzaffarnagar/@29.4467368,77.6993643,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b675a7f20c1:0xb1f24cfdb97d2a4a!8m2!3d29.4467368!4d77.6993643!16s%2Fg%2F11y3n8wdgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nirmal-clinic-neeraj-singhal-muzaffarnagar",
@@ -7556,7 +7620,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Nirmal+Clinic+(Neeraj+Singhal)/@29.4667499,77.7036524,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0bbb7f92d3:0x5715ad3a3a845609!8m2!3d29.4667499!4d77.7036524!16s%2Fg%2F125_skqlj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirmal+Clinic+(Neeraj+Singhal)/@29.4667499,77.7036524,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0bbb7f92d3:0x5715ad3a3a845609!8m2!3d29.4667499!4d77.7036524!16s%2Fg%2F125_skqlj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7625,7 +7689,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nirmal+Clinic+(Neeraj+Singhal)/@29.4667499,77.7036524,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0bbb7f92d3:0x5715ad3a3a845609!8m2!3d29.4667499!4d77.7036524!16s%2Fg%2F125_skqlj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nisar-hospital-muzaffarnagar",
@@ -7673,7 +7738,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Nisar+Hospital/@29.4565777,77.69673,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba85f2ae4e1:0x1a418f392e3a0c86!8m2!3d29.4565777!4d77.69673!16s%2Fg%2F11cks39dv7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nisar+Hospital/@29.4565777,77.69673,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba85f2ae4e1:0x1a418f392e3a0c86!8m2!3d29.4565777!4d77.69673!16s%2Fg%2F11cks39dv7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7742,7 +7807,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nisar+Hospital/@29.4565777,77.69673,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba85f2ae4e1:0x1a418f392e3a0c86!8m2!3d29.4565777!4d77.69673!16s%2Fg%2F11cks39dv7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "paras-dental-care-muzaffarnagar",
@@ -7790,7 +7856,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Paras+Dental+Care/@29.4653812,77.7140772,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b73ac6c827f:0x8e6929f09c51bfad!8m2!3d29.4653812!4d77.7140772!16s%2Fg%2F11vx4rp7jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paras+Dental+Care/@29.4653812,77.7140772,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b73ac6c827f:0x8e6929f09c51bfad!8m2!3d29.4653812!4d77.7140772!16s%2Fg%2F11vx4rp7jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7856,10 +7922,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Paras+Dental+Care/@29.4653812,77.7140772,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b73ac6c827f:0x8e6929f09c51bfad!8m2!3d29.4653812!4d77.7140772!16s%2Fg%2F11vx4rp7jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prakash-dental-care-and-implant-centre-muzaffarnagar",
@@ -7908,7 +7975,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Prakash+Dental+Care+and+Implant+Centre/@29.4732483,77.6963023,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bed3e36ce55:0x1ec5a02617bff694!8m2!3d29.4732483!4d77.6963023!16s%2Fg%2F11hf8hz90n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prakash+Dental+Care+and+Implant+Centre/@29.4732483,77.6963023,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bed3e36ce55:0x1ec5a02617bff694!8m2!3d29.4732483!4d77.6963023!16s%2Fg%2F11hf8hz90n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7974,10 +8041,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prakash+Dental+Care+and+Implant+Centre/@29.4732483,77.6963023,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bed3e36ce55:0x1ec5a02617bff694!8m2!3d29.4732483!4d77.6963023!16s%2Fg%2F11hf8hz90n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prakash-dental-clinic-muzaffarnagar",
@@ -8026,7 +8094,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Prakash+Dental+Clinic/@29.466712,77.7043931,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b72e68509a3:0xce537a6cbb6044c3!8m2!3d29.466712!4d77.7043931!16s%2Fg%2F11c1t51l8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prakash+Dental+Clinic/@29.466712,77.7043931,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b72e68509a3:0xce537a6cbb6044c3!8m2!3d29.466712!4d77.7043931!16s%2Fg%2F11c1t51l8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8095,7 +8163,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prakash+Dental+Clinic/@29.466712,77.7043931,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b72e68509a3:0xce537a6cbb6044c3!8m2!3d29.466712!4d77.7043931!16s%2Fg%2F11c1t51l8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pranjal-clinic-muzaffarnagar",
@@ -8141,7 +8210,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Pranjal+Clinic/@29.4703135,77.7002678,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b754d158d49:0x8988e69ac7187893!8m2!3d29.4703135!4d77.7002678!16s%2Fg%2F11gbxcptwl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pranjal+Clinic/@29.4703135,77.7002678,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b754d158d49:0x8988e69ac7187893!8m2!3d29.4703135!4d77.7002678!16s%2Fg%2F11gbxcptwl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8207,10 +8276,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pranjal+Clinic/@29.4703135,77.7002678,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b754d158d49:0x8988e69ac7187893!8m2!3d29.4703135!4d77.7002678!16s%2Fg%2F11gbxcptwl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "primex-hospital-muzaffarnagar",
@@ -8258,7 +8328,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/PrimeX+Hospital/@29.4573951,77.6949867,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b79a539526f:0xeb72232714b786f4!8m2!3d29.4573951!4d77.6949867!16s%2Fg%2F11ybvftyy1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PrimeX+Hospital/@29.4573951,77.6949867,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b79a539526f:0xeb72232714b786f4!8m2!3d29.4573951!4d77.6949867!16s%2Fg%2F11ybvftyy1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8327,7 +8397,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PrimeX+Hospital/@29.4573951,77.6949867,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b79a539526f:0xeb72232714b786f4!8m2!3d29.4573951!4d77.6949867!16s%2Fg%2F11ybvftyy1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raheemi-health-clinic-baghonwali",
@@ -8376,7 +8447,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Raheemi+Health+Clinic/@29.5150452,77.7326294,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1dc881afad0d:0x1964921c3434b80f!8m2!3d29.5150452!4d77.7326294!16s%2Fg%2F11fpsc2j9s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raheemi+Health+Clinic/@29.5150452,77.7326294,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1dc881afad0d:0x1964921c3434b80f!8m2!3d29.5150452!4d77.7326294!16s%2Fg%2F11fpsc2j9s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8445,7 +8516,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raheemi+Health+Clinic/@29.5150452,77.7326294,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1dc881afad0d:0x1964921c3434b80f!8m2!3d29.5150452!4d77.7326294!16s%2Fg%2F11fpsc2j9s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raj-dental-clinic-muzaffarnagar",
@@ -8493,7 +8565,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/RAJ+DENTAL+CLINIC/@29.4759566,77.715794,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bc58a617f1b:0x6f85f0806d40a7f6!8m2!3d29.4759566!4d77.715794!16s%2Fg%2F11rkd6tqmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RAJ+DENTAL+CLINIC/@29.4759566,77.715794,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bc58a617f1b:0x6f85f0806d40a7f6!8m2!3d29.4759566!4d77.715794!16s%2Fg%2F11rkd6tqmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8559,10 +8631,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RAJ+DENTAL+CLINIC/@29.4759566,77.715794,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bc58a617f1b:0x6f85f0806d40a7f6!8m2!3d29.4759566!4d77.715794!16s%2Fg%2F11rkd6tqmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajwansh-hospital-and-institute-of-medical-science-muzaffarnagar",
@@ -8610,7 +8683,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Rajwansh+Hospital+And+Institute+Of+Medical+Science/@29.4673666,77.7114795,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b5ea8cf3c51:0xa5975b722b07baa4!8m2!3d29.4673666!4d77.7114795!16s%2Fg%2F11gnp4gpvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajwansh+Hospital+And+Institute+Of+Medical+Science/@29.4673666,77.7114795,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b5ea8cf3c51:0xa5975b722b07baa4!8m2!3d29.4673666!4d77.7114795!16s%2Fg%2F11gnp4gpvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8679,7 +8752,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajwansh+Hospital+And+Institute+Of+Medical+Science/@29.4673666,77.7114795,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b5ea8cf3c51:0xa5975b722b07baa4!8m2!3d29.4673666!4d77.7114795!16s%2Fg%2F11gnp4gpvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rama-devi-eye-hospital-muzaffarnagar",
@@ -8729,7 +8803,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rama+Devi+Eye+Hospital/@29.4636821,77.7147086,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1be9492ff3ab:0x5d9d7c056df82b68!8m2!3d29.4636821!4d77.7147086!16s%2Fg%2F11fjtl59vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rama+Devi+Eye+Hospital/@29.4636821,77.7147086,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1be9492ff3ab:0x5d9d7c056df82b68!8m2!3d29.4636821!4d77.7147086!16s%2Fg%2F11fjtl59vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8798,7 +8872,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rama+Devi+Eye+Hospital/@29.4636821,77.7147086,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1be9492ff3ab:0x5d9d7c056df82b68!8m2!3d29.4636821!4d77.7147086!16s%2Fg%2F11fjtl59vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rama-krishna-hospital-muzaffarnagar",
@@ -8846,7 +8921,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Rama+Krishna+Hospital/@29.4725479,77.7006873,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7573ac8b7f:0x30c27da5ca2258cd!8m2!3d29.4725479!4d77.7006873!16s%2Fg%2F1hhmkzkm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rama+Krishna+Hospital/@29.4725479,77.7006873,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7573ac8b7f:0x30c27da5ca2258cd!8m2!3d29.4725479!4d77.7006873!16s%2Fg%2F1hhmkzkm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8915,7 +8990,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rama+Krishna+Hospital/@29.4725479,77.7006873,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7573ac8b7f:0x30c27da5ca2258cd!8m2!3d29.4725479!4d77.7006873!16s%2Fg%2F1hhmkzkm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ramani-nursing-home-muzaffarnagar",
@@ -8963,7 +9039,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Ramani+Nursing+Home/@29.4651415,77.696411,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba1292ac321:0x8854e8d514b226e9!8m2!3d29.4651415!4d77.696411!16s%2Fg%2F12hlxv16b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ramani+Nursing+Home/@29.4651415,77.696411,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba1292ac321:0x8854e8d514b226e9!8m2!3d29.4651415!4d77.696411!16s%2Fg%2F12hlxv16b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9032,7 +9108,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ramani+Nursing+Home/@29.4651415,77.696411,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba1292ac321:0x8854e8d514b226e9!8m2!3d29.4651415!4d77.696411!16s%2Fg%2F12hlxv16b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ratan-singh-hospital-muzaffarnagar",
@@ -9080,7 +9157,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Ratan+Singh+Hospital/@29.4722107,77.701687,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b5accfdf29f:0xd0ed8fceef0f3cd5!8m2!3d29.4722107!4d77.701687!16s%2Fg%2F11fcstymft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ratan+Singh+Hospital/@29.4722107,77.701687,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b5accfdf29f:0xd0ed8fceef0f3cd5!8m2!3d29.4722107!4d77.701687!16s%2Fg%2F11fcstymft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9149,7 +9226,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ratan+Singh+Hospital/@29.4722107,77.701687,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b5accfdf29f:0xd0ed8fceef0f3cd5!8m2!3d29.4722107!4d77.701687!16s%2Fg%2F11fcstymft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-k-hospital-muzaffarnagar",
@@ -9197,7 +9275,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/S+k+hospital/@29.4579126,77.6884315,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b001d96338d:0x2c6e45f530967bdb!8m2!3d29.4579126!4d77.6884315!16s%2Fg%2F11vwnf67w9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+k+hospital/@29.4579126,77.6884315,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b001d96338d:0x2c6e45f530967bdb!8m2!3d29.4579126!4d77.6884315!16s%2Fg%2F11vwnf67w9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9263,10 +9341,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+k+hospital/@29.4579126,77.6884315,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b001d96338d:0x2c6e45f530967bdb!8m2!3d29.4579126!4d77.6884315!16s%2Fg%2F11vwnf67w9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-k-hospital-muzaffarnagar",
@@ -9314,7 +9393,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/S.K.hospital/@29.464316,77.6870608,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b005496944b:0xebd8d99e19ab5006!8m2!3d29.464316!4d77.6870608!16s%2Fg%2F11y3rhxl1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.K.hospital/@29.464316,77.6870608,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b005496944b:0xebd8d99e19ab5006!8m2!3d29.464316!4d77.6870608!16s%2Fg%2F11y3rhxl1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9380,10 +9459,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S.K.hospital/@29.464316,77.6870608,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b005496944b:0xebd8d99e19ab5006!8m2!3d29.464316!4d77.6870608!16s%2Fg%2F11y3rhxl1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-r-hospital-muzaffarnagar",
@@ -9431,7 +9511,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/S.R.Hospital/@29.4750927,77.7003765,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b75ee6b5ba7:0xad581ab5a1556e09!8m2!3d29.4750927!4d77.7003765!16s%2Fg%2F11tnwlhcqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.R.Hospital/@29.4750927,77.7003765,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b75ee6b5ba7:0xad581ab5a1556e09!8m2!3d29.4750927!4d77.7003765!16s%2Fg%2F11tnwlhcqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9500,7 +9580,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S.R.Hospital/@29.4750927,77.7003765,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b75ee6b5ba7:0xad581ab5a1556e09!8m2!3d29.4750927!4d77.7003765!16s%2Fg%2F11tnwlhcqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saaol-heart-center-muzaffarnagar-muzaffarnagar",
@@ -9550,7 +9631,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SAAOL+HEART+CENTER,+MUZAFFARNAGAR/@29.4725588,77.7187148,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba37d1f063d:0x3a626b5647071d4d!8m2!3d29.4725588!4d77.7187148!16s%2Fg%2F11h00kz5jm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAAOL+HEART+CENTER,+MUZAFFARNAGAR/@29.4725588,77.7187148,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba37d1f063d:0x3a626b5647071d4d!8m2!3d29.4725588!4d77.7187148!16s%2Fg%2F11h00kz5jm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9619,7 +9700,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAAOL+HEART+CENTER,+MUZAFFARNAGAR/@29.4725588,77.7187148,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba37d1f063d:0x3a626b5647071d4d!8m2!3d29.4725588!4d77.7187148!16s%2Fg%2F11h00kz5jm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sadar-medicare-muzaffarnagar",
@@ -9668,7 +9750,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Sadar+Medicare/@29.4656823,77.6957228,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba11962f7a3:0x3c6c4f000ef8954b!8m2!3d29.4656823!4d77.6957228!16s%2Fg%2F11jsc_g1f_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadar+Medicare/@29.4656823,77.6957228,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba11962f7a3:0x3c6c4f000ef8954b!8m2!3d29.4656823!4d77.6957228!16s%2Fg%2F11jsc_g1f_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9737,7 +9819,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sadar+Medicare/@29.4656823,77.6957228,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1ba11962f7a3:0x3c6c4f000ef8954b!8m2!3d29.4656823!4d77.6957228!16s%2Fg%2F11jsc_g1f_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sadar-medicare-dr-fareed-dr-mahjabeen-muzaffarnagar",
@@ -9785,7 +9868,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sadar+Medicare,Dr+Fareed,Dr+Mahjabeen/@29.4655163,77.6956463,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6b2d8a932d:0x5f7a30d5c4ef9ae2!8m2!3d29.4655163!4d77.6956463!16s%2Fg%2F11vpx_wnd3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadar+Medicare,Dr+Fareed,Dr+Mahjabeen/@29.4655163,77.6956463,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6b2d8a932d:0x5f7a30d5c4ef9ae2!8m2!3d29.4655163!4d77.6956463!16s%2Fg%2F11vpx_wnd3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9851,10 +9934,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sadar+Medicare,Dr+Fareed,Dr+Mahjabeen/@29.4655163,77.6956463,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6b2d8a932d:0x5f7a30d5c4ef9ae2!8m2!3d29.4655163!4d77.6956463!16s%2Fg%2F11vpx_wnd3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-prabha-ayurvedic-hospital-and-infertility-center-muzaffarnagar",
@@ -9904,7 +9988,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Prabha+Ayurvedic+Hospital+and+Infertility+Center/@29.4584082,77.7153364,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b8ed7b92709:0x83c7dd19e22dbe6c!8m2!3d29.4584082!4d77.7153364!16s%2Fg%2F11td4p_sn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Prabha+Ayurvedic+Hospital+and+Infertility+Center/@29.4584082,77.7153364,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b8ed7b92709:0x83c7dd19e22dbe6c!8m2!3d29.4584082!4d77.7153364!16s%2Fg%2F11td4p_sn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9970,10 +10054,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Prabha+Ayurvedic+Hospital+and+Infertility+Center/@29.4584082,77.7153364,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b8ed7b92709:0x83c7dd19e22dbe6c!8m2!3d29.4584082!4d77.7153364!16s%2Fg%2F11td4p_sn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sana-hospital-muzaffarnagar",
@@ -10021,7 +10106,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SANA+HOSPITAL/@29.4906188,77.7136638,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb8179fcd83:0x442eead8570ff6a2!8m2!3d29.4906188!4d77.7136638!16s%2Fg%2F11hz0thkxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SANA+HOSPITAL/@29.4906188,77.7136638,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb8179fcd83:0x442eead8570ff6a2!8m2!3d29.4906188!4d77.7136638!16s%2Fg%2F11hz0thkxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10087,10 +10172,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SANA+HOSPITAL/@29.4906188,77.7136638,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb8179fcd83:0x442eead8570ff6a2!8m2!3d29.4906188!4d77.7136638!16s%2Fg%2F11hz0thkxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjeevani-hospital-muzaffarnagar",
@@ -10138,7 +10224,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/SANJEEVANI+HOSPITAL/@29.4763324,77.71376,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6c32b7d1b7:0x2382d3412a64f075!8m2!3d29.4763324!4d77.71376!16s%2Fg%2F1td74z6p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SANJEEVANI+HOSPITAL/@29.4763324,77.71376,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6c32b7d1b7:0x2382d3412a64f075!8m2!3d29.4763324!4d77.71376!16s%2Fg%2F1td74z6p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10207,7 +10293,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SANJEEVANI+HOSPITAL/@29.4763324,77.71376,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6c32b7d1b7:0x2382d3412a64f075!8m2!3d29.4763324!4d77.71376!16s%2Fg%2F1td74z6p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sd-dialysis-centre-muzaffarnagar",
@@ -10255,7 +10342,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/SD+Dialysis+centre/@29.4722507,77.7173053,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b14d4607b1b:0x35f743569a09c2ab!8m2!3d29.4722507!4d77.7173053!16s%2Fg%2F11c5s959z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SD+Dialysis+centre/@29.4722507,77.7173053,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b14d4607b1b:0x35f743569a09c2ab!8m2!3d29.4722507!4d77.7173053!16s%2Fg%2F11c5s959z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10324,7 +10411,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SD+Dialysis+centre/@29.4722507,77.7173053,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b14d4607b1b:0x35f743569a09c2ab!8m2!3d29.4722507!4d77.7173053!16s%2Fg%2F11c5s959z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sewa-medicare-muzaffarnagar",
@@ -10373,7 +10461,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sewa+Medicare/@29.4660516,77.7048858,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0bfae57419:0xaf9295abeb875d49!8m2!3d29.4660516!4d77.7048858!16s%2Fg%2F11g6vjtfnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sewa+Medicare/@29.4660516,77.7048858,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0bfae57419:0xaf9295abeb875d49!8m2!3d29.4660516!4d77.7048858!16s%2Fg%2F11g6vjtfnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10442,7 +10530,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sewa+Medicare/@29.4660516,77.7048858,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0bfae57419:0xaf9295abeb875d49!8m2!3d29.4660516!4d77.7048858!16s%2Fg%2F11g6vjtfnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shanti-madan-hospital-muzaffarnagar",
@@ -10491,7 +10580,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shanti+Madan+Hospital/@29.4735273,77.7051983,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7480b7d271:0x62f17d77761f8cd5!8m2!3d29.4735273!4d77.7051983!16s%2Fg%2F1hjgx8j0b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+Madan+Hospital/@29.4735273,77.7051983,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7480b7d271:0x62f17d77761f8cd5!8m2!3d29.4735273!4d77.7051983!16s%2Fg%2F1hjgx8j0b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10560,7 +10649,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanti+Madan+Hospital/@29.4735273,77.7051983,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7480b7d271:0x62f17d77761f8cd5!8m2!3d29.4735273!4d77.7051983!16s%2Fg%2F1hjgx8j0b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shekhar-nursing-home-muzaffarnagar",
@@ -10608,7 +10698,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Shekhar+Nursing+Home/@29.4780319,77.7178773,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b695daed4f1:0x4b366c5de2e90fdd!8m2!3d29.4780319!4d77.7178773!16s%2Fg%2F11c5hj8b7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shekhar+Nursing+Home/@29.4780319,77.7178773,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b695daed4f1:0x4b366c5de2e90fdd!8m2!3d29.4780319!4d77.7178773!16s%2Fg%2F11c5hj8b7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10677,7 +10767,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shekhar+Nursing+Home/@29.4780319,77.7178773,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b695daed4f1:0x4b366c5de2e90fdd!8m2!3d29.4780319!4d77.7178773!16s%2Fg%2F11c5hj8b7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shine-dental-and-medical-clinic-muzaffarnagar",
@@ -10727,7 +10818,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shine+Dental+and+Medical+Clinic/@29.4666982,77.7036251,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0bb95b893d:0x5cc412006cf30aff!8m2!3d29.4666982!4d77.7036251!16s%2Fg%2F11c1txw1cf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shine+Dental+and+Medical+Clinic/@29.4666982,77.7036251,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0bb95b893d:0x5cc412006cf30aff!8m2!3d29.4666982!4d77.7036251!16s%2Fg%2F11c1txw1cf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10796,7 +10887,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shine+Dental+and+Medical+Clinic/@29.4666982,77.7036251,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0bb95b893d:0x5cc412006cf30aff!8m2!3d29.4666982!4d77.7036251!16s%2Fg%2F11c1txw1cf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivalik-hospital-muzaffarnagar",
@@ -10844,7 +10936,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Shivalik+Hospital/@29.4713687,77.7012058,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b1df41b41a3:0xca8aef28bf4007a5!8m2!3d29.4713687!4d77.7012058!16s%2Fg%2F11k7bzps62?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivalik+Hospital/@29.4713687,77.7012058,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b1df41b41a3:0xca8aef28bf4007a5!8m2!3d29.4713687!4d77.7012058!16s%2Fg%2F11k7bzps62?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10913,7 +11005,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivalik+Hospital/@29.4713687,77.7012058,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b1df41b41a3:0xca8aef28bf4007a5!8m2!3d29.4713687!4d77.7012058!16s%2Fg%2F11k7bzps62?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shourya-clinic-muzaffarnagar",
@@ -10961,7 +11054,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shourya+Clinic/@29.4604665,77.7120033,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b100d71d569:0xbd4687c4547612cc!8m2!3d29.4604665!4d77.7120033!16s%2Fg%2F11fxx42x57?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shourya+Clinic/@29.4604665,77.7120033,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b100d71d569:0xbd4687c4547612cc!8m2!3d29.4604665!4d77.7120033!16s%2Fg%2F11fxx42x57?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11030,7 +11123,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shourya+Clinic/@29.4604665,77.7120033,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b100d71d569:0xbd4687c4547612cc!8m2!3d29.4604665!4d77.7120033!16s%2Fg%2F11fxx42x57?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-sai-hospital-muzaffarnagar",
@@ -11079,7 +11173,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/shri+sai+hospital/@29.4537765,77.7056223,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0406b1a88b:0x1bf39e33794b2d9a!8m2!3d29.4537765!4d77.7056223!16s%2Fg%2F11r9xmnwf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/shri+sai+hospital/@29.4537765,77.7056223,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0406b1a88b:0x1bf39e33794b2d9a!8m2!3d29.4537765!4d77.7056223!16s%2Fg%2F11r9xmnwf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11148,7 +11242,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/shri+sai+hospital/@29.4537765,77.7056223,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0406b1a88b:0x1bf39e33794b2d9a!8m2!3d29.4537765!4d77.7056223!16s%2Fg%2F11r9xmnwf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "siddhant-nursing-home-north-civil-lines",
@@ -11196,7 +11291,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Siddhant+Nursing+Home/@29.4731941,77.7044541,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7492686b43:0xce2fc407ad913571!8m2!3d29.4731941!4d77.7044541!16s%2Fg%2F11clyt4335?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddhant+Nursing+Home/@29.4731941,77.7044541,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7492686b43:0xce2fc407ad913571!8m2!3d29.4731941!4d77.7044541!16s%2Fg%2F11clyt4335?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11265,7 +11360,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Siddhant+Nursing+Home/@29.4731941,77.7044541,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b7492686b43:0xce2fc407ad913571!8m2!3d29.4731941!4d77.7044541!16s%2Fg%2F11clyt4335?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "singh-netra-chikitsalya-muzaffarnagar",
@@ -11311,7 +11407,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Singh+Netra+Chikitsalya/@29.4749343,77.700238,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b007b931275:0x77c5e3d77e3d4e7e!8m2!3d29.4749343!4d77.700238!16s%2Fg%2F11ldvjptf9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singh+Netra+Chikitsalya/@29.4749343,77.700238,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b007b931275:0x77c5e3d77e3d4e7e!8m2!3d29.4749343!4d77.700238!16s%2Fg%2F11ldvjptf9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11377,10 +11473,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Singh+Netra+Chikitsalya/@29.4749343,77.700238,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b007b931275:0x77c5e3d77e3d4e7e!8m2!3d29.4749343!4d77.700238!16s%2Fg%2F11ldvjptf9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sky-dental-clinic-braces-and-implant-centre-muzaffarnagar",
@@ -11429,7 +11526,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SKY+DENTAL+CLINIC+BRACES+%26+IMPLANT+CENTRE/@29.4768218,77.6967982,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9dd3334e15:0x3623a49bcb9a82b!8m2!3d29.4768218!4d77.6967982!16s%2Fg%2F11ddw_jdz8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SKY+DENTAL+CLINIC+BRACES+%26+IMPLANT+CENTRE/@29.4768218,77.6967982,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9dd3334e15:0x3623a49bcb9a82b!8m2!3d29.4768218!4d77.6967982!16s%2Fg%2F11ddw_jdz8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11498,7 +11595,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SKY+DENTAL+CLINIC+BRACES+%26+IMPLANT+CENTRE/@29.4768218,77.6967982,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9dd3334e15:0x3623a49bcb9a82b!8m2!3d29.4768218!4d77.6967982!16s%2Fg%2F11ddw_jdz8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-and-care-dental-clinic-muzaffarnagar",
@@ -11546,7 +11644,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smile+and+care+dental+clinic/@29.4641541,77.7174928,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b8a8c01ecf5:0x7bf85e93e3ae5b96!8m2!3d29.4641541!4d77.7174928!16s%2Fg%2F11tr_f20t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+and+care+dental+clinic/@29.4641541,77.7174928,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b8a8c01ecf5:0x7bf85e93e3ae5b96!8m2!3d29.4641541!4d77.7174928!16s%2Fg%2F11tr_f20t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11612,10 +11710,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+and+care+dental+clinic/@29.4641541,77.7174928,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b8a8c01ecf5:0x7bf85e93e3ae5b96!8m2!3d29.4641541!4d77.7174928!16s%2Fg%2F11tr_f20t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smiley-dental-and-implant-clinic-muzaffarnagar",
@@ -11663,7 +11762,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smiley+Dental+%26+Implant+Clinic/@29.4586578,77.706196,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b66f08595cb:0x5f01d1d971c57d14!8m2!3d29.4586578!4d77.706196!16s%2Fg%2F11yl07w7m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smiley+Dental+%26+Implant+Clinic/@29.4586578,77.706196,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b66f08595cb:0x5f01d1d971c57d14!8m2!3d29.4586578!4d77.706196!16s%2Fg%2F11yl07w7m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11729,10 +11828,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smiley+Dental+%26+Implant+Clinic/@29.4586578,77.706196,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b66f08595cb:0x5f01d1d971c57d14!8m2!3d29.4586578!4d77.706196!16s%2Fg%2F11yl07w7m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "somraj-hospital-muzaffarnagar",
@@ -11780,7 +11880,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Somraj+hospital/@29.4546101,77.7202364,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b80daccf321:0x5c752fdfb619c5!8m2!3d29.4546101!4d77.7202364!16s%2Fg%2F11wqpzj7b4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Somraj+hospital/@29.4546101,77.7202364,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b80daccf321:0x5c752fdfb619c5!8m2!3d29.4546101!4d77.7202364!16s%2Fg%2F11wqpzj7b4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11849,7 +11949,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Somraj+hospital/@29.4546101,77.7202364,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b80daccf321:0x5c752fdfb619c5!8m2!3d29.4546101!4d77.7202364!16s%2Fg%2F11wqpzj7b4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spandan-smile-care-dental-clinic-muzaffarnagar",
@@ -11898,7 +11999,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Spandan+Smile+Care+Dental+Clinic/@29.4717606,77.7012964,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b58405f17d3:0x35f8e1cf2c4d2ed!8m2!3d29.4717606!4d77.7012964!16s%2Fg%2F11h57tkzjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spandan+Smile+Care+Dental+Clinic/@29.4717606,77.7012964,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b58405f17d3:0x35f8e1cf2c4d2ed!8m2!3d29.4717606!4d77.7012964!16s%2Fg%2F11h57tkzjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11964,10 +12065,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spandan+Smile+Care+Dental+Clinic/@29.4717606,77.7012964,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b58405f17d3:0x35f8e1cf2c4d2ed!8m2!3d29.4717606!4d77.7012964!16s%2Fg%2F11h57tkzjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "taneja-hospital-muzaffarnagar",
@@ -12017,7 +12119,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Taneja+Hospital/@29.4723436,77.7063964,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b73650743bb:0x9fb5ffee6f021208!8m2!3d29.4723436!4d77.7063964!16s%2Fg%2F1hm4h4r8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Taneja+Hospital/@29.4723436,77.7063964,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b73650743bb:0x9fb5ffee6f021208!8m2!3d29.4723436!4d77.7063964!16s%2Fg%2F1hm4h4r8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12086,7 +12188,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Taneja+Hospital/@29.4723436,77.7063964,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b73650743bb:0x9fb5ffee6f021208!8m2!3d29.4723436!4d77.7063964!16s%2Fg%2F1hm4h4r8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "uphc-bhartiya-colony-muzaffarnagar",
@@ -12134,7 +12237,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Uphc+bhartiya+colony/@29.460819,77.7180151,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b85c0e8ab17:0xd7401168d7f10d76!8m2!3d29.460819!4d77.7180151!16s%2Fg%2F11rcfqc81l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uphc+bhartiya+colony/@29.460819,77.7180151,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b85c0e8ab17:0xd7401168d7f10d76!8m2!3d29.460819!4d77.7180151!16s%2Fg%2F11rcfqc81l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12200,10 +12303,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Uphc+bhartiya+colony/@29.460819,77.7180151,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b85c0e8ab17:0xd7401168d7f10d76!8m2!3d29.460819!4d77.7180151!16s%2Fg%2F11rcfqc81l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "urmila-dental-clinic-and-maxillofacial-trauma-center-best-dentist-care-in-muzaffarnagar-implantologist-in-muzaffarnagar-muzaffarnagar",
@@ -12252,7 +12356,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Urmila+Dental+Clinic+%26+Maxillofacial+Trauma+Center+-Best+Dentist+Care+in+Muzaffarnagar+%7CImplantologist+in+Muzaffarnagar/@29.4743058,77.7019204,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b75b9cc1ee9:0xfca2b6e51eaa4fb0!8m2!3d29.4743058!4d77.7019204!16s%2Fg%2F11hbblqwmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Urmila+Dental+Clinic+%26+Maxillofacial+Trauma+Center+-Best+Dentist+Care+in+Muzaffarnagar+%7CImplantologist+in+Muzaffarnagar/@29.4743058,77.7019204,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b75b9cc1ee9:0xfca2b6e51eaa4fb0!8m2!3d29.4743058!4d77.7019204!16s%2Fg%2F11hbblqwmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12318,10 +12422,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Urmila+Dental+Clinic+%26+Maxillofacial+Trauma+Center+-Best+Dentist+Care+in+Muzaffarnagar+%7CImplantologist+in+Muzaffarnagar/@29.4743058,77.7019204,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b75b9cc1ee9:0xfca2b6e51eaa4fb0!8m2!3d29.4743058!4d77.7019204!16s%2Fg%2F11hbblqwmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "urmila-nursing-home-muzaffarnagar",
@@ -12370,7 +12475,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Urmila+Nursing+Home/@29.4626535,77.708234,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0e543ab3e3:0xc0bcd5ad3d9965c0!8m2!3d29.4626535!4d77.708234!16s%2Fg%2F1260y1mnj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Urmila+Nursing+Home/@29.4626535,77.708234,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0e543ab3e3:0xc0bcd5ad3d9965c0!8m2!3d29.4626535!4d77.708234!16s%2Fg%2F1260y1mnj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12439,7 +12544,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Urmila+Nursing+Home/@29.4626535,77.708234,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0e543ab3e3:0xc0bcd5ad3d9965c0!8m2!3d29.4626535!4d77.708234!16s%2Fg%2F1260y1mnj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vardaye-life-hospital-muzaffarnagar",
@@ -12487,7 +12593,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vardaye+Life+Hospital/@29.460478,77.7274067,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9264cf0085:0x9ec82ef10721faa0!8m2!3d29.460478!4d77.7274067!16s%2Fg%2F11wqrggh7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardaye+Life+Hospital/@29.460478,77.7274067,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9264cf0085:0x9ec82ef10721faa0!8m2!3d29.460478!4d77.7274067!16s%2Fg%2F11wqrggh7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12553,10 +12659,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vardaye+Life+Hospital/@29.460478,77.7274067,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b9264cf0085:0x9ec82ef10721faa0!8m2!3d29.460478!4d77.7274067!16s%2Fg%2F11wqrggh7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vardhman-hospital-muzaffarnagar",
@@ -12605,7 +12712,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vardhman+Hospital/@29.4702523,77.7116786,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b12bb134c71:0x748dbc8463e55446!8m2!3d29.4702523!4d77.7116786!16s%2Fg%2F11h7rr43y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardhman+Hospital/@29.4702523,77.7116786,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b12bb134c71:0x748dbc8463e55446!8m2!3d29.4702523!4d77.7116786!16s%2Fg%2F11h7rr43y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12674,7 +12781,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vardhman+Hospital/@29.4702523,77.7116786,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b12bb134c71:0x748dbc8463e55446!8m2!3d29.4702523!4d77.7116786!16s%2Fg%2F11h7rr43y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vardhman-hospital-muzaffarnagar-uttar-pradesh-muzaffarnagar",
@@ -12723,7 +12831,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vardhman+Hospital+Muzaffarnagar,+Uttar+Pradesh/@29.4538446,77.7227537,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0b96738551:0x1307f798ca4f464a!8m2!3d29.4538446!4d77.7227537!16s%2Fg%2F1td9th4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardhman+Hospital+Muzaffarnagar,+Uttar+Pradesh/@29.4538446,77.7227537,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0b96738551:0x1307f798ca4f464a!8m2!3d29.4538446!4d77.7227537!16s%2Fg%2F1td9th4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12792,7 +12900,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vardhman+Hospital+Muzaffarnagar,+Uttar+Pradesh/@29.4538446,77.7227537,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0b96738551:0x1307f798ca4f464a!8m2!3d29.4538446!4d77.7227537!16s%2Fg%2F1td9th4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vardhman-truma-and-laparoscopy-centre-pvt-ltd-muzaffarnagar",
@@ -12840,7 +12949,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://www.google.com/maps/place/Vardhman+Truma+And+Laparoscopy+Centre+Pvt.+Ltd./@29.4667469,77.703915,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0b96fc2ad3:0x88311d8a297c53b3!8m2!3d29.4667469!4d77.703915!16s%2Fg%2F11pbrd33v2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardhman+Truma+And+Laparoscopy+Centre+Pvt.+Ltd./@29.4667469,77.703915,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0b96fc2ad3:0x88311d8a297c53b3!8m2!3d29.4667469!4d77.703915!16s%2Fg%2F11pbrd33v2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12906,10 +13015,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vardhman+Truma+And+Laparoscopy+Centre+Pvt.+Ltd./@29.4667469,77.703915,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0b96fc2ad3:0x88311d8a297c53b3!8m2!3d29.4667469!4d77.703915!16s%2Fg%2F11pbrd33v2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vashishtha-hospital-ayushman-bharat-yojana-pmjay-scheme-muzaffarnagar",
@@ -12957,7 +13067,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Vashishtha+Hospital+-+Ayushman+Bharat+Yojana+%2F+PMJAY+Scheme/@29.4581283,77.7163913,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b1a2628140f:0x3177c18bb410dc39!8m2!3d29.4581283!4d77.7163913!16s%2Fg%2F1hf0bkylp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vashishtha+Hospital+-+Ayushman+Bharat+Yojana+%2F+PMJAY+Scheme/@29.4581283,77.7163913,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b1a2628140f:0x3177c18bb410dc39!8m2!3d29.4581283!4d77.7163913!16s%2Fg%2F1hf0bkylp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13026,7 +13136,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vashishtha+Hospital+-+Ayushman+Bharat+Yojana+%2F+PMJAY+Scheme/@29.4581283,77.7163913,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b1a2628140f:0x3177c18bb410dc39!8m2!3d29.4581283!4d77.7163913!16s%2Fg%2F1hf0bkylp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vasu-hospital-muzaffarnagar",
@@ -13074,7 +13185,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vasu+Hospital/@29.4720852,77.7026589,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b001726ec61:0xc6f764ef9d1db283!8m2!3d29.4720852!4d77.7026589!16s%2Fg%2F11y3985ftn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vasu+Hospital/@29.4720852,77.7026589,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b001726ec61:0xc6f764ef9d1db283!8m2!3d29.4720852!4d77.7026589!16s%2Fg%2F11y3985ftn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13140,10 +13251,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vasu+Hospital/@29.4720852,77.7026589,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b001726ec61:0xc6f764ef9d1db283!8m2!3d29.4720852!4d77.7026589!16s%2Fg%2F11y3985ftn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vedanta-hospital-muzaffarnagar",
@@ -13191,7 +13303,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/VEDANTA+HOSPITAL/@29.4709653,77.7010517,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bf03009a295:0x205706be39dcde62!8m2!3d29.4709653!4d77.7010517!16s%2Fg%2F11vj32dm4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VEDANTA+HOSPITAL/@29.4709653,77.7010517,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bf03009a295:0x205706be39dcde62!8m2!3d29.4709653!4d77.7010517!16s%2Fg%2F11vj32dm4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13260,7 +13372,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VEDANTA+HOSPITAL/@29.4709653,77.7010517,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bf03009a295:0x205706be39dcde62!8m2!3d29.4709653!4d77.7010517!16s%2Fg%2F11vj32dm4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "veer-clinic-muzaffarnagar",
@@ -13309,7 +13422,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Veer+clinic/@29.4809408,77.7258264,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b109bccae9b:0xb9dbe719c882e2e4!8m2!3d29.4809408!4d77.7258264!16s%2Fg%2F11p6500zlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Veer+clinic/@29.4809408,77.7258264,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b109bccae9b:0xb9dbe719c882e2e4!8m2!3d29.4809408!4d77.7258264!16s%2Fg%2F11p6500zlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13375,10 +13488,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Veer+clinic/@29.4809408,77.7258264,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b109bccae9b:0xb9dbe719c882e2e4!8m2!3d29.4809408!4d77.7258264!16s%2Fg%2F11p6500zlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vidya-swaroop-skin-and-laser-clinic-muzaffarnagar",
@@ -13426,7 +13540,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Vidya+Swaroop+Skin+%26+Laser+Clinic/@29.4820205,77.6987719,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb446bf5987:0xff00ad84bbf822b2!8m2!3d29.4820205!4d77.6987719!16s%2Fg%2F11hzzf1jd4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vidya+Swaroop+Skin+%26+Laser+Clinic/@29.4820205,77.6987719,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb446bf5987:0xff00ad84bbf822b2!8m2!3d29.4820205!4d77.6987719!16s%2Fg%2F11hzzf1jd4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13495,7 +13609,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vidya+Swaroop+Skin+%26+Laser+Clinic/@29.4820205,77.6987719,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bb446bf5987:0xff00ad84bbf822b2!8m2!3d29.4820205!4d77.6987719!16s%2Fg%2F11hzzf1jd4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vijay-shree-nursing-home-muzaffarnagar",
@@ -13543,7 +13658,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Vijay+Shree+Nursing+home/@29.4728059,77.719552,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6adeff3dc1:0x764b82b1dea0d24f!8m2!3d29.4728059!4d77.719552!16s%2Fg%2F11c5s83bgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijay+Shree+Nursing+home/@29.4728059,77.719552,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6adeff3dc1:0x764b82b1dea0d24f!8m2!3d29.4728059!4d77.719552!16s%2Fg%2F11c5s83bgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13612,7 +13727,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vijay+Shree+Nursing+home/@29.4728059,77.719552,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b6adeff3dc1:0x764b82b1dea0d24f!8m2!3d29.4728059!4d77.719552!16s%2Fg%2F11c5s83bgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vimla-memorial-hospital-muzaffarnagar",
@@ -13660,7 +13776,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Vimla+memorial+hospital/@29.4738921,77.7020694,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bf90494c5e9:0xc5da4690cb5042ec!8m2!3d29.4738921!4d77.7020694!16s%2Fg%2F11k2grhk91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vimla+memorial+hospital/@29.4738921,77.7020694,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bf90494c5e9:0xc5da4690cb5042ec!8m2!3d29.4738921!4d77.7020694!16s%2Fg%2F11k2grhk91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13729,7 +13845,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vimla+memorial+hospital/@29.4738921,77.7020694,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bf90494c5e9:0xc5da4690cb5042ec!8m2!3d29.4738921!4d77.7020694!16s%2Fg%2F11k2grhk91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vishnu-kamal-hospital-muzaffarnagar",
@@ -13777,7 +13894,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/VIshnu+Kamal+Hospital/@29.4660484,77.7115681,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b121ace289b:0x567ba1798760de69!8m2!3d29.4660484!4d77.7115681!16s%2Fg%2F1hf6rkq18?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIshnu+Kamal+Hospital/@29.4660484,77.7115681,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b121ace289b:0x567ba1798760de69!8m2!3d29.4660484!4d77.7115681!16s%2Fg%2F1hf6rkq18?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13846,7 +13963,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VIshnu+Kamal+Hospital/@29.4660484,77.7115681,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b121ace289b:0x567ba1798760de69!8m2!3d29.4660484!4d77.7115681!16s%2Fg%2F1hf6rkq18?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yashdental-clinic-muzaffarnagar",
@@ -13894,7 +14012,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/YashDental+Clinic/@29.4743851,77.701874,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b75b771477f:0xa91d7e33029d12f6!8m2!3d29.4743851!4d77.701874!16s%2Fg%2F1t_thp3t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/YashDental+Clinic/@29.4743851,77.701874,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b75b771477f:0xa91d7e33029d12f6!8m2!3d29.4743851!4d77.701874!16s%2Fg%2F1t_thp3t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13960,10 +14078,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/YashDental+Clinic/@29.4743851,77.701874,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b75b771477f:0xa91d7e33029d12f6!8m2!3d29.4743851!4d77.701874!16s%2Fg%2F1t_thp3t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "muzaffarnagar",
@@ -14009,7 +14128,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%A1%E0%A4%BE.+%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%B6+%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0/@29.4640047,77.7094311,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0e6acce1d7:0x62fca2ed5e806f03!8m2!3d29.4640047!4d77.7094311!16s%2Fg%2F11y34k9j82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%A1%E0%A4%BE.+%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%B6+%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0/@29.4640047,77.7094311,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0e6acce1d7:0x62fca2ed5e806f03!8m2!3d29.4640047!4d77.7094311!16s%2Fg%2F11y34k9j82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -14075,10 +14194,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95+%E0%A4%A1%E0%A4%BE.+%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%B6+%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0/@29.4640047,77.7094311,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1b0e6acce1d7:0x62fca2ed5e806f03!8m2!3d29.4640047!4d77.7094311!16s%2Fg%2F11y34k9j82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "muzaffarnagar",
@@ -14124,7 +14244,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%A8%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B2+%E0%A4%9A%E0%A4%BE%E0%A4%88%E0%A4%B2%E0%A5%8D%E0%A4%A1+%E0%A4%95%E0%A5%87%E0%A4%AF%E0%A4%B0+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@29.4538478,77.6907857,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bae5f42c9db:0x5b99abe98d178639!8m2!3d29.4538478!4d77.6907857!16s%2Fg%2F11ld5_2wxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%A8%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B2+%E0%A4%9A%E0%A4%BE%E0%A4%88%E0%A4%B2%E0%A5%8D%E0%A4%A1+%E0%A4%95%E0%A5%87%E0%A4%AF%E0%A4%B0+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@29.4538478,77.6907857,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bae5f42c9db:0x5b99abe98d178639!8m2!3d29.4538478!4d77.6907857!16s%2Fg%2F11ld5_2wxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -14190,9 +14310,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%A8%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B2+%E0%A4%9A%E0%A4%BE%E0%A4%88%E0%A4%B2%E0%A5%8D%E0%A4%A1+%E0%A4%95%E0%A5%87%E0%A4%AF%E0%A4%B0+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@29.4538478,77.6907857,17z/data=!3m1!4b1!4m6!3m5!1s0x390c1bae5f42c9db:0x5b99abe98d178639!8m2!3d29.4538478!4d77.6907857!16s%2Fg%2F11ld5_2wxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Abu+Dental+Hospital/@24.4790834,72.7802076,17z/data=!3m1!4b1!4m6!3m5!1s0x395d289803f43ceb:0x1a0795ef2b78bf40!8m2!3d24.4790834!4d72.7802076!16s%2Fg%2F11fx7nfnst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Abu+Dental+Hospital/@24.4790834,72.7802076,17z/data=!3m1!4b1!4m6!3m5!1s0x395d289803f43ceb:0x1a0795ef2b78bf40!8m2!3d24.4790834!4d72.7802076!16s%2Fg%2F11fx7nfnst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Abu+Dental+Hospital/@24.4790834,72.7802076,17z/data=!3m1!4b1!4m6!3m5!1s0x395d289803f43ceb:0x1a0795ef2b78bf40!8m2!3d24.4790834!4d72.7802076!16s%2Fg%2F11fx7nfnst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advance-dental-hospital-and-maxillofacial-centre-abu-road",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Advance+Dental+hospital+and+maxillofacial+centre/@24.4839064,72.7823401,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2944cc9b9253:0xd01a7e04f77d7478!8m2!3d24.4839064!4d72.7823401!16s%2Fg%2F11gnq9r69y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Dental+hospital+and+maxillofacial+centre/@24.4839064,72.7823401,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2944cc9b9253:0xd01a7e04f77d7478!8m2!3d24.4839064!4d72.7823401!16s%2Fg%2F11gnq9r69y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -229,10 +230,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+Dental+hospital+and+maxillofacial+centre/@24.4839064,72.7823401,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2944cc9b9253:0xd01a7e04f77d7478!8m2!3d24.4839064!4d72.7823401!16s%2Fg%2F11gnq9r69y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayushman-heart-care-center-bikaner",
@@ -282,7 +284,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ayushman+Heart+Care+Center/@28.0076983,73.3350232,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe70019b532ab:0xefe9f0ab69eaf0cb!8m2!3d28.0076983!4d73.3350232!16s%2Fg%2F11vz9_85h1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayushman+Heart+Care+Center/@28.0076983,73.3350232,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe70019b532ab:0xefe9f0ab69eaf0cb!8m2!3d28.0076983!4d73.3350232!16s%2Fg%2F11vz9_85h1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -351,7 +353,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayushman+Heart+Care+Center/@28.0076983,73.3350232,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe70019b532ab:0xefe9f0ab69eaf0cb!8m2!3d28.0076983!4d73.3350232!16s%2Fg%2F11vz9_85h1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "baba-dispensary-mount-abu",
@@ -399,7 +402,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Baba+Dispensary/@24.6024004,72.7378962,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2af5a5b35667:0x6b1c345f5033b217!8m2!3d24.6024004!4d72.7378962!16s%2Fg%2F1hc56cd5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Baba+Dispensary/@24.6024004,72.7378962,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2af5a5b35667:0x6b1c345f5033b217!8m2!3d24.6024004!4d72.7378962!16s%2Fg%2F1hc56cd5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -465,10 +468,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Baba+Dispensary/@24.6024004,72.7378962,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2af5a5b35667:0x6b1c345f5033b217!8m2!3d24.6024004!4d72.7378962!16s%2Fg%2F1hc56cd5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhagwan-mahaveer-cancer-hospital-and-research-centre-jaipur",
@@ -518,7 +522,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhagwan+Mahaveer+Cancer+Hospital+%26+Research+Centre/@26.8650674,75.8046254,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5d7eee9a05f:0xddf910fecf66939a!8m2!3d26.8650674!4d75.8046254!16s%2Fg%2F1tp0c221?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagwan+Mahaveer+Cancer+Hospital+%26+Research+Centre/@26.8650674,75.8046254,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5d7eee9a05f:0xddf910fecf66939a!8m2!3d26.8650674!4d75.8046254!16s%2Fg%2F1tp0c221?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -587,7 +591,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhagwan+Mahaveer+Cancer+Hospital+%26+Research+Centre/@26.8650674,75.8046254,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5d7eee9a05f:0xddf910fecf66939a!8m2!3d26.8650674!4d75.8046254!16s%2Fg%2F1tp0c221?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "candy-hair-art-mount-abu",
@@ -634,7 +639,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Candy+hair+art/@24.588045,72.715622,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a79f58835dd:0x2eb6a9f2071ac0db!8m2!3d24.588045!4d72.715622!16s%2Fg%2F11g89139tw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Candy+hair+art/@24.588045,72.715622,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a79f58835dd:0x2eb6a9f2071ac0db!8m2!3d24.588045!4d72.715622!16s%2Fg%2F11g89139tw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -700,10 +705,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Candy+hair+art/@24.588045,72.715622,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a79f58835dd:0x2eb6a9f2071ac0db!8m2!3d24.588045!4d72.715622!16s%2Fg%2F11g89139tw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chandrawal-hospital-manpur-abu-road-rajasthan-santpur",
@@ -752,7 +758,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chandrawal+Hospital,+Manpur+,+Abu+road+,+Rajasthan/@24.4977446,72.7907106,17z/data=!3m1!4b1!4m6!3m5!1s0x395d28c675cfd4dd:0x83a754cea2c0afa8!8m2!3d24.4977446!4d72.7907106!16s%2Fg%2F11fy_1tm0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandrawal+Hospital,+Manpur+,+Abu+road+,+Rajasthan/@24.4977446,72.7907106,17z/data=!3m1!4b1!4m6!3m5!1s0x395d28c675cfd4dd:0x83a754cea2c0afa8!8m2!3d24.4977446!4d72.7907106!16s%2Fg%2F11fy_1tm0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -821,7 +827,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chandrawal+Hospital,+Manpur+,+Abu+road+,+Rajasthan/@24.4977446,72.7907106,17z/data=!3m1!4b1!4m6!3m5!1s0x395d28c675cfd4dd:0x83a754cea2c0afa8!8m2!3d24.4977446!4d72.7907106!16s%2Fg%2F11fy_1tm0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chaudhary-clinic-abu-road",
@@ -869,7 +876,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Chaudhary+Clinic/@24.4772707,72.7747539,17z/data=!3m1!4b1!4m6!3m5!1s0x395d289a26d2bfab:0x56681c7fff0c8259!8m2!3d24.4772707!4d72.7747539!16s%2Fg%2F11hbz0dkyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaudhary+Clinic/@24.4772707,72.7747539,17z/data=!3m1!4b1!4m6!3m5!1s0x395d289a26d2bfab:0x56681c7fff0c8259!8m2!3d24.4772707!4d72.7747539!16s%2Fg%2F11hbz0dkyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -938,7 +945,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chaudhary+Clinic/@24.4772707,72.7747539,17z/data=!3m1!4b1!4m6!3m5!1s0x395d289a26d2bfab:0x56681c7fff0c8259!8m2!3d24.4772707!4d72.7747539!16s%2Fg%2F11hbz0dkyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "craftsman-plastic-reconstruction-and-cosmetic-surgery-centre-mumbai-mumbai",
@@ -987,7 +995,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Craftsman+Plastic+Reconstruction+and+Cosmetic+Surgery+Centre+-+Mumbai/@19.1785534,72.846703,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b778bb6e97c1:0x2b72b2c09aaa0359!8m2!3d19.1785534!4d72.846703!16s%2Fg%2F11hfgn6sc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Craftsman+Plastic+Reconstruction+and+Cosmetic+Surgery+Centre+-+Mumbai/@19.1785534,72.846703,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b778bb6e97c1:0x2b72b2c09aaa0359!8m2!3d19.1785534!4d72.846703!16s%2Fg%2F11hfgn6sc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1056,7 +1064,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Craftsman+Plastic+Reconstruction+and+Cosmetic+Surgery+Centre+-+Mumbai/@19.1785534,72.846703,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b778bb6e97c1:0x2b72b2c09aaa0359!8m2!3d19.1785534!4d72.846703!16s%2Fg%2F11hfgn6sc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "diamond-dental-clinic-mount-abu",
@@ -1105,7 +1114,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Diamond+Dental+Clinic/@24.5951178,72.7178083,17z/data=!3m1!4b1!4m6!3m5!1s0x395cd580ac521b05:0xb5725c2ff7432bff!8m2!3d24.5951178!4d72.7178083!16s%2Fg%2F11dxdkyznr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diamond+Dental+Clinic/@24.5951178,72.7178083,17z/data=!3m1!4b1!4m6!3m5!1s0x395cd580ac521b05:0xb5725c2ff7432bff!8m2!3d24.5951178!4d72.7178083!16s%2Fg%2F11dxdkyznr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1174,7 +1183,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Diamond+Dental+Clinic/@24.5951178,72.7178083,17z/data=!3m1!4b1!4m6!3m5!1s0x395cd580ac521b05:0xb5725c2ff7432bff!8m2!3d24.5951178!4d72.7178083!16s%2Fg%2F11dxdkyznr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fortis-hospital-mount-abu",
@@ -1222,7 +1232,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Fortis+Hospital/@24.5925909,72.7156274,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a7c00000001:0x3f30f231c6eebae5!8m2!3d24.5925909!4d72.7156274!16s%2Fg%2F11ddxnn2yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fortis+Hospital/@24.5925909,72.7156274,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a7c00000001:0x3f30f231c6eebae5!8m2!3d24.5925909!4d72.7156274!16s%2Fg%2F11ddxnn2yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1291,7 +1301,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fortis+Hospital/@24.5925909,72.7156274,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a7c00000001:0x3f30f231c6eebae5!8m2!3d24.5925909!4d72.7156274!16s%2Fg%2F11ddxnn2yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ghrc-blood-bank-mount-abu",
@@ -1340,7 +1351,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/GHRC+Blood+Bank/@24.5964899,72.715534,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a7e7672b24b:0x5d88539b51bf936!8m2!3d24.5964899!4d72.715534!16s%2Fg%2F124sy3n_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GHRC+Blood+Bank/@24.5964899,72.715534,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a7e7672b24b:0x5d88539b51bf936!8m2!3d24.5964899!4d72.715534!16s%2Fg%2F124sy3n_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1409,7 +1420,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GHRC+Blood+Bank/@24.5964899,72.715534,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a7e7672b24b:0x5d88539b51bf936!8m2!3d24.5964899!4d72.715534!16s%2Fg%2F124sy3n_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "global-hospital-aburoad-abu-road",
@@ -1457,7 +1469,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Global+Hospital+AbuRoad/@24.46404,72.7717306,17z/data=!3m1!4b1!4m6!3m5!1s0x395d273f55091455:0xbbf59347836fe7ad!8m2!3d24.46404!4d72.7717306!16s%2Fg%2F11ghnf4_rn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Hospital+AbuRoad/@24.46404,72.7717306,17z/data=!3m1!4b1!4m6!3m5!1s0x395d273f55091455:0xbbf59347836fe7ad!8m2!3d24.46404!4d72.7717306!16s%2Fg%2F11ghnf4_rn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1526,7 +1538,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Global+Hospital+AbuRoad/@24.46404,72.7717306,17z/data=!3m1!4b1!4m6!3m5!1s0x395d273f55091455:0xbbf59347836fe7ad!8m2!3d24.46404!4d72.7717306!16s%2Fg%2F11ghnf4_rn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "global-hospital-trauma-centre-abu-road",
@@ -1575,7 +1588,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Global+Hospital+Trauma+Centre/@24.5381675,72.8020857,17z/data=!3m1!4b1!4m6!3m5!1s0x395d293acf65e9cd:0x585951f0f65ab9d5!8m2!3d24.5381675!4d72.8020857!16s%2Fg%2F11lhnkfg7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Hospital+Trauma+Centre/@24.5381675,72.8020857,17z/data=!3m1!4b1!4m6!3m5!1s0x395d293acf65e9cd:0x585951f0f65ab9d5!8m2!3d24.5381675!4d72.8020857!16s%2Fg%2F11lhnkfg7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1644,7 +1657,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Global+Hospital+Trauma+Centre/@24.5381675,72.8020857,17z/data=!3m1!4b1!4m6!3m5!1s0x395d293acf65e9cd:0x585951f0f65ab9d5!8m2!3d24.5381675!4d72.8020857!16s%2Fg%2F11lhnkfg7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-hospital-chc-community-health-centre-kalindi-kunj-rd",
@@ -1692,7 +1706,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Government+Hospital,+(CHC)+Community+Health+Centre/@24.5930471,72.7080222,17z/data=!3m1!4b1!4m6!3m5!1s0x395cd580c1c9c64b:0xc0925d05891b340e!8m2!3d24.5930471!4d72.7080222!16s%2Fg%2F11f_4rrmrd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Hospital,+(CHC)+Community+Health+Centre/@24.5930471,72.7080222,17z/data=!3m1!4b1!4m6!3m5!1s0x395cd580c1c9c64b:0xc0925d05891b340e!8m2!3d24.5930471!4d72.7080222!16s%2Fg%2F11f_4rrmrd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1761,7 +1775,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Hospital,+(CHC)+Community+Health+Centre/@24.5930471,72.7080222,17z/data=!3m1!4b1!4m6!3m5!1s0x395cd580c1c9c64b:0xc0925d05891b340e!8m2!3d24.5930471!4d72.7080222!16s%2Fg%2F11f_4rrmrd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goyal-hospital-abu-road",
@@ -1810,7 +1825,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Goyal+Hospital/@24.4910019,72.7916929,17z/data=!3m1!4b1!4m6!3m5!1s0x395d28b81783fbf7:0x277a5ccca79af54b!8m2!3d24.4910019!4d72.7916929!16s%2Fg%2F124ygz713?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goyal+Hospital/@24.4910019,72.7916929,17z/data=!3m1!4b1!4m6!3m5!1s0x395d28b81783fbf7:0x277a5ccca79af54b!8m2!3d24.4910019!4d72.7916929!16s%2Fg%2F124ygz713?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1879,7 +1894,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goyal+Hospital/@24.4910019,72.7916929,17z/data=!3m1!4b1!4m6!3m5!1s0x395d28b81783fbf7:0x277a5ccca79af54b!8m2!3d24.4910019!4d72.7916929!16s%2Fg%2F124ygz713?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hcg-cancer-hospital-mansarovar-jaipur-jaipur",
@@ -1929,7 +1945,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Mansarovar,+Jaipur)/@26.8674807,75.769532,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5ad06a86fdb:0xef2c9d6a3dbd292d!8m2!3d26.8674807!4d75.769532!16s%2Fg%2F11dztshhxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Mansarovar,+Jaipur)/@26.8674807,75.769532,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5ad06a86fdb:0xef2c9d6a3dbd292d!8m2!3d26.8674807!4d75.769532!16s%2Fg%2F11dztshhxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1998,7 +2014,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Mansarovar,+Jaipur)/@26.8674807,75.769532,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5ad06a86fdb:0xef2c9d6a3dbd292d!8m2!3d26.8674807!4d75.769532!16s%2Fg%2F11dztshhxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hope-and-heal-cancer-hospital-binnaguri",
@@ -2048,7 +2065,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hope+%26+Heal+Cancer+Hospital/@26.6289862,88.4410887,17z/data=!3m1!4b1!4m6!3m5!1s0x39e44381aa59683f:0xb42f5e547d9877e4!8m2!3d26.6289862!4d88.4410887!16s%2Fg%2F11s5p22q6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+%26+Heal+Cancer+Hospital/@26.6289862,88.4410887,17z/data=!3m1!4b1!4m6!3m5!1s0x39e44381aa59683f:0xb42f5e547d9877e4!8m2!3d26.6289862!4d88.4410887!16s%2Fg%2F11s5p22q6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2117,7 +2134,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hope+%26+Heal+Cancer+Hospital/@26.6289862,88.4410887,17z/data=!3m1!4b1!4m6!3m5!1s0x39e44381aa59683f:0xb42f5e547d9877e4!8m2!3d26.6289862!4d88.4410887!16s%2Fg%2F11s5p22q6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hotel-parash-new-mount-abu",
@@ -2166,7 +2184,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hotel+Parash+New/@24.5918044,72.7140189,17z/data=!3m1!4b1!4m9!3m8!1s0x395d2a794bb2622d:0xba3ba3d1ec9e6660!5m2!4m1!1i2!8m2!3d24.5918044!4d72.7140189!16s%2Fg%2F11c5ss51f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hotel+Parash+New/@24.5918044,72.7140189,17z/data=!3m1!4b1!4m9!3m8!1s0x395d2a794bb2622d:0xba3ba3d1ec9e6660!5m2!4m1!1i2!8m2!3d24.5918044!4d72.7140189!16s%2Fg%2F11c5ss51f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2235,7 +2253,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hotel+Parash+New/@24.5918044,72.7140189,17z/data=!3m1!4b1!4m9!3m8!1s0x395d2a794bb2622d:0xba3ba3d1ec9e6660!5m2!4m1!1i2!8m2!3d24.5918044!4d72.7140189!16s%2Fg%2F11c5ss51f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hotel-samrat-international-mount-abu",
@@ -2284,7 +2303,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hotel+Samrat+International/@24.5905567,72.7110052,17z/data=!3m1!4b1!4m9!3m8!1s0x395d2a8fcacb367b:0x47bcd52f6a4f3a6d!5m2!4m1!1i2!8m2!3d24.5905567!4d72.7110052!16s%2Fg%2F1tdvhkpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hotel+Samrat+International/@24.5905567,72.7110052,17z/data=!3m1!4b1!4m9!3m8!1s0x395d2a8fcacb367b:0x47bcd52f6a4f3a6d!5m2!4m1!1i2!8m2!3d24.5905567!4d72.7110052!16s%2Fg%2F1tdvhkpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2350,10 +2369,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hotel+Samrat+International/@24.5905567,72.7110052,17z/data=!3m1!4b1!4m9!3m8!1s0x395d2a8fcacb367b:0x47bcd52f6a4f3a6d!5m2!4m1!1i2!8m2!3d24.5905567!4d72.7110052!16s%2Fg%2F1tdvhkpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hotel-sheratone-mount-abu-mount-abu",
@@ -2402,7 +2422,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hotel+Sheratone+Mount+Abu/@24.5887999,72.7145276,17z/data=!3m1!4b1!4m9!3m8!1s0x395d2a7746a319e3:0xe654a9be81ac2e8b!5m2!4m1!1i2!8m2!3d24.5887999!4d72.7145276!16s%2Fg%2F11f33224wl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hotel+Sheratone+Mount+Abu/@24.5887999,72.7145276,17z/data=!3m1!4b1!4m9!3m8!1s0x395d2a7746a319e3:0xe654a9be81ac2e8b!5m2!4m1!1i2!8m2!3d24.5887999!4d72.7145276!16s%2Fg%2F11f33224wl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2471,7 +2491,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hotel+Sheratone+Mount+Abu/@24.5887999,72.7145276,17z/data=!3m1!4b1!4m9!3m8!1s0x395d2a7746a319e3:0xe654a9be81ac2e8b!5m2!4m1!1i2!8m2!3d24.5887999!4d72.7145276!16s%2Fg%2F11f33224wl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "j-watumull-global-hospital-and-research-centre-mount-abu",
@@ -2520,7 +2541,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/J.+Watumull+Global+Hospital+%26+Research+Centre/@24.5964841,72.7156704,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a7ddf7f3bc7:0x8741787e1bf7d07c!8m2!3d24.5964841!4d72.7156704!16s%2Fg%2F1tcxh50c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J.+Watumull+Global+Hospital+%26+Research+Centre/@24.5964841,72.7156704,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a7ddf7f3bc7:0x8741787e1bf7d07c!8m2!3d24.5964841!4d72.7156704!16s%2Fg%2F1tcxh50c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2589,7 +2610,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/J.+Watumull+Global+Hospital+%26+Research+Centre/@24.5964841,72.7156704,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a7ddf7f3bc7:0x8741787e1bf7d07c!8m2!3d24.5964841!4d72.7156704!16s%2Fg%2F1tcxh50c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevanjyot-dental-clinic-abu-road",
@@ -2637,7 +2659,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Jeevanjyot+Dental+Clinic/@24.4961184,72.7890306,17z/data=!3m1!4b1!4m6!3m5!1s0x395d297063a67747:0xf37b498012724eab!8m2!3d24.4961184!4d72.7890306!16s%2Fg%2F11cn3m55q6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevanjyot+Dental+Clinic/@24.4961184,72.7890306,17z/data=!3m1!4b1!4m6!3m5!1s0x395d297063a67747:0xf37b498012724eab!8m2!3d24.4961184!4d72.7890306!16s%2Fg%2F11cn3m55q6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2703,10 +2725,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevanjyot+Dental+Clinic/@24.4961184,72.7890306,17z/data=!3m1!4b1!4m6!3m5!1s0x395d297063a67747:0xf37b498012724eab!8m2!3d24.4961184!4d72.7890306!16s%2Fg%2F11cn3m55q6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kejriwal-nursing-home-kejriwal-stone-clinic-and-kidney-care-centre-siliguri",
@@ -2756,7 +2779,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kejriwal+Nursing+Home+%7C+Kejriwal+Stone+Clinic+%26+Kidney+Care+Centre/@26.7264419,88.4326084,17z/data=!3m1!4b1!4m6!3m5!1s0x39e4410fd20faa31:0xfe6a1a58a6ad2d!8m2!3d26.7264419!4d88.4326084!16s%2Fg%2F1tk89jsb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kejriwal+Nursing+Home+%7C+Kejriwal+Stone+Clinic+%26+Kidney+Care+Centre/@26.7264419,88.4326084,17z/data=!3m1!4b1!4m6!3m5!1s0x39e4410fd20faa31:0xfe6a1a58a6ad2d!8m2!3d26.7264419!4d88.4326084!16s%2Fg%2F1tk89jsb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2825,7 +2848,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kejriwal+Nursing+Home+%7C+Kejriwal+Stone+Clinic+%26+Kidney+Care+Centre/@26.7264419,88.4326084,17z/data=!3m1!4b1!4m6!3m5!1s0x39e4410fd20faa31:0xfe6a1a58a6ad2d!8m2!3d26.7264419!4d88.4326084!16s%2Fg%2F1tk89jsb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lake-inn-mount-abu",
@@ -2874,7 +2898,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/LAKE+INN/@24.5943847,72.7084495,17z/data=!3m1!4b1!4m9!3m8!1s0x395cd5808b3e13c7:0x5f2ffd4d1a5fc8e!5m2!4m1!1i2!8m2!3d24.5943847!4d72.7084495!16s%2Fg%2F11gf60_080?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LAKE+INN/@24.5943847,72.7084495,17z/data=!3m1!4b1!4m9!3m8!1s0x395cd5808b3e13c7:0x5f2ffd4d1a5fc8e!5m2!4m1!1i2!8m2!3d24.5943847!4d72.7084495!16s%2Fg%2F11gf60_080?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2943,7 +2967,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LAKE+INN/@24.5943847,72.7084495,17z/data=!3m1!4b1!4m9!3m8!1s0x395cd5808b3e13c7:0x5f2ffd4d1a5fc8e!5m2!4m1!1i2!8m2!3d24.5943847!4d72.7084495!16s%2Fg%2F11gf60_080?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mahaveer-maternity-surgicial-and-dental-hospitals-mount-abu",
@@ -2993,7 +3018,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mahaveer+Maternity+Surgicial+%26+Dental+Hospitals/@24.5883118,72.7129563,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a79b3f8c24d:0x569a5e5d484fb148!8m2!3d24.5883118!4d72.7129563!16s%2Fg%2F1tct73bg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahaveer+Maternity+Surgicial+%26+Dental+Hospitals/@24.5883118,72.7129563,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a79b3f8c24d:0x569a5e5d484fb148!8m2!3d24.5883118!4d72.7129563!16s%2Fg%2F1tct73bg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3059,10 +3084,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahaveer+Maternity+Surgicial+%26+Dental+Hospitals/@24.5883118,72.7129563,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a79b3f8c24d:0x569a5e5d484fb148!8m2!3d24.5883118!4d72.7129563!16s%2Fg%2F1tct73bg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medical-center-abu-road",
@@ -3109,7 +3135,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Medical+Center/@24.4978987,72.7894344,17z/data=!3m1!4b1!4m6!3m5!1s0x395d29cbeae6ed43:0x189ba5f3c9d15285!8m2!3d24.4978987!4d72.7894344!16s%2Fg%2F11l24bc0t7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medical+Center/@24.4978987,72.7894344,17z/data=!3m1!4b1!4m6!3m5!1s0x395d29cbeae6ed43:0x189ba5f3c9d15285!8m2!3d24.4978987!4d72.7894344!16s%2Fg%2F11l24bc0t7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3175,10 +3201,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medical+Center/@24.4978987,72.7894344,17z/data=!3m1!4b1!4m6!3m5!1s0x395d29cbeae6ed43:0x189ba5f3c9d15285!8m2!3d24.4978987!4d72.7894344!16s%2Fg%2F11l24bc0t7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nangal-cancer-hospital-and-research-institute-bikaner",
@@ -3227,7 +3254,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nangal+Cancer+Hospital+and+Research+Institute/@28.0101404,73.324241,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6fffffffff:0xb58663cd0b325fd3!8m2!3d28.0101404!4d73.324241!16s%2Fg%2F11f5k170hc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nangal+Cancer+Hospital+and+Research+Institute/@28.0101404,73.324241,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6fffffffff:0xb58663cd0b325fd3!8m2!3d28.0101404!4d73.324241!16s%2Fg%2F11f5k170hc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3296,7 +3323,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nangal+Cancer+Hospital+and+Research+Institute/@28.0101404,73.324241,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6fffffffff:0xb58663cd0b325fd3!8m2!3d28.0101404!4d73.324241!16s%2Fg%2F11f5k170hc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "onco-life-cancer-centre-talegaon-pune-talegaon-dabhade-r",
@@ -3346,7 +3374,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Onco-Life+Cancer+Centre+%E2%80%93+Talegaon+Pune/@18.7341279,73.6749316,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b10b8b1287c5:0x80931ae0102aa33!8m2!3d18.7341279!4d73.6749316!16s%2Fg%2F11rj4mq7wl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Onco-Life+Cancer+Centre+%E2%80%93+Talegaon+Pune/@18.7341279,73.6749316,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b10b8b1287c5:0x80931ae0102aa33!8m2!3d18.7341279!4d73.6749316!16s%2Fg%2F11rj4mq7wl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3415,7 +3443,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Onco-Life+Cancer+Centre+%E2%80%93+Talegaon+Pune/@18.7341279,73.6749316,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b10b8b1287c5:0x80931ae0102aa33!8m2!3d18.7341279!4d73.6749316!16s%2Fg%2F11rj4mq7wl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "p-c-parmar-foundation-global-hospital-institute-of-ophthalmology-abu-road",
@@ -3463,7 +3492,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/P+C+Parmar+Foundation+Global+Hospital+Institute+Of+Ophthalmology/@24.5380157,72.8021037,17z/data=!3m1!4b1!4m6!3m5!1s0x395d29350d42d5ef:0x92903219b77a8a65!8m2!3d24.5380157!4d72.8021037!16s%2Fg%2F11g9s_0bbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/P+C+Parmar+Foundation+Global+Hospital+Institute+Of+Ophthalmology/@24.5380157,72.8021037,17z/data=!3m1!4b1!4m6!3m5!1s0x395d29350d42d5ef:0x92903219b77a8a65!8m2!3d24.5380157!4d72.8021037!16s%2Fg%2F11g9s_0bbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3532,7 +3561,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/P+C+Parmar+Foundation+Global+Hospital+Institute+Of+Ophthalmology/@24.5380157,72.8021037,17z/data=!3m1!4b1!4m6!3m5!1s0x395d29350d42d5ef:0x92903219b77a8a65!8m2!3d24.5380157!4d72.8021037!16s%2Fg%2F11g9s_0bbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parasnath-physio-clinic-mount-abu",
@@ -3580,7 +3610,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/PARASNATH+PHYSIO+CLINIC/@24.6084267,72.7226788,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2b9b765c0a41:0xb6476dde74bb0862!8m2!3d24.6084267!4d72.7226788!16s%2Fg%2F11w3837q5z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PARASNATH+PHYSIO+CLINIC/@24.6084267,72.7226788,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2b9b765c0a41:0xb6476dde74bb0862!8m2!3d24.6084267!4d72.7226788!16s%2Fg%2F11w3837q5z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3646,10 +3676,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PARASNATH+PHYSIO+CLINIC/@24.6084267,72.7226788,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2b9b765c0a41:0xb6476dde74bb0862!8m2!3d24.6084267!4d72.7226788!16s%2Fg%2F11w3837q5z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "public-dispensary-abu-parvat-mount-abu",
@@ -3697,7 +3728,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Public+Dispensary+Abu+Parvat/@24.5930736,72.7088541,17z/data=!3m1!4b1!4m6!3m5!1s0x395cd580bd159d37:0xf4cc10cec7fa8eb4!8m2!3d24.5930736!4d72.7088541!16s%2Fg%2F11f4mczzyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Public+Dispensary+Abu+Parvat/@24.5930736,72.7088541,17z/data=!3m1!4b1!4m6!3m5!1s0x395cd580bd159d37:0xf4cc10cec7fa8eb4!8m2!3d24.5930736!4d72.7088541!16s%2Fg%2F11f4mczzyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3766,7 +3797,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Public+Dispensary+Abu+Parvat/@24.5930736,72.7088541,17z/data=!3m1!4b1!4m6!3m5!1s0x395cd580bd159d37:0xf4cc10cec7fa8eb4!8m2!3d24.5930736!4d72.7088541!16s%2Fg%2F11f4mczzyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajkiy-aayrvedic-chikitsalya-mount-abu",
@@ -3812,7 +3844,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Rajkiy+Aayrvedic+Chikitsalya/@24.5933764,72.7112401,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a7f3f8fffff:0xd8d93d87d416abda!8m2!3d24.5933764!4d72.7112401!16s%2Fg%2F11kj3f5qs2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajkiy+Aayrvedic+Chikitsalya/@24.5933764,72.7112401,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a7f3f8fffff:0xd8d93d87d416abda!8m2!3d24.5933764!4d72.7112401!16s%2Fg%2F11kj3f5qs2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3878,10 +3910,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajkiy+Aayrvedic+Chikitsalya/@24.5933764,72.7112401,17z/data=!3m1!4b1!4m6!3m5!1s0x395d2a7f3f8fffff:0xd8d93d87d416abda!8m2!3d24.5933764!4d72.7112401!16s%2Fg%2F11kj3f5qs2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sso-cancer-hospital-best-cancer-hospital-andheri-mumbai-mumbai",
@@ -3931,7 +3964,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SSO+Cancer+Hospital+%7C+Best+Cancer+Hospital+-+Andheri+Mumbai/@19.1292147,72.8317167,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9058310d917:0x48f396d15f4be145!8m2!3d19.1292147!4d72.8317167!16s%2Fg%2F11ht6mpbdy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SSO+Cancer+Hospital+%7C+Best+Cancer+Hospital+-+Andheri+Mumbai/@19.1292147,72.8317167,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9058310d917:0x48f396d15f4be145!8m2!3d19.1292147!4d72.8317167!16s%2Fg%2F11ht6mpbdy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4000,7 +4033,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SSO+Cancer+Hospital+%7C+Best+Cancer+Hospital+-+Andheri+Mumbai/@19.1292147,72.8317167,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9058310d917:0x48f396d15f4be145!8m2!3d19.1292147!4d72.8317167!16s%2Fg%2F11ht6mpbdy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "star-hospital-udaipur-udaipur",
@@ -4049,7 +4083,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Star+Hospital+,+Udaipur/@24.6142782,73.6868285,17z/data=!3m1!4b1!4m6!3m5!1s0x3967e51cfd36d9f1:0x1407463a51de524b!8m2!3d24.6142782!4d73.6868285!16s%2Fg%2F1hm4l6dg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+Hospital+,+Udaipur/@24.6142782,73.6868285,17z/data=!3m1!4b1!4m6!3m5!1s0x3967e51cfd36d9f1:0x1407463a51de524b!8m2!3d24.6142782!4d73.6868285!16s%2Fg%2F1hm4l6dg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4118,7 +4152,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Star+Hospital+,+Udaipur/@24.6142782,73.6868285,17z/data=!3m1!4b1!4m6!3m5!1s0x3967e51cfd36d9f1:0x1407463a51de524b!8m2!3d24.6142782!4d73.6868285!16s%2Fg%2F1hm4l6dg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sunshine-bone-and-joint-institute-in-hyderabad-hyderabad",
@@ -4168,7 +4203,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sunshine+Bone+and+Joint+Institute+in+Hyderabad/@17.4437619,78.4719656,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91e98fc54731:0xb3aee0ced9a9a760!8m2!3d17.4437619!4d78.4719656!16s%2Fg%2F11l2cqlxxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunshine+Bone+and+Joint+Institute+in+Hyderabad/@17.4437619,78.4719656,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91e98fc54731:0xb3aee0ced9a9a760!8m2!3d17.4437619!4d78.4719656!16s%2Fg%2F11l2cqlxxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4237,7 +4272,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunshine+Bone+and+Joint+Institute+in+Hyderabad/@17.4437619,78.4719656,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91e98fc54731:0xb3aee0ced9a9a760!8m2!3d17.4437619!4d78.4719656!16s%2Fg%2F11l2cqlxxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "u-n-mehta-institute-of-cardiology-and-research-centre-ahmedabad",
@@ -4287,7 +4323,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/U+N+Mehta+Institute+of+Cardiology+%26+Research+Centre/@23.0526535,72.601349,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84105b6ba6ff:0x2a18c1df98300c23!8m2!3d23.0526535!4d72.601349!16s%2Fg%2F1tdkq5q3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/U+N+Mehta+Institute+of+Cardiology+%26+Research+Centre/@23.0526535,72.601349,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84105b6ba6ff:0x2a18c1df98300c23!8m2!3d23.0526535!4d72.601349!16s%2Fg%2F1tdkq5q3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4356,6 +4392,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/U+N+Mehta+Institute+of+Cardiology+%26+Research+Centre/@23.0526535,72.601349,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84105b6ba6ff:0x2a18c1df98300c23!8m2!3d23.0526535!4d72.601349!16s%2Fg%2F1tdkq5q3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

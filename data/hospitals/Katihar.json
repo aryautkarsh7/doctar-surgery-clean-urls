@@ -46,7 +46,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ADVANCE+EYE+CARE+HOSPITAL+!!+EYE+HOSPITAL+%2F+EYE+TREATMENT/@25.5301967,87.5880179,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9f9919a90ab:0x37eedd43b7f5f520!8m2!3d25.5301967!4d87.5880179!16s%2Fg%2F11ys1v117v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ADVANCE+EYE+CARE+HOSPITAL+!!+EYE+HOSPITAL+%2F+EYE+TREATMENT/@25.5301967,87.5880179,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9f9919a90ab:0x37eedd43b7f5f520!8m2!3d25.5301967!4d87.5880179!16s%2Fg%2F11ys1v117v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -112,10 +112,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ADVANCE+EYE+CARE+HOSPITAL+!!+EYE+HOSPITAL+%2F+EYE+TREATMENT/@25.5301967,87.5880179,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9f9919a90ab:0x37eedd43b7f5f520!8m2!3d25.5301967!4d87.5880179!16s%2Fg%2F11ys1v117v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advance-heart-lungs-and-diabetic-centre-katihar",
@@ -165,7 +166,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Advance+Heart,+lungs+and+diabetic+centre/@25.5290351,87.5882701,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa90037111b69:0x81e3058a602925f1!8m2!3d25.5290351!4d87.5882701!16s%2Fg%2F11vz8b87wp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Heart,+lungs+and+diabetic+centre/@25.5290351,87.5882701,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa90037111b69:0x81e3058a602925f1!8m2!3d25.5290351!4d87.5882701!16s%2Fg%2F11vz8b87wp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -231,10 +232,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+Heart,+lungs+and+diabetic+centre/@25.5290351,87.5882701,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa90037111b69:0x81e3058a602925f1!8m2!3d25.5290351!4d87.5882701!16s%2Fg%2F11vz8b87wp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amrit-clinic-katihar",
@@ -280,7 +282,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Amrit+Clinic/@25.5400306,87.5686587,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f657b6785:0x25e051d2cebe32d6!8m2!3d25.5400306!4d87.5686587!16s%2Fg%2F11ddx5008_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrit+Clinic/@25.5400306,87.5686587,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f657b6785:0x25e051d2cebe32d6!8m2!3d25.5400306!4d87.5686587!16s%2Fg%2F11ddx5008_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -346,10 +348,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrit+Clinic/@25.5400306,87.5686587,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f657b6785:0x25e051d2cebe32d6!8m2!3d25.5400306!4d87.5686587!16s%2Fg%2F11ddx5008_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apex-ct-scan-and-maternity-centre-katihar",
@@ -398,7 +401,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/APEX+CT+SCAN+%26+MATERNITY+CENTRE/@25.5416836,87.570064,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa97ca21bfe25:0x5b917772e7c4ca93!8m2!3d25.5416836!4d87.570064!16s%2Fg%2F11xl9s47lw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/APEX+CT+SCAN+%26+MATERNITY+CENTRE/@25.5416836,87.570064,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa97ca21bfe25:0x5b917772e7c4ca93!8m2!3d25.5416836!4d87.570064!16s%2Fg%2F11xl9s47lw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -464,10 +467,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/APEX+CT+SCAN+%26+MATERNITY+CENTRE/@25.5416836,87.570064,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa97ca21bfe25:0x5b917772e7c4ca93!8m2!3d25.5416836!4d87.570064!16s%2Fg%2F11xl9s47lw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apex-dental-clinic-katihar",
@@ -515,7 +519,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Apex+Dental+clinic/@25.5396085,87.5686051,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9c2ebe2dd9b:0xbc5233ac71b44647!8m2!3d25.5396085!4d87.5686051!16s%2Fg%2F11kc9gw1jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Dental+clinic/@25.5396085,87.5686051,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9c2ebe2dd9b:0xbc5233ac71b44647!8m2!3d25.5396085!4d87.5686051!16s%2Fg%2F11kc9gw1jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -581,10 +585,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+Dental+clinic/@25.5396085,87.5686051,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9c2ebe2dd9b:0xbc5233ac71b44647!8m2!3d25.5396085!4d87.5686051!16s%2Fg%2F11kc9gw1jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apex-radiodiagnostic-and-maternity-centre-katihar",
@@ -633,7 +638,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Apex+Radiodiagnostic+%26+Maternity+Centre/@25.5384124,87.5684215,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9f4a1ccc409:0x26ccf9bbe5243727!8m2!3d25.5384124!4d87.5684215!16s%2Fg%2F11tkb2595y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Radiodiagnostic+%26+Maternity+Centre/@25.5384124,87.5684215,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9f4a1ccc409:0x26ccf9bbe5243727!8m2!3d25.5384124!4d87.5684215!16s%2Fg%2F11tkb2595y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -699,10 +704,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+Radiodiagnostic+%26+Maternity+Centre/@25.5384124,87.5684215,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9f4a1ccc409:0x26ccf9bbe5243727!8m2!3d25.5384124!4d87.5684215!16s%2Fg%2F11tkb2595y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-dental-clinic-katihar",
@@ -750,7 +756,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Dental+Clinic/data=!4m7!3m6!1s0x39faa9473260d2c5:0x202db64b34460d3c!8m2!3d25.5402662!4d87.5715765!16s%2Fg%2F11s37fn0st!19sChIJxdJgMkep-jkRPA1GNEu2LSA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dental+Clinic/data=!4m7!3m6!1s0x39faa9473260d2c5:0x202db64b34460d3c!8m2!3d25.5402662!4d87.5715765!16s%2Fg%2F11s37fn0st!19sChIJxdJgMkep-jkRPA1GNEu2LSA?authuser=0&hl=en&rclk=1"
@@ -816,10 +822,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Dental+Clinic/data=!4m7!3m6!1s0x39faa9473260d2c5:0x202db64b34460d3c!8m2!3d25.5402662!4d87.5715765!16s%2Fg%2F11s37fn0st!19sChIJxdJgMkep-jkRPA1GNEu2LSA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apollo-dental-clinic-katihar",
@@ -867,7 +874,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Dental+Clinic/@25.5383444,87.5683964,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa93320cf220f:0x966194d842bfb307!8m2!3d25.5383444!4d87.5683964!16s%2Fg%2F11rw_w6w05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dental+Clinic/@25.5383444,87.5683964,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa93320cf220f:0x966194d842bfb307!8m2!3d25.5383444!4d87.5683964!16s%2Fg%2F11rw_w6w05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -933,10 +940,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Dental+Clinic/@25.5383444,87.5683964,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa93320cf220f:0x966194d842bfb307!8m2!3d25.5383444!4d87.5683964!16s%2Fg%2F11rw_w6w05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-dialysis-clinic-purnea-purnia",
@@ -985,7 +993,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Purnea/@25.781808,87.488871,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff915f871c529:0xd347aa93b534aa6d!8m2!3d25.781808!4d87.488871!16s%2Fg%2F11tfn0swzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Purnea/@25.781808,87.488871,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff915f871c529:0xd347aa93b534aa6d!8m2!3d25.781808!4d87.488871!16s%2Fg%2F11tfn0swzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1051,10 +1059,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Purnea/@25.781808,87.488871,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff915f871c529:0xd347aa93b534aa6d!8m2!3d25.781808!4d87.488871!16s%2Fg%2F11tfn0swzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-dialysis-clinics-katihar-katihar",
@@ -1104,7 +1113,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Dialysis+Clinics+-+Katihar/@25.5401208,87.5672175,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9234449ade9:0xdf2bc6034d555bb9!8m2!3d25.5401208!4d87.5672175!16s%2Fg%2F11khz36czw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dialysis+Clinics+-+Katihar/@25.5401208,87.5672175,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9234449ade9:0xdf2bc6034d555bb9!8m2!3d25.5401208!4d87.5672175!16s%2Fg%2F11khz36czw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1170,10 +1179,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Dialysis+Clinics+-+Katihar/@25.5401208,87.5672175,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9234449ade9:0xdf2bc6034d555bb9!8m2!3d25.5401208!4d87.5672175!16s%2Fg%2F11khz36czw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arish-dental-clinic-katihar",
@@ -1219,7 +1229,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/ARISH+DENTAL+CLINIC/@25.5220426,87.5655522,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9000c2622a7:0xff731163eef6d53a!8m2!3d25.5220426!4d87.5655522!16s%2Fg%2F11ycl7_s6c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ARISH+DENTAL+CLINIC/@25.5220426,87.5655522,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9000c2622a7:0xff731163eef6d53a!8m2!3d25.5220426!4d87.5655522!16s%2Fg%2F11ycl7_s6c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1285,10 +1295,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ARISH+DENTAL+CLINIC/@25.5220426,87.5655522,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9000c2622a7:0xff731163eef6d53a!8m2!3d25.5220426!4d87.5655522!16s%2Fg%2F11ycl7_s6c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayush-health-centre-katihar-urban-katihar",
@@ -1338,7 +1349,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ayush+health+centre+katihar+(urban)/@25.5431134,87.5822029,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa94420f7e103:0x96c93301b6c2f233!8m2!3d25.5431134!4d87.5822029!16s%2Fg%2F11zbj3qd7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayush+health+centre+katihar+(urban)/@25.5431134,87.5822029,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa94420f7e103:0x96c93301b6c2f233!8m2!3d25.5431134!4d87.5822029!16s%2Fg%2F11zbj3qd7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1404,10 +1415,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayush+health+centre+katihar+(urban)/@25.5431134,87.5822029,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa94420f7e103:0x96c93301b6c2f233!8m2!3d25.5431134!4d87.5822029!16s%2Fg%2F11zbj3qd7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aziz-memorial-city-hospital-best-hospital-in-katihar-katihar",
@@ -1455,7 +1467,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Aziz+Memorial+City+Hospital+%7C+Best+Hospital+in+Katihar/data=!4m7!3m6!1s0x39faa9842771a035:0x4dafa33917d330f7!8m2!3d25.5382801!4d87.579335!16s%2Fg%2F11crtv1_s2!19sChIJNaBxJ4Sp-jkR9zDTFzmjr00?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aziz+Memorial+City+Hospital+%7C+Best+Hospital+in+Katihar/data=!4m7!3m6!1s0x39faa9842771a035:0x4dafa33917d330f7!8m2!3d25.5382801!4d87.579335!16s%2Fg%2F11crtv1_s2!19sChIJNaBxJ4Sp-jkR9zDTFzmjr00?authuser=0&hl=en&rclk=1"
@@ -1524,7 +1536,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aziz+Memorial+City+Hospital+%7C+Best+Hospital+in+Katihar/data=!4m7!3m6!1s0x39faa9842771a035:0x4dafa33917d330f7!8m2!3d25.5382801!4d87.579335!16s%2Fg%2F11crtv1_s2!19sChIJNaBxJ4Sp-jkR9zDTFzmjr00?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bachcha-hospital-katihar",
@@ -1574,7 +1587,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bachcha+Hospital/@25.5450246,87.5775597,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa981b19a3643:0x1b83134e73e366a7!8m2!3d25.5450246!4d87.5775597!16s%2Fg%2F11bxdd9n82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bachcha+Hospital/@25.5450246,87.5775597,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa981b19a3643:0x1b83134e73e366a7!8m2!3d25.5450246!4d87.5775597!16s%2Fg%2F11bxdd9n82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1640,10 +1653,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bachcha+Hospital/@25.5450246,87.5775597,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa981b19a3643:0x1b83134e73e366a7!8m2!3d25.5450246!4d87.5775597!16s%2Fg%2F11bxdd9n82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "braunwald-hospitals-private-limited-katihar",
@@ -1691,7 +1705,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Braunwald+Hospitals+Private+Limited/@25.5828316,87.5448591,17z/data=!3m1!4b1!4m6!3m5!1s0x39faaa70a95bfe51:0xf59eabd11ed58785!8m2!3d25.5828316!4d87.5448591!16s%2Fg%2F11c70fyl2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Braunwald+Hospitals+Private+Limited/@25.5828316,87.5448591,17z/data=!3m1!4b1!4m6!3m5!1s0x39faaa70a95bfe51:0xf59eabd11ed58785!8m2!3d25.5828316!4d87.5448591!16s%2Fg%2F11c70fyl2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1757,10 +1771,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Braunwald+Hospitals+Private+Limited/@25.5828316,87.5448591,17z/data=!3m1!4b1!4m6!3m5!1s0x39faaa70a95bfe51:0xf59eabd11ed58785!8m2!3d25.5828316!4d87.5448591!16s%2Fg%2F11c70fyl2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chandsi-dawakhana-katihar-katihar",
@@ -1808,7 +1823,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Chandsi+Dawakhana+Katihar/@25.5436022,87.5787049,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9aa1ecf5785:0xd2e17237785ed2e!8m2!3d25.5436022!4d87.5787049!16s%2Fg%2F11t9_hgc1p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandsi+Dawakhana+Katihar/@25.5436022,87.5787049,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9aa1ecf5785:0xd2e17237785ed2e!8m2!3d25.5436022!4d87.5787049!16s%2Fg%2F11t9_hgc1p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1874,10 +1889,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chandsi+Dawakhana+Katihar/@25.5436022,87.5787049,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9aa1ecf5785:0xd2e17237785ed2e!8m2!3d25.5436022!4d87.5787049!16s%2Fg%2F11t9_hgc1p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cosmodent-dental-skin-and-hair-clinic-katihar",
@@ -1925,7 +1941,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Cosmodent+Dental+Skin+And+Hair+Clinic/@25.5373785,87.5682948,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa92b1f6f43a9:0x1ba7f548ab119d6b!8m2!3d25.5373785!4d87.5682948!16s%2Fg%2F11f7clp4np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmodent+Dental+Skin+And+Hair+Clinic/@25.5373785,87.5682948,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa92b1f6f43a9:0x1ba7f548ab119d6b!8m2!3d25.5373785!4d87.5682948!16s%2Fg%2F11f7clp4np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1991,10 +2007,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmodent+Dental+Skin+And+Hair+Clinic/@25.5373785,87.5682948,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa92b1f6f43a9:0x1ba7f548ab119d6b!8m2!3d25.5373785!4d87.5682948!16s%2Fg%2F11f7clp4np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cyva-dental-care-katihar",
@@ -2042,7 +2059,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Cyva+Dental+Care/@25.5385943,87.5676712,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa99a233505a3:0x59956c2250144172!8m2!3d25.5385943!4d87.5676712!16s%2Fg%2F11x33n11d5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cyva+Dental+Care/@25.5385943,87.5676712,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa99a233505a3:0x59956c2250144172!8m2!3d25.5385943!4d87.5676712!16s%2Fg%2F11x33n11d5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2108,10 +2125,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cyva+Dental+Care/@25.5385943,87.5676712,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa99a233505a3:0x59956c2250144172!8m2!3d25.5385943!4d87.5676712!16s%2Fg%2F11x33n11d5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-hub-katihar",
@@ -2159,7 +2177,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DENTAL+HUB/@25.511692,87.5280285,17z/data=!3m1!4b1!4m6!3m5!1s0x39f007da2a03f48b:0x681c08ccd933cff8!8m2!3d25.511692!4d87.5280285!16s%2Fg%2F11j1jnf3n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTAL+HUB/@25.511692,87.5280285,17z/data=!3m1!4b1!4m6!3m5!1s0x39f007da2a03f48b:0x681c08ccd933cff8!8m2!3d25.511692!4d87.5280285!16s%2Fg%2F11j1jnf3n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2225,10 +2243,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENTAL+HUB/@25.511692,87.5280285,17z/data=!3m1!4b1!4m6!3m5!1s0x39f007da2a03f48b:0x681c08ccd933cff8!8m2!3d25.511692!4d87.5280285!16s%2Fg%2F11j1jnf3n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "diabetes-liver-chest-heart-and-stroke-clinic-katihar",
@@ -2277,7 +2296,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Diabetes,+Liver,Chest,Heart+and+Stroke+Clinic/@25.5386316,87.5690627,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f86fa52cd:0xe67d2f7a679e33a1!8m2!3d25.5386316!4d87.5690627!16s%2Fg%2F11c5qs0d64?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diabetes,+Liver,Chest,Heart+and+Stroke+Clinic/@25.5386316,87.5690627,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f86fa52cd:0xe67d2f7a679e33a1!8m2!3d25.5386316!4d87.5690627!16s%2Fg%2F11c5qs0d64?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2343,10 +2362,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Diabetes,+Liver,Chest,Heart+and+Stroke+Clinic/@25.5386316,87.5690627,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f86fa52cd:0xe67d2f7a679e33a1!8m2!3d25.5386316!4d87.5690627!16s%2Fg%2F11c5qs0d64?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "diwan-clinic-katihar",
@@ -2395,7 +2415,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Diwan+clinic/@25.5377049,87.5688335,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9403f0efb91:0x20506c7e43fba659!8m2!3d25.5377049!4d87.5688335!16s%2Fg%2F11j0bj1nzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diwan+clinic/@25.5377049,87.5688335,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9403f0efb91:0x20506c7e43fba659!8m2!3d25.5377049!4d87.5688335!16s%2Fg%2F11j0bj1nzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2461,10 +2481,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Diwan+clinic/@25.5377049,87.5688335,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9403f0efb91:0x20506c7e43fba659!8m2!3d25.5377049!4d87.5688335!16s%2Fg%2F11j0bj1nzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eiwa-hospital-katihar",
@@ -2512,7 +2533,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Eiwa+Hospital/@25.5403434,87.5823216,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9b5bbbe87f1:0x4e141c3e9ad88cc6!8m2!3d25.5403434!4d87.5823216!16s%2Fg%2F11h8816cm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eiwa+Hospital/@25.5403434,87.5823216,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9b5bbbe87f1:0x4e141c3e9ad88cc6!8m2!3d25.5403434!4d87.5823216!16s%2Fg%2F11h8816cm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2578,10 +2599,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eiwa+Hospital/@25.5403434,87.5823216,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9b5bbbe87f1:0x4e141c3e9ad88cc6!8m2!3d25.5403434!4d87.5823216!16s%2Fg%2F11h8816cm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "family-dental-and-cosmetic-clinic-katihar",
@@ -2630,7 +2652,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Family+Dental+And+Cosmetic+Clinic/@25.5385943,87.5676712,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98fa47c8cf1:0x61b4fe73d791c545!8m2!3d25.5385943!4d87.5676712!16s%2Fg%2F11w1qhtz6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Family+Dental+And+Cosmetic+Clinic/@25.5385943,87.5676712,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98fa47c8cf1:0x61b4fe73d791c545!8m2!3d25.5385943!4d87.5676712!16s%2Fg%2F11w1qhtz6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2696,10 +2718,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Family+Dental+And+Cosmetic+Clinic/@25.5385943,87.5676712,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98fa47c8cf1:0x61b4fe73d791c545!8m2!3d25.5385943!4d87.5676712!16s%2Fg%2F11w1qhtz6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "first-smile-dental-clinic-katihar",
@@ -2748,7 +2771,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/first+smile+Dental+Clinic/@25.5391959,87.5671782,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9a4a54668bd:0x549f7a42ffead523!8m2!3d25.5391959!4d87.5671782!16s%2Fg%2F11jyf3nv4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/first+smile+Dental+Clinic/@25.5391959,87.5671782,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9a4a54668bd:0x549f7a42ffead523!8m2!3d25.5391959!4d87.5671782!16s%2Fg%2F11jyf3nv4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2814,10 +2837,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/first+smile+Dental+Clinic/@25.5391959,87.5671782,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9a4a54668bd:0x549f7a42ffead523!8m2!3d25.5391959!4d87.5671782!16s%2Fg%2F11jyf3nv4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gauranga-dental-clinic-katihar",
@@ -2864,7 +2888,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/GAURANGA+DENTAL+CLINIC/@25.5490426,87.5733593,17z/data=!3m1!4b1!4m6!3m5!1s0x39faabaab57639c1:0x12aac59cc2482485!8m2!3d25.5490426!4d87.5733593!16s%2Fg%2F11y677w4hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GAURANGA+DENTAL+CLINIC/@25.5490426,87.5733593,17z/data=!3m1!4b1!4m6!3m5!1s0x39faabaab57639c1:0x12aac59cc2482485!8m2!3d25.5490426!4d87.5733593!16s%2Fg%2F11y677w4hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2930,10 +2954,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GAURANGA+DENTAL+CLINIC/@25.5490426,87.5733593,17z/data=!3m1!4b1!4m6!3m5!1s0x39faabaab57639c1:0x12aac59cc2482485!8m2!3d25.5490426!4d87.5733593!16s%2Fg%2F11y677w4hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "global-hospital-katihar",
@@ -2981,7 +3006,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Global+Hospital/@25.5625772,87.5478247,17z/data=!3m1!4b1!4m6!3m5!1s0x39faaa0e4c8e3115:0x1f5963cd97ca916d!8m2!3d25.5625772!4d87.5478247!16s%2Fg%2F11c31r0h71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Hospital/@25.5625772,87.5478247,17z/data=!3m1!4b1!4m6!3m5!1s0x39faaa0e4c8e3115:0x1f5963cd97ca916d!8m2!3d25.5625772!4d87.5478247!16s%2Fg%2F11c31r0h71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3050,7 +3075,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Global+Hospital/@25.5625772,87.5478247,17z/data=!3m1!4b1!4m6!3m5!1s0x39faaa0e4c8e3115:0x1f5963cd97ca916d!8m2!3d25.5625772!4d87.5478247!16s%2Fg%2F11c31r0h71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gupta-dental-care-and-hospital-dental-skin-laser-and-hair-clinic-katihar-dentalclinic-best-dentist-in-katihar-katihar",
@@ -3099,7 +3125,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gupta+Dental+Care+and+Hospital,Dental,Skin,laser%26+Hair+Clinic,Katihar-DentalClinic%2FBest+Dentist+in+Katihar/@25.5445121,87.5670774,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9d48b029bb1:0x8de5f089e67af17c!8m2!3d25.5445121!4d87.5670774!16s%2Fg%2F11q8y5hkml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+Dental+Care+and+Hospital,Dental,Skin,laser%26+Hair+Clinic,Katihar-DentalClinic%2FBest+Dentist+in+Katihar/@25.5445121,87.5670774,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9d48b029bb1:0x8de5f089e67af17c!8m2!3d25.5445121!4d87.5670774!16s%2Fg%2F11q8y5hkml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3165,10 +3191,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gupta+Dental+Care+and+Hospital,Dental,Skin,laser%26+Hair+Clinic,Katihar-DentalClinic%2FBest+Dentist+in+Katihar/@25.5445121,87.5670774,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9d48b029bb1:0x8de5f089e67af17c!8m2!3d25.5445121!4d87.5670774!16s%2Fg%2F11q8y5hkml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hope-and-heal-cancer-hospital-binnaguri",
@@ -3218,7 +3245,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hope+%26+Heal+Cancer+Hospital/@26.6289862,88.4410887,17z/data=!3m1!4b1!4m6!3m5!1s0x39e44381aa59683f:0xb42f5e547d9877e4!8m2!3d26.6289862!4d88.4410887!16s%2Fg%2F11s5p22q6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+%26+Heal+Cancer+Hospital/@26.6289862,88.4410887,17z/data=!3m1!4b1!4m6!3m5!1s0x39e44381aa59683f:0xb42f5e547d9877e4!8m2!3d26.6289862!4d88.4410887!16s%2Fg%2F11s5p22q6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3287,7 +3314,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hope+%26+Heal+Cancer+Hospital/@26.6289862,88.4410887,17z/data=!3m1!4b1!4m6!3m5!1s0x39e44381aa59683f:0xb42f5e547d9877e4!8m2!3d26.6289862!4d88.4410887!16s%2Fg%2F11s5p22q6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hospital-step-katihar",
@@ -3333,7 +3361,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Hospital+step/@25.5401152,87.5701415,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9b62bc9c74b:0x240d6a8f2b83af9a!8m2!3d25.5401152!4d87.5701415!16s%2Fg%2F11h70ggtlz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital+step/@25.5401152,87.5701415,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9b62bc9c74b:0x240d6a8f2b83af9a!8m2!3d25.5401152!4d87.5701415!16s%2Fg%2F11h70ggtlz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3399,10 +3427,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hospital+step/@25.5401152,87.5701415,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9b62bc9c74b:0x240d6a8f2b83af9a!8m2!3d25.5401152!4d87.5701415!16s%2Fg%2F11h70ggtlz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hridayam-speciality-clinic-katihar",
@@ -3453,7 +3482,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Hridayam+Speciality+Clinic/@25.5375244,87.568665,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9ca3767bcab:0x5ae968df9dbbc671!8m2!3d25.5375244!4d87.568665!16s%2Fg%2F11tf12r_zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hridayam+Speciality+Clinic/@25.5375244,87.568665,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9ca3767bcab:0x5ae968df9dbbc671!8m2!3d25.5375244!4d87.568665!16s%2Fg%2F11tf12r_zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3522,7 +3551,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hridayam+Speciality+Clinic/@25.5375244,87.568665,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9ca3767bcab:0x5ae968df9dbbc671!8m2!3d25.5375244!4d87.568665!16s%2Fg%2F11tf12r_zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "insearch-physiotherapy-clinic-katihar-katihar",
@@ -3571,7 +3601,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Insearch+physiotherapy+clinic+katihar/@25.5410449,87.5687612,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9f3b41cc81d:0x4eca86cd92b93002!8m2!3d25.5410449!4d87.5687612!16s%2Fg%2F11s47fb8lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Insearch+physiotherapy+clinic+katihar/@25.5410449,87.5687612,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9f3b41cc81d:0x4eca86cd92b93002!8m2!3d25.5410449!4d87.5687612!16s%2Fg%2F11s47fb8lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3640,7 +3670,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Insearch+physiotherapy+clinic+katihar/@25.5410449,87.5687612,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9f3b41cc81d:0x4eca86cd92b93002!8m2!3d25.5410449!4d87.5687612!16s%2Fg%2F11s47fb8lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jamil-medical-katihar",
@@ -3686,7 +3717,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Jamil+Medical/data=!4m7!3m6!1s0x39faabd48a5ba68d:0xe80250b32aee141f!8m2!3d25.5534913!4d87.5595311!16s%2Fg%2F11tdd2rpxj!19sChIJjaZbitSr-jkRHxTuKrNQAug?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jamil+Medical/data=!4m7!3m6!1s0x39faabd48a5ba68d:0xe80250b32aee141f!8m2!3d25.5534913!4d87.5595311!16s%2Fg%2F11tdd2rpxj!19sChIJjaZbitSr-jkRHxTuKrNQAug?authuser=0&hl=en&rclk=1"
@@ -3752,10 +3783,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jamil+Medical/data=!4m7!3m6!1s0x39faabd48a5ba68d:0xe80250b32aee141f!8m2!3d25.5534913!4d87.5595311!16s%2Fg%2F11tdd2rpxj!19sChIJjaZbitSr-jkRHxTuKrNQAug?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "janani-hospital-and-baby-care-katihar",
@@ -3803,7 +3835,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Janani+Hospital+%26+Baby+Care/@25.5369949,87.5676246,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9c218fd2cdd:0x8a25bac19e1c1113!8m2!3d25.5369949!4d87.5676246!16s%2Fg%2F11jj6p6m53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janani+Hospital+%26+Baby+Care/@25.5369949,87.5676246,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9c218fd2cdd:0x8a25bac19e1c1113!8m2!3d25.5369949!4d87.5676246!16s%2Fg%2F11jj6p6m53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3872,7 +3904,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Janani+Hospital+%26+Baby+Care/@25.5369949,87.5676246,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9c218fd2cdd:0x8a25bac19e1c1113!8m2!3d25.5369949!4d87.5676246!16s%2Fg%2F11jj6p6m53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevan-suraksha-kendra-katihar",
@@ -3921,7 +3954,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Suraksha+Kendra/@25.538406,87.5668092,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98faef6923f:0xf6c969c521591b94!8m2!3d25.538406!4d87.5668092!16s%2Fg%2F11csqt3xj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Suraksha+Kendra/@25.538406,87.5668092,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98faef6923f:0xf6c969c521591b94!8m2!3d25.538406!4d87.5668092!16s%2Fg%2F11csqt3xj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3990,7 +4023,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Suraksha+Kendra/@25.538406,87.5668092,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98faef6923f:0xf6c969c521591b94!8m2!3d25.538406!4d87.5668092!16s%2Fg%2F11csqt3xj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeewan-lok-hospital-katihar-katihar",
@@ -4038,7 +4072,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/JEEWAN+LOK+HOSPITAL,KATIHAR/data=!4m7!3m6!1s0x39faaa0bb96c9499:0xdadca0290498e718!8m2!3d25.5670827!4d87.5428477!16s%2Fg%2F11f03yyp2x!19sChIJmZRsuQuq-jkRGOeYBCmg3No?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JEEWAN+LOK+HOSPITAL,KATIHAR/data=!4m7!3m6!1s0x39faaa0bb96c9499:0xdadca0290498e718!8m2!3d25.5670827!4d87.5428477!16s%2Fg%2F11f03yyp2x!19sChIJmZRsuQuq-jkRGOeYBCmg3No?authuser=0&hl=en&rclk=1"
@@ -4104,10 +4138,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JEEWAN+LOK+HOSPITAL,KATIHAR/data=!4m7!3m6!1s0x39faaa0bb96c9499:0xdadca0290498e718!8m2!3d25.5670827!4d87.5428477!16s%2Fg%2F11f03yyp2x!19sChIJmZRsuQuq-jkRGOeYBCmg3No?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "k-i-n-hospital-katihar",
@@ -4155,7 +4190,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/K.I.N.+HOSPITAL/data=!4m7!3m6!1s0x39faab006f3f2ef7:0xf5e01a8dd5aacb3b!8m2!3d25.5995115!4d87.5496059!16s%2Fg%2F11xcrl3qn8!19sChIJ9y4_bwCr-jkRO8uq1Y0a4PU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K.I.N.+HOSPITAL/data=!4m7!3m6!1s0x39faab006f3f2ef7:0xf5e01a8dd5aacb3b!8m2!3d25.5995115!4d87.5496059!16s%2Fg%2F11xcrl3qn8!19sChIJ9y4_bwCr-jkRO8uq1Y0a4PU?authuser=0&hl=en&rclk=1"
@@ -4221,10 +4256,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/K.I.N.+HOSPITAL/data=!4m7!3m6!1s0x39faab006f3f2ef7:0xf5e01a8dd5aacb3b!8m2!3d25.5995115!4d87.5496059!16s%2Fg%2F11xcrl3qn8!19sChIJ9y4_bwCr-jkRO8uq1Y0a4PU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kalpna-maternity-home-katihar",
@@ -4272,7 +4308,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Kalpna+Maternity+Home/@25.5333895,87.5673518,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9adb0478dc5:0xd236c995e5a72243!8m2!3d25.5333895!4d87.5673518!16s%2Fg%2F11jdhy6vg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalpna+Maternity+Home/@25.5333895,87.5673518,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9adb0478dc5:0xd236c995e5a72243!8m2!3d25.5333895!4d87.5673518!16s%2Fg%2F11jdhy6vg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4341,7 +4377,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalpna+Maternity+Home/@25.5333895,87.5673518,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9adb0478dc5:0xd236c995e5a72243!8m2!3d25.5333895!4d87.5673518!16s%2Fg%2F11jdhy6vg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "katihar-advance-physiotherapy-clinic-katihar",
@@ -4390,7 +4427,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Katihar+Advance+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39faa94571e71849:0x92b4ff6374076951!8m2!3d25.5386369!4d87.5699924!16s%2Fg%2F11w9b6rhzt!19sChIJSRjncUWp-jkRUWkHdGP_tJI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Katihar+Advance+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39faa94571e71849:0x92b4ff6374076951!8m2!3d25.5386369!4d87.5699924!16s%2Fg%2F11w9b6rhzt!19sChIJSRjncUWp-jkRUWkHdGP_tJI?authuser=0&hl=en&rclk=1"
@@ -4459,7 +4496,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Katihar+Advance+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39faa94571e71849:0x92b4ff6374076951!8m2!3d25.5386369!4d87.5699924!16s%2Fg%2F11w9b6rhzt!19sChIJSRjncUWp-jkRUWkHdGP_tJI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "katihar-dialysis-centre-katihar",
@@ -4508,7 +4546,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Katihar+Dialysis+Centre/@25.5411614,87.5754277,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9c6378e04f5:0xf2d779b57892af3a!8m2!3d25.5411614!4d87.5754277!16s%2Fg%2F11g2m8zpmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Katihar+Dialysis+Centre/@25.5411614,87.5754277,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9c6378e04f5:0xf2d779b57892af3a!8m2!3d25.5411614!4d87.5754277!16s%2Fg%2F11g2m8zpmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4574,10 +4612,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Katihar+Dialysis+Centre/@25.5411614,87.5754277,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9c6378e04f5:0xf2d779b57892af3a!8m2!3d25.5411614!4d87.5754277!16s%2Fg%2F11g2m8zpmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "katihar-medcare-hospital-katihar",
@@ -4625,7 +4664,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Katihar+MedCare+hospital/@25.5435949,87.5727128,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9004fa3b745:0x9d36064d96d5d6cb!8m2!3d25.5435949!4d87.5727128!16s%2Fg%2F11xt1_nd0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Katihar+MedCare+hospital/@25.5435949,87.5727128,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9004fa3b745:0x9d36064d96d5d6cb!8m2!3d25.5435949!4d87.5727128!16s%2Fg%2F11xt1_nd0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4691,10 +4730,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Katihar+MedCare+hospital/@25.5435949,87.5727128,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9004fa3b745:0x9d36064d96d5d6cb!8m2!3d25.5435949!4d87.5727128!16s%2Fg%2F11xt1_nd0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "katihar-medical-college-hospital-katihar",
@@ -4743,7 +4783,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Katihar+Medical+College+Hospital/@25.5835238,87.5474169,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab2df8540e45:0x19c6317927622a28!8m2!3d25.5835238!4d87.5474169!16s%2Fg%2F11cs69qfck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Katihar+Medical+College+Hospital/@25.5835238,87.5474169,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab2df8540e45:0x19c6317927622a28!8m2!3d25.5835238!4d87.5474169!16s%2Fg%2F11cs69qfck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4809,10 +4849,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Katihar+Medical+College+Hospital/@25.5835238,87.5474169,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab2df8540e45:0x19c6317927622a28!8m2!3d25.5835238!4d87.5474169!16s%2Fg%2F11cs69qfck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "katihar-patho-clinic-aminabad",
@@ -4858,7 +4899,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/KATIHAR+PATHO+CLINIC/@25.5291092,87.4652003,17z/data=!3m1!4b1!4m6!3m5!1s0x39f006a6a91bfbc5:0xe0661b58bfc8a58b!8m2!3d25.5291092!4d87.4652003!16s%2Fg%2F11vzxv958l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KATIHAR+PATHO+CLINIC/@25.5291092,87.4652003,17z/data=!3m1!4b1!4m6!3m5!1s0x39f006a6a91bfbc5:0xe0661b58bfc8a58b!8m2!3d25.5291092!4d87.4652003!16s%2Fg%2F11vzxv958l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4924,10 +4965,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KATIHAR+PATHO+CLINIC/@25.5291092,87.4652003,17z/data=!3m1!4b1!4m6!3m5!1s0x39f006a6a91bfbc5:0xe0661b58bfc8a58b!8m2!3d25.5291092!4d87.4652003!16s%2Fg%2F11vzxv958l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "keshri-polyclinic-and-drug-agency-katihar-katihar",
@@ -4975,7 +5017,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Keshri+Polyclinic+and+Drug+Agency,+Katihar/@25.53877,87.5688781,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa93550cdc4dd:0xd3dc07a40a9c82f6!8m2!3d25.53877!4d87.5688781!16s%2Fg%2F11z60fxhfr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Keshri+Polyclinic+and+Drug+Agency,+Katihar/@25.53877,87.5688781,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa93550cdc4dd:0xd3dc07a40a9c82f6!8m2!3d25.53877!4d87.5688781!16s%2Fg%2F11z60fxhfr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5041,10 +5083,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Keshri+Polyclinic+and+Drug+Agency,+Katihar/@25.53877,87.5688781,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa93550cdc4dd:0xd3dc07a40a9c82f6!8m2!3d25.53877!4d87.5688781!16s%2Fg%2F11z60fxhfr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lodi-dental-clinic-katihar",
@@ -5093,7 +5136,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lodi+Dental+Clinic/@25.5202658,87.5653305,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9b5e0931741:0xfbd936e6667de181!8m2!3d25.5202658!4d87.5653305!16s%2Fg%2F11m4h1w0z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lodi+Dental+Clinic/@25.5202658,87.5653305,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9b5e0931741:0xfbd936e6667de181!8m2!3d25.5202658!4d87.5653305!16s%2Fg%2F11m4h1w0z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5162,7 +5205,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lodi+Dental+Clinic/@25.5202658,87.5653305,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9b5e0931741:0xfbd936e6667de181!8m2!3d25.5202658!4d87.5653305!16s%2Fg%2F11m4h1w0z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lodi-hospital-katihar",
@@ -5210,7 +5254,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/LODI+HOSPITAL/@25.5202565,87.5653229,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9bc3ecbf2dd:0xdc1c97d02d6d9c53!8m2!3d25.5202565!4d87.5653229!16s%2Fg%2F11c74ypp8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LODI+HOSPITAL/@25.5202565,87.5653229,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9bc3ecbf2dd:0xdc1c97d02d6d9c53!8m2!3d25.5202565!4d87.5653229!16s%2Fg%2F11c74ypp8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5279,7 +5323,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LODI+HOSPITAL/@25.5202565,87.5653229,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9bc3ecbf2dd:0xdc1c97d02d6d9c53!8m2!3d25.5202565!4d87.5653229!16s%2Fg%2F11c74ypp8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mamta-nursing-home-katihar-katihar",
@@ -5327,7 +5372,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Mamta+Nursing+Home+katihar/@25.5304328,87.595863,17z/data=!3m1!4b1!4m6!3m5!1s0x39faaa291db59f21:0x18a66b1cd47dadbb!8m2!3d25.5304328!4d87.595863!16s%2Fg%2F11f3tr7fkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mamta+Nursing+Home+katihar/@25.5304328,87.595863,17z/data=!3m1!4b1!4m6!3m5!1s0x39faaa291db59f21:0x18a66b1cd47dadbb!8m2!3d25.5304328!4d87.595863!16s%2Fg%2F11f3tr7fkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5396,7 +5441,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mamta+Nursing+Home+katihar/@25.5304328,87.595863,17z/data=!3m1!4b1!4m6!3m5!1s0x39faaa291db59f21:0x18a66b1cd47dadbb!8m2!3d25.5304328!4d87.595863!16s%2Fg%2F11f3tr7fkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "marc-hospital-best-nursing-home-in-katihar-katihar",
@@ -5445,7 +5491,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MARC+Hospital+%7C+Best+Nursing+Home+In+Katihar/@25.5426277,87.5783758,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa981f67ae50d:0x10f514b149381de9!8m2!3d25.5426277!4d87.5783758!16s%2Fg%2F11fxvqy0pg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MARC+Hospital+%7C+Best+Nursing+Home+In+Katihar/@25.5426277,87.5783758,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa981f67ae50d:0x10f514b149381de9!8m2!3d25.5426277!4d87.5783758!16s%2Fg%2F11fxvqy0pg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5514,7 +5560,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MARC+Hospital+%7C+Best+Nursing+Home+In+Katihar/@25.5426277,87.5783758,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa981f67ae50d:0x10f514b149381de9!8m2!3d25.5426277!4d87.5783758!16s%2Fg%2F11fxvqy0pg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "max-hospital-katihar-katihar-katihar",
@@ -5562,7 +5609,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/MAX+HOSPITAL+KATIHAR+Katihar/@25.5380414,87.5684793,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa90075f51dd9:0x76b4bfdb80dcb5e9!8m2!3d25.5380414!4d87.5684793!16s%2Fg%2F11xtrr0b7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAX+HOSPITAL+KATIHAR+Katihar/@25.5380414,87.5684793,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa90075f51dd9:0x76b4bfdb80dcb5e9!8m2!3d25.5380414!4d87.5684793!16s%2Fg%2F11xtrr0b7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5628,10 +5675,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MAX+HOSPITAL+KATIHAR+Katihar/@25.5380414,87.5684793,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa90075f51dd9:0x76b4bfdb80dcb5e9!8m2!3d25.5380414!4d87.5684793!16s%2Fg%2F11xtrr0b7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mother-care-hospital-katihar",
@@ -5679,7 +5727,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Mother+Care+Hospital/@25.5438452,87.5726247,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98d9ce86fad:0xc4190e77534c17cd!8m2!3d25.5438452!4d87.5726247!16s%2Fg%2F11wmm_7ztv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mother+Care+Hospital/@25.5438452,87.5726247,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98d9ce86fad:0xc4190e77534c17cd!8m2!3d25.5438452!4d87.5726247!16s%2Fg%2F11wmm_7ztv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5748,7 +5796,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mother+Care+Hospital/@25.5438452,87.5726247,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98d9ce86fad:0xc4190e77534c17cd!8m2!3d25.5438452!4d87.5726247!16s%2Fg%2F11wmm_7ztv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "muskan-heart-and-maternity-hospital-purnia",
@@ -5797,7 +5846,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Muskan+Heart+%26+Maternity+Hospital/@25.7844684,87.4939839,17z/data=!3m1!4b1!4m6!3m5!1s0x39928f30ae7023eb:0x3f199930d3cb01c0!8m2!3d25.7844684!4d87.4939839!16s%2Fg%2F11rw_rgjyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Muskan+Heart+%26+Maternity+Hospital/@25.7844684,87.4939839,17z/data=!3m1!4b1!4m6!3m5!1s0x39928f30ae7023eb:0x3f199930d3cb01c0!8m2!3d25.7844684!4d87.4939839!16s%2Fg%2F11rw_rgjyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5866,7 +5915,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Muskan+Heart+%26+Maternity+Hospital/@25.7844684,87.4939839,17z/data=!3m1!4b1!4m6!3m5!1s0x39928f30ae7023eb:0x3f199930d3cb01c0!8m2!3d25.7844684!4d87.4939839!16s%2Fg%2F11rw_rgjyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-fans-clinic-dr-m-ahtasham-katihar",
@@ -5914,7 +5964,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/NEW+FANS+CLINIC+(Dr+M+AHTASHAM)/@25.532829,87.5916271,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9b4edba82d5:0x1ee36104e9fdc884!8m2!3d25.532829!4d87.5916271!16s%2Fg%2F11vx3d02jx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEW+FANS+CLINIC+(Dr+M+AHTASHAM)/@25.532829,87.5916271,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9b4edba82d5:0x1ee36104e9fdc884!8m2!3d25.532829!4d87.5916271!16s%2Fg%2F11vx3d02jx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5980,10 +6030,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEW+FANS+CLINIC+(Dr+M+AHTASHAM)/@25.532829,87.5916271,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9b4edba82d5:0x1ee36104e9fdc884!8m2!3d25.532829!4d87.5916271!16s%2Fg%2F11vx3d02jx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nexus-maternity-center-katihar",
@@ -6031,7 +6082,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Nexus+Maternity+Center/@25.5373879,87.5682858,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9393571c239:0x625d6baa1f8991b8!8m2!3d25.5373879!4d87.5682858!16s%2Fg%2F11x0_zvx8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nexus+Maternity+Center/@25.5373879,87.5682858,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9393571c239:0x625d6baa1f8991b8!8m2!3d25.5373879!4d87.5682858!16s%2Fg%2F11x0_zvx8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6100,7 +6151,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nexus+Maternity+Center/@25.5373879,87.5682858,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9393571c239:0x625d6baa1f8991b8!8m2!3d25.5373879!4d87.5682858!16s%2Fg%2F11x0_zvx8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nirog-nursing-home-katihar",
@@ -6148,7 +6200,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Nirog+Nursing+Home/@25.5400858,87.5786405,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9005cfb5ddd:0xca3706d35460b568!8m2!3d25.5400858!4d87.5786405!16s%2Fg%2F11vrhc2rhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirog+Nursing+Home/@25.5400858,87.5786405,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9005cfb5ddd:0xca3706d35460b568!8m2!3d25.5400858!4d87.5786405!16s%2Fg%2F11vrhc2rhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6214,10 +6266,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nirog+Nursing+Home/@25.5400858,87.5786405,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9005cfb5ddd:0xca3706d35460b568!8m2!3d25.5400858!4d87.5786405!16s%2Fg%2F11vrhc2rhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "palaash-hospital-katihar",
@@ -6266,7 +6319,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Palaash+Hospital/@25.5527681,87.5589268,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab726db8476d:0x6565d7e0d68869a6!8m2!3d25.5527681!4d87.5589268!16s%2Fg%2F11yk1qpx_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Palaash+Hospital/@25.5527681,87.5589268,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab726db8476d:0x6565d7e0d68869a6!8m2!3d25.5527681!4d87.5589268!16s%2Fg%2F11yk1qpx_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6332,10 +6385,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Palaash+Hospital/@25.5527681,87.5589268,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab726db8476d:0x6565d7e0d68869a6!8m2!3d25.5527681!4d87.5589268!16s%2Fg%2F11yk1qpx_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "paramount-hospital-katihar",
@@ -6383,7 +6437,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Paramount+Hospital/@25.5382973,87.5665944,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9a3680dd4b9:0xf29c38a34e8ed6d4!8m2!3d25.5382973!4d87.5665944!16s%2Fg%2F11k532tbv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paramount+Hospital/@25.5382973,87.5665944,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9a3680dd4b9:0xf29c38a34e8ed6d4!8m2!3d25.5382973!4d87.5665944!16s%2Fg%2F11k532tbv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6449,10 +6503,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Paramount+Hospital/@25.5382973,87.5665944,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9a3680dd4b9:0xf29c38a34e8ed6d4!8m2!3d25.5382973!4d87.5665944!16s%2Fg%2F11k532tbv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radiant-hospital-katihar",
@@ -6501,7 +6556,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Radiant+Hospital/@25.5330376,87.5892795,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa96e236f4db5:0x1fef62a29ee4ec0b!8m2!3d25.5330376!4d87.5892795!16s%2Fg%2F11gf9bncw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiant+Hospital/@25.5330376,87.5892795,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa96e236f4db5:0x1fef62a29ee4ec0b!8m2!3d25.5330376!4d87.5892795!16s%2Fg%2F11gf9bncw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6570,7 +6625,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radiant+Hospital/@25.5330376,87.5892795,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa96e236f4db5:0x1fef62a29ee4ec0b!8m2!3d25.5330376!4d87.5892795!16s%2Fg%2F11gf9bncw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radiant-oral-and-dental-clinic-katihar",
@@ -6618,7 +6674,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Radiant+oral+and+dental+clinic/@25.5507703,87.5484112,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab8c86ba10b3:0xbe2b2dcd276779a2!8m2!3d25.5507703!4d87.5484112!16s%2Fg%2F11w1dj1m5c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiant+oral+and+dental+clinic/@25.5507703,87.5484112,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab8c86ba10b3:0xbe2b2dcd276779a2!8m2!3d25.5507703!4d87.5484112!16s%2Fg%2F11w1dj1m5c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6684,10 +6740,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radiant+oral+and+dental+clinic/@25.5507703,87.5484112,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab8c86ba10b3:0xbe2b2dcd276779a2!8m2!3d25.5507703!4d87.5484112!16s%2Fg%2F11w1dj1m5c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radisa-diagnostic-centre-and-child-care-clinic-katihar",
@@ -6738,7 +6795,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Radisa+Diagnostic+Centre+and+Child+Care+Clinic/@25.5381838,87.5792377,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9e7049feccb:0xfd30b618fff1878f!8m2!3d25.5381838!4d87.5792377!16s%2Fg%2F11xl_8ftdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radisa+Diagnostic+Centre+and+Child+Care+Clinic/@25.5381838,87.5792377,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9e7049feccb:0xfd30b618fff1878f!8m2!3d25.5381838!4d87.5792377!16s%2Fg%2F11xl_8ftdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6807,7 +6864,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radisa+Diagnostic+Centre+and+Child+Care+Clinic/@25.5381838,87.5792377,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9e7049feccb:0xfd30b618fff1878f!8m2!3d25.5381838!4d87.5792377!16s%2Fg%2F11xl_8ftdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "redcliffe-labs-collection-centre-full-body-check-up-and-blood-test-in-ghosh-para-katihar",
@@ -6857,7 +6915,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Centre+%7C+Full+Body+Check+Up+%26+Blood+Test+in+Ghosh+Para/@25.5526183,87.5767824,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab709d4cc521:0x4480db2ad6e1d820!8m2!3d25.5526183!4d87.5767824!16s%2Fg%2F11s34fx9ps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Centre+%7C+Full+Body+Check+Up+%26+Blood+Test+in+Ghosh+Para/@25.5526183,87.5767824,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab709d4cc521:0x4480db2ad6e1d820!8m2!3d25.5526183!4d87.5767824!16s%2Fg%2F11s34fx9ps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6926,7 +6984,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Centre+%7C+Full+Body+Check+Up+%26+Blood+Test+in+Ghosh+Para/@25.5526183,87.5767824,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab709d4cc521:0x4480db2ad6e1d820!8m2!3d25.5526183!4d87.5767824!16s%2Fg%2F11s34fx9ps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saaol-heart-center-purnia-line-bazar",
@@ -6976,7 +7035,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Saaol+Heart+center+Purnia/@25.7853424,87.4995693,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a6dc542fdf:0x7530e3a689177900!8m2!3d25.7853424!4d87.4995693!16s%2Fg%2F11t3cxn25x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+Heart+center+Purnia/@25.7853424,87.4995693,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a6dc542fdf:0x7530e3a689177900!8m2!3d25.7853424!4d87.4995693!16s%2Fg%2F11t3cxn25x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7045,7 +7104,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saaol+Heart+center+Purnia/@25.7853424,87.4995693,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a6dc542fdf:0x7530e3a689177900!8m2!3d25.7853424!4d87.4995693!16s%2Fg%2F11t3cxn25x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sadar-hospital-katihar-katihar",
@@ -7093,7 +7153,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Sadar+Hospital,+Katihar/@25.5398015,87.5676402,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f1045b2a1:0xab2968318de6ecd3!8m2!3d25.5398015!4d87.5676402!16s%2Fg%2F1hf46hrp2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadar+Hospital,+Katihar/@25.5398015,87.5676402,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f1045b2a1:0xab2968318de6ecd3!8m2!3d25.5398015!4d87.5676402!16s%2Fg%2F1hf46hrp2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7162,7 +7222,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sadar+Hospital,+Katihar/@25.5398015,87.5676402,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f1045b2a1:0xab2968318de6ecd3!8m2!3d25.5398015!4d87.5676402!16s%2Fg%2F1hf46hrp2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjay-medical-katihar",
@@ -7208,7 +7269,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Sanjay+Medical/data=!4m7!3m6!1s0x39faa94e28674413:0xdee16622bbed4206!8m2!3d25.5361404!4d87.5553139!16s%2Fg%2F11tc1w80n5!19sChIJE0RnKE6p-jkRBkLtuyJm4d4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjay+Medical/data=!4m7!3m6!1s0x39faa94e28674413:0xdee16622bbed4206!8m2!3d25.5361404!4d87.5553139!16s%2Fg%2F11tc1w80n5!19sChIJE0RnKE6p-jkRBkLtuyJm4d4?authuser=0&hl=en&rclk=1"
@@ -7274,10 +7335,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjay+Medical/data=!4m7!3m6!1s0x39faa94e28674413:0xdee16622bbed4206!8m2!3d25.5361404!4d87.5553139!16s%2Fg%2F11tc1w80n5!19sChIJE0RnKE6p-jkRBkLtuyJm4d4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "satyabhama-netralaya-private-limited-katihar",
@@ -7326,7 +7388,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Satyabhama+Netralaya+Private+Limited/@25.5612761,87.5563213,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa99038eb6813:0x9fa7af587d53ed7a!8m2!3d25.5612761!4d87.5563213!16s%2Fg%2F11bv1m52d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satyabhama+Netralaya+Private+Limited/@25.5612761,87.5563213,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa99038eb6813:0x9fa7af587d53ed7a!8m2!3d25.5612761!4d87.5563213!16s%2Fg%2F11bv1m52d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7395,7 +7457,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Satyabhama+Netralaya+Private+Limited/@25.5612761,87.5563213,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa99038eb6813:0x9fa7af587d53ed7a!8m2!3d25.5612761!4d87.5563213!16s%2Fg%2F11bv1m52d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "seeds-of-innocens-ivf-centre-katihar-katihar",
@@ -7444,7 +7507,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+Katihar/@25.5364375,87.5665625,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9aebb475269:0xe2566caee8d0eed!8m2!3d25.5364375!4d87.5665625!16s%2Fg%2F11w_mkw402?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+Katihar/@25.5364375,87.5665625,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9aebb475269:0xe2566caee8d0eed!8m2!3d25.5364375!4d87.5665625!16s%2Fg%2F11w_mkw402?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7510,10 +7573,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+Katihar/@25.5364375,87.5665625,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9aebb475269:0xe2566caee8d0eed!8m2!3d25.5364375!4d87.5665625!16s%2Fg%2F11w_mkw402?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharan-clinic-katihar-katihar",
@@ -7561,7 +7625,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Sharan+Clinic,+Katihar/@25.539337,87.56902,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f7c677be1:0xf03af9a18fb6e5e0!8m2!3d25.539337!4d87.56902!16s%2Fg%2F11c5xtsyjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharan+Clinic,+Katihar/@25.539337,87.56902,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f7c677be1:0xf03af9a18fb6e5e0!8m2!3d25.539337!4d87.56902!16s%2Fg%2F11c5xtsyjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7630,7 +7694,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sharan+Clinic,+Katihar/@25.539337,87.56902,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f7c677be1:0xf03af9a18fb6e5e0!8m2!3d25.539337!4d87.56902!16s%2Fg%2F11c5xtsyjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shiv-dental-clinic-and-research-centre-katihar",
@@ -7679,7 +7744,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shiv+Dental+Clinic+%26+Research+Centre/@25.5361917,87.566276,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f11cf8beb:0x1b6bcc14339253a0!8m2!3d25.5361917!4d87.566276!16s%2Fg%2F11c2lf2l35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiv+Dental+Clinic+%26+Research+Centre/@25.5361917,87.566276,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f11cf8beb:0x1b6bcc14339253a0!8m2!3d25.5361917!4d87.566276!16s%2Fg%2F11c2lf2l35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7748,7 +7813,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shiv+Dental+Clinic+%26+Research+Centre/@25.5361917,87.566276,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f11cf8beb:0x1b6bcc14339253a0!8m2!3d25.5361917!4d87.566276!16s%2Fg%2F11c2lf2l35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-krishna-shanti-clinic-katihar",
@@ -7797,7 +7863,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Krishna+Shanti+Clinic/@25.538933,87.5690757,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9fb3842a9d3:0x5ff7038c7d12e7f4!8m2!3d25.538933!4d87.5690757!16s%2Fg%2F11gxv__1dn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Krishna+Shanti+Clinic/@25.538933,87.5690757,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9fb3842a9d3:0x5ff7038c7d12e7f4!8m2!3d25.538933!4d87.5690757!16s%2Fg%2F11gxv__1dn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7863,10 +7929,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Krishna+Shanti+Clinic/@25.538933,87.5690757,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9fb3842a9d3:0x5ff7038c7d12e7f4!8m2!3d25.538933!4d87.5690757!16s%2Fg%2F11gxv__1dn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shukla-dental-care-and-implant-centre-katihar",
@@ -7914,7 +7981,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shukla+Dental+Care+%26+Implant+Centre/@25.5380808,87.5683834,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9e7ab7dcc55:0xe68aacd1bb07bf3b!8m2!3d25.5380808!4d87.5683834!16s%2Fg%2F11p04vx867?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shukla+Dental+Care+%26+Implant+Centre/@25.5380808,87.5683834,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9e7ab7dcc55:0xe68aacd1bb07bf3b!8m2!3d25.5380808!4d87.5683834!16s%2Fg%2F11p04vx867?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7980,10 +8047,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shukla+Dental+Care+%26+Implant+Centre/@25.5380808,87.5683834,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9e7ab7dcc55:0xe68aacd1bb07bf3b!8m2!3d25.5380808!4d87.5683834!16s%2Fg%2F11p04vx867?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-care-dental-clinic-katihar",
@@ -8031,7 +8099,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Care+Dental+Clinic/@25.5389886,87.5685704,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f9d161833:0x88d7e2bdbeeaa794!8m2!3d25.5389886!4d87.5685704!16s%2Fg%2F11ckg81zk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Care+Dental+Clinic/@25.5389886,87.5685704,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f9d161833:0x88d7e2bdbeeaa794!8m2!3d25.5389886!4d87.5685704!16s%2Fg%2F11ckg81zk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8100,7 +8168,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Care+Dental+Clinic/@25.5389886,87.5685704,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f9d161833:0x88d7e2bdbeeaa794!8m2!3d25.5389886!4d87.5685704!16s%2Fg%2F11ckg81zk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-tirupati-dental-and-health-clinic-katihar",
@@ -8149,7 +8218,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/SRI+TIRUPATI+DENTAL+AND+HEALTH+CLINIC/@25.5364232,87.5712516,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9efb967bf0b:0x21566862acb2b8ab!8m2!3d25.5364232!4d87.5712516!16s%2Fg%2F11fj_02d2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+TIRUPATI+DENTAL+AND+HEALTH+CLINIC/@25.5364232,87.5712516,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9efb967bf0b:0x21566862acb2b8ab!8m2!3d25.5364232!4d87.5712516!16s%2Fg%2F11fj_02d2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8218,7 +8287,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+TIRUPATI+DENTAL+AND+HEALTH+CLINIC/@25.5364232,87.5712516,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9efb967bf0b:0x21566862acb2b8ab!8m2!3d25.5364232!4d87.5712516!16s%2Fg%2F11fj_02d2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sudha-nursing-home-katihar",
@@ -8266,7 +8336,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sudha+Nursing+Home/@25.5406917,87.5693661,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa985f5230455:0xba676e6f44251977!8m2!3d25.5406917!4d87.5693661!16s%2Fg%2F11fy_fp2k0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudha+Nursing+Home/@25.5406917,87.5693661,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa985f5230455:0xba676e6f44251977!8m2!3d25.5406917!4d87.5693661!16s%2Fg%2F11fy_fp2k0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8335,7 +8405,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sudha+Nursing+Home/@25.5406917,87.5693661,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa985f5230455:0xba676e6f44251977!8m2!3d25.5406917!4d87.5693661!16s%2Fg%2F11fy_fp2k0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surya-vijya-e-n-t-and-dental-care-katihar",
@@ -8384,7 +8455,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Surya+-+Vijya+E.N.T.+%26+Dental+Care/@25.5385914,87.5681866,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f87b451f7:0xe5cee3a286b5f4d!8m2!3d25.5385914!4d87.5681866!16s%2Fg%2F11bwgr5yj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+-+Vijya+E.N.T.+%26+Dental+Care/@25.5385914,87.5681866,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f87b451f7:0xe5cee3a286b5f4d!8m2!3d25.5385914!4d87.5681866!16s%2Fg%2F11bwgr5yj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8453,7 +8524,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surya+-+Vijya+E.N.T.+%26+Dental+Care/@25.5385914,87.5681866,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa98f87b451f7:0xe5cee3a286b5f4d!8m2!3d25.5385914!4d87.5681866!16s%2Fg%2F11bwgr5yj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "usha-dental-clinic-best-dental-clinic-in-katihar-katihar",
@@ -8502,7 +8574,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Usha+Dental+Clinic+(+Best+Dental+clinic+in+katihar)/@25.5435323,87.5758584,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa908b0442d17:0x7f2add442f8f4cae!8m2!3d25.5435323!4d87.5758584!16s%2Fg%2F11m6kz0gh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Usha+Dental+Clinic+(+Best+Dental+clinic+in+katihar)/@25.5435323,87.5758584,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa908b0442d17:0x7f2add442f8f4cae!8m2!3d25.5435323!4d87.5758584!16s%2Fg%2F11m6kz0gh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8568,10 +8640,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Usha+Dental+Clinic+(+Best+Dental+clinic+in+katihar)/@25.5435323,87.5758584,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa908b0442d17:0x7f2add442f8f4cae!8m2!3d25.5435323!4d87.5758584!16s%2Fg%2F11m6kz0gh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vaidik-hospital-and-pathology-katihar",
@@ -8619,7 +8692,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/VAIDIK+HOSPITAL+%F0%9F%8F%A5+%26+PATHOLOGY/@25.5385324,87.5701058,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab002d89a7d5:0x5d48700001b85b06!8m2!3d25.5385324!4d87.5701058!16s%2Fg%2F11xtst8dzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VAIDIK+HOSPITAL+%F0%9F%8F%A5+%26+PATHOLOGY/@25.5385324,87.5701058,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab002d89a7d5:0x5d48700001b85b06!8m2!3d25.5385324!4d87.5701058!16s%2Fg%2F11xtst8dzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8688,7 +8761,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VAIDIK+HOSPITAL+%F0%9F%8F%A5+%26+PATHOLOGY/@25.5385324,87.5701058,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab002d89a7d5:0x5d48700001b85b06!8m2!3d25.5385324!4d87.5701058!16s%2Fg%2F11xtst8dzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vedanta-dental-clinic-katihar",
@@ -8736,7 +8810,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Vedanta+Dental+clinic/@25.5662636,87.5775171,17z/data=!3m1!4b1!4m6!3m5!1s0x39faabdfd41d08bd:0xeae42c6743f807f1!8m2!3d25.5662636!4d87.5775171!16s%2Fg%2F11tm_7g7jz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vedanta+Dental+clinic/@25.5662636,87.5775171,17z/data=!3m1!4b1!4m6!3m5!1s0x39faabdfd41d08bd:0xeae42c6743f807f1!8m2!3d25.5662636!4d87.5775171!16s%2Fg%2F11tm_7g7jz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8805,7 +8879,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vedanta+Dental+clinic/@25.5662636,87.5775171,17z/data=!3m1!4b1!4m6!3m5!1s0x39faabdfd41d08bd:0xeae42c6743f807f1!8m2!3d25.5662636!4d87.5775171!16s%2Fg%2F11tm_7g7jz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vedanta-dental-clinic-katihar",
@@ -8853,7 +8928,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vedanta+dental+clinic/@25.5501412,87.5717656,17z/data=!3m1!4b1!4m6!3m5!1s0x39faaba611e12d51:0xf89c6900fd968762!8m2!3d25.5501412!4d87.5717656!16s%2Fg%2F11v_3c69kb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vedanta+dental+clinic/@25.5501412,87.5717656,17z/data=!3m1!4b1!4m6!3m5!1s0x39faaba611e12d51:0xf89c6900fd968762!8m2!3d25.5501412!4d87.5717656!16s%2Fg%2F11v_3c69kb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8919,10 +8994,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vedanta+dental+clinic/@25.5501412,87.5717656,17z/data=!3m1!4b1!4m6!3m5!1s0x39faaba611e12d51:0xf89c6900fd968762!8m2!3d25.5501412!4d87.5717656!16s%2Fg%2F11v_3c69kb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vets-and-pets-clinic-katihar",
@@ -8971,7 +9047,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Vets+%26+Pets+clinic/@25.5511935,87.5767937,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab78f9d60873:0x4e6a9c12d5508385!8m2!3d25.5511935!4d87.5767937!16s%2Fg%2F11svb8_dtv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vets+%26+Pets+clinic/@25.5511935,87.5767937,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab78f9d60873:0x4e6a9c12d5508385!8m2!3d25.5511935!4d87.5767937!16s%2Fg%2F11svb8_dtv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9040,7 +9116,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vets+%26+Pets+clinic/@25.5511935,87.5767937,17z/data=!3m1!4b1!4m6!3m5!1s0x39faab78f9d60873:0x4e6a9c12d5508385!8m2!3d25.5511935!4d87.5767937!16s%2Fg%2F11svb8_dtv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vibha-oral-care-katihar",
@@ -9088,7 +9165,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vibha+oral+care/data=!4m7!3m6!1s0x39faa9428dab9a17:0x48eedde1660e10ec!8m2!3d25.5352829!4d87.5831053!16s%2Fg%2F11t7cw39sj!19sChIJF5qrjUKp-jkR7BAOZuHd7kg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vibha+oral+care/data=!4m7!3m6!1s0x39faa9428dab9a17:0x48eedde1660e10ec!8m2!3d25.5352829!4d87.5831053!16s%2Fg%2F11t7cw39sj!19sChIJF5qrjUKp-jkR7BAOZuHd7kg?authuser=0&hl=en&rclk=1"
@@ -9154,10 +9231,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vibha+oral+care/data=!4m7!3m6!1s0x39faa9428dab9a17:0x48eedde1660e10ec!8m2!3d25.5352829!4d87.5831053!16s%2Fg%2F11t7cw39sj!19sChIJF5qrjUKp-jkR7BAOZuHd7kg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vimla-netralaya-katihar",
@@ -9206,7 +9284,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/VIMLA+NETRALAYA/@25.5379641,87.5685051,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa91d52f21831:0x52eef4870bd1df79!8m2!3d25.5379641!4d87.5685051!16s%2Fg%2F11vxxyw148?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIMLA+NETRALAYA/@25.5379641,87.5685051,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa91d52f21831:0x52eef4870bd1df79!8m2!3d25.5379641!4d87.5685051!16s%2Fg%2F11vxxyw148?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9275,7 +9353,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VIMLA+NETRALAYA/@25.5379641,87.5685051,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa91d52f21831:0x52eef4870bd1df79!8m2!3d25.5379641!4d87.5685051!16s%2Fg%2F11vxxyw148?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yashoda-healthcare-katihar",
@@ -9325,7 +9404,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yashoda+Healthcare/@25.5370414,87.572901,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9d671afb1ed:0x4c49d68938dc4b28!8m2!3d25.5370414!4d87.572901!16s%2Fg%2F11w4v19tjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashoda+Healthcare/@25.5370414,87.572901,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9d671afb1ed:0x4c49d68938dc4b28!8m2!3d25.5370414!4d87.572901!16s%2Fg%2F11w4v19tjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9394,6 +9473,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashoda+Healthcare/@25.5370414,87.572901,17z/data=!3m1!4b1!4m6!3m5!1s0x39faa9d671afb1ed:0x4c49d68938dc4b28!8m2!3d25.5370414!4d87.572901!16s%2Fg%2F11w4v19tjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

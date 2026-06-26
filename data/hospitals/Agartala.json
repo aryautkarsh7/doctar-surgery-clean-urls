@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Acharya+dental+and+oral+clinic/@23.8438333,91.270259,17z/data=!3m1!4b1!4m6!3m5!1s0x28599a58e3d9cda3:0xa4c4bf2bae90ffd5!8m2!3d23.8438333!4d91.270259!16s%2Fg%2F11kq2dyyw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Acharya+dental+and+oral+clinic/@23.8438333,91.270259,17z/data=!3m1!4b1!4m6!3m5!1s0x28599a58e3d9cda3:0xa4c4bf2bae90ffd5!8m2!3d23.8438333!4d91.270259!16s%2Fg%2F11kq2dyyw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -111,10 +111,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Acharya+dental+and+oral+clinic/@23.8438333,91.270259,17z/data=!3m1!4b1!4m6!3m5!1s0x28599a58e3d9cda3:0xa4c4bf2bae90ffd5!8m2!3d23.8438333!4d91.270259!16s%2Fg%2F11kq2dyyw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "agartala-government-dental-college-agartala",
@@ -164,7 +165,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Agartala+Government+Dental+College/@23.8310538,91.2757434,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5cff910bd37:0x2e11f01011f4a8d1!8m2!3d23.8310538!4d91.2757434!16s%2Fg%2F11k58851f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agartala+Government+Dental+College/@23.8310538,91.2757434,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5cff910bd37:0x2e11f01011f4a8d1!8m2!3d23.8310538!4d91.2757434!16s%2Fg%2F11k58851f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -233,7 +234,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Agartala+Government+Dental+College/@23.8310538,91.2757434,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5cff910bd37:0x2e11f01011f4a8d1!8m2!3d23.8310538!4d91.2757434!16s%2Fg%2F11k58851f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "agartala-government-medical-college-and-govind-ballabh-pant-hospital-agartala",
@@ -283,7 +285,7 @@
       "Google rating 3.8",
       "722+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Agartala+Government+Medical+College+%26+Govind+Ballabh+Pant+Hospital/@23.8604332,91.2927536,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f15385e1e7e7:0x217dff53bd03ee71!8m2!3d23.8604332!4d91.2927536!16zL20vMGY4NWNu?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agartala+Government+Medical+College+%26+Govind+Ballabh+Pant+Hospital/@23.8604332,91.2927536,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f15385e1e7e7:0x217dff53bd03ee71!8m2!3d23.8604332!4d91.2927536!16zL20vMGY4NWNu?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -352,7 +354,8 @@
     "rating": 3.8,
     "reviews": 722,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Agartala+Government+Medical+College+%26+Govind+Ballabh+Pant+Hospital/@23.8604332,91.2927536,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f15385e1e7e7:0x217dff53bd03ee71!8m2!3d23.8604332!4d91.2927536!16zL20vMGY4NWNu?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "agartala-hospital-and-research-centre-pvt-ltd-agartala",
@@ -400,7 +403,7 @@
     "metrics": [
       "Google rating 1.9"
     ],
-    "image": "https://www.google.com/maps/place/Agartala+Hospital+%26+Research+Centre+Pvt+Ltd/@23.8302762,91.2785302,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f412b99034d3:0x2c37f77ec2766cda!8m2!3d23.8302762!4d91.2785302!16s%2Fg%2F11h42qd129?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agartala+Hospital+%26+Research+Centre+Pvt+Ltd/@23.8302762,91.2785302,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f412b99034d3:0x2c37f77ec2766cda!8m2!3d23.8302762!4d91.2785302!16s%2Fg%2F11h42qd129?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -469,7 +472,8 @@
     "rating": 1.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Agartala+Hospital+%26+Research+Centre+Pvt+Ltd/@23.8302762,91.2785302,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f412b99034d3:0x2c37f77ec2766cda!8m2!3d23.8302762!4d91.2785302!16s%2Fg%2F11h42qd129?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anjana-medical-and-surgical-agartala",
@@ -516,7 +520,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Anjana+Medical+and+Surgical/data=!4m7!3m6!1s0x3753f5f7ebb17fbb:0x5bac3f549a352b70!8m2!3d23.81645!4d91.2705307!16s%2Fg%2F11l5pwmy3d!19sChIJu3-x6_f1UzcRcCs1mlQ_rFs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anjana+Medical+and+Surgical/data=!4m7!3m6!1s0x3753f5f7ebb17fbb:0x5bac3f549a352b70!8m2!3d23.81645!4d91.2705307!16s%2Fg%2F11l5pwmy3d!19sChIJu3-x6_f1UzcRcCs1mlQ_rFs?authuser=0&hl=en&rclk=1"
@@ -582,10 +586,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anjana+Medical+and+Surgical/data=!4m7!3m6!1s0x3753f5f7ebb17fbb:0x5bac3f549a352b70!8m2!3d23.81645!4d91.2705307!16s%2Fg%2F11l5pwmy3d!19sChIJu3-x6_f1UzcRcCs1mlQ_rFs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apollo-hospitals-chennai-information-centre-agartala-agartala",
@@ -635,7 +640,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Hospitals+Chennai+Information+Centre+Agartala/@23.8296118,91.2760507,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f555b706c157:0x3c4857fb3651a7ab!8m2!3d23.8296118!4d91.2760507!16s%2Fg%2F11g03xv_rx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospitals+Chennai+Information+Centre+Agartala/@23.8296118,91.2760507,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f555b706c157:0x3c4857fb3651a7ab!8m2!3d23.8296118!4d91.2760507!16s%2Fg%2F11g03xv_rx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -704,7 +709,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Hospitals+Chennai+Information+Centre+Agartala/@23.8296118,91.2760507,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f555b706c157:0x3c4857fb3651a7ab!8m2!3d23.8296118!4d91.2760507!16s%2Fg%2F11g03xv_rx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-neuro-clinic-in-agartala-agartala",
@@ -755,7 +761,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Neuro+Clinic+in+Agartala/data=!4m7!3m6!1s0x3753f59ada59294d:0x4edab5cf4d74791d!8m2!3d23.8387986!4d91.2835611!16s%2Fg%2F11fl40vdmz!19sChIJTSlZ2pr1UzcRHXl0Tc-12k4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Neuro+Clinic+in+Agartala/data=!4m7!3m6!1s0x3753f59ada59294d:0x4edab5cf4d74791d!8m2!3d23.8387986!4d91.2835611!16s%2Fg%2F11fl40vdmz!19sChIJTSlZ2pr1UzcRHXl0Tc-12k4?authuser=0&hl=en&rclk=1"
@@ -821,10 +827,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Neuro+Clinic+in+Agartala/data=!4m7!3m6!1s0x3753f59ada59294d:0x4edab5cf4d74791d!8m2!3d23.8387986!4d91.2835611!16s%2Fg%2F11fl40vdmz!19sChIJTSlZ2pr1UzcRHXl0Tc-12k4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bandhusundar-dental-care-agartala",
@@ -872,7 +879,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bandhusundar+Dental+Care/@23.824387,91.270664,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5377b66d6db:0xe29f2a79480056bc!8m2!3d23.824387!4d91.270664!16s%2Fg%2F11l2zk47l3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bandhusundar+Dental+Care/@23.824387,91.270664,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5377b66d6db:0xe29f2a79480056bc!8m2!3d23.824387!4d91.270664!16s%2Fg%2F11l2zk47l3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -938,10 +945,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bandhusundar+Dental+Care/@23.824387,91.270664,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5377b66d6db:0xe29f2a79480056bc!8m2!3d23.824387!4d91.270664!16s%2Fg%2F11l2zk47l3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bone-and-joint-clinic-dr-dipen-roy-agartala",
@@ -990,7 +998,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/BONE+%26JOINT+CLINIC+-DR+DIPEN+ROY/data=!4m7!3m6!1s0x3753f51cfa3e55c9:0x3f49ed099107faa0!8m2!3d23.8310182!4d91.2776056!16s%2Fg%2F11h1mg9bq_!19sChIJyVU--hz1UzcRoPoHkQntST8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BONE+%26JOINT+CLINIC+-DR+DIPEN+ROY/data=!4m7!3m6!1s0x3753f51cfa3e55c9:0x3f49ed099107faa0!8m2!3d23.8310182!4d91.2776056!16s%2Fg%2F11h1mg9bq_!19sChIJyVU--hz1UzcRoPoHkQntST8?authuser=0&hl=en&rclk=1"
@@ -1059,7 +1067,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BONE+%26JOINT+CLINIC+-DR+DIPEN+ROY/data=!4m7!3m6!1s0x3753f51cfa3e55c9:0x3f49ed099107faa0!8m2!3d23.8310182!4d91.2776056!16s%2Fg%2F11h1mg9bq_!19sChIJyVU--hz1UzcRoPoHkQntST8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cbcc-cancer-center-agartala-tripura-best-cancer-hospital-in-agartala-tripura-agartala",
@@ -1109,7 +1118,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CBCC+Cancer+Center,+Agartala+%7C+Tripura+%7C+Best+Cancer+Hospital+in+Agartala,+Tripura/data=!4m7!3m6!1s0x3753f1537d94b919:0xba0db9620d326430!8m2!3d23.8635053!4d91.2920097!16s%2Fg%2F11tcbpwhtb!19sChIJGbmUfVPxUzcRMGQyDWK5Dbo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CBCC+Cancer+Center,+Agartala+%7C+Tripura+%7C+Best+Cancer+Hospital+in+Agartala,+Tripura/data=!4m7!3m6!1s0x3753f1537d94b919:0xba0db9620d326430!8m2!3d23.8635053!4d91.2920097!16s%2Fg%2F11tcbpwhtb!19sChIJGbmUfVPxUzcRMGQyDWK5Dbo?authuser=0&hl=en&rclk=1"
@@ -1178,7 +1187,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CBCC+Cancer+Center,+Agartala+%7C+Tripura+%7C+Best+Cancer+Hospital+in+Agartala,+Tripura/data=!4m7!3m6!1s0x3753f1537d94b919:0xba0db9620d326430!8m2!3d23.8635053!4d91.2920097!16s%2Fg%2F11tcbpwhtb!19sChIJGbmUfVPxUzcRMGQyDWK5Dbo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chanda-dental-clinic-agartala",
@@ -1226,7 +1236,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/CHANDA+DENTAL+CLINIC/@23.8309632,91.2908023,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f3db8e5c3607:0xdd5fb2307ff56aad!8m2!3d23.8309632!4d91.2908023!16s%2Fg%2F11hms_cc72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CHANDA+DENTAL+CLINIC/@23.8309632,91.2908023,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f3db8e5c3607:0xdd5fb2307ff56aad!8m2!3d23.8309632!4d91.2908023!16s%2Fg%2F11hms_cc72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1295,7 +1305,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CHANDA+DENTAL+CLINIC/@23.8309632,91.2908023,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f3db8e5c3607:0xdd5fb2307ff56aad!8m2!3d23.8309632!4d91.2908023!16s%2Fg%2F11hms_cc72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-dental-and-implant-centre-agartala",
@@ -1344,7 +1355,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/City+Dental+%26+Implant+Centre/data=!4m7!3m6!1s0x3753f5d74dc3c96b:0x954132f94e585f53!8m2!3d23.8347332!4d91.2702339!16s%2Fg%2F11j5d18h3r!19sChIJa8nDTdf1UzcRU19YTvkyQZU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Dental+%26+Implant+Centre/data=!4m7!3m6!1s0x3753f5d74dc3c96b:0x954132f94e585f53!8m2!3d23.8347332!4d91.2702339!16s%2Fg%2F11j5d18h3r!19sChIJa8nDTdf1UzcRU19YTvkyQZU?authuser=0&hl=en&rclk=1"
@@ -1413,7 +1424,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Dental+%26+Implant+Centre/data=!4m7!3m6!1s0x3753f5d74dc3c96b:0x954132f94e585f53!8m2!3d23.8347332!4d91.2702339!16s%2Fg%2F11j5d18h3r!19sChIJa8nDTdf1UzcRU19YTvkyQZU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "city-maternity-and-fertility-clinic-agartala",
@@ -1462,7 +1474,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/City+Maternity+and+Fertility+Clinic/data=!4m7!3m6!1s0x3753f58a331bd423:0xbaa6c17228c4869!8m2!3d23.8330906!4d91.2739274!16s%2Fg%2F11ls24lf8w!19sChIJI9QbM4r1UzcRaUiMIhdsqgs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Maternity+and+Fertility+Clinic/data=!4m7!3m6!1s0x3753f58a331bd423:0xbaa6c17228c4869!8m2!3d23.8330906!4d91.2739274!16s%2Fg%2F11ls24lf8w!19sChIJI9QbM4r1UzcRaUiMIhdsqgs?authuser=0&hl=en&rclk=1"
@@ -1531,7 +1543,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Maternity+and+Fertility+Clinic/data=!4m7!3m6!1s0x3753f58a331bd423:0xbaa6c17228c4869!8m2!3d23.8330906!4d91.2739274!16s%2Fg%2F11ls24lf8w!19sChIJI9QbM4r1UzcRaUiMIhdsqgs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "daffodil-ivf-clinic-agartala",
@@ -1580,7 +1593,7 @@
     "metrics": [
       "Google rating 2.0"
     ],
-    "image": "https://www.google.com/maps/place/Daffodil+Ivf+Clinic/data=!4m7!3m6!1s0x3753f5f8e9d8004f:0xb39d12f685d2f5d4!8m2!3d23.8399734!4d91.2817311!16s%2Fg%2F11gzqc476j!19sChIJTwDY6fj1UzcR1PXShfYSnbM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Daffodil+Ivf+Clinic/data=!4m7!3m6!1s0x3753f5f8e9d8004f:0xb39d12f685d2f5d4!8m2!3d23.8399734!4d91.2817311!16s%2Fg%2F11gzqc476j!19sChIJTwDY6fj1UzcR1PXShfYSnbM?authuser=0&hl=en&rclk=1"
@@ -1646,10 +1659,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 2.0,
+    "rating": 2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Daffodil+Ivf+Clinic/data=!4m7!3m6!1s0x3753f5f8e9d8004f:0xb39d12f685d2f5d4!8m2!3d23.8399734!4d91.2817311!16s%2Fg%2F11gzqc476j!19sChIJTwDY6fj1UzcR1PXShfYSnbM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dcare-braces-center-and-dental-clinic-agartala",
@@ -1697,7 +1711,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/DCare+braces+center+and+dental+clinic/@23.8308619,91.2825083,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5620ed307c1:0x2b6814f3683f561!8m2!3d23.8308619!4d91.2825083!16s%2Fg%2F11j1j7tmrc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DCare+braces+center+and+dental+clinic/@23.8308619,91.2825083,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5620ed307c1:0x2b6814f3683f561!8m2!3d23.8308619!4d91.2825083!16s%2Fg%2F11j1j7tmrc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1766,7 +1780,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DCare+braces+center+and+dental+clinic/@23.8308619,91.2825083,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5620ed307c1:0x2b6814f3683f561!8m2!3d23.8308619!4d91.2825083!16s%2Fg%2F11j1j7tmrc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dent-o-care-dental-clinic-and-root-canal-centre-agartala",
@@ -1815,7 +1830,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dent-O-Care:+Dental+Clinic+%26+Root+Canal+Centre/@23.8384902,91.2717937,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f564b6d1ae5f:0xc54ba91077977dc9!8m2!3d23.8384902!4d91.2717937!16s%2Fg%2F11sqdblryy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dent-O-Care:+Dental+Clinic+%26+Root+Canal+Centre/@23.8384902,91.2717937,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f564b6d1ae5f:0xc54ba91077977dc9!8m2!3d23.8384902!4d91.2717937!16s%2Fg%2F11sqdblryy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1884,7 +1899,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dent-O-Care:+Dental+Clinic+%26+Root+Canal+Centre/@23.8384902,91.2717937,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f564b6d1ae5f:0xc54ba91077977dc9!8m2!3d23.8384902!4d91.2717937!16s%2Fg%2F11sqdblryy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-clinic-maj-dr-kakali-dhar-agartala",
@@ -1932,7 +1948,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Clinic+Maj+(Dr)+Kakali+Dhar/@23.834813,91.277051,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f413d32a181f:0xc45303ab6e63cb2b!8m2!3d23.834813!4d91.277051!16s%2Fg%2F11g9j5cwqq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Clinic+Maj+(Dr)+Kakali+Dhar/@23.834813,91.277051,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f413d32a181f:0xc45303ab6e63cb2b!8m2!3d23.834813!4d91.277051!16s%2Fg%2F11g9j5cwqq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2001,7 +2017,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Clinic+Maj+(Dr)+Kakali+Dhar/@23.834813,91.277051,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f413d32a181f:0xc45303ab6e63cb2b!8m2!3d23.834813!4d91.277051!16s%2Fg%2F11g9j5cwqq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-paradise-dental-clinic-agartala",
@@ -2049,7 +2066,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Paradise+Dental+Clinic/@23.8045364,91.2725617,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5dbcc7062cb:0x9d83fa943ddf71d!8m2!3d23.8045364!4d91.2725617!16s%2Fg%2F11w1ms_txw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Paradise+Dental+Clinic/@23.8045364,91.2725617,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5dbcc7062cb:0x9d83fa943ddf71d!8m2!3d23.8045364!4d91.2725617!16s%2Fg%2F11w1ms_txw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2115,10 +2132,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Paradise+Dental+Clinic/@23.8045364,91.2725617,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5dbcc7062cb:0x9d83fa943ddf71d!8m2!3d23.8045364!4d91.2725617!16s%2Fg%2F11w1ms_txw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-planet-speciality-dental-clinic-agartala",
@@ -2169,7 +2187,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DENTAL+PLANET+SPECIALITY+DENTAL+CLINIC/@23.8308818,91.2688755,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f585a13cbafd:0xf3f90f4b047e7ba3!8m2!3d23.8308818!4d91.2688755!16s%2Fg%2F11j_ktnqff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTAL+PLANET+SPECIALITY+DENTAL+CLINIC/@23.8308818,91.2688755,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f585a13cbafd:0xf3f90f4b047e7ba3!8m2!3d23.8308818!4d91.2688755!16s%2Fg%2F11j_ktnqff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2238,7 +2256,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENTAL+PLANET+SPECIALITY+DENTAL+CLINIC/@23.8308818,91.2688755,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f585a13cbafd:0xf3f90f4b047e7ba3!8m2!3d23.8308818!4d91.2688755!16s%2Fg%2F11j_ktnqff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dentique-the-dental-specialist-dental-clinic-in-agartala-agartala",
@@ -2286,7 +2305,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DentiQue-The+Dental+Specialist%7C+Dental+Clinic+In+Agartala%7C/@23.8340158,91.2859337,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f555c81d78b9:0xdaf6270cb3aee628!8m2!3d23.8340158!4d91.2859337!16s%2Fg%2F11v459nhb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DentiQue-The+Dental+Specialist%7C+Dental+Clinic+In+Agartala%7C/@23.8340158,91.2859337,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f555c81d78b9:0xdaf6270cb3aee628!8m2!3d23.8340158!4d91.2859337!16s%2Fg%2F11v459nhb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2352,10 +2371,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DentiQue-The+Dental+Specialist%7C+Dental+Clinic+In+Agartala%7C/@23.8340158,91.2859337,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f555c81d78b9:0xdaf6270cb3aee628!8m2!3d23.8340158!4d91.2859337!16s%2Fg%2F11v459nhb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dentistree-dental-clinic-agartala",
@@ -2403,7 +2423,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Dentistree+Dental+clinic/@23.8462847,91.2838873,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f552223d03ed:0xd851f76d84953727!8m2!3d23.8462847!4d91.2838873!16s%2Fg%2F11nm1hy44h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentistree+Dental+clinic/@23.8462847,91.2838873,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f552223d03ed:0xd851f76d84953727!8m2!3d23.8462847!4d91.2838873!16s%2Fg%2F11nm1hy44h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2472,7 +2492,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dentistree+Dental+clinic/@23.8462847,91.2838873,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f552223d03ed:0xd851f76d84953727!8m2!3d23.8462847!4d91.2838873!16s%2Fg%2F11nm1hy44h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dentomax-dental-solutions-agartala",
@@ -2520,7 +2541,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Dentomax+Dental+Solutions/@23.8212397,91.2995352,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f33615748155:0x103967b312d28cf3!8m2!3d23.8212397!4d91.2995352!16s%2Fg%2F11rjtv83t1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentomax+Dental+Solutions/@23.8212397,91.2995352,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f33615748155:0x103967b312d28cf3!8m2!3d23.8212397!4d91.2995352!16s%2Fg%2F11rjtv83t1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2589,7 +2610,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dentomax+Dental+Solutions/@23.8212397,91.2995352,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f33615748155:0x103967b312d28cf3!8m2!3d23.8212397!4d91.2995352!16s%2Fg%2F11rjtv83t1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "devlok-hospital-agartala",
@@ -2638,7 +2660,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Devlok+Hospital/data=!4m7!3m6!1s0x3753f40f6229084b:0x7f3b20cf20f1e0f9!8m2!3d23.8410723!4d91.2827828!16s%2Fg%2F124s_gcvq!19sChIJSwgpYg_0UzcR-eDxIM8gO38?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devlok+Hospital/data=!4m7!3m6!1s0x3753f40f6229084b:0x7f3b20cf20f1e0f9!8m2!3d23.8410723!4d91.2827828!16s%2Fg%2F124s_gcvq!19sChIJSwgpYg_0UzcR-eDxIM8gO38?authuser=0&hl=en&rclk=1"
@@ -2707,7 +2729,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Devlok+Hospital/data=!4m7!3m6!1s0x3753f40f6229084b:0x7f3b20cf20f1e0f9!8m2!3d23.8410723!4d91.2827828!16s%2Fg%2F124s_gcvq!19sChIJSwgpYg_0UzcR-eDxIM8gO38?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "divine-touch-medi-clinic-agartala",
@@ -2757,7 +2780,7 @@
       "Google rating 2.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Divine+Touch+Medi+Clinic/@23.8376406,91.2805335,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f40e377590d7:0x35d4dc0fceccbfa7!8m2!3d23.8376406!4d91.2805335!16s%2Fg%2F11c30xy2s9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divine+Touch+Medi+Clinic/@23.8376406,91.2805335,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f40e377590d7:0x35d4dc0fceccbfa7!8m2!3d23.8376406!4d91.2805335!16s%2Fg%2F11c30xy2s9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2826,7 +2849,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divine+Touch+Medi+Clinic/@23.8376406,91.2805335,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f40e377590d7:0x35d4dc0fceccbfa7!8m2!3d23.8376406!4d91.2805335!16s%2Fg%2F11c30xy2s9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "donto-cheakitsa-loy-agartala",
@@ -2875,7 +2899,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Donto+Cheakitsa%27loy/data=!4m7!3m6!1s0x3753f58e200d080f:0xd00bbae5822ac1fd!8m2!3d23.8461635!4d91.2852988!16s%2Fg%2F11rxrlb1ny!19sChIJDwgNII71UzcR_cEqguW6C9A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Donto+Cheakitsa%27loy/data=!4m7!3m6!1s0x3753f58e200d080f:0xd00bbae5822ac1fd!8m2!3d23.8461635!4d91.2852988!16s%2Fg%2F11rxrlb1ny!19sChIJDwgNII71UzcR_cEqguW6C9A?authuser=0&hl=en&rclk=1"
@@ -2944,7 +2968,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Donto+Cheakitsa%27loy/data=!4m7!3m6!1s0x3753f58e200d080f:0xd00bbae5822ac1fd!8m2!3d23.8461635!4d91.2852988!16s%2Fg%2F11rxrlb1ny!19sChIJDwgNII71UzcR_cEqguW6C9A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "eskag-sanjeevani-dialysis-center-igm-agartala",
@@ -2995,7 +3020,7 @@
       "14+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Igm/data=!4m7!3m6!1s0x3753f5c69b19572b:0x9e4b75b4c6d0f4b8!8m2!3d23.8310327!4d91.2759976!16s%2Fg%2F11vl36lzdx!19sChIJK1cZm8b1UzcRuPTQxrR1S54?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Igm/data=!4m7!3m6!1s0x3753f5c69b19572b:0x9e4b75b4c6d0f4b8!8m2!3d23.8310327!4d91.2759976!16s%2Fg%2F11vl36lzdx!19sChIJK1cZm8b1UzcRuPTQxrR1S54?authuser=0&hl=en&rclk=1"
@@ -3061,10 +3086,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 14,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Igm/data=!4m7!3m6!1s0x3753f5c69b19572b:0x9e4b75b4c6d0f4b8!8m2!3d23.8310327!4d91.2759976!16s%2Fg%2F11vl36lzdx!19sChIJK1cZm8b1UzcRuPTQxrR1S54?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "eskag-sanjeevani-dialysis-center-north-tripura-dharmanagar-agartala",
@@ -3115,7 +3141,7 @@
       "14+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+North+Tripura+Dharmanagar/data=!4m7!3m6!1s0x3753f3a58ee5722d:0x6731603817efaf54!8m2!3d23.8523147!4d91.3099669!16s%2Fg%2F11q7ft17m1!19sChIJLXLljqXzUzcRVK_vFzhgMWc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+North+Tripura+Dharmanagar/data=!4m7!3m6!1s0x3753f3a58ee5722d:0x6731603817efaf54!8m2!3d23.8523147!4d91.3099669!16s%2Fg%2F11q7ft17m1!19sChIJLXLljqXzUzcRVK_vFzhgMWc?authuser=0&hl=en&rclk=1"
@@ -3184,7 +3210,8 @@
     "rating": 4.9,
     "reviews": 14,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+North+Tripura+Dharmanagar/data=!4m7!3m6!1s0x3753f3a58ee5722d:0x6731603817efaf54!8m2!3d23.8523147!4d91.3099669!16s%2Fg%2F11q7ft17m1!19sChIJLXLljqXzUzcRVK_vFzhgMWc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "eskag-sanjeevani-dialysis-center-tripura-agartala",
@@ -3234,7 +3261,7 @@
       "Google rating 4.6",
       "118+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Tripura/data=!4m7!3m6!1s0x3753f52e2c7c738b:0xdfff71a55a8216ba!8m2!3d23.83134!4d91.2759692!16s%2Fg%2F11pkhnh6kr!19sChIJi3N8LC71UzcRuhaCWqVx_98?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Tripura/data=!4m7!3m6!1s0x3753f52e2c7c738b:0xdfff71a55a8216ba!8m2!3d23.83134!4d91.2759692!16s%2Fg%2F11pkhnh6kr!19sChIJi3N8LC71UzcRuhaCWqVx_98?authuser=0&hl=en&rclk=1"
@@ -3303,7 +3330,8 @@
     "rating": 4.6,
     "reviews": 118,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Tripura/data=!4m7!3m6!1s0x3753f52e2c7c738b:0xdfff71a55a8216ba!8m2!3d23.83134!4d91.2759692!16s%2Fg%2F11pkhnh6kr!19sChIJi3N8LC71UzcRuhaCWqVx_98?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "facecraft-a-face-dental-and-hair-clinic-agartala",
@@ -3353,7 +3381,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Facecraft-A+Face,+Dental+%26+Hair+clinic/@23.8308868,91.2703784,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f556d017b3af:0x23982f87e47c9383!8m2!3d23.8308868!4d91.2703784!16s%2Fg%2F11w22jpftd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Facecraft-A+Face,+Dental+%26+Hair+clinic/@23.8308868,91.2703784,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f556d017b3af:0x23982f87e47c9383!8m2!3d23.8308868!4d91.2703784!16s%2Fg%2F11w22jpftd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3419,10 +3447,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Facecraft-A+Face,+Dental+%26+Hair+clinic/@23.8308868,91.2703784,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f556d017b3af:0x23982f87e47c9383!8m2!3d23.8308868!4d91.2703784!16s%2Fg%2F11w22jpftd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "genesis-dental-care-agartala",
@@ -3471,7 +3500,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Genesis+dental+care/@23.8394283,91.2854466,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5fd36ecfd7d:0xa28cb975e56fee19!8m2!3d23.8394283!4d91.2854466!16s%2Fg%2F11vj50121x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Genesis+dental+care/@23.8394283,91.2854466,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5fd36ecfd7d:0xa28cb975e56fee19!8m2!3d23.8394283!4d91.2854466!16s%2Fg%2F11vj50121x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3537,10 +3566,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Genesis+dental+care/@23.8394283,91.2854466,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5fd36ecfd7d:0xa28cb975e56fee19!8m2!3d23.8394283!4d91.2854466!16s%2Fg%2F11vj50121x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gnathic-maxillofacial-and-dental-clinic-agartala",
@@ -3589,7 +3619,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/GNATHIC+MAXILLOFACIAL+AND+DENTAL+CLINIC/@23.8401496,91.2806033,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f40fecbe9521:0x28a0ea10cc3c4576!8m2!3d23.8401496!4d91.2806033!16s%2Fg%2F11f50g6qzv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GNATHIC+MAXILLOFACIAL+AND+DENTAL+CLINIC/@23.8401496,91.2806033,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f40fecbe9521:0x28a0ea10cc3c4576!8m2!3d23.8401496!4d91.2806033!16s%2Fg%2F11f50g6qzv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3655,10 +3685,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GNATHIC+MAXILLOFACIAL+AND+DENTAL+CLINIC/@23.8401496,91.2806033,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f40fecbe9521:0x28a0ea10cc3c4576!8m2!3d23.8401496!4d91.2806033!16s%2Fg%2F11f50g6qzv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "govind-ballabh-pant-hospital-agartala",
@@ -3709,7 +3740,7 @@
       "7+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Govind+Ballabh+Pant+Hospital/data=!4m7!3m6!1s0x3753f15382a36219:0xf40e97b7e5d2c031!8m2!3d23.8596253!4d91.2923594!16s%2Fg%2F1v8hzsrt!19sChIJGWKjglPxUzcRMcDS5beXDvQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govind+Ballabh+Pant+Hospital/data=!4m7!3m6!1s0x3753f15382a36219:0xf40e97b7e5d2c031!8m2!3d23.8596253!4d91.2923594!16s%2Fg%2F1v8hzsrt!19sChIJGWKjglPxUzcRMcDS5beXDvQ?authuser=0&hl=en&rclk=1"
@@ -3778,7 +3809,8 @@
     "rating": 3.6,
     "reviews": 7,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govind+Ballabh+Pant+Hospital/data=!4m7!3m6!1s0x3753f15382a36219:0xf40e97b7e5d2c031!8m2!3d23.8596253!4d91.2923594!16s%2Fg%2F1v8hzsrt!19sChIJGWKjglPxUzcRMcDS5beXDvQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "green-life-dental-clinic-agartala",
@@ -3827,7 +3859,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/GREEN+LIFE+DENTAL+CLINIC/@23.8420699,91.2801795,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f40544b21639:0x1ae8b1d08d5fe385!8m2!3d23.8420699!4d91.2801795!16s%2Fg%2F11df0h4j0s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GREEN+LIFE+DENTAL+CLINIC/@23.8420699,91.2801795,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f40544b21639:0x1ae8b1d08d5fe385!8m2!3d23.8420699!4d91.2801795!16s%2Fg%2F11df0h4j0s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3896,7 +3928,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GREEN+LIFE+DENTAL+CLINIC/@23.8420699,91.2801795,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f40544b21639:0x1ae8b1d08d5fe385!8m2!3d23.8420699!4d91.2801795!16s%2Fg%2F11df0h4j0s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "happy-teeth-dental-clinic-agartala",
@@ -3945,7 +3978,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Happy+Teeth+Dental+Clinic/data=!4m7!3m6!1s0x3753f51b5d24a06f:0xe3ec634bc541ff87!8m2!3d23.8413786!4d91.2704127!16s%2Fg%2F11gv0qdvxx!19sChIJb6AkXRv1UzcRh_9BxUtj7OM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Happy+Teeth+Dental+Clinic/data=!4m7!3m6!1s0x3753f51b5d24a06f:0xe3ec634bc541ff87!8m2!3d23.8413786!4d91.2704127!16s%2Fg%2F11gv0qdvxx!19sChIJb6AkXRv1UzcRh_9BxUtj7OM?authuser=0&hl=en&rclk=1"
@@ -4014,7 +4047,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Happy+Teeth+Dental+Clinic/data=!4m7!3m6!1s0x3753f51b5d24a06f:0xe3ec634bc541ff87!8m2!3d23.8413786!4d91.2704127!16s%2Fg%2F11gv0qdvxx!19sChIJb6AkXRv1UzcRh_9BxUtj7OM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ils-hospitals-agartala-agartala",
@@ -4064,7 +4098,7 @@
       "23+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ILS+Hospitals,+Agartala/@23.867536,91.289606,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f14d1a5ccdad:0x1d6e81bdd9eaa78c!8m2!3d23.867536!4d91.289606!16s%2Fg%2F1w344zyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ILS+Hospitals,+Agartala/@23.867536,91.289606,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f14d1a5ccdad:0x1d6e81bdd9eaa78c!8m2!3d23.867536!4d91.289606!16s%2Fg%2F1w344zyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4133,7 +4167,8 @@
     "rating": 4.8,
     "reviews": 23,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ILS+Hospitals,+Agartala/@23.867536,91.289606,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f14d1a5ccdad:0x1d6e81bdd9eaa78c!8m2!3d23.867536!4d91.289606!16s%2Fg%2F1w344zyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "institute-of-neuroscience-agartala",
@@ -4183,7 +4218,7 @@
       "Google rating 4.1",
       "16+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Institute+of+Neuroscience/data=!4m7!3m6!1s0x3753f745cb662cad:0x461fbcc4b049b587!8m2!3d23.8574118!4d91.2884507!16s%2Fg%2F11l1mbrqg_!19sChIJrSxmy0X3UzcRh7VJsMS8H0Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Institute+of+Neuroscience/data=!4m7!3m6!1s0x3753f745cb662cad:0x461fbcc4b049b587!8m2!3d23.8574118!4d91.2884507!16s%2Fg%2F11l1mbrqg_!19sChIJrSxmy0X3UzcRh7VJsMS8H0Y?authuser=0&hl=en&rclk=1"
@@ -4252,7 +4287,8 @@
     "rating": 4.1,
     "reviews": 16,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Institute+of+Neuroscience/data=!4m7!3m6!1s0x3753f745cb662cad:0x461fbcc4b049b587!8m2!3d23.8574118!4d91.2884507!16s%2Fg%2F11l1mbrqg_!19sChIJrSxmy0X3UzcRh7VJsMS8H0Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ioci-india-best-cancer-hospital-in-agartala-agartala",
@@ -4303,7 +4339,7 @@
       "20+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/IOCI+INDIA+%7C+Best+Cancer+Hospital+In+Agartala/data=!4m7!3m6!1s0x3753f17e58a2488f:0xcdb0a33460d98d1!8m2!3d23.867432!4d91.2893637!16s%2Fg%2F11y91_4l4w!19sChIJj0iiWH7xUzcR0ZgNRjMK2ww?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IOCI+INDIA+%7C+Best+Cancer+Hospital+In+Agartala/data=!4m7!3m6!1s0x3753f17e58a2488f:0xcdb0a33460d98d1!8m2!3d23.867432!4d91.2893637!16s%2Fg%2F11y91_4l4w!19sChIJj0iiWH7xUzcR0ZgNRjMK2ww?authuser=0&hl=en&rclk=1"
@@ -4372,7 +4408,8 @@
     "rating": 4.7,
     "reviews": 20,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/IOCI+INDIA+%7C+Best+Cancer+Hospital+In+Agartala/data=!4m7!3m6!1s0x3753f17e58a2488f:0xcdb0a33460d98d1!8m2!3d23.867432!4d91.2893637!16s%2Fg%2F11y91_4l4w!19sChIJj0iiWH7xUzcR0ZgNRjMK2ww?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "medicaids-patholgical-lab-and-x-ray-clinic-best-diagnostic-centre-in-agartala-agartala",
@@ -4422,7 +4459,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medicaids+Patholgical+Lab+%26+X-Ray+Clinic-+Best+Diagnostic+Centre+in+Agartala/data=!4m7!3m6!1s0x3753f539a75112fd:0xbae10e711c07135f!8m2!3d23.8309381!4d91.2769746!16s%2Fg%2F11spzn47mk!19sChIJ_RJRpzn1UzcRXxMHHHEO4bo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicaids+Patholgical+Lab+%26+X-Ray+Clinic-+Best+Diagnostic+Centre+in+Agartala/data=!4m7!3m6!1s0x3753f539a75112fd:0xbae10e711c07135f!8m2!3d23.8309381!4d91.2769746!16s%2Fg%2F11spzn47mk!19sChIJ_RJRpzn1UzcRXxMHHHEO4bo?authuser=0&hl=en&rclk=1"
@@ -4491,7 +4528,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicaids+Patholgical+Lab+%26+X-Ray+Clinic-+Best+Diagnostic+Centre+in+Agartala/data=!4m7!3m6!1s0x3753f539a75112fd:0xbae10e711c07135f!8m2!3d23.8309381!4d91.2769746!16s%2Fg%2F11spzn47mk!19sChIJ_RJRpzn1UzcRXxMHHHEO4bo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "my-dentist-oral-care-and-dental-clinic-agartala",
@@ -4540,7 +4578,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/My+Dentist+Oral+Care+And+Dental+Clinic/@23.812034,91.2680626,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f52492f769d3:0xdc77206e73e6c568!8m2!3d23.812034!4d91.2680626!16s%2Fg%2F11fn77z33c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/My+Dentist+Oral+Care+And+Dental+Clinic/@23.812034,91.2680626,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f52492f769d3:0xdc77206e73e6c568!8m2!3d23.812034!4d91.2680626!16s%2Fg%2F11fn77z33c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4606,10 +4644,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/My+Dentist+Oral+Care+And+Dental+Clinic/@23.812034,91.2680626,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f52492f769d3:0xdc77206e73e6c568!8m2!3d23.812034!4d91.2680626!16s%2Fg%2F11fn77z33c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "namita-dental-care-agartala",
@@ -4657,7 +4696,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Namita+Dental+Care/@23.7847926,91.260944,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f597aa83fed7:0xcad544a73da3eb76!8m2!3d23.7847926!4d91.260944!16s%2Fg%2F11khkjrmp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Namita+Dental+Care/@23.7847926,91.260944,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f597aa83fed7:0xcad544a73da3eb76!8m2!3d23.7847926!4d91.260944!16s%2Fg%2F11khkjrmp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4726,7 +4765,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Namita+Dental+Care/@23.7847926,91.260944,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f597aa83fed7:0xcad544a73da3eb76!8m2!3d23.7847926!4d91.260944!16s%2Fg%2F11khkjrmp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nightingale-nursing-home-agartala",
@@ -4776,7 +4816,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nightingale+Nursing+Home/data=!4m7!3m6!1s0x3753f3f06ed4adf7:0xe68b142929f766c8!8m2!3d23.840931!4d91.2979375!16s%2Fg%2F11c2pmzb0x!19sChIJ963UbvDzUzcRyGb3KSkUi-Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nightingale+Nursing+Home/data=!4m7!3m6!1s0x3753f3f06ed4adf7:0xe68b142929f766c8!8m2!3d23.840931!4d91.2979375!16s%2Fg%2F11c2pmzb0x!19sChIJ963UbvDzUzcRyGb3KSkUi-Y?authuser=0&hl=en&rclk=1"
@@ -4845,7 +4885,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nightingale+Nursing+Home/data=!4m7!3m6!1s0x3753f3f06ed4adf7:0xe68b142929f766c8!8m2!3d23.840931!4d91.2979375!16s%2Fg%2F11c2pmzb0x!19sChIJ963UbvDzUzcRyGb3KSkUi-Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "oncoplasty-prime-agartala",
@@ -4893,7 +4934,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oncoplasty+Prime/data=!4m7!3m6!1s0x3753f53d908b3501:0x5af1c18ff437cd8a!8m2!3d23.7922746!4d91.2753644!16s%2Fg%2F11vt4qw0gm!19sChIJATWLkD31UzcRis039I_B8Vo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oncoplasty+Prime/data=!4m7!3m6!1s0x3753f53d908b3501:0x5af1c18ff437cd8a!8m2!3d23.7922746!4d91.2753644!16s%2Fg%2F11vt4qw0gm!19sChIJATWLkD31UzcRis039I_B8Vo?authuser=0&hl=en&rclk=1"
@@ -4959,10 +5000,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oncoplasty+Prime/data=!4m7!3m6!1s0x3753f53d908b3501:0x5af1c18ff437cd8a!8m2!3d23.7922746!4d91.2753644!16s%2Fg%2F11vt4qw0gm!19sChIJATWLkD31UzcRis039I_B8Vo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "piles-and-fistula-clinic-agartala-best-piles-specialist-in-agartala-agartala",
@@ -5012,7 +5054,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Piles+And+Fistula+clinic+Agartala+%7C+Best+Piles+Specialist+in+Agartala/data=!4m7!3m6!1s0x3753f515b6c7bbff:0xa792ffdcafb1c977!8m2!3d23.8263881!4d91.281888!16s%2Fg%2F11wh3kzj0m!19sChIJ_7vHthX1UzcRd8mxr9z_kqc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Piles+And+Fistula+clinic+Agartala+%7C+Best+Piles+Specialist+in+Agartala/data=!4m7!3m6!1s0x3753f515b6c7bbff:0xa792ffdcafb1c977!8m2!3d23.8263881!4d91.281888!16s%2Fg%2F11wh3kzj0m!19sChIJ_7vHthX1UzcRd8mxr9z_kqc?authuser=0&hl=en&rclk=1"
@@ -5078,10 +5120,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Piles+And+Fistula+clinic+Agartala+%7C+Best+Piles+Specialist+in+Agartala/data=!4m7!3m6!1s0x3753f515b6c7bbff:0xa792ffdcafb1c977!8m2!3d23.8263881!4d91.281888!16s%2Fg%2F11wh3kzj0m!19sChIJ_7vHthX1UzcRd8mxr9z_kqc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pk-dental-care-agartala",
@@ -5132,7 +5175,7 @@
       "Google rating 4.8",
       "150+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/PK+Dental+Care/@23.8395651,91.2816597,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5a7b54dfc7b:0x2d0361235ee8bf9d!8m2!3d23.8395651!4d91.2816597!16s%2Fg%2F11hf7hgb2w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PK+Dental+Care/@23.8395651,91.2816597,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5a7b54dfc7b:0x2d0361235ee8bf9d!8m2!3d23.8395651!4d91.2816597!16s%2Fg%2F11hf7hgb2w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5201,7 +5244,8 @@
     "rating": 4.8,
     "reviews": 150,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PK+Dental+Care/@23.8395651,91.2816597,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5a7b54dfc7b:0x2d0361235ee8bf9d!8m2!3d23.8395651!4d91.2816597!16s%2Fg%2F11hf7hgb2w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "regional-cancer-institute-agartala",
@@ -5250,7 +5294,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Regional+Cancer+Institute/data=!4m7!3m6!1s0x3753f1516d4a4b9f:0x9cb5ffa8caab4b3!8m2!3d23.8607129!4d91.2945913!16s%2Fg%2F1v0lj3n7!19sChIJn0tKbVHxUzcRs7SqjPpfywk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Regional+Cancer+Institute/data=!4m7!3m6!1s0x3753f1516d4a4b9f:0x9cb5ffa8caab4b3!8m2!3d23.8607129!4d91.2945913!16s%2Fg%2F1v0lj3n7!19sChIJn0tKbVHxUzcRs7SqjPpfywk?authuser=0&hl=en&rclk=1"
@@ -5319,7 +5363,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Regional+Cancer+Institute/data=!4m7!3m6!1s0x3753f1516d4a4b9f:0x9cb5ffa8caab4b3!8m2!3d23.8607129!4d91.2945913!16s%2Fg%2F1v0lj3n7!19sChIJn0tKbVHxUzcRs7SqjPpfywk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "satyanarayan-pulp-dental-agartala",
@@ -5367,7 +5412,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Satyanarayan+Pulp+Dental/@23.837719,91.2795912,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5a9750b542f:0x73d65311be6ccd9d!8m2!3d23.837719!4d91.2795912!16s%2Fg%2F11pv9_pfz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satyanarayan+Pulp+Dental/@23.837719,91.2795912,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5a9750b542f:0x73d65311be6ccd9d!8m2!3d23.837719!4d91.2795912!16s%2Fg%2F11pv9_pfz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5436,7 +5481,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Satyanarayan+Pulp+Dental/@23.837719,91.2795912,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5a9750b542f:0x73d65311be6ccd9d!8m2!3d23.837719!4d91.2795912!16s%2Fg%2F11pv9_pfz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "senapati-s-dental-clinic-agartala",
@@ -5484,7 +5530,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Senapati's+Dental+Clinic/@23.8290285,91.2772736,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f545af8b723d:0xca875575206373f!8m2!3d23.8290285!4d91.2772736!16s%2Fg%2F11fktpj5h2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Senapati's+Dental+Clinic/@23.8290285,91.2772736,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f545af8b723d:0xca875575206373f!8m2!3d23.8290285!4d91.2772736!16s%2Fg%2F11fktpj5h2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5553,7 +5599,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Senapati's+Dental+Clinic/@23.8290285,91.2772736,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f545af8b723d:0xca875575206373f!8m2!3d23.8290285!4d91.2772736!16s%2Fg%2F11fktpj5h2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharp-sight-eye-centre-agartala-agartala",
@@ -5603,7 +5650,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sharp+Sight+Eye+Centre,+Agartala/@23.8337258,91.2904609,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f343c7dc7ff5:0xace5caa61409803a!8m2!3d23.8337258!4d91.2904609!16s%2Fg%2F11vkh1xf0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharp+Sight+Eye+Centre,+Agartala/@23.8337258,91.2904609,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f343c7dc7ff5:0xace5caa61409803a!8m2!3d23.8337258!4d91.2904609!16s%2Fg%2F11vkh1xf0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5672,7 +5719,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sharp+Sight+Eye+Centre,+Agartala/@23.8337258,91.2904609,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f343c7dc7ff5:0xace5caa61409803a!8m2!3d23.8337258!4d91.2904609!16s%2Fg%2F11vkh1xf0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sl-s-aesthetic-dental-care-agartala",
@@ -5720,7 +5768,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/SL'S+AESTHETIC+DENTAL+CARE/@23.8388835,91.2877639,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f54ff442b6d9:0xed5bbbdbb24fbfc1!8m2!3d23.8388835!4d91.2877639!16s%2Fg%2F11yn6jjvh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SL'S+AESTHETIC+DENTAL+CARE/@23.8388835,91.2877639,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f54ff442b6d9:0xed5bbbdbb24fbfc1!8m2!3d23.8388835!4d91.2877639!16s%2Fg%2F11yn6jjvh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5789,7 +5837,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SL'S+AESTHETIC+DENTAL+CARE/@23.8388835,91.2877639,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f54ff442b6d9:0xed5bbbdbb24fbfc1!8m2!3d23.8388835!4d91.2877639!16s%2Fg%2F11yn6jjvh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-up-dental-clinic-agartala",
@@ -5837,7 +5886,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Up+Dental+Clinic/@23.8258968,91.2816627,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f473b78a3c01:0x97104295179ad592!8m2!3d23.8258968!4d91.2816627!16s%2Fg%2F11f15m2mj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Up+Dental+Clinic/@23.8258968,91.2816627,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f473b78a3c01:0x97104295179ad592!8m2!3d23.8258968!4d91.2816627!16s%2Fg%2F11f15m2mj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5903,10 +5952,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Up+Dental+Clinic/@23.8258968,91.2816627,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f473b78a3c01:0x97104295179ad592!8m2!3d23.8258968!4d91.2816627!16s%2Fg%2F11f15m2mj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smilessence-dental-clinic-agartala",
@@ -5955,7 +6005,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smilessence+Dental+Clinic/@23.8294485,91.2673871,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5460c2d6bc1:0xe67d427f7d399c2a!8m2!3d23.8294485!4d91.2673871!16s%2Fg%2F11f9w9fss6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smilessence+Dental+Clinic/@23.8294485,91.2673871,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5460c2d6bc1:0xe67d427f7d399c2a!8m2!3d23.8294485!4d91.2673871!16s%2Fg%2F11f9w9fss6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6024,7 +6074,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smilessence+Dental+Clinic/@23.8294485,91.2673871,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5460c2d6bc1:0xe67d427f7d399c2a!8m2!3d23.8294485!4d91.2673871!16s%2Fg%2F11f9w9fss6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smilezone-dental-clinic-agartala",
@@ -6072,7 +6123,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SmileZone+Dental+Clinic/@23.8150509,91.3084982,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f3a29c9e1223:0xfead8d883bbcb4cd!8m2!3d23.8150509!4d91.3084982!16s%2Fg%2F11c5_y9533?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SmileZone+Dental+Clinic/@23.8150509,91.3084982,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f3a29c9e1223:0xfead8d883bbcb4cd!8m2!3d23.8150509!4d91.3084982!16s%2Fg%2F11c5_y9533?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6141,7 +6192,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SmileZone+Dental+Clinic/@23.8150509,91.3084982,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f3a29c9e1223:0xfead8d883bbcb4cd!8m2!3d23.8150509!4d91.3084982!16s%2Fg%2F11c5_y9533?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "star-dental-care-agartala",
@@ -6189,7 +6241,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/STAR+DENTAL+CARE/@23.8506401,91.2690409,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f420323620d3:0x4976a97c58fca0ec!8m2!3d23.8506401!4d91.2690409!16s%2Fg%2F11l6tm39qf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STAR+DENTAL+CARE/@23.8506401,91.2690409,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f420323620d3:0x4976a97c58fca0ec!8m2!3d23.8506401!4d91.2690409!16s%2Fg%2F11l6tm39qf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6255,10 +6307,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/STAR+DENTAL+CARE/@23.8506401,91.2690409,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f420323620d3:0x4976a97c58fca0ec!8m2!3d23.8506401!4d91.2690409!16s%2Fg%2F11l6tm39qf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sushmita-dental-clinic-agartala-agartala",
@@ -6306,7 +6359,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sushmita+Dental+Clinic+Agartala/@23.8548411,91.2952619,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f1564032f871:0x1730a64ab0000000!8m2!3d23.8548411!4d91.2952619!16s%2Fg%2F11q96mn2f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sushmita+Dental+Clinic+Agartala/@23.8548411,91.2952619,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f1564032f871:0x1730a64ab0000000!8m2!3d23.8548411!4d91.2952619!16s%2Fg%2F11q96mn2f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6375,7 +6428,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sushmita+Dental+Clinic+Agartala/@23.8548411,91.2952619,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f1564032f871:0x1730a64ab0000000!8m2!3d23.8548411!4d91.2952619!16s%2Fg%2F11q96mn2f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "teeth-and-jaws-dental-clinic-and-implant-centre-branch-no-01-agartala",
@@ -6423,7 +6477,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Teeth+%26+Jaws+Dental+Clinic+and+implant+centre+(Branch+No+01)/@23.8352639,91.2870968,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f515fd8bd4c9:0xae75c57d623a17c2!8m2!3d23.8352639!4d91.2870968!16s%2Fg%2F11sct7gyt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Teeth+%26+Jaws+Dental+Clinic+and+implant+centre+(Branch+No+01)/@23.8352639,91.2870968,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f515fd8bd4c9:0xae75c57d623a17c2!8m2!3d23.8352639!4d91.2870968!16s%2Fg%2F11sct7gyt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6492,7 +6546,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Teeth+%26+Jaws+Dental+Clinic+and+implant+centre+(Branch+No+01)/@23.8352639,91.2870968,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f515fd8bd4c9:0xae75c57d623a17c2!8m2!3d23.8352639!4d91.2870968!16s%2Fg%2F11sct7gyt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-hope-agartala",
@@ -6541,7 +6596,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/THE+HOPE/data=!4m7!3m6!1s0x3753f6b1bfffffff:0x5527f6a93a88b077!8m2!3d23.8630128!4d91.2830124!16s%2Fg%2F11p64nry8g!19sChIJ____v7H2UzcRd7CIOqn2J1U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THE+HOPE/data=!4m7!3m6!1s0x3753f6b1bfffffff:0x5527f6a93a88b077!8m2!3d23.8630128!4d91.2830124!16s%2Fg%2F11p64nry8g!19sChIJ____v7H2UzcRd7CIOqn2J1U?authuser=0&hl=en&rclk=1"
@@ -6610,7 +6665,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/THE+HOPE/data=!4m7!3m6!1s0x3753f6b1bfffffff:0x5527f6a93a88b077!8m2!3d23.8630128!4d91.2830124!16s%2Fg%2F11p64nry8g!19sChIJ____v7H2UzcRd7CIOqn2J1U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-liver-clinic-agartala",
@@ -6660,7 +6716,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
@@ -6726,10 +6782,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-meditrust-healthcare-agartala",
@@ -6778,7 +6835,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Meditrust+Healthcare/@23.8302762,91.2785302,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5fa66ca7af7:0x8f0c93f5be8882e!8m2!3d23.8302762!4d91.2785302!16s%2Fg%2F11l1yxddt3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Meditrust+Healthcare/@23.8302762,91.2785302,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5fa66ca7af7:0x8f0c93f5be8882e!8m2!3d23.8302762!4d91.2785302!16s%2Fg%2F11l1yxddt3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6847,7 +6904,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Meditrust+Healthcare/@23.8302762,91.2785302,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5fa66ca7af7:0x8f0c93f5be8882e!8m2!3d23.8302762!4d91.2785302!16s%2Fg%2F11l1yxddt3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-smile-architect-agartala",
@@ -6896,7 +6954,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/THE+SMILE+ARCHITECT/@23.831216,91.2888872,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5591170c9b3:0xc44aa2342f31b071!8m2!3d23.831216!4d91.2888872!16s%2Fg%2F11t9tq7fml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THE+SMILE+ARCHITECT/@23.831216,91.2888872,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5591170c9b3:0xc44aa2342f31b071!8m2!3d23.831216!4d91.2888872!16s%2Fg%2F11t9tq7fml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6965,7 +7023,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/THE+SMILE+ARCHITECT/@23.831216,91.2888872,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5591170c9b3:0xc44aa2342f31b071!8m2!3d23.831216!4d91.2888872!16s%2Fg%2F11t9tq7fml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tooth-cure-dental-clinic-agartala",
@@ -7013,7 +7072,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/TOOTH+CURE+DENTAL+CLINIC/@23.8417877,91.2703442,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5b5a0c21f57:0x2c2d9f6fa0a58902!8m2!3d23.8417877!4d91.2703442!16s%2Fg%2F11j124shlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TOOTH+CURE+DENTAL+CLINIC/@23.8417877,91.2703442,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5b5a0c21f57:0x2c2d9f6fa0a58902!8m2!3d23.8417877!4d91.2703442!16s%2Fg%2F11j124shlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7082,7 +7141,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TOOTH+CURE+DENTAL+CLINIC/@23.8417877,91.2703442,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5b5a0c21f57:0x2c2d9f6fa0a58902!8m2!3d23.8417877!4d91.2703442!16s%2Fg%2F11j124shlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "transcendent-dental-clinic-agartala",
@@ -7130,7 +7190,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Transcendent+Dental+Clinic/@23.8303771,91.2802882,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f552e28d4933:0x3509b0a89132d91!8m2!3d23.8303771!4d91.2802882!16s%2Fg%2F11n5vk28mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Transcendent+Dental+Clinic/@23.8303771,91.2802882,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f552e28d4933:0x3509b0a89132d91!8m2!3d23.8303771!4d91.2802882!16s%2Fg%2F11n5vk28mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7199,7 +7259,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Transcendent+Dental+Clinic/@23.8303771,91.2802882,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f552e28d4933:0x3509b0a89132d91!8m2!3d23.8303771!4d91.2802882!16s%2Fg%2F11n5vk28mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tripura-cancer-hospital-agartala-agartala",
@@ -7248,7 +7309,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tripura+Cancer+Hospital,+Agartala/@23.8610624,91.2949747,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f1bdf64280bb:0x81596db0a08d38f6!8m2!3d23.8610624!4d91.2949747!16s%2Fg%2F11ry1f01km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tripura+Cancer+Hospital,+Agartala/@23.8610624,91.2949747,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f1bdf64280bb:0x81596db0a08d38f6!8m2!3d23.8610624!4d91.2949747!16s%2Fg%2F11ry1f01km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7317,7 +7378,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tripura+Cancer+Hospital,+Agartala/@23.8610624,91.2949747,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f1bdf64280bb:0x81596db0a08d38f6!8m2!3d23.8610624!4d91.2949747!16s%2Fg%2F11ry1f01km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "urmila-home-nursing-care-agartala",
@@ -7366,7 +7428,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/URMILA+HOME+NURSING+CARE/@23.8319685,91.2787963,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5a67bd3ec09:0x67082d3f31ac69!8m2!3d23.8319685!4d91.2787963!16s%2Fg%2F11qgpzyvp_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/URMILA+HOME+NURSING+CARE/@23.8319685,91.2787963,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5a67bd3ec09:0x67082d3f31ac69!8m2!3d23.8319685!4d91.2787963!16s%2Fg%2F11qgpzyvp_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7435,7 +7497,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/URMILA+HOME+NURSING+CARE/@23.8319685,91.2787963,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5a67bd3ec09:0x67082d3f31ac69!8m2!3d23.8319685!4d91.2787963!16s%2Fg%2F11qgpzyvp_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vedanta-dental-solutions-agartala",
@@ -7483,7 +7546,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Vedanta+Dental+Solutions/@23.810406,91.2710456,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5cdf2db920d:0x7c92e451c5ae3b32!8m2!3d23.810406!4d91.2710456!16s%2Fg%2F11v9lfld68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vedanta+Dental+Solutions/@23.810406,91.2710456,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5cdf2db920d:0x7c92e451c5ae3b32!8m2!3d23.810406!4d91.2710456!16s%2Fg%2F11v9lfld68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7552,7 +7615,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vedanta+Dental+Solutions/@23.810406,91.2710456,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5cdf2db920d:0x7c92e451c5ae3b32!8m2!3d23.810406!4d91.2710456!16s%2Fg%2F11v9lfld68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "white-pearl-dental-care-agartala",
@@ -7601,7 +7665,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/White+Pearl+Dental+Care/@23.8426198,91.3167987,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f3c397ed075f:0x26c5c05b353bbe52!8m2!3d23.8426198!4d91.3167987!16s%2Fg%2F11qn3hw62s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/White+Pearl+Dental+Care/@23.8426198,91.3167987,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f3c397ed075f:0x26c5c05b353bbe52!8m2!3d23.8426198!4d91.3167987!16s%2Fg%2F11qn3hw62s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7670,7 +7734,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/White+Pearl+Dental+Care/@23.8426198,91.3167987,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f3c397ed075f:0x26c5c05b353bbe52!8m2!3d23.8426198!4d91.3167987!16s%2Fg%2F11qn3hw62s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yashoda-hospitals-medical-information-centre-agartala-agartala",
@@ -7720,7 +7785,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+-+Agartala/@23.8385453,91.2714441,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5c62016aa1d:0xa889590f365c457e!8m2!3d23.8385453!4d91.2714441!16s%2Fg%2F11h_13wlm6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+-+Agartala/@23.8385453,91.2714441,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5c62016aa1d:0xa889590f365c457e!8m2!3d23.8385453!4d91.2714441!16s%2Fg%2F11h_13wlm6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7786,10 +7851,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+-+Agartala/@23.8385453,91.2714441,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f5c62016aa1d:0xa889590f365c457e!8m2!3d23.8385453!4d91.2714441!16s%2Fg%2F11h_13wlm6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "and-agartala",
@@ -7838,7 +7904,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%90%83%F0%9D%90%AB+%F0%9D%90%AC%F0%9D%90%AE%F0%9D%90%9B%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A4%F0%9D%90%9A%F0%9D%90%AB+%F0%9D%90%A9%F0%9D%90%9A%F0%9D%90%AE%F0%9D%90%A5'%F0%9D%90%AC+%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A5+%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9C+%26+%F0%9D%90%A2%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD+%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9E/@23.829654,91.272016,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f524efb4267b:0x3bc8fdd3f9a4dfd6!8m2!3d23.829654!4d91.272016!16s%2Fg%2F11f716bmw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%90%83%F0%9D%90%AB+%F0%9D%90%AC%F0%9D%90%AE%F0%9D%90%9B%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A4%F0%9D%90%9A%F0%9D%90%AB+%F0%9D%90%A9%F0%9D%90%9A%F0%9D%90%AE%F0%9D%90%A5'%F0%9D%90%AC+%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A5+%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9C+%26+%F0%9D%90%A2%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD+%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9E/@23.829654,91.272016,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f524efb4267b:0x3bc8fdd3f9a4dfd6!8m2!3d23.829654!4d91.272016!16s%2Fg%2F11f716bmw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7907,7 +7973,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%90%83%F0%9D%90%AB+%F0%9D%90%AC%F0%9D%90%AE%F0%9D%90%9B%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A4%F0%9D%90%9A%F0%9D%90%AB+%F0%9D%90%A9%F0%9D%90%9A%F0%9D%90%AE%F0%9D%90%A5'%F0%9D%90%AC+%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A5+%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9C+%26+%F0%9D%90%A2%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD+%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9E/@23.829654,91.272016,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f524efb4267b:0x3bc8fdd3f9a4dfd6!8m2!3d23.829654!4d91.272016!16s%2Fg%2F11f716bmw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "agartala",
@@ -7956,7 +8023,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%A1%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2/@23.839088,91.2738388,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f55b5b25373b:0xd7bb9e7e9baef3e8!8m2!3d23.839088!4d91.2738388!16s%2Fg%2F11fct83lft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A1%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2/@23.839088,91.2738388,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f55b5b25373b:0xd7bb9e7e9baef3e8!8m2!3d23.839088!4d91.2738388!16s%2Fg%2F11fct83lft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8025,6 +8092,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A1%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2/@23.839088,91.2738388,17z/data=!3m1!4b1!4m6!3m5!1s0x3753f55b5b25373b:0xd7bb9e7e9baef3e8!8m2!3d23.839088!4d91.2738388!16s%2Fg%2F11fct83lft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

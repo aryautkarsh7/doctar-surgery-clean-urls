@@ -46,7 +46,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Gastroenterology+Liver+%26Pancreas+Clinic/@20.2781434,85.796108,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a7681f7c3b31:0x68f725c88a8ecac8!8m2!3d20.2781434!4d85.796108!16s%2Fg%2F11rg98ylxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gastroenterology+Liver+%26Pancreas+Clinic/@20.2781434,85.796108,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a7681f7c3b31:0x68f725c88a8ecac8!8m2!3d20.2781434!4d85.796108!16s%2Fg%2F11rg98ylxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -112,10 +112,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gastroenterology+Liver+%26Pancreas+Clinic/@20.2781434,85.796108,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a7681f7c3b31:0x68f725c88a8ecac8!8m2!3d20.2781434!4d85.796108!16s%2Fg%2F11rg98ylxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "institute-of-gastroenterology-and-liver-sciences-bhubaneswar",
@@ -166,7 +167,7 @@
       "Google rating 1.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Institute+of+Gastroenterology+And+Liver+Sciences/data=!4m7!3m6!1s0x3a19a70074c40431:0x2f8c8a668d04d701!8m2!3d20.2535508!4d85.7962231!16s%2Fg%2F11w8nhsgl3!19sChIJMQTEdACnGToRAdcEjWaKjC8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Institute+of+Gastroenterology+And+Liver+Sciences/data=!4m7!3m6!1s0x3a19a70074c40431:0x2f8c8a668d04d701!8m2!3d20.2535508!4d85.7962231!16s%2Fg%2F11w8nhsgl3!19sChIJMQTEdACnGToRAdcEjWaKjC8?authuser=0&hl=en&rclk=1"
@@ -232,10 +233,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Institute+of+Gastroenterology+And+Liver+Sciences/data=!4m7!3m6!1s0x3a19a70074c40431:0x2f8c8a668d04d701!8m2!3d20.2535508!4d85.7962231!16s%2Fg%2F11w8nhsgl3!19sChIJMQTEdACnGToRAdcEjWaKjC8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "uro-kidney-care-urology-clinic-in-bhubaneswar-odisha-bhubaneswar",
@@ -285,7 +287,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Uro+Kidney+Care+-+Urology+Clinic+in+Bhubaneswar,+Odisha/data=!4m7!3m6!1s0x3a19099b2166cc0d:0x7db5e640968ea10!8m2!3d20.3117387!4d85.8334246!16s%2Fg%2F11s5cvr90v!19sChIJDcxmIZsJGToREOpoCWRe2wc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uro+Kidney+Care+-+Urology+Clinic+in+Bhubaneswar,+Odisha/data=!4m7!3m6!1s0x3a19099b2166cc0d:0x7db5e640968ea10!8m2!3d20.3117387!4d85.8334246!16s%2Fg%2F11s5cvr90v!19sChIJDcxmIZsJGToREOpoCWRe2wc?authuser=0&hl=en&rclk=1"
@@ -351,9 +353,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Uro+Kidney+Care+-+Urology+Clinic+in+Bhubaneswar,+Odisha/data=!4m7!3m6!1s0x3a19099b2166cc0d:0x7db5e640968ea10!8m2!3d20.3117387!4d85.8334246!16s%2Fg%2F11s5cvr90v!19sChIJDcxmIZsJGToREOpoCWRe2wc?authuser=0&hl=en&rclk=1"
   }
 ]

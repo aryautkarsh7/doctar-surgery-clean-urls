@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/0rkids+Children's+Hospital+and+Critical+Care+Center/@21.4597926,80.1938119,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafa1c389fe83:0x357bc5966cea1dd5!8m2!3d21.4597926!4d80.1938119!16s%2Fg%2F11jrrcpw04?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/0rkids+Children's+Hospital+and+Critical+Care+Center/@21.4597926,80.1938119,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafa1c389fe83:0x357bc5966cea1dd5!8m2!3d21.4597926!4d80.1938119!16s%2Fg%2F11jrrcpw04?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -112,10 +112,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/0rkids+Children's+Hospital+and+Critical+Care+Center/@21.4597926,80.1938119,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafa1c389fe83:0x357bc5966cea1dd5!8m2!3d21.4597926!4d80.1938119!16s%2Fg%2F11jrrcpw04?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aarogyam-clinic-gondia",
@@ -164,7 +165,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aarogyam+clinic/@21.4605235,80.1959705,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf940fca0665:0x34ece16bd938007f!8m2!3d21.4605235!4d80.1959705!16s%2Fg%2F11s9dhlt2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogyam+clinic/@21.4605235,80.1959705,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf940fca0665:0x34ece16bd938007f!8m2!3d21.4605235!4d80.1959705!16s%2Fg%2F11s9dhlt2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -230,10 +231,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aarogyam+clinic/@21.4605235,80.1959705,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf940fca0665:0x34ece16bd938007f!8m2!3d21.4605235!4d80.1959705!16s%2Fg%2F11s9dhlt2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "agrawal-hospital-gondia",
@@ -279,7 +281,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Agrawal+Hospital/@21.4510381,80.1938269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb66e300001:0x1d23786da6d10b97!8m2!3d21.4510381!4d80.1938269!16s%2Fg%2F11sscs4f4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agrawal+Hospital/@21.4510381,80.1938269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb66e300001:0x1d23786da6d10b97!8m2!3d21.4510381!4d80.1938269!16s%2Fg%2F11sscs4f4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -345,10 +347,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Agrawal+Hospital/@21.4510381,80.1938269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb66e300001:0x1d23786da6d10b97!8m2!3d21.4510381!4d80.1938269!16s%2Fg%2F11sscs4f4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amrita-s-dental-clinic-gondia",
@@ -396,7 +399,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Amrita%E2%80%99s+dental+clinic/@21.458745,80.1907264,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafb1779d977f:0x18ff0e7db7884f34!8m2!3d21.458745!4d80.1907264!16s%2Fg%2F11j3rj02p8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrita%E2%80%99s+dental+clinic/@21.458745,80.1907264,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafb1779d977f:0x18ff0e7db7884f34!8m2!3d21.458745!4d80.1907264!16s%2Fg%2F11j3rj02p8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -462,10 +465,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrita%E2%80%99s+dental+clinic/@21.458745,80.1907264,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafb1779d977f:0x18ff0e7db7884f34!8m2!3d21.458745!4d80.1907264!16s%2Fg%2F11j3rj02p8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ananya-hospital-gondia",
@@ -513,7 +517,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/ANANYA+HOSPITAL/data=!4m7!3m6!1s0x3a2bae970901bc8f:0x35049b8d183d4795!8m2!3d21.4600365!4d80.2128001!16s%2Fg%2F11g9m8v1h9!19sChIJj7wBCZeuKzoRlUc9GI2bBDU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANANYA+HOSPITAL/data=!4m7!3m6!1s0x3a2bae970901bc8f:0x35049b8d183d4795!8m2!3d21.4600365!4d80.2128001!16s%2Fg%2F11g9m8v1h9!19sChIJj7wBCZeuKzoRlUc9GI2bBDU?authuser=0&hl=en&rclk=1"
@@ -582,7 +586,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ANANYA+HOSPITAL/data=!4m7!3m6!1s0x3a2bae970901bc8f:0x35049b8d183d4795!8m2!3d21.4600365!4d80.2128001!16s%2Fg%2F11g9m8v1h9!19sChIJj7wBCZeuKzoRlUc9GI2bBDU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "anesthesiologist-in-gondia-rani-avantibai-square",
@@ -630,7 +635,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ANESTHESIOLOGIST+IN+GONDIA/@21.4549876,80.1962858,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafffbba52073:0x23448077db29a0ee!8m2!3d21.4549876!4d80.1962858!16s%2Fg%2F11pyjpgxhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANESTHESIOLOGIST+IN+GONDIA/@21.4549876,80.1962858,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafffbba52073:0x23448077db29a0ee!8m2!3d21.4549876!4d80.1962858!16s%2Fg%2F11pyjpgxhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -696,10 +701,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ANESTHESIOLOGIST+IN+GONDIA/@21.4549876,80.1962858,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafffbba52073:0x23448077db29a0ee!8m2!3d21.4549876!4d80.1962858!16s%2Fg%2F11pyjpgxhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "b-j-hospital-and-research-institute-gondia",
@@ -747,7 +753,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/B.+J.+Hospital+%26+Research+Institute/@21.4522976,80.1973649,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb7756aefd3:0xfa15e2c4b3cb6b50!8m2!3d21.4522976!4d80.1973649!16s%2Fg%2F11c6mb9snk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B.+J.+Hospital+%26+Research+Institute/@21.4522976,80.1973649,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb7756aefd3:0xfa15e2c4b3cb6b50!8m2!3d21.4522976!4d80.1973649!16s%2Fg%2F11c6mb9snk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -816,7 +822,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/B.+J.+Hospital+%26+Research+Institute/@21.4522976,80.1973649,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb7756aefd3:0xfa15e2c4b3cb6b50!8m2!3d21.4522976!4d80.1973649!16s%2Fg%2F11c6mb9snk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "baghele-hospital-katangikala",
@@ -864,7 +871,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Baghele+Hospital/@21.4722981,80.1986891,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf1075068c01:0x8a56ba25ad64203e!8m2!3d21.4722981!4d80.1986891!16s%2Fg%2F11l1tgn1vk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Baghele+Hospital/@21.4722981,80.1986891,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf1075068c01:0x8a56ba25ad64203e!8m2!3d21.4722981!4d80.1986891!16s%2Fg%2F11l1tgn1vk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -933,7 +940,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Baghele+Hospital/@21.4722981,80.1986891,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf1075068c01:0x8a56ba25ad64203e!8m2!3d21.4722981!4d80.1986891!16s%2Fg%2F11l1tgn1vk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bai-ganga-bai-women-hospital-gondia-gondia",
@@ -982,7 +990,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Bai+Ganga+Bai+Women+Hospital,+Gondia/@21.4595836,80.1976562,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb06c1c4489:0x8ace5cd29bbaa716!8m2!3d21.4595836!4d80.1976562!16s%2Fg%2F11c6w01cxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bai+Ganga+Bai+Women+Hospital,+Gondia/@21.4595836,80.1976562,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb06c1c4489:0x8ace5cd29bbaa716!8m2!3d21.4595836!4d80.1976562!16s%2Fg%2F11c6w01cxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1051,7 +1059,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bai+Ganga+Bai+Women+Hospital,+Gondia/@21.4595836,80.1976562,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb06c1c4489:0x8ace5cd29bbaa716!8m2!3d21.4595836!4d80.1976562!16s%2Fg%2F11c6w01cxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bgw-hospital-gondia",
@@ -1101,7 +1110,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bgw+hospital/@21.4596379,80.196834,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf43378a7ae7:0x7bbf678b064aaa0e!8m2!3d21.4596379!4d80.196834!16s%2Fg%2F11pf7lp3my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bgw+hospital/@21.4596379,80.196834,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf43378a7ae7:0x7bbf678b064aaa0e!8m2!3d21.4596379!4d80.196834!16s%2Fg%2F11pf7lp3my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1170,7 +1179,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bgw+hospital/@21.4596379,80.196834,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf43378a7ae7:0x7bbf678b064aaa0e!8m2!3d21.4596379!4d80.196834!16s%2Fg%2F11pf7lp3my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhagat-eye-and-ent-hospital-gondia-sialendoscopy-and-coblation-centre-kudwa",
@@ -1219,7 +1229,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhagat+Eye+%26+ENT+Hospital+;+Gondia+Sialendoscopy+and+Coblation+Centre/@21.4733413,80.1963728,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bac028232ecd7:0xe3320bfca0ae1551!8m2!3d21.4733413!4d80.1963728!16s%2Fg%2F11g986bw8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagat+Eye+%26+ENT+Hospital+;+Gondia+Sialendoscopy+and+Coblation+Centre/@21.4733413,80.1963728,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bac028232ecd7:0xe3320bfca0ae1551!8m2!3d21.4733413!4d80.1963728!16s%2Fg%2F11g986bw8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1288,7 +1298,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhagat+Eye+%26+ENT+Hospital+;+Gondia+Sialendoscopy+and+Coblation+Centre/@21.4733413,80.1963728,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bac028232ecd7:0xe3320bfca0ae1551!8m2!3d21.4733413!4d80.1963728!16s%2Fg%2F11g986bw8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bharat-smiles-kids-and-family-dental-center-gondia",
@@ -1337,7 +1348,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bharat+Smiles+(Kids+and+Family+Dental+center)/@21.4578489,80.1997609,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf8506f1670f:0xd57debe9707f115b!8m2!3d21.4578489!4d80.1997609!16s%2Fg%2F11hz_n2zdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharat+Smiles+(Kids+and+Family+Dental+center)/@21.4578489,80.1997609,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf8506f1670f:0xd57debe9707f115b!8m2!3d21.4578489!4d80.1997609!16s%2Fg%2F11hz_n2zdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1406,7 +1417,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bharat+Smiles+(Kids+and+Family+Dental+center)/@21.4578489,80.1997609,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf8506f1670f:0xd57debe9707f115b!8m2!3d21.4578489!4d80.1997609!16s%2Fg%2F11hz_n2zdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bramhankar-hospital-the-complete-surgical-solution-gondia",
@@ -1454,7 +1466,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Bramhankar+Hospital+(The+Complete+Surgical+Solution)/@21.4577168,80.203572,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafdba4bbf3d1:0xf776fbde3038cc95!8m2!3d21.4577168!4d80.203572!16s%2Fg%2F11h22w_fb_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bramhankar+Hospital+(The+Complete+Surgical+Solution)/@21.4577168,80.203572,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafdba4bbf3d1:0xf776fbde3038cc95!8m2!3d21.4577168!4d80.203572!16s%2Fg%2F11h22w_fb_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1523,7 +1535,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bramhankar+Hospital+(The+Complete+Surgical+Solution)/@21.4577168,80.203572,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafdba4bbf3d1:0xf776fbde3038cc95!8m2!3d21.4577168!4d80.203572!16s%2Fg%2F11h22w_fb_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bramhankar-s-urology-and-diet-clinic-gondia",
@@ -1571,7 +1584,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://www.google.com/maps/place/Bramhankar's+Urology+and+diet+clinic/@21.4590598,80.1953888,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf2c3a11c819:0x8f47906f8266262c!8m2!3d21.4590598!4d80.1953888!16s%2Fg%2F11f781rt3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bramhankar's+Urology+and+diet+clinic/@21.4590598,80.1953888,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf2c3a11c819:0x8f47906f8266262c!8m2!3d21.4590598!4d80.1953888!16s%2Fg%2F11f781rt3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1637,10 +1650,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bramhankar's+Urology+and+diet+clinic/@21.4590598,80.1953888,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf2c3a11c819:0x8f47906f8266262c!8m2!3d21.4590598!4d80.1953888!16s%2Fg%2F11f781rt3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "care-dental-and-cosmetology-clinic-gondia",
@@ -1689,7 +1703,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Care+dental+and+cosmetology+clinic/@21.456426,80.1872561,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb32f1c3cd5:0x22efa40e9f1c245c!8m2!3d21.456426!4d80.1872561!16s%2Fg%2F11fx7nl5sx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+dental+and+cosmetology+clinic/@21.456426,80.1872561,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb32f1c3cd5:0x22efa40e9f1c245c!8m2!3d21.456426!4d80.1872561!16s%2Fg%2F11fx7nl5sx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1755,10 +1769,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Care+dental+and+cosmetology+clinic/@21.456426,80.1872561,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb32f1c3cd5:0x22efa40e9f1c245c!8m2!3d21.456426!4d80.1872561!16s%2Fg%2F11fx7nl5sx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chitnavis-nursing-home-and-accident-hospital-and-ankur-testtube-baby-centre-gondia",
@@ -1807,7 +1822,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chitnavis+Nursing+Home+and+ACCIDENT+HOSPITAL+and+ANKUR+TESTTUBE+BABY+CENTRE/@21.4520042,80.1961609,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb7aa3d88bf:0x80561c9cdb704fbd!8m2!3d21.4520042!4d80.1961609!16s%2Fg%2F1tdxnw7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chitnavis+Nursing+Home+and+ACCIDENT+HOSPITAL+and+ANKUR+TESTTUBE+BABY+CENTRE/@21.4520042,80.1961609,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb7aa3d88bf:0x80561c9cdb704fbd!8m2!3d21.4520042!4d80.1961609!16s%2Fg%2F1tdxnw7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1876,7 +1891,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chitnavis+Nursing+Home+and+ACCIDENT+HOSPITAL+and+ANKUR+TESTTUBE+BABY+CENTRE/@21.4520042,80.1961609,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb7aa3d88bf:0x80561c9cdb704fbd!8m2!3d21.4520042!4d80.1961609!16s%2Fg%2F1tdxnw7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-care-malti-specialist-hospital-gondia",
@@ -1924,7 +1940,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/City+Care+Malti-Specialist+Hospital/@21.4579068,80.1990886,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeba7c6d52d9:0x9fda5622b5df7217!8m2!3d21.4579068!4d80.1990886!16s%2Fg%2F11c2lcrs71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Care+Malti-Specialist+Hospital/@21.4579068,80.1990886,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeba7c6d52d9:0x9fda5622b5df7217!8m2!3d21.4579068!4d80.1990886!16s%2Fg%2F11c2lcrs71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1990,10 +2006,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Care+Malti-Specialist+Hospital/@21.4579068,80.1990886,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeba7c6d52d9:0x9fda5622b5df7217!8m2!3d21.4579068!4d80.1990886!16s%2Fg%2F11c2lcrs71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-clinic-and-implant-center-katangikala",
@@ -2042,7 +2059,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DENTAL+CLINIC+AND+IMPLANT+CENTER/@21.4753701,80.1967253,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bad45ee3bd3cf:0x808c12fc8cc576d9!8m2!3d21.4753701!4d80.1967253!16s%2Fg%2F11qh96z4wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTAL+CLINIC+AND+IMPLANT+CENTER/@21.4753701,80.1967253,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bad45ee3bd3cf:0x808c12fc8cc576d9!8m2!3d21.4753701!4d80.1967253!16s%2Fg%2F11qh96z4wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2108,10 +2125,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENTAL+CLINIC+AND+IMPLANT+CENTER/@21.4753701,80.1967253,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bad45ee3bd3cf:0x808c12fc8cc576d9!8m2!3d21.4753701!4d80.1967253!16s%2Fg%2F11qh96z4wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dolly-clinic-gondia",
@@ -2159,7 +2177,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dolly+Clinic/@21.459173,80.1960482,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb04b8c77ab:0x30c2c9230e63191!8m2!3d21.459173!4d80.1960482!16s%2Fg%2F11ggflzf2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dolly+Clinic/@21.459173,80.1960482,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb04b8c77ab:0x30c2c9230e63191!8m2!3d21.459173!4d80.1960482!16s%2Fg%2F11ggflzf2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2225,10 +2243,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dolly+Clinic/@21.459173,80.1960482,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb04b8c77ab:0x30c2c9230e63191!8m2!3d21.459173!4d80.1960482!16s%2Fg%2F11ggflzf2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eye-care-hospital-gondia-gondia",
@@ -2276,7 +2295,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/EYE+CARE+HOSPITAL+GONDIA/@21.4625595,80.1938385,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafdc43f50cc1:0x7a0aebcf972dfd43!8m2!3d21.4625595!4d80.1938385!16s%2Fg%2F11z3lnk_md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/EYE+CARE+HOSPITAL+GONDIA/@21.4625595,80.1938385,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafdc43f50cc1:0x7a0aebcf972dfd43!8m2!3d21.4625595!4d80.1938385!16s%2Fg%2F11z3lnk_md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2342,10 +2361,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/EYE+CARE+HOSPITAL+GONDIA/@21.4625595,80.1938385,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafdc43f50cc1:0x7a0aebcf972dfd43!8m2!3d21.4625595!4d80.1938385!16s%2Fg%2F11z3lnk_md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gadekar-dental-clinic-gondia",
@@ -2393,7 +2413,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/GADEKAR+DENTAL+CLINIC/@21.4578272,80.1945978,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb10b07c2c9:0x302296edf523ab39!8m2!3d21.4578272!4d80.1945978!16s%2Fg%2F11c5hkbp72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GADEKAR+DENTAL+CLINIC/@21.4578272,80.1945978,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb10b07c2c9:0x302296edf523ab39!8m2!3d21.4578272!4d80.1945978!16s%2Fg%2F11c5hkbp72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2462,7 +2482,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GADEKAR+DENTAL+CLINIC/@21.4578272,80.1945978,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb10b07c2c9:0x302296edf523ab39!8m2!3d21.4578272!4d80.1945978!16s%2Fg%2F11c5hkbp72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gadpayle-dental-clinic-gondia",
@@ -2510,7 +2531,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gadpayle+Dental+Clinic/@21.4688137,80.20621,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baff98616e6bd:0x6befc4be341de5c1!8m2!3d21.4688137!4d80.20621!16s%2Fg%2F11vkl44fvz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gadpayle+Dental+Clinic/@21.4688137,80.20621,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baff98616e6bd:0x6befc4be341de5c1!8m2!3d21.4688137!4d80.20621!16s%2Fg%2F11vkl44fvz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2576,10 +2597,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gadpayle+Dental+Clinic/@21.4688137,80.20621,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baff98616e6bd:0x6befc4be341de5c1!8m2!3d21.4688137!4d80.20621!16s%2Fg%2F11vkl44fvz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "garade-sonography-and-dental-clinic-gondia",
@@ -2627,7 +2649,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Garade+Sonography+And+Dental+Clinic/@21.4559067,80.1954308,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafd31dd74fb1:0xbd2a0b4b87962040!8m2!3d21.4559067!4d80.1954308!16s%2Fg%2F11vy9k84pn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Garade+Sonography+And+Dental+Clinic/@21.4559067,80.1954308,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafd31dd74fb1:0xbd2a0b4b87962040!8m2!3d21.4559067!4d80.1954308!16s%2Fg%2F11vy9k84pn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2693,10 +2715,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Garade+Sonography+And+Dental+Clinic/@21.4559067,80.1954308,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafd31dd74fb1:0xbd2a0b4b87962040!8m2!3d21.4559067!4d80.1954308!16s%2Fg%2F11vy9k84pn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gayatri-medicose-gondia",
@@ -2745,7 +2768,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/GAYATRI+MEDICOSE/@21.4597718,80.1917173,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baffd27be41a1:0x56681e97fecf0886!8m2!3d21.4597718!4d80.1917173!16s%2Fg%2F11mvts76s6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GAYATRI+MEDICOSE/@21.4597718,80.1917173,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baffd27be41a1:0x56681e97fecf0886!8m2!3d21.4597718!4d80.1917173!16s%2Fg%2F11mvts76s6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2811,10 +2834,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GAYATRI+MEDICOSE/@21.4597718,80.1917173,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baffd27be41a1:0x56681e97fecf0886!8m2!3d21.4597718!4d80.1917173!16s%2Fg%2F11mvts76s6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gondia-dental-clinic-and-implant-centre-gondia",
@@ -2860,7 +2884,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/GONDIA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@21.4694,80.2033344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafd78756a909:0x7aa7ce7df73efcf2!8m2!3d21.4694!4d80.2033344!16s%2Fg%2F11ybgzn4__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GONDIA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@21.4694,80.2033344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafd78756a909:0x7aa7ce7df73efcf2!8m2!3d21.4694!4d80.2033344!16s%2Fg%2F11ybgzn4__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2926,10 +2950,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GONDIA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@21.4694,80.2033344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafd78756a909:0x7aa7ce7df73efcf2!8m2!3d21.4694!4d80.2033344!16s%2Fg%2F11ybgzn4__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "govt-medical-college-and-hospital-gondia-gondia",
@@ -2979,7 +3004,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Govt+Medical+College+%26+Hospital,+Gondia/@21.4576356,80.1955268,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb103ffffff:0xde0854799651731!8m2!3d21.4576356!4d80.1955268!16s%2Fg%2F11cjng7bp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt+Medical+College+%26+Hospital,+Gondia/@21.4576356,80.1955268,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb103ffffff:0xde0854799651731!8m2!3d21.4576356!4d80.1955268!16s%2Fg%2F11cjng7bp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3048,7 +3073,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govt+Medical+College+%26+Hospital,+Gondia/@21.4576356,80.1955268,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb103ffffff:0xde0854799651731!8m2!3d21.4576356!4d80.1955268!16s%2Fg%2F11cjng7bp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gujar-hospital-sanjeewani-bal-rugnalaya-gondia",
@@ -3096,7 +3122,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Gujar+Hospital+Sanjeewani+Bal+Rugnalaya/@21.4568026,80.2047584,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baebc0c087c8f:0x60dcf7f80ca6a0c4!8m2!3d21.4568026!4d80.2047584!16s%2Fg%2F12hn57ffx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gujar+Hospital+Sanjeewani+Bal+Rugnalaya/@21.4568026,80.2047584,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baebc0c087c8f:0x60dcf7f80ca6a0c4!8m2!3d21.4568026!4d80.2047584!16s%2Fg%2F12hn57ffx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3165,7 +3191,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gujar+Hospital+Sanjeewani+Bal+Rugnalaya/@21.4568026,80.2047584,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baebc0c087c8f:0x60dcf7f80ca6a0c4!8m2!3d21.4568026!4d80.2047584!16s%2Fg%2F12hn57ffx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gynacologist-in-gondia-rani-avantibai-square",
@@ -3214,7 +3241,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/GYNACOLOGIST+IN+GONDIA/@21.4549876,80.1963287,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafe59813551f:0x8bbf7c3f27d50abd!8m2!3d21.4549876!4d80.1963287!16s%2Fg%2F11pyjr3029?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GYNACOLOGIST+IN+GONDIA/@21.4549876,80.1963287,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafe59813551f:0x8bbf7c3f27d50abd!8m2!3d21.4549876!4d80.1963287!16s%2Fg%2F11pyjr3029?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3280,10 +3307,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GYNACOLOGIST+IN+GONDIA/@21.4549876,80.1963287,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafe59813551f:0x8bbf7c3f27d50abd!8m2!3d21.4549876!4d80.1963287!16s%2Fg%2F11pyjr3029?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healing-hands-critical-care-hospital-gondia-katangikala",
@@ -3331,7 +3359,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Healing+Hands+Critical+Care+Hospital+Gondia/@21.472515,80.197405,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf7cbaa47719:0x984ba33cff639016!8m2!3d21.472515!4d80.197405!16s%2Fg%2F11fpg7s1yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healing+Hands+Critical+Care+Hospital+Gondia/@21.472515,80.197405,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf7cbaa47719:0x984ba33cff639016!8m2!3d21.472515!4d80.197405!16s%2Fg%2F11fpg7s1yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3397,10 +3425,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healing+Hands+Critical+Care+Hospital+Gondia/@21.472515,80.197405,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf7cbaa47719:0x984ba33cff639016!8m2!3d21.472515!4d80.197405!16s%2Fg%2F11fpg7s1yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hitanshi-homoeopathy-clinic-gondia",
@@ -3450,7 +3479,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hitanshi+Homoeopathy+Clinic/@21.4669975,80.1964866,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf7a52ce1425:0xe40b22f4c23a604d!8m2!3d21.4669975!4d80.1964866!16s%2Fg%2F11j3pyq3h6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hitanshi+Homoeopathy+Clinic/@21.4669975,80.1964866,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf7a52ce1425:0xe40b22f4c23a604d!8m2!3d21.4669975!4d80.1964866!16s%2Fg%2F11j3pyq3h6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3519,7 +3548,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hitanshi+Homoeopathy+Clinic/@21.4669975,80.1964866,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf7a52ce1425:0xe40b22f4c23a604d!8m2!3d21.4669975!4d80.1964866!16s%2Fg%2F11j3pyq3h6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jaipuriya-nursing-home-gondia",
@@ -3567,7 +3597,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Jaipuriya+Nursing+Home/@21.456398,80.2032623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baebbef23f44f:0x2588292801e83f96!8m2!3d21.456398!4d80.2032623!16s%2Fg%2F1tdckcww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaipuriya+Nursing+Home/@21.456398,80.2032623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baebbef23f44f:0x2588292801e83f96!8m2!3d21.456398!4d80.2032623!16s%2Fg%2F1tdckcww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3636,7 +3666,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jaipuriya+Nursing+Home/@21.456398,80.2032623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baebbef23f44f:0x2588292801e83f96!8m2!3d21.456398!4d80.2032623!16s%2Fg%2F1tdckcww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jaiswal-dental-clinic-and-implant-center-kudwa",
@@ -3685,7 +3716,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jaiswal+Dental+Clinic+and+Implant+Center./@21.472862,80.195409,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2badeefad72cf3:0x4b038dc95a9e8bce!8m2!3d21.472862!4d80.195409!16s%2Fg%2F11jj_tzfb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaiswal+Dental+Clinic+and+Implant+Center./@21.472862,80.195409,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2badeefad72cf3:0x4b038dc95a9e8bce!8m2!3d21.472862!4d80.195409!16s%2Fg%2F11jj_tzfb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3754,7 +3785,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jaiswal+Dental+Clinic+and+Implant+Center./@21.472862,80.195409,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2badeefad72cf3:0x4b038dc95a9e8bce!8m2!3d21.472862!4d80.195409!16s%2Fg%2F11jj_tzfb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "k-t-s-general-hospital-gondia-gondia",
@@ -3802,7 +3834,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/K.T.S.+General+Hospital,+Gondia/@21.4576356,80.1955268,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb1049c16e3:0xc4b92fda2cba4ae!8m2!3d21.4576356!4d80.1955268!16s%2Fg%2F1tnpcvpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K.T.S.+General+Hospital,+Gondia/@21.4576356,80.1955268,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb1049c16e3:0xc4b92fda2cba4ae!8m2!3d21.4576356!4d80.1955268!16s%2Fg%2F1tnpcvpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3871,7 +3903,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/K.T.S.+General+Hospital,+Gondia/@21.4576356,80.1955268,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb1049c16e3:0xc4b92fda2cba4ae!8m2!3d21.4576356!4d80.1955268!16s%2Fg%2F1tnpcvpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "karlekar-gynaecology-hospital-mama-chowk",
@@ -3919,7 +3952,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Karlekar+Gynaecology+Hospital/@21.4558804,80.2107337,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bae95e284a9a1:0xb854e2de1f7e2121!8m2!3d21.4558804!4d80.2107337!16s%2Fg%2F11c57kbh68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karlekar+Gynaecology+Hospital/@21.4558804,80.2107337,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bae95e284a9a1:0xb854e2de1f7e2121!8m2!3d21.4558804!4d80.2107337!16s%2Fg%2F11c57kbh68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3988,7 +4021,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Karlekar+Gynaecology+Hospital/@21.4558804,80.2107337,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bae95e284a9a1:0xb854e2de1f7e2121!8m2!3d21.4558804!4d80.2107337!16s%2Fg%2F11c57kbh68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "keshavbag-ayurvedic-neuro-spine-and-joint-hospital-gondia-kudwa",
@@ -4040,7 +4074,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Keshavbag+Ayurvedic+Neuro+Spine+And+Joint+Hospital+Gondia/@21.4642065,80.1893793,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2ba765a1287ed9:0xa5639f0e8911e9d!8m2!3d21.4642065!4d80.1893793!16s%2Fg%2F11f616k3gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Keshavbag+Ayurvedic+Neuro+Spine+And+Joint+Hospital+Gondia/@21.4642065,80.1893793,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2ba765a1287ed9:0xa5639f0e8911e9d!8m2!3d21.4642065!4d80.1893793!16s%2Fg%2F11f616k3gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4109,7 +4143,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Keshavbag+Ayurvedic+Neuro+Spine+And+Joint+Hospital+Gondia/@21.4642065,80.1893793,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2ba765a1287ed9:0xa5639f0e8911e9d!8m2!3d21.4642065!4d80.1893793!16s%2Fg%2F11f616k3gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kidney-plus-clinics-kolkata-kolkata",
@@ -4160,7 +4195,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/@22.4917711,88.3740256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/@22.4917711,88.3740256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4229,7 +4264,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/@22.4917711,88.3740256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "know-your-kidney-kolkata",
@@ -4280,7 +4316,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/@22.5215923,88.3962895,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/@22.5215923,88.3962895,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4346,10 +4382,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/@22.5215923,88.3962895,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kokilaben-hospital-cancer-centre-gondia-dawwa",
@@ -4398,7 +4435,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kokilaben+Hospital+Cancer+Centre,+Gondia/@21.406514,80.1913799,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2ba5dfb4521871:0x2ad6b85d56c8afdf!8m2!3d21.406514!4d80.1913799!16s%2Fg%2F11gvzsxc42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kokilaben+Hospital+Cancer+Centre,+Gondia/@21.406514,80.1913799,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2ba5dfb4521871:0x2ad6b85d56c8afdf!8m2!3d21.406514!4d80.1913799!16s%2Fg%2F11gvzsxc42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4467,7 +4504,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kokilaben+Hospital+Cancer+Centre,+Gondia/@21.406514,80.1913799,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2ba5dfb4521871:0x2ad6b85d56c8afdf!8m2!3d21.406514!4d80.1913799!16s%2Fg%2F11gvzsxc42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kothari-child-and-dental-clinic-gondia",
@@ -4516,7 +4554,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Kothari+Child+and+Dental+Clinic/@21.4584844,80.1931529,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb7e8dff0a5:0xe662ff0e940dcd91!8m2!3d21.4584844!4d80.1931529!16s%2Fg%2F11f3n8jlbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kothari+Child+and+Dental+Clinic/@21.4584844,80.1931529,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb7e8dff0a5:0xe662ff0e940dcd91!8m2!3d21.4584844!4d80.1931529!16s%2Fg%2F11f3n8jlbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4585,7 +4623,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kothari+Child+and+Dental+Clinic/@21.4584844,80.1931529,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb7e8dff0a5:0xe662ff0e940dcd91!8m2!3d21.4584844!4d80.1931529!16s%2Fg%2F11f3n8jlbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kridha-dental-care-gondia",
@@ -4634,7 +4673,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KRIDHA+DENTAL+CARE/@21.4576809,80.203132,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf006ddadca9:0xe9fdf56211eb44e3!8m2!3d21.4576809!4d80.203132!16s%2Fg%2F11xkq5sb48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KRIDHA+DENTAL+CARE/@21.4576809,80.203132,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf006ddadca9:0xe9fdf56211eb44e3!8m2!3d21.4576809!4d80.203132!16s%2Fg%2F11xkq5sb48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4700,10 +4739,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KRIDHA+DENTAL+CARE/@21.4576809,80.203132,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf006ddadca9:0xe9fdf56211eb44e3!8m2!3d21.4576809!4d80.203132!16s%2Fg%2F11xkq5sb48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kt-children-s-and-family-dental-clinic-gondia",
@@ -4752,7 +4792,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/KT+Children's+and+Family+Dental+Clinic/@21.4578854,80.2015389,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafd91762019f:0x7f5c78712eff1086!8m2!3d21.4578854!4d80.2015389!16s%2Fg%2F11y08qf2v6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KT+Children's+and+Family+Dental+Clinic/@21.4578854,80.2015389,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafd91762019f:0x7f5c78712eff1086!8m2!3d21.4578854!4d80.2015389!16s%2Fg%2F11y08qf2v6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4818,10 +4858,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KT+Children's+and+Family+Dental+Clinic/@21.4578854,80.2015389,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafd91762019f:0x7f5c78712eff1086!8m2!3d21.4578854!4d80.2015389!16s%2Fg%2F11y08qf2v6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lsk-homoeopathic-clinic-gondia",
@@ -4869,7 +4910,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/LSK+Homoeopathic+clinic/@21.456937,80.20535,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf72264ad6db:0x5e942c452569a823!8m2!3d21.456937!4d80.20535!16s%2Fg%2F11grc85pf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LSK+Homoeopathic+clinic/@21.456937,80.20535,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf72264ad6db:0x5e942c452569a823!8m2!3d21.456937!4d80.20535!16s%2Fg%2F11grc85pf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4938,7 +4979,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LSK+Homoeopathic+clinic/@21.456937,80.20535,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf72264ad6db:0x5e942c452569a823!8m2!3d21.456937!4d80.20535!16s%2Fg%2F11grc85pf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhav-bone-care-hospital-kudwa",
@@ -4987,7 +5029,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Madhav+Bone+Care+Hospital/@21.4699349,80.1879979,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baff01e2b93b7:0x4e73b0b27b3f2e8d!8m2!3d21.4699349!4d80.1879979!16s%2Fg%2F11stvg7r03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhav+Bone+Care+Hospital/@21.4699349,80.1879979,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baff01e2b93b7:0x4e73b0b27b3f2e8d!8m2!3d21.4699349!4d80.1879979!16s%2Fg%2F11stvg7r03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5053,10 +5095,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhav+Bone+Care+Hospital/@21.4699349,80.1879979,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baff01e2b93b7:0x4e73b0b27b3f2e8d!8m2!3d21.4699349!4d80.1879979!16s%2Fg%2F11stvg7r03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-gondia-gondia",
@@ -5103,7 +5146,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Madhavbaug+Ayurvedic+Cardiac+Care+Clinic+(Gondia)/@21.4724161,80.2024682,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2a531b268b6f7d:0xff7da3d90cd061e9!8m2!3d21.4724161!4d80.2024682!16s%2Fg%2F11zb3dr2hg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+Ayurvedic+Cardiac+Care+Clinic+(Gondia)/@21.4724161,80.2024682,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2a531b268b6f7d:0xff7da3d90cd061e9!8m2!3d21.4724161!4d80.2024682!16s%2Fg%2F11zb3dr2hg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5169,10 +5212,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+Ayurvedic+Cardiac+Care+Clinic+(Gondia)/@21.4724161,80.2024682,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2a531b268b6f7d:0xff7da3d90cd061e9!8m2!3d21.4724161!4d80.2024682!16s%2Fg%2F11zb3dr2hg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-gandhi-chowk-gondia",
@@ -5222,7 +5266,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Gandhi+Chowk/@21.455655,80.19375,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafa5d065ca8d:0x7ae82975412faa8a!8m2!3d21.455655!4d80.19375!16s%2Fg%2F11m6z3vb50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Gandhi+Chowk/@21.455655,80.19375,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafa5d065ca8d:0x7ae82975412faa8a!8m2!3d21.455655!4d80.19375!16s%2Fg%2F11m6z3vb50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5291,7 +5335,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Gandhi+Chowk/@21.455655,80.19375,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafa5d065ca8d:0x7ae82975412faa8a!8m2!3d21.455655!4d80.19375!16s%2Fg%2F11m6z3vb50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mua-pali-manisha-beauty-parlor-makeup-and-nail-artist-gondia-kudwa",
@@ -5340,7 +5385,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Mua+Pali+Manisha+%7C+Beauty+Parlor+%7C+Makeup+%26+Nail+Artist+%7C+Gondia/@21.4694976,80.1890704,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeaae1cc27e5:0x75aa42d5b1260199!8m2!3d21.4694976!4d80.1890704!16s%2Fg%2F11d_bb5yqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mua+Pali+Manisha+%7C+Beauty+Parlor+%7C+Makeup+%26+Nail+Artist+%7C+Gondia/@21.4694976,80.1890704,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeaae1cc27e5:0x75aa42d5b1260199!8m2!3d21.4694976!4d80.1890704!16s%2Fg%2F11d_bb5yqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5409,7 +5454,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mua+Pali+Manisha+%7C+Beauty+Parlor+%7C+Makeup+%26+Nail+Artist+%7C+Gondia/@21.4694976,80.1890704,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeaae1cc27e5:0x75aa42d5b1260199!8m2!3d21.4694976!4d80.1890704!16s%2Fg%2F11d_bb5yqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "naidu-dental-clinic-gondia",
@@ -5455,7 +5501,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Naidu+Dental+Clinic/@21.4638963,80.1925031,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf96f875d639:0xc05d7b020713ab8f!8m2!3d21.4638963!4d80.1925031!16s%2Fg%2F11rr13d8yt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naidu+Dental+Clinic/@21.4638963,80.1925031,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf96f875d639:0xc05d7b020713ab8f!8m2!3d21.4638963!4d80.1925031!16s%2Fg%2F11rr13d8yt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5521,10 +5567,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Naidu+Dental+Clinic/@21.4638963,80.1925031,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf96f875d639:0xc05d7b020713ab8f!8m2!3d21.4638963!4d80.1925031!16s%2Fg%2F11rr13d8yt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nakade-dental-clinic-gondia",
@@ -5573,7 +5620,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Nakade+Dental+Clinic/@21.4558627,80.2068849,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafe1a473a8f9:0x5b3f9130af1ab458!8m2!3d21.4558627!4d80.2068849!16s%2Fg%2F11kj9824j8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nakade+Dental+Clinic/@21.4558627,80.2068849,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafe1a473a8f9:0x5b3f9130af1ab458!8m2!3d21.4558627!4d80.2068849!16s%2Fg%2F11kj9824j8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5639,10 +5686,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nakade+Dental+Clinic/@21.4558627,80.2068849,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafe1a473a8f9:0x5b3f9130af1ab458!8m2!3d21.4558627!4d80.2068849!16s%2Fg%2F11kj9824j8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephro-care-kolkata",
@@ -5692,7 +5740,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nephro+Care/@22.5688589,88.4117295,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephro+Care/@22.5688589,88.4117295,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5761,7 +5809,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nephro+Care/@22.5688589,88.4117295,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephron-kidney-hospital-nagpur",
@@ -5811,7 +5860,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nephron+Kidney+Hospital/@21.1405408,79.0854237,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd4c101eb82c07b:0x3203da36f94fd33d!8m2!3d21.1405408!4d79.0854237!16s%2Fg%2F11q227thxw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephron+Kidney+Hospital/@21.1405408,79.0854237,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd4c101eb82c07b:0x3203da36f94fd33d!8m2!3d21.1405408!4d79.0854237!16s%2Fg%2F11q227thxw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5880,7 +5929,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nephron+Kidney+Hospital/@21.1405408,79.0854237,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd4c101eb82c07b:0x3203da36f94fd33d!8m2!3d21.1405408!4d79.0854237!16s%2Fg%2F11q227thxw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neuroplus-clinic-gondia",
@@ -5929,7 +5979,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/NEUROPLUS+CLINIC/@21.4551498,80.1930102,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf42b69768dd:0x9e13697f694aca66!8m2!3d21.4551498!4d80.1930102!16s%2Fg%2F11n16t4tky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEUROPLUS+CLINIC/@21.4551498,80.1930102,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf42b69768dd:0x9e13697f694aca66!8m2!3d21.4551498!4d80.1930102!16s%2Fg%2F11n16t4tky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5998,7 +6048,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEUROPLUS+CLINIC/@21.4551498,80.1930102,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf42b69768dd:0x9e13697f694aca66!8m2!3d21.4551498!4d80.1930102!16s%2Fg%2F11n16t4tky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-gondia-hospital-gondia",
@@ -6046,7 +6097,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/New+Gondia+Hospital/@21.448637,80.200303,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf894cbcc819:0xff9b6dd8bd7e4aa1!8m2!3d21.448637!4d80.200303!16s%2Fg%2F11g2363g98?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Gondia+Hospital/@21.448637,80.200303,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf894cbcc819:0xff9b6dd8bd7e4aa1!8m2!3d21.448637!4d80.200303!16s%2Fg%2F11g2363g98?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6115,7 +6166,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Gondia+Hospital/@21.448637,80.200303,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf894cbcc819:0xff9b6dd8bd7e4aa1!8m2!3d21.448637!4d80.200303!16s%2Fg%2F11g2363g98?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nidan-diagnostic-clinical-laboratory-best-diagnostic-center-in-gondia-best-laboratory-in-gondia-best-pathalogy-gondia",
@@ -6165,7 +6217,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nidan+Diagnostic+Clinical+Laboratory+-+Best+Diagnostic+Center+In+Gondia+%7C+Best+Laboratory+In+Gondia+%7C+Best+Pathalogy/@21.4639141,80.199438,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2badabfb32cf67:0xae2cba06e19d788b!8m2!3d21.4639141!4d80.199438!16s%2Fg%2F11fj48hx7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nidan+Diagnostic+Clinical+Laboratory+-+Best+Diagnostic+Center+In+Gondia+%7C+Best+Laboratory+In+Gondia+%7C+Best+Pathalogy/@21.4639141,80.199438,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2badabfb32cf67:0xae2cba06e19d788b!8m2!3d21.4639141!4d80.199438!16s%2Fg%2F11fj48hx7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6234,7 +6286,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nidan+Diagnostic+Clinical+Laboratory+-+Best+Diagnostic+Center+In+Gondia+%7C+Best+Laboratory+In+Gondia+%7C+Best+Pathalogy/@21.4639141,80.199438,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2badabfb32cf67:0xae2cba06e19d788b!8m2!3d21.4639141!4d80.199438!16s%2Fg%2F11fj48hx7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nkpc-kidney-clinic-kolkata",
@@ -6284,7 +6337,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6353,7 +6406,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "osteon-trauma-hospital-gondia-fulchur-tola",
@@ -6401,7 +6455,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Osteon+Trauma+Hospital+Gondia/@21.4419074,80.203083,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baec469880f03:0x40d6b37168c0f78a!8m2!3d21.4419074!4d80.203083!16s%2Fg%2F11cr_qmq99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Osteon+Trauma+Hospital+Gondia/@21.4419074,80.203083,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baec469880f03:0x40d6b37168c0f78a!8m2!3d21.4419074!4d80.203083!16s%2Fg%2F11cr_qmq99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6470,7 +6524,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Osteon+Trauma+Hospital+Gondia/@21.4419074,80.203083,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baec469880f03:0x40d6b37168c0f78a!8m2!3d21.4419074!4d80.203083!16s%2Fg%2F11cr_qmq99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patanjali-mega-store-gondia",
@@ -6519,7 +6574,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Patanjali+Mega+Store/@21.4445421,80.2018529,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baec68dd8140f:0x9db4bfd24838e38b!8m2!3d21.4445421!4d80.2018529!16s%2Fg%2F11g8cx3s5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patanjali+Mega+Store/@21.4445421,80.2018529,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baec68dd8140f:0x9db4bfd24838e38b!8m2!3d21.4445421!4d80.2018529!16s%2Fg%2F11g8cx3s5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6588,7 +6643,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patanjali+Mega+Store/@21.4445421,80.2018529,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baec68dd8140f:0x9db4bfd24838e38b!8m2!3d21.4445421!4d80.2018529!16s%2Fg%2F11g8cx3s5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patle-maternity-and-children-hospital-gondia",
@@ -6637,7 +6693,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Patle+MATERNITY+AND+CHILDREN+HOSPITAL/@21.4732363,80.1903401,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bac0032b4a919:0xc75e2bbbd8910765!8m2!3d21.4732363!4d80.1903401!16s%2Fg%2F11fy4v2h3l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patle+MATERNITY+AND+CHILDREN+HOSPITAL/@21.4732363,80.1903401,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bac0032b4a919:0xc75e2bbbd8910765!8m2!3d21.4732363!4d80.1903401!16s%2Fg%2F11fy4v2h3l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6706,7 +6762,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patle+MATERNITY+AND+CHILDREN+HOSPITAL/@21.4732363,80.1903401,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bac0032b4a919:0xc75e2bbbd8910765!8m2!3d21.4732363!4d80.1903401!16s%2Fg%2F11fy4v2h3l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "precision-imaging-point-gondia-sonography-and-xray-centre-gondia",
@@ -6753,7 +6810,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Precision+Imaging+Point+Gondia+-+Sonography+and+Xray+Centre/@21.4581494,80.1986624,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf362265a781:0x969e477d82fb2ef6!8m2!3d21.4581494!4d80.1986624!16s%2Fg%2F11rfrsvlk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Precision+Imaging+Point+Gondia+-+Sonography+and+Xray+Centre/@21.4581494,80.1986624,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf362265a781:0x969e477d82fb2ef6!8m2!3d21.4581494!4d80.1986624!16s%2Fg%2F11rfrsvlk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6819,10 +6876,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Precision+Imaging+Point+Gondia+-+Sonography+and+Xray+Centre/@21.4581494,80.1986624,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf362265a781:0x969e477d82fb2ef6!8m2!3d21.4581494!4d80.1986624!16s%2Fg%2F11rfrsvlk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "purnima-dental-clinic-gondia-maharashtra-katangikala",
@@ -6870,7 +6928,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Purnima+dental+clinic+Gondia+Maharashtra/@21.472663,80.2023582,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf86eaa8fe95:0x7ae611b44098bb36!8m2!3d21.472663!4d80.2023582!16s%2Fg%2F11ss79jcp6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Purnima+dental+clinic+Gondia+Maharashtra/@21.472663,80.2023582,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf86eaa8fe95:0x7ae611b44098bb36!8m2!3d21.472663!4d80.2023582!16s%2Fg%2F11ss79jcp6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6939,7 +6997,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Purnima+dental+clinic+Gondia+Maharashtra/@21.472663,80.2023582,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf86eaa8fe95:0x7ae611b44098bb36!8m2!3d21.472663!4d80.2023582!16s%2Fg%2F11ss79jcp6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rani-avantibai-hospital-gondia-gondia",
@@ -6988,7 +7047,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rani+Avantibai+Hospital,+Gondia/@21.4668107,80.1999029,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2a530b3e49ef9f:0x9777191d18866628!8m2!3d21.4668107!4d80.1999029!16s%2Fg%2F11zj5tn0jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rani+Avantibai+Hospital,+Gondia/@21.4668107,80.1999029,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2a530b3e49ef9f:0x9777191d18866628!8m2!3d21.4668107!4d80.1999029!16s%2Fg%2F11zj5tn0jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7057,7 +7116,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rani+Avantibai+Hospital,+Gondia/@21.4668107,80.1999029,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2a530b3e49ef9f:0x9777191d18866628!8m2!3d21.4668107!4d80.1999029!16s%2Fg%2F11zj5tn0jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samarth-ivf-fertility-center-best-ivf-center-in-gondia-gondia",
@@ -7107,7 +7167,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Gondia/@21.4534118,80.1992199,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baff0512d0575:0xad49dd4707eb0e6d!8m2!3d21.4534118!4d80.1992199!16s%2Fg%2F11m6kygwrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Gondia/@21.4534118,80.1992199,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baff0512d0575:0xad49dd4707eb0e6d!8m2!3d21.4534118!4d80.1992199!16s%2Fg%2F11m6kygwrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7176,7 +7236,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Gondia/@21.4534118,80.1992199,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baff0512d0575:0xad49dd4707eb0e6d!8m2!3d21.4534118!4d80.1992199!16s%2Fg%2F11m6kygwrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjeevani-ayurved-hospital-gondia",
@@ -7224,7 +7285,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeevani+Ayurved+Hospital/@21.4533671,80.1826891,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bb913f72ef12d:0x6337bc6eea548eae!8m2!3d21.4533671!4d80.1826891!16s%2Fg%2F11sgczmdlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Ayurved+Hospital/@21.4533671,80.1826891,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bb913f72ef12d:0x6337bc6eea548eae!8m2!3d21.4533671!4d80.1826891!16s%2Fg%2F11sgczmdlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7290,10 +7351,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeevani+Ayurved+Hospital/@21.4533671,80.1826891,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bb913f72ef12d:0x6337bc6eea548eae!8m2!3d21.4533671!4d80.1826891!16s%2Fg%2F11sgczmdlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "satyam-ortho-hospital-kudwa",
@@ -7342,7 +7404,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Satyam+Ortho+Hospital/@21.4678185,80.1969532,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafcb5247146f:0x9d91fa7ad0223857!8m2!3d21.4678185!4d80.1969532!16s%2Fg%2F11g22yr7yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satyam+Ortho+Hospital/@21.4678185,80.1969532,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafcb5247146f:0x9d91fa7ad0223857!8m2!3d21.4678185!4d80.1969532!16s%2Fg%2F11g22yr7yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7411,7 +7473,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Satyam+Ortho+Hospital/@21.4678185,80.1969532,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafcb5247146f:0x9d91fa7ad0223857!8m2!3d21.4678185!4d80.1969532!16s%2Fg%2F11g22yr7yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shah-diagnostics-and-dental-care-gondia",
@@ -7460,7 +7523,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Shah+Diagnostics+And+Dental+Care/@21.4532656,80.1970534,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafa23b66f299:0x1449d345566efff9!8m2!3d21.4532656!4d80.1970534!16s%2Fg%2F11y45ws5gq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shah+Diagnostics+And+Dental+Care/@21.4532656,80.1970534,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafa23b66f299:0x1449d345566efff9!8m2!3d21.4532656!4d80.1970534!16s%2Fg%2F11y45ws5gq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7529,7 +7592,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shah+Diagnostics+And+Dental+Care/@21.4532656,80.1970534,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafa23b66f299:0x1449d345566efff9!8m2!3d21.4532656!4d80.1970534!16s%2Fg%2F11y45ws5gq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shanti-care-ent-hospital-gondia-gondia",
@@ -7577,7 +7641,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Shanti+Care+ENT+Hospital,+Gondia/@21.4725436,80.1887775,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bad90eb859747:0xfbb0916c4dacca1c!8m2!3d21.4725436!4d80.1887775!16s%2Fg%2F11shp15zwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+Care+ENT+Hospital,+Gondia/@21.4725436,80.1887775,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bad90eb859747:0xfbb0916c4dacca1c!8m2!3d21.4725436!4d80.1887775!16s%2Fg%2F11shp15zwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7646,7 +7710,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanti+Care+ENT+Hospital,+Gondia/@21.4725436,80.1887775,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bad90eb859747:0xfbb0916c4dacca1c!8m2!3d21.4725436!4d80.1887775!16s%2Fg%2F11shp15zwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shanti-care-hospital-gondia-gondia",
@@ -7696,7 +7761,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shanti+Care+Hospital+Gondia/@21.4725297,80.1887761,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafc292c1d011:0xf30eb65279041cc8!8m2!3d21.4725297!4d80.1887761!16s%2Fg%2F11khs4hsmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+Care+Hospital+Gondia/@21.4725297,80.1887761,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafc292c1d011:0xf30eb65279041cc8!8m2!3d21.4725297!4d80.1887761!16s%2Fg%2F11khs4hsmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7765,7 +7830,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanti+Care+Hospital+Gondia/@21.4725297,80.1887761,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafc292c1d011:0xf30eb65279041cc8!8m2!3d21.4725297!4d80.1887761!16s%2Fg%2F11khs4hsmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivayu-piles-and-dental-hospital-gondia",
@@ -7813,7 +7879,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shivayu+Piles+and+Dental+Hospital/@21.4730492,80.1968763,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf007cbfe1d9:0x67a1196047d8326f!8m2!3d21.4730492!4d80.1968763!16s%2Fg%2F11xrhpck75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivayu+Piles+and+Dental+Hospital/@21.4730492,80.1968763,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf007cbfe1d9:0x67a1196047d8326f!8m2!3d21.4730492!4d80.1968763!16s%2Fg%2F11xrhpck75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7879,10 +7945,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivayu+Piles+and+Dental+Hospital/@21.4730492,80.1968763,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf007cbfe1d9:0x67a1196047d8326f!8m2!3d21.4730492!4d80.1968763!16s%2Fg%2F11xrhpck75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-clinic-gondia",
@@ -7928,7 +7995,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Shree+Clinic/@21.4641128,80.1994991,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baea577d01343:0x8e064b18c67c488d!8m2!3d21.4641128!4d80.1994991!16s%2Fg%2F11f0l3z7sl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Clinic/@21.4641128,80.1994991,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baea577d01343:0x8e064b18c67c488d!8m2!3d21.4641128!4d80.1994991!16s%2Fg%2F11f0l3z7sl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7994,10 +8061,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Clinic/@21.4641128,80.1994991,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baea577d01343:0x8e064b18c67c488d!8m2!3d21.4641128!4d80.1994991!16s%2Fg%2F11f0l3z7sl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-physiotherapy-clinic-gondia",
@@ -8045,7 +8113,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Physiotherapy+Clinic/@21.4585566,80.2016857,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baebba51966c3:0xf151e101a852b4d3!8m2!3d21.4585566!4d80.2016857!16s%2Fg%2F11g732v0f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Physiotherapy+Clinic/@21.4585566,80.2016857,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baebba51966c3:0xf151e101a852b4d3!8m2!3d21.4585566!4d80.2016857!16s%2Fg%2F11g732v0f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8114,7 +8182,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Physiotherapy+Clinic/@21.4585566,80.2016857,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baebba51966c3:0xf151e101a852b4d3!8m2!3d21.4585566!4d80.2016857!16s%2Fg%2F11g732v0f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-radhe-krishna-critical-hospital-gondia",
@@ -8162,7 +8231,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Radhe+Krishna+Critical+Hospital/@21.457877,80.2121416,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bae965bbd5931:0x758d075081bae72e!8m2!3d21.457877!4d80.2121416!16s%2Fg%2F11hb72kvj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Radhe+Krishna+Critical+Hospital/@21.457877,80.2121416,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bae965bbd5931:0x758d075081bae72e!8m2!3d21.457877!4d80.2121416!16s%2Fg%2F11hb72kvj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8228,10 +8297,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Radhe+Krishna+Critical+Hospital/@21.457877,80.2121416,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bae965bbd5931:0x758d075081bae72e!8m2!3d21.457877!4d80.2121416!16s%2Fg%2F11hb72kvj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-kmj-memorial-hospital-and-research-centre-gondia",
@@ -8279,7 +8349,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Shri+KMJ+Memorial+Hospital+And+Research+Centre/@21.4503114,80.201988,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb8904261d1:0xaecc83e45a8485d!8m2!3d21.4503114!4d80.201988!16s%2Fg%2F1td0lfd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+KMJ+Memorial+Hospital+And+Research+Centre/@21.4503114,80.201988,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb8904261d1:0xaecc83e45a8485d!8m2!3d21.4503114!4d80.201988!16s%2Fg%2F1td0lfd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8348,7 +8418,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+KMJ+Memorial+Hospital+And+Research+Centre/@21.4503114,80.201988,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeb8904261d1:0xaecc83e45a8485d!8m2!3d21.4503114!4d80.201988!16s%2Fg%2F1td0lfd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-lahari-poly-clinic-and-skin-care-clinic-batana",
@@ -8397,7 +8468,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Lahari+Poly+Clinic+%26+Skin+Care+Clinic/@21.499805,80.254435,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bad4eea1be943:0xb8eb426bbc32f371!8m2!3d21.499805!4d80.254435!16s%2Fg%2F11vzqgzfh4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Lahari+Poly+Clinic+%26+Skin+Care+Clinic/@21.499805,80.254435,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bad4eea1be943:0xb8eb426bbc32f371!8m2!3d21.499805!4d80.254435!16s%2Fg%2F11vzqgzfh4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8463,10 +8534,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Lahari+Poly+Clinic+%26+Skin+Care+Clinic/@21.499805,80.254435,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bad4eea1be943:0xb8eb426bbc32f371!8m2!3d21.499805!4d80.254435!16s%2Fg%2F11vzqgzfh4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shubh-hospital-gondia-gondia",
@@ -8514,7 +8586,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Shubh+Hospital+gondia/@21.4673255,80.1981699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf6b236eee3d:0xba562b6ebc8ab757!8m2!3d21.4673255!4d80.1981699!16s%2Fg%2F11mhkvrbbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubh+Hospital+gondia/@21.4673255,80.1981699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf6b236eee3d:0xba562b6ebc8ab757!8m2!3d21.4673255!4d80.1981699!16s%2Fg%2F11mhkvrbbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8583,7 +8655,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shubh+Hospital+gondia/@21.4673255,80.1981699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf6b236eee3d:0xba562b6ebc8ab757!8m2!3d21.4673255!4d80.1981699!16s%2Fg%2F11mhkvrbbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shukla-mulitspeciality-dental-clinic-and-implant-centre-best-dental-clinic-in-gondia-gondia",
@@ -8633,7 +8706,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shukla+mulitspeciality+dental+clinic+and+implant+centre%28BEST+DENTAL+CLINIC+IN+GONDIA%29/data=!4m7!3m6!1s0x3a2baea9d50b20c1:0x2b873dfb3d0d9721!8m2!3d21.4603354!4d80.1961805!16s%2Fg%2F11f553csyd!19sChIJwSAL1amuKzoRIZcNPfs9hys?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shukla+mulitspeciality+dental+clinic+and+implant+centre%28BEST+DENTAL+CLINIC+IN+GONDIA%29/data=!4m7!3m6!1s0x3a2baea9d50b20c1:0x2b873dfb3d0d9721!8m2!3d21.4603354!4d80.1961805!16s%2Fg%2F11f553csyd!19sChIJwSAL1amuKzoRIZcNPfs9hys?authuser=0&hl=en&rclk=1"
@@ -8699,10 +8772,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shukla+mulitspeciality+dental+clinic+and+implant+centre%28BEST+DENTAL+CLINIC+IN+GONDIA%29/data=!4m7!3m6!1s0x3a2baea9d50b20c1:0x2b873dfb3d0d9721!8m2!3d21.4603354!4d80.1961805!16s%2Fg%2F11f553csyd!19sChIJwSAL1amuKzoRIZcNPfs9hys?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "skinhealth-clinic-gondia-kudwa",
@@ -8751,7 +8825,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SKINHEALTH+CLINIC+GONDIA/@21.472082,80.1940638,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf001c3c8f6b:0x734bac0557e77372!8m2!3d21.472082!4d80.1940638!16s%2Fg%2F11zhmzgwjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SKINHEALTH+CLINIC+GONDIA/@21.472082,80.1940638,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf001c3c8f6b:0x734bac0557e77372!8m2!3d21.472082!4d80.1940638!16s%2Fg%2F11zhmzgwjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8817,10 +8891,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SKINHEALTH+CLINIC+GONDIA/@21.472082,80.1940638,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baf001c3c8f6b:0x734bac0557e77372!8m2!3d21.472082!4d80.1940638!16s%2Fg%2F11zhmzgwjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "somani-dental-clinic-family-dental-care-for-kids-and-adults-in-gondia-best-dental-clinic-in-gondia-best-dentist-gondia",
@@ -8869,7 +8944,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Somani+Dental+Clinic+%7C+Family+Dental+Care+for+Kids+%26+Adults+in+Gondia+%7C+Best+Dental+Clinic+In+Gondia+%7C+Best+Dentist/@21.4580704,80.1988147,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafdedc0514ff:0x315f55ffc7080ff8!8m2!3d21.4580704!4d80.1988147!16s%2Fg%2F11fklx5lyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Somani+Dental+Clinic+%7C+Family+Dental+Care+for+Kids+%26+Adults+in+Gondia+%7C+Best+Dental+Clinic+In+Gondia+%7C+Best+Dentist/@21.4580704,80.1988147,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafdedc0514ff:0x315f55ffc7080ff8!8m2!3d21.4580704!4d80.1988147!16s%2Fg%2F11fklx5lyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8938,7 +9013,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Somani+Dental+Clinic+%7C+Family+Dental+Care+for+Kids+%26+Adults+in+Gondia+%7C+Best+Dental+Clinic+In+Gondia+%7C+Best+Dentist/@21.4580704,80.1988147,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafdedc0514ff:0x315f55ffc7080ff8!8m2!3d21.4580704!4d80.1988147!16s%2Fg%2F11fklx5lyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "somani-nursing-home-childrens-hospital-gondia",
@@ -8987,7 +9063,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Somani+Nursing+Home+,+Childrens+Hospital/@21.4586803,80.2000202,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafe9febd0527:0xb3f9e7aa58a4709f!8m2!3d21.4586803!4d80.2000202!16s%2Fg%2F11h6djcc56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Somani+Nursing+Home+,+Childrens+Hospital/@21.4586803,80.2000202,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafe9febd0527:0xb3f9e7aa58a4709f!8m2!3d21.4586803!4d80.2000202!16s%2Fg%2F11h6djcc56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9056,7 +9132,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Somani+Nursing+Home+,+Childrens+Hospital/@21.4586803,80.2000202,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2bafe9febd0527:0xb3f9e7aa58a4709f!8m2!3d21.4586803!4d80.2000202!16s%2Fg%2F11h6djcc56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sonare-dental-clinic-gondia",
@@ -9105,7 +9182,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sonare+Dental+Clinic/@21.466927,80.197745,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeaf4cc523a9:0x1e80049d56cbacb7!8m2!3d21.466927!4d80.197745!16s%2Fg%2F11scm25bhf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sonare+Dental+Clinic/@21.466927,80.197745,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeaf4cc523a9:0x1e80049d56cbacb7!8m2!3d21.466927!4d80.197745!16s%2Fg%2F11scm25bhf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9171,10 +9248,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sonare+Dental+Clinic/@21.466927,80.197745,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeaf4cc523a9:0x1e80049d56cbacb7!8m2!3d21.466927!4d80.197745!16s%2Fg%2F11scm25bhf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-nursing-home-gondia",
@@ -9222,7 +9300,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Nursing+Home/@21.4658082,80.1908029,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeac60c7c559:0x1b50ae782bc9e647!8m2!3d21.4658082!4d80.1908029!16s%2Fg%2F11ckqn89tc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Nursing+Home/@21.4658082,80.1908029,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeac60c7c559:0x1b50ae782bc9e647!8m2!3d21.4658082!4d80.1908029!16s%2Fg%2F11ckqn89tc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9291,7 +9369,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Nursing+Home/@21.4658082,80.1908029,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeac60c7c559:0x1b50ae782bc9e647!8m2!3d21.4658082!4d80.1908029!16s%2Fg%2F11ckqn89tc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surya-nursing-home-dr-anshuman-chauhan-gondia-gondia",
@@ -9339,7 +9418,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/SURYA+NURSING+HOME(Dr+Anshuman+Chauhan)+Gondia/@21.4641066,80.1886662,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeacdc8fce81:0x92a034149b509dac!8m2!3d21.4641066!4d80.1886662!16s%2Fg%2F11h9xv89l9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SURYA+NURSING+HOME(Dr+Anshuman+Chauhan)+Gondia/@21.4641066,80.1886662,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeacdc8fce81:0x92a034149b509dac!8m2!3d21.4641066!4d80.1886662!16s%2Fg%2F11h9xv89l9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9408,7 +9487,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SURYA+NURSING+HOME(Dr+Anshuman+Chauhan)+Gondia/@21.4641066,80.1886662,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2baeacdc8fce81:0x92a034149b509dac!8m2!3d21.4641066!4d80.1886662!16s%2Fg%2F11h9xv89l9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -9458,7 +9538,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9524,10 +9604,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tirale-dental-clinic-deori",
@@ -9575,7 +9656,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Tirale+Dental+Clinic/@21.0657424,80.3679598,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2b934a47ca7919:0x35e0d816414943f!8m2!3d21.0657424!4d80.3679598!16s%2Fg%2F11jrk8qzhj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tirale+Dental+Clinic/@21.0657424,80.3679598,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2b934a47ca7919:0x35e0d816414943f!8m2!3d21.0657424!4d80.3679598!16s%2Fg%2F11jrk8qzhj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9644,7 +9725,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tirale+Dental+Clinic/@21.0657424,80.3679598,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2b934a47ca7919:0x35e0d816414943f!8m2!3d21.0657424!4d80.3679598!16s%2Fg%2F11jrk8qzhj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vaishnavi-nursing-home-kudwa",
@@ -9693,7 +9775,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Vaishnavi+Nursing+Home/@21.4635047,80.1860228,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2ba92505198a6d:0xa309f84b609bd89!8m2!3d21.4635047!4d80.1860228!16s%2Fg%2F11hf9v_4dn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaishnavi+Nursing+Home/@21.4635047,80.1860228,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2ba92505198a6d:0xa309f84b609bd89!8m2!3d21.4635047!4d80.1860228!16s%2Fg%2F11hf9v_4dn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9762,6 +9844,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vaishnavi+Nursing+Home/@21.4635047,80.1860228,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2ba92505198a6d:0xa309f84b609bd89!8m2!3d21.4635047!4d80.1860228!16s%2Fg%2F11hf9v_4dn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

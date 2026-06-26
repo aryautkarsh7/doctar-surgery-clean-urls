@@ -46,7 +46,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aayush+Hospital+-+Junagadh/@21.5248341,70.4317788,17z/data=!3m1!4b1!4m6!3m5!1s0x395801ffe7a3cb4f:0x714a7baebd5a75b6!8m2!3d21.5248341!4d70.4317788!16s%2Fg%2F11c3tg6x6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aayush+Hospital+-+Junagadh/@21.5248341,70.4317788,17z/data=!3m1!4b1!4m6!3m5!1s0x395801ffe7a3cb4f:0x714a7baebd5a75b6!8m2!3d21.5248341!4d70.4317788!16s%2Fg%2F11c3tg6x6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aayush+Hospital+-+Junagadh/@21.5248341,70.4317788,17z/data=!3m1!4b1!4m6!3m5!1s0x395801ffe7a3cb4f:0x714a7baebd5a75b6!8m2!3d21.5248341!4d70.4317788!16s%2Fg%2F11c3tg6x6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aditya-ortho-pain-and-neuro-spine-clinic-junagadh",
@@ -166,7 +167,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Aditya+Ortho.Pain+%26+Neuro-Spine+Clinic/@21.5150625,70.4590625,17z/data=!3m1!4b1!4m6!3m5!1s0x39580193b153639b:0xb407b67fa587ad27!8m2!3d21.5150625!4d70.4590625!16s%2Fg%2F11b6hyq6wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditya+Ortho.Pain+%26+Neuro-Spine+Clinic/@21.5150625,70.4590625,17z/data=!3m1!4b1!4m6!3m5!1s0x39580193b153639b:0xb407b67fa587ad27!8m2!3d21.5150625!4d70.4590625!16s%2Fg%2F11b6hyq6wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -235,7 +236,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aditya+Ortho.Pain+%26+Neuro-Spine+Clinic/@21.5150625,70.4590625,17z/data=!3m1!4b1!4m6!3m5!1s0x39580193b153639b:0xb407b67fa587ad27!8m2!3d21.5150625!4d70.4590625!16s%2Fg%2F11b6hyq6wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "agravat-hospital-junagadh",
@@ -283,7 +285,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Agravat+Hospital/@21.5333506,70.4463456,17z/data=!3m1!4b1!4m6!3m5!1s0x3958021c7daa9425:0x33ebb85c1f2b075a!8m2!3d21.5333506!4d70.4463456!16s%2Fg%2F11hd1qrsnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agravat+Hospital/@21.5333506,70.4463456,17z/data=!3m1!4b1!4m6!3m5!1s0x3958021c7daa9425:0x33ebb85c1f2b075a!8m2!3d21.5333506!4d70.4463456!16s%2Fg%2F11hd1qrsnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -349,10 +351,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Agravat+Hospital/@21.5333506,70.4463456,17z/data=!3m1!4b1!4m6!3m5!1s0x3958021c7daa9425:0x33ebb85c1f2b075a!8m2!3d21.5333506!4d70.4463456!16s%2Fg%2F11hd1qrsnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "akshar-dental-clinic-junagadh-junagadh",
@@ -401,7 +404,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Akshar+Dental+Clinic+-+Junagadh/@21.5220781,70.4554784,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018cb5f9fc95:0x4e80e16b5ebe437b!8m2!3d21.5220781!4d70.4554784!16s%2Fg%2F1hjgzbv61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akshar+Dental+Clinic+-+Junagadh/@21.5220781,70.4554784,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018cb5f9fc95:0x4e80e16b5ebe437b!8m2!3d21.5220781!4d70.4554784!16s%2Fg%2F1hjgzbv61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -470,7 +473,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Akshar+Dental+Clinic+-+Junagadh/@21.5220781,70.4554784,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018cb5f9fc95:0x4e80e16b5ebe437b!8m2!3d21.5220781!4d70.4554784!16s%2Fg%2F1hjgzbv61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "akshar-hospital-zanzarda-chowakdi",
@@ -518,7 +522,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Akshar+Hospital/@21.5183135,70.4317001,17z/data=!3m1!4b1!4m6!3m5!1s0x3958030001115be7:0xfd05372705dce183!8m2!3d21.5183135!4d70.4317001!16s%2Fg%2F11wc2xlv_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akshar+Hospital/@21.5183135,70.4317001,17z/data=!3m1!4b1!4m6!3m5!1s0x3958030001115be7:0xfd05372705dce183!8m2!3d21.5183135!4d70.4317001!16s%2Fg%2F11wc2xlv_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -587,7 +591,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Akshar+Hospital/@21.5183135,70.4317001,17z/data=!3m1!4b1!4m6!3m5!1s0x3958030001115be7:0xfd05372705dce183!8m2!3d21.5183135!4d70.4317001!16s%2Fg%2F11wc2xlv_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "avadh-icu-and-gynec-hospital-junagadh",
@@ -635,7 +640,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Avadh+ICU+%26+Gynec+Hospital/@21.5233911,70.4558811,17z/data=!3m1!4b1!4m6!3m5!1s0x395801b812084927:0xfa7661059c39b3a!8m2!3d21.5233911!4d70.4558811!16s%2Fg%2F11fr4c9bnv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avadh+ICU+%26+Gynec+Hospital/@21.5233911,70.4558811,17z/data=!3m1!4b1!4m6!3m5!1s0x395801b812084927:0xfa7661059c39b3a!8m2!3d21.5233911!4d70.4558811!16s%2Fg%2F11fr4c9bnv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -704,7 +709,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Avadh+ICU+%26+Gynec+Hospital/@21.5233911,70.4558811,17z/data=!3m1!4b1!4m6!3m5!1s0x395801b812084927:0xfa7661059c39b3a!8m2!3d21.5233911!4d70.4558811!16s%2Fg%2F11fr4c9bnv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "avyukt-hospital-junagadh-junagadh",
@@ -752,7 +758,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/avyukt+hospital+junagadh/@21.5239822,70.4332953,17z/data=!3m1!4b1!4m6!3m5!1s0x395801454d5d2fff:0x5072a3b3fa559d7b!8m2!3d21.5239822!4d70.4332953!16s%2Fg%2F11rptgj3t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/avyukt+hospital+junagadh/@21.5239822,70.4332953,17z/data=!3m1!4b1!4m6!3m5!1s0x395801454d5d2fff:0x5072a3b3fa559d7b!8m2!3d21.5239822!4d70.4332953!16s%2Fg%2F11rptgj3t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -821,7 +827,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/avyukt+hospital+junagadh/@21.5239822,70.4332953,17z/data=!3m1!4b1!4m6!3m5!1s0x395801454d5d2fff:0x5072a3b3fa559d7b!8m2!3d21.5239822!4d70.4332953!16s%2Fg%2F11rptgj3t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cambridge-hospital-junagadh",
@@ -870,7 +877,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Cambridge+Hospital/@21.5502486,70.4564202,17z/data=!3m1!4b1!4m6!3m5!1s0x395803d1639de6e7:0x995be79e5ea7f9f9!8m2!3d21.5502486!4d70.4564202!16s%2Fg%2F11wv22nvcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cambridge+Hospital/@21.5502486,70.4564202,17z/data=!3m1!4b1!4m6!3m5!1s0x395803d1639de6e7:0x995be79e5ea7f9f9!8m2!3d21.5502486!4d70.4564202!16s%2Fg%2F11wv22nvcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -936,10 +943,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cambridge+Hospital/@21.5502486,70.4564202,17z/data=!3m1!4b1!4m6!3m5!1s0x395803d1639de6e7:0x995be79e5ea7f9f9!8m2!3d21.5502486!4d70.4564202!16s%2Fg%2F11wv22nvcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chapadia-medical-hospital-diabetes-clinic-and-full-body-check-up-junagadh",
@@ -988,7 +996,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Chapadia+Medical+Hospital,+Diabetes+Clinic+%26+Full+Body+Check-up/data=!4m7!3m6!1s0x3958018cb671fc2b:0x68dbcaea4a597b49!8m2!3d21.5222561!4d70.4555098!16s%2Fg%2F1vgqbgyl!19sChIJK_xxtowBWDkRSXtZSurK22g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chapadia+Medical+Hospital,+Diabetes+Clinic+%26+Full+Body+Check-up/data=!4m7!3m6!1s0x3958018cb671fc2b:0x68dbcaea4a597b49!8m2!3d21.5222561!4d70.4555098!16s%2Fg%2F1vgqbgyl!19sChIJK_xxtowBWDkRSXtZSurK22g?authuser=0&hl=en&rclk=1"
@@ -1057,7 +1065,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chapadia+Medical+Hospital,+Diabetes+Clinic+%26+Full+Body+Check-up/data=!4m7!3m6!1s0x3958018cb671fc2b:0x68dbcaea4a597b49!8m2!3d21.5222561!4d70.4555098!16s%2Fg%2F1vgqbgyl!19sChIJK_xxtowBWDkRSXtZSurK22g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chemotherapy-and-palliative-ward-no-802-civil-hospital-junagadh-junagadh",
@@ -1106,7 +1115,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/CHEMOTHERAPY+AND+PALLIATIVE+WARD+NO+802+CIVIL+HOSPITAL+JUNAGADH/@21.5355299,70.4637294,17z/data=!3m1!4b1!4m6!3m5!1s0x39580393c4eebb1d:0x23dba04583783bec!8m2!3d21.5355299!4d70.4637294!16s%2Fg%2F11rrqdl0wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CHEMOTHERAPY+AND+PALLIATIVE+WARD+NO+802+CIVIL+HOSPITAL+JUNAGADH/@21.5355299,70.4637294,17z/data=!3m1!4b1!4m6!3m5!1s0x39580393c4eebb1d:0x23dba04583783bec!8m2!3d21.5355299!4d70.4637294!16s%2Fg%2F11rrqdl0wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1175,7 +1184,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CHEMOTHERAPY+AND+PALLIATIVE+WARD+NO+802+CIVIL+HOSPITAL+JUNAGADH/@21.5355299,70.4637294,17z/data=!3m1!4b1!4m6!3m5!1s0x39580393c4eebb1d:0x23dba04583783bec!8m2!3d21.5355299!4d70.4637294!16s%2Fg%2F11rrqdl0wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-heart-hospital-junagadh",
@@ -1224,7 +1234,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/City+Heart+Hospital/data=!4m7!3m6!1s0x3957f88b3ad1d489:0x87455b94fd22418d!8m2!3d21.5236119!4d70.4555888!16s%2Fg%2F11nwx862jw!19sChIJidTROov4VzkRjUEi_ZRbRYc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Heart+Hospital/data=!4m7!3m6!1s0x3957f88b3ad1d489:0x87455b94fd22418d!8m2!3d21.5236119!4d70.4555888!16s%2Fg%2F11nwx862jw!19sChIJidTROov4VzkRjUEi_ZRbRYc?authuser=0&hl=en&rclk=1"
@@ -1293,7 +1303,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Heart+Hospital/data=!4m7!3m6!1s0x3957f88b3ad1d489:0x87455b94fd22418d!8m2!3d21.5236119!4d70.4555888!16s%2Fg%2F11nwx862jw!19sChIJidTROov4VzkRjUEi_ZRbRYc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "city-hospital-aurthopedic-junagadh",
@@ -1339,7 +1350,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/City+hospital+aurthopedic/@21.521225,70.4504634,17z/data=!3m1!4b1!4m6!3m5!1s0x395801002f02eda3:0xea9df8ad29555cde!8m2!3d21.521225!4d70.4504634!16s%2Fg%2F11wwf7qbqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+hospital+aurthopedic/@21.521225,70.4504634,17z/data=!3m1!4b1!4m6!3m5!1s0x395801002f02eda3:0xea9df8ad29555cde!8m2!3d21.521225!4d70.4504634!16s%2Fg%2F11wwf7qbqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1405,10 +1416,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+hospital+aurthopedic/@21.521225,70.4504634,17z/data=!3m1!4b1!4m6!3m5!1s0x395801002f02eda3:0xea9df8ad29555cde!8m2!3d21.521225!4d70.4504634!16s%2Fg%2F11wwf7qbqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "civil-hospital-junagadh",
@@ -1456,7 +1468,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Civil+Hospital/data=!4m7!3m6!1s0x3958018db7fc6e9d:0x760070ff8fcd548f!8m2!3d21.5339329!4d70.4623932!16s%2Fg%2F1td4hh_h!19sChIJnW78t40BWDkRj1TNj_9wAHY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Civil+Hospital/data=!4m7!3m6!1s0x3958018db7fc6e9d:0x760070ff8fcd548f!8m2!3d21.5339329!4d70.4623932!16s%2Fg%2F1td4hh_h!19sChIJnW78t40BWDkRj1TNj_9wAHY?authuser=0&hl=en&rclk=1"
@@ -1525,7 +1537,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Civil+Hospital/data=!4m7!3m6!1s0x3958018db7fc6e9d:0x760070ff8fcd548f!8m2!3d21.5339329!4d70.4623932!16s%2Fg%2F1td4hh_h!19sChIJnW78t40BWDkRj1TNj_9wAHY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "deep-surgical-hospital-junagadh",
@@ -1571,7 +1584,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Deep+Surgical+Hospital/data=!4m7!3m6!1s0x3958018cf44b569d:0x8595baad76b2c48a!8m2!3d21.5221349!4d70.4578015!16s%2Fg%2F11mxn2dxkj!19sChIJnVZL9IwBWDkRisSydq26lYU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deep+Surgical+Hospital/data=!4m7!3m6!1s0x3958018cf44b569d:0x8595baad76b2c48a!8m2!3d21.5221349!4d70.4578015!16s%2Fg%2F11mxn2dxkj!19sChIJnVZL9IwBWDkRisSydq26lYU?authuser=0&hl=en&rclk=1"
@@ -1637,10 +1650,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deep+Surgical+Hospital/data=!4m7!3m6!1s0x3958018cf44b569d:0x8595baad76b2c48a!8m2!3d21.5221349!4d70.4578015!16s%2Fg%2F11mxn2dxkj!19sChIJnVZL9IwBWDkRisSydq26lYU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dobaria-gynec-hospital-junagadh",
@@ -1688,7 +1702,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Dobaria+Gynec+Hospital/data=!4m7!3m6!1s0x3958015788b0a8cb:0x14af10140512982!8m2!3d21.5259877!4d70.4333778!16s%2Fg%2F11wp54yy8v!19sChIJy6iwiFcBWDkRgilRQAHxSgE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dobaria+Gynec+Hospital/data=!4m7!3m6!1s0x3958015788b0a8cb:0x14af10140512982!8m2!3d21.5259877!4d70.4333778!16s%2Fg%2F11wp54yy8v!19sChIJy6iwiFcBWDkRgilRQAHxSgE?authuser=0&hl=en&rclk=1"
@@ -1757,7 +1771,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dobaria+Gynec+Hospital/data=!4m7!3m6!1s0x3958015788b0a8cb:0x14af10140512982!8m2!3d21.5259877!4d70.4333778!16s%2Fg%2F11wp54yy8v!19sChIJy6iwiFcBWDkRgilRQAHxSgE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "earth-test-tube-baby-centre-and-gynec-hospital-junagadh",
@@ -1806,7 +1821,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Earth+Test+Tube+Baby+Centre+%26+Gynec+Hospital/data=!4m7!3m6!1s0x395801f10b07c349:0xb75cfdab9fff8cf6!8m2!3d21.5202677!4d70.4314229!16s%2Fg%2F11c466j0z7!19sChIJScMHC_EBWDkR9oz_n6v9XLc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Earth+Test+Tube+Baby+Centre+%26+Gynec+Hospital/data=!4m7!3m6!1s0x395801f10b07c349:0xb75cfdab9fff8cf6!8m2!3d21.5202677!4d70.4314229!16s%2Fg%2F11c466j0z7!19sChIJScMHC_EBWDkR9oz_n6v9XLc?authuser=0&hl=en&rclk=1"
@@ -1875,7 +1890,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Earth+Test+Tube+Baby+Centre+%26+Gynec+Hospital/data=!4m7!3m6!1s0x395801f10b07c349:0xb75cfdab9fff8cf6!8m2!3d21.5202677!4d70.4314229!16s%2Fg%2F11c466j0z7!19sChIJScMHC_EBWDkR9oz_n6v9XLc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "esthe-kayakalp-skin-hair-laser-and-hair-transplant-clinic-junagadh-junagadh",
@@ -1923,7 +1939,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/ESTHE+Kayakalp+Skin+Hair+Laser+%26+Hair+Transplant+Clinic+Junagadh/@21.5199515,70.4318828,17z/data=!3m1!4b1!4m6!3m5!1s0x395801f318e38fdf:0xe1ee396f7db310bc!8m2!3d21.5199515!4d70.4318828!16s%2Fg%2F11c2pc4b9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ESTHE+Kayakalp+Skin+Hair+Laser+%26+Hair+Transplant+Clinic+Junagadh/@21.5199515,70.4318828,17z/data=!3m1!4b1!4m6!3m5!1s0x395801f318e38fdf:0xe1ee396f7db310bc!8m2!3d21.5199515!4d70.4318828!16s%2Fg%2F11c2pc4b9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1992,7 +2008,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ESTHE+Kayakalp+Skin+Hair+Laser+%26+Hair+Transplant+Clinic+Junagadh/@21.5199515,70.4318828,17z/data=!3m1!4b1!4m6!3m5!1s0x395801f318e38fdf:0xe1ee396f7db310bc!8m2!3d21.5199515!4d70.4318828!16s%2Fg%2F11c2pc4b9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fatima-dental-and-facial-surgery-hospital-junagadh",
@@ -2041,7 +2058,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Fatima+Dental+and+Facial+Surgery+Hospital/@21.5235305,70.4600871,17z/data=!3m1!4b1!4m6!3m5!1s0x395801a2dd1bd959:0x2941481c5ec0e29a!8m2!3d21.5235305!4d70.4600871!16s%2Fg%2F11fn0mvr8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fatima+Dental+and+Facial+Surgery+Hospital/@21.5235305,70.4600871,17z/data=!3m1!4b1!4m6!3m5!1s0x395801a2dd1bd959:0x2941481c5ec0e29a!8m2!3d21.5235305!4d70.4600871!16s%2Fg%2F11fn0mvr8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2110,7 +2127,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fatima+Dental+and+Facial+Surgery+Hospital/@21.5235305,70.4600871,17z/data=!3m1!4b1!4m6!3m5!1s0x395801a2dd1bd959:0x2941481c5ec0e29a!8m2!3d21.5235305!4d70.4600871!16s%2Fg%2F11fn0mvr8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gajera-hospital-and-icu-vision-complex-zanzarda-cross-roads",
@@ -2159,7 +2177,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gajera+Hospital+%26+ICU/@21.5232736,70.4329212,17z/data=!3m1!4b1!4m6!3m5!1s0x395801fb5d68acd3:0xa599596c304cb5cb!8m2!3d21.5232736!4d70.4329212!16s%2Fg%2F11h7z8lgw5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gajera+Hospital+%26+ICU/@21.5232736,70.4329212,17z/data=!3m1!4b1!4m6!3m5!1s0x395801fb5d68acd3:0xa599596c304cb5cb!8m2!3d21.5232736!4d70.4329212!16s%2Fg%2F11h7z8lgw5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2225,10 +2243,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gajera+Hospital+%26+ICU/@21.5232736,70.4329212,17z/data=!3m1!4b1!4m6!3m5!1s0x395801fb5d68acd3:0xa599596c304cb5cb!8m2!3d21.5232736!4d70.4329212!16s%2Fg%2F11h7z8lgw5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ganatra-dental-hospital-junagadh",
@@ -2276,7 +2295,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Ganatra+Dental+Hospital/@21.5189241,70.4592476,17z/data=!3m1!4b1!4m6!3m5!1s0x3958019216c82bc1:0xb06d8273bf4ad94!8m2!3d21.5189241!4d70.4592476!16s%2Fg%2F1tmqk58p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganatra+Dental+Hospital/@21.5189241,70.4592476,17z/data=!3m1!4b1!4m6!3m5!1s0x3958019216c82bc1:0xb06d8273bf4ad94!8m2!3d21.5189241!4d70.4592476!16s%2Fg%2F1tmqk58p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2345,7 +2364,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ganatra+Dental+Hospital/@21.5189241,70.4592476,17z/data=!3m1!4b1!4m6!3m5!1s0x3958019216c82bc1:0xb06d8273bf4ad94!8m2!3d21.5189241!4d70.4592476!16s%2Fg%2F1tmqk58p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gayatri-clinic-junagadh",
@@ -2393,7 +2413,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Gayatri+Clinic/@21.5401076,70.4541894,17z/data=!3m1!4b1!4m6!3m5!1s0x3958039afeaf59e7:0x275dab7418b2b708!8m2!3d21.5401076!4d70.4541894!16s%2Fg%2F11g2slwlgf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayatri+Clinic/@21.5401076,70.4541894,17z/data=!3m1!4b1!4m6!3m5!1s0x3958039afeaf59e7:0x275dab7418b2b708!8m2!3d21.5401076!4d70.4541894!16s%2Fg%2F11g2slwlgf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2459,10 +2479,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gayatri+Clinic/@21.5401076,70.4541894,17z/data=!3m1!4b1!4m6!3m5!1s0x3958039afeaf59e7:0x275dab7418b2b708!8m2!3d21.5401076!4d70.4541894!16s%2Fg%2F11g2slwlgf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gdp-junagadh-junagadh",
@@ -2509,7 +2530,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/GDP+JUNAGADH/@21.6068488,70.4067438,17z/data=!3m1!4b1!4m6!3m5!1s0x3957f947f6addff3:0x5f7eebdcc379e93c!8m2!3d21.6068488!4d70.4067438!16s%2Fg%2F11tc8s3yv9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GDP+JUNAGADH/@21.6068488,70.4067438,17z/data=!3m1!4b1!4m6!3m5!1s0x3957f947f6addff3:0x5f7eebdcc379e93c!8m2!3d21.6068488!4d70.4067438!16s%2Fg%2F11tc8s3yv9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2575,10 +2596,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GDP+JUNAGADH/@21.6068488,70.4067438,17z/data=!3m1!4b1!4m6!3m5!1s0x3957f947f6addff3:0x5f7eebdcc379e93c!8m2!3d21.6068488!4d70.4067438!16s%2Fg%2F11tc8s3yv9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gokul-gynec-hospital-junagadh",
@@ -2627,7 +2649,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gokul+Gynec+Hospital/data=!4m7!3m6!1s0x3958019bf1c2673d:0x3c4a2f10e6d4943!8m2!3d21.5209649!4d70.4491357!16s%2Fg%2F11qnjh_k_x!19sChIJPWfC8ZsBWDkRQ0ltDvGixAM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gokul+Gynec+Hospital/data=!4m7!3m6!1s0x3958019bf1c2673d:0x3c4a2f10e6d4943!8m2!3d21.5209649!4d70.4491357!16s%2Fg%2F11qnjh_k_x!19sChIJPWfC8ZsBWDkRQ0ltDvGixAM?authuser=0&hl=en&rclk=1"
@@ -2696,7 +2718,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gokul+Gynec+Hospital/data=!4m7!3m6!1s0x3958019bf1c2673d:0x3c4a2f10e6d4943!8m2!3d21.5209649!4d70.4491357!16s%2Fg%2F11qnjh_k_x!19sChIJPWfC8ZsBWDkRQ0ltDvGixAM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hari-kala-uro-surgical-hospital-junagadh",
@@ -2742,7 +2765,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Hari+Kala+Uro+Surgical+Hospital/@21.524051,70.459902,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018c0a1b6d29:0x6bcfff29d54c712c!8m2!3d21.524051!4d70.459902!16s%2Fg%2F11f7j_s6fd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hari+Kala+Uro+Surgical+Hospital/@21.524051,70.459902,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018c0a1b6d29:0x6bcfff29d54c712c!8m2!3d21.524051!4d70.459902!16s%2Fg%2F11f7j_s6fd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2808,10 +2831,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hari+Kala+Uro+Surgical+Hospital/@21.524051,70.459902,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018c0a1b6d29:0x6bcfff29d54c712c!8m2!3d21.524051!4d70.459902!16s%2Fg%2F11f7j_s6fd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "harikala-urosurgical-nursing-home-junagadh",
@@ -2858,7 +2882,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Harikala+Urosurgical+Nursing+Home/@21.5221347,70.4578015,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0xbbcb415c967ce5c!8m2!3d21.5221347!4d70.4578015!16s%2Fg%2F1thx6_j5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Harikala+Urosurgical+Nursing+Home/@21.5221347,70.4578015,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0xbbcb415c967ce5c!8m2!3d21.5221347!4d70.4578015!16s%2Fg%2F1thx6_j5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2924,10 +2948,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Harikala+Urosurgical+Nursing+Home/@21.5221347,70.4578015,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0xbbcb415c967ce5c!8m2!3d21.5221347!4d70.4578015!16s%2Fg%2F1thx6_j5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hatkesh-hospital-physiotherapy-center-junagadh",
@@ -2975,7 +3000,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Hatkesh+hospital+physiotherapy+center/data=!4m7!3m6!1s0x39580194102fd45f:0x8bce5d8e0436f92e!8m2!3d21.5116893!4d70.4603806!16s%2Fg%2F1trpp5gh!19sChIJX9QvEJQBWDkRLvk2BI5dzos?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hatkesh+hospital+physiotherapy+center/data=!4m7!3m6!1s0x39580194102fd45f:0x8bce5d8e0436f92e!8m2!3d21.5116893!4d70.4603806!16s%2Fg%2F1trpp5gh!19sChIJX9QvEJQBWDkRLvk2BI5dzos?authuser=0&hl=en&rclk=1"
@@ -3044,7 +3069,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hatkesh+hospital+physiotherapy+center/data=!4m7!3m6!1s0x39580194102fd45f:0x8bce5d8e0436f92e!8m2!3d21.5116893!4d70.4603806!16s%2Fg%2F1trpp5gh!19sChIJX9QvEJQBWDkRLvk2BI5dzos?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "himalaya-cancer-hospital-vadal",
@@ -3093,7 +3119,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Himalaya+cancer+hospital/data=!4m7!3m6!1s0x395803db0746cd5b:0xe583425d4a1bd3ef!8m2!3d21.6053531!4d70.4931639!16s%2Fg%2F11fjyx6_3_!19sChIJW81GB9sDWDkR79MbSl1Cg-U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Himalaya+cancer+hospital/data=!4m7!3m6!1s0x395803db0746cd5b:0xe583425d4a1bd3ef!8m2!3d21.6053531!4d70.4931639!16s%2Fg%2F11fjyx6_3_!19sChIJW81GB9sDWDkR79MbSl1Cg-U?authuser=0&hl=en&rclk=1"
@@ -3162,7 +3188,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Himalaya+cancer+hospital/data=!4m7!3m6!1s0x395803db0746cd5b:0xe583425d4a1bd3ef!8m2!3d21.6053531!4d70.4931639!16s%2Fg%2F11fjyx6_3_!19sChIJW81GB9sDWDkR79MbSl1Cg-U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hiramani-hospital-junagadh",
@@ -3210,7 +3237,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Hiramani+Hospital/@21.5359522,70.4491056,17z/data=!3m1!4b1!4m6!3m5!1s0x395803b5ae355f01:0x4712860fdd1262c6!8m2!3d21.5359522!4d70.4491056!16s%2Fg%2F11qm_qzlhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hiramani+Hospital/@21.5359522,70.4491056,17z/data=!3m1!4b1!4m6!3m5!1s0x395803b5ae355f01:0x4712860fdd1262c6!8m2!3d21.5359522!4d70.4491056!16s%2Fg%2F11qm_qzlhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3276,10 +3303,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hiramani+Hospital/@21.5359522,70.4491056,17z/data=!3m1!4b1!4m6!3m5!1s0x395803b5ae355f01:0x4712860fdd1262c6!8m2!3d21.5359522!4d70.4491056!16s%2Fg%2F11qm_qzlhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hirpara-dental-clinic-best-dentist-in-junagadh-dental-clinic-in-junagadh-junagadh",
@@ -3328,7 +3356,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hirpara+Dental+Clinic+%7C+Best+Dentist+in+Junagadh+%7C+Dental+Clinic+in+Junagadh/@21.5222606,70.4557431,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018cb8f50227:0x9d5f87691eaedf3c!8m2!3d21.5222606!4d70.4557431!16s%2Fg%2F11c60m7ct6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hirpara+Dental+Clinic+%7C+Best+Dentist+in+Junagadh+%7C+Dental+Clinic+in+Junagadh/@21.5222606,70.4557431,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018cb8f50227:0x9d5f87691eaedf3c!8m2!3d21.5222606!4d70.4557431!16s%2Fg%2F11c60m7ct6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3397,7 +3425,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hirpara+Dental+Clinic+%7C+Best+Dentist+in+Junagadh+%7C+Dental+Clinic+in+Junagadh/@21.5222606,70.4557431,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018cb8f50227:0x9d5f87691eaedf3c!8m2!3d21.5222606!4d70.4557431!16s%2Fg%2F11c60m7ct6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hospital-junagadh",
@@ -3443,7 +3472,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/hospital/@21.5311608,70.4496657,17z/data=!3m1!4b1!4m6!3m5!1s0x395803fe869370cb:0x2203b0f9a32e1c60!8m2!3d21.5311608!4d70.4496657!16s%2Fg%2F11w_rjsbvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/hospital/@21.5311608,70.4496657,17z/data=!3m1!4b1!4m6!3m5!1s0x395803fe869370cb:0x2203b0f9a32e1c60!8m2!3d21.5311608!4d70.4496657!16s%2Fg%2F11w_rjsbvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3509,10 +3538,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/hospital/@21.5311608,70.4496657,17z/data=!3m1!4b1!4m6!3m5!1s0x395803fe869370cb:0x2203b0f9a32e1c60!8m2!3d21.5311608!4d70.4496657!16s%2Fg%2F11w_rjsbvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "k-j-nidan-kendra-managed-by-shree-khimji-jamnadas-chhatrala-charitable-trust-junagadh",
@@ -3561,7 +3591,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/K+J+NIDAN+KENDRA+MANAGED+BY+SHREE+KHIMJI+JAMNADAS+CHHATRALA+CHARITABLE+TRUST/@21.5237854,70.4567009,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018b6037b243:0x1e44d91cd764e57c!8m2!3d21.5237854!4d70.4567009!16s%2Fg%2F11f3p116c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K+J+NIDAN+KENDRA+MANAGED+BY+SHREE+KHIMJI+JAMNADAS+CHHATRALA+CHARITABLE+TRUST/@21.5237854,70.4567009,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018b6037b243:0x1e44d91cd764e57c!8m2!3d21.5237854!4d70.4567009!16s%2Fg%2F11f3p116c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3630,7 +3660,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/K+J+NIDAN+KENDRA+MANAGED+BY+SHREE+KHIMJI+JAMNADAS+CHHATRALA+CHARITABLE+TRUST/@21.5237854,70.4567009,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018b6037b243:0x1e44d91cd764e57c!8m2!3d21.5237854!4d70.4567009!16s%2Fg%2F11f3p116c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalp-hospital-junagadh",
@@ -3678,7 +3709,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Kalp+Hospital/data=!4m7!3m6!1s0x3957ffc25840b30b:0xbc0a3b7c324cc08d!8m2!3d21.4991395!4d70.4201739!16s%2Fg%2F11vz3cvt8x!19sChIJC7NAWML_VzkRjcBMMnw7Crw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalp+Hospital/data=!4m7!3m6!1s0x3957ffc25840b30b:0xbc0a3b7c324cc08d!8m2!3d21.4991395!4d70.4201739!16s%2Fg%2F11vz3cvt8x!19sChIJC7NAWML_VzkRjcBMMnw7Crw?authuser=0&hl=en&rclk=1"
@@ -3747,7 +3778,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalp+Hospital/data=!4m7!3m6!1s0x3957ffc25840b30b:0xbc0a3b7c324cc08d!8m2!3d21.4991395!4d70.4201739!16s%2Fg%2F11vz3cvt8x!19sChIJC7NAWML_VzkRjcBMMnw7Crw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kanani-hospital-junagadh",
@@ -3795,7 +3827,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/kanani+hospital/data=!4m7!3m6!1s0x39580192de77ee57:0xd82700d913af9e63!8m2!3d21.5199303!4d70.4586351!16s%2Fg%2F11btz2zsyx!19sChIJV-533pIBWDkRY56vE9kAJ9g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/kanani+hospital/data=!4m7!3m6!1s0x39580192de77ee57:0xd82700d913af9e63!8m2!3d21.5199303!4d70.4586351!16s%2Fg%2F11btz2zsyx!19sChIJV-533pIBWDkRY56vE9kAJ9g?authuser=0&hl=en&rclk=1"
@@ -3864,7 +3896,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/kanani+hospital/data=!4m7!3m6!1s0x39580192de77ee57:0xd82700d913af9e63!8m2!3d21.5199303!4d70.4586351!16s%2Fg%2F11btz2zsyx!19sChIJV-533pIBWDkRY56vE9kAJ9g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kanani-maternity-home-junagadh",
@@ -3912,7 +3945,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kanani+Maternity+Home/data=!4m7!3m6!1s0x39580107a2a89ced:0xf9ae96e374bbacac!8m2!3d21.5199725!4d70.4587135!16s%2Fg%2F11kj09mk86!19sChIJ7ZyoogcBWDkRrKy7dOOWrvk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kanani+Maternity+Home/data=!4m7!3m6!1s0x39580107a2a89ced:0xf9ae96e374bbacac!8m2!3d21.5199725!4d70.4587135!16s%2Fg%2F11kj09mk86!19sChIJ7ZyoogcBWDkRrKy7dOOWrvk?authuser=0&hl=en&rclk=1"
@@ -3978,10 +4011,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kanani+Maternity+Home/data=!4m7!3m6!1s0x39580107a2a89ced:0xf9ae96e374bbacac!8m2!3d21.5199725!4d70.4587135!16s%2Fg%2F11kj09mk86!19sChIJ7ZyoogcBWDkRrKy7dOOWrvk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kaneriya-hospital-and-i-c-u-junagadh",
@@ -4029,7 +4063,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Kaneriya+Hospital+%26+I.C.U./@21.5208566,70.4527728,17z/data=!3m1!4b1!4m6!3m5!1s0x3958016d1b969909:0x14e33af47a5795a7!8m2!3d21.5208566!4d70.4527728!16s%2Fg%2F11fc2lgk6z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kaneriya+Hospital+%26+I.C.U./@21.5208566,70.4527728,17z/data=!3m1!4b1!4m6!3m5!1s0x3958016d1b969909:0x14e33af47a5795a7!8m2!3d21.5208566!4d70.4527728!16s%2Fg%2F11fc2lgk6z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4098,7 +4132,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kaneriya+Hospital+%26+I.C.U./@21.5208566,70.4527728,17z/data=!3m1!4b1!4m6!3m5!1s0x3958016d1b969909:0x14e33af47a5795a7!8m2!3d21.5208566!4d70.4527728!16s%2Fg%2F11fc2lgk6z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krishna-e-n-t-hospital-junagadh",
@@ -4146,7 +4181,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Krishna+E.N.T.+Hospital/data=!4m7!3m6!1s0x395801eb87b3ad1b:0x91d2b72aa9b463ab!8m2!3d21.5118807!4d70.4505643!16s%2Fg%2F11dxr352fl!19sChIJG62zh-sBWDkRq2O0qSq30pE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+E.N.T.+Hospital/data=!4m7!3m6!1s0x395801eb87b3ad1b:0x91d2b72aa9b463ab!8m2!3d21.5118807!4d70.4505643!16s%2Fg%2F11dxr352fl!19sChIJG62zh-sBWDkRq2O0qSq30pE?authuser=0&hl=en&rclk=1"
@@ -4212,10 +4247,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishna+E.N.T.+Hospital/data=!4m7!3m6!1s0x395801eb87b3ad1b:0x91d2b72aa9b463ab!8m2!3d21.5118807!4d70.4505643!16s%2Fg%2F11dxr352fl!19sChIJG62zh-sBWDkRq2O0qSq30pE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "life-line-surgical-and-fitness-junagadh",
@@ -4265,7 +4301,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/LIFE+LINE+SURGICAL+%26+FITNESS/@21.5207859,70.4515048,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0xb6af3c93ce3bcb3f!8m2!3d21.5207859!4d70.4515048!16s%2Fg%2F11bt_k1dy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LIFE+LINE+SURGICAL+%26+FITNESS/@21.5207859,70.4515048,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0xb6af3c93ce3bcb3f!8m2!3d21.5207859!4d70.4515048!16s%2Fg%2F11bt_k1dy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4331,10 +4367,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LIFE+LINE+SURGICAL+%26+FITNESS/@21.5207859,70.4515048,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0xb6af3c93ce3bcb3f!8m2!3d21.5207859!4d70.4515048!16s%2Fg%2F11bt_k1dy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "little-wings-hospital-junagadh",
@@ -4383,7 +4420,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Little+Wings+Hospital/@21.5241123,70.433354,17z/data=!3m1!4b1!4m6!3m5!1s0x3958016494f6c18d:0xd77cdc106e46ceea!8m2!3d21.5241123!4d70.433354!16s%2Fg%2F11jfcx5kyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Little+Wings+Hospital/@21.5241123,70.433354,17z/data=!3m1!4b1!4m6!3m5!1s0x3958016494f6c18d:0xd77cdc106e46ceea!8m2!3d21.5241123!4d70.433354!16s%2Fg%2F11jfcx5kyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4452,7 +4489,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Little+Wings+Hospital/@21.5241123,70.433354,17z/data=!3m1!4b1!4m6!3m5!1s0x3958016494f6c18d:0xd77cdc106e46ceea!8m2!3d21.5241123!4d70.433354!16s%2Fg%2F11jfcx5kyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangalam-ortho-care-sardarbaug",
@@ -4501,7 +4539,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mangalam+Ortho+Care/data=!4m7!3m6!1s0x3958018cf44b5f17:0x9c7f792802ff8fb4!8m2!3d21.5221347!4d70.4578015!16s%2Fg%2F11f3n1sj4x!19sChIJF19L9IwBWDkRtI__Aih5f5w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangalam+Ortho+Care/data=!4m7!3m6!1s0x3958018cf44b5f17:0x9c7f792802ff8fb4!8m2!3d21.5221347!4d70.4578015!16s%2Fg%2F11f3n1sj4x!19sChIJF19L9IwBWDkRtI__Aih5f5w?authuser=0&hl=en&rclk=1"
@@ -4567,10 +4605,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangalam+Ortho+Care/data=!4m7!3m6!1s0x3958018cf44b5f17:0x9c7f792802ff8fb4!8m2!3d21.5221347!4d70.4578015!16s%2Fg%2F11f3n1sj4x!19sChIJF19L9IwBWDkRtI__Aih5f5w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mendpara-bones-and-plastic-surgical-hospital-junagadh",
@@ -4619,7 +4658,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Mendpara+Bones+And+Plastic+Surgical+Hospital/@21.5214202,70.4524889,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0x912e3447682a37fd!8m2!3d21.5214202!4d70.4524889!16s%2Fg%2F1w110l75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mendpara+Bones+And+Plastic+Surgical+Hospital/@21.5214202,70.4524889,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0x912e3447682a37fd!8m2!3d21.5214202!4d70.4524889!16s%2Fg%2F1w110l75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4685,10 +4724,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mendpara+Bones+And+Plastic+Surgical+Hospital/@21.5214202,70.4524889,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0x912e3447682a37fd!8m2!3d21.5214202!4d70.4524889!16s%2Fg%2F1w110l75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neuro-nerurology-center-junagadh",
@@ -4737,7 +4777,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Neuro+Nerurology+Center/data=!4m7!3m6!1s0x395801d097c712cb:0x25e32696652a0a83!8m2!3d21.5233073!4d70.4324296!16s%2Fg%2F11nchy88l9!19sChIJyxLHl9ABWDkRgwoqZZYm4yU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuro+Nerurology+Center/data=!4m7!3m6!1s0x395801d097c712cb:0x25e32696652a0a83!8m2!3d21.5233073!4d70.4324296!16s%2Fg%2F11nchy88l9!19sChIJyxLHl9ABWDkRgwoqZZYm4yU?authuser=0&hl=en&rclk=1"
@@ -4803,10 +4843,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neuro+Nerurology+Center/data=!4m7!3m6!1s0x395801d097c712cb:0x25e32696652a0a83!8m2!3d21.5233073!4d70.4324296!16s%2Fg%2F11nchy88l9!19sChIJyxLHl9ABWDkRgwoqZZYm4yU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "newlifeicu-hospital-junagadh-junagadh",
@@ -4852,7 +4893,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/newlifeicu(hospital)+junagadh/@21.524138,70.4320793,17z/data=!3m1!4b1!4m6!3m5!1s0x395801ea4c7688bb:0xa552712c2a62c3bb!8m2!3d21.524138!4d70.4320793!16s%2Fg%2F11y9pmpp5z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/newlifeicu(hospital)+junagadh/@21.524138,70.4320793,17z/data=!3m1!4b1!4m6!3m5!1s0x395801ea4c7688bb:0xa552712c2a62c3bb!8m2!3d21.524138!4d70.4320793!16s%2Fg%2F11y9pmpp5z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4918,10 +4959,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/newlifeicu(hospital)+junagadh/@21.524138,70.4320793,17z/data=!3m1!4b1!4m6!3m5!1s0x395801ea4c7688bb:0xa552712c2a62c3bb!8m2!3d21.524138!4d70.4320793!16s%2Fg%2F11y9pmpp5z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nova-wings-ivf-fertility-clinic-best-ivf-center-in-junagadh-junagadh",
@@ -4971,7 +5013,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nova+-+Wings+IVF+Fertility+Clinic+-+Best+IVF+Center+in+Junagadh/data=!4m7!3m6!1s0x3958013b110c29c9:0x10b1e8ca5625afcf!8m2!3d21.518345!4d70.431573!16s%2Fg%2F11vwvcs4xk!19sChIJySkMETsBWDkRz68lVsrosRA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+-+Wings+IVF+Fertility+Clinic+-+Best+IVF+Center+in+Junagadh/data=!4m7!3m6!1s0x3958013b110c29c9:0x10b1e8ca5625afcf!8m2!3d21.518345!4d70.431573!16s%2Fg%2F11vwvcs4xk!19sChIJySkMETsBWDkRz68lVsrosRA?authuser=0&hl=en&rclk=1"
@@ -5037,10 +5079,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nova+-+Wings+IVF+Fertility+Clinic+-+Best+IVF+Center+in+Junagadh/data=!4m7!3m6!1s0x3958013b110c29c9:0x10b1e8ca5625afcf!8m2!3d21.518345!4d70.431573!16s%2Fg%2F11vwvcs4xk!19sChIJySkMETsBWDkRz68lVsrosRA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "oracare-dental-clinic-junagadh",
@@ -5088,7 +5131,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oracare+dental+clinic/@21.5223305,70.4419658,17z/data=!3m1!4b1!4m6!3m5!1s0x395801ef481bd72d:0xa867dc9695c824d8!8m2!3d21.5223305!4d70.4419658!16s%2Fg%2F11q24wcsx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oracare+dental+clinic/@21.5223305,70.4419658,17z/data=!3m1!4b1!4m6!3m5!1s0x395801ef481bd72d:0xa867dc9695c824d8!8m2!3d21.5223305!4d70.4419658!16s%2Fg%2F11q24wcsx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5154,10 +5197,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oracare+dental+clinic/@21.5223305,70.4419658,17z/data=!3m1!4b1!4m6!3m5!1s0x395801ef481bd72d:0xa867dc9695c824d8!8m2!3d21.5223305!4d70.4419658!16s%2Fg%2F11q24wcsx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patodiya-maternity-surgical-hospital-junagadh",
@@ -5206,7 +5250,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Patodiya+Maternity+Surgical+Hospital/data=!4m7!3m6!1s0x395801f33271df39:0xb35539c7eed9c88a!8m2!3d21.521442!4d70.454697!16s%2Fg%2F1tfnrd25!19sChIJOd9xMvMBWDkRisjZ7sc5VbM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patodiya+Maternity+Surgical+Hospital/data=!4m7!3m6!1s0x395801f33271df39:0xb35539c7eed9c88a!8m2!3d21.521442!4d70.454697!16s%2Fg%2F1tfnrd25!19sChIJOd9xMvMBWDkRisjZ7sc5VbM?authuser=0&hl=en&rclk=1"
@@ -5272,10 +5316,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patodiya+Maternity+Surgical+Hospital/data=!4m7!3m6!1s0x395801f33271df39:0xb35539c7eed9c88a!8m2!3d21.521442!4d70.454697!16s%2Fg%2F1tfnrd25!19sChIJOd9xMvMBWDkRisjZ7sc5VbM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pratha-dental-clinic-junagadh",
@@ -5324,7 +5369,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pratha+Dental+Clinic/@21.5147256,70.4592674,17z/data=!3m1!4b1!4m6!3m5!1s0x39580193ba02c207:0x1bdcdab21116d291!8m2!3d21.5147256!4d70.4592674!16s%2Fg%2F11dfwyg555?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pratha+Dental+Clinic/@21.5147256,70.4592674,17z/data=!3m1!4b1!4m6!3m5!1s0x39580193ba02c207:0x1bdcdab21116d291!8m2!3d21.5147256!4d70.4592674!16s%2Fg%2F11dfwyg555?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5390,10 +5435,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pratha+Dental+Clinic/@21.5147256,70.4592674,17z/data=!3m1!4b1!4m6!3m5!1s0x39580193ba02c207:0x1bdcdab21116d291!8m2!3d21.5147256!4d70.4592674!16s%2Fg%2F11dfwyg555?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prerna-skin-hair-laser-clinic-hospital-junagadh",
@@ -5442,7 +5488,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Prerna+Skin,+Hair,+Laser+Clinic+Hospital/@21.5237808,70.4324432,17z/data=!3m1!4b1!4m6!3m5!1s0x395801d11ba50c4d:0x91cfef8591817016!8m2!3d21.5237808!4d70.4324432!16s%2Fg%2F11ghfscz1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prerna+Skin,+Hair,+Laser+Clinic+Hospital/@21.5237808,70.4324432,17z/data=!3m1!4b1!4m6!3m5!1s0x395801d11ba50c4d:0x91cfef8591817016!8m2!3d21.5237808!4d70.4324432!16s%2Fg%2F11ghfscz1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5511,7 +5557,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prerna+Skin,+Hair,+Laser+Clinic+Hospital/@21.5237808,70.4324432,17z/data=!3m1!4b1!4m6!3m5!1s0x395801d11ba50c4d:0x91cfef8591817016!8m2!3d21.5237808!4d70.4324432!16s%2Fg%2F11ghfscz1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raj-physiotherapy-clinic-junagadh",
@@ -5560,7 +5607,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Raj+physiotherapy+clinic/@21.521605,70.4338273,17z/data=!3m1!4b1!4m6!3m5!1s0x3958016231dc3081:0x62423b02dc1d732b!8m2!3d21.521605!4d70.4338273!16s%2Fg%2F11jz4l8jhd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raj+physiotherapy+clinic/@21.521605,70.4338273,17z/data=!3m1!4b1!4m6!3m5!1s0x3958016231dc3081:0x62423b02dc1d732b!8m2!3d21.521605!4d70.4338273!16s%2Fg%2F11jz4l8jhd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5626,10 +5673,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raj+physiotherapy+clinic/@21.521605,70.4338273,17z/data=!3m1!4b1!4m6!3m5!1s0x3958016231dc3081:0x62423b02dc1d732b!8m2!3d21.521605!4d70.4338273!16s%2Fg%2F11jz4l8jhd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raninga-hospital-junagadh",
@@ -5677,7 +5725,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Raninga+hospital/data=!4m7!3m6!1s0x395801f01e7a1637:0x4fea64b1f91147d!8m2!3d21.5118578!4d70.4505114!16s%2Fg%2F11lh51dcb9!19sChIJNxZ6HvABWDkRfRSRH0um_gQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raninga+hospital/data=!4m7!3m6!1s0x395801f01e7a1637:0x4fea64b1f91147d!8m2!3d21.5118578!4d70.4505114!16s%2Fg%2F11lh51dcb9!19sChIJNxZ6HvABWDkRfRSRH0um_gQ?authuser=0&hl=en&rclk=1"
@@ -5746,7 +5794,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raninga+hospital/data=!4m7!3m6!1s0x395801f01e7a1637:0x4fea64b1f91147d!8m2!3d21.5118578!4d70.4505114!16s%2Fg%2F11lh51dcb9!19sChIJNxZ6HvABWDkRfRSRH0um_gQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rebirth-icu-hospital-and-pathology-laboratory-junagadh",
@@ -5795,7 +5844,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rebirth+ICU+Hospital+%26+Pathology+Laboratory/data=!4m7!3m6!1s0x395801aa2901c64b:0x5e4d1f6a2117423f!8m2!3d21.5235332!4d70.4329564!16s%2Fg%2F11h_ts0l1m!19sChIJS8YBKaoBWDkRP0IXIWofTV4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rebirth+ICU+Hospital+%26+Pathology+Laboratory/data=!4m7!3m6!1s0x395801aa2901c64b:0x5e4d1f6a2117423f!8m2!3d21.5235332!4d70.4329564!16s%2Fg%2F11h_ts0l1m!19sChIJS8YBKaoBWDkRP0IXIWofTV4?authuser=0&hl=en&rclk=1"
@@ -5864,7 +5913,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rebirth+ICU+Hospital+%26+Pathology+Laboratory/data=!4m7!3m6!1s0x395801aa2901c64b:0x5e4d1f6a2117423f!8m2!3d21.5235332!4d70.4329564!16s%2Fg%2F11h_ts0l1m!19sChIJS8YBKaoBWDkRP0IXIWofTV4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sangani-hospital-junagadh-junagadh",
@@ -5913,7 +5963,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sangani+Hospital+Junagadh/data=!4m7!3m6!1s0x3958017c05a91b21:0xc57c5acbbbc73b12!8m2!3d21.522683!4d70.4567346!16s%2Fg%2F11wfcd29td!19sChIJIRupBXwBWDkREjvHu8tafMU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sangani+Hospital+Junagadh/data=!4m7!3m6!1s0x3958017c05a91b21:0xc57c5acbbbc73b12!8m2!3d21.522683!4d70.4567346!16s%2Fg%2F11wfcd29td!19sChIJIRupBXwBWDkREjvHu8tafMU?authuser=0&hl=en&rclk=1"
@@ -5979,10 +6029,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sangani+Hospital+Junagadh/data=!4m7!3m6!1s0x3958017c05a91b21:0xc57c5acbbbc73b12!8m2!3d21.522683!4d70.4567346!16s%2Fg%2F11wfcd29td!19sChIJIRupBXwBWDkREjvHu8tafMU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sanjivani-hospital-junagadh",
@@ -6030,7 +6081,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sanjivani+Hospital/@21.5221347,70.4578015,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0x4153357eeff8c358!8m2!3d21.5221347!4d70.4578015!16s%2Fg%2F1tyyvj1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjivani+Hospital/@21.5221347,70.4578015,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0x4153357eeff8c358!8m2!3d21.5221347!4d70.4578015!16s%2Fg%2F1tyyvj1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6096,10 +6147,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjivani+Hospital/@21.5221347,70.4578015,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0x4153357eeff8c358!8m2!3d21.5221347!4d70.4578015!16s%2Fg%2F1tyyvj1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjivini-hospital-junagadh",
@@ -6147,7 +6199,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sanjivini+Hospital/@21.5107133,70.4517295,17z/data=!3m1!4b1!4m6!3m5!1s0x395801eb9bdd3837:0xbb29bd0d2be6c35b!8m2!3d21.5107133!4d70.4517295!16s%2Fg%2F1wn321cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjivini+Hospital/@21.5107133,70.4517295,17z/data=!3m1!4b1!4m6!3m5!1s0x395801eb9bdd3837:0xbb29bd0d2be6c35b!8m2!3d21.5107133!4d70.4517295!16s%2Fg%2F1wn321cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6213,10 +6265,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjivini+Hospital/@21.5107133,70.4517295,17z/data=!3m1!4b1!4m6!3m5!1s0x395801eb9bdd3837:0xbb29bd0d2be6c35b!8m2!3d21.5107133!4d70.4517295!16s%2Fg%2F1wn321cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sankalp-maternity-hospital-junagadh",
@@ -6264,7 +6317,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sankalp+Maternity+Hospital/@21.5258725,70.4328449,17z/data=!3m1!4b1!4m6!3m5!1s0x395801c609583e6f:0x873a450ab4ba9a41!8m2!3d21.5258725!4d70.4328449!16s%2Fg%2F11yp2zyls6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sankalp+Maternity+Hospital/@21.5258725,70.4328449,17z/data=!3m1!4b1!4m6!3m5!1s0x395801c609583e6f:0x873a450ab4ba9a41!8m2!3d21.5258725!4d70.4328449!16s%2Fg%2F11yp2zyls6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6333,7 +6386,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sankalp+Maternity+Hospital/@21.5258725,70.4328449,17z/data=!3m1!4b1!4m6!3m5!1s0x395801c609583e6f:0x873a450ab4ba9a41!8m2!3d21.5258725!4d70.4328449!16s%2Fg%2F11yp2zyls6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "satasia-surgical-hospital-dr-nirav-satasia-junagadh",
@@ -6382,7 +6436,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Satasia+surgical+hospital+(Dr+Nirav+Satasia)/@21.5234829,70.4329858,17z/data=!3m1!4b1!4m6!3m5!1s0x395801f306e4c8e9:0x45b8bc7646e4cb23!8m2!3d21.5234829!4d70.4329858!16s%2Fg%2F11fzf7j37s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satasia+surgical+hospital+(Dr+Nirav+Satasia)/@21.5234829,70.4329858,17z/data=!3m1!4b1!4m6!3m5!1s0x395801f306e4c8e9:0x45b8bc7646e4cb23!8m2!3d21.5234829!4d70.4329858!16s%2Fg%2F11fzf7j37s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6448,10 +6502,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Satasia+surgical+hospital+(Dr+Nirav+Satasia)/@21.5234829,70.4329858,17z/data=!3m1!4b1!4m6!3m5!1s0x395801f306e4c8e9:0x45b8bc7646e4cb23!8m2!3d21.5234829!4d70.4329858!16s%2Fg%2F11fzf7j37s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "satasia-surgical-hospital-best-surgical-hospital-in-junagadh-junagadh",
@@ -6501,7 +6556,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Satasia+surgical+Hospital+%7C+Best+Surgical+Hospital+in+Junagadh/@21.5236472,70.432949,17z/data=!3m1!4b1!4m6!3m5!1s0x395801db1e9898a9:0xacc093fc135afd14!8m2!3d21.5236472!4d70.432949!16s%2Fg%2F11h0bx0nc8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satasia+surgical+Hospital+%7C+Best+Surgical+Hospital+in+Junagadh/@21.5236472,70.432949,17z/data=!3m1!4b1!4m6!3m5!1s0x395801db1e9898a9:0xacc093fc135afd14!8m2!3d21.5236472!4d70.432949!16s%2Fg%2F11h0bx0nc8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6570,7 +6625,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Satasia+surgical+Hospital+%7C+Best+Surgical+Hospital+in+Junagadh/@21.5236472,70.432949,17z/data=!3m1!4b1!4m6!3m5!1s0x395801db1e9898a9:0xacc093fc135afd14!8m2!3d21.5236472!4d70.432949!16s%2Fg%2F11h0bx0nc8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "savaliya-multicare-clinic-junagadh",
@@ -6618,7 +6674,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Savaliya+Multicare+Clinic/@21.5208856,70.4544821,17z/data=!3m1!4b1!4m6!3m5!1s0x395801f483762ded:0x674c667ceb5939e5!8m2!3d21.5208856!4d70.4544821!16s%2Fg%2F11tt88qm7m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Savaliya+Multicare+Clinic/@21.5208856,70.4544821,17z/data=!3m1!4b1!4m6!3m5!1s0x395801f483762ded:0x674c667ceb5939e5!8m2!3d21.5208856!4d70.4544821!16s%2Fg%2F11tt88qm7m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6684,10 +6740,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Savaliya+Multicare+Clinic/@21.5208856,70.4544821,17z/data=!3m1!4b1!4m6!3m5!1s0x395801f483762ded:0x674c667ceb5939e5!8m2!3d21.5208856!4d70.4544821!16s%2Fg%2F11tt88qm7m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shah-hospital-junagadh",
@@ -6736,7 +6793,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shah+Hospital/@21.519277,70.458916,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0xebf820c9425b2d2f!8m2!3d21.519277!4d70.458916!16s%2Fg%2F1tddql9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shah+Hospital/@21.519277,70.458916,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0xebf820c9425b2d2f!8m2!3d21.519277!4d70.458916!16s%2Fg%2F1tddql9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6805,7 +6862,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shah+Hospital/@21.519277,70.458916,17z/data=!3m1!4b1!4m6!3m5!1s0x39580192de77ee57:0xebf820c9425b2d2f!8m2!3d21.519277!4d70.458916!16s%2Fg%2F1tddql9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shashwat-hospital-and-icu-junagadh",
@@ -6853,7 +6911,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Shashwat+Hospital+And+ICU/data=!4m7!3m6!1s0x395801b021a166a1:0xa19bbc30c7cebd3e!8m2!3d21.5229882!4d70.4328922!16s%2Fg%2F11rsg7ftbl!19sChIJoWahIbABWDkRPr3OxzC8m6E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shashwat+Hospital+And+ICU/data=!4m7!3m6!1s0x395801b021a166a1:0xa19bbc30c7cebd3e!8m2!3d21.5229882!4d70.4328922!16s%2Fg%2F11rsg7ftbl!19sChIJoWahIbABWDkRPr3OxzC8m6E?authuser=0&hl=en&rclk=1"
@@ -6922,7 +6980,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shashwat+Hospital+And+ICU/data=!4m7!3m6!1s0x395801b021a166a1:0xa19bbc30c7cebd3e!8m2!3d21.5229882!4d70.4328922!16s%2Fg%2F11rsg7ftbl!19sChIJoWahIbABWDkRPr3OxzC8m6E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shivoham-spine-hospital-junagadh",
@@ -6971,7 +7030,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shivoham+Spine+Hospital/@21.5193586,70.4316239,17z/data=!3m1!4b1!4m6!3m5!1s0x3958014c27146477:0xded378afb7166705!8m2!3d21.5193586!4d70.4316239!16s%2Fg%2F11yvj9xjdr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivoham+Spine+Hospital/@21.5193586,70.4316239,17z/data=!3m1!4b1!4m6!3m5!1s0x3958014c27146477:0xded378afb7166705!8m2!3d21.5193586!4d70.4316239!16s%2Fg%2F11yvj9xjdr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7037,10 +7096,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivoham+Spine+Hospital/@21.5193586,70.4316239,17z/data=!3m1!4b1!4m6!3m5!1s0x3958014c27146477:0xded378afb7166705!8m2!3d21.5193586!4d70.4316239!16s%2Fg%2F11yvj9xjdr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shradha-clinic-and-hospital-junagadh",
@@ -7088,7 +7148,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Shradha+Clinic+%26+Hospital/data=!4m7!3m6!1s0x39580192de77ee57:0x1806ea78981dd06!8m2!3d21.5221347!4d70.4578015!16s%2Fg%2F1tdrvqfq!19sChIJV-533pIBWDkRBt2BiadugAE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shradha+Clinic+%26+Hospital/data=!4m7!3m6!1s0x39580192de77ee57:0x1806ea78981dd06!8m2!3d21.5221347!4d70.4578015!16s%2Fg%2F1tdrvqfq!19sChIJV-533pIBWDkRBt2BiadugAE?authuser=0&hl=en&rclk=1"
@@ -7157,7 +7217,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shradha+Clinic+%26+Hospital/data=!4m7!3m6!1s0x39580192de77ee57:0x1806ea78981dd06!8m2!3d21.5221347!4d70.4578015!16s%2Fg%2F1tdrvqfq!19sChIJV-533pIBWDkRBt2BiadugAE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-tulja-bhavani-lions-general-hospital-junagadh",
@@ -7205,7 +7266,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/SHREE+TULJA+BHAVANI+LIONS+GENERAL+HOSPITAL/data=!4m7!3m6!1s0x39580193a1bcf355:0xbb9040a0ca84928c!8m2!3d21.5142505!4d70.4584202!16s%2Fg%2F1tg4jsfx!19sChIJVfO8oZMBWDkRjJKEyqBAkLs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+TULJA+BHAVANI+LIONS+GENERAL+HOSPITAL/data=!4m7!3m6!1s0x39580193a1bcf355:0xbb9040a0ca84928c!8m2!3d21.5142505!4d70.4584202!16s%2Fg%2F1tg4jsfx!19sChIJVfO8oZMBWDkRjJKEyqBAkLs?authuser=0&hl=en&rclk=1"
@@ -7274,7 +7335,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHREE+TULJA+BHAVANI+LIONS+GENERAL+HOSPITAL/data=!4m7!3m6!1s0x39580193a1bcf355:0xbb9040a0ca84928c!8m2!3d21.5142505!4d70.4584202!16s%2Fg%2F1tg4jsfx!19sChIJVfO8oZMBWDkRjJKEyqBAkLs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shreeji-women-s-hospital-zanzarda-chowkdi",
@@ -7323,7 +7385,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shreeji+Women%27s+Hospital/data=!4m7!3m6!1s0x3958015a146a28e1:0x9f9b789eb779c0a!8m2!3d21.5256303!4d70.4334411!16s%2Fg%2F11hy6t76h3!19sChIJ4ShqFFoBWDkRCpx364m3-Qk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreeji+Women%27s+Hospital/data=!4m7!3m6!1s0x3958015a146a28e1:0x9f9b789eb779c0a!8m2!3d21.5256303!4d70.4334411!16s%2Fg%2F11hy6t76h3!19sChIJ4ShqFFoBWDkRCpx364m3-Qk?authuser=0&hl=en&rclk=1"
@@ -7389,10 +7451,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shreeji+Women%27s+Hospital/data=!4m7!3m6!1s0x3958015a146a28e1:0x9f9b789eb779c0a!8m2!3d21.5256303!4d70.4334411!16s%2Fg%2F11hy6t76h3!19sChIJ4ShqFFoBWDkRCpx364m3-Qk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shreenath-cancer-care-junagadh",
@@ -7442,7 +7505,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shreenath+Cancer+Care/data=!4m7!3m6!1s0x39580313af976c35:0x5899ed788a29b4fe!8m2!3d21.6054313!4d70.4929669!16s%2Fg%2F11x_3ppb5l!19sChIJNWyXrxMDWDkR_rQpinjtmVg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreenath+Cancer+Care/data=!4m7!3m6!1s0x39580313af976c35:0x5899ed788a29b4fe!8m2!3d21.6054313!4d70.4929669!16s%2Fg%2F11x_3ppb5l!19sChIJNWyXrxMDWDkR_rQpinjtmVg?authuser=0&hl=en&rclk=1"
@@ -7508,10 +7571,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shreenath+Cancer+Care/data=!4m7!3m6!1s0x39580313af976c35:0x5899ed788a29b4fe!8m2!3d21.6054313!4d70.4929669!16s%2Fg%2F11x_3ppb5l!19sChIJNWyXrxMDWDkR_rQpinjtmVg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-vishvadeva-hospital-junagadh",
@@ -7559,7 +7623,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Vishvadeva+Hospital/@21.5342475,70.4506655,17z/data=!3m1!4b1!4m6!3m5!1s0x3958033a3571cc7f:0x309569ced651b306!8m2!3d21.5342475!4d70.4506655!16s%2Fg%2F11n1qrcmm8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Vishvadeva+Hospital/@21.5342475,70.4506655,17z/data=!3m1!4b1!4m6!3m5!1s0x3958033a3571cc7f:0x309569ced651b306!8m2!3d21.5342475!4d70.4506655!16s%2Fg%2F11n1qrcmm8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7625,10 +7689,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Vishvadeva+Hospital/@21.5342475,70.4506655,17z/data=!3m1!4b1!4m6!3m5!1s0x3958033a3571cc7f:0x309569ced651b306!8m2!3d21.5342475!4d70.4506655!16s%2Fg%2F11n1qrcmm8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shubham-maternityhome-and-ivf-center-junagadh",
@@ -7678,7 +7743,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Shubham+Maternityhome+%26+Ivf+Center/data=!4m7!3m6!1s0x395801f306c92043:0xd4386a76533dbec0!8m2!3d21.5231513!4d70.4323923!16s%2Fg%2F11df6xr2dm!19sChIJQyDJBvMBWDkRwL49U3ZqONQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubham+Maternityhome+%26+Ivf+Center/data=!4m7!3m6!1s0x395801f306c92043:0xd4386a76533dbec0!8m2!3d21.5231513!4d70.4323923!16s%2Fg%2F11df6xr2dm!19sChIJQyDJBvMBWDkRwL49U3ZqONQ?authuser=0&hl=en&rclk=1"
@@ -7747,7 +7812,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shubham+Maternityhome+%26+Ivf+Center/data=!4m7!3m6!1s0x395801f306c92043:0xd4386a76533dbec0!8m2!3d21.5231513!4d70.4323923!16s%2Fg%2F11df6xr2dm!19sChIJQyDJBvMBWDkRwL49U3ZqONQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sparsh-dental-hospital-and-implant-center-junagadh",
@@ -7795,7 +7861,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sparsh+Dental+Hospital+and+Implant+center/@21.5208566,70.4527728,17z/data=!3m1!4b1!4m6!3m5!1s0x3958039e57fc2991:0xc56ba8a618996709!8m2!3d21.5208566!4d70.4527728!16s%2Fg%2F11tfd200fl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsh+Dental+Hospital+and+Implant+center/@21.5208566,70.4527728,17z/data=!3m1!4b1!4m6!3m5!1s0x3958039e57fc2991:0xc56ba8a618996709!8m2!3d21.5208566!4d70.4527728!16s%2Fg%2F11tfd200fl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7864,7 +7930,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sparsh+Dental+Hospital+and+Implant+center/@21.5208566,70.4527728,17z/data=!3m1!4b1!4m6!3m5!1s0x3958039e57fc2991:0xc56ba8a618996709!8m2!3d21.5208566!4d70.4527728!16s%2Fg%2F11tfd200fl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thummar-maternity-hospital-junagadh",
@@ -7912,7 +7979,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Thummar+Maternity+Hospital/@21.5232874,70.4562075,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018ca90a5573:0xfbd323c03a48d4e3!8m2!3d21.5232874!4d70.4562075!16s%2Fg%2F1hc9zh7k1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thummar+Maternity+Hospital/@21.5232874,70.4562075,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018ca90a5573:0xfbd323c03a48d4e3!8m2!3d21.5232874!4d70.4562075!16s%2Fg%2F1hc9zh7k1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7978,10 +8045,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thummar+Maternity+Hospital/@21.5232874,70.4562075,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018ca90a5573:0xfbd323c03a48d4e3!8m2!3d21.5232874!4d70.4562075!16s%2Fg%2F1hc9zh7k1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tirth-hospital-junagadh",
@@ -8029,7 +8097,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Tirth+Hospital/data=!4m7!3m6!1s0x3958017ed360f6e7:0x777744036c3066d6!8m2!3d21.5254865!4d70.4322559!16s%2Fg%2F11j2fs1f96!19sChIJ5_Zg034BWDkR1mYwbANEd3c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tirth+Hospital/data=!4m7!3m6!1s0x3958017ed360f6e7:0x777744036c3066d6!8m2!3d21.5254865!4d70.4322559!16s%2Fg%2F11j2fs1f96!19sChIJ5_Zg034BWDkR1mYwbANEd3c?authuser=0&hl=en&rclk=1"
@@ -8098,7 +8166,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tirth+Hospital/data=!4m7!3m6!1s0x3958017ed360f6e7:0x777744036c3066d6!8m2!3d21.5254865!4d70.4322559!16s%2Fg%2F11j2fs1f96!19sChIJ5_Zg034BWDkR1mYwbANEd3c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "trimurti-hospital-junagadh",
@@ -8146,7 +8215,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Trimurti+Hospital/data=!4m7!3m6!1s0x3958019155555555:0xd63edb4e988e8fb!8m2!3d21.5128587!4d70.461051!16s%2Fg%2F11vprhr418!19sChIJVVVVVZEBWDkR--iI6bTtYw0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trimurti+Hospital/data=!4m7!3m6!1s0x3958019155555555:0xd63edb4e988e8fb!8m2!3d21.5128587!4d70.461051!16s%2Fg%2F11vprhr418!19sChIJVVVVVZEBWDkR--iI6bTtYw0?authuser=0&hl=en&rclk=1"
@@ -8215,7 +8284,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Trimurti+Hospital/data=!4m7!3m6!1s0x3958019155555555:0xd63edb4e988e8fb!8m2!3d21.5128587!4d70.461051!16s%2Fg%2F11vprhr418!19sChIJVVVVVZEBWDkR--iI6bTtYw0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "unique-ivf-center-junagadh",
@@ -8264,7 +8334,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Unique+Ivf+Center/data=!4m7!3m6!1s0x395801f9118270a3:0x8384ccabee944a2b!8m2!3d21.5234197!4d70.4392877!16s%2Fg%2F11h7rqx7t1!19sChIJo3CCEfkBWDkRK0qU7qvMhIM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unique+Ivf+Center/data=!4m7!3m6!1s0x395801f9118270a3:0x8384ccabee944a2b!8m2!3d21.5234197!4d70.4392877!16s%2Fg%2F11h7rqx7t1!19sChIJo3CCEfkBWDkRK0qU7qvMhIM?authuser=0&hl=en&rclk=1"
@@ -8330,10 +8400,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Unique+Ivf+Center/data=!4m7!3m6!1s0x395801f9118270a3:0x8384ccabee944a2b!8m2!3d21.5234197!4d70.4392877!16s%2Fg%2F11h7rqx7t1!19sChIJo3CCEfkBWDkRK0qU7qvMhIM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vrundavan-maternity-hospital-junagadh-junagadh",
@@ -8381,7 +8452,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/VRUNDAVAN+MATERNITY+HOSPITAL+Junagadh/data=!4m7!3m6!1s0x3957ff66cb278959:0x6cd4ad936df99bbc!8m2!3d21.5014303!4d70.4269656!16s%2Fg%2F11hz3jf0_m!19sChIJWYkny2b_VzkRvJv5bZOt1Gw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VRUNDAVAN+MATERNITY+HOSPITAL+Junagadh/data=!4m7!3m6!1s0x3957ff66cb278959:0x6cd4ad936df99bbc!8m2!3d21.5014303!4d70.4269656!16s%2Fg%2F11hz3jf0_m!19sChIJWYkny2b_VzkRvJv5bZOt1Gw?authuser=0&hl=en&rclk=1"
@@ -8450,7 +8521,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VRUNDAVAN+MATERNITY+HOSPITAL+Junagadh/data=!4m7!3m6!1s0x3957ff66cb278959:0x6cd4ad936df99bbc!8m2!3d21.5014303!4d70.4269656!16s%2Fg%2F11hz3jf0_m!19sChIJWYkny2b_VzkRvJv5bZOt1Gw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "women-care-hospital-junagadh",
@@ -8499,7 +8571,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Women+Care+Hospital/data=!4m7!3m6!1s0x395801ec7d209001:0x672969b0d556d0f8!8m2!3d21.5123546!4d70.451934!16s%2Fg%2F11dzzy_l70!19sChIJAZAgfewBWDkR-NBW1bBpKWc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Women+Care+Hospital/data=!4m7!3m6!1s0x395801ec7d209001:0x672969b0d556d0f8!8m2!3d21.5123546!4d70.451934!16s%2Fg%2F11dzzy_l70!19sChIJAZAgfewBWDkR-NBW1bBpKWc?authuser=0&hl=en&rclk=1"
@@ -8568,7 +8640,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Women+Care+Hospital/data=!4m7!3m6!1s0x395801ec7d209001:0x672969b0d556d0f8!8m2!3d21.5123546!4d70.451934!16s%2Fg%2F11dzzy_l70!19sChIJAZAgfewBWDkR-NBW1bBpKWc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "women-world-salon-junagadh",
@@ -8619,7 +8692,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Women+World+Salon/@21.524252,70.4384203,17z/data=!3m1!4b1!4m6!3m5!1s0x395801f75173ee89:0xf03a5b25080148f8!8m2!3d21.524252!4d70.4384203!16s%2Fg%2F11ggrs5q4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Women+World+Salon/@21.524252,70.4384203,17z/data=!3m1!4b1!4m6!3m5!1s0x395801f75173ee89:0xf03a5b25080148f8!8m2!3d21.524252!4d70.4384203!16s%2Fg%2F11ggrs5q4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8688,7 +8761,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Women+World+Salon/@21.524252,70.4384203,17z/data=!3m1!4b1!4m6!3m5!1s0x395801f75173ee89:0xf03a5b25080148f8!8m2!3d21.524252!4d70.4384203!16s%2Fg%2F11ggrs5q4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "xpert-dental-and-maxillofacial-hospital-junagadh",
@@ -8737,7 +8811,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Xpert+Dental+and+Maxillofacial+Hospital/@21.5244208,70.4325558,17z/data=!3m1!4b1!4m6!3m5!1s0x395801b926180349:0x186b0ae84e9a6463!8m2!3d21.5244208!4d70.4325558!16s%2Fg%2F11y0yz_w29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Xpert+Dental+and+Maxillofacial+Hospital/@21.5244208,70.4325558,17z/data=!3m1!4b1!4m6!3m5!1s0x395801b926180349:0x186b0ae84e9a6463!8m2!3d21.5244208!4d70.4325558!16s%2Fg%2F11y0yz_w29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8803,10 +8877,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Xpert+Dental+and+Maxillofacial+Hospital/@21.5244208,70.4325558,17z/data=!3m1!4b1!4m6!3m5!1s0x395801b926180349:0x186b0ae84e9a6463!8m2!3d21.5244208!4d70.4325558!16s%2Fg%2F11y0yz_w29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yash-kidney-and-urology-hospital-junagadh",
@@ -8855,7 +8930,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Yash+Kidney+And+Urology+Hospital/@21.5228159,70.4565102,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018cac4b7f5d:0x87fe448cd2fc4fe!8m2!3d21.5228159!4d70.4565102!16s%2Fg%2F11c609_65d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yash+Kidney+And+Urology+Hospital/@21.5228159,70.4565102,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018cac4b7f5d:0x87fe448cd2fc4fe!8m2!3d21.5228159!4d70.4565102!16s%2Fg%2F11c609_65d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8924,7 +8999,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yash+Kidney+And+Urology+Hospital/@21.5228159,70.4565102,17z/data=!3m1!4b1!4m6!3m5!1s0x3958018cac4b7f5d:0x87fe448cd2fc4fe!8m2!3d21.5228159!4d70.4565102!16s%2Fg%2F11c609_65d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "junagadh",
@@ -8972,7 +9048,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/%E0%AA%B8%E0%AA%B0%E0%AA%95%E0%AA%BE%E0%AA%B0%E0%AB%80+%E0%AA%86%E0%AA%AF%E0%AB%81%E0%AA%B0%E0%AB%8D%E0%AA%B5%E0%AB%87%E0%AA%A6+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2+%E0%AA%9C%E0%AB%82%E0%AA%A8%E0%AA%BE%E0%AA%97%E0%AA%A2/@21.510282,70.468117,17z/data=!3m1!4b1!4m6!3m5!1s0x3958010023425413:0xf566f002a9fc8b0b!8m2!3d21.510282!4d70.468117!16s%2Fg%2F11vytffjmn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%AA%B8%E0%AA%B0%E0%AA%95%E0%AA%BE%E0%AA%B0%E0%AB%80+%E0%AA%86%E0%AA%AF%E0%AB%81%E0%AA%B0%E0%AB%8D%E0%AA%B5%E0%AB%87%E0%AA%A6+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2+%E0%AA%9C%E0%AB%82%E0%AA%A8%E0%AA%BE%E0%AA%97%E0%AA%A2/@21.510282,70.468117,17z/data=!3m1!4b1!4m6!3m5!1s0x3958010023425413:0xf566f002a9fc8b0b!8m2!3d21.510282!4d70.468117!16s%2Fg%2F11vytffjmn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9038,10 +9114,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%AA%B8%E0%AA%B0%E0%AA%95%E0%AA%BE%E0%AA%B0%E0%AB%80+%E0%AA%86%E0%AA%AF%E0%AB%81%E0%AA%B0%E0%AB%8D%E0%AA%B5%E0%AB%87%E0%AA%A6+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2+%E0%AA%9C%E0%AB%82%E0%AA%A8%E0%AA%BE%E0%AA%97%E0%AA%A2/@21.510282,70.468117,17z/data=!3m1!4b1!4m6!3m5!1s0x3958010023425413:0xf566f002a9fc8b0b!8m2!3d21.510282!4d70.468117!16s%2Fg%2F11vytffjmn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "critical-care-medicine-hospital-junagadh-junagadh",
@@ -9089,7 +9166,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%94%F0%9D%97%AE%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%AE+%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B9%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Critical+Care+Medicine+hospital+Junagadh/@21.5233709,70.4564664,17z/data=!3m1!4b1!4m6!3m5!1s0x395801a96ee87909:0x4e7c7d6a8aa0a571!8m2!3d21.5233709!4d70.4564664!16s%2Fg%2F11kfx2tqy8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%94%F0%9D%97%AE%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%AE+%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B9%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Critical+Care+Medicine+hospital+Junagadh/@21.5233709,70.4564664,17z/data=!3m1!4b1!4m6!3m5!1s0x395801a96ee87909:0x4e7c7d6a8aa0a571!8m2!3d21.5233709!4d70.4564664!16s%2Fg%2F11kfx2tqy8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9158,7 +9235,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%94%F0%9D%97%AE%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%AE+%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B9%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Critical+Care+Medicine+hospital+Junagadh/@21.5233709,70.4564664,17z/data=!3m1!4b1!4m6!3m5!1s0x395801a96ee87909:0x4e7c7d6a8aa0a571!8m2!3d21.5233709!4d70.4564664!16s%2Fg%2F11kfx2tqy8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "best-bridal-makeup-salon-hair-salon-skin-salon-menicure-pedicure-salon-in-junagadh-junagadh",
@@ -9208,7 +9286,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%9F%F0%9D%97%BC%F0%9D%97%BC%F0%9D%97%B8%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B9+%F0%9D%97%AE+%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%85%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%80+%F0%9D%97%A6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%BB-+Best+Bridal+Makeup+Salon+%7C+Hair+Salon+%7C+Skin+Salon+%7C+Menicure+Pedicure+Salon+in+Junagadh/@21.5241406,70.4389079,17z/data=!3m1!4b1!4m6!3m5!1s0x395801aaa5342ac7:0x2fb2c9bf0416a4bc!8m2!3d21.5241406!4d70.4389079!16s%2Fg%2F11sh7fl6by?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%9F%F0%9D%97%BC%F0%9D%97%BC%F0%9D%97%B8%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B9+%F0%9D%97%AE+%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%85%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%80+%F0%9D%97%A6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%BB-+Best+Bridal+Makeup+Salon+%7C+Hair+Salon+%7C+Skin+Salon+%7C+Menicure+Pedicure+Salon+in+Junagadh/@21.5241406,70.4389079,17z/data=!3m1!4b1!4m6!3m5!1s0x395801aaa5342ac7:0x2fb2c9bf0416a4bc!8m2!3d21.5241406!4d70.4389079!16s%2Fg%2F11sh7fl6by?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9277,7 +9355,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%9F%F0%9D%97%BC%F0%9D%97%BC%F0%9D%97%B8%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B9+%F0%9D%97%AE+%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%85%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%80+%F0%9D%97%A6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%BB-+Best+Bridal+Makeup+Salon+%7C+Hair+Salon+%7C+Skin+Salon+%7C+Menicure+Pedicure+Salon+in+Junagadh/@21.5241406,70.4389079,17z/data=!3m1!4b1!4m6!3m5!1s0x395801aaa5342ac7:0x2fb2c9bf0416a4bc!8m2!3d21.5241406!4d70.4389079!16s%2Fg%2F11sh7fl6by?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "and-and-hair-transplantation-clinic-skin-clinic-dental-best-dentist-in-junagadh-junagadh",
@@ -9326,7 +9405,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B2+%26+%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B2+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2+%26+%F0%9D%97%94%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+-+Hair+Transplantation+Clinic+%7C+Skin+Clinic+%7C+Dental%7C+Best+Dentist+in+Junagadh/@21.5223942,70.4559089,17z/data=!3m1!4b1!4m6!3m5!1s0x395801287a079631:0x8b2613c7325a489b!8m2!3d21.5223942!4d70.4559089!16s%2Fg%2F11py71yprh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B2+%26+%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B2+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2+%26+%F0%9D%97%94%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+-+Hair+Transplantation+Clinic+%7C+Skin+Clinic+%7C+Dental%7C+Best+Dentist+in+Junagadh/@21.5223942,70.4559089,17z/data=!3m1!4b1!4m6!3m5!1s0x395801287a079631:0x8b2613c7325a489b!8m2!3d21.5223942!4d70.4559089!16s%2Fg%2F11py71yprh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9395,6 +9474,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B2+%26+%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B2+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2+%26+%F0%9D%97%94%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+-+Hair+Transplantation+Clinic+%7C+Skin+Clinic+%7C+Dental%7C+Best+Dentist+in+Junagadh/@21.5223942,70.4559089,17z/data=!3m1!4b1!4m6!3m5!1s0x395801287a079631:0x8b2613c7325a489b!8m2!3d21.5223942!4d70.4559089!16s%2Fg%2F11py71yprh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

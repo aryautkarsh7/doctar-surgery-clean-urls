@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Aagman+Hospital/@22.8108699,70.8258603,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd86a55c4cb:0x61a27fbdf642437a!8m2!3d22.8108699!4d70.8258603!16s%2Fg%2F11c4bd3sj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aagman+Hospital/@22.8108699,70.8258603,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd86a55c4cb:0x61a27fbdf642437a!8m2!3d22.8108699!4d70.8258603!16s%2Fg%2F11c4bd3sj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aagman+Hospital/@22.8108699,70.8258603,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd86a55c4cb:0x61a27fbdf642437a!8m2!3d22.8108699!4d70.8258603!16s%2Fg%2F11c4bd3sj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aary-hospital-morbi",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Aary+Hospital/@22.8135854,70.8294896,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbf4e5e8db:0xc6ae92bbc3714b5!8m2!3d22.8135854!4d70.8294896!16s%2Fg%2F11fcsm0xhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aary+Hospital/@22.8135854,70.8294896,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbf4e5e8db:0xc6ae92bbc3714b5!8m2!3d22.8135854!4d70.8294896!16s%2Fg%2F11fcsm0xhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -232,7 +233,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aary+Hospital/@22.8135854,70.8294896,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbf4e5e8db:0xc6ae92bbc3714b5!8m2!3d22.8135854!4d70.8294896!16s%2Fg%2F11fcsm0xhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aayush-hospitals-morbi-morbi",
@@ -281,7 +283,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aayush+Hospitals+-+Morbi/@22.816182,70.8291674,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbe560398b:0xe66ff5e0aafe7f1b!8m2!3d22.816182!4d70.8291674!16s%2Fg%2F11b7719tvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aayush+Hospitals+-+Morbi/@22.816182,70.8291674,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbe560398b:0xe66ff5e0aafe7f1b!8m2!3d22.816182!4d70.8291674!16s%2Fg%2F11b7719tvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -350,7 +352,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aayush+Hospitals+-+Morbi/@22.816182,70.8291674,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbe560398b:0xe66ff5e0aafe7f1b!8m2!3d22.816182!4d70.8291674!16s%2Fg%2F11b7719tvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "accura-diagnostic-centre-and-laboratory-morbi",
@@ -399,7 +402,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Accura+Diagnostic+Centre+%26+Laboratory/data=!4m7!3m6!1s0x39598d4b7b43d3a1:0x588dc8c78ef7f611!8m2!3d22.8157782!4d70.8301422!16s%2Fg%2F11j11bty5p!19sChIJodNDe0uNWTkREfb3jsfIjVg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Accura+Diagnostic+Centre+%26+Laboratory/data=!4m7!3m6!1s0x39598d4b7b43d3a1:0x588dc8c78ef7f611!8m2!3d22.8157782!4d70.8301422!16s%2Fg%2F11j11bty5p!19sChIJodNDe0uNWTkREfb3jsfIjVg?authuser=0&hl=en&rclk=1"
@@ -468,7 +471,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Accura+Diagnostic+Centre+%26+Laboratory/data=!4m7!3m6!1s0x39598d4b7b43d3a1:0x588dc8c78ef7f611!8m2!3d22.8157782!4d70.8301422!16s%2Fg%2F11j11bty5p!19sChIJodNDe0uNWTkREfb3jsfIjVg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aditya-hospital-and-icu-morbi",
@@ -516,7 +520,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Aditya+Hospital+%26+ICU/@22.8268759,70.8493453,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd21e3bccd5:0x9dbc68b81f1b6570!8m2!3d22.8268759!4d70.8493453!16s%2Fg%2F11fl7pzmx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditya+Hospital+%26+ICU/@22.8268759,70.8493453,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd21e3bccd5:0x9dbc68b81f1b6570!8m2!3d22.8268759!4d70.8493453!16s%2Fg%2F11fl7pzmx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -585,7 +589,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aditya+Hospital+%26+ICU/@22.8268759,70.8493453,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd21e3bccd5:0x9dbc68b81f1b6570!8m2!3d22.8268759!4d70.8493453!16s%2Fg%2F11fl7pzmx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amrutam-hospital-sneh-children-hospital-morbi",
@@ -634,7 +639,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Amrutam+Hospital%2F%2FSneh+children+hospital/@22.814843,70.829145,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd950119795:0x2d48f458d6ba217e!8m2!3d22.814843!4d70.829145!16s%2Fg%2F11c4l_r634?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrutam+Hospital%2F%2FSneh+children+hospital/@22.814843,70.829145,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd950119795:0x2d48f458d6ba217e!8m2!3d22.814843!4d70.829145!16s%2Fg%2F11c4l_r634?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -703,7 +708,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrutam+Hospital%2F%2FSneh+children+hospital/@22.814843,70.829145,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd950119795:0x2d48f458d6ba217e!8m2!3d22.814843!4d70.829145!16s%2Fg%2F11c4l_r634?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ansh-womens-hospital-morbi",
@@ -752,7 +758,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ansh+Womens+Hospital/@22.8177065,70.8287144,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd925ecf139:0x2e586b93e361a0bc!8m2!3d22.8177065!4d70.8287144!16s%2Fg%2F11xlhw6j0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ansh+Womens+Hospital/@22.8177065,70.8287144,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd925ecf139:0x2e586b93e361a0bc!8m2!3d22.8177065!4d70.8287144!16s%2Fg%2F11xlhw6j0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -818,10 +824,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ansh+Womens+Hospital/@22.8177065,70.8287144,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd925ecf139:0x2e586b93e361a0bc!8m2!3d22.8177065!4d70.8287144!16s%2Fg%2F11xlhw6j0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anuj-hospital-morbi",
@@ -869,7 +876,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Anuj+Hospital/@22.8122602,70.8275669,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8fcd7d6cb:0xe1dd2e66df35ea2a!8m2!3d22.8122602!4d70.8275669!16s%2Fg%2F11bxk1w_nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anuj+Hospital/@22.8122602,70.8275669,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8fcd7d6cb:0xe1dd2e66df35ea2a!8m2!3d22.8122602!4d70.8275669!16s%2Fg%2F11bxk1w_nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -938,7 +945,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anuj+Hospital/@22.8122602,70.8275669,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8fcd7d6cb:0xe1dd2e66df35ea2a!8m2!3d22.8122602!4d70.8275669!16s%2Fg%2F11bxk1w_nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apple-hospital-morbi",
@@ -987,7 +995,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apple+Hospital/@22.8117428,70.8266281,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd856e337d1:0xdf9a7bbbc8f878f9!8m2!3d22.8117428!4d70.8266281!16s%2Fg%2F11b5zst6ml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apple+Hospital/@22.8117428,70.8266281,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd856e337d1:0xdf9a7bbbc8f878f9!8m2!3d22.8117428!4d70.8266281!16s%2Fg%2F11b5zst6ml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1056,7 +1064,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apple+Hospital/@22.8117428,70.8266281,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd856e337d1:0xdf9a7bbbc8f878f9!8m2!3d22.8117428!4d70.8266281!16s%2Fg%2F11b5zst6ml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aradhana-hospital-morbi",
@@ -1104,7 +1113,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aradhana+Hospital/@22.8166438,70.8289083,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d5bb76a5327:0xa978d2a8dfd9c1b7!8m2!3d22.8166438!4d70.8289083!16s%2Fg%2F11xlm6jsk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aradhana+Hospital/@22.8166438,70.8289083,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d5bb76a5327:0xa978d2a8dfd9c1b7!8m2!3d22.8166438!4d70.8289083!16s%2Fg%2F11xlm6jsk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1170,10 +1179,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aradhana+Hospital/@22.8166438,70.8289083,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d5bb76a5327:0xa978d2a8dfd9c1b7!8m2!3d22.8166438!4d70.8289083!16s%2Fg%2F11xlm6jsk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arpan-children-hospital-morbi",
@@ -1222,7 +1232,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Arpan+Children+Hospital/@22.8114359,70.8266052,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d6424aedcc5:0x4f61097f9e52bb94!8m2!3d22.8114359!4d70.8266052!16s%2Fg%2F11h24n577h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arpan+Children+Hospital/@22.8114359,70.8266052,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d6424aedcc5:0x4f61097f9e52bb94!8m2!3d22.8114359!4d70.8266052!16s%2Fg%2F11h24n577h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1291,7 +1301,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arpan+Children+Hospital/@22.8114359,70.8266052,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d6424aedcc5:0x4f61097f9e52bb94!8m2!3d22.8114359!4d70.8266052!16s%2Fg%2F11h24n577h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "astha-dental-clinic-morbi",
@@ -1340,7 +1351,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Astha+dental+clinic/@22.8149319,70.829892,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb2bded67:0x1d1cdfb7aa3789b6!8m2!3d22.8149319!4d70.829892!16s%2Fg%2F11gjt9v7xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Astha+dental+clinic/@22.8149319,70.829892,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb2bded67:0x1d1cdfb7aa3789b6!8m2!3d22.8149319!4d70.829892!16s%2Fg%2F11gjt9v7xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1406,10 +1417,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Astha+dental+clinic/@22.8149319,70.829892,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb2bded67:0x1d1cdfb7aa3789b6!8m2!3d22.8149319!4d70.829892!16s%2Fg%2F11gjt9v7xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aum-dental-and-ent-hospital-om-dental-and-ent-hospital-aum-dental-hospital-2nd-floor-alvin-chamber",
@@ -1458,7 +1470,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Aum+Dental+and+ENT+hospital(om+dental+and+ent+hospital)/@22.8157883,70.8296805,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ddab3a349df:0x72f3eb979efb7173!8m2!3d22.8157883!4d70.8296805!16s%2Fg%2F11s1y1g8ry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aum+Dental+and+ENT+hospital(om+dental+and+ent+hospital)/@22.8157883,70.8296805,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ddab3a349df:0x72f3eb979efb7173!8m2!3d22.8157883!4d70.8296805!16s%2Fg%2F11s1y1g8ry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1527,7 +1539,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aum+Dental+and+ENT+hospital(om+dental+and+ent+hospital)/@22.8157883,70.8296805,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ddab3a349df:0x72f3eb979efb7173!8m2!3d22.8157883!4d70.8296805!16s%2Fg%2F11s1y1g8ry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aura-dental-care-morbi",
@@ -1575,7 +1588,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aura+Dental+Care/@22.816835,70.8298044,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd69653eae3:0x9e1e2dce38178b37!8m2!3d22.816835!4d70.8298044!16s%2Fg%2F11sghz77_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aura+Dental+Care/@22.816835,70.8298044,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd69653eae3:0x9e1e2dce38178b37!8m2!3d22.816835!4d70.8298044!16s%2Fg%2F11sghz77_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1641,10 +1654,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aura+Dental+Care/@22.816835,70.8298044,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd69653eae3:0x9e1e2dce38178b37!8m2!3d22.816835!4d70.8298044!16s%2Fg%2F11sghz77_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "avi-eye-and-dental-care-morbi",
@@ -1692,7 +1706,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Avi+Eye+and+Dental+Care/@22.8154271,70.8299541,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb2e59695:0x40617d24a5d6ca4f!8m2!3d22.8154271!4d70.8299541!16s%2Fg%2F12ml2x_y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avi+Eye+and+Dental+Care/@22.8154271,70.8299541,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb2e59695:0x40617d24a5d6ca4f!8m2!3d22.8154271!4d70.8299541!16s%2Fg%2F12ml2x_y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1761,7 +1775,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Avi+Eye+and+Dental+Care/@22.8154271,70.8299541,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb2e59695:0x40617d24a5d6ca4f!8m2!3d22.8154271!4d70.8299541!16s%2Fg%2F12ml2x_y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayurderma-skin-hair-and-panchkarma-clinic-morbi",
@@ -1809,7 +1824,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ayurderma+skin,hair+%26+panchkarma+clinic/@22.8003115,70.824185,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0013f6e997:0x708470e73d1b8ff3!8m2!3d22.8003115!4d70.824185!16s%2Fg%2F11vm7v04sc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayurderma+skin,hair+%26+panchkarma+clinic/@22.8003115,70.824185,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0013f6e997:0x708470e73d1b8ff3!8m2!3d22.8003115!4d70.824185!16s%2Fg%2F11vm7v04sc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1875,10 +1890,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayurderma+skin,hair+%26+panchkarma+clinic/@22.8003115,70.824185,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0013f6e997:0x708470e73d1b8ff3!8m2!3d22.8003115!4d70.824185!16s%2Fg%2F11vm7v04sc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayush-hospital-morbi",
@@ -1926,7 +1942,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Ayush+Hospital/@22.7724561,70.908115,17z/data=!3m1!4b1!4m6!3m5!1s0x395991af2f235da3:0xda9cafd73114d31c!8m2!3d22.7724561!4d70.908115!16s%2Fg%2F11fd4bt0t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayush+Hospital/@22.7724561,70.908115,17z/data=!3m1!4b1!4m6!3m5!1s0x395991af2f235da3:0xda9cafd73114d31c!8m2!3d22.7724561!4d70.908115!16s%2Fg%2F11fd4bt0t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1995,7 +2011,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayush+Hospital/@22.7724561,70.908115,17z/data=!3m1!4b1!4m6!3m5!1s0x395991af2f235da3:0xda9cafd73114d31c!8m2!3d22.7724561!4d70.908115!16s%2Fg%2F11fd4bt0t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhadesia-hospital-morbi",
@@ -2043,7 +2060,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Bhadesia+Hospital/@22.8096889,70.8249645,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd80ea314bd:0xa321259a6e610b23!8m2!3d22.8096889!4d70.8249645!16s%2Fg%2F1tf_lpz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhadesia+Hospital/@22.8096889,70.8249645,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd80ea314bd:0xa321259a6e610b23!8m2!3d22.8096889!4d70.8249645!16s%2Fg%2F1tf_lpz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2112,7 +2129,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhadesia+Hospital/@22.8096889,70.8249645,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd80ea314bd:0xa321259a6e610b23!8m2!3d22.8096889!4d70.8249645!16s%2Fg%2F1tf_lpz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhalodia-cosmetic-and-skin-care-morbi",
@@ -2160,7 +2178,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhalodia+Cosmetic+%26+Skin+Care/@22.7973435,70.8131055,17z/data=!3m1!4b1!4m6!3m5!1s0x39598df74cb0bc77:0x45e104ca5d6d290b!8m2!3d22.7973435!4d70.8131055!16s%2Fg%2F11j8h36bhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhalodia+Cosmetic+%26+Skin+Care/@22.7973435,70.8131055,17z/data=!3m1!4b1!4m6!3m5!1s0x39598df74cb0bc77:0x45e104ca5d6d290b!8m2!3d22.7973435!4d70.8131055!16s%2Fg%2F11j8h36bhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2226,10 +2244,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhalodia+Cosmetic+%26+Skin+Care/@22.7973435,70.8131055,17z/data=!3m1!4b1!4m6!3m5!1s0x39598df74cb0bc77:0x45e104ca5d6d290b!8m2!3d22.7973435!4d70.8131055!16s%2Fg%2F11j8h36bhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhatt-clinic-morbi",
@@ -2277,7 +2296,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Bhatt+Clinic/@22.8276619,70.8499236,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cf1b5cdbd65:0xcbbc68e308c2b88b!8m2!3d22.8276619!4d70.8499236!16s%2Fg%2F1hhvvkfyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhatt+Clinic/@22.8276619,70.8499236,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cf1b5cdbd65:0xcbbc68e308c2b88b!8m2!3d22.8276619!4d70.8499236!16s%2Fg%2F1hhvvkfyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2346,7 +2365,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhatt+Clinic/@22.8276619,70.8499236,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cf1b5cdbd65:0xcbbc68e308c2b88b!8m2!3d22.8276619!4d70.8499236!16s%2Fg%2F1hhvvkfyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhila-saheb-skin-clinic-dr-chandni-likhiya-morbi",
@@ -2394,7 +2414,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bhila+saheb+Skin+clinic+(Dr+Chandni+Likhiya)/@22.8159023,70.8294618,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d7dcab0290f:0xbd81792bf356013!8m2!3d22.8159023!4d70.8294618!16s%2Fg%2F11yg14np85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhila+saheb+Skin+clinic+(Dr+Chandni+Likhiya)/@22.8159023,70.8294618,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d7dcab0290f:0xbd81792bf356013!8m2!3d22.8159023!4d70.8294618!16s%2Fg%2F11yg14np85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2460,10 +2480,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhila+saheb+Skin+clinic+(Dr+Chandni+Likhiya)/@22.8159023,70.8294618,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d7dcab0290f:0xbd81792bf356013!8m2!3d22.8159023!4d70.8294618!16s%2Fg%2F11yg14np85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhorania-dental-clinic-and-implant-center-morbi-morbi",
@@ -2512,7 +2533,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bhorania+Dental+Clinic+and+Implant+Center,+Morbi/@22.8166338,70.8299498,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc09f48289:0xb040449fecde36a!8m2!3d22.8166338!4d70.8299498!16s%2Fg%2F11b8_qyk0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhorania+Dental+Clinic+and+Implant+Center,+Morbi/@22.8166338,70.8299498,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc09f48289:0xb040449fecde36a!8m2!3d22.8166338!4d70.8299498!16s%2Fg%2F11b8_qyk0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2578,10 +2599,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhorania+Dental+Clinic+and+Implant+Center,+Morbi/@22.8166338,70.8299498,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc09f48289:0xb040449fecde36a!8m2!3d22.8166338!4d70.8299498!16s%2Fg%2F11b8_qyk0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bilipatra-nirant-churn-morbi-morbi",
@@ -2629,7 +2651,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bilipatra+Nirant+Churn+Morbi/@22.7987839,70.8259796,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dff341b423b:0xc27f3a9ffb9cff68!8m2!3d22.7987839!4d70.8259796!16s%2Fg%2F11z10y3hft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bilipatra+Nirant+Churn+Morbi/@22.7987839,70.8259796,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dff341b423b:0xc27f3a9ffb9cff68!8m2!3d22.7987839!4d70.8259796!16s%2Fg%2F11z10y3hft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2695,10 +2717,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bilipatra+Nirant+Churn+Morbi/@22.7987839,70.8259796,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dff341b423b:0xc27f3a9ffb9cff68!8m2!3d22.7987839!4d70.8259796!16s%2Fg%2F11z10y3hft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "candor-ivf-center-morbi-morbi",
@@ -2748,7 +2771,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Candor+IVF+Center+Morbi/@22.8167253,70.8295945,17z/data=!3m1!4b1!4m6!3m5!1s0x39598db443b2f28d:0xfad22654c8be3b08!8m2!3d22.8167253!4d70.8295945!16s%2Fg%2F11xdg8nchp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Candor+IVF+Center+Morbi/@22.8167253,70.8295945,17z/data=!3m1!4b1!4m6!3m5!1s0x39598db443b2f28d:0xfad22654c8be3b08!8m2!3d22.8167253!4d70.8295945!16s%2Fg%2F11xdg8nchp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2817,7 +2840,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Candor+IVF+Center+Morbi/@22.8167253,70.8295945,17z/data=!3m1!4b1!4m6!3m5!1s0x39598db443b2f28d:0xfad22654c8be3b08!8m2!3d22.8167253!4d70.8295945!16s%2Fg%2F11xdg8nchp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chirag-surgical-hospital-morbi",
@@ -2866,7 +2890,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Chirag+Surgical+Hospital/@22.8106977,70.825446,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd86ab7ad79:0x48feff1c1e32f79!8m2!3d22.8106977!4d70.825446!16s%2Fg%2F1hhwl0xsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chirag+Surgical+Hospital/@22.8106977,70.825446,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd86ab7ad79:0x48feff1c1e32f79!8m2!3d22.8106977!4d70.825446!16s%2Fg%2F1hhwl0xsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2935,7 +2959,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chirag+Surgical+Hospital/@22.8106977,70.825446,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd86ab7ad79:0x48feff1c1e32f79!8m2!3d22.8106977!4d70.825446!16s%2Fg%2F1hhwl0xsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "crystal-eye-hospital-morbi-morbi",
@@ -2984,7 +3009,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Crystal+Eye+Hospital+Morbi/@22.8154326,70.8304388,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d7fd532a715:0x38c0a93457e36ca!8m2!3d22.8154326!4d70.8304388!16s%2Fg%2F11lzcj6l1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Crystal+Eye+Hospital+Morbi/@22.8154326,70.8304388,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d7fd532a715:0x38c0a93457e36ca!8m2!3d22.8154326!4d70.8304388!16s%2Fg%2F11lzcj6l1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3050,10 +3075,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Crystal+Eye+Hospital+Morbi/@22.8154326,70.8304388,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d7fd532a715:0x38c0a93457e36ca!8m2!3d22.8154326!4d70.8304388!16s%2Fg%2F11lzcj6l1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-care-clinic-morbi",
@@ -3101,7 +3127,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Care+Clinic/@22.8075868,70.8240977,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d27fd16e2cf:0x332ff88e0820591e!8m2!3d22.8075868!4d70.8240977!16s%2Fg%2F12644t0d5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Care+Clinic/@22.8075868,70.8240977,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d27fd16e2cf:0x332ff88e0820591e!8m2!3d22.8075868!4d70.8240977!16s%2Fg%2F12644t0d5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3167,10 +3193,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Care+Clinic/@22.8075868,70.8240977,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d27fd16e2cf:0x332ff88e0820591e!8m2!3d22.8075868!4d70.8240977!16s%2Fg%2F12644t0d5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "devam-clinic-morbi",
@@ -3218,7 +3245,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Devam+clinic/@22.8191252,70.8566553,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0050952ec9:0xc095e2e9c8e6125b!8m2!3d22.8191252!4d70.8566553!16s%2Fg%2F11ln78932h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devam+clinic/@22.8191252,70.8566553,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0050952ec9:0xc095e2e9c8e6125b!8m2!3d22.8191252!4d70.8566553!16s%2Fg%2F11ln78932h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3284,10 +3311,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Devam+clinic/@22.8191252,70.8566553,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0050952ec9:0xc095e2e9c8e6125b!8m2!3d22.8191252!4d70.8566553!16s%2Fg%2F11ln78932h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "devashri-maternity-and-surgical-hospital-morbi",
@@ -3335,7 +3363,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Devashri+Maternity+%26+Surgical+Hospital/@22.8119498,70.8285464,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8dcc91e0b:0xd8cb7b59876d2934!8m2!3d22.8119498!4d70.8285464!16s%2Fg%2F11g0t8xyl3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devashri+Maternity+%26+Surgical+Hospital/@22.8119498,70.8285464,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8dcc91e0b:0xd8cb7b59876d2934!8m2!3d22.8119498!4d70.8285464!16s%2Fg%2F11g0t8xyl3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3401,10 +3429,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Devashri+Maternity+%26+Surgical+Hospital/@22.8119498,70.8285464,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8dcc91e0b:0xd8cb7b59876d2934!8m2!3d22.8119498!4d70.8285464!16s%2Fg%2F11g0t8xyl3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "devshri-maternity-and-surgical-hospital-morbi",
@@ -3453,7 +3482,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Devshri+maternity+%26+surgical+hospital/@22.8118911,70.8296656,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8dc659e77:0x390e1ee43361f62e!8m2!3d22.8118911!4d70.8296656!16s%2Fg%2F11f03ns6h3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devshri+maternity+%26+surgical+hospital/@22.8118911,70.8296656,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8dc659e77:0x390e1ee43361f62e!8m2!3d22.8118911!4d70.8296656!16s%2Fg%2F11f03ns6h3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3522,7 +3551,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Devshri+maternity+%26+surgical+hospital/@22.8118911,70.8296656,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8dc659e77:0x390e1ee43361f62e!8m2!3d22.8118911!4d70.8296656!16s%2Fg%2F11f03ns6h3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gdp-morbi-morbi",
@@ -3569,7 +3599,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/GDP+MORBI/@22.8017221,70.7644236,17z/data=!3m1!4b1!4m6!3m5!1s0x3959f3ebc8ef837d:0xccbff3905d32fcfc!8m2!3d22.8017221!4d70.7644236!16s%2Fg%2F11s7mw4bl8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GDP+MORBI/@22.8017221,70.7644236,17z/data=!3m1!4b1!4m6!3m5!1s0x3959f3ebc8ef837d:0xccbff3905d32fcfc!8m2!3d22.8017221!4d70.7644236!16s%2Fg%2F11s7mw4bl8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3635,10 +3665,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GDP+MORBI/@22.8017221,70.7644236,17z/data=!3m1!4b1!4m6!3m5!1s0x3959f3ebc8ef837d:0xccbff3905d32fcfc!8m2!3d22.8017221!4d70.7644236!16s%2Fg%2F11s7mw4bl8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "general-hospital-morbi-morbi",
@@ -3686,7 +3717,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/General+Hospital,+Morbi/@22.8155043,70.8312513,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdea1c31137:0x26eef55794de21bb!8m2!3d22.8155043!4d70.8312513!16s%2Fg%2F11bz0dy1rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/General+Hospital,+Morbi/@22.8155043,70.8312513,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdea1c31137:0x26eef55794de21bb!8m2!3d22.8155043!4d70.8312513!16s%2Fg%2F11bz0dy1rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3752,10 +3783,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/General+Hospital,+Morbi/@22.8155043,70.8312513,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdea1c31137:0x26eef55794de21bb!8m2!3d22.8155043!4d70.8312513!16s%2Fg%2F11bz0dy1rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gokul-hospital-morbi",
@@ -3803,7 +3835,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Gokul+Hospital/@22.8146792,70.8294997,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd94b8d5551:0xc83d8b344ef45ecc!8m2!3d22.8146792!4d70.8294997!16s%2Fg%2F11clgjyg8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gokul+Hospital/@22.8146792,70.8294997,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd94b8d5551:0xc83d8b344ef45ecc!8m2!3d22.8146792!4d70.8294997!16s%2Fg%2F11clgjyg8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3872,7 +3904,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gokul+Hospital/@22.8146792,70.8294997,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd94b8d5551:0xc83d8b344ef45ecc!8m2!3d22.8146792!4d70.8294997!16s%2Fg%2F11clgjyg8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hair-fixing-replacement-center-in-morbi-hair-weaving-hair-pasting-centre-morbi",
@@ -3921,7 +3954,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Hair+Fixing+Replacement+Center+in+Morbi+%7C+Hair+Weaving+%7C+Hair+Pasting+Centre/@22.8120572,70.8309348,17z/data=!3m1!4b1!4m6!3m5!1s0x39598de8b348cc25:0x3b5ca4b4a7524d00!8m2!3d22.8120572!4d70.8309348!16s%2Fg%2F11vx4tv7rv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hair+Fixing+Replacement+Center+in+Morbi+%7C+Hair+Weaving+%7C+Hair+Pasting+Centre/@22.8120572,70.8309348,17z/data=!3m1!4b1!4m6!3m5!1s0x39598de8b348cc25:0x3b5ca4b4a7524d00!8m2!3d22.8120572!4d70.8309348!16s%2Fg%2F11vx4tv7rv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3990,7 +4023,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hair+Fixing+Replacement+Center+in+Morbi+%7C+Hair+Weaving+%7C+Hair+Pasting+Centre/@22.8120572,70.8309348,17z/data=!3m1!4b1!4m6!3m5!1s0x39598de8b348cc25:0x3b5ca4b4a7524d00!8m2!3d22.8120572!4d70.8309348!16s%2Fg%2F11vx4tv7rv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "happy-dental-care-morbi",
@@ -4038,7 +4072,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Happy+Dental+Care/@22.8014772,70.8159368,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2c6c4b9905:0x4a8594ad1029ae21!8m2!3d22.8014772!4d70.8159368!16s%2Fg%2F11bx9c_2cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Happy+Dental+Care/@22.8014772,70.8159368,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2c6c4b9905:0x4a8594ad1029ae21!8m2!3d22.8014772!4d70.8159368!16s%2Fg%2F11bx9c_2cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4104,10 +4138,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Happy+Dental+Care/@22.8014772,70.8159368,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2c6c4b9905:0x4a8594ad1029ae21!8m2!3d22.8014772!4d70.8159368!16s%2Fg%2F11bx9c_2cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ivory-dental-clinic-and-implant-center-prosthodontist-and-implantologist-smile-and-teeth-makeover-orofacial-pain-management-morbi",
@@ -4155,7 +4190,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ivory+Dental+Clinic+%26+Implant+Center+-+Prosthodontist+%26+Implantologist+%2F+Smile+%26+Teeth+Makeover+%2F+Orofacial+Pain+Management/@22.8193443,70.8504665,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dde30824c8d:0x873dcfd60a975442!8m2!3d22.8193443!4d70.8504665!16s%2Fg%2F11x0g0ry7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ivory+Dental+Clinic+%26+Implant+Center+-+Prosthodontist+%26+Implantologist+%2F+Smile+%26+Teeth+Makeover+%2F+Orofacial+Pain+Management/@22.8193443,70.8504665,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dde30824c8d:0x873dcfd60a975442!8m2!3d22.8193443!4d70.8504665!16s%2Fg%2F11x0g0ry7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4221,10 +4256,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ivory+Dental+Clinic+%26+Implant+Center+-+Prosthodontist+%26+Implantologist+%2F+Smile+%26+Teeth+Makeover+%2F+Orofacial+Pain+Management/@22.8193443,70.8504665,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dde30824c8d:0x873dcfd60a975442!8m2!3d22.8193443!4d70.8504665!16s%2Fg%2F11x0g0ry7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "janki-hospital-and-ivf-center-morbi",
@@ -4273,7 +4309,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Janki+Hospital+%26+IVF+CENTER/@22.8108222,70.8256961,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd841e55821:0x7c38756e9341fff0!8m2!3d22.8108222!4d70.8256961!16s%2Fg%2F11bxl911x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janki+Hospital+%26+IVF+CENTER/@22.8108222,70.8256961,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd841e55821:0x7c38756e9341fff0!8m2!3d22.8108222!4d70.8256961!16s%2Fg%2F11bxl911x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4342,7 +4378,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Janki+Hospital+%26+IVF+CENTER/@22.8108222,70.8256961,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd841e55821:0x7c38756e9341fff0!8m2!3d22.8108222!4d70.8256961!16s%2Fg%2F11bxl911x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevan-jyot-eye-hospital-morbi",
@@ -4390,7 +4427,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Jyot+Eye+Hospital/@22.8149241,70.8292791,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd4f0635f2b:0x85cff4241e59f0a4!8m2!3d22.8149241!4d70.8292791!16s%2Fg%2F11fhwgplcw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Jyot+Eye+Hospital/@22.8149241,70.8292791,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd4f0635f2b:0x85cff4241e59f0a4!8m2!3d22.8149241!4d70.8292791!16s%2Fg%2F11fhwgplcw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4459,7 +4496,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Jyot+Eye+Hospital/@22.8149241,70.8292791,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd4f0635f2b:0x85cff4241e59f0a4!8m2!3d22.8149241!4d70.8292791!16s%2Fg%2F11fhwgplcw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "joint-replacement-center-morbi",
@@ -4506,7 +4544,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/JOINT+REPLACEMENT+CENTER/@22.8161864,70.8291211,17z/data=!3m1!4b1!4m6!3m5!1s0x39598de38dec3def:0x4fbb2ba62a772088!8m2!3d22.8161864!4d70.8291211!16s%2Fg%2F11y6_mc6gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JOINT+REPLACEMENT+CENTER/@22.8161864,70.8291211,17z/data=!3m1!4b1!4m6!3m5!1s0x39598de38dec3def:0x4fbb2ba62a772088!8m2!3d22.8161864!4d70.8291211!16s%2Fg%2F11y6_mc6gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4572,10 +4610,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JOINT+REPLACEMENT+CENTER/@22.8161864,70.8291211,17z/data=!3m1!4b1!4m6!3m5!1s0x39598de38dec3def:0x4fbb2ba62a772088!8m2!3d22.8161864!4d70.8291211!16s%2Fg%2F11y6_mc6gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jr-hospital-morbi",
@@ -4624,7 +4663,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/JR+Hospital/@22.8155476,70.8295669,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dc85582ccb5:0xaf4c71260a2a03a1!8m2!3d22.8155476!4d70.8295669!16s%2Fg%2F11v0vss399?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JR+Hospital/@22.8155476,70.8295669,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dc85582ccb5:0xaf4c71260a2a03a1!8m2!3d22.8155476!4d70.8295669!16s%2Fg%2F11v0vss399?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4693,7 +4732,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JR+Hospital/@22.8155476,70.8295669,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dc85582ccb5:0xaf4c71260a2a03a1!8m2!3d22.8155476!4d70.8295669!16s%2Fg%2F11v0vss399?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalrav-hospital-morbi",
@@ -4741,7 +4781,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Kalrav+Hospital/@22.8113442,70.8270191,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8f67b4cc3:0x25a9409eae948bb1!8m2!3d22.8113442!4d70.8270191!16s%2Fg%2F11bxnp3z6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalrav+Hospital/@22.8113442,70.8270191,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8f67b4cc3:0x25a9409eae948bb1!8m2!3d22.8113442!4d70.8270191!16s%2Fg%2F11bxnp3z6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4810,7 +4850,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalrav+Hospital/@22.8113442,70.8270191,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8f67b4cc3:0x25a9409eae948bb1!8m2!3d22.8113442!4d70.8270191!16s%2Fg%2F11bxnp3z6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kanani-s-clinic-morbi",
@@ -4858,7 +4899,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Kanani%27s+Clinic/data=!4m7!3m6!1s0x3959f2cd50b025bd:0xcb3ba3b053191f59!8m2!3d22.8113093!4d70.8275431!16s%2Fg%2F1tf85gx2!19sChIJvSWwUM3yWTkRWR8ZU7CjO8s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kanani%27s+Clinic/data=!4m7!3m6!1s0x3959f2cd50b025bd:0xcb3ba3b053191f59!8m2!3d22.8113093!4d70.8275431!16s%2Fg%2F1tf85gx2!19sChIJvSWwUM3yWTkRWR8ZU7CjO8s?authuser=0&hl=en&rclk=1"
@@ -4927,7 +4968,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kanani%27s+Clinic/data=!4m7!3m6!1s0x3959f2cd50b025bd:0xcb3ba3b053191f59!8m2!3d22.8113093!4d70.8275431!16s%2Fg%2F1tf85gx2!19sChIJvSWwUM3yWTkRWR8ZU7CjO8s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "khushbu-hospital-morbi",
@@ -4975,7 +5017,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Khushbu+Hospital/@22.8099187,70.826512,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc01ba8097:0xf1b7e9d85f05b6be!8m2!3d22.8099187!4d70.826512!16s%2Fg%2F11hd523bg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khushbu+Hospital/@22.8099187,70.826512,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc01ba8097:0xf1b7e9d85f05b6be!8m2!3d22.8099187!4d70.826512!16s%2Fg%2F11hd523bg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5044,7 +5086,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khushbu+Hospital/@22.8099187,70.826512,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc01ba8097:0xf1b7e9d85f05b6be!8m2!3d22.8099187!4d70.826512!16s%2Fg%2F11hd523bg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kiva-skin-hair-advanced-cosmetic-clinic-morbi",
@@ -5093,7 +5136,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kiva+Skin+Hair+Advanced+Cosmetic+Clinic/@22.8172078,70.8301279,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc30ae25df:0x8293a363c9a91d56!8m2!3d22.8172078!4d70.8301279!16s%2Fg%2F11gdkx7sp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kiva+Skin+Hair+Advanced+Cosmetic+Clinic/@22.8172078,70.8301279,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc30ae25df:0x8293a363c9a91d56!8m2!3d22.8172078!4d70.8301279!16s%2Fg%2F11gdkx7sp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5162,7 +5205,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kiva+Skin+Hair+Advanced+Cosmetic+Clinic/@22.8172078,70.8301279,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc30ae25df:0x8293a363c9a91d56!8m2!3d22.8172078!4d70.8301279!16s%2Fg%2F11gdkx7sp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krishna-dental-clinic-dr-narendra-g-hadiyal-morbi",
@@ -5210,7 +5254,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Krishna+Dental+Clinic,Dr+Narendra+G+Hadiyal/@22.8150076,70.8344993,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cde1485f1fd:0xaff7d2e4999a81db!8m2!3d22.8150076!4d70.8344993!16s%2Fg%2F11g10nhptf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Dental+Clinic,Dr+Narendra+G+Hadiyal/@22.8150076,70.8344993,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cde1485f1fd:0xaff7d2e4999a81db!8m2!3d22.8150076!4d70.8344993!16s%2Fg%2F11g10nhptf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5276,10 +5320,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishna+Dental+Clinic,Dr+Narendra+G+Hadiyal/@22.8150076,70.8344993,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cde1485f1fd:0xaff7d2e4999a81db!8m2!3d22.8150076!4d70.8344993!16s%2Fg%2F11g10nhptf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kundariya-dental-care-and-implant-centre-morbi",
@@ -5327,7 +5372,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/KUNDARIYA+DENTAL+CARE+%26+IMPLANT+CENTRE/@22.8281389,70.8496787,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0acc0d593f:0xfb62d7b52892b257!8m2!3d22.8281389!4d70.8496787!16s%2Fg%2F11lkj4qcsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KUNDARIYA+DENTAL+CARE+%26+IMPLANT+CENTRE/@22.8281389,70.8496787,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0acc0d593f:0xfb62d7b52892b257!8m2!3d22.8281389!4d70.8496787!16s%2Fg%2F11lkj4qcsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5393,10 +5438,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KUNDARIYA+DENTAL+CARE+%26+IMPLANT+CENTRE/@22.8281389,70.8496787,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0acc0d593f:0xfb62d7b52892b257!8m2!3d22.8281389!4d70.8496787!16s%2Fg%2F11lkj4qcsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "laparoscopy-endoscopy-surgical-hospital-morbi",
@@ -5442,7 +5488,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Laparoscopy-Endoscopy+Surgical+Hospital/@22.813173,70.829021,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd925769e5b:0x18ea8f5a41bb7cee!8m2!3d22.813173!4d70.829021!16s%2Fg%2F11dxlblnrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laparoscopy-Endoscopy+Surgical+Hospital/@22.813173,70.829021,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd925769e5b:0x18ea8f5a41bb7cee!8m2!3d22.813173!4d70.829021!16s%2Fg%2F11dxlblnrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5508,10 +5554,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laparoscopy-Endoscopy+Surgical+Hospital/@22.813173,70.829021,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd925769e5b:0x18ea8f5a41bb7cee!8m2!3d22.813173!4d70.829021!16s%2Fg%2F11dxlblnrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhav-hospital-morbi",
@@ -5559,7 +5606,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Madhav+Hospital/@22.8155161,70.8291451,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd3fdb0e051:0xc43798cc1746a49!8m2!3d22.8155161!4d70.8291451!16s%2Fg%2F11h1djb4j6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhav+Hospital/@22.8155161,70.8291451,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd3fdb0e051:0xc43798cc1746a49!8m2!3d22.8155161!4d70.8291451!16s%2Fg%2F11h1djb4j6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5628,7 +5675,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhav+Hospital/@22.8155161,70.8291451,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd3fdb0e051:0xc43798cc1746a49!8m2!3d22.8155161!4d70.8291451!16s%2Fg%2F11h1djb4j6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maheshwari-dental-clinic-morbi",
@@ -5677,7 +5725,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Maheshwari+Dental+Clinic/@22.8132155,70.8289942,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd9251347e5:0xdd1739867e8058a6!8m2!3d22.8132155!4d70.8289942!16s%2Fg%2F12604y6w_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maheshwari+Dental+Clinic/@22.8132155,70.8289942,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd9251347e5:0xdd1739867e8058a6!8m2!3d22.8132155!4d70.8289942!16s%2Fg%2F12604y6w_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5743,10 +5791,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maheshwari+Dental+Clinic/@22.8132155,70.8289942,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd9251347e5:0xdd1739867e8058a6!8m2!3d22.8132155!4d70.8289942!16s%2Fg%2F12604y6w_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maheshwari-eye-hospital-morbi",
@@ -5795,7 +5844,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Maheshwari+Eye+Hospital/@22.8152092,70.8298968,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ddaf8e23e13:0xbaf7de4c47396e9c!8m2!3d22.8152092!4d70.8298968!16s%2Fg%2F11ghjftgfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maheshwari+Eye+Hospital/@22.8152092,70.8298968,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ddaf8e23e13:0xbaf7de4c47396e9c!8m2!3d22.8152092!4d70.8298968!16s%2Fg%2F11ghjftgfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5864,7 +5913,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maheshwari+Eye+Hospital/@22.8152092,70.8298968,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ddaf8e23e13:0xbaf7de4c47396e9c!8m2!3d22.8152092!4d70.8298968!16s%2Fg%2F11ghjftgfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maheshwari-hospital-morbi",
@@ -5912,7 +5962,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Maheshwari+Hospital/@22.816935,70.830035,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc0afb0c31:0x158f83f787ffd87e!8m2!3d22.816935!4d70.830035!16s%2Fg%2F11gmgd08zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maheshwari+Hospital/@22.816935,70.830035,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc0afb0c31:0x158f83f787ffd87e!8m2!3d22.816935!4d70.830035!16s%2Fg%2F11gmgd08zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5978,10 +6028,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maheshwari+Hospital/@22.816935,70.830035,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc0afb0c31:0x158f83f787ffd87e!8m2!3d22.816935!4d70.830035!16s%2Fg%2F11gmgd08zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manasvi-clinic-morbi-morbi",
@@ -6029,7 +6080,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Manasvi+Clinic+Morbi/@22.7977316,70.8263164,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d52d46a2a51:0x312b0a58ec063f5c!8m2!3d22.7977316!4d70.8263164!16s%2Fg%2F11h223mwb2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manasvi+Clinic+Morbi/@22.7977316,70.8263164,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d52d46a2a51:0x312b0a58ec063f5c!8m2!3d22.7977316!4d70.8263164!16s%2Fg%2F11h223mwb2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6095,10 +6146,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manasvi+Clinic+Morbi/@22.7977316,70.8263164,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d52d46a2a51:0x312b0a58ec063f5c!8m2!3d22.7977316!4d70.8263164!16s%2Fg%2F11h223mwb2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manglam-hospital-morbi-morbi",
@@ -6146,7 +6198,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Manglam+Hospital,+Morbi/@22.8155013,70.8297258,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc01ba8097:0x4aa24e6910a1cb77!8m2!3d22.8155013!4d70.8297258!16s%2Fg%2F11d_9dp5bs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manglam+Hospital,+Morbi/@22.8155013,70.8297258,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc01ba8097:0x4aa24e6910a1cb77!8m2!3d22.8155013!4d70.8297258!16s%2Fg%2F11d_9dp5bs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6215,7 +6267,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manglam+Hospital,+Morbi/@22.8155013,70.8297258,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc01ba8097:0x4aa24e6910a1cb77!8m2!3d22.8155013!4d70.8297258!16s%2Fg%2F11d_9dp5bs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mann-hospital-morbi",
@@ -6263,7 +6316,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mann+hospital/@22.815085,70.829134,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d1d77bc5ba1:0xe516e326095dd002!8m2!3d22.815085!4d70.829134!16s%2Fg%2F11lkx9h9hj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mann+hospital/@22.815085,70.829134,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d1d77bc5ba1:0xe516e326095dd002!8m2!3d22.815085!4d70.829134!16s%2Fg%2F11lkx9h9hj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6329,10 +6382,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mann+hospital/@22.815085,70.829134,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d1d77bc5ba1:0xe516e326095dd002!8m2!3d22.815085!4d70.829134!16s%2Fg%2F11lkx9h9hj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mantra-ayurveda-panchakarma-and-infertility-centre-morbi",
@@ -6381,7 +6435,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mantra+ayurveda+panchakarma+and+infertility+centre/@22.8032033,70.8260475,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d00229acd69:0x3c6d83f524b57426!8m2!3d22.8032033!4d70.8260475!16s%2Fg%2F11wvklvt8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mantra+ayurveda+panchakarma+and+infertility+centre/@22.8032033,70.8260475,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d00229acd69:0x3c6d83f524b57426!8m2!3d22.8032033!4d70.8260475!16s%2Fg%2F11wvklvt8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6447,10 +6501,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mantra+ayurveda+panchakarma+and+infertility+centre/@22.8032033,70.8260475,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d00229acd69:0x3c6d83f524b57426!8m2!3d22.8032033!4d70.8260475!16s%2Fg%2F11wvklvt8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "masoom-children-and-gynec-hospital-morbi",
@@ -6499,7 +6554,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Masoom+Children+%26+Gynec+Hospital/@22.8120424,70.8265544,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8544f927d:0x10749b4c8631fc7e!8m2!3d22.8120424!4d70.8265544!16s%2Fg%2F12619dv5t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Masoom+Children+%26+Gynec+Hospital/@22.8120424,70.8265544,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8544f927d:0x10749b4c8631fc7e!8m2!3d22.8120424!4d70.8265544!16s%2Fg%2F12619dv5t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6565,10 +6620,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Masoom+Children+%26+Gynec+Hospital/@22.8120424,70.8265544,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8544f927d:0x10749b4c8631fc7e!8m2!3d22.8120424!4d70.8265544!16s%2Fg%2F12619dv5t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mayaan-maternity-hospital-morbi",
@@ -6617,7 +6673,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/MAYAAN+MATERNITY+HOSPITAL/@22.8169136,70.8302163,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc0c56cb7b:0xa3eefa4a53ce98bb!8m2!3d22.8169136!4d70.8302163!16s%2Fg%2F11bytsjy6b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAYAAN+MATERNITY+HOSPITAL/@22.8169136,70.8302163,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc0c56cb7b:0xa3eefa4a53ce98bb!8m2!3d22.8169136!4d70.8302163!16s%2Fg%2F11bytsjy6b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6686,7 +6742,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MAYAAN+MATERNITY+HOSPITAL/@22.8169136,70.8302163,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc0c56cb7b:0xa3eefa4a53ce98bb!8m2!3d22.8169136!4d70.8302163!16s%2Fg%2F11bytsjy6b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mayur-hospital-morbi",
@@ -6734,7 +6791,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Mayur+Hospital/@22.818413,70.8456876,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ce520f6254b:0x75d8672484f53e87!8m2!3d22.818413!4d70.8456876!16s%2Fg%2F11f77694d1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mayur+Hospital/@22.818413,70.8456876,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ce520f6254b:0x75d8672484f53e87!8m2!3d22.818413!4d70.8456876!16s%2Fg%2F11f77694d1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6803,7 +6860,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mayur+Hospital/@22.818413,70.8456876,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ce520f6254b:0x75d8672484f53e87!8m2!3d22.818413!4d70.8456876!16s%2Fg%2F11f77694d1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "morbi-mri-centre-morbi",
@@ -6852,7 +6910,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/MORBI+MRI+CENTRE/@22.8155685,70.8290461,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d51eb7e9f13:0x7cbb21fec260ad93!8m2!3d22.8155685!4d70.8290461!16s%2Fg%2F11nnmg8m_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MORBI+MRI+CENTRE/@22.8155685,70.8290461,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d51eb7e9f13:0x7cbb21fec260ad93!8m2!3d22.8155685!4d70.8290461!16s%2Fg%2F11nnmg8m_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6921,7 +6979,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MORBI+MRI+CENTRE/@22.8155685,70.8290461,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d51eb7e9f13:0x7cbb21fec260ad93!8m2!3d22.8155685!4d70.8290461!16s%2Fg%2F11nnmg8m_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "naklank-hospital-morbi-morbi",
@@ -6969,7 +7028,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Naklank+Hospital+Morbi/@22.8121765,70.8280538,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d28f912dacd:0x646064c79d1a7d5d!8m2!3d22.8121765!4d70.8280538!16s%2Fg%2F11c0y1w5y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naklank+Hospital+Morbi/@22.8121765,70.8280538,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d28f912dacd:0x646064c79d1a7d5d!8m2!3d22.8121765!4d70.8280538!16s%2Fg%2F11c0y1w5y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7038,7 +7097,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Naklank+Hospital+Morbi/@22.8121765,70.8280538,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d28f912dacd:0x646064c79d1a7d5d!8m2!3d22.8121765!4d70.8280538!16s%2Fg%2F11c0y1w5y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "navjivan-hospital-morbi",
@@ -7084,7 +7144,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Navjivan+Hospital/@22.8126271,70.8288737,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d10f17622f9:0x5049a2c503aa261!8m2!3d22.8126271!4d70.8288737!16s%2Fg%2F11hz0k455y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navjivan+Hospital/@22.8126271,70.8288737,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d10f17622f9:0x5049a2c503aa261!8m2!3d22.8126271!4d70.8288737!16s%2Fg%2F11hz0k455y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7150,10 +7210,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Navjivan+Hospital/@22.8126271,70.8288737,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d10f17622f9:0x5049a2c503aa261!8m2!3d22.8126271!4d70.8288737!16s%2Fg%2F11hz0k455y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "netra-eye-hospital-and-lasik-center-morbi",
@@ -7201,7 +7262,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Netra+eye+hospital+and+lasik+center/@22.815467,70.8291487,17z/data=!3m1!4b1!4m6!3m5!1s0x39598da7f3a53291:0xcb9bb7840c26477b!8m2!3d22.815467!4d70.8291487!16s%2Fg%2F11jbds1ccx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Netra+eye+hospital+and+lasik+center/@22.815467,70.8291487,17z/data=!3m1!4b1!4m6!3m5!1s0x39598da7f3a53291:0xcb9bb7840c26477b!8m2!3d22.815467!4d70.8291487!16s%2Fg%2F11jbds1ccx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7267,10 +7328,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Netra+eye+hospital+and+lasik+center/@22.815467,70.8291487,17z/data=!3m1!4b1!4m6!3m5!1s0x39598da7f3a53291:0xcb9bb7840c26477b!8m2!3d22.815467!4d70.8291487!16s%2Fg%2F11jbds1ccx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-life-clinic-morbi",
@@ -7316,7 +7378,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/New+life+clinic/@22.819824,70.8277712,17z/data=!3m1!4b1!4m6!3m5!1s0x39598df4e4e9685b:0x937f241d609f588!8m2!3d22.819824!4d70.8277712!16s%2Fg%2F11shzfp2s6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+life+clinic/@22.819824,70.8277712,17z/data=!3m1!4b1!4m6!3m5!1s0x39598df4e4e9685b:0x937f241d609f588!8m2!3d22.819824!4d70.8277712!16s%2Fg%2F11shzfp2s6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7382,10 +7444,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+life+clinic/@22.819824,70.8277712,17z/data=!3m1!4b1!4m6!3m5!1s0x39598df4e4e9685b:0x937f241d609f588!8m2!3d22.819824!4d70.8277712!16s%2Fg%2F11shzfp2s6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "newtech-diagnostic-laboratory-morbi",
@@ -7435,7 +7498,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NEWTECH+DIAGNOSTIC+LABORATORY/data=!4m7!3m6!1s0x39598d8909d84fc5:0xc7823e76894a9bcf!8m2!3d22.814898!4d70.8291106!16s%2Fg%2F11q8vhs0rp!19sChIJxU_YCYmNWTkRz5tKiXY-gsc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEWTECH+DIAGNOSTIC+LABORATORY/data=!4m7!3m6!1s0x39598d8909d84fc5:0xc7823e76894a9bcf!8m2!3d22.814898!4d70.8291106!16s%2Fg%2F11q8vhs0rp!19sChIJxU_YCYmNWTkRz5tKiXY-gsc?authuser=0&hl=en&rclk=1"
@@ -7501,10 +7564,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEWTECH+DIAGNOSTIC+LABORATORY/data=!4m7!3m6!1s0x39598d8909d84fc5:0xc7823e76894a9bcf!8m2!3d22.814898!4d70.8291106!16s%2Fg%2F11q8vhs0rp!19sChIJxU_YCYmNWTkRz5tKiXY-gsc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nilkanth-naturopathy-clinic-in-morbi-morbi",
@@ -7552,7 +7616,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Nilkanth+Naturopathy+Clinic+in+Morbi/@22.7985375,70.8263594,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d8c216bf721:0xe530c913d8d8e035!8m2!3d22.7985375!4d70.8263594!16s%2Fg%2F11ld8nhdj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nilkanth+Naturopathy+Clinic+in+Morbi/@22.7985375,70.8263594,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d8c216bf721:0xe530c913d8d8e035!8m2!3d22.7985375!4d70.8263594!16s%2Fg%2F11ld8nhdj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7621,7 +7685,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nilkanth+Naturopathy+Clinic+in+Morbi/@22.7985375,70.8263594,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d8c216bf721:0xe530c913d8d8e035!8m2!3d22.7985375!4d70.8263594!16s%2Fg%2F11ld8nhdj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ojas-skin-hair-and-cosmetic-clinic-morbi",
@@ -7669,7 +7734,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Ojas+Skin,+Hair+%26+Cosmetic+Clinic/@22.7986573,70.826194,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d042d1313a5:0x6d8e5117787c5129!8m2!3d22.7986573!4d70.826194!16s%2Fg%2F11l5l902tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ojas+Skin,+Hair+%26+Cosmetic+Clinic/@22.7986573,70.826194,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d042d1313a5:0x6d8e5117787c5129!8m2!3d22.7986573!4d70.826194!16s%2Fg%2F11l5l902tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7738,7 +7803,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ojas+Skin,+Hair+%26+Cosmetic+Clinic/@22.7986573,70.826194,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d042d1313a5:0x6d8e5117787c5129!8m2!3d22.7986573!4d70.826194!16s%2Fg%2F11l5l902tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pavan-surgical-hospital-haras-masha-bhagandar-ni-hospital-morbi",
@@ -7786,7 +7852,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Pavan+surgical+hospital+haras+masha+bhagandar+ni+hospital/data=!4m7!3m6!1s0x39598d971abf2b4f:0x145655c879659c39!8m2!3d22.8121171!4d70.8276132!16s%2Fg%2F11twq5bjnt!19sChIJTyu_GpeNWTkROZxlechVVhQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pavan+surgical+hospital+haras+masha+bhagandar+ni+hospital/data=!4m7!3m6!1s0x39598d971abf2b4f:0x145655c879659c39!8m2!3d22.8121171!4d70.8276132!16s%2Fg%2F11twq5bjnt!19sChIJTyu_GpeNWTkROZxlechVVhQ?authuser=0&hl=en&rclk=1"
@@ -7852,10 +7918,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pavan+surgical+hospital+haras+masha+bhagandar+ni+hospital/data=!4m7!3m6!1s0x39598d971abf2b4f:0x145655c879659c39!8m2!3d22.8121171!4d70.8276132!16s%2Fg%2F11twq5bjnt!19sChIJTyu_GpeNWTkROZxlechVVhQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pransh-dental-clinic-morbi",
@@ -7903,7 +7970,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/PRANSH+DENTAL+CLINIC/@22.8267141,70.8542603,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d591dcb04bd:0x971c91337b7813a3!8m2!3d22.8267141!4d70.8542603!16s%2Fg%2F11tjw3g_t8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRANSH+DENTAL+CLINIC/@22.8267141,70.8542603,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d591dcb04bd:0x971c91337b7813a3!8m2!3d22.8267141!4d70.8542603!16s%2Fg%2F11tjw3g_t8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7969,10 +8036,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PRANSH+DENTAL+CLINIC/@22.8267141,70.8542603,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d591dcb04bd:0x971c91337b7813a3!8m2!3d22.8267141!4d70.8542603!16s%2Fg%2F11tjw3g_t8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radhe-ent-hospital-and-laser-centre-morbi",
@@ -8022,7 +8090,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RADHE+ENT+HOSPITAL+%26+LASER+CENTRE/@22.8112662,70.8275598,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d28bd96f387:0x90c4f7cfb85558ad!8m2!3d22.8112662!4d70.8275598!16s%2Fg%2F11g3w07g2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RADHE+ENT+HOSPITAL+%26+LASER+CENTRE/@22.8112662,70.8275598,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d28bd96f387:0x90c4f7cfb85558ad!8m2!3d22.8112662!4d70.8275598!16s%2Fg%2F11g3w07g2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8088,10 +8156,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RADHE+ENT+HOSPITAL+%26+LASER+CENTRE/@22.8112662,70.8275598,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d28bd96f387:0x90c4f7cfb85558ad!8m2!3d22.8112662!4d70.8275598!16s%2Fg%2F11g3w07g2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radhe-krishna-hospital-and-imaging-centre-morbi",
@@ -8139,7 +8208,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Radhe+Krishna+Hospital+and+imaging+centre/@22.815452,70.829564,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbfe50210f:0x1cd6d9cd783d0f1b!8m2!3d22.815452!4d70.829564!16s%2Fg%2F11gc9h1p5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radhe+Krishna+Hospital+and+imaging+centre/@22.815452,70.829564,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbfe50210f:0x1cd6d9cd783d0f1b!8m2!3d22.815452!4d70.829564!16s%2Fg%2F11gc9h1p5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8208,7 +8277,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radhe+Krishna+Hospital+and+imaging+centre/@22.815452,70.829564,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbfe50210f:0x1cd6d9cd783d0f1b!8m2!3d22.815452!4d70.829564!16s%2Fg%2F11gc9h1p5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rama-dental-clinic-morbi-morbi",
@@ -8258,7 +8328,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rama+Dental+Clinic,+Morbi/@22.8177876,70.8388477,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d05a1000ee9:0xe669f2ff95544e57!8m2!3d22.8177876!4d70.8388477!16s%2Fg%2F11jgdrlz07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rama+Dental+Clinic,+Morbi/@22.8177876,70.8388477,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d05a1000ee9:0xe669f2ff95544e57!8m2!3d22.8177876!4d70.8388477!16s%2Fg%2F11jgdrlz07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8324,10 +8394,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rama+Dental+Clinic,+Morbi/@22.8177876,70.8388477,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d05a1000ee9:0xe669f2ff95544e57!8m2!3d22.8177876!4d70.8388477!16s%2Fg%2F11jgdrlz07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rankja-dental-clinic-morbi",
@@ -8375,7 +8446,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rankja+Dental+Clinic/@22.7999132,70.8258295,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d000020ee81:0x705709acf03f93dd!8m2!3d22.7999132!4d70.8258295!16s%2Fg%2F11s3b04z64?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rankja+Dental+Clinic/@22.7999132,70.8258295,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d000020ee81:0x705709acf03f93dd!8m2!3d22.7999132!4d70.8258295!16s%2Fg%2F11s3b04z64?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8441,10 +8512,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rankja+Dental+Clinic/@22.7999132,70.8258295,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d000020ee81:0x705709acf03f93dd!8m2!3d22.7999132!4d70.8258295!16s%2Fg%2F11s3b04z64?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rudraksh-dental-clinic-morbi",
@@ -8493,7 +8565,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Rudraksh+Dental+Clinic/@22.8112574,70.8273742,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8f3c80fff:0x5384a7db199a932f!8m2!3d22.8112574!4d70.8273742!16s%2Fg%2F1263w0v60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rudraksh+Dental+Clinic/@22.8112574,70.8273742,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8f3c80fff:0x5384a7db199a932f!8m2!3d22.8112574!4d70.8273742!16s%2Fg%2F1263w0v60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8562,7 +8634,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rudraksh+Dental+Clinic/@22.8112574,70.8273742,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8f3c80fff:0x5384a7db199a932f!8m2!3d22.8112574!4d70.8273742!16s%2Fg%2F1263w0v60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "satyam-hospital-morbi",
@@ -8610,7 +8683,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Satyam+Hospital/@22.8099648,70.8267896,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dea03ae0faf:0x406cd350869eb1a0!8m2!3d22.8099648!4d70.8267896!16s%2Fg%2F11gtgfwff1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satyam+Hospital/@22.8099648,70.8267896,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dea03ae0faf:0x406cd350869eb1a0!8m2!3d22.8099648!4d70.8267896!16s%2Fg%2F11gtgfwff1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8679,7 +8752,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Satyam+Hospital/@22.8099648,70.8267896,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dea03ae0faf:0x406cd350869eb1a0!8m2!3d22.8099648!4d70.8267896!16s%2Fg%2F11gtgfwff1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shanti-clinic-morbi-2-morbi",
@@ -8727,7 +8801,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Shanti+Clinic,+Morbi+-2./@22.8192207,70.8560022,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cf92e7c36dd:0xd6c95070d801452!8m2!3d22.8192207!4d70.8560022!16s%2Fg%2F11b6mspfc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+Clinic,+Morbi+-2./@22.8192207,70.8560022,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cf92e7c36dd:0xd6c95070d801452!8m2!3d22.8192207!4d70.8560022!16s%2Fg%2F11b6mspfc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8796,7 +8870,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanti+Clinic,+Morbi+-2./@22.8192207,70.8560022,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cf92e7c36dd:0xd6c95070d801452!8m2!3d22.8192207!4d70.8560022!16s%2Fg%2F11b6mspfc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shanti-physiotherapy-clinic-dr-bhavesh-thoriya-morbi",
@@ -8845,7 +8920,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shanti+Physiotherapy+Clinic,Dr+Bhavesh+Thoriya/@22.814189,70.8301942,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb6fc55cd:0x787c07142e1e93d0!8m2!3d22.814189!4d70.8301942!16s%2Fg%2F11r97n8_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+Physiotherapy+Clinic,Dr+Bhavesh+Thoriya/@22.814189,70.8301942,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb6fc55cd:0x787c07142e1e93d0!8m2!3d22.814189!4d70.8301942!16s%2Fg%2F11r97n8_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8914,7 +8989,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanti+Physiotherapy+Clinic,Dr+Bhavesh+Thoriya/@22.814189,70.8301942,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb6fc55cd:0x787c07142e1e93d0!8m2!3d22.814189!4d70.8301942!16s%2Fg%2F11r97n8_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shashwat-hospitals-morbi-morbi",
@@ -8963,7 +9039,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shashwat+Hospitals+-+Morbi/@22.8117756,70.8266408,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d42605dbba7:0xfaa4ab0df664fd38!8m2!3d22.8117756!4d70.8266408!16s%2Fg%2F11yyct14s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shashwat+Hospitals+-+Morbi/@22.8117756,70.8266408,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d42605dbba7:0xfaa4ab0df664fd38!8m2!3d22.8117756!4d70.8266408!16s%2Fg%2F11yyct14s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9029,10 +9105,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shashwat+Hospitals+-+Morbi/@22.8117756,70.8266408,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d42605dbba7:0xfaa4ab0df664fd38!8m2!3d22.8117756!4d70.8266408!16s%2Fg%2F11yyct14s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivam-hospital-sanjeevani-laboratory-morbi",
@@ -9080,7 +9157,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Shivam+Hospital+Sanjeevani+Laboratory/@22.8146279,70.8298653,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb3313ab3:0x91248c0897aded49!8m2!3d22.8146279!4d70.8298653!16s%2Fg%2F11c60fv_g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivam+Hospital+Sanjeevani+Laboratory/@22.8146279,70.8298653,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb3313ab3:0x91248c0897aded49!8m2!3d22.8146279!4d70.8298653!16s%2Fg%2F11c60fv_g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9146,10 +9223,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivam+Hospital+Sanjeevani+Laboratory/@22.8146279,70.8298653,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb3313ab3:0x91248c0897aded49!8m2!3d22.8146279!4d70.8298653!16s%2Fg%2F11c60fv_g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shraddha-dental-clinic-and-implant-centre-morbi",
@@ -9198,7 +9276,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shraddha+Dental+Clinic+%26+Implant+Centre/@22.807709,70.824003,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2875c01c67:0x76574675c368ce32!8m2!3d22.807709!4d70.824003!16s%2Fg%2F11b6dg41w0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shraddha+Dental+Clinic+%26+Implant+Centre/@22.807709,70.824003,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2875c01c67:0x76574675c368ce32!8m2!3d22.807709!4d70.824003!16s%2Fg%2F11b6dg41w0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9264,10 +9342,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shraddha+Dental+Clinic+%26+Implant+Centre/@22.807709,70.824003,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2875c01c67:0x76574675c368ce32!8m2!3d22.807709!4d70.824003!16s%2Fg%2F11b6dg41w0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-om-dental-care-morbi",
@@ -9315,7 +9394,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Om+Dental+Care/@22.7997331,70.8200651,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2e5a241d15:0x41c636187a6e3ebf!8m2!3d22.7997331!4d70.8200651!16s%2Fg%2F11g2z2_x13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Om+Dental+Care/@22.7997331,70.8200651,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2e5a241d15:0x41c636187a6e3ebf!8m2!3d22.7997331!4d70.8200651!16s%2Fg%2F11g2z2_x13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9381,10 +9460,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Om+Dental+Care/@22.7997331,70.8200651,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2e5a241d15:0x41c636187a6e3ebf!8m2!3d22.7997331!4d70.8200651!16s%2Fg%2F11g2z2_x13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shreeji-hospital-and-icu-morbi",
@@ -9432,7 +9512,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shreeji+Hospital+%26+ICU/@22.8157954,70.8302847,17z/data=!3m1!4b1!4m6!3m5!1s0x39598da0860c2bb3:0x2db45cd503f5df53!8m2!3d22.8157954!4d70.8302847!16s%2Fg%2F11nx3lc_24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreeji+Hospital+%26+ICU/@22.8157954,70.8302847,17z/data=!3m1!4b1!4m6!3m5!1s0x39598da0860c2bb3:0x2db45cd503f5df53!8m2!3d22.8157954!4d70.8302847!16s%2Fg%2F11nx3lc_24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9498,10 +9578,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shreeji+Hospital+%26+ICU/@22.8157954,70.8302847,17z/data=!3m1!4b1!4m6!3m5!1s0x39598da0860c2bb3:0x2db45cd503f5df53!8m2!3d22.8157954!4d70.8302847!16s%2Fg%2F11nx3lc_24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shubh-clinic-morbi",
@@ -9549,7 +9630,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shubh+Clinic/@22.8003742,70.8316522,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d55b0177f15:0x5d2c3be0ddbd4ad3!8m2!3d22.8003742!4d70.8316522!16s%2Fg%2F11stpsq8q0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubh+Clinic/@22.8003742,70.8316522,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d55b0177f15:0x5d2c3be0ddbd4ad3!8m2!3d22.8003742!4d70.8316522!16s%2Fg%2F11stpsq8q0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9615,10 +9696,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shubh+Clinic/@22.8003742,70.8316522,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d55b0177f15:0x5d2c3be0ddbd4ad3!8m2!3d22.8003742!4d70.8316522!16s%2Fg%2F11stpsq8q0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shubh-hospital-and-heart-care-morbi",
@@ -9667,7 +9749,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Shubh+Hospital+%26+Heart+Care/@22.8179547,70.828781,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdb9bfb877f:0x22c3714f84b2d3c2!8m2!3d22.8179547!4d70.828781!16s%2Fg%2F11f15gnw32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubh+Hospital+%26+Heart+Care/@22.8179547,70.828781,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdb9bfb877f:0x22c3714f84b2d3c2!8m2!3d22.8179547!4d70.828781!16s%2Fg%2F11f15gnw32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9736,7 +9818,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shubh+Hospital+%26+Heart+Care/@22.8179547,70.828781,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdb9bfb877f:0x22c3714f84b2d3c2!8m2!3d22.8179547!4d70.828781!16s%2Fg%2F11f15gnw32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shubh-hospital-and-icu-morbi",
@@ -9784,7 +9867,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SHUBH+HOSPITAL+AND+ICU/@22.8101605,70.826423,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d004efc42f1:0xc00804d0265118fb!8m2!3d22.8101605!4d70.826423!16s%2Fg%2F11yd1f6dyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHUBH+HOSPITAL+AND+ICU/@22.8101605,70.826423,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d004efc42f1:0xc00804d0265118fb!8m2!3d22.8101605!4d70.826423!16s%2Fg%2F11yd1f6dyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9850,10 +9933,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHUBH+HOSPITAL+AND+ICU/@22.8101605,70.826423,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d004efc42f1:0xc00804d0265118fb!8m2!3d22.8101605!4d70.826423!16s%2Fg%2F11yd1f6dyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shyam-hospital-morbi",
@@ -9901,7 +9985,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Shyam+Hospital/@22.8152272,70.8295101,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb41009c5:0x90f71eded79581e7!8m2!3d22.8152272!4d70.8295101!16s%2Fg%2F1261fzq4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shyam+Hospital/@22.8152272,70.8295101,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb41009c5:0x90f71eded79581e7!8m2!3d22.8152272!4d70.8295101!16s%2Fg%2F1261fzq4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9970,7 +10054,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shyam+Hospital/@22.8152272,70.8295101,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb41009c5:0x90f71eded79581e7!8m2!3d22.8152272!4d70.8295101!16s%2Fg%2F1261fzq4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-dental-clinic-and-implant-center-best-dental-clinic-morbi-best-dental-hospital-morbi-morbi",
@@ -10018,7 +10103,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Dental+Clinic+And+Implant+center+best+dental+clinic+morbi,+best+dental+hospital+morbi/@22.8109922,70.8266911,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdecbce1de3:0x9aac4ed4d6a22cd5!8m2!3d22.8109922!4d70.8266911!16s%2Fg%2F1263498xh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Dental+Clinic+And+Implant+center+best+dental+clinic+morbi,+best+dental+hospital+morbi/@22.8109922,70.8266911,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdecbce1de3:0x9aac4ed4d6a22cd5!8m2!3d22.8109922!4d70.8266911!16s%2Fg%2F1263498xh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10084,10 +10169,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Dental+Clinic+And+Implant+center+best+dental+clinic+morbi,+best+dental+hospital+morbi/@22.8109922,70.8266911,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdecbce1de3:0x9aac4ed4d6a22cd5!8m2!3d22.8109922!4d70.8266911!16s%2Fg%2F1263498xh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sparsh-children-and-neonatal-hospital-morbi",
@@ -10137,7 +10223,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SPARSH+CHILDREN+%26+NEONATAL+HOSPITAL/@22.8125204,70.8282553,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd931ddb75d:0xa5a88a25fa002f2!8m2!3d22.8125204!4d70.8282553!16s%2Fg%2F11c3k2vbb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SPARSH+CHILDREN+%26+NEONATAL+HOSPITAL/@22.8125204,70.8282553,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd931ddb75d:0xa5a88a25fa002f2!8m2!3d22.8125204!4d70.8282553!16s%2Fg%2F11c3k2vbb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10206,7 +10292,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SPARSH+CHILDREN+%26+NEONATAL+HOSPITAL/@22.8125204,70.8282553,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd931ddb75d:0xa5a88a25fa002f2!8m2!3d22.8125204!4d70.8282553!16s%2Fg%2F11c3k2vbb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "star-hospital-morbi",
@@ -10254,7 +10341,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Star+Hospital/@22.8154337,70.8294141,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d262f8a307d:0xf87cf5328101ca2!8m2!3d22.8154337!4d70.8294141!16s%2Fg%2F11yzmk_gkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+Hospital/@22.8154337,70.8294141,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d262f8a307d:0xf87cf5328101ca2!8m2!3d22.8154337!4d70.8294141!16s%2Fg%2F11yzmk_gkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10320,10 +10407,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Star+Hospital/@22.8154337,70.8294141,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d262f8a307d:0xf87cf5328101ca2!8m2!3d22.8154337!4d70.8294141!16s%2Fg%2F11yzmk_gkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "staywell-homeo-cosmetic-clinic-morbi",
@@ -10371,7 +10459,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Staywell+Homeo+Cosmetic+Clinic/@22.8143954,70.8308821,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dbfce60a891:0xfb26661a6103c130!8m2!3d22.8143954!4d70.8308821!16s%2Fg%2F11v6018t0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Staywell+Homeo+Cosmetic+Clinic/@22.8143954,70.8308821,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dbfce60a891:0xfb26661a6103c130!8m2!3d22.8143954!4d70.8308821!16s%2Fg%2F11v6018t0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10437,10 +10525,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Staywell+Homeo+Cosmetic+Clinic/@22.8143954,70.8308821,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dbfce60a891:0xfb26661a6103c130!8m2!3d22.8143954!4d70.8308821!16s%2Fg%2F11v6018t0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "subham-hospital-morbi",
@@ -10489,7 +10578,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Subham+Hospital/@22.8112985,70.8266651,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d55b93636e5:0xf4a8cbe88b2d3021!8m2!3d22.8112985!4d70.8266651!16s%2Fg%2F11qqlxgg2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Subham+Hospital/@22.8112985,70.8266651,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d55b93636e5:0xf4a8cbe88b2d3021!8m2!3d22.8112985!4d70.8266651!16s%2Fg%2F11qqlxgg2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10558,7 +10647,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Subham+Hospital/@22.8112985,70.8266651,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d55b93636e5:0xf4a8cbe88b2d3021!8m2!3d22.8112985!4d70.8266651!16s%2Fg%2F11qqlxgg2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sudeep-eye-hospital-and-laser-centre-morbi",
@@ -10606,7 +10696,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sudeep+Eye+Hospital+%26+Laser+Centre/@22.8147648,70.8296747,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d480326e1cd:0x532e485994d136c8!8m2!3d22.8147648!4d70.8296747!16s%2Fg%2F11jqvcksq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudeep+Eye+Hospital+%26+Laser+Centre/@22.8147648,70.8296747,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d480326e1cd:0x532e485994d136c8!8m2!3d22.8147648!4d70.8296747!16s%2Fg%2F11jqvcksq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10675,7 +10765,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sudeep+Eye+Hospital+%26+Laser+Centre/@22.8147648,70.8296747,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d480326e1cd:0x532e485994d136c8!8m2!3d22.8147648!4d70.8296747!16s%2Fg%2F11jqvcksq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sushrut-hospital-morbi-morbi",
@@ -10723,7 +10814,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sushrut+Hospital+Morbi/@22.8155875,70.8291822,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb44065f3:0x26373bb6add939b5!8m2!3d22.8155875!4d70.8291822!16s%2Fg%2F11f37703mx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sushrut+Hospital+Morbi/@22.8155875,70.8291822,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb44065f3:0x26373bb6add939b5!8m2!3d22.8155875!4d70.8291822!16s%2Fg%2F11f37703mx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10789,10 +10880,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sushrut+Hospital+Morbi/@22.8155875,70.8291822,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb44065f3:0x26373bb6add939b5!8m2!3d22.8155875!4d70.8291822!16s%2Fg%2F11f37703mx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tanna-clinic-morbi",
@@ -10840,7 +10932,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Tanna+Clinic/@22.8165625,70.8299375,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc09a87cdd:0x68179e9bd19e0a03!8m2!3d22.8165625!4d70.8299375!16s%2Fg%2F11fb0r7hqq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tanna+Clinic/@22.8165625,70.8299375,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc09a87cdd:0x68179e9bd19e0a03!8m2!3d22.8165625!4d70.8299375!16s%2Fg%2F11fb0r7hqq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10906,10 +10998,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tanna+Clinic/@22.8165625,70.8299375,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc09a87cdd:0x68179e9bd19e0a03!8m2!3d22.8165625!4d70.8299375!16s%2Fg%2F11fb0r7hqq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "uic-imaging-and-diagnostics-centre-morbi-morbi",
@@ -10959,7 +11052,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/UIC+Imaging+and+Diagnostics+Centre+Morbi/@22.814167,70.8292791,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d5dcee314a9:0xf3f6a4dff88adc0b!8m2!3d22.814167!4d70.8292791!16s%2Fg%2F11mrhmywdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UIC+Imaging+and+Diagnostics+Centre+Morbi/@22.814167,70.8292791,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d5dcee314a9:0xf3f6a4dff88adc0b!8m2!3d22.814167!4d70.8292791!16s%2Fg%2F11mrhmywdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11025,10 +11118,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/UIC+Imaging+and+Diagnostics+Centre+Morbi/@22.814167,70.8292791,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d5dcee314a9:0xf3f6a4dff88adc0b!8m2!3d22.814167!4d70.8292791!16s%2Fg%2F11mrhmywdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vadaliya-morbi",
@@ -11076,7 +11170,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vadaliya/@22.8143125,70.8295625,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0d463fe5ff:0x3f8e3eb57326f168!8m2!3d22.8143125!4d70.8295625!16s%2Fg%2F11h_tcybxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vadaliya/@22.8143125,70.8295625,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0d463fe5ff:0x3f8e3eb57326f168!8m2!3d22.8143125!4d70.8295625!16s%2Fg%2F11h_tcybxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11142,10 +11236,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vadaliya/@22.8143125,70.8295625,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0d463fe5ff:0x3f8e3eb57326f168!8m2!3d22.8143125!4d70.8295625!16s%2Fg%2F11h_tcybxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "venus-skin-clinic-morbi",
@@ -11193,7 +11288,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Venus+skin+clinic/@22.8126651,70.8277155,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2c32294a99:0x73a10a4dc3dd922a!8m2!3d22.8126651!4d70.8277155!16s%2Fg%2F11n19101x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Venus+skin+clinic/@22.8126651,70.8277155,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2c32294a99:0x73a10a4dc3dd922a!8m2!3d22.8126651!4d70.8277155!16s%2Fg%2F11n19101x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11259,10 +11354,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Venus+skin+clinic/@22.8126651,70.8277155,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2c32294a99:0x73a10a4dc3dd922a!8m2!3d22.8126651!4d70.8277155!16s%2Fg%2F11n19101x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "verdan-hospital-morbi",
@@ -11310,7 +11406,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Verdan+Hospital/data=!4m7!3m6!1s0x39598cdc01ba8097:0x3520d5826fdd0240!8m2!3d22.817068!4d70.8299907!16s%2Fg%2F11f55jrb67!19sChIJl4C6AdyMWTkRQALdb4LVIDU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Verdan+Hospital/data=!4m7!3m6!1s0x39598cdc01ba8097:0x3520d5826fdd0240!8m2!3d22.817068!4d70.8299907!16s%2Fg%2F11f55jrb67!19sChIJl4C6AdyMWTkRQALdb4LVIDU?authuser=0&hl=en&rclk=1"
@@ -11379,7 +11475,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Verdan+Hospital/data=!4m7!3m6!1s0x39598cdc01ba8097:0x3520d5826fdd0240!8m2!3d22.817068!4d70.8299907!16s%2Fg%2F11f55jrb67!19sChIJl4C6AdyMWTkRQALdb4LVIDU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vision-eye-hospital-morbi",
@@ -11428,7 +11525,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vision+Eye+Hospital/@22.8133551,70.8291615,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d34816cdedd:0x1ad797f04fddf54!8m2!3d22.8133551!4d70.8291615!16s%2Fg%2F11tjpv1_2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vision+Eye+Hospital/@22.8133551,70.8291615,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d34816cdedd:0x1ad797f04fddf54!8m2!3d22.8133551!4d70.8291615!16s%2Fg%2F11tjpv1_2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11494,10 +11591,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vision+Eye+Hospital/@22.8133551,70.8291615,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d34816cdedd:0x1ad797f04fddf54!8m2!3d22.8133551!4d70.8291615!16s%2Fg%2F11tjpv1_2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vraj-hospital-morbi",
@@ -11545,7 +11643,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Vraj+Hospital(%E0%AA%B5%E0%AB%8D%E0%AA%B0%E0%AA%9C+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2)/@22.8148939,70.8297189,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd94d6c49c9:0xfb7edbead8afe5eb!8m2!3d22.8148939!4d70.8297189!16s%2Fg%2F1hc4nn_7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vraj+Hospital(%E0%AA%B5%E0%AB%8D%E0%AA%B0%E0%AA%9C+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2)/@22.8148939,70.8297189,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd94d6c49c9:0xfb7edbead8afe5eb!8m2!3d22.8148939!4d70.8297189!16s%2Fg%2F1hc4nn_7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11614,7 +11712,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vraj+Hospital(%E0%AA%B5%E0%AB%8D%E0%AA%B0%E0%AA%9C+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2)/@22.8148939,70.8297189,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd94d6c49c9:0xfb7edbead8afe5eb!8m2!3d22.8148939!4d70.8297189!16s%2Fg%2F1hc4nn_7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yatharth-ayurveda-clinic-and-panchakarma-centre-morbi",
@@ -11662,7 +11761,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Yatharth+Ayurveda+clinic+and+Panchakarma+Centre/@22.7986187,70.8263868,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d000e8fb21b:0xfb95e7030f622877!8m2!3d22.7986187!4d70.8263868!16s%2Fg%2F11m6fm8xns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yatharth+Ayurveda+clinic+and+Panchakarma+Centre/@22.7986187,70.8263868,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d000e8fb21b:0xfb95e7030f622877!8m2!3d22.7986187!4d70.8263868!16s%2Fg%2F11m6fm8xns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11728,10 +11827,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yatharth+Ayurveda+clinic+and+Panchakarma+Centre/@22.7986187,70.8263868,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d000e8fb21b:0xfb95e7030f622877!8m2!3d22.7986187!4d70.8263868!16s%2Fg%2F11m6fm8xns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "morbi",
@@ -11779,7 +11879,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/%E0%AA%9C%E0%AA%A8%E0%AA%A8%E0%AB%80+%E0%AA%97%E0%AA%BE%E0%AA%AF%E0%AA%A8%E0%AB%87%E0%AA%95+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@22.8140557,70.8291595,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d4dac7a93c9:0x66d3bfbfd2bfe737!8m2!3d22.8140557!4d70.8291595!16s%2Fg%2F11fk1dg7xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%AA%9C%E0%AA%A8%E0%AA%A8%E0%AB%80+%E0%AA%97%E0%AA%BE%E0%AA%AF%E0%AA%A8%E0%AB%87%E0%AA%95+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@22.8140557,70.8291595,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d4dac7a93c9:0x66d3bfbfd2bfe737!8m2!3d22.8140557!4d70.8291595!16s%2Fg%2F11fk1dg7xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11848,7 +11948,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%AA%9C%E0%AA%A8%E0%AA%A8%E0%AB%80+%E0%AA%97%E0%AA%BE%E0%AA%AF%E0%AA%A8%E0%AB%87%E0%AA%95+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@22.8140557,70.8291595,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d4dac7a93c9:0x66d3bfbfd2bfe737!8m2!3d22.8140557!4d70.8291595!16s%2Fg%2F11fk1dg7xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "morbi",
@@ -11894,7 +11995,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%AA%9C%E0%AB%80%E0%AA%B5%E0%AA%A8%E0%AA%A6%E0%AB%80%E0%AA%AA+%E0%AA%95%E0%AB%8D%E0%AA%B2%E0%AA%BF%E0%AA%A8%E0%AA%BF%E0%AA%95+%E0%AA%A1%E0%AB%8B.%E0%AA%B0%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%BE+%E0%AA%AA%E0%AA%9F%E0%AB%87%E0%AA%B2/@22.7991206,70.826533,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0029c75767:0xd3f78a7cc3cfaf61!8m2!3d22.7991206!4d70.826533!16s%2Fg%2F11y3rj4p8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%AA%9C%E0%AB%80%E0%AA%B5%E0%AA%A8%E0%AA%A6%E0%AB%80%E0%AA%AA+%E0%AA%95%E0%AB%8D%E0%AA%B2%E0%AA%BF%E0%AA%A8%E0%AA%BF%E0%AA%95+%E0%AA%A1%E0%AB%8B.%E0%AA%B0%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%BE+%E0%AA%AA%E0%AA%9F%E0%AB%87%E0%AA%B2/@22.7991206,70.826533,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0029c75767:0xd3f78a7cc3cfaf61!8m2!3d22.7991206!4d70.826533!16s%2Fg%2F11y3rj4p8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11960,10 +12061,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%AA%9C%E0%AB%80%E0%AA%B5%E0%AA%A8%E0%AA%A6%E0%AB%80%E0%AA%AA+%E0%AA%95%E0%AB%8D%E0%AA%B2%E0%AA%BF%E0%AA%A8%E0%AA%BF%E0%AA%95+%E0%AA%A1%E0%AB%8B.%E0%AA%B0%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%BE+%E0%AA%AA%E0%AA%9F%E0%AB%87%E0%AA%B2/@22.7991206,70.826533,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0029c75767:0xd3f78a7cc3cfaf61!8m2!3d22.7991206!4d70.826533!16s%2Fg%2F11y3rj4p8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "morbi",
@@ -12009,7 +12111,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%AA%9C%E0%AB%81%E0%AA%A8%E0%AA%BE+%E0%AA%97%E0%AB%81.%E0%AA%B9%E0%AA%BE.%E0%AA%AC%E0%AB%8B%E0%AA%B0%E0%AB%8D%E0%AA%A1+%E0%AA%86%E0%AA%82%E0%AA%97%E0%AA%A3+%E0%AA%B5%E0%AA%BE%E0%AA%A1%E0%AB%80+(%E0%AA%AA%E0%AA%B9%E0%AB%87%E0%AA%B2%E0%AB%8B+%E0%AA%AC%E0%AB%81%E0%AA%A7%E0%AA%B5%E0%AA%BE%E0%AA%B0)/@22.8270198,70.8342156,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d86eb603f31:0xdc40e26b92a4e564!8m2!3d22.8270198!4d70.8342156!16s%2Fg%2F11j4sqpjzl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%AA%9C%E0%AB%81%E0%AA%A8%E0%AA%BE+%E0%AA%97%E0%AB%81.%E0%AA%B9%E0%AA%BE.%E0%AA%AC%E0%AB%8B%E0%AA%B0%E0%AB%8D%E0%AA%A1+%E0%AA%86%E0%AA%82%E0%AA%97%E0%AA%A3+%E0%AA%B5%E0%AA%BE%E0%AA%A1%E0%AB%80+(%E0%AA%AA%E0%AA%B9%E0%AB%87%E0%AA%B2%E0%AB%8B+%E0%AA%AC%E0%AB%81%E0%AA%A7%E0%AA%B5%E0%AA%BE%E0%AA%B0)/@22.8270198,70.8342156,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d86eb603f31:0xdc40e26b92a4e564!8m2!3d22.8270198!4d70.8342156!16s%2Fg%2F11j4sqpjzl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12075,10 +12177,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%AA%9C%E0%AB%81%E0%AA%A8%E0%AA%BE+%E0%AA%97%E0%AB%81.%E0%AA%B9%E0%AA%BE.%E0%AA%AC%E0%AB%8B%E0%AA%B0%E0%AB%8D%E0%AA%A1+%E0%AA%86%E0%AA%82%E0%AA%97%E0%AA%A3+%E0%AA%B5%E0%AA%BE%E0%AA%A1%E0%AB%80+(%E0%AA%AA%E0%AA%B9%E0%AB%87%E0%AA%B2%E0%AB%8B+%E0%AA%AC%E0%AB%81%E0%AA%A7%E0%AA%B5%E0%AA%BE%E0%AA%B0)/@22.8270198,70.8342156,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d86eb603f31:0xdc40e26b92a4e564!8m2!3d22.8270198!4d70.8342156!16s%2Fg%2F11j4sqpjzl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "morbi",
@@ -12124,7 +12227,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%AA%AE%E0%AA%82%E0%AA%A4%E0%AB%8D%E0%AA%B0+%E0%AA%8F%E0%AA%95%E0%AA%AF%E0%AB%81+%E0%AA%AA%E0%AA%82%E0%AA%9A%E0%AA%B0/@22.7927132,70.8265702,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d4275bd5333:0x13988e80cc436f45!8m2!3d22.7927132!4d70.8265702!16s%2Fg%2F11l5vbpkfs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%AA%AE%E0%AA%82%E0%AA%A4%E0%AB%8D%E0%AA%B0+%E0%AA%8F%E0%AA%95%E0%AA%AF%E0%AB%81+%E0%AA%AA%E0%AA%82%E0%AA%9A%E0%AA%B0/@22.7927132,70.8265702,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d4275bd5333:0x13988e80cc436f45!8m2!3d22.7927132!4d70.8265702!16s%2Fg%2F11l5vbpkfs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12190,10 +12293,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%AA%AE%E0%AA%82%E0%AA%A4%E0%AB%8D%E0%AA%B0+%E0%AA%8F%E0%AA%95%E0%AA%AF%E0%AB%81+%E0%AA%AA%E0%AA%82%E0%AA%9A%E0%AA%B0/@22.7927132,70.8265702,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d4275bd5333:0x13988e80cc436f45!8m2!3d22.7927132!4d70.8265702!16s%2Fg%2F11l5vbpkfs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "morbi",
@@ -12241,7 +12345,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/%E0%AA%B2%E0%AA%BE%E0%AA%87%E0%AA%AB+%E0%AA%B2%E0%AA%BE%E0%AA%87%E0%AA%A8+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@22.8160927,70.8301211,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dbb1be4c125:0xe80162da483db57e!8m2!3d22.8160927!4d70.8301211!16s%2Fg%2F11h5_t83pv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%AA%B2%E0%AA%BE%E0%AA%87%E0%AA%AB+%E0%AA%B2%E0%AA%BE%E0%AA%87%E0%AA%A8+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@22.8160927,70.8301211,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dbb1be4c125:0xe80162da483db57e!8m2!3d22.8160927!4d70.8301211!16s%2Fg%2F11h5_t83pv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12307,10 +12411,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%AA%B2%E0%AA%BE%E0%AA%87%E0%AA%AB+%E0%AA%B2%E0%AA%BE%E0%AA%87%E0%AA%A8+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@22.8160927,70.8301211,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dbb1be4c125:0xe80162da483db57e!8m2!3d22.8160927!4d70.8301211!16s%2Fg%2F11h5_t83pv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-clinic-in-morbi-morbi",
@@ -12358,7 +12463,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6%F0%9D%98%86%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Dental+Clinic+in+Morbi/@22.8155764,70.829899,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd829e535cd:0x50220bf5311958cb!8m2!3d22.8155764!4d70.829899!16s%2Fg%2F11r9fgqxyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6%F0%9D%98%86%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Dental+Clinic+in+Morbi/@22.8155764,70.829899,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd829e535cd:0x50220bf5311958cb!8m2!3d22.8155764!4d70.829899!16s%2Fg%2F11r9fgqxyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12427,6 +12532,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6%F0%9D%98%86%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Dental+Clinic+in+Morbi/@22.8155764,70.829899,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd829e535cd:0x50220bf5311958cb!8m2!3d22.8155764!4d70.829899!16s%2Fg%2F11r9fgqxyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

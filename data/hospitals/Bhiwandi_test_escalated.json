@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Citizen+Hospital/@19.292932,73.0597224,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bd0c5deea329:0x459753cd39fa0779!8m2!3d19.292932!4d73.0597224!16s%2Fg%2F11r8jqqpv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Citizen+Hospital/@19.292932,73.0597224,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bd0c5deea329:0x459753cd39fa0779!8m2!3d19.292932!4d73.0597224!16s%2Fg%2F11r8jqqpv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Citizen+Hospital/@19.292932,73.0597224,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bd0c5deea329:0x459753cd39fa0779!8m2!3d19.292932!4d73.0597224!16s%2Fg%2F11r8jqqpv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "platinum-hospital-bhiwandi-bhiwandi",
@@ -163,7 +164,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Platinum+Hospital+Bhiwandi./@19.2900349,73.0567188,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bd002f4abcbf:0x5f57f1a1629a6dad!8m2!3d19.2900349!4d73.0567188!16s%2Fg%2F11y247xb8_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Platinum+Hospital+Bhiwandi./@19.2900349,73.0567188,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bd002f4abcbf:0x5f57f1a1629a6dad!8m2!3d19.2900349!4d73.0567188!16s%2Fg%2F11y247xb8_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -232,7 +233,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Platinum+Hospital+Bhiwandi./@19.2900349,73.0567188,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bd002f4abcbf:0x5f57f1a1629a6dad!8m2!3d19.2900349!4d73.0567188!16s%2Fg%2F11y247xb8_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "soham-hospital-bhiwandi",
@@ -280,7 +282,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/SOHAM+Hospital/@19.2922026,73.0589689,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bd0c07ee8ff5:0x736f08913e3c8cc2!8m2!3d19.2922026!4d73.0589689!16s%2Fg%2F1vjdnjhn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SOHAM+Hospital/@19.2922026,73.0589689,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bd0c07ee8ff5:0x736f08913e3c8cc2!8m2!3d19.2922026!4d73.0589689!16s%2Fg%2F1vjdnjhn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -346,10 +348,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SOHAM+Hospital/@19.2922026,73.0589689,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bd0c07ee8ff5:0x736f08913e3c8cc2!8m2!3d19.2922026!4d73.0589689!16s%2Fg%2F1vjdnjhn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spectrum-hospital-bhiwandi",
@@ -397,7 +400,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Spectrum+Hospital/@19.2738058,73.0425999,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bdc6d599221f:0x4ce87f717ced8f57!8m2!3d19.2738058!4d73.0425999!16s%2Fg%2F11sm9wghfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spectrum+Hospital/@19.2738058,73.0425999,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bdc6d599221f:0x4ce87f717ced8f57!8m2!3d19.2738058!4d73.0425999!16s%2Fg%2F11sm9wghfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -466,6 +469,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spectrum+Hospital/@19.2738058,73.0425999,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bdc6d599221f:0x4ce87f717ced8f57!8m2!3d19.2738058!4d73.0425999!16s%2Fg%2F11sm9wghfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

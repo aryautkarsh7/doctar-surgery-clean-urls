@@ -46,7 +46,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/A+J+Hospital+-+PET%2FCT/@12.8990115,74.8468384,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a72764faf75:0xa3520e0dac2da22c!8m2!3d12.8990115!4d74.8468384!16s%2Fg%2F11c480sgxv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+J+Hospital+-+PET%2FCT/@12.8990115,74.8468384,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a72764faf75:0xa3520e0dac2da22c!8m2!3d12.8990115!4d74.8468384!16s%2Fg%2F11c480sgxv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A+J+Hospital+-+PET%2FCT/@12.8990115,74.8468384,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a72764faf75:0xa3520e0dac2da22c!8m2!3d12.8990115!4d74.8468384!16s%2Fg%2F11c480sgxv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "a-j-hospital-and-research-centre-mangaluru",
@@ -164,7 +165,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/A.J.+Hospital+%26+Research+Centre/@12.8993521,74.8460278,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a682d20b7bb:0x56352072513aae09!8m2!3d12.8993521!4d74.8460278!16s%2Fg%2F11bw2fk8gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A.J.+Hospital+%26+Research+Centre/@12.8993521,74.8460278,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a682d20b7bb:0x56352072513aae09!8m2!3d12.8993521!4d74.8460278!16s%2Fg%2F11bw2fk8gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -233,7 +234,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A.J.+Hospital+%26+Research+Centre/@12.8993521,74.8460278,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a682d20b7bb:0x56352072513aae09!8m2!3d12.8993521!4d74.8460278!16s%2Fg%2F11bw2fk8gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "acureatus-ai-physio-pain-clinic-mangaluru",
@@ -282,7 +284,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/ACUREATUS+AI+PHYSIO+PAIN+CLINIC/@12.8806046,74.8595138,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bb990a5fd71:0xf00dad1d91a15f4a!8m2!3d12.8806046!4d74.8595138!16s%2Fg%2F11vk1qsgpj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ACUREATUS+AI+PHYSIO+PAIN+CLINIC/@12.8806046,74.8595138,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bb990a5fd71:0xf00dad1d91a15f4a!8m2!3d12.8806046!4d74.8595138!16s%2Fg%2F11vk1qsgpj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -351,7 +353,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ACUREATUS+AI+PHYSIO+PAIN+CLINIC/@12.8806046,74.8595138,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bb990a5fd71:0xf00dad1d91a15f4a!8m2!3d12.8806046!4d74.8595138!16s%2Fg%2F11vk1qsgpj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "athena-hospital-mangaluru",
@@ -400,7 +403,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Athena+Hospital/@12.868088,74.8481609,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4af8ccf2d5:0xf9223c92233df351!8m2!3d12.868088!4d74.8481609!16s%2Fg%2F1tmbtk90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Athena+Hospital/@12.868088,74.8481609,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4af8ccf2d5:0xf9223c92233df351!8m2!3d12.868088!4d74.8481609!16s%2Fg%2F1tmbtk90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -469,7 +472,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Athena+Hospital/@12.868088,74.8481609,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4af8ccf2d5:0xf9223c92233df351!8m2!3d12.868088!4d74.8481609!16s%2Fg%2F1tmbtk90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "brain-and-spine-speciality-clinic-mangaluru",
@@ -522,7 +526,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Brain+%26+Spine+Speciality+Clinic/@12.8675728,74.8530673,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bfa4e888b6f:0xa9f1ffa9102a9bd1!8m2!3d12.8675728!4d74.8530673!16s%2Fg%2F11sd8r_ctt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brain+%26+Spine+Speciality+Clinic/@12.8675728,74.8530673,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bfa4e888b6f:0xa9f1ffa9102a9bd1!8m2!3d12.8675728!4d74.8530673!16s%2Fg%2F11sd8r_ctt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -588,10 +592,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Brain+%26+Spine+Speciality+Clinic/@12.8675728,74.8530673,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bfa4e888b6f:0xa9f1ffa9102a9bd1!8m2!3d12.8675728!4d74.8530673!16s%2Fg%2F11sd8r_ctt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-hospital-mangaluru",
@@ -640,7 +645,7 @@
       "Google rating 2.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CITY+HOSPITAL/@12.8796415,74.8531222,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bd17879e7df:0x2471a21c31d93a93!8m2!3d12.8796415!4d74.8531222!16s%2Fg%2F11g0t6wq0b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CITY+HOSPITAL/@12.8796415,74.8531222,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bd17879e7df:0x2471a21c31d93a93!8m2!3d12.8796415!4d74.8531222!16s%2Fg%2F11g0t6wq0b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -709,7 +714,8 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CITY+HOSPITAL/@12.8796415,74.8531222,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bd17879e7df:0x2471a21c31d93a93!8m2!3d12.8796415!4d74.8531222!16s%2Fg%2F11g0t6wq0b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "colaco-hospital-mangaluru",
@@ -758,7 +764,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/COLACO+HOSPITAL/@12.872806,74.8566526,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a314b07a5c9:0x1f25d847f5b86e4d!8m2!3d12.872806!4d74.8566526!16s%2Fg%2F1xfsm563?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/COLACO+HOSPITAL/@12.872806,74.8566526,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a314b07a5c9:0x1f25d847f5b86e4d!8m2!3d12.872806!4d74.8566526!16s%2Fg%2F1xfsm563?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -827,7 +833,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/COLACO+HOSPITAL/@12.872806,74.8566526,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a314b07a5c9:0x1f25d847f5b86e4d!8m2!3d12.872806!4d74.8566526!16s%2Fg%2F1xfsm563?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-land-mangaluru",
@@ -876,7 +883,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Land/@12.8652483,74.8472877,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4b2d3a1f73:0x1fb027f7d76c0add!8m2!3d12.8652483!4d74.8472877!16s%2Fg%2F11c0pslnl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Land/@12.8652483,74.8472877,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4b2d3a1f73:0x1fb027f7d76c0add!8m2!3d12.8652483!4d74.8472877!16s%2Fg%2F11c0pslnl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -945,7 +952,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Land/@12.8652483,74.8472877,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4b2d3a1f73:0x1fb027f7d76c0add!8m2!3d12.8652483!4d74.8472877!16s%2Fg%2F11c0pslnl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eira-dental-invisalign-braces-implants-dental-clinic-bejai-mangalore-mangaluru",
@@ -994,7 +1002,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Eira+Dental+-+Invisalign+%2F+Braces+%2F+Implants..+Dental+Clinic+-+Bejai,+Mangalore/@12.885406,74.8453514,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bcb88511ee1:0x733abd0753a11de7!8m2!3d12.885406!4d74.8453514!16s%2Fg%2F11cs2w85m2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eira+Dental+-+Invisalign+%2F+Braces+%2F+Implants..+Dental+Clinic+-+Bejai,+Mangalore/@12.885406,74.8453514,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bcb88511ee1:0x733abd0753a11de7!8m2!3d12.885406!4d74.8453514!16s%2Fg%2F11cs2w85m2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1063,7 +1071,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eira+Dental+-+Invisalign+%2F+Braces+%2F+Implants..+Dental+Clinic+-+Bejai,+Mangalore/@12.885406,74.8453514,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bcb88511ee1:0x733abd0753a11de7!8m2!3d12.885406!4d74.8453514!16s%2Fg%2F11cs2w85m2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "elite-dentistry-mangaluru",
@@ -1112,7 +1121,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Elite+Dentistry/@12.8736409,74.8518911,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4979084bb5:0x95c119dee311bfba!8m2!3d12.8736409!4d74.8518911!16s%2Fg%2F11fm_47d16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elite+Dentistry/@12.8736409,74.8518911,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4979084bb5:0x95c119dee311bfba!8m2!3d12.8736409!4d74.8518911!16s%2Fg%2F11fm_47d16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1178,10 +1187,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Elite+Dentistry/@12.8736409,74.8518911,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4979084bb5:0x95c119dee311bfba!8m2!3d12.8736409!4d74.8518911!16s%2Fg%2F11fm_47d16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eskag-sanjeevani-dialysis-center-wenlock-at-wenlock-district-hospital-mangaluru",
@@ -1230,7 +1240,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Wenlock+at+Wenlock+District+Hospital/@12.867383,74.84313,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bfcaa2ddec7:0xacb1fffccd9f701b!8m2!3d12.867383!4d74.84313!16s%2Fg%2F11rgx14tvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Wenlock+at+Wenlock+District+Hospital/@12.867383,74.84313,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bfcaa2ddec7:0xacb1fffccd9f701b!8m2!3d12.867383!4d74.84313!16s%2Fg%2F11rgx14tvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1296,10 +1306,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Wenlock+at+Wenlock+District+Hospital/@12.867383,74.84313,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bfcaa2ddec7:0xacb1fffccd9f701b!8m2!3d12.867383!4d74.84313!16s%2Fg%2F11rgx14tvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "falnir-clinic-mangaluru",
@@ -1347,7 +1358,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Falnir+Clinic/@12.8688179,74.8472176,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4bafe57c7d:0x1f3709cb759c9974!8m2!3d12.8688179!4d74.8472176!16s%2Fg%2F11b8v6bdh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Falnir+Clinic/@12.8688179,74.8472176,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4bafe57c7d:0x1f3709cb759c9974!8m2!3d12.8688179!4d74.8472176!16s%2Fg%2F11b8v6bdh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1416,7 +1427,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Falnir+Clinic/@12.8688179,74.8472176,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4bafe57c7d:0x1f3709cb759c9974!8m2!3d12.8688179!4d74.8472176!16s%2Fg%2F11b8v6bdh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "father-muller-hospital-mangaluru",
@@ -1465,7 +1477,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Father+Muller+Hospital/@12.8666684,74.8586997,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a332a58ed3b:0x789fd619d556f872!8m2!3d12.8666684!4d74.8586997!16s%2Fg%2F11b8v9g2y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Father+Muller+Hospital/@12.8666684,74.8586997,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a332a58ed3b:0x789fd619d556f872!8m2!3d12.8666684!4d74.8586997!16s%2Fg%2F11b8v9g2y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1534,7 +1546,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Father+Muller+Hospital/@12.8666684,74.8586997,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a332a58ed3b:0x789fd619d556f872!8m2!3d12.8666684!4d74.8586997!16s%2Fg%2F11b8v9g2y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "flaunt-hair-transplant-mangaluru",
@@ -1583,7 +1596,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/FLAUNT+Hair+Transplant/@12.8691123,74.8632369,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a33fe743eab:0xaf6aace74655cea2!8m2!3d12.8691123!4d74.8632369!16s%2Fg%2F11ckncjrf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FLAUNT+Hair+Transplant/@12.8691123,74.8632369,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a33fe743eab:0xaf6aace74655cea2!8m2!3d12.8691123!4d74.8632369!16s%2Fg%2F11ckncjrf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1652,7 +1665,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/FLAUNT+Hair+Transplant/@12.8691123,74.8632369,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a33fe743eab:0xaf6aace74655cea2!8m2!3d12.8691123!4d74.8632369!16s%2Fg%2F11ckncjrf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "heal-on-diagnostics-mangaluru",
@@ -1702,7 +1716,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Heal+On+Diagnostics/@12.86682,74.8650766,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bbe2bc4f617:0x2f4083d0718d1d6a!8m2!3d12.86682!4d74.8650766!16s%2Fg%2F11wq3j_0jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heal+On+Diagnostics/@12.86682,74.8650766,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bbe2bc4f617:0x2f4083d0718d1d6a!8m2!3d12.86682!4d74.8650766!16s%2Fg%2F11wq3j_0jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1771,7 +1785,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Heal+On+Diagnostics/@12.86682,74.8650766,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bbe2bc4f617:0x2f4083d0718d1d6a!8m2!3d12.86682!4d74.8650766!16s%2Fg%2F11wq3j_0jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "highland-hospital-mangaluru",
@@ -1820,7 +1835,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Highland+Hospital/@12.8664995,74.8546887,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a34c13203f9:0xfb2782cbf31a7784!8m2!3d12.8664995!4d74.8546887!16s%2Fg%2F1thcl645?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Highland+Hospital/@12.8664995,74.8546887,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a34c13203f9:0xfb2782cbf31a7784!8m2!3d12.8664995!4d74.8546887!16s%2Fg%2F1thcl645?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1889,7 +1904,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Highland+Hospital/@12.8664995,74.8546887,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a34c13203f9:0xfb2782cbf31a7784!8m2!3d12.8664995!4d74.8546887!16s%2Fg%2F1thcl645?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indiana-hospital-and-heart-institute-ihhi-mangaluru-mangalore-mangaluru",
@@ -1939,7 +1955,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indiana+Hospital+%26+Heart+Institute+(IHHI)+-+Mangaluru%2FMangalore/@12.8675982,74.8663304,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a2cc3237679:0xfab2afa5f124a0e1!8m2!3d12.8675982!4d74.8663304!16s%2Fg%2F11gznv0q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indiana+Hospital+%26+Heart+Institute+(IHHI)+-+Mangaluru%2FMangalore/@12.8675982,74.8663304,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a2cc3237679:0xfab2afa5f124a0e1!8m2!3d12.8675982!4d74.8663304!16s%2Fg%2F11gznv0q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2008,7 +2024,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indiana+Hospital+%26+Heart+Institute+(IHHI)+-+Mangaluru%2FMangalore/@12.8675982,74.8663304,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a2cc3237679:0xfab2afa5f124a0e1!8m2!3d12.8675982!4d74.8663304!16s%2Fg%2F11gznv0q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indira-hospital-mangaluru",
@@ -2057,7 +2074,7 @@
       "Google rating 2.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+Hospital/@12.8679636,74.8500737,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4a8578ee47:0xf982227d20caea4!8m2!3d12.8679636!4d74.8500737!16s%2Fg%2F1tfg1j1q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+Hospital/@12.8679636,74.8500737,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4a8578ee47:0xf982227d20caea4!8m2!3d12.8679636!4d74.8500737!16s%2Fg%2F1tfg1j1q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2126,7 +2143,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+Hospital/@12.8679636,74.8500737,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4a8578ee47:0xf982227d20caea4!8m2!3d12.8679636!4d74.8500737!16s%2Fg%2F1tfg1j1q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "isha-knee-and-shoulder-clinic-mangaluru",
@@ -2174,7 +2192,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Isha+Knee+%26+Shoulder+Clinic/@12.871851,74.8483849,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4999ba2ad7:0xa2353a98a5bfa034!8m2!3d12.871851!4d74.8483849!16s%2Fg%2F1261ldm8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Isha+Knee+%26+Shoulder+Clinic/@12.871851,74.8483849,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4999ba2ad7:0xa2353a98a5bfa034!8m2!3d12.871851!4d74.8483849!16s%2Fg%2F1261ldm8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2243,7 +2261,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Isha+Knee+%26+Shoulder+Clinic/@12.871851,74.8483849,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4999ba2ad7:0xa2353a98a5bfa034!8m2!3d12.871851!4d74.8483849!16s%2Fg%2F1261ldm8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kidney-and-ent-clinic-mangaluru",
@@ -2294,7 +2313,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIDNEY+%26+ENT+CLINIC/@12.8816229,74.8364528,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bb0baef9e6b:0x505112269eb63c49!8m2!3d12.8816229!4d74.8364528!16s%2Fg%2F11nxckcmpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIDNEY+%26+ENT+CLINIC/@12.8816229,74.8364528,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bb0baef9e6b:0x505112269eb63c49!8m2!3d12.8816229!4d74.8364528!16s%2Fg%2F11nxckcmpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2360,10 +2379,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIDNEY+%26+ENT+CLINIC/@12.8816229,74.8364528,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bb0baef9e6b:0x505112269eb63c49!8m2!3d12.8816229!4d74.8364528!16s%2Fg%2F11nxckcmpx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kmc-hospital-mangaluru-mangaluru",
@@ -2412,7 +2432,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KMC+Hospital+Mangaluru/@12.8719806,74.8488363,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4993ec4925:0xf7e8eff2463b0352!8m2!3d12.8719806!4d74.8488363!16s%2Fg%2F11g87cbgs4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KMC+Hospital+Mangaluru/@12.8719806,74.8488363,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4993ec4925:0xf7e8eff2463b0352!8m2!3d12.8719806!4d74.8488363!16s%2Fg%2F11g87cbgs4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2481,7 +2501,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KMC+Hospital+Mangaluru/@12.8719806,74.8488363,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4993ec4925:0xf7e8eff2463b0352!8m2!3d12.8719806!4d74.8488363!16s%2Fg%2F11g87cbgs4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kmc-hospital-attavar-blossom-mangaluru",
@@ -2530,7 +2551,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KMC+Hospital,+Attavar+-+BLOSSOM/@12.8593468,74.8481646,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bd1119ef183:0x578590a9b7bd6c07!8m2!3d12.8593468!4d74.8481646!16s%2Fg%2F11md3tzrzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KMC+Hospital,+Attavar+-+BLOSSOM/@12.8593468,74.8481646,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bd1119ef183:0x578590a9b7bd6c07!8m2!3d12.8593468!4d74.8481646!16s%2Fg%2F11md3tzrzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2599,7 +2620,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KMC+Hospital,+Attavar+-+BLOSSOM/@12.8593468,74.8481646,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bd1119ef183:0x578590a9b7bd6c07!8m2!3d12.8593468!4d74.8481646!16s%2Fg%2F11md3tzrzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kmc-hospital-attavar-mangaluru",
@@ -2648,7 +2670,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KMC+Hospital,Attavar/data=!4m7!3m6!1s0x3ba35bb660448f91:0xe815832743fe5d15!8m2!3d12.8590356!4d74.8480882!16s%2Fg%2F1td9z38b!19sChIJkY9EYLZbozsRFV3-QyeDFeg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KMC+Hospital,Attavar/data=!4m7!3m6!1s0x3ba35bb660448f91:0xe815832743fe5d15!8m2!3d12.8590356!4d74.8480882!16s%2Fg%2F1td9z38b!19sChIJkY9EYLZbozsRFV3-QyeDFeg?authuser=0&hl=en&rclk=1"
@@ -2717,7 +2739,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KMC+Hospital,Attavar/data=!4m7!3m6!1s0x3ba35bb660448f91:0xe815832743fe5d15!8m2!3d12.8590356!4d74.8480882!16s%2Fg%2F1td9z38b!19sChIJkY9EYLZbozsRFV3-QyeDFeg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lobos-medi-hub-valencia-mangaluru",
@@ -2767,7 +2790,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/LOBOS+MEDI+HUB,+Valencia/@12.8642004,74.857551,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a26ccb36003:0xb807d9d618be73cb!8m2!3d12.8642004!4d74.857551!16s%2Fg%2F11gdg6gn1p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LOBOS+MEDI+HUB,+Valencia/@12.8642004,74.857551,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a26ccb36003:0xb807d9d618be73cb!8m2!3d12.8642004!4d74.857551!16s%2Fg%2F11gdg6gn1p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2836,7 +2859,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LOBOS+MEDI+HUB,+Valencia/@12.8642004,74.857551,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a26ccb36003:0xb807d9d618be73cb!8m2!3d12.8642004!4d74.857551!16s%2Fg%2F11gdg6gn1p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "malabar-hill-clinics-and-dental-clinic-mangaluru",
@@ -2884,7 +2908,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Malabar+Hill+Clinics+%26+Dental+Clinic/data=!4m7!3m6!1s0x3ba35a4b0013732f:0xc399fb57c5f863!8m2!3d12.8680197!4d74.8476738!16s%2Fg%2F11bw3z141h!19sChIJL3MTAEtaozsRY_jFV_uZwwA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malabar+Hill+Clinics+%26+Dental+Clinic/data=!4m7!3m6!1s0x3ba35a4b0013732f:0xc399fb57c5f863!8m2!3d12.8680197!4d74.8476738!16s%2Fg%2F11bw3z141h!19sChIJL3MTAEtaozsRY_jFV_uZwwA?authuser=0&hl=en&rclk=1"
@@ -2953,7 +2977,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Malabar+Hill+Clinics+%26+Dental+Clinic/data=!4m7!3m6!1s0x3ba35a4b0013732f:0xc399fb57c5f863!8m2!3d12.8680197!4d74.8476738!16s%2Fg%2F11bw3z141h!19sChIJL3MTAEtaozsRY_jFV_uZwwA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mangala-hospital-and-mangala-kidney-foundation-mangaluru",
@@ -3003,7 +3028,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mangala+Hospital+%26+Mangala+Kidney+Foundation/@12.8776669,74.8526004,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a383b1cb9f1:0x9a7bd733d0b72f52!8m2!3d12.8776669!4d74.8526004!16s%2Fg%2F1tcw6m9d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangala+Hospital+%26+Mangala+Kidney+Foundation/@12.8776669,74.8526004,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a383b1cb9f1:0x9a7bd733d0b72f52!8m2!3d12.8776669!4d74.8526004!16s%2Fg%2F1tcw6m9d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3072,7 +3097,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangala+Hospital+%26+Mangala+Kidney+Foundation/@12.8776669,74.8526004,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a383b1cb9f1:0x9a7bd733d0b72f52!8m2!3d12.8776669!4d74.8526004!16s%2Fg%2F1tcw6m9d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangalore-central-for-gastroentrology-mangaluru",
@@ -3119,7 +3145,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Mangalore+central+for+gastroentrology/@12.8715248,74.8466291,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b5c846c5e45:0x968aac886e6e8a04!8m2!3d12.8715248!4d74.8466291!16s%2Fg%2F11gy1l75__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangalore+central+for+gastroentrology/@12.8715248,74.8466291,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b5c846c5e45:0x968aac886e6e8a04!8m2!3d12.8715248!4d74.8466291!16s%2Fg%2F11gy1l75__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3185,10 +3211,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangalore+central+for+gastroentrology/@12.8715248,74.8466291,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b5c846c5e45:0x968aac886e6e8a04!8m2!3d12.8715248!4d74.8466291!16s%2Fg%2F11gy1l75__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangalore-heartscan-foundation-mangaluru",
@@ -3239,7 +3266,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mangalore+Heartscan+Foundation/@12.87345,74.8557464,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a36cf8fcf9f:0x9039cce7fa846fa9!8m2!3d12.87345!4d74.8557464!16s%2Fg%2F1ts1l1_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangalore+Heartscan+Foundation/@12.87345,74.8557464,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a36cf8fcf9f:0x9039cce7fa846fa9!8m2!3d12.87345!4d74.8557464!16s%2Fg%2F1ts1l1_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3308,7 +3335,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangalore+Heartscan+Foundation/@12.87345,74.8557464,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a36cf8fcf9f:0x9039cce7fa846fa9!8m2!3d12.87345!4d74.8557464!16s%2Fg%2F1ts1l1_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangalore-institute-of-oncology-mangaluru",
@@ -3358,7 +3386,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mangalore+Institute+of+Oncology/@12.8674933,74.8667125,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a2cc0cad585:0x2484a7ea5e9cb732!8m2!3d12.8674933!4d74.8667125!16s%2Fg%2F11h0w_3qp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangalore+Institute+of+Oncology/@12.8674933,74.8667125,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a2cc0cad585:0x2484a7ea5e9cb732!8m2!3d12.8674933!4d74.8667125!16s%2Fg%2F11h0w_3qp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3427,7 +3455,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangalore+Institute+of+Oncology/@12.8674933,74.8667125,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a2cc0cad585:0x2484a7ea5e9cb732!8m2!3d12.8674933!4d74.8667125!16s%2Fg%2F11h0w_3qp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangalore-spine-clinic-mangaluru",
@@ -3478,7 +3507,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mangalore+Spine+Clinic/data=!4m7!3m6!1s0x3ba35a34c09dfa65:0xe7f7da1b846f3780!8m2!3d12.8730958!4d74.8410015!16s%2Fg%2F12lwdrsg2!19sChIJZfqdwDRaozsRgDdvhBva9-c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangalore+Spine+Clinic/data=!4m7!3m6!1s0x3ba35a34c09dfa65:0xe7f7da1b846f3780!8m2!3d12.8730958!4d74.8410015!16s%2Fg%2F12lwdrsg2!19sChIJZfqdwDRaozsRgDdvhBva9-c?authuser=0&hl=en&rclk=1"
@@ -3547,7 +3576,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangalore+Spine+Clinic/data=!4m7!3m6!1s0x3ba35a34c09dfa65:0xe7f7da1b846f3780!8m2!3d12.8730958!4d74.8410015!16s%2Fg%2F12lwdrsg2!19sChIJZfqdwDRaozsRgDdvhBva9-c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "manipal-hospital-mangaluru",
@@ -3595,7 +3625,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Manipal+hospital/@12.8581993,74.8477928,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bd37ec600f1:0x73ccd7d3b8f7bdde!8m2!3d12.8581993!4d74.8477928!16s%2Fg%2F11fm2m5c42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+hospital/@12.8581993,74.8477928,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bd37ec600f1:0x73ccd7d3b8f7bdde!8m2!3d12.8581993!4d74.8477928!16s%2Fg%2F11fm2m5c42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3664,7 +3694,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manipal+hospital/@12.8581993,74.8477928,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bd37ec600f1:0x73ccd7d3b8f7bdde!8m2!3d12.8581993!4d74.8477928!16s%2Fg%2F11fm2m5c42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mediglen-healthcare-mangaluru",
@@ -3714,7 +3745,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MEDIGLEN+HEALTHCARE/@12.8640201,74.8587361,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b826aba3809:0x5fc6d523219dfb37!8m2!3d12.8640201!4d74.8587361!16s%2Fg%2F11vy1l17hb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEDIGLEN+HEALTHCARE/@12.8640201,74.8587361,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b826aba3809:0x5fc6d523219dfb37!8m2!3d12.8640201!4d74.8587361!16s%2Fg%2F11vy1l17hb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3780,10 +3811,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MEDIGLEN+HEALTHCARE/@12.8640201,74.8587361,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b826aba3809:0x5fc6d523219dfb37!8m2!3d12.8640201!4d74.8587361!16s%2Fg%2F11vy1l17hb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nova-ivf-fertility-center-best-ivf-centre-in-mangaluru-mangalore-karnataka-mangaluru",
@@ -3833,7 +3865,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Mangaluru+(Mangalore),+Karnataka/@12.8699317,74.8632056,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b0d2a52aa45:0x284d72c9ce7be5b4!8m2!3d12.8699317!4d74.8632056!16s%2Fg%2F11rglktnz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Mangaluru+(Mangalore),+Karnataka/@12.8699317,74.8632056,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b0d2a52aa45:0x284d72c9ce7be5b4!8m2!3d12.8699317!4d74.8632056!16s%2Fg%2F11rglktnz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3902,7 +3934,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Mangaluru+(Mangalore),+Karnataka/@12.8699317,74.8632056,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b0d2a52aa45:0x284d72c9ce7be5b4!8m2!3d12.8699317!4d74.8632056!16s%2Fg%2F11rglktnz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "omega-hospital-mangaluru",
@@ -3951,7 +3984,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/OMEGA+Hospital/data=!4m7!3m6!1s0x3ba35a2d8e82f17b:0xc50c7a94a531a6b1!8m2!3d12.8703959!4d74.8629108!16s%2Fg%2F1tjjmt9f!19sChIJe_GCji1aozsRsaYxpZR6DMU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OMEGA+Hospital/data=!4m7!3m6!1s0x3ba35a2d8e82f17b:0xc50c7a94a531a6b1!8m2!3d12.8703959!4d74.8629108!16s%2Fg%2F1tjjmt9f!19sChIJe_GCji1aozsRsaYxpZR6DMU?authuser=0&hl=en&rclk=1"
@@ -4020,7 +4053,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OMEGA+Hospital/data=!4m7!3m6!1s0x3ba35a2d8e82f17b:0xc50c7a94a531a6b1!8m2!3d12.8703959!4d74.8629108!16s%2Fg%2F1tjjmt9f!19sChIJe_GCji1aozsRsaYxpZR6DMU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ortho-clinic-mangaluru",
@@ -4067,7 +4101,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Ortho+Clinic/data=!4m7!3m6!1s0x3ba35a47e606a505:0xc501d5725753815b!8m2!3d12.877657!4d74.8494824!16s%2Fg%2F11t4zhdntb!19sChIJBaUG5kdaozsRW4FTV3LVAcU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ortho+Clinic/data=!4m7!3m6!1s0x3ba35a47e606a505:0xc501d5725753815b!8m2!3d12.877657!4d74.8494824!16s%2Fg%2F11t4zhdntb!19sChIJBaUG5kdaozsRW4FTV3LVAcU?authuser=0&hl=en&rclk=1"
@@ -4133,10 +4167,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ortho+Clinic/data=!4m7!3m6!1s0x3ba35a47e606a505:0xc501d5725753815b!8m2!3d12.877657!4d74.8494824!16s%2Fg%2F11t4zhdntb!19sChIJBaUG5kdaozsRW4FTV3LVAcU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "orthoneeds-mangaluru",
@@ -4185,7 +4220,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Orthoneeds/@12.8701465,74.863087,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35baf94978b43:0x4edde12c8308c78a!8m2!3d12.8701465!4d74.863087!16s%2Fg%2F11f8kd4r2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orthoneeds/@12.8701465,74.863087,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35baf94978b43:0x4edde12c8308c78a!8m2!3d12.8701465!4d74.863087!16s%2Fg%2F11f8kd4r2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4254,7 +4289,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Orthoneeds/@12.8701465,74.863087,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35baf94978b43:0x4edde12c8308c78a!8m2!3d12.8701465!4d74.863087!16s%2Fg%2F11f8kd4r2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "orthosquare-dental-clinic-bejai-mangaluru-mangaluru",
@@ -4304,7 +4340,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Bejai,+Mangaluru/@12.8973891,74.8419552,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b4c92aa7157:0xfd9c66e8bd749f35!8m2!3d12.8973891!4d74.8419552!16s%2Fg%2F11t3gwrm82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Bejai,+Mangaluru/@12.8973891,74.8419552,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b4c92aa7157:0xfd9c66e8bd749f35!8m2!3d12.8973891!4d74.8419552!16s%2Fg%2F11t3gwrm82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4373,7 +4409,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Bejai,+Mangaluru/@12.8973891,74.8419552,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b4c92aa7157:0xfd9c66e8bd749f35!8m2!3d12.8973891!4d74.8419552!16s%2Fg%2F11t3gwrm82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radiant-roots-hair-transplant-and-aesthetic-surgery-centre-mangaluru",
@@ -4422,7 +4459,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Radiant+Roots+Hair+Transplant+%26+Aesthetic+Surgery+Centre+%E2%84%A2/@12.8699033,74.8605861,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bbd9d5d8913:0xee603166520989a7!8m2!3d12.8699033!4d74.8605861!16s%2Fg%2F11yb37jdny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiant+Roots+Hair+Transplant+%26+Aesthetic+Surgery+Centre+%E2%84%A2/@12.8699033,74.8605861,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bbd9d5d8913:0xee603166520989a7!8m2!3d12.8699033!4d74.8605861!16s%2Fg%2F11yb37jdny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4488,10 +4525,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radiant+Roots+Hair+Transplant+%26+Aesthetic+Surgery+Centre+%E2%84%A2/@12.8699033,74.8605861,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bbd9d5d8913:0xee603166520989a7!8m2!3d12.8699033!4d74.8605861!16s%2Fg%2F11yb37jdny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "regional-advanced-paediatric-care-center-mangaluru",
@@ -4540,7 +4578,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Regional+Advanced+Paediatric+Care+Center/@12.866264,74.843494,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4cbf38f02f:0x9cb6dc69a9d06efb!8m2!3d12.866264!4d74.843494!16s%2Fg%2F124t22k8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Regional+Advanced+Paediatric+Care+Center/@12.866264,74.843494,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4cbf38f02f:0x9cb6dc69a9d06efb!8m2!3d12.866264!4d74.843494!16s%2Fg%2F124t22k8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4609,7 +4647,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Regional+Advanced+Paediatric+Care+Center/@12.866264,74.843494,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4cbf38f02f:0x9cb6dc69a9d06efb!8m2!3d12.866264!4d74.843494!16s%2Fg%2F124t22k8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-c-s-hospital-mangaluru",
@@ -4658,7 +4697,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/S.C.S.Hospital/@12.8744174,74.8551638,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a3721e0dadb:0x456982ce690f83f!8m2!3d12.8744174!4d74.8551638!16s%2Fg%2F1v2yx9b2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.C.S.Hospital/@12.8744174,74.8551638,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a3721e0dadb:0x456982ce690f83f!8m2!3d12.8744174!4d74.8551638!16s%2Fg%2F1v2yx9b2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4727,7 +4766,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S.C.S.Hospital/@12.8744174,74.8551638,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a3721e0dadb:0x456982ce690f83f!8m2!3d12.8744174!4d74.8551638!16s%2Fg%2F1v2yx9b2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sparsha-medical-centre-mangaluru",
@@ -4776,7 +4816,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Sparsha+Medical+Centre/@12.8702124,74.8572426,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a338d02872b:0x9f7d3be1b15c5a1f!8m2!3d12.8702124!4d74.8572426!16s%2Fg%2F12hn2nfh5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsha+Medical+Centre/@12.8702124,74.8572426,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a338d02872b:0x9f7d3be1b15c5a1f!8m2!3d12.8702124!4d74.8572426!16s%2Fg%2F12hn2nfh5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4845,7 +4885,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sparsha+Medical+Centre/@12.8702124,74.8572426,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a338d02872b:0x9f7d3be1b15c5a1f!8m2!3d12.8702124!4d74.8572426!16s%2Fg%2F12hn2nfh5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srinidhi-polyclinic-and-diagnostics-mangaluru",
@@ -4893,7 +4934,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Srinidhi+Polyclinic+%26+Diagnostics/@12.8920958,74.830221,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b05eb8df37f:0x85658828f4dfabdc!8m2!3d12.8920958!4d74.830221!16s%2Fg%2F11v_06s4c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srinidhi+Polyclinic+%26+Diagnostics/@12.8920958,74.830221,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b05eb8df37f:0x85658828f4dfabdc!8m2!3d12.8920958!4d74.830221!16s%2Fg%2F11v_06s4c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4959,10 +5000,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srinidhi+Polyclinic+%26+Diagnostics/@12.8920958,74.830221,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b05eb8df37f:0x85658828f4dfabdc!8m2!3d12.8920958!4d74.830221!16s%2Fg%2F11v_06s4c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srinivasa-children-s-clinic-mangaluru",
@@ -5011,7 +5053,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Srinivasa+Children%27s+Clinic/data=!4m7!3m6!1s0x3ba35a341be2d775:0x8669ea075d77d8da!8m2!3d12.8709928!4d74.8555681!16s%2Fg%2F1hm3bv0lj!19sChIJddfiGzRaozsR2th3XQfqaYY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srinivasa+Children%27s+Clinic/data=!4m7!3m6!1s0x3ba35a341be2d775:0x8669ea075d77d8da!8m2!3d12.8709928!4d74.8555681!16s%2Fg%2F1hm3bv0lj!19sChIJddfiGzRaozsR2th3XQfqaYY?authuser=0&hl=en&rclk=1"
@@ -5080,7 +5122,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srinivasa+Children%27s+Clinic/data=!4m7!3m6!1s0x3ba35a341be2d775:0x8669ea075d77d8da!8m2!3d12.8709928!4d74.8555681!16s%2Fg%2F1hm3bv0lj!19sChIJddfiGzRaozsR2th3XQfqaYY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tantry-s-digestive-and-liver-clinic-mangaluru",
@@ -5131,7 +5174,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tantry's+Digestive+and+Liver+Clinic/@12.8820938,74.8338558,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a5c1ab9a14f:0x263e341057123b14!8m2!3d12.8820938!4d74.8338558!16s%2Fg%2F11c5qmn5cp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tantry's+Digestive+and+Liver+Clinic/@12.8820938,74.8338558,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a5c1ab9a14f:0x263e341057123b14!8m2!3d12.8820938!4d74.8338558!16s%2Fg%2F11c5qmn5cp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5200,7 +5243,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tantry's+Digestive+and+Liver+Clinic/@12.8820938,74.8338558,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a5c1ab9a14f:0x263e341057123b14!8m2!3d12.8820938!4d74.8338558!16s%2Fg%2F11c5qmn5cp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tara-clinic-general-hospital-mangaluru",
@@ -5249,7 +5293,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tara+Clinic%2F+General+Hospital/data=!4m7!3m6!1s0x3ba35a4d98588849:0xe0afec73b2ccc9e8!8m2!3d12.8695697!4d74.8400702!16s%2Fg%2F1tmxpfv2!19sChIJSYhYmE1aozsR6MnMsnPsr-A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tara+Clinic%2F+General+Hospital/data=!4m7!3m6!1s0x3ba35a4d98588849:0xe0afec73b2ccc9e8!8m2!3d12.8695697!4d74.8400702!16s%2Fg%2F1tmxpfv2!19sChIJSYhYmE1aozsR6MnMsnPsr-A?authuser=0&hl=en&rclk=1"
@@ -5318,7 +5362,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tara+Clinic%2F+General+Hospital/data=!4m7!3m6!1s0x3ba35a4d98588849:0xe0afec73b2ccc9e8!8m2!3d12.8695697!4d74.8400702!16s%2Fg%2F1tmxpfv2!19sChIJSYhYmE1aozsR6MnMsnPsr-A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tejasvini-hospital-mangaluru",
@@ -5367,7 +5412,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tejasvini+Hospital/@12.8802774,74.8537239,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a38fddf37c1:0x4c0e91004807ed55!8m2!3d12.8802774!4d74.8537239!16s%2Fg%2F1tcwdds4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tejasvini+Hospital/@12.8802774,74.8537239,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a38fddf37c1:0x4c0e91004807ed55!8m2!3d12.8802774!4d74.8537239!16s%2Fg%2F1tcwdds4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5436,7 +5481,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tejasvini+Hospital/@12.8802774,74.8537239,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a38fddf37c1:0x4c0e91004807ed55!8m2!3d12.8802774!4d74.8537239!16s%2Fg%2F1tcwdds4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-hairsutra-mangaluru",
@@ -5485,7 +5531,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Hairsutra/@12.8761332,74.8438428,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b0e6a2bd665:0xfccb43c51e57319c!8m2!3d12.8761332!4d74.8438428!16s%2Fg%2F11f652r4ng?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Hairsutra/@12.8761332,74.8438428,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b0e6a2bd665:0xfccb43c51e57319c!8m2!3d12.8761332!4d74.8438428!16s%2Fg%2F11f652r4ng?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5554,7 +5600,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Hairsutra/@12.8761332,74.8438428,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b0e6a2bd665:0xfccb43c51e57319c!8m2!3d12.8761332!4d74.8438428!16s%2Fg%2F11f652r4ng?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "unity-hospital-mangaluru",
@@ -5603,7 +5650,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Unity+Hospital/@12.8676609,74.8540711,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a34e4cee1c5:0x5589a59aadaeca0a!8m2!3d12.8676609!4d74.8540711!16s%2Fg%2F1tczhxqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unity+Hospital/@12.8676609,74.8540711,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a34e4cee1c5:0x5589a59aadaeca0a!8m2!3d12.8676609!4d74.8540711!16s%2Fg%2F1tczhxqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5672,7 +5719,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Unity+Hospital/@12.8676609,74.8540711,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a34e4cee1c5:0x5589a59aadaeca0a!8m2!3d12.8676609!4d74.8540711!16s%2Fg%2F1tczhxqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "urology-research-center-and-kidney-stone-clinic-mangaluru",
@@ -5721,7 +5769,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Urology+Research+center+%26+Kidney+Stone+Clinic/data=!4m7!3m6!1s0x3ba35a3512c79c0f:0x4e293885747e999c!8m2!3d12.8676238!4d74.8522297!16s%2Fg%2F11fy4p8ktc!19sChIJD5zHEjVaozsRnJl-dIU4KU4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Urology+Research+center+%26+Kidney+Stone+Clinic/data=!4m7!3m6!1s0x3ba35a3512c79c0f:0x4e293885747e999c!8m2!3d12.8676238!4d74.8522297!16s%2Fg%2F11fy4p8ktc!19sChIJD5zHEjVaozsRnJl-dIU4KU4?authuser=0&hl=en&rclk=1"
@@ -5790,7 +5838,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Urology+Research+center+%26+Kidney+Stone+Clinic/data=!4m7!3m6!1s0x3ba35a3512c79c0f:0x4e293885747e999c!8m2!3d12.8676238!4d74.8522297!16s%2Fg%2F11fy4p8ktc!19sChIJD5zHEjVaozsRnJl-dIU4KU4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "varaa-clinics-and-diagnostics-mangaluru",
@@ -5838,7 +5887,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Varaa+clinics+%26+diagnostics/@12.8801961,74.8615918,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b7238fc848f:0x1f9e3eddeb17348d!8m2!3d12.8801961!4d74.8615918!16s%2Fg%2F11lv905vz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varaa+clinics+%26+diagnostics/@12.8801961,74.8615918,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b7238fc848f:0x1f9e3eddeb17348d!8m2!3d12.8801961!4d74.8615918!16s%2Fg%2F11lv905vz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5907,7 +5956,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Varaa+clinics+%26+diagnostics/@12.8801961,74.8615918,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b7238fc848f:0x1f9e3eddeb17348d!8m2!3d12.8801961!4d74.8615918!16s%2Fg%2F11lv905vz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vedanta-clinic-and-diagnostics-mangaluru",
@@ -5956,7 +6006,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VEDANTA+Clinic+and+Diagnostics/@12.8745802,74.8561503,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b4154dff0b9:0xfd2e1a39808e9677!8m2!3d12.8745802!4d74.8561503!16s%2Fg%2F11mcy13sg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VEDANTA+Clinic+and+Diagnostics/@12.8745802,74.8561503,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b4154dff0b9:0xfd2e1a39808e9677!8m2!3d12.8745802!4d74.8561503!16s%2Fg%2F11mcy13sg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6022,10 +6072,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VEDANTA+Clinic+and+Diagnostics/@12.8745802,74.8561503,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35b4154dff0b9:0xfd2e1a39808e9677!8m2!3d12.8745802!4d74.8561503!16s%2Fg%2F11mcy13sg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vinaya-hospital-and-research-centre-mangaluru",
@@ -6074,7 +6125,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vinaya+Hospital+%26+Research+Centre/@12.8790238,74.8466355,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a46f62e77b7:0xf42a76ace893d795!8m2!3d12.8790238!4d74.8466355!16s%2Fg%2F1tcw_z95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vinaya+Hospital+%26+Research+Centre/@12.8790238,74.8466355,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a46f62e77b7:0xf42a76ace893d795!8m2!3d12.8790238!4d74.8466355!16s%2Fg%2F1tcw_z95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6143,7 +6194,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vinaya+Hospital+%26+Research+Centre/@12.8790238,74.8466355,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a46f62e77b7:0xf42a76ace893d795!8m2!3d12.8790238!4d74.8466355!16s%2Fg%2F1tcw_z95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wenlock-district-hospital-mangaluru",
@@ -6192,7 +6244,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Wenlock+District+Hospital/@12.867383,74.843131,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4cf3b55ca3:0xd1a7e005cb1aa688!8m2!3d12.867383!4d74.843131!16s%2Fm%2F0h_dk0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wenlock+District+Hospital/@12.867383,74.843131,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4cf3b55ca3:0xd1a7e005cb1aa688!8m2!3d12.867383!4d74.843131!16s%2Fm%2F0h_dk0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6261,7 +6313,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Wenlock+District+Hospital/@12.867383,74.843131,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4cf3b55ca3:0xd1a7e005cb1aa688!8m2!3d12.867383!4d74.843131!16s%2Fm%2F0h_dk0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "white-glove-diagnostics-and-clinic-mangaluru",
@@ -6311,7 +6364,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/White+Glove+Diagnostics+%26+Clinic/@12.8784505,74.8515924,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bd4a8063df9:0x28d1513b81b4ac7!8m2!3d12.8784505!4d74.8515924!16s%2Fg%2F11y2nnkpt9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/White+Glove+Diagnostics+%26+Clinic/@12.8784505,74.8515924,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bd4a8063df9:0x28d1513b81b4ac7!8m2!3d12.8784505!4d74.8515924!16s%2Fg%2F11y2nnkpt9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6380,7 +6433,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/White+Glove+Diagnostics+%26+Clinic/@12.8784505,74.8515924,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bd4a8063df9:0x28d1513b81b4ac7!8m2!3d12.8784505!4d74.8515924!16s%2Fg%2F11y2nnkpt9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yenepoya-kidney-foundation-mangaluru",
@@ -6430,7 +6484,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yenepoya+Kidney+Foundation/@12.8671758,74.8593385,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bb15067c129:0x232f0b289ee827b2!8m2!3d12.8671758!4d74.8593385!16s%2Fg%2F11lkk6q6_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yenepoya+Kidney+Foundation/@12.8671758,74.8593385,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bb15067c129:0x232f0b289ee827b2!8m2!3d12.8671758!4d74.8593385!16s%2Fg%2F11lkk6q6_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6496,10 +6550,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yenepoya+Kidney+Foundation/@12.8671758,74.8593385,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35bb15067c129:0x232f0b289ee827b2!8m2!3d12.8671758!4d74.8593385!16s%2Fg%2F11lkk6q6_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yenepoya-specialty-hospital-mangaluru",
@@ -6549,7 +6604,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yenepoya+Specialty+Hospital/@12.8730398,74.8412242,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4e4fe99a89:0xed72ce8be87c6920!8m2!3d12.8730398!4d74.8412242!16s%2Fg%2F113hdxj1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yenepoya+Specialty+Hospital/@12.8730398,74.8412242,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4e4fe99a89:0xed72ce8be87c6920!8m2!3d12.8730398!4d74.8412242!16s%2Fg%2F113hdxj1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6615,9 +6670,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yenepoya+Specialty+Hospital/@12.8730398,74.8412242,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba35a4e4fe99a89:0xed72ce8be87c6920!8m2!3d12.8730398!4d74.8412242!16s%2Fg%2F113hdxj1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

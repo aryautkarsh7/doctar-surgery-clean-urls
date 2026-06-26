@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Aarogya+Clinic/@31.9603392,77.1141854,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6a5928a2c27:0x8c699e57ebef57af!8m2!3d31.9603392!4d77.1141854!16s%2Fg%2F11g6ypvyz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogya+Clinic/@31.9603392,77.1141854,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6a5928a2c27:0x8c699e57ebef57af!8m2!3d31.9603392!4d77.1141854!16s%2Fg%2F11g6ypvyz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aarogya+Clinic/@31.9603392,77.1141854,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6a5928a2c27:0x8c699e57ebef57af!8m2!3d31.9603392!4d77.1141854!16s%2Fg%2F11g6ypvyz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aarogya-physio-care-kullu",
@@ -162,7 +163,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Aarogya+Physio+Care/@31.9518716,77.1093969,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b16b6f1a51:0x85729558469a8b7e!8m2!3d31.9518716!4d77.1093969!16s%2Fg%2F11c58rqksd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogya+Physio+Care/@31.9518716,77.1093969,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b16b6f1a51:0x85729558469a8b7e!8m2!3d31.9518716!4d77.1093969!16s%2Fg%2F11c58rqksd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -231,7 +232,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aarogya+Physio+Care/@31.9518716,77.1093969,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b16b6f1a51:0x85729558469a8b7e!8m2!3d31.9518716!4d77.1093969!16s%2Fg%2F11c58rqksd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ahuja-clinic-kullu",
@@ -279,7 +281,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ahuja+Clinic/@31.9668814,77.1181468,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f74249fe8da3:0xa9fa33d5856d13d4!8m2!3d31.9668814!4d77.1181468!16s%2Fg%2F11smt0n21f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahuja+Clinic/@31.9668814,77.1181468,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f74249fe8da3:0xa9fa33d5856d13d4!8m2!3d31.9668814!4d77.1181468!16s%2Fg%2F11smt0n21f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -345,10 +347,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ahuja+Clinic/@31.9668814,77.1181468,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f74249fe8da3:0xa9fa33d5856d13d4!8m2!3d31.9668814!4d77.1181468!16s%2Fg%2F11smt0n21f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashish-hospital-kullu",
@@ -396,7 +399,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Ashish+Hospital/data=!4m7!3m6!1s0x3904f797bf758289:0xa01bfeaa1aa4167a!8m2!3d31.9560346!4d77.1126292!16s%2Fg%2F11m5nhhz8p!19sChIJiYJ1v5f3BDkRehakGqr-G6A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashish+Hospital/data=!4m7!3m6!1s0x3904f797bf758289:0xa01bfeaa1aa4167a!8m2!3d31.9560346!4d77.1126292!16s%2Fg%2F11m5nhhz8p!19sChIJiYJ1v5f3BDkRehakGqr-G6A?authuser=0&hl=en&rclk=1"
@@ -465,7 +468,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashish+Hospital/data=!4m7!3m6!1s0x3904f797bf758289:0xa01bfeaa1aa4167a!8m2!3d31.9560346!4d77.1126292!16s%2Fg%2F11m5nhhz8p!19sChIJiYJ1v5f3BDkRehakGqr-G6A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "awasthi-clinic-kullu",
@@ -513,7 +517,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Awasthi+Clinic/@31.960958,77.111819,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6af24cc032b:0xeb4ec746c3b31f23!8m2!3d31.960958!4d77.111819!16s%2Fg%2F11c1lxmbtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Awasthi+Clinic/@31.960958,77.111819,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6af24cc032b:0xeb4ec746c3b31f23!8m2!3d31.960958!4d77.111819!16s%2Fg%2F11c1lxmbtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -579,10 +583,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Awasthi+Clinic/@31.960958,77.111819,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6af24cc032b:0xeb4ec746c3b31f23!8m2!3d31.960958!4d77.111819!16s%2Fg%2F11c1lxmbtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhagwati-dental-clinic-kullu",
@@ -630,7 +635,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bhagwati+Dental+Clinic/@31.9608225,77.1102258,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f74108ba7047:0x261bb1a942e97a51!8m2!3d31.9608225!4d77.1102258!16s%2Fg%2F11qq1vlyqx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagwati+Dental+Clinic/@31.9608225,77.1102258,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f74108ba7047:0x261bb1a942e97a51!8m2!3d31.9608225!4d77.1102258!16s%2Fg%2F11qq1vlyqx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -696,10 +701,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhagwati+Dental+Clinic/@31.9608225,77.1102258,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f74108ba7047:0x261bb1a942e97a51!8m2!3d31.9608225!4d77.1102258!16s%2Fg%2F11qq1vlyqx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhanoo-hospital-kullu",
@@ -747,7 +753,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Bhanoo+Hospital/@31.9544912,77.1115221,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7197b1c03a5:0x12eeee64ed70b3bc!8m2!3d31.9544912!4d77.1115221!16s%2Fg%2F11qn50yszc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhanoo+Hospital/@31.9544912,77.1115221,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7197b1c03a5:0x12eeee64ed70b3bc!8m2!3d31.9544912!4d77.1115221!16s%2Fg%2F11qn50yszc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -816,7 +822,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhanoo+Hospital/@31.9544912,77.1115221,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7197b1c03a5:0x12eeee64ed70b3bc!8m2!3d31.9544912!4d77.1115221!16s%2Fg%2F11qn50yszc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhunter-valley-hospital-bhuntar",
@@ -865,7 +872,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhunter+Valley+Hospital/@31.8767552,77.1506514,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f94d344ebe19:0xfe172e90f1593da9!8m2!3d31.8767552!4d77.1506514!16s%2Fg%2F11lglzqd4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhunter+Valley+Hospital/@31.8767552,77.1506514,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f94d344ebe19:0xfe172e90f1593da9!8m2!3d31.8767552!4d77.1506514!16s%2Fg%2F11lglzqd4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -934,7 +941,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhunter+Valley+Hospital/@31.8767552,77.1506514,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f94d344ebe19:0xfe172e90f1593da9!8m2!3d31.8767552!4d77.1506514!16s%2Fg%2F11lglzqd4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chaudhary-medical-centre-and-chaudhary-lab-kullu",
@@ -984,7 +992,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chaudhary+Medical+Centre+%26+Chaudhary+Lab/@31.9559,77.1121102,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7ec45ce6b45:0xaeabd01bb21cdb5b!8m2!3d31.9559!4d77.1121102!16s%2Fg%2F11wp02pxb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaudhary+Medical+Centre+%26+Chaudhary+Lab/@31.9559,77.1121102,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7ec45ce6b45:0xaeabd01bb21cdb5b!8m2!3d31.9559!4d77.1121102!16s%2Fg%2F11wp02pxb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1050,10 +1058,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chaudhary+Medical+Centre+%26+Chaudhary+Lab/@31.9559,77.1121102,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7ec45ce6b45:0xaeabd01bb21cdb5b!8m2!3d31.9559!4d77.1121102!16s%2Fg%2F11wp02pxb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chauhan-dental-clinic-kullu",
@@ -1102,7 +1111,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chauhan+Dental+Clinic/@31.9587161,77.1092857,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6ae62251a15:0xd024e9a7b5eaae11!8m2!3d31.9587161!4d77.1092857!16s%2Fg%2F11c54s4tq6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chauhan+Dental+Clinic/@31.9587161,77.1092857,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6ae62251a15:0xd024e9a7b5eaae11!8m2!3d31.9587161!4d77.1092857!16s%2Fg%2F11c54s4tq6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1171,7 +1180,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chauhan+Dental+Clinic/@31.9587161,77.1092857,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6ae62251a15:0xd024e9a7b5eaae11!8m2!3d31.9587161!4d77.1092857!16s%2Fg%2F11c54s4tq6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-heart-dental-clinic-best-dentist-and-dental-clinic-in-kullu-kullu",
@@ -1220,7 +1230,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/City+Heart+Dental+Clinic+-+Best+Dentist+%26+Dental+Clinic+in+Kullu/@31.963693,77.109956,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6a9123f4563:0xde4bb8244a813c4!8m2!3d31.963693!4d77.109956!16s%2Fg%2F11c7025t_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Heart+Dental+Clinic+-+Best+Dentist+%26+Dental+Clinic+in+Kullu/@31.963693,77.109956,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6a9123f4563:0xde4bb8244a813c4!8m2!3d31.963693!4d77.109956!16s%2Fg%2F11c7025t_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1286,10 +1296,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Heart+Dental+Clinic+-+Best+Dentist+%26+Dental+Clinic+in+Kullu/@31.963693,77.109956,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6a9123f4563:0xde4bb8244a813c4!8m2!3d31.963693!4d77.109956!16s%2Fg%2F11c7025t_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-hospital-kullu",
@@ -1337,7 +1348,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/City+Hospital/@31.953448,77.1109247,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b1aa63c329:0xa14fa45d74e102e9!8m2!3d31.953448!4d77.1109247!16s%2Fg%2F11bw2ft474?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Hospital/@31.953448,77.1109247,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b1aa63c329:0xa14fa45d74e102e9!8m2!3d31.953448!4d77.1109247!16s%2Fg%2F11bw2ft474?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1406,7 +1417,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Hospital/@31.953448,77.1109247,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b1aa63c329:0xa14fa45d74e102e9!8m2!3d31.953448!4d77.1109247!16s%2Fg%2F11bw2ft474?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-smiles-dental-clinic-kullu",
@@ -1455,7 +1467,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/City+Smiles+dental+clinic/@31.9668421,77.1171923,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7e197bbb303:0xc380cf6f4615fa5!8m2!3d31.9668421!4d77.1171923!16s%2Fg%2F11z6j6qprc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Smiles+dental+clinic/@31.9668421,77.1171923,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7e197bbb303:0xc380cf6f4615fa5!8m2!3d31.9668421!4d77.1171923!16s%2Fg%2F11z6j6qprc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1521,10 +1533,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Smiles+dental+clinic/@31.9668421,77.1171923,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7e197bbb303:0xc380cf6f4615fa5!8m2!3d31.9668421!4d77.1171923!16s%2Fg%2F11z6j6qprc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "civil-hospital-kullu-kullu",
@@ -1572,7 +1585,7 @@
     "metrics": [
       "Google rating 2.4"
     ],
-    "image": "https://www.google.com/maps/place/Civil+Hospital+Kullu/@31.9565964,77.1110396,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6ae2ca225bf:0xb7792914279623fe!8m2!3d31.9565964!4d77.1110396!16s%2Fg%2F11hcdz89vv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Civil+Hospital+Kullu/@31.9565964,77.1110396,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6ae2ca225bf:0xb7792914279623fe!8m2!3d31.9565964!4d77.1110396!16s%2Fg%2F11hcdz89vv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1641,7 +1654,8 @@
     "rating": 2.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Civil+Hospital+Kullu/@31.9565964,77.1110396,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6ae2ca225bf:0xb7792914279623fe!8m2!3d31.9565964!4d77.1110396!16s%2Fg%2F11hcdz89vv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "crowns-and-bridges-dental-care-implant-center-kullu",
@@ -1690,7 +1704,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Crowns%26Bridges+Dental+Care+Implant+Center/@31.9575266,77.1079924,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6ade4bae66d:0x42846640190c1376!8m2!3d31.9575266!4d77.1079924!16s%2Fg%2F11g_b3bf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Crowns%26Bridges+Dental+Care+Implant+Center/@31.9575266,77.1079924,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6ade4bae66d:0x42846640190c1376!8m2!3d31.9575266!4d77.1079924!16s%2Fg%2F11g_b3bf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1759,7 +1773,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Crowns%26Bridges+Dental+Care+Implant+Center/@31.9575266,77.1079924,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6ade4bae66d:0x42846640190c1376!8m2!3d31.9575266!4d77.1079924!16s%2Fg%2F11g_b3bf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "district-ayurvedic-hospital-kullu-kullu",
@@ -1807,7 +1822,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/District+Ayurvedic+Hospital+Kullu/@31.9589286,77.1095251,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6ae8baf7fcb:0x45b02df70f158180!8m2!3d31.9589286!4d77.1095251!16s%2Fg%2F11c1g66t7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Ayurvedic+Hospital+Kullu/@31.9589286,77.1095251,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6ae8baf7fcb:0x45b02df70f158180!8m2!3d31.9589286!4d77.1095251!16s%2Fg%2F11c1g66t7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1876,7 +1891,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+Ayurvedic+Hospital+Kullu/@31.9589286,77.1095251,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6ae8baf7fcb:0x45b02df70f158180!8m2!3d31.9589286!4d77.1095251!16s%2Fg%2F11c1g66t7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "echs-polyclinc-kullu-kullu",
@@ -1924,7 +1940,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/ECHS+Polyclinc+Kullu/@31.9552459,77.108236,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b202aafa01:0x83eef9521b910f36!8m2!3d31.9552459!4d77.108236!16s%2Fg%2F1pp2vffp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ECHS+Polyclinc+Kullu/@31.9552459,77.108236,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b202aafa01:0x83eef9521b910f36!8m2!3d31.9552459!4d77.108236!16s%2Fg%2F1pp2vffp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1993,7 +2009,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ECHS+Polyclinc+Kullu/@31.9552459,77.108236,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b202aafa01:0x83eef9521b910f36!8m2!3d31.9552459!4d77.108236!16s%2Fg%2F1pp2vffp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "floss-and-gloss-dental-clinic-kullu",
@@ -2041,7 +2058,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Floss+%26+Gloss+Dental+Clinic/@31.9578951,77.1081555,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7b07589f1a1:0xf9f05d6bfd4080fc!8m2!3d31.9578951!4d77.1081555!16s%2Fg%2F11krkqmyh3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Floss+%26+Gloss+Dental+Clinic/@31.9578951,77.1081555,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7b07589f1a1:0xf9f05d6bfd4080fc!8m2!3d31.9578951!4d77.1081555!16s%2Fg%2F11krkqmyh3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2107,10 +2124,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Floss+%26+Gloss+Dental+Clinic/@31.9578951,77.1081555,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7b07589f1a1:0xf9f05d6bfd4080fc!8m2!3d31.9578951!4d77.1081555!16s%2Fg%2F11krkqmyh3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fungni-clinic-and-minor-surgical-center-kullu",
@@ -2159,7 +2177,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Fungni+Clinic+and+Minor+Surgical+Center/@31.894494,77.139159,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7704df7af37:0xf0be05ec15dcfa26!8m2!3d31.894494!4d77.139159!16s%2Fg%2F11dxlb518d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fungni+Clinic+and+Minor+Surgical+Center/@31.894494,77.139159,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7704df7af37:0xf0be05ec15dcfa26!8m2!3d31.894494!4d77.139159!16s%2Fg%2F11dxlb518d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2228,7 +2246,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fungni+Clinic+and+Minor+Surgical+Center/@31.894494,77.139159,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7704df7af37:0xf0be05ec15dcfa26!8m2!3d31.894494!4d77.139159!16s%2Fg%2F11dxlb518d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "g-mahajan-ayurvedic-clinic-and-thermal-therapy-kullu",
@@ -2277,7 +2296,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/G+Mahajan+Ayurvedic+Clinic+%26+Thermal+Therapy/@31.9546973,77.1119653,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f70d3f57506d:0xe02e8f0cb3a4b83a!8m2!3d31.9546973!4d77.1119653!16s%2Fg%2F11lpxcgj1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/G+Mahajan+Ayurvedic+Clinic+%26+Thermal+Therapy/@31.9546973,77.1119653,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f70d3f57506d:0xe02e8f0cb3a4b83a!8m2!3d31.9546973!4d77.1119653!16s%2Fg%2F11lpxcgj1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2343,10 +2362,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/G+Mahajan+Ayurvedic+Clinic+%26+Thermal+Therapy/@31.9546973,77.1119653,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f70d3f57506d:0xe02e8f0cb3a4b83a!8m2!3d31.9546973!4d77.1119653!16s%2Fg%2F11lpxcgj1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hima-clinic-kullu",
@@ -2394,7 +2414,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Hima+Clinic/@31.9561774,77.1125286,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b021ca3f99:0xfc73ed5887a80404!8m2!3d31.9561774!4d77.1125286!16s%2Fg%2F11fxdxm2l6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hima+Clinic/@31.9561774,77.1125286,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b021ca3f99:0xfc73ed5887a80404!8m2!3d31.9561774!4d77.1125286!16s%2Fg%2F11fxdxm2l6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2463,7 +2483,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hima+Clinic/@31.9561774,77.1125286,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b021ca3f99:0xfc73ed5887a80404!8m2!3d31.9561774!4d77.1125286!16s%2Fg%2F11fxdxm2l6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "himalayan-alternative-clinic-kullu",
@@ -2511,7 +2532,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Himalayan+Alternative+Clinic/@31.9450089,77.109879,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6c9df658fe3:0x6488da0a026d5b9e!8m2!3d31.9450089!4d77.109879!16s%2Fg%2F11g6xrf6ks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Himalayan+Alternative+Clinic/@31.9450089,77.109879,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6c9df658fe3:0x6488da0a026d5b9e!8m2!3d31.9450089!4d77.109879!16s%2Fg%2F11g6xrf6ks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2577,10 +2598,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Himalayan+Alternative+Clinic/@31.9450089,77.109879,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6c9df658fe3:0x6488da0a026d5b9e!8m2!3d31.9450089!4d77.109879!16s%2Fg%2F11g6xrf6ks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hylos-eyewear-and-kullu-contact-lens-kullu",
@@ -2629,7 +2651,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Hylos+Eyewear+%26+Kullu+Contact+Lens/@31.9571675,77.1110638,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7c5e930154f:0x8657e6c2c32620f6!8m2!3d31.9571675!4d77.1110638!16s%2Fg%2F11vpd2dfg3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hylos+Eyewear+%26+Kullu+Contact+Lens/@31.9571675,77.1110638,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7c5e930154f:0x8657e6c2c32620f6!8m2!3d31.9571675!4d77.1110638!16s%2Fg%2F11vpd2dfg3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2695,10 +2717,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hylos+Eyewear+%26+Kullu+Contact+Lens/@31.9571675,77.1110638,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7c5e930154f:0x8657e6c2c32620f6!8m2!3d31.9571675!4d77.1110638!16s%2Fg%2F11vpd2dfg3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kullu-pet-clinic-veterinary-clinic-kullu",
@@ -2747,7 +2770,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kullu+Pet+Clinic+(Veterinary+clinic)/@31.9663864,77.1213881,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f70006136315:0xe59f9eb9f4ee7728!8m2!3d31.9663864!4d77.1213881!16s%2Fg%2F11x79fv9rg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kullu+Pet+Clinic+(Veterinary+clinic)/@31.9663864,77.1213881,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f70006136315:0xe59f9eb9f4ee7728!8m2!3d31.9663864!4d77.1213881!16s%2Fg%2F11x79fv9rg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2816,7 +2839,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kullu+Pet+Clinic+(Veterinary+clinic)/@31.9663864,77.1213881,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f70006136315:0xe59f9eb9f4ee7728!8m2!3d31.9663864!4d77.1213881!16s%2Fg%2F11x79fv9rg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kullu-smiles-kullu",
@@ -2865,7 +2889,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kullu+Smiles/@31.9631225,77.1097933,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6a93e15556b:0x14df684f84f878ea!8m2!3d31.9631225!4d77.1097933!16s%2Fg%2F11ggzj73f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kullu+Smiles/@31.9631225,77.1097933,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6a93e15556b:0x14df684f84f878ea!8m2!3d31.9631225!4d77.1097933!16s%2Fg%2F11ggzj73f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2934,7 +2958,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kullu+Smiles/@31.9631225,77.1097933,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6a93e15556b:0x14df684f84f878ea!8m2!3d31.9631225!4d77.1097933!16s%2Fg%2F11ggzj73f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kullu-valley-banga-diagnostics-kullu",
@@ -2982,7 +3007,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/kullu+valley+banga+diagnostics/@31.9438724,77.1103713,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7e3214bc81b:0xa1a4ae982b6ed717!8m2!3d31.9438724!4d77.1103713!16s%2Fg%2F11wc0n7_ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/kullu+valley+banga+diagnostics/@31.9438724,77.1103713,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7e3214bc81b:0xa1a4ae982b6ed717!8m2!3d31.9438724!4d77.1103713!16s%2Fg%2F11wc0n7_ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3051,7 +3076,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/kullu+valley+banga+diagnostics/@31.9438724,77.1103713,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7e3214bc81b:0xa1a4ae982b6ed717!8m2!3d31.9438724!4d77.1103713!16s%2Fg%2F11wc0n7_ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kullu-valley-banga-eye-hospital-kullu",
@@ -3099,7 +3125,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Kullu+Valley+Banga+Eye+Hospital/@31.9436632,77.1102696,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7da14805b79:0x6d614877bf2c25bf!8m2!3d31.9436632!4d77.1102696!16s%2Fg%2F11ry0m9c1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kullu+Valley+Banga+Eye+Hospital/@31.9436632,77.1102696,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7da14805b79:0x6d614877bf2c25bf!8m2!3d31.9436632!4d77.1102696!16s%2Fg%2F11ry0m9c1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3168,7 +3194,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kullu+Valley+Banga+Eye+Hospital/@31.9436632,77.1102696,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7da14805b79:0x6d614877bf2c25bf!8m2!3d31.9436632!4d77.1102696!16s%2Fg%2F11ry0m9c1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kullu-valley-hospital-kullu",
@@ -3217,7 +3244,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kullu+Valley+Hospital/@31.9443436,77.1099188,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6c9c04ec941:0x74174721a0635706!8m2!3d31.9443436!4d77.1099188!16s%2Fg%2F1pp2tz1gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kullu+Valley+Hospital/@31.9443436,77.1099188,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6c9c04ec941:0x74174721a0635706!8m2!3d31.9443436!4d77.1099188!16s%2Fg%2F1pp2tz1gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3286,7 +3313,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kullu+Valley+Hospital/@31.9443436,77.1099188,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6c9c04ec941:0x74174721a0635706!8m2!3d31.9443436!4d77.1099188!16s%2Fg%2F1pp2tz1gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "laxmi-eye-centre-kullu",
@@ -3335,7 +3363,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Laxmi+Eye+Centre/@31.9450749,77.1097892,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b666ffbe45:0x680a1b0ca06fce5a!8m2!3d31.9450749!4d77.1097892!16s%2Fg%2F11cfgmgtp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmi+Eye+Centre/@31.9450749,77.1097892,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b666ffbe45:0x680a1b0ca06fce5a!8m2!3d31.9450749!4d77.1097892!16s%2Fg%2F11cfgmgtp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3404,7 +3432,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laxmi+Eye+Centre/@31.9450749,77.1097892,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b666ffbe45:0x680a1b0ca06fce5a!8m2!3d31.9450749!4d77.1097892!16s%2Fg%2F11cfgmgtp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-line-care-hospital-and-dialysis-centre-nephroplus-dialysis-centre-kullu",
@@ -3452,7 +3481,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Life+Line+Care+Hospital+%26+Dialysis+Centre+(nephroplus+dialysis+centre)/@31.9562554,77.1125472,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b02024c103:0x192ac06c1f7d5943!8m2!3d31.9562554!4d77.1125472!16s%2Fg%2F11fxftlvqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Line+Care+Hospital+%26+Dialysis+Centre+(nephroplus+dialysis+centre)/@31.9562554,77.1125472,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b02024c103:0x192ac06c1f7d5943!8m2!3d31.9562554!4d77.1125472!16s%2Fg%2F11fxftlvqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3521,7 +3550,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+Line+Care+Hospital+%26+Dialysis+Centre+(nephroplus+dialysis+centre)/@31.9562554,77.1125472,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b02024c103:0x192ac06c1f7d5943!8m2!3d31.9562554!4d77.1125472!16s%2Fg%2F11fxftlvqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lifeline-dental-care-kullu",
@@ -3569,7 +3599,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lifeline+Dental+Care/@31.9562704,77.1127186,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7a4124aa5c3:0x4d7254c11511b24!8m2!3d31.9562704!4d77.1127186!16s%2Fg%2F11j01p3rk8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lifeline+Dental+Care/@31.9562704,77.1127186,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7a4124aa5c3:0x4d7254c11511b24!8m2!3d31.9562704!4d77.1127186!16s%2Fg%2F11j01p3rk8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3635,10 +3665,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lifeline+Dental+Care/@31.9562704,77.1127186,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7a4124aa5c3:0x4d7254c11511b24!8m2!3d31.9562704!4d77.1127186!16s%2Fg%2F11j01p3rk8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "malhan-dental-care-bhuntar",
@@ -3686,7 +3717,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Malhan+Dental+Care/@31.8830889,77.1485729,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7801034434b:0x7ecee6ae7b209c99!8m2!3d31.8830889!4d77.1485729!16s%2Fg%2F11bv5tryf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malhan+Dental+Care/@31.8830889,77.1485729,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7801034434b:0x7ecee6ae7b209c99!8m2!3d31.8830889!4d77.1485729!16s%2Fg%2F11bv5tryf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3752,10 +3783,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Malhan+Dental+Care/@31.8830889,77.1485729,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7801034434b:0x7ecee6ae7b209c99!8m2!3d31.8830889!4d77.1485729!16s%2Fg%2F11bv5tryf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "narru-clinic-kullu",
@@ -3803,7 +3835,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Narru+Clinic/@31.9621586,77.1082755,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6abe2ab5273:0x302c1f5eaffb3c07!8m2!3d31.9621586!4d77.1082755!16s%2Fg%2F11fx9hm961?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narru+Clinic/@31.9621586,77.1082755,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6abe2ab5273:0x302c1f5eaffb3c07!8m2!3d31.9621586!4d77.1082755!16s%2Fg%2F11fx9hm961?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3872,7 +3904,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Narru+Clinic/@31.9621586,77.1082755,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6abe2ab5273:0x302c1f5eaffb3c07!8m2!3d31.9621586!4d77.1082755!16s%2Fg%2F11fx9hm961?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neelkanth-skin-and-hair-transplant-centre-kullu",
@@ -3920,7 +3953,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Neelkanth+SKIN+and+HAIR+TRANSPLANT+CENTRE/@31.9654082,77.115061,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7cbc1b05f57:0x5a8c9ff37268e431!8m2!3d31.9654082!4d77.115061!16s%2Fg%2F11ffm1k9gx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neelkanth+SKIN+and+HAIR+TRANSPLANT+CENTRE/@31.9654082,77.115061,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7cbc1b05f57:0x5a8c9ff37268e431!8m2!3d31.9654082!4d77.115061!16s%2Fg%2F11ffm1k9gx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3986,10 +4019,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neelkanth+SKIN+and+HAIR+TRANSPLANT+CENTRE/@31.9654082,77.115061,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7cbc1b05f57:0x5a8c9ff37268e431!8m2!3d31.9654082!4d77.115061!16s%2Fg%2F11ffm1k9gx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "piles-health-clinic-kullu",
@@ -4037,7 +4071,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Piles+Health+Clinic/@31.9476987,77.109441,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f74c3ed3ef11:0x4c663ee3a9106d3b!8m2!3d31.9476987!4d77.109441!16s%2Fg%2F11z69k3lq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Piles+Health+Clinic/@31.9476987,77.109441,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f74c3ed3ef11:0x4c663ee3a9106d3b!8m2!3d31.9476987!4d77.109441!16s%2Fg%2F11z69k3lq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4103,10 +4137,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Piles+Health+Clinic/@31.9476987,77.109441,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f74c3ed3ef11:0x4c663ee3a9106d3b!8m2!3d31.9476987!4d77.109441!16s%2Fg%2F11z69k3lq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raghunath-diagnostics-kullu",
@@ -4155,7 +4190,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Raghunath+Diagnostics/@31.9543756,77.1113391,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7964bbee2d9:0xaece9f82f0efdce7!8m2!3d31.9543756!4d77.1113391!16s%2Fg%2F11kpgrfnr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raghunath+Diagnostics/@31.9543756,77.1113391,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7964bbee2d9:0xaece9f82f0efdce7!8m2!3d31.9543756!4d77.1113391!16s%2Fg%2F11kpgrfnr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4224,7 +4259,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raghunath+Diagnostics/@31.9543756,77.1113391,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7964bbee2d9:0xaece9f82f0efdce7!8m2!3d31.9543756!4d77.1113391!16s%2Fg%2F11kpgrfnr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raghunath-hospital-kullu",
@@ -4273,7 +4309,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Raghunath+Hospital/@31.9543211,77.1100582,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f71579121f23:0x32595f727172757!8m2!3d31.9543211!4d77.1100582!16s%2Fg%2F11wk4rdlmz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raghunath+Hospital/@31.9543211,77.1100582,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f71579121f23:0x32595f727172757!8m2!3d31.9543211!4d77.1100582!16s%2Fg%2F11wk4rdlmz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4342,7 +4378,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raghunath+Hospital/@31.9543211,77.1100582,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f71579121f23:0x32595f727172757!8m2!3d31.9543211!4d77.1100582!16s%2Fg%2F11wk4rdlmz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "regional-hospital-kullu-kullu",
@@ -4391,7 +4428,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Regional+Hospital+Kullu/@31.9566725,77.1115458,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6afd0857a2d:0x1042d5543ebca277!8m2!3d31.9566725!4d77.1115458!16s%2Fg%2F1vknmrf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Regional+Hospital+Kullu/@31.9566725,77.1115458,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6afd0857a2d:0x1042d5543ebca277!8m2!3d31.9566725!4d77.1115458!16s%2Fg%2F1vknmrf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4460,7 +4497,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Regional+Hospital+Kullu/@31.9566725,77.1115458,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6afd0857a2d:0x1042d5543ebca277!8m2!3d31.9566725!4d77.1115458!16s%2Fg%2F1vknmrf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rise-hearing-care-kullu",
@@ -4509,7 +4547,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rise+hearing+care/@31.955548,77.1123443,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f77d00fa6669:0x8e139d88856667a6!8m2!3d31.955548!4d77.1123443!16s%2Fg%2F11nglll69n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rise+hearing+care/@31.955548,77.1123443,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f77d00fa6669:0x8e139d88856667a6!8m2!3d31.955548!4d77.1123443!16s%2Fg%2F11nglll69n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4575,10 +4613,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rise+hearing+care/@31.955548,77.1123443,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f77d00fa6669:0x8e139d88856667a6!8m2!3d31.955548!4d77.1123443!16s%2Fg%2F11nglll69n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shining-pearl-dental-clinic-kullu",
@@ -4626,7 +4665,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/SHINING+PEARL+DENTAL+CLINIC/@31.9619384,77.1081357,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f71d64977d8f:0xc157dcd854c59b37!8m2!3d31.9619384!4d77.1081357!16s%2Fg%2F11ghpxv8v_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHINING+PEARL+DENTAL+CLINIC/@31.9619384,77.1081357,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f71d64977d8f:0xc157dcd854c59b37!8m2!3d31.9619384!4d77.1081357!16s%2Fg%2F11ghpxv8v_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4695,7 +4734,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHINING+PEARL+DENTAL+CLINIC/@31.9619384,77.1081357,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f71d64977d8f:0xc157dcd854c59b37!8m2!3d31.9619384!4d77.1081357!16s%2Fg%2F11ghpxv8v_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skin-care-centre-kullu",
@@ -4743,7 +4783,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Skin+care+centre/@31.9604654,77.1139678,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7fc3dbb71df:0xe3abf4b6db5445e1!8m2!3d31.9604654!4d77.1139678!16s%2Fg%2F11kpp3k28y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+care+centre/@31.9604654,77.1139678,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7fc3dbb71df:0xe3abf4b6db5445e1!8m2!3d31.9604654!4d77.1139678!16s%2Fg%2F11kpp3k28y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4812,7 +4852,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skin+care+centre/@31.9604654,77.1139678,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7fc3dbb71df:0xe3abf4b6db5445e1!8m2!3d31.9604654!4d77.1139678!16s%2Fg%2F11kpp3k28y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skin-care-clinic-kullu",
@@ -4859,7 +4900,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Skin+Care+Clinic/@31.9602855,77.1141312,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7442e62e2d9:0x78b4a8d52f2e0a2f!8m2!3d31.9602855!4d77.1141312!16s%2Fg%2F11z24btxlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+Care+Clinic/@31.9602855,77.1141312,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7442e62e2d9:0x78b4a8d52f2e0a2f!8m2!3d31.9602855!4d77.1141312!16s%2Fg%2F11z24btxlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4925,10 +4966,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skin+Care+Clinic/@31.9602855,77.1141312,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7442e62e2d9:0x78b4a8d52f2e0a2f!8m2!3d31.9602855!4d77.1141312!16s%2Fg%2F11z24btxlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-care-dental-hospital-kullu",
@@ -4976,7 +5018,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Care+Dental+Hospital/@31.9612756,77.1116753,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6af2f8fef4b:0x2348a9fa6076083!8m2!3d31.9612756!4d77.1116753!16s%2Fg%2F11cn6n5xzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Care+Dental+Hospital/@31.9612756,77.1116753,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6af2f8fef4b:0x2348a9fa6076083!8m2!3d31.9612756!4d77.1116753!16s%2Fg%2F11cn6n5xzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5045,7 +5087,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Care+Dental+Hospital/@31.9612756,77.1116753,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6af2f8fef4b:0x2348a9fa6076083!8m2!3d31.9612756!4d77.1116753!16s%2Fg%2F11cn6n5xzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sonam-dental-clinic-best-dentist-in-kullu-dental-implants-orthodontic-best-dental-clinic-in-kullu-kullu",
@@ -5094,7 +5137,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sonam+Dental+Clinic+-+Best+Dentist+in+Kullu+%7C+Dental+Implants+%7C+Orthodontic+%7C+Best+Dental+Clinic+in+Kullu/@31.9632542,77.1094558,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6a96d4a1e65:0x9d272e4a2d91ca15!8m2!3d31.9632542!4d77.1094558!16s%2Fg%2F11g6_1wpjt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sonam+Dental+Clinic+-+Best+Dentist+in+Kullu+%7C+Dental+Implants+%7C+Orthodontic+%7C+Best+Dental+Clinic+in+Kullu/@31.9632542,77.1094558,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6a96d4a1e65:0x9d272e4a2d91ca15!8m2!3d31.9632542!4d77.1094558!16s%2Fg%2F11g6_1wpjt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5163,7 +5206,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sonam+Dental+Clinic+-+Best+Dentist+in+Kullu+%7C+Dental+Implants+%7C+Orthodontic+%7C+Best+Dental+Clinic+in+Kullu/@31.9632542,77.1094558,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6a96d4a1e65:0x9d272e4a2d91ca15!8m2!3d31.9632542!4d77.1094558!16s%2Fg%2F11g6_1wpjt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spine-and-pain-clinic-badah",
@@ -5212,7 +5256,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Spine+and+Pain+Clinic/@31.9341905,77.1143193,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7e887e28a49:0x6bfe6bafdf813353!8m2!3d31.9341905!4d77.1143193!16s%2Fg%2F11fm6jtrjw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spine+and+Pain+Clinic/@31.9341905,77.1143193,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7e887e28a49:0x6bfe6bafdf813353!8m2!3d31.9341905!4d77.1143193!16s%2Fg%2F11fm6jtrjw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5281,7 +5325,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spine+and+Pain+Clinic/@31.9341905,77.1143193,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7e887e28a49:0x6bfe6bafdf813353!8m2!3d31.9341905!4d77.1143193!16s%2Fg%2F11fm6jtrjw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sr-hospital-bhuntar",
@@ -5329,7 +5374,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/SR+HOSPITAL/@31.8544176,77.1572256,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f90d3447ea5b:0xfe5d384f3d318bc7!8m2!3d31.8544176!4d77.1572256!16s%2Fg%2F11jl2xlhgg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SR+HOSPITAL/@31.8544176,77.1572256,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f90d3447ea5b:0xfe5d384f3d318bc7!8m2!3d31.8544176!4d77.1572256!16s%2Fg%2F11jl2xlhgg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5398,7 +5443,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SR+HOSPITAL/@31.8544176,77.1572256,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f90d3447ea5b:0xfe5d384f3d318bc7!8m2!3d31.8544176!4d77.1572256!16s%2Fg%2F11jl2xlhgg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-harihar-hospital-kullu",
@@ -5446,7 +5492,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Harihar+Hospital/@31.9562349,77.1130027,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7983b1b6589:0xbac225bef15dc953!8m2!3d31.9562349!4d77.1130027!16s%2Fg%2F11j20g067x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Harihar+Hospital/@31.9562349,77.1130027,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7983b1b6589:0xbac225bef15dc953!8m2!3d31.9562349!4d77.1130027!16s%2Fg%2F11j20g067x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5515,7 +5561,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Harihar+Hospital/@31.9562349,77.1130027,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7983b1b6589:0xbac225bef15dc953!8m2!3d31.9562349!4d77.1130027!16s%2Fg%2F11j20g067x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-harihar-hospital-pvt-ltd-bhuntar",
@@ -5563,7 +5610,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Harihar+Hospital+Pvt.+Ltd/@31.8952691,77.1499433,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f79d72edae21:0x61cb616d96c1c47c!8m2!3d31.8952691!4d77.1499433!16s%2Fg%2F1ptx2p5p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Harihar+Hospital+Pvt.+Ltd/@31.8952691,77.1499433,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f79d72edae21:0x61cb616d96c1c47c!8m2!3d31.8952691!4d77.1499433!16s%2Fg%2F1ptx2p5p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5632,7 +5679,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Harihar+Hospital+Pvt.+Ltd/@31.8952691,77.1499433,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f79d72edae21:0x61cb616d96c1c47c!8m2!3d31.8952691!4d77.1499433!16s%2Fg%2F1ptx2p5p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thakur-clinic-kullu",
@@ -5678,7 +5726,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Thakur+clinic/data=!4m7!3m6!1s0x3904f721cb905e65:0xe5cbfd67166cc55!8m2!3d31.9676706!4d77.1188641!16s%2Fg%2F11f6cqd2jl!19sChIJZV6QyyH3BDkRVcxmcda_XA4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thakur+clinic/data=!4m7!3m6!1s0x3904f721cb905e65:0xe5cbfd67166cc55!8m2!3d31.9676706!4d77.1188641!16s%2Fg%2F11f6cqd2jl!19sChIJZV6QyyH3BDkRVcxmcda_XA4?authuser=0&hl=en&rclk=1"
@@ -5744,10 +5792,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thakur+clinic/data=!4m7!3m6!1s0x3904f721cb905e65:0xe5cbfd67166cc55!8m2!3d31.9676706!4d77.1188641!16s%2Fg%2F11f6cqd2jl!19sChIJZV6QyyH3BDkRVcxmcda_XA4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-dental-hub-kullu",
@@ -5795,7 +5844,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/The+Dental+Hub/@31.9538827,77.1101511,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b1a3a47183:0xf558247f76f1cbb6!8m2!3d31.9538827!4d77.1101511!16s%2Fg%2F11b6gbr5jw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dental+Hub/@31.9538827,77.1101511,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b1a3a47183:0xf558247f76f1cbb6!8m2!3d31.9538827!4d77.1101511!16s%2Fg%2F11b6gbr5jw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5864,7 +5913,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Dental+Hub/@31.9538827,77.1101511,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6b1a3a47183:0xf558247f76f1cbb6!8m2!3d31.9538827!4d77.1101511!16s%2Fg%2F11b6gbr5jw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "toothcare-dental-clinic-kullu",
@@ -5913,7 +5963,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Toothcare+Dental+clinic/@31.9647492,77.1156811,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6af61411e13:0x59f94ecc605d6d0!8m2!3d31.9647492!4d77.1156811!16s%2Fg%2F1v_0h435?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Toothcare+Dental+clinic/@31.9647492,77.1156811,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6af61411e13:0x59f94ecc605d6d0!8m2!3d31.9647492!4d77.1156811!16s%2Fg%2F1v_0h435?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5982,7 +6032,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Toothcare+Dental+clinic/@31.9647492,77.1156811,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6af61411e13:0x59f94ecc605d6d0!8m2!3d31.9647492!4d77.1156811!16s%2Fg%2F1v_0h435?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vedic-nature-cure-kullu-kullu",
@@ -6030,7 +6081,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vedic+Nature+Cure,+kullu/@31.952306,77.1092839,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7006d614845:0x894cf6fe876f1654!8m2!3d31.952306!4d77.1092839!16s%2Fg%2F11yf9h2vjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vedic+Nature+Cure,+kullu/@31.952306,77.1092839,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7006d614845:0x894cf6fe876f1654!8m2!3d31.952306!4d77.1092839!16s%2Fg%2F11yf9h2vjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6096,10 +6147,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vedic+Nature+Cure,+kullu/@31.952306,77.1092839,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f7006d614845:0x894cf6fe876f1654!8m2!3d31.952306!4d77.1092839!16s%2Fg%2F11yf9h2vjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "viva-care-hospital-kullu",
@@ -6148,7 +6200,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Viva+Care+Hospital/data=!4m7!3m6!1s0x3904f76e0300307d:0xe8cf20b5283db9a1!8m2!3d31.9539644!4d77.1113895!16s%2Fg%2F11xcmq5h3z!19sChIJfTAAA273BDkRobk9KLUgz-g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Viva+Care+Hospital/data=!4m7!3m6!1s0x3904f76e0300307d:0xe8cf20b5283db9a1!8m2!3d31.9539644!4d77.1113895!16s%2Fg%2F11xcmq5h3z!19sChIJfTAAA273BDkRobk9KLUgz-g?authuser=0&hl=en&rclk=1"
@@ -6217,7 +6269,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Viva+Care+Hospital/data=!4m7!3m6!1s0x3904f76e0300307d:0xe8cf20b5283db9a1!8m2!3d31.9539644!4d77.1113895!16s%2Fg%2F11xcmq5h3z!19sChIJfTAAA273BDkRobk9KLUgz-g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kullu",
@@ -6265,7 +6318,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/%E0%A4%AC%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8+%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@31.9546976,77.1119647,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6cf276c476b:0x5ea0a802ea8af525!8m2!3d31.9546976!4d77.1119647!16s%2Fg%2F11f1n58b1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%AC%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8+%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@31.9546976,77.1119647,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6cf276c476b:0x5ea0a802ea8af525!8m2!3d31.9546976!4d77.1119647!16s%2Fg%2F11f1n58b1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6334,6 +6387,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%AC%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8+%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@31.9546976,77.1119647,17z/data=!3m1!4b1!4m6!3m5!1s0x3904f6cf276c476b:0x5ea0a802ea8af525!8m2!3d31.9546976!4d77.1119647!16s%2Fg%2F11f1n58b1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

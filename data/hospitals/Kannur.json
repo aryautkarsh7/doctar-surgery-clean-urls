@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/32+SMILE+DENTAL+CARE/@11.8913632,75.3509875,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d1f85958e41:0x8cc3acd33cfaa8d5!8m2!3d11.8913632!4d75.3509875!16s%2Fg%2F11h6m06tv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+SMILE+DENTAL+CARE/@11.8913632,75.3509875,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d1f85958e41:0x8cc3acd33cfaa8d5!8m2!3d11.8913632!4d75.3509875!16s%2Fg%2F11h6m06tv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -111,10 +111,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/32+SMILE+DENTAL+CARE/@11.8913632,75.3509875,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d1f85958e41:0x8cc3acd33cfaa8d5!8m2!3d11.8913632!4d75.3509875!16s%2Fg%2F11h6m06tv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "akg-fertility-women-s-clinic-and-ivf-centre-kannur",
@@ -164,7 +165,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/AKG+FERTILITY+Women's+Clinic+%26+IVF+Centre/@11.8743105,75.3802826,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d6aed9d8df9:0x3efffd0e6099573b!8m2!3d11.8743105!4d75.3802826!16s%2Fg%2F11z7cm687n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AKG+FERTILITY+Women's+Clinic+%26+IVF+Centre/@11.8743105,75.3802826,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d6aed9d8df9:0x3efffd0e6099573b!8m2!3d11.8743105!4d75.3802826!16s%2Fg%2F11z7cm687n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -230,10 +231,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AKG+FERTILITY+Women's+Clinic+%26+IVF+Centre/@11.8743105,75.3802826,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d6aed9d8df9:0x3efffd0e6099573b!8m2!3d11.8743105!4d75.3802826!16s%2Fg%2F11z7cm687n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "akg-memorial-co-operative-hospital-kannur",
@@ -282,7 +284,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AKG+Memorial+Co+operative+Hospital/@11.8851516,75.3730455,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d37664de0f1:0xb7d9e73024392d8d!8m2!3d11.8851516!4d75.3730455!16s%2Fg%2F11c0xhsxxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AKG+Memorial+Co+operative+Hospital/@11.8851516,75.3730455,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d37664de0f1:0xb7d9e73024392d8d!8m2!3d11.8851516!4d75.3730455!16s%2Fg%2F11c0xhsxxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -351,7 +353,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AKG+Memorial+Co+operative+Hospital/@11.8851516,75.3730455,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d37664de0f1:0xb7d9e73024392d8d!8m2!3d11.8851516!4d75.3730455!16s%2Fg%2F11c0xhsxxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "alchemist-dental-clinic-kannur-elayavoor",
@@ -399,7 +402,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Alchemist+Dental+Clinic+Kannur/@11.8713428,75.3940769,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43df38b3f74fb:0x48052429ba519162!8m2!3d11.8713428!4d75.3940769!16s%2Fg%2F11pz2d01qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alchemist+Dental+Clinic+Kannur/@11.8713428,75.3940769,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43df38b3f74fb:0x48052429ba519162!8m2!3d11.8713428!4d75.3940769!16s%2Fg%2F11pz2d01qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -465,10 +468,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Alchemist+Dental+Clinic+Kannur/@11.8713428,75.3940769,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43df38b3f74fb:0x48052429ba519162!8m2!3d11.8713428!4d75.3940769!16s%2Fg%2F11pz2d01qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "almis-physiotherapy-and-rehabilitation-kannur",
@@ -518,7 +522,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Almis+Physiotherapy+%26+Rehabilitation/@11.8863275,75.3705445,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43df0b1d99fdd:0xc8c978eb203dc396!8m2!3d11.8863275!4d75.3705445!16s%2Fg%2F11yhz9gm3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Almis+Physiotherapy+%26+Rehabilitation/@11.8863275,75.3705445,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43df0b1d99fdd:0xc8c978eb203dc396!8m2!3d11.8863275!4d75.3705445!16s%2Fg%2F11yhz9gm3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -584,10 +588,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Almis+Physiotherapy+%26+Rehabilitation/@11.8863275,75.3705445,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43df0b1d99fdd:0xc8c978eb203dc396!8m2!3d11.8863275!4d75.3705445!16s%2Fg%2F11yhz9gm3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amend-dental-centre-kannur",
@@ -636,7 +641,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Amend+Dental+Centre/@11.8742753,75.3647206,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d1b932874fb:0xae520d4002f13a4!8m2!3d11.8742753!4d75.3647206!16s%2Fg%2F11mlg27ghf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amend+Dental+Centre/@11.8742753,75.3647206,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d1b932874fb:0xae520d4002f13a4!8m2!3d11.8742753!4d75.3647206!16s%2Fg%2F11mlg27ghf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -705,7 +710,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amend+Dental+Centre/@11.8742753,75.3647206,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d1b932874fb:0xae520d4002f13a4!8m2!3d11.8742753!4d75.3647206!16s%2Fg%2F11mlg27ghf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-clinic-fort-rd-kannur-kannur",
@@ -754,7 +760,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Clinic+-+Fort+Rd,+Kannur/@11.8702025,75.3669274,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d351859ce67:0x6c45995865f40fb8!8m2!3d11.8702025!4d75.3669274!16s%2Fg%2F124yr6_fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Clinic+-+Fort+Rd,+Kannur/@11.8702025,75.3669274,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d351859ce67:0x6c45995865f40fb8!8m2!3d11.8702025!4d75.3669274!16s%2Fg%2F124yr6_fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -823,7 +829,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Clinic+-+Fort+Rd,+Kannur/@11.8702025,75.3669274,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d351859ce67:0x6c45995865f40fb8!8m2!3d11.8702025!4d75.3669274!16s%2Fg%2F124yr6_fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashirvad-hospital-kannur-kannur",
@@ -871,7 +878,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/ASHIRVAD+HOSPITAL+KANNUR/@11.8719471,75.3703308,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d347eeb4373:0x1f949b59b6b6cc61!8m2!3d11.8719471!4d75.3703308!16s%2Fg%2F1ptw0symd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASHIRVAD+HOSPITAL+KANNUR/@11.8719471,75.3703308,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d347eeb4373:0x1f949b59b6b6cc61!8m2!3d11.8719471!4d75.3703308!16s%2Fg%2F1ptw0symd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -940,7 +947,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ASHIRVAD+HOSPITAL+KANNUR/@11.8719471,75.3703308,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d347eeb4373:0x1f949b59b6b6cc61!8m2!3d11.8719471!4d75.3703308!16s%2Fg%2F1ptw0symd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashoka-hospital-kannur",
@@ -989,7 +997,7 @@
       "Google rating 2.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ashoka+Hospital/@11.8775021,75.3748041,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d947f208ed7:0x9360618dd699629b!8m2!3d11.8775021!4d75.3748041!16s%2Fg%2F11fpfxb0nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashoka+Hospital/@11.8775021,75.3748041,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d947f208ed7:0x9360618dd699629b!8m2!3d11.8775021!4d75.3748041!16s%2Fg%2F11fpfxb0nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1058,7 +1066,8 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashoka+Hospital/@11.8775021,75.3748041,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d947f208ed7:0x9360618dd699629b!8m2!3d11.8775021!4d75.3748041!16s%2Fg%2F11fpfxb0nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "asta-dental-care-kannur-kannur",
@@ -1106,7 +1115,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Asta+Dental+Care+Kannur/@11.8814719,75.354188,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43ba06dac828d:0xbbe10353809b1dbd!8m2!3d11.8814719!4d75.354188!16s%2Fg%2F11w92d9126?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asta+Dental+Care+Kannur/@11.8814719,75.354188,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43ba06dac828d:0xbbe10353809b1dbd!8m2!3d11.8814719!4d75.354188!16s%2Fg%2F11w92d9126?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1172,10 +1181,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asta+Dental+Care+Kannur/@11.8814719,75.354188,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43ba06dac828d:0xbbe10353809b1dbd!8m2!3d11.8814719!4d75.354188!16s%2Fg%2F11w92d9126?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aster-pharmacy-talap-kannur",
@@ -1225,7 +1235,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aster+Pharmacy+-+Talap/@11.8870296,75.3712992,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d977a866a1d:0x20f3ceaf4f72bfe9!8m2!3d11.8870296!4d75.3712992!16s%2Fg%2F11stk2jrzz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aster+Pharmacy+-+Talap/@11.8870296,75.3712992,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d977a866a1d:0x20f3ceaf4f72bfe9!8m2!3d11.8870296!4d75.3712992!16s%2Fg%2F11stk2jrzz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1294,7 +1304,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aster+Pharmacy+-+Talap/@11.8870296,75.3712992,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d977a866a1d:0x20f3ceaf4f72bfe9!8m2!3d11.8870296!4d75.3712992!16s%2Fg%2F11stk2jrzz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aster-preventive-and-wellness-health-centre-top-family-health-checkup-packages-in-kannur-chala",
@@ -1343,7 +1354,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aster+Preventive+%26+Wellness+Health+Centre+-+Top+Family+Health+Checkup+Packages+in+Kannur/@11.839269,75.429635,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423f8cf550393:0x6ec933d6486a976c!8m2!3d11.839269!4d75.429635!16s%2Fg%2F11mls9j550?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aster+Preventive+%26+Wellness+Health+Centre+-+Top+Family+Health+Checkup+Packages+in+Kannur/@11.839269,75.429635,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423f8cf550393:0x6ec933d6486a976c!8m2!3d11.839269!4d75.429635!16s%2Fg%2F11mls9j550?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1409,10 +1420,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aster+Preventive+%26+Wellness+Health+Centre+-+Top+Family+Health+Checkup+Packages+in+Kannur/@11.839269,75.429635,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423f8cf550393:0x6ec933d6486a976c!8m2!3d11.839269!4d75.429635!16s%2Fg%2F11mls9j550?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "baby-line-fertility-centre-kannur",
@@ -1461,7 +1473,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Baby+Line+Fertility+Centre/@11.8803307,75.3712693,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d2ec6bb389d:0xd2fc4c45042476af!8m2!3d11.8803307!4d75.3712693!16s%2Fg%2F11yjn7mz0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Baby+Line+Fertility+Centre/@11.8803307,75.3712693,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d2ec6bb389d:0xd2fc4c45042476af!8m2!3d11.8803307!4d75.3712693!16s%2Fg%2F11yjn7mz0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1527,10 +1539,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Baby+Line+Fertility+Centre/@11.8803307,75.3712693,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d2ec6bb389d:0xd2fc4c45042476af!8m2!3d11.8803307!4d75.3712693!16s%2Fg%2F11yjn7mz0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "baby-memorial-hospital-kannur-nadal",
@@ -1579,7 +1592,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Baby+Memorial+Hospital,+Kannur/@11.8394019,75.4278268,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42366b756d79d:0x6b4223f4eab6a996!8m2!3d11.8394019!4d75.4278268!16s%2Fg%2F11b6gs0nk_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Baby+Memorial+Hospital,+Kannur/@11.8394019,75.4278268,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42366b756d79d:0x6b4223f4eab6a996!8m2!3d11.8394019!4d75.4278268!16s%2Fg%2F11b6gs0nk_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1648,7 +1661,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Baby+Memorial+Hospital,+Kannur/@11.8394019,75.4278268,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42366b756d79d:0x6b4223f4eab6a996!8m2!3d11.8394019!4d75.4278268!16s%2Fg%2F11b6gs0nk_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "baby-memorial-hospital-payyanur-payyanur",
@@ -1697,7 +1711,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Baby+Memorial+Hospital,+Payyanur/@12.1197268,75.2089633,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba46c2eef36b64b:0x1dda4f05e96df77c!8m2!3d12.1197268!4d75.2089633!16s%2Fg%2F11b8t6z7sx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Baby+Memorial+Hospital,+Payyanur/@12.1197268,75.2089633,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba46c2eef36b64b:0x1dda4f05e96df77c!8m2!3d12.1197268!4d75.2089633!16s%2Fg%2F11b8t6z7sx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1766,7 +1780,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Baby+Memorial+Hospital,+Payyanur/@12.1197268,75.2089633,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba46c2eef36b64b:0x1dda4f05e96df77c!8m2!3d12.1197268!4d75.2089633!16s%2Fg%2F11b8t6z7sx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "birla-fertility-and-ivf-armc-ivf-best-ivf-centre-in-kannur-kannur",
@@ -1816,7 +1831,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+%7C%7C+ARMC+IVF+-+Best+IVF+Centre+in+Kannur/@11.8663151,75.3657643,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422ca8cf6afcb:0xf2da0baf1b71a636!8m2!3d11.8663151!4d75.3657643!16s%2Fg%2F11cknfl5s9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+%7C%7C+ARMC+IVF+-+Best+IVF+Centre+in+Kannur/@11.8663151,75.3657643,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422ca8cf6afcb:0xf2da0baf1b71a636!8m2!3d11.8663151!4d75.3657643!16s%2Fg%2F11cknfl5s9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1885,7 +1900,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+%7C%7C+ARMC+IVF+-+Best+IVF+Centre+in+Kannur/@11.8663151,75.3657643,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422ca8cf6afcb:0xf2da0baf1b71a636!8m2!3d11.8663151!4d75.3657643!16s%2Fg%2F11cknfl5s9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "breathealive-airway-face-and-sleep-centre-kannur-kannur",
@@ -1934,7 +1950,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BreatheAlive+%E2%80%93+Airway,+Face+%26+Sleep+Centre+%7C+Kannur/@11.8700192,75.3671098,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d80ab9b9a5b:0x66a26b4643174ae8!8m2!3d11.8700192!4d75.3671098!16s%2Fg%2F11v_3m8v5j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BreatheAlive+%E2%80%93+Airway,+Face+%26+Sleep+Centre+%7C+Kannur/@11.8700192,75.3671098,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d80ab9b9a5b:0x66a26b4643174ae8!8m2!3d11.8700192!4d75.3671098!16s%2Fg%2F11v_3m8v5j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2000,10 +2016,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BreatheAlive+%E2%80%93+Airway,+Face+%26+Sleep+Centre+%7C+Kannur/@11.8700192,75.3671098,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d80ab9b9a5b:0x66a26b4643174ae8!8m2!3d11.8700192!4d75.3671098!16s%2Fg%2F11v_3m8v5j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "brush-dental-clinic-kannur",
@@ -2051,7 +2068,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Brush+Dental+Clinic/@11.8911997,75.3691747,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43df9b16ef989:0xfb11da72f9e77714!8m2!3d11.8911997!4d75.3691747!16s%2Fg%2F11ny3d_3gw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brush+Dental+Clinic/@11.8911997,75.3691747,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43df9b16ef989:0xfb11da72f9e77714!8m2!3d11.8911997!4d75.3691747!16s%2Fg%2F11ny3d_3gw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2120,7 +2137,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Brush+Dental+Clinic/@11.8911997,75.3691747,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43df9b16ef989:0xfb11da72f9e77714!8m2!3d11.8911997!4d75.3691747!16s%2Fg%2F11ny3d_3gw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chaithanya-urology-centre-and-hospital-kannur",
@@ -2168,7 +2186,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Chaithanya+Urology+Centre+And+Hospital/@11.883958,75.371903,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3bb80451ad:0xbec87e2e36526f9c!8m2!3d11.883958!4d75.371903!16s%2Fg%2F11c44pydbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaithanya+Urology+Centre+And+Hospital/@11.883958,75.371903,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3bb80451ad:0xbec87e2e36526f9c!8m2!3d11.883958!4d75.371903!16s%2Fg%2F11c44pydbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2237,7 +2255,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chaithanya+Urology+Centre+And+Hospital/@11.883958,75.371903,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3bb80451ad:0xbec87e2e36526f9c!8m2!3d11.883958!4d75.371903!16s%2Fg%2F11c44pydbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "citymedilace-speciality-health-care-centre-kannur",
@@ -2288,7 +2307,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CityMedilace+Speciality+Health+Care+Centre/@11.864413,75.3805124,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4235344125e9b:0x5fc5417c9485e3df!8m2!3d11.864413!4d75.3805124!16s%2Fg%2F11jbv88nns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CityMedilace+Speciality+Health+Care+Centre/@11.864413,75.3805124,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4235344125e9b:0x5fc5417c9485e3df!8m2!3d11.864413!4d75.3805124!16s%2Fg%2F11jbv88nns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2354,10 +2373,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CityMedilace+Speciality+Health+Care+Centre/@11.864413,75.3805124,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4235344125e9b:0x5fc5417c9485e3df!8m2!3d11.864413!4d75.3805124!16s%2Fg%2F11jbv88nns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cosmetic-dental-clinic-and-endodontic-centre-kannur",
@@ -2406,7 +2426,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Cosmetic+Dental+Clinic+and+Endodontic+Centre/@11.8712244,75.3709411,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d33dcc89807:0x51325c9800361c08!8m2!3d11.8712244!4d75.3709411!16s%2Fg%2F124ypn4j5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmetic+Dental+Clinic+and+Endodontic+Centre/@11.8712244,75.3709411,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d33dcc89807:0x51325c9800361c08!8m2!3d11.8712244!4d75.3709411!16s%2Fg%2F124ypn4j5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2475,7 +2495,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmetic+Dental+Clinic+and+Endodontic+Centre/@11.8712244,75.3709411,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d33dcc89807:0x51325c9800361c08!8m2!3d11.8712244!4d75.3709411!16s%2Fg%2F124ypn4j5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deepa-dental-clinic-thazhe-chovva-kannur",
@@ -2523,7 +2544,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Deepa+Dental+Clinic,+Thazhe+Chovva/@11.8665275,75.4062904,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423c0eb5c8ee1:0x84f235299ca0114a!8m2!3d11.8665275!4d75.4062904!16s%2Fg%2F11jcfz12z0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deepa+Dental+Clinic,+Thazhe+Chovva/@11.8665275,75.4062904,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423c0eb5c8ee1:0x84f235299ca0114a!8m2!3d11.8665275!4d75.4062904!16s%2Fg%2F11jcfz12z0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2589,10 +2610,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deepa+Dental+Clinic,+Thazhe+Chovva/@11.8665275,75.4062904,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423c0eb5c8ee1:0x84f235299ca0114a!8m2!3d11.8665275!4d75.4062904!16s%2Fg%2F11jcfz12z0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "desire-derma-kannur",
@@ -2641,7 +2663,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Desire+Derma/@11.8869418,75.3718813,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d56baf7f7c7:0x9ce244cc2ba7d0de!8m2!3d11.8869418!4d75.3718813!16s%2Fg%2F11y19h785g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Desire+Derma/@11.8869418,75.3718813,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d56baf7f7c7:0x9ce244cc2ba7d0de!8m2!3d11.8869418!4d75.3718813!16s%2Fg%2F11y19h785g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2710,7 +2732,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Desire+Derma/@11.8869418,75.3718813,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d56baf7f7c7:0x9ce244cc2ba7d0de!8m2!3d11.8869418!4d75.3718813!16s%2Fg%2F11y19h785g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dh-kannur-dialysis-center-kannur",
@@ -2758,7 +2781,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DH+Kannur+Dialysis+Center/@11.8618576,75.3712766,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42313deaa3a31:0xadea9be6f925929e!8m2!3d11.8618576!4d75.3712766!16s%2Fg%2F11fjtxxfth?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DH+Kannur+Dialysis+Center/@11.8618576,75.3712766,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42313deaa3a31:0xadea9be6f925929e!8m2!3d11.8618576!4d75.3712766!16s%2Fg%2F11fjtxxfth?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2824,10 +2847,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DH+Kannur+Dialysis+Center/@11.8618576,75.3712766,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42313deaa3a31:0xadea9be6f925929e!8m2!3d11.8618576!4d75.3712766!16s%2Fg%2F11fjtxxfth?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhanalakshmi-hospitals-private-limited-kannur",
@@ -2876,7 +2900,7 @@
       "Google rating 2.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dhanalakshmi+Hospitals+Private+Limited/@11.8774851,75.3824071,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d2928b1bff7:0x226a37fb57f5ac7c!8m2!3d11.8774851!4d75.3824071!16s%2Fg%2F1w9x_jtp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhanalakshmi+Hospitals+Private+Limited/@11.8774851,75.3824071,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d2928b1bff7:0x226a37fb57f5ac7c!8m2!3d11.8774851!4d75.3824071!16s%2Fg%2F1w9x_jtp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2945,7 +2969,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhanalakshmi+Hospitals+Private+Limited/@11.8774851,75.3824071,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d2928b1bff7:0x226a37fb57f5ac7c!8m2!3d11.8774851!4d75.3824071!16s%2Fg%2F1w9x_jtp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "district-hospital-kannur-kannur",
@@ -2994,7 +3019,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/District+Hospital+Kannur/@11.8614086,75.3711262,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422cecd9c09a7:0x40b2cce8b77e69b5!8m2!3d11.8614086!4d75.3711262!16s%2Fg%2F1vg4h73k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital+Kannur/@11.8614086,75.3711262,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422cecd9c09a7:0x40b2cce8b77e69b5!8m2!3d11.8614086!4d75.3711262!16s%2Fg%2F1vg4h73k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3063,7 +3088,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+Hospital+Kannur/@11.8614086,75.3711262,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422cecd9c09a7:0x40b2cce8b77e69b5!8m2!3d11.8614086!4d75.3711262!16s%2Fg%2F1vg4h73k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "elite-dental-studio-best-dental-clinic-in-kannur-kannur",
@@ -3112,7 +3138,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Elite+Dental+Studio+%7C+Best+Dental+Clinic+in+Kannur/@11.8869196,75.3718759,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d006edbcac7:0x939f77ba1b983856!8m2!3d11.8869196!4d75.3718759!16s%2Fg%2F11vrrs4pct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elite+Dental+Studio+%7C+Best+Dental+Clinic+in+Kannur/@11.8869196,75.3718759,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d006edbcac7:0x939f77ba1b983856!8m2!3d11.8869196!4d75.3718759!16s%2Fg%2F11vrrs4pct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3181,7 +3207,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Elite+Dental+Studio+%7C+Best+Dental+Clinic+in+Kannur/@11.8869196,75.3718759,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d006edbcac7:0x939f77ba1b983856!8m2!3d11.8869196!4d75.3718759!16s%2Fg%2F11vrrs4pct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "emergency-district-hospital-kannur-kannur",
@@ -3230,7 +3257,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Emergency,+District+Hospital+Kannur/@11.8615131,75.3709263,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42322a96a90cd:0x6be2525881f74295!8m2!3d11.8615131!4d75.3709263!16s%2Fg%2F11t738rj4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Emergency,+District+Hospital+Kannur/@11.8615131,75.3709263,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42322a96a90cd:0x6be2525881f74295!8m2!3d11.8615131!4d75.3709263!16s%2Fg%2F11t738rj4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3296,10 +3323,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Emergency,+District+Hospital+Kannur/@11.8615131,75.3709263,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42322a96a90cd:0x6be2525881f74295!8m2!3d11.8615131!4d75.3709263!16s%2Fg%2F11t738rj4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "emphatic-pain-healing-clinic-kannur",
@@ -3348,7 +3376,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Emphatic+Pain+Healing+Clinic/@11.8744128,75.373923,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dccf6c7cb57:0xfd90c8f042edcf39!8m2!3d11.8744128!4d75.373923!16s%2Fg%2F11z5x9r7sf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Emphatic+Pain+Healing+Clinic/@11.8744128,75.373923,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dccf6c7cb57:0xfd90c8f042edcf39!8m2!3d11.8744128!4d75.373923!16s%2Fg%2F11z5x9r7sf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3414,10 +3442,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Emphatic+Pain+Healing+Clinic/@11.8744128,75.373923,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dccf6c7cb57:0xfd90c8f042edcf39!8m2!3d11.8744128!4d75.373923!16s%2Fg%2F11z5x9r7sf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "esi-hospital-thottada",
@@ -3466,7 +3495,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ESI+Hospital/@11.8366497,75.4194133,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42371b73cd0bf:0x3c9a92f87e4456d4!8m2!3d11.8366497!4d75.4194133!16s%2Fg%2F1tlczm18?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ESI+Hospital/@11.8366497,75.4194133,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42371b73cd0bf:0x3c9a92f87e4456d4!8m2!3d11.8366497!4d75.4194133!16s%2Fg%2F1tlczm18?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3535,7 +3564,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ESI+Hospital/@11.8366497,75.4194133,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42371b73cd0bf:0x3c9a92f87e4456d4!8m2!3d11.8366497!4d75.4194133!16s%2Fg%2F1tlczm18?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fathih-dental-clinic-dental-clinic-in-kannur-kannur",
@@ -3584,7 +3614,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Fathih+Dental+Clinic+-+Dental+Clinic+in+Kannur/@11.8708419,75.3833274,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d933d9488f1:0x518de384b55079a9!8m2!3d11.8708419!4d75.3833274!16s%2Fg%2F11vrzkxhb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fathih+Dental+Clinic+-+Dental+Clinic+in+Kannur/@11.8708419,75.3833274,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d933d9488f1:0x518de384b55079a9!8m2!3d11.8708419!4d75.3833274!16s%2Fg%2F11vrzkxhb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3650,10 +3680,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fathih+Dental+Clinic+-+Dental+Clinic+in+Kannur/@11.8708419,75.3833274,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d933d9488f1:0x518de384b55079a9!8m2!3d11.8708419!4d75.3833274!16s%2Fg%2F11vrzkxhb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fathima-hospital-kannur-kannur",
@@ -3702,7 +3733,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Fathima+Hospital+Kannur/@11.8776456,75.3726805,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d30fce9f485:0xce550c0dd2031dd3!8m2!3d11.8776456!4d75.3726805!16s%2Fg%2F1hf4cnvtv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fathima+Hospital+Kannur/@11.8776456,75.3726805,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d30fce9f485:0xce550c0dd2031dd3!8m2!3d11.8776456!4d75.3726805!16s%2Fg%2F1hf4cnvtv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3768,10 +3799,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fathima+Hospital+Kannur/@11.8776456,75.3726805,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d30fce9f485:0xce550c0dd2031dd3!8m2!3d11.8776456!4d75.3726805!16s%2Fg%2F1hf4cnvtv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "feliz-dentistry-kannur",
@@ -3819,7 +3851,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Feliz+Dentistry/@11.8740848,75.3756424,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d597ec26531:0x67ec622efdbc7165!8m2!3d11.8740848!4d75.3756424!16s%2Fg%2F11vybbn6fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Feliz+Dentistry/@11.8740848,75.3756424,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d597ec26531:0x67ec622efdbc7165!8m2!3d11.8740848!4d75.3756424!16s%2Fg%2F11vybbn6fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3888,7 +3920,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Feliz+Dentistry/@11.8740848,75.3756424,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d597ec26531:0x67ec622efdbc7165!8m2!3d11.8740848!4d75.3756424!16s%2Fg%2F11vybbn6fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gateway-hair-fixing-kannur-kannur",
@@ -3937,7 +3970,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gateway+Hair+Fixing+Kannur/@11.8666643,75.3712904,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422cc8f466245:0xe8f2d8bf8930fb8a!8m2!3d11.8666643!4d75.3712904!16s%2Fg%2F11g3zn9qhn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gateway+Hair+Fixing+Kannur/@11.8666643,75.3712904,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422cc8f466245:0xe8f2d8bf8930fb8a!8m2!3d11.8666643!4d75.3712904!16s%2Fg%2F11g3zn9qhn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4006,7 +4039,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gateway+Hair+Fixing+Kannur/@11.8666643,75.3712904,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422cc8f466245:0xe8f2d8bf8930fb8a!8m2!3d11.8666643!4d75.3712904!16s%2Fg%2F11g3zn9qhn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "geetha-oral-diagnostics-kannur",
@@ -4056,7 +4090,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Geetha+Oral+Diagnostics/@11.8725951,75.3712147,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3391b4a9db:0x4558520b8d5816d8!8m2!3d11.8725951!4d75.3712147!16s%2Fg%2F11g30wgl9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Geetha+Oral+Diagnostics/@11.8725951,75.3712147,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3391b4a9db:0x4558520b8d5816d8!8m2!3d11.8725951!4d75.3712147!16s%2Fg%2F11g30wgl9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4125,7 +4159,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Geetha+Oral+Diagnostics/@11.8725951,75.3712147,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3391b4a9db:0x4558520b8d5816d8!8m2!3d11.8725951!4d75.3712147!16s%2Fg%2F11g30wgl9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "good-heart-clinic-kannur",
@@ -4174,7 +4209,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Good+Heart+Clinic/@11.8670972,75.3656962,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422caeb25679f:0x8737cbc55ecb058a!8m2!3d11.8670972!4d75.3656962!16s%2Fg%2F11cs5p3dk8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Good+Heart+Clinic/@11.8670972,75.3656962,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422caeb25679f:0x8737cbc55ecb058a!8m2!3d11.8670972!4d75.3656962!16s%2Fg%2F11cs5p3dk8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4240,10 +4275,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Good+Heart+Clinic/@11.8670972,75.3656962,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422caeb25679f:0x8737cbc55ecb058a!8m2!3d11.8670972!4d75.3656962!16s%2Fg%2F11cs5p3dk8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hair-o-craft-hair-transplant-clinic-kannur-kannur",
@@ -4292,7 +4328,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hair+O+Craft+Hair+Transplant+Clinic+Kannur/@11.8742559,75.3793845,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d435b54c5c5:0x40f0dea6db8ca53d!8m2!3d11.8742559!4d75.3793845!16s%2Fg%2F11r7kq2g0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hair+O+Craft+Hair+Transplant+Clinic+Kannur/@11.8742559,75.3793845,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d435b54c5c5:0x40f0dea6db8ca53d!8m2!3d11.8742559!4d75.3793845!16s%2Fg%2F11r7kq2g0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4361,7 +4397,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hair+O+Craft+Hair+Transplant+Clinic+Kannur/@11.8742559,75.3793845,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d435b54c5c5:0x40f0dea6db8ca53d!8m2!3d11.8742559!4d75.3793845!16s%2Fg%2F11r7kq2g0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hair-tree-hair-transplantation-and-prp-clinic-kannur-kannur",
@@ -4410,7 +4447,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HAIR+TREE+HAIR+TRANSPLANTATION+%26+PRP+CLINIC+KANNUR/@11.8740039,75.3805116,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dcdf3cb2d81:0x6cfa5672293c201b!8m2!3d11.8740039!4d75.3805116!16s%2Fg%2F11g0mhm599?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HAIR+TREE+HAIR+TRANSPLANTATION+%26+PRP+CLINIC+KANNUR/@11.8740039,75.3805116,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dcdf3cb2d81:0x6cfa5672293c201b!8m2!3d11.8740039!4d75.3805116!16s%2Fg%2F11g0mhm599?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4479,7 +4516,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HAIR+TREE+HAIR+TRANSPLANTATION+%26+PRP+CLINIC+KANNUR/@11.8740039,75.3805116,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dcdf3cb2d81:0x6cfa5672293c201b!8m2!3d11.8740039!4d75.3805116!16s%2Fg%2F11g0mhm599?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "happydent-dental-studio-kannur",
@@ -4529,7 +4567,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Happydent+Dental+Studio/@11.8592143,75.381864,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423aae6da91df:0xe358ed98df0e768!8m2!3d11.8592143!4d75.381864!16s%2Fg%2F11x6jk0tkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Happydent+Dental+Studio/@11.8592143,75.381864,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423aae6da91df:0xe358ed98df0e768!8m2!3d11.8592143!4d75.381864!16s%2Fg%2F11x6jk0tkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4598,7 +4636,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Happydent+Dental+Studio/@11.8592143,75.381864,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423aae6da91df:0xe358ed98df0e768!8m2!3d11.8592143!4d75.381864!16s%2Fg%2F11x6jk0tkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hnh-kannur",
@@ -4648,7 +4687,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HnH/@11.8790454,75.3723055,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3093c7d49d:0x91313e1a3570a539!8m2!3d11.8790454!4d75.3723055!16s%2Fg%2F11clw3425x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HnH/@11.8790454,75.3723055,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3093c7d49d:0x91313e1a3570a539!8m2!3d11.8790454!4d75.3723055!16s%2Fg%2F11clw3425x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4717,7 +4756,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HnH/@11.8790454,75.3723055,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3093c7d49d:0x91313e1a3570a539!8m2!3d11.8790454!4d75.3723055!16s%2Fg%2F11clw3425x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indiana-tmh-cardiac-centre-thalassery",
@@ -4767,7 +4807,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indiana+TMH+Cardiac+Centre/@11.7539489,75.4907265,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba427dbcfbea609:0x84b94496251506f3!8m2!3d11.7539489!4d75.4907265!16s%2Fg%2F11y2jszlgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indiana+TMH+Cardiac+Centre/@11.7539489,75.4907265,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba427dbcfbea609:0x84b94496251506f3!8m2!3d11.7539489!4d75.4907265!16s%2Fg%2F11y2jszlgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4836,7 +4876,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indiana+TMH+Cardiac+Centre/@11.7539489,75.4907265,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba427dbcfbea609:0x84b94496251506f3!8m2!3d11.7539489!4d75.4907265!16s%2Fg%2F11y2jszlgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevanam-ayurveda-hospital-kannur",
@@ -4885,7 +4926,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jeevanam+Ayurveda+Hospital/@11.8889582,75.3443129,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba417df137265fb:0x1c0621e6b34add62!8m2!3d11.8889582!4d75.3443129!16s%2Fg%2F11b75j1cs3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevanam+Ayurveda+Hospital/@11.8889582,75.3443129,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba417df137265fb:0x1c0621e6b34add62!8m2!3d11.8889582!4d75.3443129!16s%2Fg%2F11b75j1cs3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4954,7 +4995,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevanam+Ayurveda+Hospital/@11.8889582,75.3443129,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba417df137265fb:0x1c0621e6b34add62!8m2!3d11.8889582!4d75.3443129!16s%2Fg%2F11b75j1cs3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jjs-kannur-medical-centre-kannur",
@@ -5003,7 +5045,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/JJS+Kannur+medical+centre/@11.881416,75.3738089,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3a8e0ca969:0xb5ba88066e58d276!8m2!3d11.881416!4d75.3738089!16s%2Fg%2F11g9gqz_q_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JJS+Kannur+medical+centre/@11.881416,75.3738089,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3a8e0ca969:0xb5ba88066e58d276!8m2!3d11.881416!4d75.3738089!16s%2Fg%2F11g9gqz_q_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5072,7 +5114,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JJS+Kannur+medical+centre/@11.881416,75.3738089,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3a8e0ca969:0xb5ba88066e58d276!8m2!3d11.881416!4d75.3738089!16s%2Fg%2F11g9gqz_q_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kannur-co-operative-hospital-society-ltd-kannothchal",
@@ -5120,7 +5163,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kannur+Co+Operative+Hospital+Society+Ltd/@11.8848477,75.3730677,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3b9c52216f:0xdf15a3fa268ffbe7!8m2!3d11.8848477!4d75.3730677!16s%2Fg%2F11r48ql3bd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kannur+Co+Operative+Hospital+Society+Ltd/@11.8848477,75.3730677,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3b9c52216f:0xdf15a3fa268ffbe7!8m2!3d11.8848477!4d75.3730677!16s%2Fg%2F11r48ql3bd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5186,10 +5229,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kannur+Co+Operative+Hospital+Society+Ltd/@11.8848477,75.3730677,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3b9c52216f:0xdf15a3fa268ffbe7!8m2!3d11.8848477!4d75.3730677!16s%2Fg%2F11r48ql3bd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kannur-dental-care-kannur",
@@ -5238,7 +5282,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KANNUR+DENTAL+CARE/@11.8758273,75.388616,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43cd60f5a8107:0x781a697308e61cd3!8m2!3d11.8758273!4d75.388616!16s%2Fg%2F11cp5qmdl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KANNUR+DENTAL+CARE/@11.8758273,75.388616,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43cd60f5a8107:0x781a697308e61cd3!8m2!3d11.8758273!4d75.388616!16s%2Fg%2F11cp5qmdl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5307,7 +5351,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KANNUR+DENTAL+CARE/@11.8758273,75.388616,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43cd60f5a8107:0x781a697308e61cd3!8m2!3d11.8758273!4d75.388616!16s%2Fg%2F11cp5qmdl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kannur-neuro-centre-kannur",
@@ -5355,7 +5400,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Kannur+Neuro+Centre/@11.8866633,75.3716564,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43de2f199bbf5:0xb9fb88379ca9e56a!8m2!3d11.8866633!4d75.3716564!16s%2Fg%2F11knntj6mc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kannur+Neuro+Centre/@11.8866633,75.3716564,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43de2f199bbf5:0xb9fb88379ca9e56a!8m2!3d11.8866633!4d75.3716564!16s%2Fg%2F11knntj6mc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5421,10 +5466,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kannur+Neuro+Centre/@11.8866633,75.3716564,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43de2f199bbf5:0xb9fb88379ca9e56a!8m2!3d11.8866633!4d75.3716564!16s%2Fg%2F11knntj6mc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kannur-spine-and-joint-clinic-pappinisseri",
@@ -5474,7 +5520,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kannur+Spine+And+Joint+Clinic/@11.9392193,75.3479576,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43de4f0ab5d11:0x45b0fe65301259e7!8m2!3d11.9392193!4d75.3479576!16s%2Fg%2F11ry4sc6c1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kannur+Spine+And+Joint+Clinic/@11.9392193,75.3479576,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43de4f0ab5d11:0x45b0fe65301259e7!8m2!3d11.9392193!4d75.3479576!16s%2Fg%2F11ry4sc6c1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5540,10 +5586,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kannur+Spine+And+Joint+Clinic/@11.9392193,75.3479576,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43de4f0ab5d11:0x45b0fe65301259e7!8m2!3d11.9392193!4d75.3479576!16s%2Fg%2F11ry4sc6c1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kims-sreechand-hospital-kannur",
@@ -5592,7 +5639,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIMS+Sreechand+Hospital/@11.8716828,75.3597745,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43df6f60a9533:0xbef6bee722fe4350!8m2!3d11.8716828!4d75.3597745!16s%2Fg%2F11kztc95zw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIMS+Sreechand+Hospital/@11.8716828,75.3597745,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43df6f60a9533:0xbef6bee722fe4350!8m2!3d11.8716828!4d75.3597745!16s%2Fg%2F11kztc95zw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5661,7 +5708,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIMS+Sreechand+Hospital/@11.8716828,75.3597745,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43df6f60a9533:0xbef6bee722fe4350!8m2!3d11.8716828!4d75.3597745!16s%2Fg%2F11kztc95zw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kimst-hospital-kannur",
@@ -5709,7 +5757,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/KIMST+Hospital/@11.8832648,75.3750736,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3b217531b3:0x72d23956fede2871!8m2!3d11.8832648!4d75.3750736!16s%2Fg%2F11_r_pppc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIMST+Hospital/@11.8832648,75.3750736,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3b217531b3:0x72d23956fede2871!8m2!3d11.8832648!4d75.3750736!16s%2Fg%2F11_r_pppc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5778,7 +5826,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIMST+Hospital/@11.8832648,75.3750736,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3b217531b3:0x72d23956fede2871!8m2!3d11.8832648!4d75.3750736!16s%2Fg%2F11_r_pppc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kinex-sport-injury-joint-pain-rehab-arthrospot-knee-and-shoulder-clinic-kannur",
@@ -5828,7 +5877,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/KINEX+-+Sport+injury,+joint+pain+Rehab+Arthrospot+Knee+%26+Shoulder+clinic/@11.883981,75.3744119,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43de0751fe3a7:0x2fd19308db141681!8m2!3d11.883981!4d75.3744119!16s%2Fg%2F11pdxpqtgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KINEX+-+Sport+injury,+joint+pain+Rehab+Arthrospot+Knee+%26+Shoulder+clinic/@11.883981,75.3744119,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43de0751fe3a7:0x2fd19308db141681!8m2!3d11.883981!4d75.3744119!16s%2Fg%2F11pdxpqtgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5894,10 +5943,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KINEX+-+Sport+injury,+joint+pain+Rehab+Arthrospot+Knee+%26+Shoulder+clinic/@11.883981,75.3744119,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43de0751fe3a7:0x2fd19308db141681!8m2!3d11.883981!4d75.3744119!16s%2Fg%2F11pdxpqtgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kings-dental-center-kannur-kannur",
@@ -5946,7 +5996,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kings+Dental+Center+Kannur/@11.8674877,75.3675178,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423f9698a5da3:0x2ebb9690c51cc05e!8m2!3d11.8674877!4d75.3675178!16s%2Fg%2F11rt2td_lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kings+Dental+Center+Kannur/@11.8674877,75.3675178,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423f9698a5da3:0x2ebb9690c51cc05e!8m2!3d11.8674877!4d75.3675178!16s%2Fg%2F11rt2td_lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6015,7 +6065,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kings+Dental+Center+Kannur/@11.8674877,75.3675178,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423f9698a5da3:0x2ebb9690c51cc05e!8m2!3d11.8674877!4d75.3675178!16s%2Fg%2F11rt2td_lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "koyiii-resmi-ivf-centre-kannur",
@@ -6065,7 +6116,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KoyiIi-Resmi+IVF+Centre/@11.8866044,75.3711043,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d0027569537:0x190c57a8b6a2ec45!8m2!3d11.8866044!4d75.3711043!16s%2Fg%2F11x0_tgjtg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KoyiIi-Resmi+IVF+Centre/@11.8866044,75.3711043,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d0027569537:0x190c57a8b6a2ec45!8m2!3d11.8866044!4d75.3711043!16s%2Fg%2F11x0_tgjtg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6134,7 +6185,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KoyiIi-Resmi+IVF+Centre/@11.8866044,75.3711043,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d0027569537:0x190c57a8b6a2ec45!8m2!3d11.8866044!4d75.3711043!16s%2Fg%2F11x0_tgjtg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "koyili-hospital-kannur",
@@ -6183,7 +6235,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Koyili+Hospital/@11.8871774,75.3715292,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dc59aee7e05:0x128102883d6aa18c!8m2!3d11.8871774!4d75.3715292!16s%2Fg%2F11fstgd398?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Koyili+Hospital/@11.8871774,75.3715292,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dc59aee7e05:0x128102883d6aa18c!8m2!3d11.8871774!4d75.3715292!16s%2Fg%2F11fstgd398?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6249,10 +6301,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Koyili+Hospital/@11.8871774,75.3715292,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dc59aee7e05:0x128102883d6aa18c!8m2!3d11.8871774!4d75.3715292!16s%2Fg%2F11fstgd398?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lifeline-dental-clinic-kannur",
@@ -6300,7 +6353,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lifeline+Dental+Clinic+(%E0%B4%B2%E0%B5%88%E0%B4%AB%E0%B5%8D+%E0%B4%B2%E0%B5%88%E0%B5%BB+%E0%B4%A1%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%BD+%E0%B4%95%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%A8%E0%B4%BF%E0%B4%95%E0%B5%8D+)/@11.8494292,75.4065421,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423499d7f80eb:0xb6b63de866f375dc!8m2!3d11.8494292!4d75.4065421!16s%2Fg%2F11j7w557yv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lifeline+Dental+Clinic+(%E0%B4%B2%E0%B5%88%E0%B4%AB%E0%B5%8D+%E0%B4%B2%E0%B5%88%E0%B5%BB+%E0%B4%A1%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%BD+%E0%B4%95%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%A8%E0%B4%BF%E0%B4%95%E0%B5%8D+)/@11.8494292,75.4065421,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423499d7f80eb:0xb6b63de866f375dc!8m2!3d11.8494292!4d75.4065421!16s%2Fg%2F11j7w557yv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6366,10 +6419,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lifeline+Dental+Clinic+(%E0%B4%B2%E0%B5%88%E0%B4%AB%E0%B5%8D+%E0%B4%B2%E0%B5%88%E0%B5%BB+%E0%B4%A1%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%BD+%E0%B4%95%E0%B5%8D%E0%B4%B2%E0%B4%BF%E0%B4%A8%E0%B4%BF%E0%B4%95%E0%B5%8D+)/@11.8494292,75.4065421,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423499d7f80eb:0xb6b63de866f375dc!8m2!3d11.8494292!4d75.4065421!16s%2Fg%2F11j7w557yv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maks-medical-center-kannur",
@@ -6417,7 +6471,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Maks+Medical+Center/@11.8811039,75.3712202,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3a048443c1:0x33c853fdc9485649!8m2!3d11.8811039!4d75.3712202!16s%2Fg%2F124ynz9zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maks+Medical+Center/@11.8811039,75.3712202,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3a048443c1:0x33c853fdc9485649!8m2!3d11.8811039!4d75.3712202!16s%2Fg%2F124ynz9zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6486,7 +6540,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maks+Medical+Center/@11.8811039,75.3712202,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3a048443c1:0x33c853fdc9485649!8m2!3d11.8811039!4d75.3712202!16s%2Fg%2F124ynz9zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "malabar-cancer-care-society-kannur-kannur",
@@ -6533,7 +6588,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Malabar+Cancer+Care+Society,Kannur/@11.8770076,75.3760069,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3102617adf:0xdd77a47397f0e26a!8m2!3d11.8770076!4d75.3760069!16s%2Fg%2F11bw46zb03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malabar+Cancer+Care+Society,Kannur/@11.8770076,75.3760069,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3102617adf:0xdd77a47397f0e26a!8m2!3d11.8770076!4d75.3760069!16s%2Fg%2F11bw46zb03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6599,10 +6654,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Malabar+Cancer+Care+Society,Kannur/@11.8770076,75.3760069,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3102617adf:0xdd77a47397f0e26a!8m2!3d11.8770076!4d75.3760069!16s%2Fg%2F11bw46zb03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "malabar-dental-clinic-kannur",
@@ -6650,7 +6706,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Malabar+Dental+Clinic/@11.8688391,75.3669688,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d352bf07a2b:0x22e68e7ff262dee0!8m2!3d11.8688391!4d75.3669688!16s%2Fg%2F11cs6dm63g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malabar+Dental+Clinic/@11.8688391,75.3669688,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d352bf07a2b:0x22e68e7ff262dee0!8m2!3d11.8688391!4d75.3669688!16s%2Fg%2F11cs6dm63g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6719,7 +6775,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Malabar+Dental+Clinic/@11.8688391,75.3669688,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d352bf07a2b:0x22e68e7ff262dee0!8m2!3d11.8688391!4d75.3669688!16s%2Fg%2F11cs6dm63g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medicare-kerala-mele-chovva-rd",
@@ -6769,7 +6826,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/medicare+kerala./@11.8734506,75.3943959,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43cd39b27ecd5:0x6e4ab25e73ac570b!8m2!3d11.8734506!4d75.3943959!16s%2Fg%2F11y7cpj2ww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/medicare+kerala./@11.8734506,75.3943959,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43cd39b27ecd5:0x6e4ab25e73ac570b!8m2!3d11.8734506!4d75.3943959!16s%2Fg%2F11y7cpj2ww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6835,10 +6892,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/medicare+kerala./@11.8734506,75.3943959,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43cd39b27ecd5:0x6e4ab25e73ac570b!8m2!3d11.8734506!4d75.3943959!16s%2Fg%2F11y7cpj2ww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mother-dental-hospital-kannur",
@@ -6887,7 +6945,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mother+Dental+Hospital/@11.8873508,75.3717259,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d6ec231b4b7:0x266b4695feb21a15!8m2!3d11.8873508!4d75.3717259!16s%2Fg%2F11rjz3s7h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mother+Dental+Hospital/@11.8873508,75.3717259,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d6ec231b4b7:0x266b4695feb21a15!8m2!3d11.8873508!4d75.3717259!16s%2Fg%2F11rjz3s7h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6953,10 +7011,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mother+Dental+Hospital/@11.8873508,75.3717259,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d6ec231b4b7:0x266b4695feb21a15!8m2!3d11.8873508!4d75.3717259!16s%2Fg%2F11rjz3s7h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mvr-cancer-centre-and-research-institute-poolacode",
@@ -7005,7 +7064,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MVR+Cancer+Centre+and+Research+Institute/@11.2958564,75.9476259,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba6431386c4cc85:0xf5e011a4704f164f!8m2!3d11.2958564!4d75.9476259!16s%2Fg%2F11f57wqpms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MVR+Cancer+Centre+and+Research+Institute/@11.2958564,75.9476259,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba6431386c4cc85:0xf5e011a4704f164f!8m2!3d11.2958564!4d75.9476259!16s%2Fg%2F11f57wqpms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7074,7 +7133,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MVR+Cancer+Centre+and+Research+Institute/@11.2958564,75.9476259,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba6431386c4cc85:0xf5e011a4704f164f!8m2!3d11.2958564!4d75.9476259!16s%2Fg%2F11f57wqpms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ncare-ivf-centre-kannur-kannur",
@@ -7124,7 +7184,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NCare+IVF+Centre+(Kannur)/@11.8710259,75.3641411,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d4a8689a10d:0x99ec40cc63f3f3b9!8m2!3d11.8710259!4d75.3641411!16s%2Fg%2F11b6gk_v4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NCare+IVF+Centre+(Kannur)/@11.8710259,75.3641411,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d4a8689a10d:0x99ec40cc63f3f3b9!8m2!3d11.8710259!4d75.3641411!16s%2Fg%2F11b6gk_v4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7193,7 +7253,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NCare+IVF+Centre+(Kannur)/@11.8710259,75.3641411,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d4a8689a10d:0x99ec40cc63f3f3b9!8m2!3d11.8710259!4d75.3641411!16s%2Fg%2F11b6gk_v4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-madhavi-dental-care-kannur",
@@ -7241,7 +7302,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/New+Madhavi+Dental+Care/@11.8792991,75.368405,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d376644f499:0x13924bdab85a029d!8m2!3d11.8792991!4d75.368405!16s%2Fg%2F1tdk8hq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Madhavi+Dental+Care/@11.8792991,75.368405,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d376644f499:0x13924bdab85a029d!8m2!3d11.8792991!4d75.368405!16s%2Fg%2F1tdk8hq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7310,7 +7371,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Madhavi+Dental+Care/@11.8792991,75.368405,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d376644f499:0x13924bdab85a029d!8m2!3d11.8792991!4d75.368405!16s%2Fg%2F1tdk8hq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nova-spine-and-pain-clinic-kannur",
@@ -7360,7 +7422,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nova+Spine+%26+Pain+Clinic/@11.8760769,75.3753478,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d643a8dc001:0x2a0ce137f3afd60f!8m2!3d11.8760769!4d75.3753478!16s%2Fg%2F11sjp7k0tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+Spine+%26+Pain+Clinic/@11.8760769,75.3753478,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d643a8dc001:0x2a0ce137f3afd60f!8m2!3d11.8760769!4d75.3753478!16s%2Fg%2F11sjp7k0tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7426,10 +7488,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nova+Spine+%26+Pain+Clinic/@11.8760769,75.3753478,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d643a8dc001:0x2a0ce137f3afd60f!8m2!3d11.8760769!4d75.3753478!16s%2Fg%2F11sjp7k0tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oncure-kannur",
@@ -7478,7 +7541,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Oncure/@11.8742491,75.3793945,17z/data=!3m1!4b1!4m6!3m5!1s0xa2c0e0346816ecf5:0x43a9ecfd09de3b59!8m2!3d11.8742491!4d75.3793945!16s%2Fg%2F11l59kp_72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oncure/@11.8742491,75.3793945,17z/data=!3m1!4b1!4m6!3m5!1s0xa2c0e0346816ecf5:0x43a9ecfd09de3b59!8m2!3d11.8742491!4d75.3793945!16s%2Fg%2F11l59kp_72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7547,7 +7610,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oncure/@11.8742491,75.3793945,17z/data=!3m1!4b1!4m6!3m5!1s0xa2c0e0346816ecf5:0x43a9ecfd09de3b59!8m2!3d11.8742491!4d75.3793945!16s%2Fg%2F11l59kp_72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parvathy-speciality-dental-clinic-kannur-kannur",
@@ -7597,7 +7661,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Parvathy+Speciality+Dental+Clinic+(Kannur)/@11.8766724,75.3737493,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d6769926c43:0x7b59d386b9deeccd!8m2!3d11.8766724!4d75.3737493!16s%2Fg%2F11p5rr1m5f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parvathy+Speciality+Dental+Clinic+(Kannur)/@11.8766724,75.3737493,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d6769926c43:0x7b59d386b9deeccd!8m2!3d11.8766724!4d75.3737493!16s%2Fg%2F11p5rr1m5f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7666,7 +7730,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parvathy+Speciality+Dental+Clinic+(Kannur)/@11.8766724,75.3737493,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d6769926c43:0x7b59d386b9deeccd!8m2!3d11.8766724!4d75.3737493!16s%2Fg%2F11p5rr1m5f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prime-skin-clinic-kannur",
@@ -7715,7 +7780,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Prime+Skin+Clinic/@11.8783237,75.3774715,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dbd606bf585:0x7946c4bf1385e6db!8m2!3d11.8783237!4d75.3774715!16s%2Fg%2F11kf2v2t02?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prime+Skin+Clinic/@11.8783237,75.3774715,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dbd606bf585:0x7946c4bf1385e6db!8m2!3d11.8783237!4d75.3774715!16s%2Fg%2F11kf2v2t02?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7784,7 +7849,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prime+Skin+Clinic/@11.8783237,75.3774715,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dbd606bf585:0x7946c4bf1385e6db!8m2!3d11.8783237!4d75.3774715!16s%2Fg%2F11kf2v2t02?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prism-dental-care-thottada",
@@ -7832,7 +7898,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Prism+dental+care/@11.8409423,75.4208566,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423f19850a557:0xce3fca29fa81441a!8m2!3d11.8409423!4d75.4208566!16s%2Fg%2F11t25cy3qq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prism+dental+care/@11.8409423,75.4208566,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423f19850a557:0xce3fca29fa81441a!8m2!3d11.8409423!4d75.4208566!16s%2Fg%2F11t25cy3qq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7898,10 +7964,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prism+dental+care/@11.8409423,75.4208566,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba423f19850a557:0xce3fca29fa81441a!8m2!3d11.8409423!4d75.4208566!16s%2Fg%2F11t25cy3qq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radiant-hospital-kannur-kannur",
@@ -7950,7 +8017,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Radiant+Hospital+%7C+kannur/data=!4m7!3m6!1s0x3ba43d724ef853cb:0x1749bce9ec2e7cda!8m2!3d11.8744354!4d75.3754142!16s%2Fg%2F11m6pqrgk3!19sChIJy1P4TnI9pDsR2nwu7Om8SRc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiant+Hospital+%7C+kannur/data=!4m7!3m6!1s0x3ba43d724ef853cb:0x1749bce9ec2e7cda!8m2!3d11.8744354!4d75.3754142!16s%2Fg%2F11m6pqrgk3!19sChIJy1P4TnI9pDsR2nwu7Om8SRc?authuser=0&hl=en&rclk=1"
@@ -8019,7 +8086,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radiant+Hospital+%7C+kannur/data=!4m7!3m6!1s0x3ba43d724ef853cb:0x1749bce9ec2e7cda!8m2!3d11.8744354!4d75.3754142!16s%2Fg%2F11m6pqrgk3!19sChIJy1P4TnI9pDsR2nwu7Om8SRc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "reliva-physiotherapy-and-rehab-kannur-kannur",
@@ -8069,7 +8137,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ReLiva+Physiotherapy+%26+Rehab:+Kannur/@11.8701296,75.3668847,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dfaa4536043:0x3578d5b5962ca02d!8m2!3d11.8701296!4d75.3668847!16s%2Fg%2F11y0sz2v1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ReLiva+Physiotherapy+%26+Rehab:+Kannur/@11.8701296,75.3668847,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dfaa4536043:0x3578d5b5962ca02d!8m2!3d11.8701296!4d75.3668847!16s%2Fg%2F11y0sz2v1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8135,10 +8203,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ReLiva+Physiotherapy+%26+Rehab:+Kannur/@11.8701296,75.3668847,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dfaa4536043:0x3578d5b5962ca02d!8m2!3d11.8701296!4d75.3668847!16s%2Fg%2F11y0sz2v1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-m-hospital-kannur",
@@ -8186,7 +8255,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://www.google.com/maps/place/S.M.+Hospital/@11.8741873,75.381112,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d2c11ac434b:0x760f50b633a892a9!8m2!3d11.8741873!4d75.381112!16s%2Fg%2F124yp_qy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.M.+Hospital/@11.8741873,75.381112,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d2c11ac434b:0x760f50b633a892a9!8m2!3d11.8741873!4d75.381112!16s%2Fg%2F124yp_qy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8255,7 +8324,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S.M.+Hospital/@11.8741873,75.381112,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d2c11ac434b:0x760f50b633a892a9!8m2!3d11.8741873!4d75.381112!16s%2Fg%2F124yp_qy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smylz-dental-centre-kannur",
@@ -8304,7 +8374,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SMYLZ+DENTAL+CENTRE/@11.8823445,75.3739555,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3afb03bd0b:0x5f859c47ceb449bb!8m2!3d11.8823445!4d75.3739555!16s%2Fg%2F1trxhqf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMYLZ+DENTAL+CENTRE/@11.8823445,75.3739555,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3afb03bd0b:0x5f859c47ceb449bb!8m2!3d11.8823445!4d75.3739555!16s%2Fg%2F1trxhqf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8373,7 +8443,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SMYLZ+DENTAL+CENTRE/@11.8823445,75.3739555,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3afb03bd0b:0x5f859c47ceb449bb!8m2!3d11.8823445!4d75.3739555!16s%2Fg%2F1trxhqf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "soul-dental-varam",
@@ -8422,7 +8493,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Soul+Dental/@11.9002527,75.4187624,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dfebebd9d17:0x8d7f8d2622ee0631!8m2!3d11.9002527!4d75.4187624!16s%2Fg%2F11lrfrfmck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Soul+Dental/@11.9002527,75.4187624,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dfebebd9d17:0x8d7f8d2622ee0631!8m2!3d11.9002527!4d75.4187624!16s%2Fg%2F11lrfrfmck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8488,10 +8559,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Soul+Dental/@11.9002527,75.4187624,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dfebebd9d17:0x8d7f8d2622ee0631!8m2!3d11.9002527!4d75.4187624!16s%2Fg%2F11lrfrfmck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "specialist-diagnostic-centre-kannur",
@@ -8537,7 +8609,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/SPECIALIST+DIAGNOSTIC+CENTRE/@11.8834988,75.3737831,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3b04528477:0xa19eddb6ae83703c!8m2!3d11.8834988!4d75.3737831!16s%2Fg%2F11y1f8t71w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SPECIALIST+DIAGNOSTIC+CENTRE/@11.8834988,75.3737831,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3b04528477:0xa19eddb6ae83703c!8m2!3d11.8834988!4d75.3737831!16s%2Fg%2F11y1f8t71w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8603,10 +8675,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SPECIALIST+DIAGNOSTIC+CENTRE/@11.8834988,75.3737831,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3b04528477:0xa19eddb6ae83703c!8m2!3d11.8834988!4d75.3737831!16s%2Fg%2F11y1f8t71w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "speciality-dental-clinic-kannur",
@@ -8655,7 +8728,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Speciality+Dental+Clinic/@11.8950289,75.367952,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d145db1e18f:0xec14f6ad84c23a55!8m2!3d11.8950289!4d75.367952!16s%2Fg%2F11csb0m7yn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Speciality+Dental+Clinic/@11.8950289,75.367952,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d145db1e18f:0xec14f6ad84c23a55!8m2!3d11.8950289!4d75.367952!16s%2Fg%2F11csb0m7yn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8721,10 +8794,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Speciality+Dental+Clinic/@11.8950289,75.367952,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d145db1e18f:0xec14f6ad84c23a55!8m2!3d11.8950289!4d75.367952!16s%2Fg%2F11csb0m7yn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "speciality-hospital-thana-kannur",
@@ -8773,7 +8847,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Speciality+Hospital+Thana/@11.8737927,75.3833298,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d2beae9e197:0x566e8b33e66b5d78!8m2!3d11.8737927!4d75.3833298!16s%2Fg%2F11c52603yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Speciality+Hospital+Thana/@11.8737927,75.3833298,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d2beae9e197:0x566e8b33e66b5d78!8m2!3d11.8737927!4d75.3833298!16s%2Fg%2F11c52603yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8842,7 +8916,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Speciality+Hospital+Thana/@11.8737927,75.3833298,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d2beae9e197:0x566e8b33e66b5d78!8m2!3d11.8737927!4d75.3833298!16s%2Fg%2F11c52603yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spine-and-joint-care-hospital-kannur",
@@ -8894,7 +8969,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Spine+%26+joint+care+hospital/@11.9621966,75.3589428,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43f013f372747:0xf142669819479e50!8m2!3d11.9621966!4d75.3589428!16s%2Fg%2F11ks4sr_7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spine+%26+joint+care+hospital/@11.9621966,75.3589428,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43f013f372747:0xf142669819479e50!8m2!3d11.9621966!4d75.3589428!16s%2Fg%2F11ks4sr_7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8963,7 +9038,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spine+%26+joint+care+hospital/@11.9621966,75.3589428,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43f013f372747:0xf142669819479e50!8m2!3d11.9621966!4d75.3589428!16s%2Fg%2F11ks4sr_7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "st-antony-s-dental-clinic-nr-dsc-center-kannur-kannur",
@@ -9012,7 +9088,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/St.Antony's+Dental+Clinic+(+Nr+DSC+center+Kannur+)/@11.8657337,75.3669918,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422ca56eba0c1:0xe75f31021bf9200f!8m2!3d11.8657337!4d75.3669918!16s%2Fg%2F11ddxpn6q2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/St.Antony's+Dental+Clinic+(+Nr+DSC+center+Kannur+)/@11.8657337,75.3669918,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422ca56eba0c1:0xe75f31021bf9200f!8m2!3d11.8657337!4d75.3669918!16s%2Fg%2F11ddxpn6q2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9078,10 +9154,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/St.Antony's+Dental+Clinic+(+Nr+DSC+center+Kannur+)/@11.8657337,75.3669918,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422ca56eba0c1:0xe75f31021bf9200f!8m2!3d11.8657337!4d75.3669918!16s%2Fg%2F11ddxpn6q2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sterling-dentistry-kannur",
@@ -9129,7 +9206,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sterling+dentistry/@11.88621,75.37237,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dccf96736d3:0xf461f9cc80c2daf3!8m2!3d11.88621!4d75.37237!16s%2Fg%2F11kbby07vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sterling+dentistry/@11.88621,75.37237,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dccf96736d3:0xf461f9cc80c2daf3!8m2!3d11.88621!4d75.37237!16s%2Fg%2F11kbby07vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9195,10 +9272,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sterling+dentistry/@11.88621,75.37237,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dccf96736d3:0xf461f9cc80c2daf3!8m2!3d11.88621!4d75.37237!16s%2Fg%2F11kbby07vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tapasya-ayurveda-and-panchakarma-hospital-kannur",
@@ -9247,7 +9325,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Tapasya+Ayurveda+%26+Panchakarma+Hospital/@11.8673312,75.3655477,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422ca9555f7af:0x4a2352ff5c5a783e!8m2!3d11.8673312!4d75.3655477!16s%2Fg%2F1q5bm8lpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tapasya+Ayurveda+%26+Panchakarma+Hospital/@11.8673312,75.3655477,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422ca9555f7af:0x4a2352ff5c5a783e!8m2!3d11.8673312!4d75.3655477!16s%2Fg%2F1q5bm8lpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9316,7 +9394,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tapasya+Ayurveda+%26+Panchakarma+Hospital/@11.8673312,75.3655477,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422ca9555f7af:0x4a2352ff5c5a783e!8m2!3d11.8673312!4d75.3655477!16s%2Fg%2F1q5bm8lpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tapasya-hair-transplantation-and-skin-care-centre-kannur",
@@ -9364,7 +9443,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Tapasya+Hair+Transplantation+and+Skin+Care+Centre/@11.8673142,75.365507,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4237559394cb7:0xad614fad6c5609e0!8m2!3d11.8673142!4d75.365507!16s%2Fg%2F11vbz8kg6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tapasya+Hair+Transplantation+and+Skin+Care+Centre/@11.8673142,75.365507,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4237559394cb7:0xad614fad6c5609e0!8m2!3d11.8673142!4d75.365507!16s%2Fg%2F11vbz8kg6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9430,10 +9509,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tapasya+Hair+Transplantation+and+Skin+Care+Centre/@11.8673142,75.365507,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4237559394cb7:0xad614fad6c5609e0!8m2!3d11.8673142!4d75.365507!16s%2Fg%2F11vbz8kg6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thanal-dialysis-centre-koodali",
@@ -9482,7 +9562,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/THANAL+DIALYSIS+CENTRE/@11.9290185,75.4640223,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43b48e8738c23:0x6a6f1a833e977dd7!8m2!3d11.9290185!4d75.4640223!16s%2Fg%2F11mh502mw8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THANAL+DIALYSIS+CENTRE/@11.9290185,75.4640223,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43b48e8738c23:0x6a6f1a833e977dd7!8m2!3d11.9290185!4d75.4640223!16s%2Fg%2F11mh502mw8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9551,7 +9631,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/THANAL+DIALYSIS+CENTRE/@11.9290185,75.4640223,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43b48e8738c23:0x6a6f1a833e977dd7!8m2!3d11.9290185!4d75.4640223!16s%2Fg%2F11mh502mw8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "therefore-i-m-kannur-advanced-aesthetics-and-cosmetic-skin-clinic-kannur-best-hair-and-skin-care-clinic-in-kannur-kannur",
@@ -9600,7 +9681,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Therefore+I'm+Kannur+-+Advanced+Aesthetics+%26+Cosmetic+Skin+Clinic+Kannur+,+Best+Hair+%26+Skin+Care+Clinic+in+Kannur/@11.86869,75.3537726,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dd89fcecfe5:0x42d1707331d1815a!8m2!3d11.86869!4d75.3537726!16s%2Fg%2F11xp93cmp_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Therefore+I'm+Kannur+-+Advanced+Aesthetics+%26+Cosmetic+Skin+Clinic+Kannur+,+Best+Hair+%26+Skin+Care+Clinic+in+Kannur/@11.86869,75.3537726,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dd89fcecfe5:0x42d1707331d1815a!8m2!3d11.86869!4d75.3537726!16s%2Fg%2F11xp93cmp_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9669,7 +9750,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Therefore+I'm+Kannur+-+Advanced+Aesthetics+%26+Cosmetic+Skin+Clinic+Kannur+,+Best+Hair+%26+Skin+Care+Clinic+in+Kannur/@11.86869,75.3537726,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43dd89fcecfe5:0x42d1707331d1815a!8m2!3d11.86869!4d75.3537726!16s%2Fg%2F11xp93cmp_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "touch-and-heal-talap",
@@ -9718,7 +9800,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Touch+%26+Heal/@11.8820171,75.3717303,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3a4afe0e9b:0x481814e6a571377a!8m2!3d11.8820171!4d75.3717303!16s%2Fg%2F11bw650559?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Touch+%26+Heal/@11.8820171,75.3717303,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3a4afe0e9b:0x481814e6a571377a!8m2!3d11.8820171!4d75.3717303!16s%2Fg%2F11bw650559?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9787,7 +9869,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Touch+%26+Heal/@11.8820171,75.3717303,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3a4afe0e9b:0x481814e6a571377a!8m2!3d11.8820171!4d75.3717303!16s%2Fg%2F11bw650559?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "unity-medical-center-kannur",
@@ -9835,7 +9918,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/UNITY+MEDICAL+CENTER/@11.8789044,75.3684105,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3955baaaab:0x521dffaf8ddc1bc6!8m2!3d11.8789044!4d75.3684105!16s%2Fg%2F11c2kw2b1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UNITY+MEDICAL+CENTER/@11.8789044,75.3684105,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3955baaaab:0x521dffaf8ddc1bc6!8m2!3d11.8789044!4d75.3684105!16s%2Fg%2F11c2kw2b1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9901,10 +9984,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/UNITY+MEDICAL+CENTER/@11.8789044,75.3684105,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba43d3955baaaab:0x521dffaf8ddc1bc6!8m2!3d11.8789044!4d75.3684105!16s%2Fg%2F11c2kw2b1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vr-medical-centre-kannur",
@@ -9953,7 +10037,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/VR+Medical+Centre/@11.8667935,75.365858,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42334739bbb3d:0x95aa23838eba7a9c!8m2!3d11.8667935!4d75.365858!16s%2Fg%2F11g_qmlfb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VR+Medical+Centre/@11.8667935,75.365858,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42334739bbb3d:0x95aa23838eba7a9c!8m2!3d11.8667935!4d75.365858!16s%2Fg%2F11g_qmlfb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10022,7 +10106,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VR+Medical+Centre/@11.8667935,75.365858,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42334739bbb3d:0x95aa23838eba7a9c!8m2!3d11.8667935!4d75.365858!16s%2Fg%2F11g_qmlfb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vs-maxillofacial-dental-clinic-payyanur",
@@ -10072,7 +10157,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VS+Maxillofacial+dental+clinic/@12.0777771,75.2672356,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba46beba5d1efab:0xd1be61cb594e689a!8m2!3d12.0777771!4d75.2672356!16s%2Fg%2F11tb_gm04n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VS+Maxillofacial+dental+clinic/@12.0777771,75.2672356,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba46beba5d1efab:0xd1be61cb594e689a!8m2!3d12.0777771!4d75.2672356!16s%2Fg%2F11tb_gm04n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10141,7 +10226,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VS+Maxillofacial+dental+clinic/@12.0777771,75.2672356,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba46beba5d1efab:0xd1be61cb594e689a!8m2!3d12.0777771!4d75.2672356!16s%2Fg%2F11tb_gm04n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "we-care-medical-center-kannur",
@@ -10190,7 +10276,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/We+Care+Medical+Center/@11.860309,75.3721649,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42312b3915c65:0xb08b072b198edd50!8m2!3d11.860309!4d75.3721649!16s%2Fg%2F11m_38wqdc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/We+Care+Medical+Center/@11.860309,75.3721649,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42312b3915c65:0xb08b072b198edd50!8m2!3d11.860309!4d75.3721649!16s%2Fg%2F11m_38wqdc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10259,7 +10345,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/We+Care+Medical+Center/@11.860309,75.3721649,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba42312b3915c65:0xb08b072b198edd50!8m2!3d11.860309!4d75.3721649!16s%2Fg%2F11m_38wqdc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "west-coast-hospital-kannur",
@@ -10307,7 +10394,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/West+Coast+Hospital/@11.8662756,75.3650924,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422ca867b2919:0x646eafc0fb74ec67!8m2!3d11.8662756!4d75.3650924!16s%2Fg%2F11c3n1pld9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/West+Coast+Hospital/@11.8662756,75.3650924,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422ca867b2919:0x646eafc0fb74ec67!8m2!3d11.8662756!4d75.3650924!16s%2Fg%2F11c3n1pld9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10373,10 +10460,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/West+Coast+Hospital/@11.8662756,75.3650924,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba422ca867b2919:0x646eafc0fb74ec67!8m2!3d11.8662756!4d75.3650924!16s%2Fg%2F11c3n1pld9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kannur",
@@ -10425,7 +10513,7 @@
       "Google rating 1.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%E0%B4%95%E0%B4%A3%E0%B5%8D%E0%B4%A3%E0%B5%82%E0%B5%BC+%E0%B4%9C%E0%B4%BF%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B4%BE%E0%B4%B6%E0%B5%81%E0%B4%AA%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%BF+%E0%B4%A1%E0%B4%AF%E0%B4%BE%E0%B4%B2%E0%B4%BF%E0%B4%B8%E0%B4%BF%E0%B4%B8%E0%B5%8D+%E0%B4%AF%E0%B5%82%E0%B4%A3%E0%B4%BF%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D/@11.8608923,75.3702478,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4237105b5cc91:0x11ff2f275c6a1b9c!8m2!3d11.8608923!4d75.3702478!16s%2Fg%2F11h0jhmkn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%B4%95%E0%B4%A3%E0%B5%8D%E0%B4%A3%E0%B5%82%E0%B5%BC+%E0%B4%9C%E0%B4%BF%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B4%BE%E0%B4%B6%E0%B5%81%E0%B4%AA%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%BF+%E0%B4%A1%E0%B4%AF%E0%B4%BE%E0%B4%B2%E0%B4%BF%E0%B4%B8%E0%B4%BF%E0%B4%B8%E0%B5%8D+%E0%B4%AF%E0%B5%82%E0%B4%A3%E0%B4%BF%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D/@11.8608923,75.3702478,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4237105b5cc91:0x11ff2f275c6a1b9c!8m2!3d11.8608923!4d75.3702478!16s%2Fg%2F11h0jhmkn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10491,9 +10579,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%B4%95%E0%B4%A3%E0%B5%8D%E0%B4%A3%E0%B5%82%E0%B5%BC+%E0%B4%9C%E0%B4%BF%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B4%BE%E0%B4%B6%E0%B5%81%E0%B4%AA%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%BF+%E0%B4%A1%E0%B4%AF%E0%B4%BE%E0%B4%B2%E0%B4%BF%E0%B4%B8%E0%B4%BF%E0%B4%B8%E0%B5%8D+%E0%B4%AF%E0%B5%82%E0%B4%A3%E0%B4%BF%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D/@11.8608923,75.3702478,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba4237105b5cc91:0x11ff2f275c6a1b9c!8m2!3d11.8608923!4d75.3702478!16s%2Fg%2F11h0jhmkn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

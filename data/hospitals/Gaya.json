@@ -43,7 +43,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Advance+Plastic+Surgery+Clinic/@24.8015247,85.0090644,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a16ec95e075:0xa9397d9674886d75!8m2!3d24.8015247!4d85.0090644!16s%2Fg%2F11c7t7fbk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Plastic+Surgery+Clinic/@24.8015247,85.0090644,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a16ec95e075:0xa9397d9674886d75!8m2!3d24.8015247!4d85.0090644!16s%2Fg%2F11c7t7fbk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -109,10 +109,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+Plastic+Surgery+Clinic/@24.8015247,85.0090644,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a16ec95e075:0xa9397d9674886d75!8m2!3d24.8015247!4d85.0090644!16s%2Fg%2F11c7t7fbk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aims-hospital-gaya-gaya",
@@ -161,7 +162,7 @@
       "Google rating 2.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AIMS+HOSPITAL+GAYA/@24.7534373,84.9651356,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b148c593d39:0xd61f4eb935ff8636!8m2!3d24.7534373!4d84.9651356!16s%2Fg%2F11crzwd2w4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AIMS+HOSPITAL+GAYA/@24.7534373,84.9651356,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b148c593d39:0xd61f4eb935ff8636!8m2!3d24.7534373!4d84.9651356!16s%2Fg%2F11crzwd2w4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -230,7 +231,8 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AIMS+HOSPITAL+GAYA/@24.7534373,84.9651356,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b148c593d39:0xd61f4eb935ff8636!8m2!3d24.7534373!4d84.9651356!16s%2Fg%2F11crzwd2w4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "alpha-dental-gaya",
@@ -279,7 +281,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Alpha+Dental/@24.7948637,84.9984486,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b5beb2f4209:0x42e370d0663009cd!8m2!3d24.7948637!4d84.9984486!16s%2Fg%2F11ldknqqqx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alpha+Dental/@24.7948637,84.9984486,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b5beb2f4209:0x42e370d0663009cd!8m2!3d24.7948637!4d84.9984486!16s%2Fg%2F11ldknqqqx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -345,10 +347,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Alpha+Dental/@24.7948637,84.9984486,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b5beb2f4209:0x42e370d0663009cd!8m2!3d24.7948637!4d84.9984486!16s%2Fg%2F11ldknqqqx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anugrah-narayan-magadh-medical-college-and-hospital-gaya",
@@ -397,7 +400,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Anugrah+Narayan+Magadh+Medical+College+and+Hospital/@24.770954,84.9614342,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ae00486ac4f:0xb2e9cb7c8733599c!8m2!3d24.770954!4d84.9614342!16s%2Fm%2F0cr4w99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anugrah+Narayan+Magadh+Medical+College+and+Hospital/@24.770954,84.9614342,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ae00486ac4f:0xb2e9cb7c8733599c!8m2!3d24.770954!4d84.9614342!16s%2Fm%2F0cr4w99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -466,7 +469,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anugrah+Narayan+Magadh+Medical+College+and+Hospital/@24.770954,84.9614342,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ae00486ac4f:0xb2e9cb7c8733599c!8m2!3d24.770954!4d84.9614342!16s%2Fm%2F0cr4w99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-hospital-gaya",
@@ -515,7 +519,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Hospital/@24.8003113,85.0105665,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a17abb17391:0xb33e3c73793c699d!8m2!3d24.8003113!4d85.0105665!16s%2Fg%2F11dxqg8krf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital/@24.8003113,85.0105665,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a17abb17391:0xb33e3c73793c699d!8m2!3d24.8003113!4d85.0105665!16s%2Fg%2F11dxqg8krf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -584,7 +588,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Hospital/@24.8003113,85.0105665,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a17abb17391:0xb33e3c73793c699d!8m2!3d24.8003113!4d85.0105665!16s%2Fg%2F11dxqg8krf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aruna-dental-clinic-and-implant-centre-gaya",
@@ -632,7 +637,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Aruna+Dental+Clinic+%26+Implant+centre/@24.8019202,84.9924487,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b0fd0caba9f:0x2e9d06210bfa5f0c!8m2!3d24.8019202!4d84.9924487!16s%2Fg%2F11ptydykmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aruna+Dental+Clinic+%26+Implant+centre/@24.8019202,84.9924487,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b0fd0caba9f:0x2e9d06210bfa5f0c!8m2!3d24.8019202!4d84.9924487!16s%2Fg%2F11ptydykmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -701,7 +706,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aruna+Dental+Clinic+%26+Implant+centre/@24.8019202,84.9924487,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b0fd0caba9f:0x2e9d06210bfa5f0c!8m2!3d24.8019202!4d84.9924487!16s%2Fg%2F11ptydykmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "asha-speech-and-hearing-clinic-gaya",
@@ -751,7 +757,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Asha+Speech+and+Hearing+Clinic/@24.7861541,84.9844968,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b8d0ab23347:0xda5e700e62d76cb7!8m2!3d24.7861541!4d84.9844968!16s%2Fg%2F11j8hg1vkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asha+Speech+and+Hearing+Clinic/@24.7861541,84.9844968,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b8d0ab23347:0xda5e700e62d76cb7!8m2!3d24.7861541!4d84.9844968!16s%2Fg%2F11j8hg1vkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -820,7 +826,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asha+Speech+and+Hearing+Clinic/@24.7861541,84.9844968,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b8d0ab23347:0xda5e700e62d76cb7!8m2!3d24.7861541!4d84.9844968!16s%2Fg%2F11j8hg1vkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayurved-medical-college-and-hospital-gaya",
@@ -868,7 +875,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Ayurved+medical+college+and+hospital/@24.7656254,85.0103514,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bcef64b311b:0x81bf7528b1ced0c5!8m2!3d24.7656254!4d85.0103514!16s%2Fg%2F124yq8b1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayurved+medical+college+and+hospital/@24.7656254,85.0103514,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bcef64b311b:0x81bf7528b1ced0c5!8m2!3d24.7656254!4d85.0103514!16s%2Fg%2F124yq8b1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -937,7 +944,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayurved+medical+college+and+hospital/@24.7656254,85.0103514,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bcef64b311b:0x81bf7528b1ced0c5!8m2!3d24.7656254!4d85.0103514!16s%2Fg%2F124yq8b1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bm-birla-heart-hospital-ck-birla-hospitals-kolkata",
@@ -987,7 +995,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BM+Birla+Heart+Hospital+%7C+CK+Birla+Hospitals/@22.5328893,88.3282827,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027a8d5360be41:0xd3c85b2644df4490!8m2!3d22.5328893!4d88.3282827!16s%2Fg%2F1tvw3bwl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BM+Birla+Heart+Hospital+%7C+CK+Birla+Hospitals/@22.5328893,88.3282827,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027a8d5360be41:0xd3c85b2644df4490!8m2!3d22.5328893!4d88.3282827!16s%2Fg%2F1tvw3bwl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1056,7 +1064,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BM+Birla+Heart+Hospital+%7C+CK+Birla+Hospitals/@22.5328893,88.3282827,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027a8d5360be41:0xd3c85b2644df4490!8m2!3d22.5328893!4d88.3282827!16s%2Fg%2F1tvw3bwl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dantika-dental-clinic-best-dental-care-in-gaya-gaya",
@@ -1105,7 +1114,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dantika+Dental+Clinic+-+Best+Dental+Care+In+Gaya/@24.78685,84.9847731,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba44d9a8ca3:0x18cf5843000a709!8m2!3d24.78685!4d84.9847731!16s%2Fg%2F11xnm_xcgs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dantika+Dental+Clinic+-+Best+Dental+Care+In+Gaya/@24.78685,84.9847731,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba44d9a8ca3:0x18cf5843000a709!8m2!3d24.78685!4d84.9847731!16s%2Fg%2F11xnm_xcgs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1171,10 +1180,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dantika+Dental+Clinic+-+Best+Dental+Care+In+Gaya/@24.78685,84.9847731,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba44d9a8ca3:0x18cf5843000a709!8m2!3d24.78685!4d84.9847731!16s%2Fg%2F11xnm_xcgs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-nest-gaya",
@@ -1222,7 +1232,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Nest/@24.801159,84.9917844,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b4d76b0a4a9:0x210ec96d0263560e!8m2!3d24.801159!4d84.9917844!16s%2Fg%2F11lky3tytx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Nest/@24.801159,84.9917844,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b4d76b0a4a9:0x210ec96d0263560e!8m2!3d24.801159!4d84.9917844!16s%2Fg%2F11lky3tytx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1291,7 +1301,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Nest/@24.801159,84.9917844,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b4d76b0a4a9:0x210ec96d0263560e!8m2!3d24.801159!4d84.9917844!16s%2Fg%2F11lky3tytx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-nest-gaya-gaya",
@@ -1339,7 +1350,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Dental+nest+gaya/@24.7524663,84.9895549,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b5f8247813f:0x283899fc11f0f8cf!8m2!3d24.7524663!4d84.9895549!16s%2Fg%2F11hpxppgrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+nest+gaya/@24.7524663,84.9895549,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b5f8247813f:0x283899fc11f0f8cf!8m2!3d24.7524663!4d84.9895549!16s%2Fg%2F11hpxppgrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1408,7 +1419,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+nest+gaya/@24.7524663,84.9895549,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b5f8247813f:0x283899fc11f0f8cf!8m2!3d24.7524663!4d84.9895549!16s%2Fg%2F11hpxppgrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dev-surgery-and-maternity-clinic-gaya",
@@ -1456,7 +1468,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/DEV+SURGERY+AND+MATERNITY+CLINIC/@24.81719,85.0028064,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32befd7d6eb2f:0x27e209c1dac4e702!8m2!3d24.81719!4d85.0028064!16s%2Fg%2F11hzqdbk7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DEV+SURGERY+AND+MATERNITY+CLINIC/@24.81719,85.0028064,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32befd7d6eb2f:0x27e209c1dac4e702!8m2!3d24.81719!4d85.0028064!16s%2Fg%2F11hzqdbk7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1525,7 +1537,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DEV+SURGERY+AND+MATERNITY+CLINIC/@24.81719,85.0028064,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32befd7d6eb2f:0x27e209c1dac4e702!8m2!3d24.81719!4d85.0028064!16s%2Fg%2F11hzqdbk7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eva-heart-and-maternity-clinic-gaya",
@@ -1575,7 +1588,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Eva+Heart+%26+Maternity+Clinic/@24.7833095,84.9837878,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b927ac6a801:0xef82626f23d48ddb!8m2!3d24.7833095!4d84.9837878!16s%2Fg%2F11mdt2qj7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eva+Heart+%26+Maternity+Clinic/@24.7833095,84.9837878,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b927ac6a801:0xef82626f23d48ddb!8m2!3d24.7833095!4d84.9837878!16s%2Fg%2F11mdt2qj7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1641,10 +1654,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eva+Heart+%26+Maternity+Clinic/@24.7833095,84.9837878,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b927ac6a801:0xef82626f23d48ddb!8m2!3d24.7833095!4d84.9837878!16s%2Fg%2F11mdt2qj7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eva-heart-and-maternity-hospital-gaya",
@@ -1693,7 +1707,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/EVA+Heart+%26+Maternity+Hospital/@24.7768257,85.0036247,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bb25cc068d9:0xfb41d9a3041f57d8!8m2!3d24.7768257!4d85.0036247!16s%2Fg%2F11tj6vqpwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/EVA+Heart+%26+Maternity+Hospital/@24.7768257,85.0036247,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bb25cc068d9:0xfb41d9a3041f57d8!8m2!3d24.7768257!4d85.0036247!16s%2Fg%2F11tj6vqpwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1762,7 +1776,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/EVA+Heart+%26+Maternity+Hospital/@24.7768257,85.0036247,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bb25cc068d9:0xfb41d9a3041f57d8!8m2!3d24.7768257!4d85.0036247!16s%2Fg%2F11tj6vqpwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hi-tech-orthocares-and-trauma-center-gaya",
@@ -1812,7 +1827,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hi-Tech+Orthocares+%26+Trauma+Center/@24.772634,84.9608766,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba14fe7e027:0x7b3fbe01426fdfa5!8m2!3d24.772634!4d84.9608766!16s%2Fg%2F11zk1tpd90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hi-Tech+Orthocares+%26+Trauma+Center/@24.772634,84.9608766,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba14fe7e027:0x7b3fbe01426fdfa5!8m2!3d24.772634!4d84.9608766!16s%2Fg%2F11zk1tpd90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1881,7 +1896,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hi-Tech+Orthocares+%26+Trauma+Center/@24.772634,84.9608766,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba14fe7e027:0x7b3fbe01426fdfa5!8m2!3d24.772634!4d84.9608766!16s%2Fg%2F11zk1tpd90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "janki-dental-clinic-gaya",
@@ -1929,7 +1945,7 @@
     "metrics": [
       "Google rating 2.1"
     ],
-    "image": "https://www.google.com/maps/place/Janki+Dental+Clinic/@24.786294,84.9838666,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a59b23dd44b:0x45012e4ce96bab5a!8m2!3d24.786294!4d84.9838666!16s%2Fg%2F1hm1q0ky6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janki+Dental+Clinic/@24.786294,84.9838666,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a59b23dd44b:0x45012e4ce96bab5a!8m2!3d24.786294!4d84.9838666!16s%2Fg%2F1hm1q0ky6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1998,7 +2014,8 @@
     "rating": 2.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Janki+Dental+Clinic/@24.786294,84.9838666,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a59b23dd44b:0x45012e4ce96bab5a!8m2!3d24.786294!4d84.9838666!16s%2Fg%2F1hm1q0ky6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jindal-dental-clinic-gaya",
@@ -2046,7 +2063,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Jindal+Dental+Clinic/@24.800088,85.0091207,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a395949d0a7:0x57721f3ca7d54461!8m2!3d24.800088!4d85.0091207!16s%2Fg%2F11csq0qnbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jindal+Dental+Clinic/@24.800088,85.0091207,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a395949d0a7:0x57721f3ca7d54461!8m2!3d24.800088!4d85.0091207!16s%2Fg%2F11csq0qnbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2115,7 +2132,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jindal+Dental+Clinic/@24.800088,85.0091207,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a395949d0a7:0x57721f3ca7d54461!8m2!3d24.800088!4d85.0091207!16s%2Fg%2F11csq0qnbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jindal-hospital-gaya",
@@ -2164,7 +2182,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jindal+Hospital/@24.7912052,84.9973546,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a395e4214fb:0xcdf1e985a9b84bd2!8m2!3d24.7912052!4d84.9973546!16s%2Fg%2F11cjk2k9lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jindal+Hospital/@24.7912052,84.9973546,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a395e4214fb:0xcdf1e985a9b84bd2!8m2!3d24.7912052!4d84.9973546!16s%2Fg%2F11cjk2k9lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2233,7 +2251,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jindal+Hospital/@24.7912052,84.9973546,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a395e4214fb:0xcdf1e985a9b84bd2!8m2!3d24.7912052!4d84.9973546!16s%2Fg%2F11cjk2k9lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jyotialok-maxillofacial-trauma-and-orthodontics-dental-hospital-gaya",
@@ -2282,7 +2301,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/JyotiAlok+Maxillofacial+Trauma+%26+Orthodontics+Dental+Hospital/@24.8008854,85.0096299,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bb56b4fae99:0xe7f2d1d8e68ea3ee!8m2!3d24.8008854!4d85.0096299!16s%2Fg%2F11z647gcr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JyotiAlok+Maxillofacial+Trauma+%26+Orthodontics+Dental+Hospital/@24.8008854,85.0096299,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bb56b4fae99:0xe7f2d1d8e68ea3ee!8m2!3d24.8008854!4d85.0096299!16s%2Fg%2F11z647gcr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2348,10 +2367,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JyotiAlok+Maxillofacial+Trauma+%26+Orthodontics+Dental+Hospital/@24.8008854,85.0096299,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bb56b4fae99:0xe7f2d1d8e68ea3ee!8m2!3d24.8008854!4d85.0096299!16s%2Fg%2F11z647gcr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kamla-dental-clinic-gaya",
@@ -2400,7 +2420,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kamla+dental+clinic/@24.788607,85.006961,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a3976e336ff:0x5224e27dc00f15cd!8m2!3d24.788607!4d85.006961!16s%2Fg%2F11b63c0_z8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamla+dental+clinic/@24.788607,85.006961,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a3976e336ff:0x5224e27dc00f15cd!8m2!3d24.788607!4d85.006961!16s%2Fg%2F11b63c0_z8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2469,7 +2489,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kamla+dental+clinic/@24.788607,85.006961,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a3976e336ff:0x5224e27dc00f15cd!8m2!3d24.788607!4d85.006961!16s%2Fg%2F11b63c0_z8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kmch-gaya-gaya",
@@ -2517,7 +2538,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/KMCH+GAYA/@24.7963547,85.0009395,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba26d86f999:0xec2386e4ac74ab9e!8m2!3d24.7963547!4d85.0009395!16s%2Fg%2F11hysmykrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KMCH+GAYA/@24.7963547,85.0009395,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba26d86f999:0xec2386e4ac74ab9e!8m2!3d24.7963547!4d85.0009395!16s%2Fg%2F11hysmykrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2586,7 +2607,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KMCH+GAYA/@24.7963547,85.0009395,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba26d86f999:0xec2386e4ac74ab9e!8m2!3d24.7963547!4d85.0009395!16s%2Fg%2F11hysmykrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-care-dental-and-homeo-clinic-gaya",
@@ -2634,7 +2656,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Life+Care+Dental+%26+Homeo+clinic/@24.7833265,84.9978929,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bff85957e0b:0x3c7780a4278816fe!8m2!3d24.7833265!4d84.9978929!16s%2Fg%2F11yp8trpvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Care+Dental+%26+Homeo+clinic/@24.7833265,84.9978929,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bff85957e0b:0x3c7780a4278816fe!8m2!3d24.7833265!4d84.9978929!16s%2Fg%2F11yp8trpvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2700,10 +2722,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+Care+Dental+%26+Homeo+clinic/@24.7833265,84.9978929,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bff85957e0b:0x3c7780a4278816fe!8m2!3d24.7833265!4d84.9978929!16s%2Fg%2F11yp8trpvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-line-dental-care-gaya",
@@ -2752,7 +2775,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Life+Line+Dental+Care/@24.7945629,84.9893232,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b7395f6f1e7:0x86edde9493fd1ab2!8m2!3d24.7945629!4d84.9893232!16s%2Fg%2F11fm2mtqph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Line+Dental+Care/@24.7945629,84.9893232,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b7395f6f1e7:0x86edde9493fd1ab2!8m2!3d24.7945629!4d84.9893232!16s%2Fg%2F11fm2mtqph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2821,7 +2844,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+Line+Dental+Care/@24.7945629,84.9893232,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b7395f6f1e7:0x86edde9493fd1ab2!8m2!3d24.7945629!4d84.9893232!16s%2Fg%2F11fm2mtqph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "magadh-ayushman-hospital-gaya",
@@ -2869,7 +2893,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Magadh+Ayushman+Hospital/@24.787689,84.987673,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a5a32689add:0xc10421c7f491d24b!8m2!3d24.787689!4d84.987673!16s%2Fg%2F11sbq_m3gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Magadh+Ayushman+Hospital/@24.787689,84.987673,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a5a32689add:0xc10421c7f491d24b!8m2!3d24.787689!4d84.987673!16s%2Fg%2F11sbq_m3gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2935,10 +2959,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Magadh+Ayushman+Hospital/@24.787689,84.987673,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a5a32689add:0xc10421c7f491d24b!8m2!3d24.787689!4d84.987673!16s%2Fg%2F11sbq_m3gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "magadh-dental-house-gaya",
@@ -2987,7 +3012,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/magadh+dental+house/@24.8006716,85.0090647,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba64a924d8f:0x41baa1fcfc7aa2f3!8m2!3d24.8006716!4d85.0090647!16s%2Fg%2F11y0g356lc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/magadh+dental+house/@24.8006716,85.0090647,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba64a924d8f:0x41baa1fcfc7aa2f3!8m2!3d24.8006716!4d85.0090647!16s%2Fg%2F11y0g356lc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3053,10 +3078,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/magadh+dental+house/@24.8006716,85.0090647,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba64a924d8f:0x41baa1fcfc7aa2f3!8m2!3d24.8006716!4d85.0090647!16s%2Fg%2F11y0g356lc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medanta-dental-skin-and-hair-treatment-the-best-in-gaya-bihar-gaya",
@@ -3104,7 +3130,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/MEDANTA+DENTAL+,SKIN+%26+HAIR+TREATMENT+The+Best+in+Gaya(+Bihar)/@24.7887435,84.9840015,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba0a0031c49:0xc055aaca07beb7ec!8m2!3d24.7887435!4d84.9840015!16s%2Fg%2F11xfdds6nj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEDANTA+DENTAL+,SKIN+%26+HAIR+TREATMENT+The+Best+in+Gaya(+Bihar)/@24.7887435,84.9840015,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba0a0031c49:0xc055aaca07beb7ec!8m2!3d24.7887435!4d84.9840015!16s%2Fg%2F11xfdds6nj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3173,7 +3199,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MEDANTA+DENTAL+,SKIN+%26+HAIR+TREATMENT+The+Best+in+Gaya(+Bihar)/@24.7887435,84.9840015,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba0a0031c49:0xc055aaca07beb7ec!8m2!3d24.7887435!4d84.9840015!16s%2Fg%2F11xfdds6nj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mediverse-hospital-gaya",
@@ -3222,7 +3249,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mediverse+Hospital/@24.7877752,85.0029068,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b37dd9ab70f:0x63ccf58d1434276c!8m2!3d24.7877752!4d85.0029068!16s%2Fg%2F11r_pr1xl3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mediverse+Hospital/@24.7877752,85.0029068,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b37dd9ab70f:0x63ccf58d1434276c!8m2!3d24.7877752!4d85.0029068!16s%2Fg%2F11r_pr1xl3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3291,7 +3318,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mediverse+Hospital/@24.7877752,85.0029068,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b37dd9ab70f:0x63ccf58d1434276c!8m2!3d24.7877752!4d85.0029068!16s%2Fg%2F11r_pr1xl3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medwell-dental-care-gaya",
@@ -3340,7 +3368,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Medwell+Dental+Care/@24.7958241,84.9832721,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b8ae3dfae15:0x286bbe06b1e47a57!8m2!3d24.7958241!4d84.9832721!16s%2Fg%2F11nxfyhv89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medwell+Dental+Care/@24.7958241,84.9832721,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b8ae3dfae15:0x286bbe06b1e47a57!8m2!3d24.7958241!4d84.9832721!16s%2Fg%2F11nxfyhv89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3409,7 +3437,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medwell+Dental+Care/@24.7958241,84.9832721,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b8ae3dfae15:0x286bbe06b1e47a57!8m2!3d24.7958241!4d84.9832721!16s%2Fg%2F11nxfyhv89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mittal-dental-clinic-gaya",
@@ -3459,7 +3488,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mittal+Dental+Clinic/@24.8025763,85.0088823,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba2567420b1:0x84c8eababedff186!8m2!3d24.8025763!4d85.0088823!16s%2Fg%2F11vcbmg7nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mittal+Dental+Clinic/@24.8025763,85.0088823,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba2567420b1:0x84c8eababedff186!8m2!3d24.8025763!4d85.0088823!16s%2Fg%2F11vcbmg7nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3525,10 +3554,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mittal+Dental+Clinic/@24.8025763,85.0088823,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba2567420b1:0x84c8eababedff186!8m2!3d24.8025763!4d85.0088823!16s%2Fg%2F11vcbmg7nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajdev-hospital-rasalpur",
@@ -3577,7 +3607,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rajdev+Hospital/@24.8615655,85.0019656,17z/data=!3m1!4b1!4m6!3m5!1s0x39f2d5df49734d73:0x48af7c0c35bb830c!8m2!3d24.8615655!4d85.0019656!16s%2Fg%2F11qqqwlf7y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajdev+Hospital/@24.8615655,85.0019656,17z/data=!3m1!4b1!4m6!3m5!1s0x39f2d5df49734d73:0x48af7c0c35bb830c!8m2!3d24.8615655!4d85.0019656!16s%2Fg%2F11qqqwlf7y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3646,7 +3676,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajdev+Hospital/@24.8615655,85.0019656,17z/data=!3m1!4b1!4m6!3m5!1s0x39f2d5df49734d73:0x48af7c0c35bb830c!8m2!3d24.8615655!4d85.0019656!16s%2Fg%2F11qqqwlf7y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saaol-heart-center-gaya-gaya",
@@ -3696,7 +3727,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SAAOL+Heart+Center+Gaya/@24.7878972,84.9837398,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b952b2b7cfd:0x8ff7a9534b276b01!8m2!3d24.7878972!4d84.9837398!16s%2Fg%2F11v_3rrvdz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAAOL+Heart+Center+Gaya/@24.7878972,84.9837398,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b952b2b7cfd:0x8ff7a9534b276b01!8m2!3d24.7878972!4d84.9837398!16s%2Fg%2F11v_3rrvdz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3762,10 +3793,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAAOL+Heart+Center+Gaya/@24.7878972,84.9837398,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b952b2b7cfd:0x8ff7a9534b276b01!8m2!3d24.7878972!4d84.9837398!16s%2Fg%2F11v_3rrvdz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sadbhawana-hospital-and-physiotherapy-center-gaya",
@@ -3814,7 +3846,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SADBHAWANA+HOSPITAL+%26+PHYSIOTHERAPY+CENTER/@24.7684762,84.958124,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bc621fd9963:0x3cf192fc25a0e873!8m2!3d24.7684762!4d84.958124!16s%2Fg%2F11wj6yd99c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SADBHAWANA+HOSPITAL+%26+PHYSIOTHERAPY+CENTER/@24.7684762,84.958124,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bc621fd9963:0x3cf192fc25a0e873!8m2!3d24.7684762!4d84.958124!16s%2Fg%2F11wj6yd99c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3880,10 +3912,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SADBHAWANA+HOSPITAL+%26+PHYSIOTHERAPY+CENTER/@24.7684762,84.958124,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32bc621fd9963:0x3cf192fc25a0e873!8m2!3d24.7684762!4d84.958124!16s%2Fg%2F11wj6yd99c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shubhkamna-heart-hospital-and-maternity-centre-gaya",
@@ -3933,7 +3966,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shubhkamna+heart+hospital+%26+maternity+centre/@24.7872891,84.9841028,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba3350a8b95:0x5826eee0baf0e2ab!8m2!3d24.7872891!4d84.9841028!16s%2Fg%2F11n0zvy8q7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubhkamna+heart+hospital+%26+maternity+centre/@24.7872891,84.9841028,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba3350a8b95:0x5826eee0baf0e2ab!8m2!3d24.7872891!4d84.9841028!16s%2Fg%2F11n0zvy8q7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4002,7 +4035,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shubhkamna+heart+hospital+%26+maternity+centre/@24.7872891,84.9841028,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32ba3350a8b95:0x5826eee0baf0e2ab!8m2!3d24.7872891!4d84.9841028!16s%2Fg%2F11n0zvy8q7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sita-ram-dental-clinic-gaya",
@@ -4052,7 +4086,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SITA+RAM+DENTAL+CLINIC/@24.765904,85.0048891,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b346a834979:0x34ccc39a43571a0f!8m2!3d24.765904!4d85.0048891!16s%2Fg%2F11y6pwchv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SITA+RAM+DENTAL+CLINIC/@24.765904,85.0048891,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b346a834979:0x34ccc39a43571a0f!8m2!3d24.765904!4d85.0048891!16s%2Fg%2F11y6pwchv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4121,7 +4155,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SITA+RAM+DENTAL+CLINIC/@24.765904,85.0048891,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b346a834979:0x34ccc39a43571a0f!8m2!3d24.765904!4d85.0048891!16s%2Fg%2F11y6pwchv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-care-dental-clinic-dental-clinic-in-gaya-beside-red-cross",
@@ -4169,7 +4204,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Care+Dental+Clinic+-+Dental+Clinic+in+Gaya/@24.7865256,84.9939534,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a456da994e7:0xcb6dc134545ffa9b!8m2!3d24.7865256!4d84.9939534!16s%2Fg%2F11dyr9w08q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Care+Dental+Clinic+-+Dental+Clinic+in+Gaya/@24.7865256,84.9939534,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a456da994e7:0xcb6dc134545ffa9b!8m2!3d24.7865256!4d84.9939534!16s%2Fg%2F11dyr9w08q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4238,7 +4273,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Care+Dental+Clinic+-+Dental+Clinic+in+Gaya/@24.7865256,84.9939534,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a456da994e7:0xcb6dc134545ffa9b!8m2!3d24.7865256!4d84.9939534!16s%2Fg%2F11dyr9w08q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smilecure-dental-clinic-gaya",
@@ -4286,7 +4322,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Smilecure+dental+clinic/@24.787289,84.9841,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b2f2fc27a29:0x93db94226331eb5a!8m2!3d24.787289!4d84.9841!16s%2Fg%2F11fctfmc3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smilecure+dental+clinic/@24.787289,84.9841,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b2f2fc27a29:0x93db94226331eb5a!8m2!3d24.787289!4d84.9841!16s%2Fg%2F11fctfmc3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4355,7 +4391,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smilecure+dental+clinic/@24.787289,84.9841,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b2f2fc27a29:0x93db94226331eb5a!8m2!3d24.787289!4d84.9841!16s%2Fg%2F11fctfmc3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-krishna-dental-clinic-gaya",
@@ -4403,7 +4440,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SREE+KRISHNA+DENTAL+CLINIC/@24.8015191,85.0090637,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a16e512799b:0x8faa5bdd18f03d3c!8m2!3d24.8015191!4d85.0090637!16s%2Fg%2F11dxd0ypjk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SREE+KRISHNA+DENTAL+CLINIC/@24.8015191,85.0090637,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a16e512799b:0x8faa5bdd18f03d3c!8m2!3d24.8015191!4d85.0090637!16s%2Fg%2F11dxd0ypjk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4472,7 +4509,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SREE+KRISHNA+DENTAL+CLINIC/@24.8015191,85.0090637,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a16e512799b:0x8faa5bdd18f03d3c!8m2!3d24.8015191!4d85.0090637!16s%2Fg%2F11dxd0ypjk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-narayan-hospital-gaya",
@@ -4520,7 +4558,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Narayan+Hospital/@24.7830984,85.004689,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b867a60197d:0x2ce075c03c2e29f!8m2!3d24.7830984!4d85.004689!16s%2Fg%2F11j2ybj5_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Narayan+Hospital/@24.7830984,85.004689,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b867a60197d:0x2ce075c03c2e29f!8m2!3d24.7830984!4d85.004689!16s%2Fg%2F11j2ybj5_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4586,10 +4624,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Narayan+Hospital/@24.7830984,85.004689,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b867a60197d:0x2ce075c03c2e29f!8m2!3d24.7830984!4d85.004689!16s%2Fg%2F11j2ybj5_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sumitra-dental-clinic-gaya",
@@ -4638,7 +4677,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sumitra+dental+clinic/@24.7968431,85.0204054,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b0a0bd40e0d:0xacb4814557c31c50!8m2!3d24.7968431!4d85.0204054!16s%2Fg%2F11j5772h1c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sumitra+dental+clinic/@24.7968431,85.0204054,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b0a0bd40e0d:0xacb4814557c31c50!8m2!3d24.7968431!4d85.0204054!16s%2Fg%2F11j5772h1c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4707,7 +4746,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sumitra+dental+clinic/@24.7968431,85.0204054,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32b0a0bd40e0d:0xacb4814557c31c50!8m2!3d24.7968431!4d85.0204054!16s%2Fg%2F11j5772h1c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swastik-orthodontic-centre-and-dental-clinic-and-implant-centre-gaya",
@@ -4756,7 +4796,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Swastik+Orthodontic+Centre+%26+Dental+Clinic+%26+implant+centre/@24.7843786,84.9912163,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a5010e61cf9:0x690d6ab2c4b46dac!8m2!3d24.7843786!4d84.9912163!16s%2Fg%2F11g7z8znvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swastik+Orthodontic+Centre+%26+Dental+Clinic+%26+implant+centre/@24.7843786,84.9912163,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a5010e61cf9:0x690d6ab2c4b46dac!8m2!3d24.7843786!4d84.9912163!16s%2Fg%2F11g7z8znvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4825,7 +4865,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swastik+Orthodontic+Centre+%26+Dental+Clinic+%26+implant+centre/@24.7843786,84.9912163,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a5010e61cf9:0x690d6ab2c4b46dac!8m2!3d24.7843786!4d84.9912163!16s%2Fg%2F11g7z8znvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "universal-dental-advanced-dental-care-centre-gaya",
@@ -4874,7 +4915,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Universal+Dental+Advanced+Dental+Care+Centre/@24.788417,84.990332,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a5b1b786b2b:0x3a6d7836b3c2dbd4!8m2!3d24.788417!4d84.990332!16s%2Fg%2F11d_7ln3nq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Universal+Dental+Advanced+Dental+Care+Centre/@24.788417,84.990332,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a5b1b786b2b:0x3a6d7836b3c2dbd4!8m2!3d24.788417!4d84.990332!16s%2Fg%2F11d_7ln3nq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4943,7 +4984,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Universal+Dental+Advanced+Dental+Care+Centre/@24.788417,84.990332,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a5b1b786b2b:0x3a6d7836b3c2dbd4!8m2!3d24.788417!4d84.990332!16s%2Fg%2F11d_7ln3nq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "universal-dental-advanced-dental-care-centre-gaya",
@@ -4991,7 +5033,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Universal+Dental+Advanced+Dental+Care+Centre/@24.7885027,84.9904595,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a4026d09fcf:0xf053c18f21de6376!8m2!3d24.7885027!4d84.9904595!16s%2Fg%2F1tfw1fz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Universal+Dental+Advanced+Dental+Care+Centre/@24.7885027,84.9904595,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a4026d09fcf:0xf053c18f21de6376!8m2!3d24.7885027!4d84.9904595!16s%2Fg%2F1tfw1fz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5060,7 +5102,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Universal+Dental+Advanced+Dental+Care+Centre/@24.7885027,84.9904595,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32a4026d09fcf:0xf053c18f21de6376!8m2!3d24.7885027!4d84.9904595!16s%2Fg%2F1tfw1fz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "varma-nursing-home-aur-diagnostic-center-gaya",
@@ -5109,7 +5152,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Varma+Nursing+Home+Aur+Diagnostic+Center/@24.7795536,84.9801481,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32af8c8825f5b:0x679443afbf5e2f84!8m2!3d24.7795536!4d84.9801481!16s%2Fg%2F11dylyf459?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varma+Nursing+Home+Aur+Diagnostic+Center/@24.7795536,84.9801481,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32af8c8825f5b:0x679443afbf5e2f84!8m2!3d24.7795536!4d84.9801481!16s%2Fg%2F11dylyf459?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5178,6 +5221,7 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Varma+Nursing+Home+Aur+Diagnostic+Center/@24.7795536,84.9801481,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32af8c8825f5b:0x679443afbf5e2f84!8m2!3d24.7795536!4d84.9801481!16s%2Fg%2F11dylyf459?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

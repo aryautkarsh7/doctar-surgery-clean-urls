@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Abhilasha+Eye+Hospital-Best+Eye+Hospital-+Cataract+%7C+Retina+%7C+Lasik+%7C+Glaucoma/@29.9327793,78.1327309,17z/data=!3m1!4b1!4m6!3m5!1s0x3909470e2eec7355:0xcde49d36be4909a6!8m2!3d29.9327793!4d78.1327309!16s%2Fg%2F11jdnlmbf9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Abhilasha+Eye+Hospital-Best+Eye+Hospital-+Cataract+%7C+Retina+%7C+Lasik+%7C+Glaucoma/@29.9327793,78.1327309,17z/data=!3m1!4b1!4m6!3m5!1s0x3909470e2eec7355:0xcde49d36be4909a6!8m2!3d29.9327793!4d78.1327309!16s%2Fg%2F11jdnlmbf9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Abhilasha+Eye+Hospital-Best+Eye+Hospital-+Cataract+%7C+Retina+%7C+Lasik+%7C+Glaucoma/@29.9327793,78.1327309,17z/data=!3m1!4b1!4m6!3m5!1s0x3909470e2eec7355:0xcde49d36be4909a6!8m2!3d29.9327793!4d78.1327309!16s%2Fg%2F11jdnlmbf9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "adarsh-ayurvedic-pharmacy-haridwar",
@@ -164,7 +165,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Adarsh+Ayurvedic+Pharmacy/@29.9251479,78.1472095,17z/data=!3m1!4b1!4m6!3m5!1s0x390947a7000377e5:0x8d72735ced9b3ad3!8m2!3d29.9251479!4d78.1472095!16s%2Fg%2F11b5phwm9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adarsh+Ayurvedic+Pharmacy/@29.9251479,78.1472095,17z/data=!3m1!4b1!4m6!3m5!1s0x390947a7000377e5:0x8d72735ced9b3ad3!8m2!3d29.9251479!4d78.1472095!16s%2Fg%2F11b5phwm9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -233,7 +234,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Adarsh+Ayurvedic+Pharmacy/@29.9251479,78.1472095,17z/data=!3m1!4b1!4m6!3m5!1s0x390947a7000377e5:0x8d72735ced9b3ad3!8m2!3d29.9251479!4d78.1472095!16s%2Fg%2F11b5phwm9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advance-care-hair-transplant-clinic-haridwar-haridwar",
@@ -282,7 +284,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Advance+Care+Hair+Transplant+Clinic+-+Haridwar/@29.9295082,78.1447455,17z/data=!3m1!4b1!4m6!3m5!1s0x390947b8693c200d:0xc51dbc02812779ab!8m2!3d29.9295082!4d78.1447455!16s%2Fg%2F11nf_2kfdq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Care+Hair+Transplant+Clinic+-+Haridwar/@29.9295082,78.1447455,17z/data=!3m1!4b1!4m6!3m5!1s0x390947b8693c200d:0xc51dbc02812779ab!8m2!3d29.9295082!4d78.1447455!16s%2Fg%2F11nf_2kfdq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -348,10 +350,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+Care+Hair+Transplant+Clinic+-+Haridwar/@29.9295082,78.1447455,17z/data=!3m1!4b1!4m6!3m5!1s0x390947b8693c200d:0xc51dbc02812779ab!8m2!3d29.9295082!4d78.1447455!16s%2Fg%2F11nf_2kfdq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advanced-hair-grow-ahg-haridwar",
@@ -400,7 +403,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Advanced+Hair+Grow+-+AHG/@29.9339673,78.1328123,17z/data=!3m1!4b1!4m6!3m5!1s0x16df49030bf88b9:0x23674fd07bf3ad2e!8m2!3d29.9339673!4d78.1328123!16s%2Fg%2F11txdjrhz5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Hair+Grow+-+AHG/@29.9339673,78.1328123,17z/data=!3m1!4b1!4m6!3m5!1s0x16df49030bf88b9:0x23674fd07bf3ad2e!8m2!3d29.9339673!4d78.1328123!16s%2Fg%2F11txdjrhz5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -469,7 +472,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advanced+Hair+Grow+-+AHG/@29.9339673,78.1328123,17z/data=!3m1!4b1!4m6!3m5!1s0x16df49030bf88b9:0x23674fd07bf3ad2e!8m2!3d29.9339673!4d78.1328123!16s%2Fg%2F11txdjrhz5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advanced-medical-care-centre-ranipur-more",
@@ -518,7 +522,7 @@
     "metrics": [
       "Google rating 2.6"
     ],
-    "image": "https://www.google.com/maps/place/Advanced+Medical+Care+Centre/@29.925531,78.0908206,17z/data=!3m1!4b1!4m6!3m5!1s0x3909497a70e4a907:0x2b18049fccba2a80!8m2!3d29.925531!4d78.0908206!16s%2Fg%2F11h3l3cqnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Medical+Care+Centre/@29.925531,78.0908206,17z/data=!3m1!4b1!4m6!3m5!1s0x3909497a70e4a907:0x2b18049fccba2a80!8m2!3d29.925531!4d78.0908206!16s%2Fg%2F11h3l3cqnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -587,7 +591,8 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advanced+Medical+Care+Centre/@29.925531,78.0908206,17z/data=!3m1!4b1!4m6!3m5!1s0x3909497a70e4a907:0x2b18049fccba2a80!8m2!3d29.925531!4d78.0908206!16s%2Fg%2F11h3l3cqnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "agarwal-dental-clinic-and-orthodontic-centre-best-braces-root-canal-treatment-implant-and-orthodontic-center-in-haridwar-haridwar",
@@ -637,7 +642,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Agarwal+Dental+Clinic+%26+Orthodontic+Centre+-+Best+Braces+%7C+Root+Canal+Treatment+%7C+Implant+%26+Orthodontic+Center+in+Haridwar/@29.9418637,78.1454721,17z/data=!3m1!4b1!4m6!3m5!1s0x3909477d89bc0ea7:0x3fd94169820616e5!8m2!3d29.9418637!4d78.1454721!16s%2Fg%2F11gh25p7fc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agarwal+Dental+Clinic+%26+Orthodontic+Centre+-+Best+Braces+%7C+Root+Canal+Treatment+%7C+Implant+%26+Orthodontic+Center+in+Haridwar/@29.9418637,78.1454721,17z/data=!3m1!4b1!4m6!3m5!1s0x3909477d89bc0ea7:0x3fd94169820616e5!8m2!3d29.9418637!4d78.1454721!16s%2Fg%2F11gh25p7fc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -706,7 +711,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Agarwal+Dental+Clinic+%26+Orthodontic+Centre+-+Best+Braces+%7C+Root+Canal+Treatment+%7C+Implant+%26+Orthodontic+Center+in+Haridwar/@29.9418637,78.1454721,17z/data=!3m1!4b1!4m6!3m5!1s0x3909477d89bc0ea7:0x3fd94169820616e5!8m2!3d29.9418637!4d78.1454721!16s%2Fg%2F11gh25p7fc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ananya-maternity-home-and-medical-center-jwalapur",
@@ -754,7 +760,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Ananya+Maternity+Home+%26+Medical+Center/@29.9234971,78.1177478,17z/data=!3m1!4b1!4m6!3m5!1s0x39094623c103960b:0x2dafd95495494d3!8m2!3d29.9234971!4d78.1177478!16s%2Fg%2F11gdgh7hm6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ananya+Maternity+Home+%26+Medical+Center/@29.9234971,78.1177478,17z/data=!3m1!4b1!4m6!3m5!1s0x39094623c103960b:0x2dafd95495494d3!8m2!3d29.9234971!4d78.1177478!16s%2Fg%2F11gdgh7hm6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -823,7 +829,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ananya+Maternity+Home+%26+Medical+Center/@29.9234971,78.1177478,17z/data=!3m1!4b1!4m6!3m5!1s0x39094623c103960b:0x2dafd95495494d3!8m2!3d29.9234971!4d78.1177478!16s%2Fg%2F11gdgh7hm6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arihant-hospital-dehradun",
@@ -872,7 +879,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Arihant+Hospital/@30.2918152,78.0598542,17z/data=!3m1!4b1!4m6!3m5!1s0x39092910d4878efb:0x510f676c6b12d8ac!8m2!3d30.2918152!4d78.0598542!16s%2Fg%2F11kp7x3dc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arihant+Hospital/@30.2918152,78.0598542,17z/data=!3m1!4b1!4m6!3m5!1s0x39092910d4878efb:0x510f676c6b12d8ac!8m2!3d30.2918152!4d78.0598542!16s%2Fg%2F11kp7x3dc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -941,7 +948,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arihant+Hospital/@30.2918152,78.0598542,17z/data=!3m1!4b1!4m6!3m5!1s0x39092910d4878efb:0x510f676c6b12d8ac!8m2!3d30.2918152!4d78.0598542!16s%2Fg%2F11kp7x3dc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "artenova-dental-clinic-jwalapur",
@@ -991,7 +999,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Artenova+Dental+Clinic/@29.930304,78.1277793,17z/data=!3m1!4b1!4m6!3m5!1s0x390947dfc4a711d7:0x4d21a2418ff143b3!8m2!3d29.930304!4d78.1277793!16s%2Fg%2F11y51v2jqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Artenova+Dental+Clinic/@29.930304,78.1277793,17z/data=!3m1!4b1!4m6!3m5!1s0x390947dfc4a711d7:0x4d21a2418ff143b3!8m2!3d29.930304!4d78.1277793!16s%2Fg%2F11y51v2jqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1057,10 +1065,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Artenova+Dental+Clinic/@29.930304,78.1277793,17z/data=!3m1!4b1!4m6!3m5!1s0x390947dfc4a711d7:0x4d21a2418ff143b3!8m2!3d29.930304!4d78.1277793!16s%2Fg%2F11y51v2jqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashta-vaidyaratnam-vaidyasala-hospital-and-research-centre-safed-daag-phulwari-ayurvedic-cancer-treatment-centre-haridwar",
@@ -1110,7 +1119,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ashta+Vaidyaratnam+Vaidyasala+Hospital+And+Research+Centre+Safed+Daag+(Phulwari),+Ayurvedic+Cancer+Treatment+Centre/@29.8686249,78.1802058,17z/data=!3m1!4b1!4m6!3m5!1s0x3909456c410235ff:0x8f2ebbc28a389815!8m2!3d29.8686249!4d78.1802058!16s%2Fg%2F11gh7qgg82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashta+Vaidyaratnam+Vaidyasala+Hospital+And+Research+Centre+Safed+Daag+(Phulwari),+Ayurvedic+Cancer+Treatment+Centre/@29.8686249,78.1802058,17z/data=!3m1!4b1!4m6!3m5!1s0x3909456c410235ff:0x8f2ebbc28a389815!8m2!3d29.8686249!4d78.1802058!16s%2Fg%2F11gh7qgg82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1176,10 +1185,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashta+Vaidyaratnam+Vaidyasala+Hospital+And+Research+Centre+Safed+Daag+(Phulwari),+Ayurvedic+Cancer+Treatment+Centre/@29.8686249,78.1802058,17z/data=!3m1!4b1!4m6!3m5!1s0x3909456c410235ff:0x8f2ebbc28a389815!8m2!3d29.8686249!4d78.1802058!16s%2Fg%2F11gh7qgg82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "balaji-institute-and-cancer-research-center-ruhalki-kishanpur-urf-ikkad",
@@ -1228,7 +1238,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Balaji+institute+and+Cancer+research+center/@29.8980451,78.0510646,17z/data=!3m1!4b1!4m6!3m5!1s0x3909491c8a31431d:0x9dd290db775823d9!8m2!3d29.8980451!4d78.0510646!16s%2Fg%2F11kqgd8qx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Balaji+institute+and+Cancer+research+center/@29.8980451,78.0510646,17z/data=!3m1!4b1!4m6!3m5!1s0x3909491c8a31431d:0x9dd290db775823d9!8m2!3d29.8980451!4d78.0510646!16s%2Fg%2F11kqgd8qx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1294,10 +1304,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Balaji+institute+and+Cancer+research+center/@29.8980451,78.0510646,17z/data=!3m1!4b1!4m6!3m5!1s0x3909491c8a31431d:0x9dd290db775823d9!8m2!3d29.8980451!4d78.0510646!16s%2Fg%2F11kqgd8qx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bansal-dental-and-orthodontic-care-haridwar",
@@ -1346,7 +1357,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Bansal+Dental+And+Orthodontic+Care/@29.9347336,78.1353963,17z/data=!3m1!4b1!4m6!3m5!1s0x39094649a20a6273:0xe5c627c4adb6342a!8m2!3d29.9347336!4d78.1353963!16s%2Fg%2F1hhw48jdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal+Dental+And+Orthodontic+Care/@29.9347336,78.1353963,17z/data=!3m1!4b1!4m6!3m5!1s0x39094649a20a6273:0xe5c627c4adb6342a!8m2!3d29.9347336!4d78.1353963!16s%2Fg%2F1hhw48jdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1415,7 +1426,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bansal+Dental+And+Orthodontic+Care/@29.9347336,78.1353963,17z/data=!3m1!4b1!4m6!3m5!1s0x39094649a20a6273:0xe5c627c4adb6342a!8m2!3d29.9347336!4d78.1353963!16s%2Fg%2F1hhw48jdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bengali-hospital-haridwar",
@@ -1464,7 +1476,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bengali+hospital/data=!4m7!3m6!1s0x390947dd16f74577:0xafa7d8a46fc1ec62!8m2!3d29.9327552!4d78.1474092!16s%2Fg%2F11j27l1ynd!19sChIJd0X3Ft1HCTkRYuzBb6TYp68?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bengali+hospital/data=!4m7!3m6!1s0x390947dd16f74577:0xafa7d8a46fc1ec62!8m2!3d29.9327552!4d78.1474092!16s%2Fg%2F11j27l1ynd!19sChIJd0X3Ft1HCTkRYuzBb6TYp68?authuser=0&hl=en&rclk=1"
@@ -1533,7 +1545,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bengali+hospital/data=!4m7!3m6!1s0x390947dd16f74577:0xafa7d8a46fc1ec62!8m2!3d29.9327552!4d78.1474092!16s%2Fg%2F11j27l1ynd!19sChIJd0X3Ft1HCTkRYuzBb6TYp68?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bhagwati-dental-clinic-best-dental-clinic-in-haridwar-best-dentist-in-haridwar-haridwar",
@@ -1581,7 +1594,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Bhagwati+dental+clinic+-+Best+Dental+Clinic+in+Haridwar+%7C+Best+Dentist+in+Haridwar/@29.9336813,78.1340759,17z/data=!3m1!4b1!4m6!3m5!1s0x390946fde534a3d1:0xe40599b0adf1096f!8m2!3d29.9336813!4d78.1340759!16s%2Fg%2F1q6jhk46k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagwati+dental+clinic+-+Best+Dental+Clinic+in+Haridwar+%7C+Best+Dentist+in+Haridwar/@29.9336813,78.1340759,17z/data=!3m1!4b1!4m6!3m5!1s0x390946fde534a3d1:0xe40599b0adf1096f!8m2!3d29.9336813!4d78.1340759!16s%2Fg%2F1q6jhk46k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1650,7 +1663,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhagwati+dental+clinic+-+Best+Dental+Clinic+in+Haridwar+%7C+Best+Dentist+in+Haridwar/@29.9336813,78.1340759,17z/data=!3m1!4b1!4m6!3m5!1s0x390946fde534a3d1:0xe40599b0adf1096f!8m2!3d29.9336813!4d78.1340759!16s%2Fg%2F1q6jhk46k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "care-clinic-haridwar",
@@ -1698,7 +1712,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Care+clinic/@29.9736106,78.1775995,17z/data=!3m1!4b1!4m6!3m5!1s0x390947b08c7eedd9:0x792a5a743fa8ef3c!8m2!3d29.9736106!4d78.1775995!16s%2Fg%2F11kjlxmjzt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+clinic/@29.9736106,78.1775995,17z/data=!3m1!4b1!4m6!3m5!1s0x390947b08c7eedd9:0x792a5a743fa8ef3c!8m2!3d29.9736106!4d78.1775995!16s%2Fg%2F11kjlxmjzt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1764,10 +1778,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Care+clinic/@29.9736106,78.1775995,17z/data=!3m1!4b1!4m6!3m5!1s0x390947b08c7eedd9:0x792a5a743fa8ef3c!8m2!3d29.9736106!4d78.1775995!16s%2Fg%2F11kjlxmjzt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-crown-dental-clinic-and-implant-center-haridwar",
@@ -1815,7 +1830,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/City+crown+dental+clinic+and+implant+center/@29.9302642,78.1286618,17z/data=!3m1!4b1!4m6!3m5!1s0x390947053574b8dd:0xddcfa2c80379e003!8m2!3d29.9302642!4d78.1286618!16s%2Fg%2F11t1f9c10q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+crown+dental+clinic+and+implant+center/@29.9302642,78.1286618,17z/data=!3m1!4b1!4m6!3m5!1s0x390947053574b8dd:0xddcfa2c80379e003!8m2!3d29.9302642!4d78.1286618!16s%2Fg%2F11t1f9c10q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1884,7 +1899,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+crown+dental+clinic+and+implant+center/@29.9302642,78.1286618,17z/data=!3m1!4b1!4m6!3m5!1s0x390947053574b8dd:0xddcfa2c80379e003!8m2!3d29.9302642!4d78.1286618!16s%2Fg%2F11t1f9c10q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-hospital-haridwar",
@@ -1933,7 +1949,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/City+Hospital/@29.933396,78.1337657,17z/data=!3m1!4b1!4m6!3m5!1s0x39094637e0874f19:0x65211d685c97757b!8m2!3d29.933396!4d78.1337657!16s%2Fg%2F1tpf5j3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Hospital/@29.933396,78.1337657,17z/data=!3m1!4b1!4m6!3m5!1s0x39094637e0874f19:0x65211d685c97757b!8m2!3d29.933396!4d78.1337657!16s%2Fg%2F1tpf5j3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2002,7 +2018,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Hospital/@29.933396,78.1337657,17z/data=!3m1!4b1!4m6!3m5!1s0x39094637e0874f19:0x65211d685c97757b!8m2!3d29.933396!4d78.1337657!16s%2Fg%2F1tpf5j3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "comfort-dental-clinic-and-orthodontic-center-haridwar",
@@ -2052,7 +2069,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Comfort+Dental+Clinic+%26+Orthodontic+Center/@29.931912,78.1363284,17z/data=!3m1!4b1!4m6!3m5!1s0x390947e555555505:0xb261645667d6c67!8m2!3d29.931912!4d78.1363284!16s%2Fg%2F11bbrkphbx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Comfort+Dental+Clinic+%26+Orthodontic+Center/@29.931912,78.1363284,17z/data=!3m1!4b1!4m6!3m5!1s0x390947e555555505:0xb261645667d6c67!8m2!3d29.931912!4d78.1363284!16s%2Fg%2F11bbrkphbx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2121,7 +2138,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Comfort+Dental+Clinic+%26+Orthodontic+Center/@29.931912,78.1363284,17z/data=!3m1!4b1!4m6!3m5!1s0x390947e555555505:0xb261645667d6c67!8m2!3d29.931912!4d78.1363284!16s%2Fg%2F11bbrkphbx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "concept-dental-care-centre-in-haridwar-jwalapur",
@@ -2170,7 +2188,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Concept+Dental+Care+Centre+in+Haridwar/@29.9252784,78.1120735,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489c33dc1cfb:0xe0e3bb802f5a22c7!8m2!3d29.9252784!4d78.1120735!16s%2Fg%2F1tdqrxlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Concept+Dental+Care+Centre+in+Haridwar/@29.9252784,78.1120735,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489c33dc1cfb:0xe0e3bb802f5a22c7!8m2!3d29.9252784!4d78.1120735!16s%2Fg%2F1tdqrxlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2239,7 +2257,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Concept+Dental+Care+Centre+in+Haridwar/@29.9252784,78.1120735,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489c33dc1cfb:0xe0e3bb802f5a22c7!8m2!3d29.9252784!4d78.1120735!16s%2Fg%2F1tdqrxlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cosmo-dental-clinic-haridwar",
@@ -2287,7 +2306,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Cosmo+Dental+Clinic/@29.9357803,78.142351,17z/data=!3m1!4b1!4m6!3m5!1s0x3909479705e6c907:0x9dc99f00dda3477b!8m2!3d29.9357803!4d78.142351!16s%2Fg%2F11sjp811xd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmo+Dental+Clinic/@29.9357803,78.142351,17z/data=!3m1!4b1!4m6!3m5!1s0x3909479705e6c907:0x9dc99f00dda3477b!8m2!3d29.9357803!4d78.142351!16s%2Fg%2F11sjp811xd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2353,10 +2372,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmo+Dental+Clinic/@29.9357803,78.142351,17z/data=!3m1!4b1!4m6!3m5!1s0x3909479705e6c907:0x9dc99f00dda3477b!8m2!3d29.9357803!4d78.142351!16s%2Fg%2F11sjp811xd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dimri-s-dental-clinic-haridwar",
@@ -2402,7 +2422,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Dimri's+dental+clinic/@29.9260712,78.1401361,17z/data=!3m1!4b1!4m6!3m5!1s0x39094704ec9aec2f:0xc46bee0fd6dec8ef!8m2!3d29.9260712!4d78.1401361!16s%2Fg%2F11jskklmdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dimri's+dental+clinic/@29.9260712,78.1401361,17z/data=!3m1!4b1!4m6!3m5!1s0x39094704ec9aec2f:0xc46bee0fd6dec8ef!8m2!3d29.9260712!4d78.1401361!16s%2Fg%2F11jskklmdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2468,10 +2488,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dimri's+dental+clinic/@29.9260712,78.1401361,17z/data=!3m1!4b1!4m6!3m5!1s0x39094704ec9aec2f:0xc46bee0fd6dec8ef!8m2!3d29.9260712!4d78.1401361!16s%2Fg%2F11jskklmdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divine-ayurveda-and-panchkarma-clinic-haridwar",
@@ -2519,7 +2540,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Divine+Ayurveda+%26+Panchkarma+Clinic/@29.9320625,78.1345625,17z/data=!3m1!4b1!4m6!3m5!1s0x3909470078003337:0x4a4d251bbb1919bf!8m2!3d29.9320625!4d78.1345625!16s%2Fg%2F11wj9b91jf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divine+Ayurveda+%26+Panchkarma+Clinic/@29.9320625,78.1345625,17z/data=!3m1!4b1!4m6!3m5!1s0x3909470078003337:0x4a4d251bbb1919bf!8m2!3d29.9320625!4d78.1345625!16s%2Fg%2F11wj9b91jf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2585,10 +2606,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divine+Ayurveda+%26+Panchkarma+Clinic/@29.9320625,78.1345625,17z/data=!3m1!4b1!4m6!3m5!1s0x3909470078003337:0x4a4d251bbb1919bf!8m2!3d29.9320625!4d78.1345625!16s%2Fg%2F11wj9b91jf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divya-dental-clinic-haridwar",
@@ -2636,7 +2658,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Divya+Dental+Clinic/@29.9261679,78.1254446,17z/data=!3m1!4b1!4m6!3m5!1s0x3909462545e60f9f:0xe456a757745c2fc2!8m2!3d29.9261679!4d78.1254446!16s%2Fg%2F11c59myhr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divya+Dental+Clinic/@29.9261679,78.1254446,17z/data=!3m1!4b1!4m6!3m5!1s0x3909462545e60f9f:0xe456a757745c2fc2!8m2!3d29.9261679!4d78.1254446!16s%2Fg%2F11c59myhr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2702,10 +2724,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divya+Dental+Clinic/@29.9261679,78.1254446,17z/data=!3m1!4b1!4m6!3m5!1s0x3909462545e60f9f:0xe456a757745c2fc2!8m2!3d29.9261679!4d78.1254446!16s%2Fg%2F11c59myhr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "evolve-esthetique-clinics-arya-nagar-road",
@@ -2753,7 +2776,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/evolve+esthetique+clinics/@29.9268281,78.1293607,17z/data=!3m1!4b1!4m6!3m5!1s0x3909474d6f62461b:0x8da69043f30de9c5!8m2!3d29.9268281!4d78.1293607!16s%2Fg%2F11ry26vxn8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/evolve+esthetique+clinics/@29.9268281,78.1293607,17z/data=!3m1!4b1!4m6!3m5!1s0x3909474d6f62461b:0x8da69043f30de9c5!8m2!3d29.9268281!4d78.1293607!16s%2Fg%2F11ry26vxn8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2822,7 +2845,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/evolve+esthetique+clinics/@29.9268281,78.1293607,17z/data=!3m1!4b1!4m6!3m5!1s0x3909474d6f62461b:0x8da69043f30de9c5!8m2!3d29.9268281!4d78.1293607!16s%2Fg%2F11ry26vxn8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ganga-valley-hospital-haridwar-haridwar",
@@ -2870,7 +2894,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Ganga+Valley+Hospital,+Haridwar/data=!4m7!3m6!1s0x39094640deab88bd:0xb02ded12fd908e08!8m2!3d29.9246635!4d78.1370301!16s%2Fg%2F11b6ggrxcf!19sChIJvYir3kBGCTkRCI6Q_RLtLbA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganga+Valley+Hospital,+Haridwar/data=!4m7!3m6!1s0x39094640deab88bd:0xb02ded12fd908e08!8m2!3d29.9246635!4d78.1370301!16s%2Fg%2F11b6ggrxcf!19sChIJvYir3kBGCTkRCI6Q_RLtLbA?authuser=0&hl=en&rclk=1"
@@ -2939,7 +2963,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ganga+Valley+Hospital,+Haridwar/data=!4m7!3m6!1s0x39094640deab88bd:0xb02ded12fd908e08!8m2!3d29.9246635!4d78.1370301!16s%2Fg%2F11b6ggrxcf!19sChIJvYir3kBGCTkRCI6Q_RLtLbA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "global-surgicals-and-medicals-haridwar",
@@ -2989,7 +3014,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Global+Surgicals+and+Medicals/@29.9319177,78.1316649,17z/data=!3m1!4b1!4m6!3m5!1s0x390947a3b5bd37d3:0x156abc17978c9b4e!8m2!3d29.9319177!4d78.1316649!16s%2Fg%2F11t069df2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Surgicals+and+Medicals/@29.9319177,78.1316649,17z/data=!3m1!4b1!4m6!3m5!1s0x390947a3b5bd37d3:0x156abc17978c9b4e!8m2!3d29.9319177!4d78.1316649!16s%2Fg%2F11t069df2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3058,7 +3083,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Global+Surgicals+and+Medicals/@29.9319177,78.1316649,17z/data=!3m1!4b1!4m6!3m5!1s0x390947a3b5bd37d3:0x156abc17978c9b4e!8m2!3d29.9319177!4d78.1316649!16s%2Fg%2F11t069df2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gmc-hospital-and-surgical-center-haridwar",
@@ -3106,7 +3132,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/GMC+HOSPITAL+%26+SURGICAL+CENTER/@29.9724539,78.046958,17z/data=!3m1!4b1!4m6!3m5!1s0x3909490f213d6a49:0x7ae4185be4d63a93!8m2!3d29.9724539!4d78.046958!16s%2Fg%2F11sm_9rxrw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GMC+HOSPITAL+%26+SURGICAL+CENTER/@29.9724539,78.046958,17z/data=!3m1!4b1!4m6!3m5!1s0x3909490f213d6a49:0x7ae4185be4d63a93!8m2!3d29.9724539!4d78.046958!16s%2Fg%2F11sm_9rxrw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3172,10 +3198,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GMC+HOSPITAL+%26+SURGICAL+CENTER/@29.9724539,78.046958,17z/data=!3m1!4b1!4m6!3m5!1s0x3909490f213d6a49:0x7ae4185be4d63a93!8m2!3d29.9724539!4d78.046958!16s%2Fg%2F11sm_9rxrw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hanshit-hospital-bahadrabad-haridwar-manoharpur",
@@ -3224,7 +3251,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HANSHIT+HOSPITAL+%7C+BAHADRABAD+HARIDWAR/@29.9188492,78.0358734,17z/data=!3m1!4b1!4m6!3m5!1s0x390949906a2757bb:0x4a247e48ce897bd6!8m2!3d29.9188492!4d78.0358734!16s%2Fg%2F11mclwyrfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HANSHIT+HOSPITAL+%7C+BAHADRABAD+HARIDWAR/@29.9188492,78.0358734,17z/data=!3m1!4b1!4m6!3m5!1s0x390949906a2757bb:0x4a247e48ce897bd6!8m2!3d29.9188492!4d78.0358734!16s%2Fg%2F11mclwyrfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3290,10 +3317,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HANSHIT+HOSPITAL+%7C+BAHADRABAD+HARIDWAR/@29.9188492,78.0358734,17z/data=!3m1!4b1!4m6!3m5!1s0x390949906a2757bb:0x4a247e48ce897bd6!8m2!3d29.9188492!4d78.0358734!16s%2Fg%2F11mclwyrfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "haridwar-city-hospital-haridwar",
@@ -3341,7 +3369,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Haridwar+City+Hospital/@29.9759315,78.1778791,17z/data=!3m1!4b1!4m6!3m5!1s0x390947a39e93bcf5:0xafae47ae2cf35cc2!8m2!3d29.9759315!4d78.1778791!16s%2Fg%2F11g0gngp7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Haridwar+City+Hospital/@29.9759315,78.1778791,17z/data=!3m1!4b1!4m6!3m5!1s0x390947a39e93bcf5:0xafae47ae2cf35cc2!8m2!3d29.9759315!4d78.1778791!16s%2Fg%2F11g0gngp7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3410,7 +3438,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Haridwar+City+Hospital/@29.9759315,78.1778791,17z/data=!3m1!4b1!4m6!3m5!1s0x390947a39e93bcf5:0xafae47ae2cf35cc2!8m2!3d29.9759315!4d78.1778791!16s%2Fg%2F11g0gngp7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "haridwar-dental-care-haridwar",
@@ -3458,7 +3487,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Haridwar+Dental+Care/@29.940647,78.1452527,17z/data=!3m1!4b1!4m6!3m5!1s0x390947b48fe47cdd:0x8de1c522d8c8bfda!8m2!3d29.940647!4d78.1452527!16s%2Fg%2F11kc0cxqkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Haridwar+Dental+Care/@29.940647,78.1452527,17z/data=!3m1!4b1!4m6!3m5!1s0x390947b48fe47cdd:0x8de1c522d8c8bfda!8m2!3d29.940647!4d78.1452527!16s%2Fg%2F11kc0cxqkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3524,10 +3553,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Haridwar+Dental+Care/@29.940647,78.1452527,17z/data=!3m1!4b1!4m6!3m5!1s0x390947b48fe47cdd:0x8de1c522d8c8bfda!8m2!3d29.940647!4d78.1452527!16s%2Fg%2F11kc0cxqkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "haridwar-heart-center-haridwar",
@@ -3576,7 +3606,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Haridwar+Heart+Center/@29.9172823,78.1075062,17z/data=!3m1!4b1!4m6!3m5!1s0x390948a1c29aa701:0x58c4754f9564050d!8m2!3d29.9172823!4d78.1075062!16s%2Fg%2F11c2l8_4bh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Haridwar+Heart+Center/@29.9172823,78.1075062,17z/data=!3m1!4b1!4m6!3m5!1s0x390948a1c29aa701:0x58c4754f9564050d!8m2!3d29.9172823!4d78.1075062!16s%2Fg%2F11c2l8_4bh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3642,10 +3672,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Haridwar+Heart+Center/@29.9172823,78.1075062,17z/data=!3m1!4b1!4m6!3m5!1s0x390948a1c29aa701:0x58c4754f9564050d!8m2!3d29.9172823!4d78.1075062!16s%2Fg%2F11c2l8_4bh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "haridwar-medicare-hospital-hmc-haridwar",
@@ -3693,7 +3724,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/HARIDWAR+MEDICARE+HOSPITAL(HMC)/@29.9073038,78.1352611,17z/data=!3m1!4b1!4m6!3m5!1s0x390947c1327551a7:0x4cd7f0fd292899f6!8m2!3d29.9073038!4d78.1352611!16s%2Fg%2F11h4w7ch6j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HARIDWAR+MEDICARE+HOSPITAL(HMC)/@29.9073038,78.1352611,17z/data=!3m1!4b1!4m6!3m5!1s0x390947c1327551a7:0x4cd7f0fd292899f6!8m2!3d29.9073038!4d78.1352611!16s%2Fg%2F11h4w7ch6j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3762,7 +3793,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HARIDWAR+MEDICARE+HOSPITAL(HMC)/@29.9073038,78.1352611,17z/data=!3m1!4b1!4m6!3m5!1s0x390947c1327551a7:0x4cd7f0fd292899f6!8m2!3d29.9073038!4d78.1352611!16s%2Fg%2F11h4w7ch6j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healic-cosmetic-gynae-hymenoplasty-labiaplasty-and-vaginal-rejuvenation-hospital-haridwar-haridwar",
@@ -3810,7 +3842,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healic+-+Cosmetic+Gynae,+Hymenoplasty,+Labiaplasty+%26+Vaginal+Rejuvenation+Hospital,+Haridwar/@29.9365238,78.1392985,17z/data=!3m1!4b1!4m6!3m5!1s0x390947325f5663c9:0x2dbf3863777f48f1!8m2!3d29.9365238!4d78.1392985!16s%2Fg%2F11njl8m4mp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healic+-+Cosmetic+Gynae,+Hymenoplasty,+Labiaplasty+%26+Vaginal+Rejuvenation+Hospital,+Haridwar/@29.9365238,78.1392985,17z/data=!3m1!4b1!4m6!3m5!1s0x390947325f5663c9:0x2dbf3863777f48f1!8m2!3d29.9365238!4d78.1392985!16s%2Fg%2F11njl8m4mp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3876,10 +3908,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healic+-+Cosmetic+Gynae,+Hymenoplasty,+Labiaplasty+%26+Vaginal+Rejuvenation+Hospital,+Haridwar/@29.9365238,78.1392985,17z/data=!3m1!4b1!4m6!3m5!1s0x390947325f5663c9:0x2dbf3863777f48f1!8m2!3d29.9365238!4d78.1392985!16s%2Fg%2F11njl8m4mp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healic-gynecomastia-surgery-and-male-chest-reduction-hospital-haridwar-haridwar",
@@ -3927,7 +3960,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healic+-+Gynecomastia+Surgery+%26+Male+Chest+Reduction+Hospital,+Haridwar/@29.9365241,78.1392988,17z/data=!3m1!4b1!4m6!3m5!1s0x390947c111d2beeb:0x3a8e876457da58d3!8m2!3d29.9365241!4d78.1392988!16s%2Fg%2F11njmktx4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healic+-+Gynecomastia+Surgery+%26+Male+Chest+Reduction+Hospital,+Haridwar/@29.9365241,78.1392988,17z/data=!3m1!4b1!4m6!3m5!1s0x390947c111d2beeb:0x3a8e876457da58d3!8m2!3d29.9365241!4d78.1392988!16s%2Fg%2F11njmktx4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3993,10 +4026,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healic+-+Gynecomastia+Surgery+%26+Male+Chest+Reduction+Hospital,+Haridwar/@29.9365241,78.1392988,17z/data=!3m1!4b1!4m6!3m5!1s0x390947c111d2beeb:0x3a8e876457da58d3!8m2!3d29.9365241!4d78.1392988!16s%2Fg%2F11njmktx4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healic-ultrasound-echo-x-ray-pathlab-and-diagnostic-center-haridwar-haridwar",
@@ -4046,7 +4080,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healic+Ultrasound,+ECHO,+X+Ray,+Pathlab+%26+Diagnostic+Center+-+Haridwar/data=!4m7!3m6!1s0x390947e1f0dbbf11:0xfed9dfbd300a4146!8m2!3d29.9365272!4d78.1393645!16s%2Fg%2F11wr3lf879!19sChIJEb_b8OFHCTkRRkEKML3f2f4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healic+Ultrasound,+ECHO,+X+Ray,+Pathlab+%26+Diagnostic+Center+-+Haridwar/data=!4m7!3m6!1s0x390947e1f0dbbf11:0xfed9dfbd300a4146!8m2!3d29.9365272!4d78.1393645!16s%2Fg%2F11wr3lf879!19sChIJEb_b8OFHCTkRRkEKML3f2f4?authuser=0&hl=en&rclk=1"
@@ -4115,7 +4149,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healic+Ultrasound,+ECHO,+X+Ray,+Pathlab+%26+Diagnostic+Center+-+Haridwar/data=!4m7!3m6!1s0x390947e1f0dbbf11:0xfed9dfbd300a4146!8m2!3d29.9365272!4d78.1393645!16s%2Fg%2F11wr3lf879!19sChIJEb_b8OFHCTkRRkEKML3f2f4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "health-care-centre-haridwar",
@@ -4161,7 +4196,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Health+Care+Centre/@29.943135,78.0749634,17z/data=!3m1!4b1!4m6!3m5!1s0x3909495686c1819b:0x497cf71d4b34ace1!8m2!3d29.943135!4d78.0749634!16s%2Fg%2F11gxn54gl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Health+Care+Centre/@29.943135,78.0749634,17z/data=!3m1!4b1!4m6!3m5!1s0x3909495686c1819b:0x497cf71d4b34ace1!8m2!3d29.943135!4d78.0749634!16s%2Fg%2F11gxn54gl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4227,10 +4262,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Health+Care+Centre/@29.943135,78.0749634,17z/data=!3m1!4b1!4m6!3m5!1s0x3909495686c1819b:0x497cf71d4b34ace1!8m2!3d29.943135!4d78.0749634!16s%2Fg%2F11gxn54gl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "heart-imaging-center-haridwar",
@@ -4279,7 +4315,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Heart+Imaging+Center/@29.9316448,78.1365659,17z/data=!3m1!4b1!4m6!3m5!1s0x3909464874000001:0xe0e420e3ba6b9eb8!8m2!3d29.9316448!4d78.1365659!16s%2Fg%2F11p67x5frw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heart+Imaging+Center/@29.9316448,78.1365659,17z/data=!3m1!4b1!4m6!3m5!1s0x3909464874000001:0xe0e420e3ba6b9eb8!8m2!3d29.9316448!4d78.1365659!16s%2Fg%2F11p67x5frw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4345,10 +4381,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Heart+Imaging+Center/@29.9316448,78.1365659,17z/data=!3m1!4b1!4m6!3m5!1s0x3909464874000001:0xe0e420e3ba6b9eb8!8m2!3d29.9316448!4d78.1365659!16s%2Fg%2F11p67x5frw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "heart-institute-haridwar",
@@ -4395,7 +4432,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Heart+institute/@29.9456906,78.1642478,17z/data=!3m1!4b1!4m6!3m5!1s0x390947000678ffc3:0x71ea3abdf0dd652b!8m2!3d29.9456906!4d78.1642478!16s%2Fg%2F11xkspv8n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heart+institute/@29.9456906,78.1642478,17z/data=!3m1!4b1!4m6!3m5!1s0x390947000678ffc3:0x71ea3abdf0dd652b!8m2!3d29.9456906!4d78.1642478!16s%2Fg%2F11xkspv8n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4461,10 +4498,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Heart+institute/@29.9456906,78.1642478,17z/data=!3m1!4b1!4m6!3m5!1s0x390947000678ffc3:0x71ea3abdf0dd652b!8m2!3d29.9456906!4d78.1642478!16s%2Fg%2F11xkspv8n9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hope-cancer-hospital-haridwar-haridwar",
@@ -4511,7 +4549,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/HOPE+CANCER+HOSPITAL+HARIDWAR/@29.915426,78.137856,17z/data=!3m1!4b1!4m6!3m5!1s0x390947b4b3850a9d:0xa7593afa2be77ae7!8m2!3d29.915426!4d78.137856!16s%2Fg%2F11wvmwzj8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HOPE+CANCER+HOSPITAL+HARIDWAR/@29.915426,78.137856,17z/data=!3m1!4b1!4m6!3m5!1s0x390947b4b3850a9d:0xa7593afa2be77ae7!8m2!3d29.915426!4d78.137856!16s%2Fg%2F11wvmwzj8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4577,10 +4615,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HOPE+CANCER+HOSPITAL+HARIDWAR/@29.915426,78.137856,17z/data=!3m1!4b1!4m6!3m5!1s0x390947b4b3850a9d:0xa7593afa2be77ae7!8m2!3d29.915426!4d78.137856!16s%2Fg%2F11wvmwzj8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hotel-shaurya-by-sharma-online-solution-haridwar-haridwar",
@@ -4628,7 +4667,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Hotel+Shaurya+By+Sharma+Online+Solution+Haridwar/@29.9344163,78.133343,17z/data=!3m1!4b1!4m9!3m8!1s0x39094637d70895fb:0xa29940d2a5746393!5m2!4m1!1i2!8m2!3d29.9344163!4d78.133343!16s%2Fg%2F11c1xfzrmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hotel+Shaurya+By+Sharma+Online+Solution+Haridwar/@29.9344163,78.133343,17z/data=!3m1!4b1!4m9!3m8!1s0x39094637d70895fb:0xa29940d2a5746393!5m2!4m1!1i2!8m2!3d29.9344163!4d78.133343!16s%2Fg%2F11c1xfzrmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4697,7 +4736,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hotel+Shaurya+By+Sharma+Online+Solution+Haridwar/@29.9344163,78.133343,17z/data=!3m1!4b1!4m9!3m8!1s0x39094637d70895fb:0xa29940d2a5746393!5m2!4m1!1i2!8m2!3d29.9344163!4d78.133343!16s%2Fg%2F11c1xfzrmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "integrated-neuro-psychiatry-clinic-haridwar",
@@ -4746,7 +4786,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/INTEGRATED+NEURO+-PSYCHIATRY+CLINIC/@29.9360675,78.13345,17z/data=!3m1!4b1!4m6!3m5!1s0x390947003347f52f:0x20b1ff40edbe51ab!8m2!3d29.9360675!4d78.13345!16s%2Fg%2F11vrxbqswj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/INTEGRATED+NEURO+-PSYCHIATRY+CLINIC/@29.9360675,78.13345,17z/data=!3m1!4b1!4m6!3m5!1s0x390947003347f52f:0x20b1ff40edbe51ab!8m2!3d29.9360675!4d78.13345!16s%2Fg%2F11vrxbqswj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4812,10 +4852,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/INTEGRATED+NEURO+-PSYCHIATRY+CLINIC/@29.9360675,78.13345,17z/data=!3m1!4b1!4m6!3m5!1s0x390947003347f52f:0x20b1ff40edbe51ab!8m2!3d29.9360675!4d78.13345!16s%2Fg%2F11vrxbqswj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "j-n-dental-clinic-haridwar",
@@ -4863,7 +4904,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/J.N+Dental+clinic/@29.9253345,78.1384446,17z/data=!3m1!4b1!4m6!3m5!1s0x3909470024dbdad9:0xac1ec66285d72392!8m2!3d29.9253345!4d78.1384446!16s%2Fg%2F11x73vgls5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J.N+Dental+clinic/@29.9253345,78.1384446,17z/data=!3m1!4b1!4m6!3m5!1s0x3909470024dbdad9:0xac1ec66285d72392!8m2!3d29.9253345!4d78.1384446!16s%2Fg%2F11x73vgls5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4932,7 +4973,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/J.N+Dental+clinic/@29.9253345,78.1384446,17z/data=!3m1!4b1!4m6!3m5!1s0x3909470024dbdad9:0xac1ec66285d72392!8m2!3d29.9253345!4d78.1384446!16s%2Fg%2F11x73vgls5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "janki-piles-clinic-haridwar-haridwar",
@@ -4980,7 +5022,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Janki+Piles+Clinic+Haridwar/@29.9407152,78.1452259,17z/data=!3m1!4b1!4m6!3m5!1s0x3909470041b1f17d:0xb4e61f0c070e9f82!8m2!3d29.9407152!4d78.1452259!16s%2Fg%2F11z5fg319v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janki+Piles+Clinic+Haridwar/@29.9407152,78.1452259,17z/data=!3m1!4b1!4m6!3m5!1s0x3909470041b1f17d:0xb4e61f0c070e9f82!8m2!3d29.9407152!4d78.1452259!16s%2Fg%2F11z5fg319v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5046,10 +5088,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Janki+Piles+Clinic+Haridwar/@29.9407152,78.1452259,17z/data=!3m1!4b1!4m6!3m5!1s0x3909470041b1f17d:0xb4e61f0c070e9f82!8m2!3d29.9407152!4d78.1452259!16s%2Fg%2F11z5fg319v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jaya-maxwell-hospital-haridwar",
@@ -5098,7 +5141,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jaya+Maxwell+Hospital/@29.9142056,78.0442671,17z/data=!3m1!4b1!4m6!3m5!1s0x390949cb0f64b9eb:0xf4ff8621b7d8034c!8m2!3d29.9142056!4d78.0442671!16s%2Fg%2F11j8kgcq85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaya+Maxwell+Hospital/@29.9142056,78.0442671,17z/data=!3m1!4b1!4m6!3m5!1s0x390949cb0f64b9eb:0xf4ff8621b7d8034c!8m2!3d29.9142056!4d78.0442671!16s%2Fg%2F11j8kgcq85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5167,7 +5210,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jaya+Maxwell+Hospital/@29.9142056,78.0442671,17z/data=!3m1!4b1!4m6!3m5!1s0x390949cb0f64b9eb:0xf4ff8621b7d8034c!8m2!3d29.9142056!4d78.0442671!16s%2Fg%2F11j8kgcq85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jyotirmaya-netralaya-best-eye-hospital-cataract-glaucoma-squint-retina-lasik-pediatric-services-jwalapur",
@@ -5216,7 +5260,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jyotirmaya+Netralaya+-+Best+Eye+Hospital+:+Cataract+%7C+Glaucoma+%7C+Squint+%7C+Retina+%7C+Lasik+%7C+Pediatric+Services/@29.926234,78.1280965,17z/data=!3m1!4b1!4m6!3m5!1s0x390947f2dbb9b7bf:0xdc4077304d5eeaf!8m2!3d29.926234!4d78.1280965!16s%2Fg%2F11rfdm5mhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jyotirmaya+Netralaya+-+Best+Eye+Hospital+:+Cataract+%7C+Glaucoma+%7C+Squint+%7C+Retina+%7C+Lasik+%7C+Pediatric+Services/@29.926234,78.1280965,17z/data=!3m1!4b1!4m6!3m5!1s0x390947f2dbb9b7bf:0xdc4077304d5eeaf!8m2!3d29.926234!4d78.1280965!16s%2Fg%2F11rfdm5mhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5282,10 +5326,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jyotirmaya+Netralaya+-+Best+Eye+Hospital+:+Cataract+%7C+Glaucoma+%7C+Squint+%7C+Retina+%7C+Lasik+%7C+Pediatric+Services/@29.926234,78.1280965,17z/data=!3m1!4b1!4m6!3m5!1s0x390947f2dbb9b7bf:0xdc4077304d5eeaf!8m2!3d29.926234!4d78.1280965!16s%2Fg%2F11rfdm5mhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kailash-hospital-dehradun",
@@ -5334,7 +5379,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kailash+Hospital/@30.2882818,78.0641818,17z/data=!3m1!4b1!4m6!3m5!1s0x3909291d803e913d:0x5eb935d7a20054eb!8m2!3d30.2882818!4d78.0641818!16s%2Fg%2F11csqb37t5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kailash+Hospital/@30.2882818,78.0641818,17z/data=!3m1!4b1!4m6!3m5!1s0x3909291d803e913d:0x5eb935d7a20054eb!8m2!3d30.2882818!4d78.0641818!16s%2Fg%2F11csqb37t5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5403,7 +5448,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kailash+Hospital/@30.2882818,78.0641818,17z/data=!3m1!4b1!4m6!3m5!1s0x3909291d803e913d:0x5eb935d7a20054eb!8m2!3d30.2882818!4d78.0641818!16s%2Fg%2F11csqb37t5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kailash-omega-cancer-centre-dehradun",
@@ -5452,7 +5498,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KAILASH+OMEGA+CANCER+CENTRE/@30.2881118,78.0639259,17z/data=!3m1!4b1!4m6!3m5!1s0x39093b1ffe91d3e5:0xa764b0adb1c32053!8m2!3d30.2881118!4d78.0639259!16s%2Fg%2F11pb1x4vgf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KAILASH+OMEGA+CANCER+CENTRE/@30.2881118,78.0639259,17z/data=!3m1!4b1!4m6!3m5!1s0x39093b1ffe91d3e5:0xa764b0adb1c32053!8m2!3d30.2881118!4d78.0639259!16s%2Fg%2F11pb1x4vgf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5521,7 +5567,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KAILASH+OMEGA+CANCER+CENTRE/@30.2881118,78.0639259,17z/data=!3m1!4b1!4m6!3m5!1s0x39093b1ffe91d3e5:0xa764b0adb1c32053!8m2!3d30.2881118!4d78.0639259!16s%2Fg%2F11pb1x4vgf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalasheel-ortho-and-accidental-care-hospital-haridwar",
@@ -5571,7 +5618,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kalasheel+Ortho+%26+Accidental+Care+Hospital/@29.9376899,78.0773853,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f7ef12ac75:0x34bb039d1f8afe99!8m2!3d29.9376899!4d78.0773853!16s%2Fg%2F11c58rt67k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalasheel+Ortho+%26+Accidental+Care+Hospital/@29.9376899,78.0773853,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f7ef12ac75:0x34bb039d1f8afe99!8m2!3d29.9376899!4d78.0773853!16s%2Fg%2F11c58rt67k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5640,7 +5687,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalasheel+Ortho+%26+Accidental+Care+Hospital/@29.9376899,78.0773853,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f7ef12ac75:0x34bb039d1f8afe99!8m2!3d29.9376899!4d78.0773853!16s%2Fg%2F11c58rt67k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kandari-hospital-rishikesh",
@@ -5688,7 +5736,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Kandari+Hospital/@30.1152954,78.2903261,17z/data=!3m1!4b1!4m6!3m5!1s0x39093df4e28017b9:0xe370e7838dd440e7!8m2!3d30.1152954!4d78.2903261!16s%2Fg%2F11bx2h9_vy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kandari+Hospital/@30.1152954,78.2903261,17z/data=!3m1!4b1!4m6!3m5!1s0x39093df4e28017b9:0xe370e7838dd440e7!8m2!3d30.1152954!4d78.2903261!16s%2Fg%2F11bx2h9_vy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5757,7 +5805,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kandari+Hospital/@30.1152954,78.2903261,17z/data=!3m1!4b1!4m6!3m5!1s0x39093df4e28017b9:0xe370e7838dd440e7!8m2!3d30.1152954!4d78.2903261!16s%2Fg%2F11bx2h9_vy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kripayanam-hospital-haridwar",
@@ -5806,7 +5855,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Kripayanam+Hospital/@29.9319121,78.1500307,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465a24a43595:0x2deeab10fd6b9171!8m2!3d29.9319121!4d78.1500307!16s%2Fg%2F11b5phyjdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kripayanam+Hospital/@29.9319121,78.1500307,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465a24a43595:0x2deeab10fd6b9171!8m2!3d29.9319121!4d78.1500307!16s%2Fg%2F11b5phyjdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5875,7 +5924,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kripayanam+Hospital/@29.9319121,78.1500307,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465a24a43595:0x2deeab10fd6b9171!8m2!3d29.9319121!4d78.1500307!16s%2Fg%2F11b5phyjdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lakshya-homoeopathic-clinic-haridwar",
@@ -5924,7 +5974,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Lakshya+Homoeopathic+Clinic/data=!4m7!3m6!1s0x39094900192eae1f:0x8709cd2057b8d983!8m2!3d29.9346174!4d78.0755263!16s%2Fg%2F11fd7dy5rc!19sChIJH64uGQBJCTkRg9m4VyDNCYc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lakshya+Homoeopathic+Clinic/data=!4m7!3m6!1s0x39094900192eae1f:0x8709cd2057b8d983!8m2!3d29.9346174!4d78.0755263!16s%2Fg%2F11fd7dy5rc!19sChIJH64uGQBJCTkRg9m4VyDNCYc?authuser=0&hl=en&rclk=1"
@@ -5993,7 +6043,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lakshya+Homoeopathic+Clinic/data=!4m7!3m6!1s0x39094900192eae1f:0x8709cd2057b8d983!8m2!3d29.9346174!4d78.0755263!16s%2Fg%2F11fd7dy5rc!19sChIJH64uGQBJCTkRg9m4VyDNCYc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "laxmi-memorial-heart-centre-and-shatabdi-hospital-bharat-heavy-electrical-limited-ran",
@@ -6042,7 +6093,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Laxmi+Memorial+Heart+Centre+%26+Shatabdi+Hospital/@29.9338197,78.071758,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f937f840bf:0x43dad44038749c51!8m2!3d29.9338197!4d78.071758!16s%2Fg%2F1hf399wsc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmi+Memorial+Heart+Centre+%26+Shatabdi+Hospital/@29.9338197,78.071758,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f937f840bf:0x43dad44038749c51!8m2!3d29.9338197!4d78.071758!16s%2Fg%2F1hf399wsc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6111,7 +6162,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laxmi+Memorial+Heart+Centre+%26+Shatabdi+Hospital/@29.9338197,78.071758,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f937f840bf:0x43dad44038749c51!8m2!3d29.9338197!4d78.071758!16s%2Fg%2F1hf399wsc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "leela-gupta-hospital-jwalapur",
@@ -6159,7 +6211,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Leela+Gupta+Hospital/@29.9217554,78.1116674,17z/data=!3m1!4b1!4m6!3m5!1s0x39094620883a4499:0x3058a63f6b609191!8m2!3d29.9217554!4d78.1116674!16s%2Fg%2F11c58509js?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Leela+Gupta+Hospital/@29.9217554,78.1116674,17z/data=!3m1!4b1!4m6!3m5!1s0x39094620883a4499:0x3058a63f6b609191!8m2!3d29.9217554!4d78.1116674!16s%2Fg%2F11c58509js?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6228,7 +6280,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Leela+Gupta+Hospital/@29.9217554,78.1116674,17z/data=!3m1!4b1!4m6!3m5!1s0x39094620883a4499:0x3058a63f6b609191!8m2!3d29.9217554!4d78.1116674!16s%2Fg%2F11c58509js?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "leela-gupta-nursing-home-haridwar",
@@ -6276,7 +6329,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Leela+Gupta+Nursing+Home/@29.9353352,78.0737157,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489c33dc1cfb:0x51b654463268c257!8m2!3d29.9353352!4d78.0737157!16s%2Fg%2F1tgq50b2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Leela+Gupta+Nursing+Home/@29.9353352,78.0737157,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489c33dc1cfb:0x51b654463268c257!8m2!3d29.9353352!4d78.0737157!16s%2Fg%2F1tgq50b2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6345,7 +6398,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Leela+Gupta+Nursing+Home/@29.9353352,78.0737157,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489c33dc1cfb:0x51b654463268c257!8m2!3d29.9353352!4d78.0737157!16s%2Fg%2F1tgq50b2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "leelawati-hospital-haridwar",
@@ -6394,7 +6448,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Leelawati+Hospital/@29.9325481,78.0719268,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f9599c6cd1:0xce16b0d803512b79!8m2!3d29.9325481!4d78.0719268!16s%2Fg%2F1hf8bqnj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Leelawati+Hospital/@29.9325481,78.0719268,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f9599c6cd1:0xce16b0d803512b79!8m2!3d29.9325481!4d78.0719268!16s%2Fg%2F1hf8bqnj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6463,7 +6517,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Leelawati+Hospital/@29.9325481,78.0719268,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f9599c6cd1:0xce16b0d803512b79!8m2!3d29.9325481!4d78.0719268!16s%2Fg%2F1hf8bqnj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maa-ganga-maternity-and-eye-care-maa-ganga-eye-hospital-haridwar",
@@ -6511,7 +6566,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Maa+Ganga+Maternity+%26+Eye+Care-+%7CMaa+Ganga+Eye+Hospital%7C/@29.9159385,78.030474,17z/data=!3m1!4b1!4m6!3m5!1s0x390949001702052d:0xbd62f02475ce4b23!8m2!3d29.9159385!4d78.030474!16s%2Fg%2F11wxqj4qp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Ganga+Maternity+%26+Eye+Care-+%7CMaa+Ganga+Eye+Hospital%7C/@29.9159385,78.030474,17z/data=!3m1!4b1!4m6!3m5!1s0x390949001702052d:0xbd62f02475ce4b23!8m2!3d29.9159385!4d78.030474!16s%2Fg%2F11wxqj4qp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6580,7 +6635,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maa+Ganga+Maternity+%26+Eye+Care-+%7CMaa+Ganga+Eye+Hospital%7C/@29.9159385,78.030474,17z/data=!3m1!4b1!4m6!3m5!1s0x390949001702052d:0xbd62f02475ce4b23!8m2!3d29.9159385!4d78.030474!16s%2Fg%2F11wxqj4qp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maa-kamakhya-joints-and-back-care-centre-best-physiotherapy-centres-in-haridwar-best-physiotherapy-centres-in-jwalapur-haridwar",
@@ -6631,7 +6687,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Maa+Kamakhya+Joints+%26+Back+Care+Centre+-+Best+Physiotherapy+Centres+in+Haridwar,+Best+Physiotherapy+Centres+in+Jwalapur/data=!4m7!3m6!1s0x390947188170f2c9:0xc4bc39ef78ec210d!8m2!3d29.9255629!4d78.1232895!16s%2Fg%2F11h1j0pdm2!19sChIJyfJwgRhHCTkRDSHseO85vMQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Kamakhya+Joints+%26+Back+Care+Centre+-+Best+Physiotherapy+Centres+in+Haridwar,+Best+Physiotherapy+Centres+in+Jwalapur/data=!4m7!3m6!1s0x390947188170f2c9:0xc4bc39ef78ec210d!8m2!3d29.9255629!4d78.1232895!16s%2Fg%2F11h1j0pdm2!19sChIJyfJwgRhHCTkRDSHseO85vMQ?authuser=0&hl=en&rclk=1"
@@ -6697,10 +6753,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maa+Kamakhya+Joints+%26+Back+Care+Centre+-+Best+Physiotherapy+Centres+in+Haridwar,+Best+Physiotherapy+Centres+in+Jwalapur/data=!4m7!3m6!1s0x390947188170f2c9:0xc4bc39ef78ec210d!8m2!3d29.9255629!4d78.1232895!16s%2Fg%2F11h1j0pdm2!19sChIJyfJwgRhHCTkRDSHseO85vMQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "matrachhaya-hospital-roorkee",
@@ -6749,7 +6806,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Matrachhaya+Hospital/@29.8333134,77.8809314,17z/data=!3m1!4b1!4m6!3m5!1s0x390eb3aa41944279:0xb446c72fc1cc1053!8m2!3d29.8333134!4d77.8809314!16s%2Fg%2F1ttyv3m9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matrachhaya+Hospital/@29.8333134,77.8809314,17z/data=!3m1!4b1!4m6!3m5!1s0x390eb3aa41944279:0xb446c72fc1cc1053!8m2!3d29.8333134!4d77.8809314!16s%2Fg%2F1ttyv3m9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6818,7 +6875,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Matrachhaya+Hospital/@29.8333134,77.8809314,17z/data=!3m1!4b1!4m6!3m5!1s0x390eb3aa41944279:0xb446c72fc1cc1053!8m2!3d29.8333134!4d77.8809314!16s%2Fg%2F1ttyv3m9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "matrachhaya-medical-center-haridwar",
@@ -6867,7 +6925,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Matrachhaya+medical+center/data=!4m7!3m6!1s0x390947ceaafc5cd1:0x5413b1ee65a59eed!8m2!3d29.9315794!4d78.1366118!16s%2Fg%2F11x5spfs32!19sChIJ0Vz8qs5HCTkR7Z6lZe6xE1Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matrachhaya+medical+center/data=!4m7!3m6!1s0x390947ceaafc5cd1:0x5413b1ee65a59eed!8m2!3d29.9315794!4d78.1366118!16s%2Fg%2F11x5spfs32!19sChIJ0Vz8qs5HCTkR7Z6lZe6xE1Q?authuser=0&hl=en&rclk=1"
@@ -6936,7 +6994,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Matrachhaya+medical+center/data=!4m7!3m6!1s0x390947ceaafc5cd1:0x5413b1ee65a59eed!8m2!3d29.9315794!4d78.1366118!16s%2Fg%2F11x5spfs32!19sChIJ0Vz8qs5HCTkR7Z6lZe6xE1Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "max-med-centre-haridwar-near-hotel-madhuban-hotel",
@@ -6984,7 +7043,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Max+Med+Centre,+Haridwar/@29.932621,78.135856,17z/data=!3m1!4b1!4m6!3m5!1s0x3909475001c145a7:0xfbcb93fc6b97b19e!8m2!3d29.932621!4d78.135856!16s%2Fg%2F11fjy4cnhl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Max+Med+Centre,+Haridwar/@29.932621,78.135856,17z/data=!3m1!4b1!4m6!3m5!1s0x3909475001c145a7:0xfbcb93fc6b97b19e!8m2!3d29.932621!4d78.135856!16s%2Fg%2F11fjy4cnhl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7053,7 +7112,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Max+Med+Centre,+Haridwar/@29.932621,78.135856,17z/data=!3m1!4b1!4m6!3m5!1s0x3909475001c145a7:0xfbcb93fc6b97b19e!8m2!3d29.932621!4d78.135856!16s%2Fg%2F11fjy4cnhl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medcure-healthcare-centre-bahadarabad",
@@ -7101,7 +7161,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Medcure+Healthcare+Centre/@29.9208657,78.0470466,17z/data=!3m1!4b1!4m6!3m5!1s0x390949b620ed8daf:0xe0b240904a2140ee!8m2!3d29.9208657!4d78.0470466!16s%2Fg%2F11j8slpwbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medcure+Healthcare+Centre/@29.9208657,78.0470466,17z/data=!3m1!4b1!4m6!3m5!1s0x390949b620ed8daf:0xe0b240904a2140ee!8m2!3d29.9208657!4d78.0470466!16s%2Fg%2F11j8slpwbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7170,7 +7230,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medcure+Healthcare+Centre/@29.9208657,78.0470466,17z/data=!3m1!4b1!4m6!3m5!1s0x390949b620ed8daf:0xe0b240904a2140ee!8m2!3d29.9208657!4d78.0470466!16s%2Fg%2F11j8slpwbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mela-hospital-haridwar",
@@ -7218,7 +7279,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Mela+Hospital/@29.9515122,78.1579603,17z/data=!3m1!4b1!4m6!3m5!1s0x39094700b4fed7df:0x5f7a7bab2319fbdc!8m2!3d29.9515122!4d78.1579603!16s%2Fg%2F1261xy6lx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mela+Hospital/@29.9515122,78.1579603,17z/data=!3m1!4b1!4m6!3m5!1s0x39094700b4fed7df:0x5f7a7bab2319fbdc!8m2!3d29.9515122!4d78.1579603!16s%2Fg%2F1261xy6lx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7287,7 +7348,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mela+Hospital/@29.9515122,78.1579603,17z/data=!3m1!4b1!4m6!3m5!1s0x39094700b4fed7df:0x5f7a7bab2319fbdc!8m2!3d29.9515122!4d78.1579603!16s%2Fg%2F1261xy6lx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "metro-hospital-and-heart-institute-haridwar-uttarakhand-best-heart-hospital-in-haridwar-uttarakhand-haridwar",
@@ -7337,7 +7399,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Metro+Hospital+%26+Heart+Institute+Haridwar+Uttarakhand+%7C+Best+Heart+Hospital+in+Haridwar,+Uttarakhand/@29.967399,78.0626393,17z/data=!3m1!4b1!4m6!3m5!1s0x390949a0b0f46407:0x354376b826c28afd!8m2!3d29.967399!4d78.0626393!16s%2Fg%2F12hl3ms8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metro+Hospital+%26+Heart+Institute+Haridwar+Uttarakhand+%7C+Best+Heart+Hospital+in+Haridwar,+Uttarakhand/@29.967399,78.0626393,17z/data=!3m1!4b1!4m6!3m5!1s0x390949a0b0f46407:0x354376b826c28afd!8m2!3d29.967399!4d78.0626393!16s%2Fg%2F12hl3ms8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7406,7 +7468,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metro+Hospital+%26+Heart+Institute+Haridwar+Uttarakhand+%7C+Best+Heart+Hospital+in+Haridwar,+Uttarakhand/@29.967399,78.0626393,17z/data=!3m1!4b1!4m6!3m5!1s0x390949a0b0f46407:0x354376b826c28afd!8m2!3d29.967399!4d78.0626393!16s%2Fg%2F12hl3ms8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "muskaan-multiplicity-dental-maxillofacial-truma-and-implant-center-haridwar",
@@ -7455,7 +7518,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Muskaan+Multiplicity+Dental+Maxillofacial+Truma+%26+Implant+Center/@29.9217506,78.1116772,17z/data=!3m1!4b1!4m6!3m5!1s0x3909462089cbc141:0x2321d4e0e0eec963!8m2!3d29.9217506!4d78.1116772!16s%2Fg%2F11c1v2fxqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Muskaan+Multiplicity+Dental+Maxillofacial+Truma+%26+Implant+Center/@29.9217506,78.1116772,17z/data=!3m1!4b1!4m6!3m5!1s0x3909462089cbc141:0x2321d4e0e0eec963!8m2!3d29.9217506!4d78.1116772!16s%2Fg%2F11c1v2fxqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7521,10 +7584,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Muskaan+Multiplicity+Dental+Maxillofacial+Truma+%26+Implant+Center/@29.9217506,78.1116772,17z/data=!3m1!4b1!4m6!3m5!1s0x3909462089cbc141:0x2321d4e0e0eec963!8m2!3d29.9217506!4d78.1116772!16s%2Fg%2F11c1v2fxqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "my-family-dentist-isha-para-clinic-best-dental-clinic-implant-center-in-haridwar-haridwar",
@@ -7572,7 +7636,7 @@
     "metrics": [
       "Google rating 2.2"
     ],
-    "image": "https://www.google.com/maps/place/My+Family+Dentist+%2F+Isha+Para+Clinic+-+Best+Dental+Clinic+%7C+Implant+Center+in+Haridwar/@29.9342879,78.0770931,17z/data=!3m1!4b1!4m6!3m5!1s0x390949523d6340cb:0x4f91a9e0a78ce43f!8m2!3d29.9342879!4d78.0770931!16s%2Fg%2F11h3qczql2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/My+Family+Dentist+%2F+Isha+Para+Clinic+-+Best+Dental+Clinic+%7C+Implant+Center+in+Haridwar/@29.9342879,78.0770931,17z/data=!3m1!4b1!4m6!3m5!1s0x390949523d6340cb:0x4f91a9e0a78ce43f!8m2!3d29.9342879!4d78.0770931!16s%2Fg%2F11h3qczql2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7641,7 +7705,8 @@
     "rating": 2.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/My+Family+Dentist+%2F+Isha+Para+Clinic+-+Best+Dental+Clinic+%7C+Implant+Center+in+Haridwar/@29.9342879,78.0770931,17z/data=!3m1!4b1!4m6!3m5!1s0x390949523d6340cb:0x4f91a9e0a78ce43f!8m2!3d29.9342879!4d78.0770931!16s%2Fg%2F11h3qczql2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "my-family-dentist-dental-clinic-haridwar-best-dental-clinic-in-haridwar-haridwar",
@@ -7691,7 +7756,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/My+family+dentist+dental+clinic+haridwar%2F+Best+Dental+Clinic+in+Haridwar/@29.9344599,78.0768909,17z/data=!3m1!4b1!4m6!3m5!1s0x390949a02b00006b:0x3abe0c21a3195919!8m2!3d29.9344599!4d78.0768909!16s%2Fg%2F11fr5604pb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/My+family+dentist+dental+clinic+haridwar%2F+Best+Dental+Clinic+in+Haridwar/@29.9344599,78.0768909,17z/data=!3m1!4b1!4m6!3m5!1s0x390949a02b00006b:0x3abe0c21a3195919!8m2!3d29.9344599!4d78.0768909!16s%2Fg%2F11fr5604pb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7760,7 +7825,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/My+family+dentist+dental+clinic+haridwar%2F+Best+Dental+Clinic+in+Haridwar/@29.9344599,78.0768909,17z/data=!3m1!4b1!4m6!3m5!1s0x390949a02b00006b:0x3abe0c21a3195919!8m2!3d29.9344599!4d78.0768909!16s%2Fg%2F11fr5604pb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "my-family-dentist-dental-implant-center-haridwar",
@@ -7808,7 +7874,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/My+Family+Dentist+Dental+Implant+Center/@29.9363848,78.1384092,17z/data=!3m1!4b1!4m6!3m5!1s0x39094753e057fd4b:0xbd6abd15e904ca50!8m2!3d29.9363848!4d78.1384092!16s%2Fg%2F11sv8tpwpz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/My+Family+Dentist+Dental+Implant+Center/@29.9363848,78.1384092,17z/data=!3m1!4b1!4m6!3m5!1s0x39094753e057fd4b:0xbd6abd15e904ca50!8m2!3d29.9363848!4d78.1384092!16s%2Fg%2F11sv8tpwpz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7874,10 +7940,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/My+Family+Dentist+Dental+Implant+Center/@29.9363848,78.1384092,17z/data=!3m1!4b1!4m6!3m5!1s0x39094753e057fd4b:0xbd6abd15e904ca50!8m2!3d29.9363848!4d78.1384092!16s%2Fg%2F11sv8tpwpz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neelkanth-dental-clinic-haridwar",
@@ -7925,7 +7992,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Neelkanth+Dental+Clinic/@29.9923708,78.1925458,17z/data=!3m1!4b1!4m6!3m5!1s0x39094757a4d009c7:0xee3752f4d581a890!8m2!3d29.9923708!4d78.1925458!16s%2Fg%2F11c1xq090b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neelkanth+Dental+Clinic/@29.9923708,78.1925458,17z/data=!3m1!4b1!4m6!3m5!1s0x39094757a4d009c7:0xee3752f4d581a890!8m2!3d29.9923708!4d78.1925458!16s%2Fg%2F11c1xq090b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7994,7 +8061,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neelkanth+Dental+Clinic/@29.9923708,78.1925458,17z/data=!3m1!4b1!4m6!3m5!1s0x39094757a4d009c7:0xee3752f4d581a890!8m2!3d29.9923708!4d78.1925458!16s%2Fg%2F11c1xq090b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-centre-haridwar",
@@ -8044,7 +8112,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@29.9620052,78.0602452,17z/data=!3m1!4b1!4m6!3m5!1s0x390949c570e55a35:0x698cc712f2fdfe02!8m2!3d29.9620052!4d78.0602452!16s%2Fg%2F11skgccx91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@29.9620052,78.0602452,17z/data=!3m1!4b1!4m6!3m5!1s0x390949c570e55a35:0x698cc712f2fdfe02!8m2!3d29.9620052!4d78.0602452!16s%2Fg%2F11skgccx91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8110,10 +8178,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@29.9620052,78.0602452,17z/data=!3m1!4b1!4m6!3m5!1s0x390949c570e55a35:0x698cc712f2fdfe02!8m2!3d29.9620052!4d78.0602452!16s%2Fg%2F11skgccx91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephroplus-dialysis-clinic-in-haridwar-haridwar",
@@ -8162,7 +8231,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+Clinic+in+Haridwar/data=!4m7!3m6!1s0x390949161f572cef:0xdadf2ece203293ff!8m2!3d29.9161347!4d78.1027218!16s%2Fg%2F11l6kx494r!19sChIJ7yxXHxZJCTkR_5MyIM4u39o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+Clinic+in+Haridwar/data=!4m7!3m6!1s0x390949161f572cef:0xdadf2ece203293ff!8m2!3d29.9161347!4d78.1027218!16s%2Fg%2F11l6kx494r!19sChIJ7yxXHxZJCTkR_5MyIM4u39o?authuser=0&hl=en&rclk=1"
@@ -8228,10 +8297,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+Clinic+in+Haridwar/data=!4m7!3m6!1s0x390949161f572cef:0xdadf2ece203293ff!8m2!3d29.9161347!4d78.1027218!16s%2Fg%2F11l6kx494r!19sChIJ7yxXHxZJCTkR_5MyIM4u39o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "netradhaam-eye-foundation-haridwar",
@@ -8280,7 +8350,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/NETRADHAAM+EYE+FOUNDATION/@29.9278352,78.144376,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465ade9d65ed:0x1f7ce59a9dcf2d94!8m2!3d29.9278352!4d78.144376!16s%2Fg%2F11jyjhg6g_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NETRADHAAM+EYE+FOUNDATION/@29.9278352,78.144376,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465ade9d65ed:0x1f7ce59a9dcf2d94!8m2!3d29.9278352!4d78.144376!16s%2Fg%2F11jyjhg6g_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8349,7 +8419,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NETRADHAAM+EYE+FOUNDATION/@29.9278352,78.144376,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465ade9d65ed:0x1f7ce59a9dcf2d94!8m2!3d29.9278352!4d78.144376!16s%2Fg%2F11jyjhg6g_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-dev-bhoomi-hospital-jwalapur",
@@ -8398,7 +8469,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/New+Dev+Bhoomi+Hospital/@29.9316636,78.135226,17z/data=!3m1!4b1!4m6!3m5!1s0x39094647c2da807f:0x3c578fb0bfce8e62!8m2!3d29.9316636!4d78.135226!16s%2Fg%2F1vzg0m9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Dev+Bhoomi+Hospital/@29.9316636,78.135226,17z/data=!3m1!4b1!4m6!3m5!1s0x39094647c2da807f:0x3c578fb0bfce8e62!8m2!3d29.9316636!4d78.135226!16s%2Fg%2F1vzg0m9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8467,7 +8538,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Dev+Bhoomi+Hospital/@29.9316636,78.135226,17z/data=!3m1!4b1!4m6!3m5!1s0x39094647c2da807f:0x3c578fb0bfce8e62!8m2!3d29.9316636!4d78.135226!16s%2Fg%2F1vzg0m9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-leboretry-haridwar",
@@ -8513,7 +8585,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/New+Leboretry/@29.9478255,78.1151963,17z/data=!3m1!4b1!4m6!3m5!1s0x390947d6a0f6c51d:0xb6242c9165153e86!8m2!3d29.9478255!4d78.1151963!16s%2Fg%2F11g6mkdpm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Leboretry/@29.9478255,78.1151963,17z/data=!3m1!4b1!4m6!3m5!1s0x390947d6a0f6c51d:0xb6242c9165153e86!8m2!3d29.9478255!4d78.1151963!16s%2Fg%2F11g6mkdpm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8579,10 +8651,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Leboretry/@29.9478255,78.1151963,17z/data=!3m1!4b1!4m6!3m5!1s0x390947d6a0f6c51d:0xb6242c9165153e86!8m2!3d29.9478255!4d78.1151963!16s%2Fg%2F11g6mkdpm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-life-hospital-haridwar",
@@ -8628,7 +8701,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/New+Life+Hospital/@29.9337803,78.0564689,17z/data=!3m1!4b1!4m6!3m5!1s0x3909490029f4809d:0x39bed50e98a66d59!8m2!3d29.9337803!4d78.0564689!16s%2Fg%2F11y3wx84f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Life+Hospital/@29.9337803,78.0564689,17z/data=!3m1!4b1!4m6!3m5!1s0x3909490029f4809d:0x39bed50e98a66d59!8m2!3d29.9337803!4d78.0564689!16s%2Fg%2F11y3wx84f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8694,10 +8767,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Life+Hospital/@29.9337803,78.0564689,17z/data=!3m1!4b1!4m6!3m5!1s0x3909490029f4809d:0x39bed50e98a66d59!8m2!3d29.9337803!4d78.0564689!16s%2Fg%2F11y3wx84f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nilan-cancer-treatment-haridwar",
@@ -8743,7 +8817,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Nilan+Cancer+treatment/@29.9187436,78.1264896,17z/data=!3m1!4b1!4m6!3m5!1s0x390946166aaaaaab:0x43ee2379cbb5a787!8m2!3d29.9187436!4d78.1264896!16s%2Fg%2F11rqgcq44b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nilan+Cancer+treatment/@29.9187436,78.1264896,17z/data=!3m1!4b1!4m6!3m5!1s0x390946166aaaaaab:0x43ee2379cbb5a787!8m2!3d29.9187436!4d78.1264896!16s%2Fg%2F11rqgcq44b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8809,10 +8883,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nilan+Cancer+treatment/@29.9187436,78.1264896,17z/data=!3m1!4b1!4m6!3m5!1s0x390946166aaaaaab:0x43ee2379cbb5a787!8m2!3d29.9187436!4d78.1264896!16s%2Fg%2F11rqgcq44b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ojas-hospital-hospital-in-haridwar-jwalapur",
@@ -8860,7 +8935,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Ojas+Hospital+-+Hospital+in+Haridwar/@29.9161537,78.1027422,17z/data=!3m1!4b1!4m6!3m5!1s0x390948a25b94c9bb:0xdb626b9530344931!8m2!3d29.9161537!4d78.1027422!16s%2Fg%2F11f_0hvvwf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ojas+Hospital+-+Hospital+in+Haridwar/@29.9161537,78.1027422,17z/data=!3m1!4b1!4m6!3m5!1s0x390948a25b94c9bb:0xdb626b9530344931!8m2!3d29.9161537!4d78.1027422!16s%2Fg%2F11f_0hvvwf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8929,7 +9004,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ojas+Hospital+-+Hospital+in+Haridwar/@29.9161537,78.1027422,17z/data=!3m1!4b1!4m6!3m5!1s0x390948a25b94c9bb:0xdb626b9530344931!8m2!3d29.9161537!4d78.1027422!16s%2Fg%2F11f_0hvvwf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "omkar-lifelline-hospital-haridwar-best-hospital-in-haridwar-haridwar",
@@ -8978,7 +9054,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Omkar+Lifelline+Hospital+-+Haridwar+%7C+Best+Hospital+in+Haridwar/@29.9135087,78.0998371,17z/data=!3m1!4b1!4m6!3m5!1s0x390949fc8e181f9d:0x24f5c7d2da8028bf!8m2!3d29.9135087!4d78.0998371!16s%2Fg%2F11xp84_nct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Omkar+Lifelline+Hospital+-+Haridwar+%7C+Best+Hospital+in+Haridwar/@29.9135087,78.0998371,17z/data=!3m1!4b1!4m6!3m5!1s0x390949fc8e181f9d:0x24f5c7d2da8028bf!8m2!3d29.9135087!4d78.0998371!16s%2Fg%2F11xp84_nct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9047,7 +9123,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Omkar+Lifelline+Hospital+-+Haridwar+%7C+Best+Hospital+in+Haridwar/@29.9135087,78.0998371,17z/data=!3m1!4b1!4m6!3m5!1s0x390949fc8e181f9d:0x24f5c7d2da8028bf!8m2!3d29.9135087!4d78.0998371!16s%2Fg%2F11xp84_nct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oyo-1946-hotel-vinayak-haridwar",
@@ -9096,7 +9173,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/OYO+1946+Hotel+Vinayak/@29.934883,78.133559,17z/data=!3m1!4b1!4m9!3m8!1s0x39094637d598d43d:0x2514f10e429d7b94!5m2!4m1!1i2!8m2!3d29.934883!4d78.133559!16s%2Fg%2F11c705f5jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OYO+1946+Hotel+Vinayak/@29.934883,78.133559,17z/data=!3m1!4b1!4m9!3m8!1s0x39094637d598d43d:0x2514f10e429d7b94!5m2!4m1!1i2!8m2!3d29.934883!4d78.133559!16s%2Fg%2F11c705f5jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9165,7 +9242,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OYO+1946+Hotel+Vinayak/@29.934883,78.133559,17z/data=!3m1!4b1!4m9!3m8!1s0x39094637d598d43d:0x2514f10e429d7b94!5m2!4m1!1i2!8m2!3d29.934883!4d78.133559!16s%2Fg%2F11c705f5jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "panwar-dental-clinic-haridwar-shivalik-nagar-haridwar",
@@ -9214,7 +9292,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Panwar+Dental+Clinic+-+Haridwar,+Shivalik+nagar/data=!4m7!3m6!1s0x390948f7f6c026b1:0xeb97aae01b90c3e1!8m2!3d29.9374955!4d78.0768722!16s%2Fg%2F11dyb8wdtf!19sChIJsSbA9vdICTkR4cOQG-Cql-s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Panwar+Dental+Clinic+-+Haridwar,+Shivalik+nagar/data=!4m7!3m6!1s0x390948f7f6c026b1:0xeb97aae01b90c3e1!8m2!3d29.9374955!4d78.0768722!16s%2Fg%2F11dyb8wdtf!19sChIJsSbA9vdICTkR4cOQG-Cql-s?authuser=0&hl=en&rclk=1"
@@ -9283,7 +9361,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Panwar+Dental+Clinic+-+Haridwar,+Shivalik+nagar/data=!4m7!3m6!1s0x390948f7f6c026b1:0xeb97aae01b90c3e1!8m2!3d29.9374955!4d78.0768722!16s%2Fg%2F11dyb8wdtf!19sChIJsSbA9vdICTkR4cOQG-Cql-s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "physiolife-physiotherapy-clinic-ranipur-more",
@@ -9332,7 +9411,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/PhysioLife+Physiotherapy+Clinic/@29.9346085,78.1351549,17z/data=!3m1!4b1!4m6!3m5!1s0x39094703ea1981f5:0x68dc334738f3c009!8m2!3d29.9346085!4d78.1351549!16s%2Fg%2F11p0w3gf1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PhysioLife+Physiotherapy+Clinic/@29.9346085,78.1351549,17z/data=!3m1!4b1!4m6!3m5!1s0x39094703ea1981f5:0x68dc334738f3c009!8m2!3d29.9346085!4d78.1351549!16s%2Fg%2F11p0w3gf1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9398,10 +9477,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PhysioLife+Physiotherapy+Clinic/@29.9346085,78.1351549,17z/data=!3m1!4b1!4m6!3m5!1s0x39094703ea1981f5:0x68dc334738f3c009!8m2!3d29.9346085!4d78.1351549!16s%2Fg%2F11p0w3gf1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prem-hospital-and-research-center-jwalapur",
@@ -9449,7 +9529,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Prem+Hospital+%26+Research+Center/@29.9219082,78.1046146,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489931ba6df9:0x11910e87f68f5efd!8m2!3d29.9219082!4d78.1046146!16s%2Fg%2F11t832_h_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prem+Hospital+%26+Research+Center/@29.9219082,78.1046146,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489931ba6df9:0x11910e87f68f5efd!8m2!3d29.9219082!4d78.1046146!16s%2Fg%2F11t832_h_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9518,7 +9598,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prem+Hospital+%26+Research+Center/@29.9219082,78.1046146,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489931ba6df9:0x11910e87f68f5efd!8m2!3d29.9219082!4d78.1046146!16s%2Fg%2F11t832_h_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pretty-women-skin-care-clinic-haridwar",
@@ -9568,7 +9649,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Pretty+Women+Skin+Care+Clinic/@29.9377023,78.1367119,17z/data=!3m1!4b1!4m6!3m5!1s0x390949fc2b8d6915:0xdd89692f744f2b6e!8m2!3d29.9377023!4d78.1367119!16s%2Fg%2F11g0z43sxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pretty+Women+Skin+Care+Clinic/@29.9377023,78.1367119,17z/data=!3m1!4b1!4m6!3m5!1s0x390949fc2b8d6915:0xdd89692f744f2b6e!8m2!3d29.9377023!4d78.1367119!16s%2Fg%2F11g0z43sxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9637,7 +9718,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pretty+Women+Skin+Care+Clinic/@29.9377023,78.1367119,17z/data=!3m1!4b1!4m6!3m5!1s0x390949fc2b8d6915:0xdd89692f744f2b6e!8m2!3d29.9377023!4d78.1367119!16s%2Fg%2F11g0z43sxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "qht-hair-transplant-clinic-haridwar",
@@ -9686,7 +9768,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/QHT+Hair+Transplant+Clinic/@29.9340857,78.132819,17z/data=!3m1!4b1!4m6!3m5!1s0x390946482936820d:0x2117678caa889ee9!8m2!3d29.9340857!4d78.132819!16s%2Fg%2F11f1057__d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/QHT+Hair+Transplant+Clinic/@29.9340857,78.132819,17z/data=!3m1!4b1!4m6!3m5!1s0x390946482936820d:0x2117678caa889ee9!8m2!3d29.9340857!4d78.132819!16s%2Fg%2F11f1057__d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9755,7 +9837,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/QHT+Hair+Transplant+Clinic/@29.9340857,78.132819,17z/data=!3m1!4b1!4m6!3m5!1s0x390946482936820d:0x2117678caa889ee9!8m2!3d29.9340857!4d78.132819!16s%2Fg%2F11f1057__d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "qht-plastic-surgery-centre-haridwar",
@@ -9804,7 +9887,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/QHT+Plastic+Surgery+Centre/@29.9294338,78.1446945,17z/data=!3m1!4b1!4m6!3m5!1s0x390947fca088271b:0xb47fdb46f45eb624!8m2!3d29.9294338!4d78.1446945!16s%2Fg%2F11kc2kstd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/QHT+Plastic+Surgery+Centre/@29.9294338,78.1446945,17z/data=!3m1!4b1!4m6!3m5!1s0x390947fca088271b:0xb47fdb46f45eb624!8m2!3d29.9294338!4d78.1446945!16s%2Fg%2F11kc2kstd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9873,7 +9956,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/QHT+Plastic+Surgery+Centre/@29.9294338,78.1446945,17z/data=!3m1!4b1!4m6!3m5!1s0x390947fca088271b:0xb47fdb46f45eb624!8m2!3d29.9294338!4d78.1446945!16s%2Fg%2F11kc2kstd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rahi-care-dialysis-haridwar-haridwar",
@@ -9921,7 +10005,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rahi+care+dialysis+haridwar/@29.9516337,78.1579383,17z/data=!3m1!4b1!4m6!3m5!1s0x390947af2cbe3eef:0xc602c7edabb567ec!8m2!3d29.9516337!4d78.1579383!16s%2Fg%2F11ql_2q2nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rahi+care+dialysis+haridwar/@29.9516337,78.1579383,17z/data=!3m1!4b1!4m6!3m5!1s0x390947af2cbe3eef:0xc602c7edabb567ec!8m2!3d29.9516337!4d78.1579383!16s%2Fg%2F11ql_2q2nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9987,10 +10071,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rahi+care+dialysis+haridwar/@29.9516337,78.1579383,17z/data=!3m1!4b1!4m6!3m5!1s0x390947af2cbe3eef:0xc602c7edabb567ec!8m2!3d29.9516337!4d78.1579383!16s%2Fg%2F11ql_2q2nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raja-ram-hospital-haridwar-haridwar",
@@ -10039,7 +10124,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Raja+Ram+Hospital+Haridwar/@29.9373581,78.0717106,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f8a55283dd:0xa39fe52d995d6735!8m2!3d29.9373581!4d78.0717106!16s%2Fg%2F11cs6f518n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raja+Ram+Hospital+Haridwar/@29.9373581,78.0717106,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f8a55283dd:0xa39fe52d995d6735!8m2!3d29.9373581!4d78.0717106!16s%2Fg%2F11cs6f518n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10108,7 +10193,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raja+Ram+Hospital+Haridwar/@29.9373581,78.0717106,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f8a55283dd:0xa39fe52d995d6735!8m2!3d29.9373581!4d78.0717106!16s%2Fg%2F11cs6f518n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ramakrishna-mission-sevashrama-hospital-haridwar",
@@ -10157,7 +10243,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ramakrishna+Mission+Sevashrama+Hospital/@29.9329059,78.1481468,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465a7e9da2d5:0xb70daf79ec427242!8m2!3d29.9329059!4d78.1481468!16s%2Fm%2F0_qlmtx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ramakrishna+Mission+Sevashrama+Hospital/@29.9329059,78.1481468,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465a7e9da2d5:0xb70daf79ec427242!8m2!3d29.9329059!4d78.1481468!16s%2Fm%2F0_qlmtx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10226,7 +10312,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ramakrishna+Mission+Sevashrama+Hospital/@29.9329059,78.1481468,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465a7e9da2d5:0xb70daf79ec427242!8m2!3d29.9329059!4d78.1481468!16s%2Fm%2F0_qlmtx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "redcliffe-labs-collection-center-haridwar",
@@ -10276,7 +10363,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Center/@29.9128169,78.1335753,17z/data=!3m1!4b1!4m6!3m5!1s0x390946132d1f04d9:0xb05460a06f6a0346!8m2!3d29.9128169!4d78.1335753!16s%2Fg%2F11tk1_bxv1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Center/@29.9128169,78.1335753,17z/data=!3m1!4b1!4m6!3m5!1s0x390946132d1f04d9:0xb05460a06f6a0346!8m2!3d29.9128169!4d78.1335753!16s%2Fg%2F11tk1_bxv1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10342,10 +10429,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Center/@29.9128169,78.1335753,17z/data=!3m1!4b1!4m6!3m5!1s0x390946132d1f04d9:0xb05460a06f6a0346!8m2!3d29.9128169!4d78.1335753!16s%2Fg%2F11tk1_bxv1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "regrow-hair-clinic-roorkee-roorkee",
@@ -10393,7 +10481,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Regrow+Hair+Clinic,+Roorkee/@29.8542626,77.8880002,17z/data=!3m1!4b1!4m6!3m5!1s0x390eb309942c6b1b:0x38ef9df8c9ad9ea1!8m2!3d29.8542626!4d77.8880002!16s%2Fg%2F11fhwv7th2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Regrow+Hair+Clinic,+Roorkee/@29.8542626,77.8880002,17z/data=!3m1!4b1!4m6!3m5!1s0x390eb309942c6b1b:0x38ef9df8c9ad9ea1!8m2!3d29.8542626!4d77.8880002!16s%2Fg%2F11fhwv7th2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10459,10 +10547,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Regrow+Hair+Clinic,+Roorkee/@29.8542626,77.8880002,17z/data=!3m1!4b1!4m6!3m5!1s0x390eb309942c6b1b:0x38ef9df8c9ad9ea1!8m2!3d29.8542626!4d77.8880002!16s%2Fg%2F11fhwv7th2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "revive-your-heart-haridwar",
@@ -10511,7 +10600,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Revive+Your+Heart/@29.9333182,78.1320939,17z/data=!3m1!4b1!4m6!3m5!1s0x39094792c6e775a1:0xe29ac182c5217284!8m2!3d29.9333182!4d78.1320939!16s%2Fg%2F11xw2khn6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Revive+Your+Heart/@29.9333182,78.1320939,17z/data=!3m1!4b1!4m6!3m5!1s0x39094792c6e775a1:0xe29ac182c5217284!8m2!3d29.9333182!4d78.1320939!16s%2Fg%2F11xw2khn6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10577,10 +10666,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Revive+Your+Heart/@29.9333182,78.1320939,17z/data=!3m1!4b1!4m6!3m5!1s0x39094792c6e775a1:0xe29ac182c5217284!8m2!3d29.9333182!4d78.1320939!16s%2Fg%2F11xw2khn6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "roorkee-dental-implant-centre-haridwar-haridwar",
@@ -10629,7 +10719,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Roorkee+Dental+Implant+Centre+Haridwar/@29.9353368,78.137227,17z/data=!3m1!4b1!4m6!3m5!1s0x390947c6bb86ac75:0xc67ba1ef060c924d!8m2!3d29.9353368!4d78.137227!16s%2Fg%2F11v_49zfb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Roorkee+Dental+Implant+Centre+Haridwar/@29.9353368,78.137227,17z/data=!3m1!4b1!4m6!3m5!1s0x390947c6bb86ac75:0xc67ba1ef060c924d!8m2!3d29.9353368!4d78.137227!16s%2Fg%2F11v_49zfb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10695,10 +10785,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Roorkee+Dental+Implant+Centre+Haridwar/@29.9353368,78.137227,17z/data=!3m1!4b1!4m6!3m5!1s0x390947c6bb86ac75:0xc67ba1ef060c924d!8m2!3d29.9353368!4d78.137227!16s%2Fg%2F11v_49zfb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-r-medicity-haridwar",
@@ -10747,7 +10838,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/S.+R.+Medicity/@29.9055676,78.1335226,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465b55567ddb:0x6fca07cd304a312f!8m2!3d29.9055676!4d78.1335226!16s%2Fg%2F11g71cdb0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.+R.+Medicity/@29.9055676,78.1335226,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465b55567ddb:0x6fca07cd304a312f!8m2!3d29.9055676!4d78.1335226!16s%2Fg%2F11g71cdb0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10813,10 +10904,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S.+R.+Medicity/@29.9055676,78.1335226,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465b55567ddb:0x6fca07cd304a312f!8m2!3d29.9055676!4d78.1335226!16s%2Fg%2F11g71cdb0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sachin-cancer-hospital-haridwar",
@@ -10863,7 +10955,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Sachin+Cancer+Hospital/@29.8439084,78.1119192,11z/data=!3m1!4b1!4m6!3m5!1s0x3909457de8d3d547:0xb94b0e5b1e2ab5fa!8m2!3d29.8439084!4d78.1119192!16s%2Fg%2F11np96653g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sachin+Cancer+Hospital/@29.8439084,78.1119192,11z/data=!3m1!4b1!4m6!3m5!1s0x3909457de8d3d547:0xb94b0e5b1e2ab5fa!8m2!3d29.8439084!4d78.1119192!16s%2Fg%2F11np96653g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10929,10 +11021,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sachin+Cancer+Hospital/@29.8439084,78.1119192,11z/data=!3m1!4b1!4m6!3m5!1s0x3909457de8d3d547:0xb94b0e5b1e2ab5fa!8m2!3d29.8439084!4d78.1119192!16s%2Fg%2F11np96653g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-hijama-centre-govindpuri-opposite-hotel-le-grand",
@@ -10978,7 +11071,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Sai+Hijama+Centre/data=!4m7!3m6!1s0x390947504c701f5f:0x497440b610c1f29a!8m2!3d29.934133!4d78.1373266!16s%2Fg%2F11fl3yq8jj!19sChIJXx9wTFBHCTkRmvLBELZAdEk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Hijama+Centre/data=!4m7!3m6!1s0x390947504c701f5f:0x497440b610c1f29a!8m2!3d29.934133!4d78.1373266!16s%2Fg%2F11fl3yq8jj!19sChIJXx9wTFBHCTkRmvLBELZAdEk?authuser=0&hl=en&rclk=1"
@@ -11044,10 +11137,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Hijama+Centre/data=!4m7!3m6!1s0x390947504c701f5f:0x497440b610c1f29a!8m2!3d29.934133!4d78.1373266!16s%2Fg%2F11fl3yq8jj!19sChIJXx9wTFBHCTkRmvLBELZAdEk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sanjeevani-hospital-hospital-in-kanhkal-haridwar-haridwar",
@@ -11095,7 +11189,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeevani+Hospital+-+Hospital+in+Kanhkal+Haridwar/@29.9222556,78.1367904,17z/data=!3m1!4b1!4m6!3m5!1s0x39094641c4d59983:0xaeda1fbbbea49e0b!8m2!3d29.9222556!4d78.1367904!16s%2Fg%2F11fy_d8r7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Hospital+-+Hospital+in+Kanhkal+Haridwar/@29.9222556,78.1367904,17z/data=!3m1!4b1!4m6!3m5!1s0x39094641c4d59983:0xaeda1fbbbea49e0b!8m2!3d29.9222556!4d78.1367904!16s%2Fg%2F11fy_d8r7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11164,7 +11258,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeevani+Hospital+-+Hospital+in+Kanhkal+Haridwar/@29.9222556,78.1367904,17z/data=!3m1!4b1!4m6!3m5!1s0x39094641c4d59983:0xaeda1fbbbea49e0b!8m2!3d29.9222556!4d78.1367904!16s%2Fg%2F11fy_d8r7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sarang-dental-clinic-haridwar",
@@ -11212,7 +11307,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sarang+Dental+clinic/@29.9147548,78.1257401,17z/data=!3m1!4b1!4m6!3m5!1s0x390947ccdca500b1:0x7dc27a63ffbb05c7!8m2!3d29.9147548!4d78.1257401!16s%2Fg%2F11t589j8r6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarang+Dental+clinic/@29.9147548,78.1257401,17z/data=!3m1!4b1!4m6!3m5!1s0x390947ccdca500b1:0x7dc27a63ffbb05c7!8m2!3d29.9147548!4d78.1257401!16s%2Fg%2F11t589j8r6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11278,10 +11373,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sarang+Dental+clinic/@29.9147548,78.1257401,17z/data=!3m1!4b1!4m6!3m5!1s0x390947ccdca500b1:0x7dc27a63ffbb05c7!8m2!3d29.9147548!4d78.1257401!16s%2Fg%2F11t589j8r6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shah-clinic-and-residence-haridwar",
@@ -11329,7 +11425,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Shah+Clinic+%26+Residence/@29.91871,78.1392975,17z/data=!3m1!4b1!4m6!3m5!1s0x3909466a2a782375:0xf51d802c38a83657!8m2!3d29.91871!4d78.1392975!16s%2Fg%2F11cn2wk06g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shah+Clinic+%26+Residence/@29.91871,78.1392975,17z/data=!3m1!4b1!4m6!3m5!1s0x3909466a2a782375:0xf51d802c38a83657!8m2!3d29.91871!4d78.1392975!16s%2Fg%2F11cn2wk06g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11398,7 +11494,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shah+Clinic+%26+Residence/@29.91871,78.1392975,17z/data=!3m1!4b1!4m6!3m5!1s0x3909466a2a782375:0xf51d802c38a83657!8m2!3d29.91871!4d78.1392975!16s%2Fg%2F11cn2wk06g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shanti-hospital-and-maternity-center-haridwar",
@@ -11446,7 +11543,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Shanti+Hospital+And+Maternity+Center/@29.9146356,78.1351303,17z/data=!3m1!4b1!4m6!3m5!1s0x3909476908fbeb17:0x548c73f24c0b238a!8m2!3d29.9146356!4d78.1351303!16s%2Fg%2F11h3bg4782?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+Hospital+And+Maternity+Center/@29.9146356,78.1351303,17z/data=!3m1!4b1!4m6!3m5!1s0x3909476908fbeb17:0x548c73f24c0b238a!8m2!3d29.9146356!4d78.1351303!16s%2Fg%2F11h3bg4782?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11512,10 +11609,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanti+Hospital+And+Maternity+Center/@29.9146356,78.1351303,17z/data=!3m1!4b1!4m6!3m5!1s0x3909476908fbeb17:0x548c73f24c0b238a!8m2!3d29.9146356!4d78.1351303!16s%2Fg%2F11h3bg4782?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharda-clinic-haridwar",
@@ -11563,7 +11661,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sharda+Clinic/@29.9521195,78.0527865,17z/data=!3m1!4b1!4m6!3m5!1s0x390949fd0128ba33:0xe88fcb8e6158b2ab!8m2!3d29.9521195!4d78.0527865!16s%2Fg%2F11ssb993hd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharda+Clinic/@29.9521195,78.0527865,17z/data=!3m1!4b1!4m6!3m5!1s0x390949fd0128ba33:0xe88fcb8e6158b2ab!8m2!3d29.9521195!4d78.0527865!16s%2Fg%2F11ssb993hd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11629,10 +11727,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sharda+Clinic/@29.9521195,78.0527865,17z/data=!3m1!4b1!4m6!3m5!1s0x390949fd0128ba33:0xe88fcb8e6158b2ab!8m2!3d29.9521195!4d78.0527865!16s%2Fg%2F11ssb993hd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharma-hospital-haridwar",
@@ -11681,7 +11780,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sharma+hospital/@29.9282616,78.1162275,17z/data=!3m1!4b1!4m6!3m5!1s0x3909471c50d2aad1:0xf658cd944dcd38fa!8m2!3d29.9282616!4d78.1162275!16s%2Fg%2F11t9ws8qhs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+hospital/@29.9282616,78.1162275,17z/data=!3m1!4b1!4m6!3m5!1s0x3909471c50d2aad1:0xf658cd944dcd38fa!8m2!3d29.9282616!4d78.1162275!16s%2Fg%2F11t9ws8qhs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11750,7 +11849,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sharma+hospital/@29.9282616,78.1162275,17z/data=!3m1!4b1!4m6!3m5!1s0x3909471c50d2aad1:0xf658cd944dcd38fa!8m2!3d29.9282616!4d78.1162275!16s%2Fg%2F11t9ws8qhs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shourya-clinic-jwalapur",
@@ -11798,7 +11898,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Shourya+Clinic/@29.9329059,78.1319453,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bca6ae81df:0xf16fb47a5ef84385!8m2!3d29.9329059!4d78.1319453!16s%2Fg%2F11b7k43hkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shourya+Clinic/@29.9329059,78.1319453,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bca6ae81df:0xf16fb47a5ef84385!8m2!3d29.9329059!4d78.1319453!16s%2Fg%2F11b7k43hkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11867,7 +11967,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shourya+Clinic/@29.9329059,78.1319453,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bca6ae81df:0xf16fb47a5ef84385!8m2!3d29.9329059!4d78.1319453!16s%2Fg%2F11b7k43hkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-samyata-hospital-of-ayurveda-and-research-centre-haridwar",
@@ -11916,7 +12017,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Samyata+Hospital+of+Ayurveda+%26+Research+Centre/@29.9055567,78.134496,17z/data=!3m1!4b1!4m6!3m5!1s0x390947ab03f34bc3:0xf0c312901d8cf547!8m2!3d29.9055567!4d78.134496!16s%2Fg%2F11w2_dt0vd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Samyata+Hospital+of+Ayurveda+%26+Research+Centre/@29.9055567,78.134496,17z/data=!3m1!4b1!4m6!3m5!1s0x390947ab03f34bc3:0xf0c312901d8cf547!8m2!3d29.9055567!4d78.134496!16s%2Fg%2F11w2_dt0vd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11982,10 +12083,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Samyata+Hospital+of+Ayurveda+%26+Research+Centre/@29.9055567,78.134496,17z/data=!3m1!4b1!4m6!3m5!1s0x390947ab03f34bc3:0xf0c312901d8cf547!8m2!3d29.9055567!4d78.134496!16s%2Fg%2F11w2_dt0vd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-swami-bhumanand-hospital-haridwar",
@@ -12034,7 +12136,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Swami+Bhumanand+Hospital/@29.9165567,78.0824736,17z/data=!3m1!4b1!4m6!3m5!1s0x390948e8529ecb37:0x57441eecd28fa6a3!8m2!3d29.9165567!4d78.0824736!16s%2Fg%2F11b6gcdpjm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Swami+Bhumanand+Hospital/@29.9165567,78.0824736,17z/data=!3m1!4b1!4m6!3m5!1s0x390948e8529ecb37:0x57441eecd28fa6a3!8m2!3d29.9165567!4d78.0824736!16s%2Fg%2F11b6gcdpjm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12103,7 +12205,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Swami+Bhumanand+Hospital/@29.9165567,78.0824736,17z/data=!3m1!4b1!4m6!3m5!1s0x390948e8529ecb37:0x57441eecd28fa6a3!8m2!3d29.9165567!4d78.0824736!16s%2Fg%2F11b6gcdpjm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "silver-smile-dental-care-and-implant-centre-haridwar",
@@ -12151,7 +12254,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Silver+Smile+Dental+Care+%26+Implant+Centre/@29.9340612,78.1500873,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489baa56bae5:0xc6dc7ddd2a73ad74!8m2!3d29.9340612!4d78.1500873!16s%2Fg%2F11c3l82c_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Silver+Smile+Dental+Care+%26+Implant+Centre/@29.9340612,78.1500873,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489baa56bae5:0xc6dc7ddd2a73ad74!8m2!3d29.9340612!4d78.1500873!16s%2Fg%2F11c3l82c_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12217,10 +12320,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Silver+Smile+Dental+Care+%26+Implant+Centre/@29.9340612,78.1500873,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489baa56bae5:0xc6dc7ddd2a73ad74!8m2!3d29.9340612!4d78.1500873!16s%2Fg%2F11c3l82c_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "singhal-diabetic-clinic-haridwar-haridwar",
@@ -12270,7 +12374,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Singhal+Diabetic+Clinic,+Haridwar/@29.9368817,78.1378307,17z/data=!3m1!4b1!4m6!3m5!1s0x3909464914aaf607:0x97a7ee4fdcc973b4!8m2!3d29.9368817!4d78.1378307!16s%2Fg%2F1tdkq51r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singhal+Diabetic+Clinic,+Haridwar/@29.9368817,78.1378307,17z/data=!3m1!4b1!4m6!3m5!1s0x3909464914aaf607:0x97a7ee4fdcc973b4!8m2!3d29.9368817!4d78.1378307!16s%2Fg%2F1tdkq51r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12339,7 +12443,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Singhal+Diabetic+Clinic,+Haridwar/@29.9368817,78.1378307,17z/data=!3m1!4b1!4m6!3m5!1s0x3909464914aaf607:0x97a7ee4fdcc973b4!8m2!3d29.9368817!4d78.1378307!16s%2Fg%2F1tdkq51r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "singhal-s-homoeopathy-clinic-haridwar",
@@ -12389,7 +12494,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SINGHAL's+HOMOEOPATHY+CLINIC/@29.9289114,78.125951,17z/data=!3m1!4b1!4m6!3m5!1s0x39094710c594350d:0x209d260e379867c2!8m2!3d29.9289114!4d78.125951!16s%2Fg%2F11ybxycfrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SINGHAL's+HOMOEOPATHY+CLINIC/@29.9289114,78.125951,17z/data=!3m1!4b1!4m6!3m5!1s0x39094710c594350d:0x209d260e379867c2!8m2!3d29.9289114!4d78.125951!16s%2Fg%2F11ybxycfrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12458,7 +12563,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SINGHAL's+HOMOEOPATHY+CLINIC/@29.9289114,78.125951,17z/data=!3m1!4b1!4m6!3m5!1s0x39094710c594350d:0x209d260e379867c2!8m2!3d29.9289114!4d78.125951!16s%2Fg%2F11ybxycfrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skin-and-hair-care-healic-hospital-ranipur-more-haridwar-haridwar",
@@ -12507,7 +12613,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Skin+%26+Hair+Care+-+Healic+Hospital,+Ranipur+More,+Haridwar/data=!4m7!3m6!1s0x390947d71b1b1183:0xd526c10eb7a844bd!8m2!3d29.9294664!4d78.1447512!16s%2Fg%2F11w8j02dh3!19sChIJgxEbG9dHCTkRvUSotw7BJtU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+%26+Hair+Care+-+Healic+Hospital,+Ranipur+More,+Haridwar/data=!4m7!3m6!1s0x390947d71b1b1183:0xd526c10eb7a844bd!8m2!3d29.9294664!4d78.1447512!16s%2Fg%2F11w8j02dh3!19sChIJgxEbG9dHCTkRvUSotw7BJtU?authuser=0&hl=en&rclk=1"
@@ -12576,7 +12682,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skin+%26+Hair+Care+-+Healic+Hospital,+Ranipur+More,+Haridwar/data=!4m7!3m6!1s0x390947d71b1b1183:0xd526c10eb7a844bd!8m2!3d29.9294664!4d78.1447512!16s%2Fg%2F11w8j02dh3!19sChIJgxEbG9dHCTkRvUSotw7BJtU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "skin-and-hair-grow-sardar-patel-health-care-haridwar",
@@ -12625,7 +12732,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SKIN+%26+HAIR+GROW+(SARDAR+PATEL+HEALTH+CARE)/@29.930388,78.0649968,17z/data=!3m1!4b1!4m6!3m5!1s0x3909495d3b3b2839:0x7c159e64e5d4e36c!8m2!3d29.930388!4d78.0649968!16s%2Fg%2F11krjpflwz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SKIN+%26+HAIR+GROW+(SARDAR+PATEL+HEALTH+CARE)/@29.930388,78.0649968,17z/data=!3m1!4b1!4m6!3m5!1s0x3909495d3b3b2839:0x7c159e64e5d4e36c!8m2!3d29.930388!4d78.0649968!16s%2Fg%2F11krjpflwz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12691,10 +12798,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SKIN+%26+HAIR+GROW+(SARDAR+PATEL+HEALTH+CARE)/@29.930388,78.0649968,17z/data=!3m1!4b1!4m6!3m5!1s0x3909495d3b3b2839:0x7c159e64e5d4e36c!8m2!3d29.930388!4d78.0649968!16s%2Fg%2F11krjpflwz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "stretch-mark-and-birth-mark-removal-clinic-haridwar",
@@ -12742,7 +12850,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Stretch+Mark+%26+Birth+Mark+Removal+clinic/@29.9260333,78.1400726,17z/data=!3m1!4b1!4m6!3m5!1s0x39094643e5f10479:0xb8e9e8c2f65dfef9!8m2!3d29.9260333!4d78.1400726!16s%2Fg%2F11fz5z8vcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Stretch+Mark+%26+Birth+Mark+Removal+clinic/@29.9260333,78.1400726,17z/data=!3m1!4b1!4m6!3m5!1s0x39094643e5f10479:0xb8e9e8c2f65dfef9!8m2!3d29.9260333!4d78.1400726!16s%2Fg%2F11fz5z8vcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12808,10 +12916,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Stretch+Mark+%26+Birth+Mark+Removal+clinic/@29.9260333,78.1400726,17z/data=!3m1!4b1!4m6!3m5!1s0x39094643e5f10479:0xb8e9e8c2f65dfef9!8m2!3d29.9260333!4d78.1400726!16s%2Fg%2F11fz5z8vcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sudharaj-dental-solutions-and-implant-centre-haridwar",
@@ -12859,7 +12968,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SudhaRaj+Dental+Solutions+and+Implant+Centre/@29.936566,78.1510262,17z/data=!3m1!4b1!4m6!3m5!1s0x39094650b9bfb53b:0xb2578e45b71f36a8!8m2!3d29.936566!4d78.1510262!16s%2Fg%2F11ggbc7lm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SudhaRaj+Dental+Solutions+and+Implant+Centre/@29.936566,78.1510262,17z/data=!3m1!4b1!4m6!3m5!1s0x39094650b9bfb53b:0xb2578e45b71f36a8!8m2!3d29.936566!4d78.1510262!16s%2Fg%2F11ggbc7lm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12925,10 +13034,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SudhaRaj+Dental+Solutions+and+Implant+Centre/@29.936566,78.1510262,17z/data=!3m1!4b1!4m6!3m5!1s0x39094650b9bfb53b:0xb2578e45b71f36a8!8m2!3d29.936566!4d78.1510262!16s%2Fg%2F11ggbc7lm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "suman-skin-clinic-haridwar",
@@ -12976,7 +13086,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/suman+skin+clinic/@29.926284,78.146467,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465c95555531:0xdb7b3c2e93e151a6!8m2!3d29.926284!4d78.146467!16s%2Fg%2F11bw1_fvk6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/suman+skin+clinic/@29.926284,78.146467,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465c95555531:0xdb7b3c2e93e151a6!8m2!3d29.926284!4d78.146467!16s%2Fg%2F11bw1_fvk6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13045,7 +13155,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/suman+skin+clinic/@29.926284,78.146467,17z/data=!3m1!4b1!4m6!3m5!1s0x3909465c95555531:0xdb7b3c2e93e151a6!8m2!3d29.926284!4d78.146467!16s%2Fg%2F11bw1_fvk6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sumpurn-dental-care-haridwar",
@@ -13094,7 +13205,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sumpurn+Dental+Care/@29.9332159,78.0772846,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f74e2f3291:0x61fef35fa42e6ecf!8m2!3d29.9332159!4d78.0772846!16s%2Fg%2F1tfbr7z1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sumpurn+Dental+Care/@29.9332159,78.0772846,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f74e2f3291:0x61fef35fa42e6ecf!8m2!3d29.9332159!4d78.0772846!16s%2Fg%2F1tfbr7z1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13163,7 +13274,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sumpurn+Dental+Care/@29.9332159,78.0772846,17z/data=!3m1!4b1!4m6!3m5!1s0x390948f74e2f3291:0x61fef35fa42e6ecf!8m2!3d29.9332159!4d78.0772846!16s%2Fg%2F1tfbr7z1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sumukham-haridwar",
@@ -13212,7 +13324,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sumukham/@29.9250779,78.1333014,17z/data=!3m1!4b1!4m6!3m5!1s0x3909463f5ee4fefb:0xf0ece79d1af422c4!8m2!3d29.9250779!4d78.1333014!16s%2Fg%2F1pv0rjcf1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sumukham/@29.9250779,78.1333014,17z/data=!3m1!4b1!4m6!3m5!1s0x3909463f5ee4fefb:0xf0ece79d1af422c4!8m2!3d29.9250779!4d78.1333014!16s%2Fg%2F1pv0rjcf1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13278,10 +13390,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sumukham/@29.9250779,78.1333014,17z/data=!3m1!4b1!4m6!3m5!1s0x3909463f5ee4fefb:0xf0ece79d1af422c4!8m2!3d29.9250779!4d78.1333014!16s%2Fg%2F1pv0rjcf1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surv-healthcare-hospital-haridwar",
@@ -13330,7 +13443,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Surv+healthcare+hospital/data=!4m7!3m6!1s0x3909471313fb6609:0x92a45ed068f6065!8m2!3d29.92652!4d78.1264945!16s%2Fg%2F11mrbzxv10!19sChIJCWb7ExNHCTkRZWCPBu1FKgk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surv+healthcare+hospital/data=!4m7!3m6!1s0x3909471313fb6609:0x92a45ed068f6065!8m2!3d29.92652!4d78.1264945!16s%2Fg%2F11mrbzxv10!19sChIJCWb7ExNHCTkRZWCPBu1FKgk?authuser=0&hl=en&rclk=1"
@@ -13396,10 +13509,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surv+healthcare+hospital/data=!4m7!3m6!1s0x3909471313fb6609:0x92a45ed068f6065!8m2!3d29.92652!4d78.1264945!16s%2Fg%2F11mrbzxv10!19sChIJCWb7ExNHCTkRZWCPBu1FKgk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "swaroop-dental-clinic-daato-ka-aspataal-dental-clinic-dentist-in-haridwar-haridwar",
@@ -13447,7 +13561,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Swaroop+Dental+Clinic-Daato+ka+Aspataal%2FDental+Clinic%2FDentist+in+Haridwar/@29.9319445,78.0770939,17z/data=!3m1!4b1!4m6!3m5!1s0x390949d181ec1577:0x4ebef22070bd8e72!8m2!3d29.9319445!4d78.0770939!16s%2Fg%2F11rrrcjtty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swaroop+Dental+Clinic-Daato+ka+Aspataal%2FDental+Clinic%2FDentist+in+Haridwar/@29.9319445,78.0770939,17z/data=!3m1!4b1!4m6!3m5!1s0x390949d181ec1577:0x4ebef22070bd8e72!8m2!3d29.9319445!4d78.0770939!16s%2Fg%2F11rrrcjtty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13516,7 +13630,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swaroop+Dental+Clinic-Daato+ka+Aspataal%2FDental+Clinic%2FDentist+in+Haridwar/@29.9319445,78.0770939,17z/data=!3m1!4b1!4m6!3m5!1s0x390949d181ec1577:0x4ebef22070bd8e72!8m2!3d29.9319445!4d78.0770939!16s%2Fg%2F11rrrcjtty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swastik-dental-clinic-haridwar",
@@ -13565,7 +13680,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Swastik+Dental+Clinic/@29.9047892,78.0017342,17z/data=!3m1!4b1!4m6!3m5!1s0x390cff0394078d95:0x4be975e3e1c24a82!8m2!3d29.9047892!4d78.0017342!16s%2Fg%2F11h0ylhhcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swastik+Dental+Clinic/@29.9047892,78.0017342,17z/data=!3m1!4b1!4m6!3m5!1s0x390cff0394078d95:0x4be975e3e1c24a82!8m2!3d29.9047892!4d78.0017342!16s%2Fg%2F11h0ylhhcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13634,7 +13749,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swastik+Dental+Clinic/@29.9047892,78.0017342,17z/data=!3m1!4b1!4m6!3m5!1s0x390cff0394078d95:0x4be975e3e1c24a82!8m2!3d29.9047892!4d78.0017342!16s%2Fg%2F11h0ylhhcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thera-360-physiotherapy-clinic-best-physiotherapy-clinic-top-physiotherapy-center-in-haridwar-haridwar",
@@ -13683,7 +13799,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Thera+360+-+Physiotherapy+Clinic+-Best+Physiotherapy+Clinic+%7CTop+Physiotherapy+Center+in+Haridwar/@29.9294854,78.1295248,17z/data=!3m1!4b1!4m6!3m5!1s0x390947756400379d:0x807503f0b101a2fd!8m2!3d29.9294854!4d78.1295248!16s%2Fg%2F11sw14g1jf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thera+360+-+Physiotherapy+Clinic+-Best+Physiotherapy+Clinic+%7CTop+Physiotherapy+Center+in+Haridwar/@29.9294854,78.1295248,17z/data=!3m1!4b1!4m6!3m5!1s0x390947756400379d:0x807503f0b101a2fd!8m2!3d29.9294854!4d78.1295248!16s%2Fg%2F11sw14g1jf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13749,10 +13865,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thera+360+-+Physiotherapy+Clinic+-Best+Physiotherapy+Clinic+%7CTop+Physiotherapy+Center+in+Haridwar/@29.9294854,78.1295248,17z/data=!3m1!4b1!4m6!3m5!1s0x390947756400379d:0x807503f0b101a2fd!8m2!3d29.9294854!4d78.1295248!16s%2Fg%2F11sw14g1jf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "twachaa-skin-clinic-hair-transplant-clinic-haridwar",
@@ -13801,7 +13918,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Twachaa+Skin+Clinic+-+Hair+Transplant+Clinic/@29.9318351,78.1363783,17z/data=!3m1!4b1!4m6!3m5!1s0x3909464870b825a5:0x42e09bbdd762513e!8m2!3d29.9318351!4d78.1363783!16s%2Fg%2F11c5bll4lh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Twachaa+Skin+Clinic+-+Hair+Transplant+Clinic/@29.9318351,78.1363783,17z/data=!3m1!4b1!4m6!3m5!1s0x3909464870b825a5:0x42e09bbdd762513e!8m2!3d29.9318351!4d78.1363783!16s%2Fg%2F11c5bll4lh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13870,7 +13987,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Twachaa+Skin+Clinic+-+Hair+Transplant+Clinic/@29.9318351,78.1363783,17z/data=!3m1!4b1!4m6!3m5!1s0x3909464870b825a5:0x42e09bbdd762513e!8m2!3d29.9318351!4d78.1363783!16s%2Fg%2F11c5bll4lh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "usha-hospital-maternity-and-trauma-centre-haridwar",
@@ -13918,7 +14036,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Usha+Hospital+Maternity+%26+Trauma+centre/@29.9172421,78.1020937,17z/data=!3m1!4b1!4m6!3m5!1s0x390949df3763705f:0x131fe498cf0d0de1!8m2!3d29.9172421!4d78.1020937!16s%2Fg%2F11vjqjyg_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Usha+Hospital+Maternity+%26+Trauma+centre/@29.9172421,78.1020937,17z/data=!3m1!4b1!4m6!3m5!1s0x390949df3763705f:0x131fe498cf0d0de1!8m2!3d29.9172421!4d78.1020937!16s%2Fg%2F11vjqjyg_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13987,7 +14105,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Usha+Hospital+Maternity+%26+Trauma+centre/@29.9172421,78.1020937,17z/data=!3m1!4b1!4m6!3m5!1s0x390949df3763705f:0x131fe498cf0d0de1!8m2!3d29.9172421!4d78.1020937!16s%2Fg%2F11vjqjyg_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "uttaranchal-test-tube-baby-center-ivf-fertility-and-iui-specialist-in-haridwar-haridwar",
@@ -14037,7 +14156,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Uttaranchal+Test+Tube+Baby+Center+%7C+IVF,+Fertility+%26+IUI+Specialist+in+Haridwar/@29.9243368,78.1055814,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489c038b4e41:0x8bcc4e314d96c70f!8m2!3d29.9243368!4d78.1055814!16s%2Fg%2F1hf6_h976?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uttaranchal+Test+Tube+Baby+Center+%7C+IVF,+Fertility+%26+IUI+Specialist+in+Haridwar/@29.9243368,78.1055814,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489c038b4e41:0x8bcc4e314d96c70f!8m2!3d29.9243368!4d78.1055814!16s%2Fg%2F1hf6_h976?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14106,7 +14225,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Uttaranchal+Test+Tube+Baby+Center+%7C+IVF,+Fertility+%26+IUI+Specialist+in+Haridwar/@29.9243368,78.1055814,17z/data=!3m1!4b1!4m6!3m5!1s0x3909489c038b4e41:0x8bcc4e314d96c70f!8m2!3d29.9243368!4d78.1055814!16s%2Fg%2F1hf6_h976?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vadera-dental-clinic-jwalapur",
@@ -14155,7 +14275,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Vadera+Dental+Clinic/@29.9236587,78.117681,17z/data=!3m1!4b1!4m6!3m5!1s0x3909471841f268dd:0xf2b0cf894409620a!8m2!3d29.9236587!4d78.117681!16s%2Fg%2F11h52zgtjl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vadera+Dental+Clinic/@29.9236587,78.117681,17z/data=!3m1!4b1!4m6!3m5!1s0x3909471841f268dd:0xf2b0cf894409620a!8m2!3d29.9236587!4d78.117681!16s%2Fg%2F11h52zgtjl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14224,7 +14344,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vadera+Dental+Clinic/@29.9236587,78.117681,17z/data=!3m1!4b1!4m6!3m5!1s0x3909471841f268dd:0xf2b0cf894409620a!8m2!3d29.9236587!4d78.117681!16s%2Fg%2F11h52zgtjl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vardan-hospital-haridwar",
@@ -14272,7 +14393,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Vardan+Hospital/@29.9109016,78.1304582,17z/data=!3m1!4b1!4m6!3m5!1s0x390947e2c31b1773:0x24f588969c811a55!8m2!3d29.9109016!4d78.1304582!16s%2Fg%2F11hst22yg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardan+Hospital/@29.9109016,78.1304582,17z/data=!3m1!4b1!4m6!3m5!1s0x390947e2c31b1773:0x24f588969c811a55!8m2!3d29.9109016!4d78.1304582!16s%2Fg%2F11hst22yg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14341,7 +14462,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vardan+Hospital/@29.9109016,78.1304582,17z/data=!3m1!4b1!4m6!3m5!1s0x390947e2c31b1773:0x24f588969c811a55!8m2!3d29.9109016!4d78.1304582!16s%2Fg%2F11hst22yg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vhca-hair-clinic-roorkee-roorkee",
@@ -14390,7 +14512,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VHCA+Hair+Clinic+Roorkee/@29.8667282,77.8775257,17z/data=!3m1!4b1!4m6!3m5!1s0x690f5540cdee3391:0x964dc282a6922d3a!8m2!3d29.8667282!4d77.8775257!16s%2Fg%2F11vl94_6w1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VHCA+Hair+Clinic+Roorkee/@29.8667282,77.8775257,17z/data=!3m1!4b1!4m6!3m5!1s0x690f5540cdee3391:0x964dc282a6922d3a!8m2!3d29.8667282!4d77.8775257!16s%2Fg%2F11vl94_6w1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14459,7 +14581,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VHCA+Hair+Clinic+Roorkee/@29.8667282,77.8775257,17z/data=!3m1!4b1!4m6!3m5!1s0x690f5540cdee3391:0x964dc282a6922d3a!8m2!3d29.8667282!4d77.8775257!16s%2Fg%2F11vl94_6w1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vinayak-hospital-bahadarabad",
@@ -14508,7 +14631,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vinayak+Hospital/data=!4m7!3m6!1s0x3909497cacae4b27:0x39b50d26b6509936!8m2!3d29.9270028!4d78.0491114!16s%2Fg%2F11ff54qz_6!19sChIJJ0uurHxJCTkRNplQtiYNtTk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vinayak+Hospital/data=!4m7!3m6!1s0x3909497cacae4b27:0x39b50d26b6509936!8m2!3d29.9270028!4d78.0491114!16s%2Fg%2F11ff54qz_6!19sChIJJ0uurHxJCTkRNplQtiYNtTk?authuser=0&hl=en&rclk=1"
@@ -14577,7 +14700,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vinayak+Hospital/data=!4m7!3m6!1s0x3909497cacae4b27:0x39b50d26b6509936!8m2!3d29.9270028!4d78.0491114!16s%2Fg%2F11ff54qz_6!19sChIJJ0uurHxJCTkRNplQtiYNtTk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "women-complete-health-e-clinic-haridwar",
@@ -14626,7 +14750,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Women+complete+health+e-clinic/@29.9347488,78.0718685,17z/data=!3m1!4b1!4m6!3m5!1s0x390949995c5677f3:0x5123abd7214ac0ed!8m2!3d29.9347488!4d78.0718685!16s%2Fg%2F11jyk0rl0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Women+complete+health+e-clinic/@29.9347488,78.0718685,17z/data=!3m1!4b1!4m6!3m5!1s0x390949995c5677f3:0x5123abd7214ac0ed!8m2!3d29.9347488!4d78.0718685!16s%2Fg%2F11jyk0rl0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14692,10 +14816,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Women+complete+health+e-clinic/@29.9347488,78.0718685,17z/data=!3m1!4b1!4m6!3m5!1s0x390949995c5677f3:0x5123abd7214ac0ed!8m2!3d29.9347488!4d78.0718685!16s%2Fg%2F11jyk0rl0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jwalapur",
@@ -14742,7 +14867,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A4%A8+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@29.9347504,78.1335474,17z/data=!3m1!4b1!4m6!3m5!1s0x39094637d5f00afb:0x8c14592d62d1089d!8m2!3d29.9347504!4d78.1335474!16s%2Fg%2F11vczgtv5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A4%A8+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@29.9347504,78.1335474,17z/data=!3m1!4b1!4m6!3m5!1s0x39094637d5f00afb:0x8c14592d62d1089d!8m2!3d29.9347504!4d78.1335474!16s%2Fg%2F11vczgtv5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14808,9 +14933,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A4%A8+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@29.9347504,78.1335474,17z/data=!3m1!4b1!4m6!3m5!1s0x39094637d5f00afb:0x8c14592d62d1089d!8m2!3d29.9347504!4d78.1335474!16s%2Fg%2F11vczgtv5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

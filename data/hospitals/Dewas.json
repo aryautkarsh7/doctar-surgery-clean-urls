@@ -46,7 +46,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Amaltas+Hospital+Dewas+%7C+Hospital+in+Dewas/@23.0244404,75.9738463,17z/data=!3m1!4b1!4m6!3m5!1s0x396374403e555555:0xbb515b17db0c3f77!8m2!3d23.0244404!4d75.9738463!16s%2Fg%2F11bxfkff2k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amaltas+Hospital+Dewas+%7C+Hospital+in+Dewas/@23.0244404,75.9738463,17z/data=!3m1!4b1!4m6!3m5!1s0x396374403e555555:0xbb515b17db0c3f77!8m2!3d23.0244404!4d75.9738463!16s%2Fg%2F11bxfkff2k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amaltas+Hospital+Dewas+%7C+Hospital+in+Dewas/@23.0244404,75.9738463,17z/data=!3m1!4b1!4m6!3m5!1s0x396374403e555555:0xbb515b17db0c3f77!8m2!3d23.0244404!4d75.9738463!16s%2Fg%2F11bxfkff2k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anandam-netralaya-dewas-dewas",
@@ -164,7 +165,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Anandam+Netralaya+Dewas/@22.9656098,76.0486527,17z/data=!3m1!4b1!4m6!3m5!1s0x396317cbe4a4c315:0xa0125ba51307d8f7!8m2!3d22.9656098!4d76.0486527!16s%2Fg%2F11lckdyqn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anandam+Netralaya+Dewas/@22.9656098,76.0486527,17z/data=!3m1!4b1!4m6!3m5!1s0x396317cbe4a4c315:0xa0125ba51307d8f7!8m2!3d22.9656098!4d76.0486527!16s%2Fg%2F11lckdyqn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -230,10 +231,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anandam+Netralaya+Dewas/@22.9656098,76.0486527,17z/data=!3m1!4b1!4m6!3m5!1s0x396317cbe4a4c315:0xa0125ba51307d8f7!8m2!3d22.9656098!4d76.0486527!16s%2Fg%2F11lckdyqn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apex-care-hospital-dewas-dewas",
@@ -281,7 +283,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Apex+Care+Hospital+Dewas/@22.9569865,76.0417342,17z/data=!3m1!4b1!4m6!3m5!1s0x396317824bd1420d:0xcda8288f98436c06!8m2!3d22.9569865!4d76.0417342!16s%2Fg%2F124ynvwz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Care+Hospital+Dewas/@22.9569865,76.0417342,17z/data=!3m1!4b1!4m6!3m5!1s0x396317824bd1420d:0xcda8288f98436c06!8m2!3d22.9569865!4d76.0417342!16s%2Fg%2F124ynvwz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -350,7 +352,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+Care+Hospital+Dewas/@22.9569865,76.0417342,17z/data=!3m1!4b1!4m6!3m5!1s0x396317824bd1420d:0xcda8288f98436c06!8m2!3d22.9569865!4d76.0417342!16s%2Fg%2F124ynvwz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bella-skin-and-laser-clinic-hair-transplant-centre-dewas-dewas",
@@ -399,7 +402,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/bella+Skin+%26+Laser+Clinic+Hair+Transplant+Centre+dewas/@22.9742295,76.0642477,17z/data=!3m1!4b1!4m6!3m5!1s0x396317ea8ffdc099:0xb199c6736f66a562!8m2!3d22.9742295!4d76.0642477!16s%2Fg%2F11c5s4n4hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/bella+Skin+%26+Laser+Clinic+Hair+Transplant+Centre+dewas/@22.9742295,76.0642477,17z/data=!3m1!4b1!4m6!3m5!1s0x396317ea8ffdc099:0xb199c6736f66a562!8m2!3d22.9742295!4d76.0642477!16s%2Fg%2F11c5s4n4hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -468,7 +471,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/bella+Skin+%26+Laser+Clinic+Hair+Transplant+Centre+dewas/@22.9742295,76.0642477,17z/data=!3m1!4b1!4m6!3m5!1s0x396317ea8ffdc099:0xb199c6736f66a562!8m2!3d22.9742295!4d76.0642477!16s%2Fg%2F11c5s4n4hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chandra-nursing-home-dewas",
@@ -516,7 +520,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Chandra+Nursing+HOME/@22.9617548,76.0446653,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a830000007:0x78ed1c2475e28805!8m2!3d22.9617548!4d76.0446653!16s%2Fg%2F11fy9t0t8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandra+Nursing+HOME/@22.9617548,76.0446653,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a830000007:0x78ed1c2475e28805!8m2!3d22.9617548!4d76.0446653!16s%2Fg%2F11fy9t0t8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -585,7 +589,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chandra+Nursing+HOME/@22.9617548,76.0446653,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a830000007:0x78ed1c2475e28805!8m2!3d22.9617548!4d76.0446653!16s%2Fg%2F11fy9t0t8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-dental-clinic-dewas",
@@ -634,7 +639,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/City+Dental+Clinic/@22.9580272,76.0408217,17z/data=!3m1!4b1!4m6!3m5!1s0x3963173c2b7b814d:0xb97e3e50af0ce239!8m2!3d22.9580272!4d76.0408217!16s%2Fg%2F11fcnffbc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Dental+Clinic/@22.9580272,76.0408217,17z/data=!3m1!4b1!4m6!3m5!1s0x3963173c2b7b814d:0xb97e3e50af0ce239!8m2!3d22.9580272!4d76.0408217!16s%2Fg%2F11fcnffbc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -703,7 +708,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Dental+Clinic/@22.9580272,76.0408217,17z/data=!3m1!4b1!4m6!3m5!1s0x3963173c2b7b814d:0xb97e3e50af0ce239!8m2!3d22.9580272!4d76.0408217!16s%2Fg%2F11fcnffbc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dewas-dental-clinic-dewas",
@@ -751,7 +757,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Dewas+Dental+Clinic/@22.9637322,76.0473047,17z/data=!3m1!4b1!4m6!3m5!1s0x39631790d2c8e62b:0x7843128463ae8fcc!8m2!3d22.9637322!4d76.0473047!16s%2Fg%2F11gbz1vc_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dewas+Dental+Clinic/@22.9637322,76.0473047,17z/data=!3m1!4b1!4m6!3m5!1s0x39631790d2c8e62b:0x7843128463ae8fcc!8m2!3d22.9637322!4d76.0473047!16s%2Fg%2F11gbz1vc_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -820,7 +826,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dewas+Dental+Clinic/@22.9637322,76.0473047,17z/data=!3m1!4b1!4m6!3m5!1s0x39631790d2c8e62b:0x7843128463ae8fcc!8m2!3d22.9637322!4d76.0473047!16s%2Fg%2F11gbz1vc_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "first-choice-clinic-dewas",
@@ -869,7 +876,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/First+choice+clinic/@22.9718741,76.0538061,17z/data=!3m1!4b1!4m6!3m5!1s0x396317651569aa21:0x255a2204161e17ef!8m2!3d22.9718741!4d76.0538061!16s%2Fg%2F11hzwfcv9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/First+choice+clinic/@22.9718741,76.0538061,17z/data=!3m1!4b1!4m6!3m5!1s0x396317651569aa21:0x255a2204161e17ef!8m2!3d22.9718741!4d76.0538061!16s%2Fg%2F11hzwfcv9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -935,10 +942,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/First+choice+clinic/@22.9718741,76.0538061,17z/data=!3m1!4b1!4m6!3m5!1s0x396317651569aa21:0x255a2204161e17ef!8m2!3d22.9718741!4d76.0538061!16s%2Fg%2F11hzwfcv9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gagrani-hospital-dewas",
@@ -986,7 +994,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Gagrani+Hospital/data=!4m7!3m6!1s0x3963179a247d448d:0x51794ecf5f827dbf!8m2!3d22.967368!4d76.0489449!16s%2Fg%2F119v7200p!19sChIJjUR9JJoXYzkRv32CX89OeVE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gagrani+Hospital/data=!4m7!3m6!1s0x3963179a247d448d:0x51794ecf5f827dbf!8m2!3d22.967368!4d76.0489449!16s%2Fg%2F119v7200p!19sChIJjUR9JJoXYzkRv32CX89OeVE?authuser=0&hl=en&rclk=1"
@@ -1052,10 +1060,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gagrani+Hospital/data=!4m7!3m6!1s0x3963179a247d448d:0x51794ecf5f827dbf!8m2!3d22.967368!4d76.0489449!16s%2Fg%2F119v7200p!19sChIJjUR9JJoXYzkRv32CX89OeVE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lifeline-pet-clinic-dog-cat-parrot-rabbit-tortoise-dewas-veterinary-clinic-dewas",
@@ -1103,7 +1112,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/LIFELINE+PET+CLINIC+(Dog,Cat,Parrot,Rabbit,Tortoise)+DEWAS+VETERINARY+CLINIC/@22.9613621,76.046202,17z/data=!3m1!4b1!4m6!3m5!1s0x39631736766416cd:0x467859affa6f2506!8m2!3d22.9613621!4d76.046202!16s%2Fg%2F11vx7m3pn8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LIFELINE+PET+CLINIC+(Dog,Cat,Parrot,Rabbit,Tortoise)+DEWAS+VETERINARY+CLINIC/@22.9613621,76.046202,17z/data=!3m1!4b1!4m6!3m5!1s0x39631736766416cd:0x467859affa6f2506!8m2!3d22.9613621!4d76.046202!16s%2Fg%2F11vx7m3pn8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1172,7 +1181,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LIFELINE+PET+CLINIC+(Dog,Cat,Parrot,Rabbit,Tortoise)+DEWAS+VETERINARY+CLINIC/@22.9613621,76.046202,17z/data=!3m1!4b1!4m6!3m5!1s0x39631736766416cd:0x467859affa6f2506!8m2!3d22.9613621!4d76.046202!16s%2Fg%2F11vx7m3pn8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "love-kush-nursing-home-dewas",
@@ -1220,7 +1230,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Love+Kush+Nursing+Home/@22.9639467,76.049876,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179a96e4e743:0x9eb1863bedf80ead!8m2!3d22.9639467!4d76.049876!16s%2Fg%2F11g68ynhj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Love+Kush+Nursing+Home/@22.9639467,76.049876,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179a96e4e743:0x9eb1863bedf80ead!8m2!3d22.9639467!4d76.049876!16s%2Fg%2F11g68ynhj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1289,7 +1299,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Love+Kush+Nursing+Home/@22.9639467,76.049876,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179a96e4e743:0x9eb1863bedf80ead!8m2!3d22.9639467!4d76.049876!16s%2Fg%2F11g68ynhj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maheshwari-nursing-home-dewas",
@@ -1338,7 +1349,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Maheshwari+Nursing+Home/@22.966288,76.0517047,17z/data=!3m1!4b1!4m6!3m5!1s0x396317906364bde9:0xdc9c2dd1fea44dd2!8m2!3d22.966288!4d76.0517047!16s%2Fg%2F1q69ym_jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maheshwari+Nursing+Home/@22.966288,76.0517047,17z/data=!3m1!4b1!4m6!3m5!1s0x396317906364bde9:0xdc9c2dd1fea44dd2!8m2!3d22.966288!4d76.0517047!16s%2Fg%2F1q69ym_jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1407,7 +1418,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maheshwari+Nursing+Home/@22.966288,76.0517047,17z/data=!3m1!4b1!4m6!3m5!1s0x396317906364bde9:0xdc9c2dd1fea44dd2!8m2!3d22.966288!4d76.0517047!16s%2Fg%2F1q69ym_jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medi-square-dewas-dewas",
@@ -1455,7 +1467,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/MEDI-SQUARE+DEWAS/@22.9703104,76.0487197,17z/data=!3m1!4b1!4m6!3m5!1s0x396317b86a08cb9d:0xda46a6a64e325e07!8m2!3d22.9703104!4d76.0487197!16s%2Fg%2F11q8g2vn4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEDI-SQUARE+DEWAS/@22.9703104,76.0487197,17z/data=!3m1!4b1!4m6!3m5!1s0x396317b86a08cb9d:0xda46a6a64e325e07!8m2!3d22.9703104!4d76.0487197!16s%2Fg%2F11q8g2vn4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1524,7 +1536,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MEDI-SQUARE+DEWAS/@22.9703104,76.0487197,17z/data=!3m1!4b1!4m6!3m5!1s0x396317b86a08cb9d:0xda46a6a64e325e07!8m2!3d22.9703104!4d76.0487197!16s%2Fg%2F11q8g2vn4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nagar-healthcare-clinic-ambe-nagar-dewas-dewas",
@@ -1572,7 +1585,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Nagar+Healthcare+Clinic,+Ambe+Nagar,+Dewas/@22.9463905,76.0494179,17z/data=!3m1!4b1!4m6!3m5!1s0x3963191e5dadd225:0xdb4db062f998b00b!8m2!3d22.9463905!4d76.0494179!16s%2Fg%2F11nhngns24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nagar+Healthcare+Clinic,+Ambe+Nagar,+Dewas/@22.9463905,76.0494179,17z/data=!3m1!4b1!4m6!3m5!1s0x3963191e5dadd225:0xdb4db062f998b00b!8m2!3d22.9463905!4d76.0494179!16s%2Fg%2F11nhngns24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1641,7 +1654,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nagar+Healthcare+Clinic,+Ambe+Nagar,+Dewas/@22.9463905,76.0494179,17z/data=!3m1!4b1!4m6!3m5!1s0x3963191e5dadd225:0xdb4db062f998b00b!8m2!3d22.9463905!4d76.0494179!16s%2Fg%2F11nhngns24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patidar-hospital-dewas-dewas",
@@ -1689,7 +1703,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Patidar+Hospital+Dewas/@22.9538941,76.0389992,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179f895a2295:0xc505caab1bee58e1!8m2!3d22.9538941!4d76.0389992!16s%2Fg%2F11stgspnpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patidar+Hospital+Dewas/@22.9538941,76.0389992,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179f895a2295:0xc505caab1bee58e1!8m2!3d22.9538941!4d76.0389992!16s%2Fg%2F11stgspnpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1758,7 +1772,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patidar+Hospital+Dewas/@22.9538941,76.0389992,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179f895a2295:0xc505caab1bee58e1!8m2!3d22.9538941!4d76.0389992!16s%2Fg%2F11stgspnpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pratham-polyclinic-best-skin-clinic-in-dewas-hair-clinic-in-dewas-laser-treatment-clinic-in-dewas-dewas",
@@ -1806,7 +1821,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Pratham+Polyclinic+%7C%7C+Best+Skin+Clinic+In+Dewas+%7C+Hair+Clinic+In+Dewas+%7C+Laser+Treatment+Clinic+In+Dewas/@22.9648088,76.0481715,17z/data=!3m1!4b1!4m6!3m5!1s0x3963172ef22cd2b7:0x3b6054b39a27adb9!8m2!3d22.9648088!4d76.0481715!16s%2Fg%2F11fpkj9f23?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pratham+Polyclinic+%7C%7C+Best+Skin+Clinic+In+Dewas+%7C+Hair+Clinic+In+Dewas+%7C+Laser+Treatment+Clinic+In+Dewas/@22.9648088,76.0481715,17z/data=!3m1!4b1!4m6!3m5!1s0x3963172ef22cd2b7:0x3b6054b39a27adb9!8m2!3d22.9648088!4d76.0481715!16s%2Fg%2F11fpkj9f23?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1875,7 +1890,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pratham+Polyclinic+%7C%7C+Best+Skin+Clinic+In+Dewas+%7C+Hair+Clinic+In+Dewas+%7C+Laser+Treatment+Clinic+In+Dewas/@22.9648088,76.0481715,17z/data=!3m1!4b1!4m6!3m5!1s0x3963172ef22cd2b7:0x3b6054b39a27adb9!8m2!3d22.9648088!4d76.0481715!16s%2Fg%2F11fpkj9f23?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "premium-digital-hearing-aid-signia-resound-widex-phonak-oticon-authorised-centre-dewas",
@@ -1925,7 +1941,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Premium+Digital+Hearing+Aid-+Signia+,Resound,Widex,Phonak,Oticon+Authorised+Centre/@22.9637322,76.0473047,17z/data=!3m1!4b1!4m6!3m5!1s0x396317ed83918c69:0xc814840cf7e26958!8m2!3d22.9637322!4d76.0473047!16s%2Fg%2F11jyj6g5rb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Premium+Digital+Hearing+Aid-+Signia+,Resound,Widex,Phonak,Oticon+Authorised+Centre/@22.9637322,76.0473047,17z/data=!3m1!4b1!4m6!3m5!1s0x396317ed83918c69:0xc814840cf7e26958!8m2!3d22.9637322!4d76.0473047!16s%2Fg%2F11jyj6g5rb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1994,7 +2010,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Premium+Digital+Hearing+Aid-+Signia+,Resound,Widex,Phonak,Oticon+Authorised+Centre/@22.9637322,76.0473047,17z/data=!3m1!4b1!4m6!3m5!1s0x396317ed83918c69:0xc814840cf7e26958!8m2!3d22.9637322!4d76.0473047!16s%2Fg%2F11jyj6g5rb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prism-hospital-and-research-centre-pvt-ltd-dewas",
@@ -2043,7 +2060,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/PRISM+HOSPITAL+AND+RESEARCH+CENTRE+PVT.LTD./@22.9624399,76.0453037,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179b5a7b12f5:0x919bc32eb2c50dc!8m2!3d22.9624399!4d76.0453037!16s%2Fg%2F11c31x9cv8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRISM+HOSPITAL+AND+RESEARCH+CENTRE+PVT.LTD./@22.9624399,76.0453037,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179b5a7b12f5:0x919bc32eb2c50dc!8m2!3d22.9624399!4d76.0453037!16s%2Fg%2F11c31x9cv8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2112,7 +2129,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PRISM+HOSPITAL+AND+RESEARCH+CENTRE+PVT.LTD./@22.9624399,76.0453037,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179b5a7b12f5:0x919bc32eb2c50dc!8m2!3d22.9624399!4d76.0453037!16s%2Fg%2F11c31x9cv8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sainik-dental-clinic-dewas",
@@ -2161,7 +2179,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/SAINIK+DENTAL+CLINIC/@22.9664214,76.0502252,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179a0ad77ef1:0xbea6791faada6c4!8m2!3d22.9664214!4d76.0502252!16s%2Fg%2F1q67gsknj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAINIK+DENTAL+CLINIC/@22.9664214,76.0502252,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179a0ad77ef1:0xbea6791faada6c4!8m2!3d22.9664214!4d76.0502252!16s%2Fg%2F1q67gsknj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2230,7 +2248,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAINIK+DENTAL+CLINIC/@22.9664214,76.0502252,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179a0ad77ef1:0xbea6791faada6c4!8m2!3d22.9664214!4d76.0502252!16s%2Fg%2F1q67gsknj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saluja-hospital-dewas-dewas",
@@ -2278,7 +2297,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Saluja+Hospital+Dewas/@22.9656492,76.0488546,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179a5b3d7b21:0x4e48ce4b5056adaf!8m2!3d22.9656492!4d76.0488546!16s%2Fg%2F124y9xzjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saluja+Hospital+Dewas/@22.9656492,76.0488546,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179a5b3d7b21:0x4e48ce4b5056adaf!8m2!3d22.9656492!4d76.0488546!16s%2Fg%2F124y9xzjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2344,10 +2363,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saluja+Hospital+Dewas/@22.9656492,76.0488546,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179a5b3d7b21:0x4e48ce4b5056adaf!8m2!3d22.9656492!4d76.0488546!16s%2Fg%2F124y9xzjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samarpan-dental-clinic-dewas-dewas",
@@ -2395,7 +2415,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SAMARPAN+DENTAL+CLINIC,+DEWAS/@22.9698569,76.0369492,17z/data=!3m1!4b1!4m6!3m5!1s0x39631762295ad055:0x5731f80d8a16dd25!8m2!3d22.9698569!4d76.0369492!16s%2Fg%2F11t9y332sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAMARPAN+DENTAL+CLINIC,+DEWAS/@22.9698569,76.0369492,17z/data=!3m1!4b1!4m6!3m5!1s0x39631762295ad055:0x5731f80d8a16dd25!8m2!3d22.9698569!4d76.0369492!16s%2Fg%2F11t9y332sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2464,7 +2484,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAMARPAN+DENTAL+CLINIC,+DEWAS/@22.9698569,76.0369492,17z/data=!3m1!4b1!4m6!3m5!1s0x39631762295ad055:0x5731f80d8a16dd25!8m2!3d22.9698569!4d76.0369492!16s%2Fg%2F11t9y332sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjeevani-dental-square-and-implant-center-above-city-union-bank-civil-line-square",
@@ -2512,7 +2533,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeevani+Dental+Square+%26+Implant+Center/data=!4m7!3m6!1s0x396317e534a9793f:0x56af1aefa2806f3c!8m2!3d22.9656089!4d76.0484537!16s%2Fg%2F11rkpb715w!19sChIJP3mpNOUXYzkRPG-Aou8ar1Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Dental+Square+%26+Implant+Center/data=!4m7!3m6!1s0x396317e534a9793f:0x56af1aefa2806f3c!8m2!3d22.9656089!4d76.0484537!16s%2Fg%2F11rkpb715w!19sChIJP3mpNOUXYzkRPG-Aou8ar1Y?authuser=0&hl=en&rclk=1"
@@ -2581,7 +2602,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeevani+Dental+Square+%26+Implant+Center/data=!4m7!3m6!1s0x396317e534a9793f:0x56af1aefa2806f3c!8m2!3d22.9656089!4d76.0484537!16s%2Fg%2F11rkpb715w!19sChIJP3mpNOUXYzkRPG-Aou8ar1Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sanskar-hospital-and-research-centre-dewas",
@@ -2629,7 +2651,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Sanskar+Hospital+%26+Research+Centre/@22.9603765,76.04496,17z/data=!3m1!4b1!4m6!3m5!1s0x396317849e3272ff:0x6e06c31f2658f9e!8m2!3d22.9603765!4d76.04496!16s%2Fg%2F1vs5v35g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanskar+Hospital+%26+Research+Centre/@22.9603765,76.04496,17z/data=!3m1!4b1!4m6!3m5!1s0x396317849e3272ff:0x6e06c31f2658f9e!8m2!3d22.9603765!4d76.04496!16s%2Fg%2F1vs5v35g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2698,7 +2720,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanskar+Hospital+%26+Research+Centre/@22.9603765,76.04496,17z/data=!3m1!4b1!4m6!3m5!1s0x396317849e3272ff:0x6e06c31f2658f9e!8m2!3d22.9603765!4d76.04496!16s%2Fg%2F1vs5v35g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "seth-dental-care-dewas",
@@ -2747,7 +2770,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Seth+Dental+Care/@22.9673406,76.0634495,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd7d340232ff:0x405b0332cce8168b!8m2!3d22.9673406!4d76.0634495!16s%2Fg%2F11sdnsbrw9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seth+Dental+Care/@22.9673406,76.0634495,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd7d340232ff:0x405b0332cce8168b!8m2!3d22.9673406!4d76.0634495!16s%2Fg%2F11sdnsbrw9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2816,7 +2839,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seth+Dental+Care/@22.9673406,76.0634495,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd7d340232ff:0x405b0332cce8168b!8m2!3d22.9673406!4d76.0634495!16s%2Fg%2F11sdnsbrw9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-dental-clinic-dewas",
@@ -2864,7 +2888,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Dental+Clinic/data=!4m7!3m6!1s0x39631792ecd4f5f5:0x1863d947ad8d73c4!8m2!3d22.9646421!4d76.0603953!16s%2Fg%2F1q69qj0hr!19sChIJ9fXU7JIXYzkRxHONrUfZYxg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Dental+Clinic/data=!4m7!3m6!1s0x39631792ecd4f5f5:0x1863d947ad8d73c4!8m2!3d22.9646421!4d76.0603953!16s%2Fg%2F1q69qj0hr!19sChIJ9fXU7JIXYzkRxHONrUfZYxg?authuser=0&hl=en&rclk=1"
@@ -2930,10 +2954,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Dental+Clinic/data=!4m7!3m6!1s0x39631792ecd4f5f5:0x1863d947ad8d73c4!8m2!3d22.9646421!4d76.0603953!16s%2Fg%2F1q69qj0hr!19sChIJ9fXU7JIXYzkRxHONrUfZYxg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-ganesh-diagnostic-center-infertility-and-cosmetic-clinic-dewas",
@@ -2981,7 +3006,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Shri+Ganesh+Diagnostic+Center,+Infertility+And+Cosmetic+Clinic/@22.9641898,76.0509587,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179076ffe6c3:0xef86cf9f9cba152d!8m2!3d22.9641898!4d76.0509587!16s%2Fg%2F1q67j0lxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Ganesh+Diagnostic+Center,+Infertility+And+Cosmetic+Clinic/@22.9641898,76.0509587,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179076ffe6c3:0xef86cf9f9cba152d!8m2!3d22.9641898!4d76.0509587!16s%2Fg%2F1q67j0lxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3047,10 +3072,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Ganesh+Diagnostic+Center,+Infertility+And+Cosmetic+Clinic/@22.9641898,76.0509587,17z/data=!3m1!4b1!4m6!3m5!1s0x3963179076ffe6c3:0xef86cf9f9cba152d!8m2!3d22.9641898!4d76.0509587!16s%2Fg%2F1q67j0lxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skin-and-hair-magic-clinic-dewas",
@@ -3099,7 +3125,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Skin+%26+Hair+Magic+Clinic/@22.947573,76.0507579,17z/data=!3m1!4b1!4m6!3m5!1s0x3963195b165020a3:0x316f96f1d17d4c82!8m2!3d22.947573!4d76.0507579!16s%2Fg%2F11fmrjzzx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+%26+Hair+Magic+Clinic/@22.947573,76.0507579,17z/data=!3m1!4b1!4m6!3m5!1s0x3963195b165020a3:0x316f96f1d17d4c82!8m2!3d22.947573!4d76.0507579!16s%2Fg%2F11fmrjzzx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3168,7 +3194,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skin+%26+Hair+Magic+Clinic/@22.947573,76.0507579,17z/data=!3m1!4b1!4m6!3m5!1s0x3963195b165020a3:0x316f96f1d17d4c82!8m2!3d22.947573!4d76.0507579!16s%2Fg%2F11fmrjzzx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sks-clinic-dewas",
@@ -3216,7 +3243,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SKS+Clinic/@22.9549912,76.038134,17z/data=!3m1!4b1!4m6!3m5!1s0x396317faefdcadb1:0xd2afb489bccb3704!8m2!3d22.9549912!4d76.038134!16s%2Fg%2F11p_5m836b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SKS+Clinic/@22.9549912,76.038134,17z/data=!3m1!4b1!4m6!3m5!1s0x396317faefdcadb1:0xd2afb489bccb3704!8m2!3d22.9549912!4d76.038134!16s%2Fg%2F11p_5m836b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3282,10 +3309,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SKS+Clinic/@22.9549912,76.038134,17z/data=!3m1!4b1!4m6!3m5!1s0x396317faefdcadb1:0xd2afb489bccb3704!8m2!3d22.9549912!4d76.038134!16s%2Fg%2F11p_5m836b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "songara-chest-and-allergy-clinic-dewas",
@@ -3334,7 +3362,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Songara+chest+and+allergy+clinic/data=!4m7!3m6!1s0x396317b5f3ceb9f1:0x6b9f17896e1f4ae6!8m2!3d22.9541694!4d76.0383189!16s%2Fg%2F11f75zpnfr!19sChIJ8bnO87UXYzkR5kofbokXn2s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Songara+chest+and+allergy+clinic/data=!4m7!3m6!1s0x396317b5f3ceb9f1:0x6b9f17896e1f4ae6!8m2!3d22.9541694!4d76.0383189!16s%2Fg%2F11f75zpnfr!19sChIJ8bnO87UXYzkR5kofbokXn2s?authuser=0&hl=en&rclk=1"
@@ -3403,7 +3431,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Songara+chest+and+allergy+clinic/data=!4m7!3m6!1s0x396317b5f3ceb9f1:0x6b9f17896e1f4ae6!8m2!3d22.9541694!4d76.0383189!16s%2Fg%2F11f75zpnfr!19sChIJ8bnO87UXYzkR5kofbokXn2s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tathastu-dental-dewas-best-dentist-dental-clinic-implant-center-dewas",
@@ -3452,7 +3481,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/TATHASTU+DENTAL+DEWAS+%7CBest+Dentist+%7CDental+Clinic+%7C+Implant+Center+%7C/@22.9585959,76.0423882,17z/data=!3m1!4b1!4m6!3m5!1s0x39631748ed49695b:0x416e70329f4966ec!8m2!3d22.9585959!4d76.0423882!16s%2Fg%2F11t72jfd9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TATHASTU+DENTAL+DEWAS+%7CBest+Dentist+%7CDental+Clinic+%7C+Implant+Center+%7C/@22.9585959,76.0423882,17z/data=!3m1!4b1!4m6!3m5!1s0x39631748ed49695b:0x416e70329f4966ec!8m2!3d22.9585959!4d76.0423882!16s%2Fg%2F11t72jfd9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3521,7 +3550,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TATHASTU+DENTAL+DEWAS+%7CBest+Dentist+%7CDental+Clinic+%7C+Implant+Center+%7C/@22.9585959,76.0423882,17z/data=!3m1!4b1!4m6!3m5!1s0x39631748ed49695b:0x416e70329f4966ec!8m2!3d22.9585959!4d76.0423882!16s%2Fg%2F11t72jfd9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yovan-clinic-best-sexologist-in-dewas-top-sex-clinic-sex-problem-s-complete-solutions-dewas",
@@ -3571,7 +3601,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yovan+clinic+%7C+Best+Sexologist+in+Dewas+%7C+Top+Sex+Clinic+%7C+Sex+Problem's+Complete+Solutions/@22.966469,76.0574375,17z/data=!3m1!4b1!4m6!3m5!1s0x39631771274c3f5b:0xeee2b27d2abe62a6!8m2!3d22.966469!4d76.0574375!16s%2Fg%2F11vs4xzcr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yovan+clinic+%7C+Best+Sexologist+in+Dewas+%7C+Top+Sex+Clinic+%7C+Sex+Problem's+Complete+Solutions/@22.966469,76.0574375,17z/data=!3m1!4b1!4m6!3m5!1s0x39631771274c3f5b:0xeee2b27d2abe62a6!8m2!3d22.966469!4d76.0574375!16s%2Fg%2F11vs4xzcr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3640,6 +3670,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yovan+clinic+%7C+Best+Sexologist+in+Dewas+%7C+Top+Sex+Clinic+%7C+Sex+Problem's+Complete+Solutions/@22.966469,76.0574375,17z/data=!3m1!4b1!4m6!3m5!1s0x39631771274c3f5b:0xeee2b27d2abe62a6!8m2!3d22.966469!4d76.0574375!16s%2Fg%2F11vs4xzcr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

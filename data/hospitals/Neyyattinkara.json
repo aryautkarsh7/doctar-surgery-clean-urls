@@ -46,7 +46,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aeka+Skin+Care+Clinic+-+Lulu+Mall+Trivandrum/@8.515362,76.89769,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bd4e02f7b37b:0xadff633f56c7c74c!8m2!3d8.515362!4d76.89769!16s%2Fg%2F11vlr7t1vp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aeka+Skin+Care+Clinic+-+Lulu+Mall+Trivandrum/@8.515362,76.89769,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bd4e02f7b37b:0xadff633f56c7c74c!8m2!3d8.515362!4d76.89769!16s%2Fg%2F11vlr7t1vp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aeka+Skin+Care+Clinic+-+Lulu+Mall+Trivandrum/@8.515362,76.89769,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bd4e02f7b37b:0xadff633f56c7c74c!8m2!3d8.515362!4d76.89769!16s%2Fg%2F11vlr7t1vp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amaze-gents-beauty-clinic-a-c-perumpazhuthoor",
@@ -164,7 +165,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/AMAZE+Gents+Beauty+Clinic+(A%2FC)/@8.4316197,77.075685,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af3eccff1105:0x15d537b3fa55a2d8!8m2!3d8.4316197!4d77.075685!16s%2Fg%2F11ny2ccc3h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMAZE+Gents+Beauty+Clinic+(A%2FC)/@8.4316197,77.075685,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af3eccff1105:0x15d537b3fa55a2d8!8m2!3d8.4316197!4d77.075685!16s%2Fg%2F11ny2ccc3h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -233,7 +234,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AMAZE+Gents+Beauty+Clinic+(A%2FC)/@8.4316197,77.075685,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af3eccff1105:0x15d537b3fa55a2d8!8m2!3d8.4316197!4d77.075685!16s%2Fg%2F11ny2ccc3h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amritha-neyyattinkara",
@@ -281,7 +283,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Amritha/@8.4157793,77.0808244,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05aff11b706dc3:0xfc8bfc415a864cbe!8m2!3d8.4157793!4d77.0808244!16s%2Fg%2F11h2g_tn_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amritha/@8.4157793,77.0808244,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05aff11b706dc3:0xfc8bfc415a864cbe!8m2!3d8.4157793!4d77.0808244!16s%2Fg%2F11h2g_tn_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -347,10 +349,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amritha/@8.4157793,77.0808244,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05aff11b706dc3:0xfc8bfc415a864cbe!8m2!3d8.4157793!4d77.0808244!16s%2Fg%2F11h2g_tn_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ardent-dental-clinic-and-implant-centre-neyyattinkara",
@@ -398,7 +401,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Ardent+dental+clinic+and+implant+centre/@8.4086309,77.0749107,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af74e208351f:0x8a67c6d1c51f892a!8m2!3d8.4086309!4d77.0749107!16s%2Fg%2F11pdwc6h27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ardent+dental+clinic+and+implant+centre/@8.4086309,77.0749107,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af74e208351f:0x8a67c6d1c51f892a!8m2!3d8.4086309!4d77.0749107!16s%2Fg%2F11pdwc6h27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -467,7 +470,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ardent+dental+clinic+and+implant+centre/@8.4086309,77.0749107,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af74e208351f:0x8a67c6d1c51f892a!8m2!3d8.4086309!4d77.0749107!16s%2Fg%2F11pdwc6h27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayushvedha-ayurveda-hospital-neyyattinkara",
@@ -515,7 +519,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/AYUSHVEDHA+AYURVEDA+HOSPITAL/@8.3888263,77.0490133,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af5bcd700daf:0xc7f7732f352dc303!8m2!3d8.3888263!4d77.0490133!16s%2Fg%2F11yfqwzc2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AYUSHVEDHA+AYURVEDA+HOSPITAL/@8.3888263,77.0490133,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af5bcd700daf:0xc7f7732f352dc303!8m2!3d8.3888263!4d77.0490133!16s%2Fg%2F11yfqwzc2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -584,7 +588,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AYUSHVEDHA+AYURVEDA+HOSPITAL/@8.3888263,77.0490133,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af5bcd700daf:0xc7f7732f352dc303!8m2!3d8.3888263!4d77.0490133!16s%2Fg%2F11yfqwzc2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "better-life-homoeo-clinic-neyyattinkara",
@@ -632,7 +637,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Better+Life+Homoeo+Clinic/@8.3914916,77.0889897,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afcc006ee755:0x79f278d45b1de4d9!8m2!3d8.3914916!4d77.0889897!16s%2Fg%2F11z4r_tdjs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Better+Life+Homoeo+Clinic/@8.3914916,77.0889897,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afcc006ee755:0x79f278d45b1de4d9!8m2!3d8.3914916!4d77.0889897!16s%2Fg%2F11z4r_tdjs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -698,10 +703,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Better+Life+Homoeo+Clinic/@8.3914916,77.0889897,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afcc006ee755:0x79f278d45b1de4d9!8m2!3d8.3914916!4d77.0889897!16s%2Fg%2F11z4r_tdjs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bharath-homoeo-clinic-neyyattinkara",
@@ -750,7 +756,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Bharath+homoeo+clinic/@8.3974212,77.0910728,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af18d67c8c29:0x2f289d4ea57a3166!8m2!3d8.3974212!4d77.0910728!16s%2Fg%2F11g1_xb6gq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharath+homoeo+clinic/@8.3974212,77.0910728,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af18d67c8c29:0x2f289d4ea57a3166!8m2!3d8.3974212!4d77.0910728!16s%2Fg%2F11g1_xb6gq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -819,7 +825,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bharath+homoeo+clinic/@8.3974212,77.0910728,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af18d67c8c29:0x2f289d4ea57a3166!8m2!3d8.3974212!4d77.0910728!16s%2Fg%2F11g1_xb6gq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "braahmi-dental-consulting-centre-neyyattinkara",
@@ -867,7 +874,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Braahmi+Dental+Consulting+Centre/@8.4074349,77.0878419,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05adf26fbb28d3:0x9643ed19fc680297!8m2!3d8.4074349!4d77.0878419!16s%2Fg%2F11m9v2sg4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Braahmi+Dental+Consulting+Centre/@8.4074349,77.0878419,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05adf26fbb28d3:0x9643ed19fc680297!8m2!3d8.4074349!4d77.0878419!16s%2Fg%2F11m9v2sg4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -936,7 +943,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Braahmi+Dental+Consulting+Centre/@8.4074349,77.0878419,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05adf26fbb28d3:0x9643ed19fc680297!8m2!3d8.4074349!4d77.0878419!16s%2Fg%2F11m9v2sg4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "brightenup-skin-care-clinic-pallichal",
@@ -985,7 +993,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BrightenUp+%7C+Skin+Care+Clinic/@8.4430968,77.0174639,17z/data=!3m1!4b1!4m6!3m5!1s0x64da3de8981ef14d:0xa9480affa2f52b5d!8m2!3d8.4430968!4d77.0174639!16s%2Fg%2F11krdrfj4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BrightenUp+%7C+Skin+Care+Clinic/@8.4430968,77.0174639,17z/data=!3m1!4b1!4m6!3m5!1s0x64da3de8981ef14d:0xa9480affa2f52b5d!8m2!3d8.4430968!4d77.0174639!16s%2Fg%2F11krdrfj4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1054,7 +1062,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BrightenUp+%7C+Skin+Care+Clinic/@8.4430968,77.0174639,17z/data=!3m1!4b1!4m6!3m5!1s0x64da3de8981ef14d:0xa9480affa2f52b5d!8m2!3d8.4430968!4d77.0174639!16s%2Fg%2F11krdrfj4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chethana-skin-clinic-thiruvananthapuram",
@@ -1103,7 +1112,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chethana+Skin+Clinic/@8.513491,76.9789179,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ba3b02244a0f:0x1eded2f427a5a200!8m2!3d8.513491!4d76.9789179!16s%2Fg%2F1tfwbycc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chethana+Skin+Clinic/@8.513491,76.9789179,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ba3b02244a0f:0x1eded2f427a5a200!8m2!3d8.513491!4d76.9789179!16s%2Fg%2F1tfwbycc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1172,7 +1181,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chethana+Skin+Clinic/@8.513491,76.9789179,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ba3b02244a0f:0x1eded2f427a5a200!8m2!3d8.513491!4d76.9789179!16s%2Fg%2F1tfwbycc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cvc-anand-eye-hospital-clear-vision-centre-neyyattinkara",
@@ -1221,7 +1231,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/CVC+Anand+Eye+Hospital+Clear+Vision+Centre/@8.4040167,77.0847759,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae61787b6603:0xcf35828e5d71355f!8m2!3d8.4040167!4d77.0847759!16s%2Fg%2F11fx89q5yq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CVC+Anand+Eye+Hospital+Clear+Vision+Centre/@8.4040167,77.0847759,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae61787b6603:0xcf35828e5d71355f!8m2!3d8.4040167!4d77.0847759!16s%2Fg%2F11fx89q5yq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1290,7 +1300,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CVC+Anand+Eye+Hospital+Clear+Vision+Centre/@8.4040167,77.0847759,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae61787b6603:0xcf35828e5d71355f!8m2!3d8.4040167!4d77.0847759!16s%2Fg%2F11fx89q5yq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "daya-healthcare-clinic-and-lab-neyyattinkara",
@@ -1339,7 +1350,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Daya+healthcare+clinic+and+Lab/@8.4153545,77.1082616,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ad005b0fa61b:0xe634f556f1b97a4f!8m2!3d8.4153545!4d77.1082616!16s%2Fg%2F11mkf6n4c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Daya+healthcare+clinic+and+Lab/@8.4153545,77.1082616,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ad005b0fa61b:0xe634f556f1b97a4f!8m2!3d8.4153545!4d77.1082616!16s%2Fg%2F11mkf6n4c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1408,7 +1419,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Daya+healthcare+clinic+and+Lab/@8.4153545,77.1082616,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ad005b0fa61b:0xe634f556f1b97a4f!8m2!3d8.4153545!4d77.1082616!16s%2Fg%2F11mkf6n4c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dent-o-world-dental-clinic-amaravila",
@@ -1456,7 +1468,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/DENT+O+WORLD+DENTAL+CLINIC/@8.3889166,77.1052657,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ad0011325b05:0xe6c7b5f4c8752d2b!8m2!3d8.3889166!4d77.1052657!16s%2Fg%2F11xh1tnq9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENT+O+WORLD+DENTAL+CLINIC/@8.3889166,77.1052657,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ad0011325b05:0xe6c7b5f4c8752d2b!8m2!3d8.3889166!4d77.1052657!16s%2Fg%2F11xh1tnq9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1525,7 +1537,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENT+O+WORLD+DENTAL+CLINIC/@8.3889166,77.1052657,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ad0011325b05:0xe6c7b5f4c8752d2b!8m2!3d8.3889166!4d77.1052657!16s%2Fg%2F11xh1tnq9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divine-dental-clinic-neyyattinkara",
@@ -1573,7 +1586,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Divine+dental+clinic/@8.4065216,77.084512,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afc6cd41d551:0x8e37d8a3b4f0ed2!8m2!3d8.4065216!4d77.084512!16s%2Fg%2F11fl5dn181?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divine+dental+clinic/@8.4065216,77.084512,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afc6cd41d551:0x8e37d8a3b4f0ed2!8m2!3d8.4065216!4d77.084512!16s%2Fg%2F11fl5dn181?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1642,7 +1655,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divine+dental+clinic/@8.4065216,77.084512,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afc6cd41d551:0x8e37d8a3b4f0ed2!8m2!3d8.4065216!4d77.084512!16s%2Fg%2F11fl5dn181?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "general-hospital-neyyattinkara-neyyattinkara",
@@ -1691,7 +1705,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/General+Hospital+Neyyattinkara/@8.4068751,77.0854718,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae63f8402dad:0x3a60182f721eb19f!8m2!3d8.4068751!4d77.0854718!16s%2Fg%2F1hdz2jq74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/General+Hospital+Neyyattinkara/@8.4068751,77.0854718,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae63f8402dad:0x3a60182f721eb19f!8m2!3d8.4068751!4d77.0854718!16s%2Fg%2F1hdz2jq74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1760,7 +1774,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/General+Hospital+Neyyattinkara/@8.4068751,77.0854718,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae63f8402dad:0x3a60182f721eb19f!8m2!3d8.4068751!4d77.0854718!16s%2Fg%2F1hdz2jq74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gg-hospital-thiruvananthapuram",
@@ -1809,7 +1824,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/GG+Hospital/@8.5158075,76.9332973,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bbe4a0f90d19:0x6e5d31275c5199f3!8m2!3d8.5158075!4d76.9332973!16s%2Fg%2F1tf2qnpz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GG+Hospital/@8.5158075,76.9332973,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bbe4a0f90d19:0x6e5d31275c5199f3!8m2!3d8.5158075!4d76.9332973!16s%2Fg%2F1tf2qnpz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1878,7 +1893,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GG+Hospital/@8.5158075,76.9332973,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bbe4a0f90d19:0x6e5d31275c5199f3!8m2!3d8.5158075!4d76.9332973!16s%2Fg%2F1tf2qnpz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gheeth-ivf-kaliyakkavilai",
@@ -1928,7 +1944,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gheeth+IVF/@8.3315343,77.1689177,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ab1704a524f1:0xdd64904bf3dcc0b8!8m2!3d8.3315343!4d77.1689177!16s%2Fg%2F1q62ksxd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gheeth+IVF/@8.3315343,77.1689177,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ab1704a524f1:0xdd64904bf3dcc0b8!8m2!3d8.3315343!4d77.1689177!16s%2Fg%2F1q62ksxd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1997,7 +2013,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gheeth+IVF/@8.3315343,77.1689177,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ab1704a524f1:0xdd64904bf3dcc0b8!8m2!3d8.3315343!4d77.1689177!16s%2Fg%2F1q62ksxd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gnana-prakasam-siddha-kalari-marma-ayurveda-traditional-treatment-g-simon-vaidyar-mavilakadavu-neyyattinkara",
@@ -2046,7 +2063,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gnana+Prakasam+Siddha+Kalari+Marma+Ayurveda+Traditional+Treatment(G.SIMON+VAIDYAR+MAVILAKADAVU)/@8.3444874,77.0935914,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05a97e982913e7:0x8abe9fece17e04d7!8m2!3d8.3444874!4d77.0935914!16s%2Fg%2F11vr2kw3bl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gnana+Prakasam+Siddha+Kalari+Marma+Ayurveda+Traditional+Treatment(G.SIMON+VAIDYAR+MAVILAKADAVU)/@8.3444874,77.0935914,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05a97e982913e7:0x8abe9fece17e04d7!8m2!3d8.3444874!4d77.0935914!16s%2Fg%2F11vr2kw3bl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2112,10 +2129,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gnana+Prakasam+Siddha+Kalari+Marma+Ayurveda+Traditional+Treatment(G.SIMON+VAIDYAR+MAVILAKADAVU)/@8.3444874,77.0935914,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05a97e982913e7:0x8abe9fece17e04d7!8m2!3d8.3444874!4d77.0935914!16s%2Fg%2F11vr2kw3bl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-ayurveda-hospital-moonnukallinmoodu-neyyattinkara",
@@ -2163,7 +2181,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Government+Ayurveda+Hospital,+Moonnukallinmoodu/@8.4091769,77.0757492,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae5cf70a8ed3:0x82ae979fdd6c72d0!8m2!3d8.4091769!4d77.0757492!16s%2Fg%2F1hdz26n15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Ayurveda+Hospital,+Moonnukallinmoodu/@8.4091769,77.0757492,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae5cf70a8ed3:0x82ae979fdd6c72d0!8m2!3d8.4091769!4d77.0757492!16s%2Fg%2F1hdz26n15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2232,7 +2250,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Ayurveda+Hospital,+Moonnukallinmoodu/@8.4091769,77.0757492,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae5cf70a8ed3:0x82ae979fdd6c72d0!8m2!3d8.4091769!4d77.0757492!16s%2Fg%2F1hdz26n15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hacker-surgicals-perumkadavila",
@@ -2280,7 +2299,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Hacker+surgicals/@8.4405186,77.1018945,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af9d2a3fd611:0xb166554c8017d9de!8m2!3d8.4405186!4d77.1018945!16s%2Fg%2F11w_nhxvjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hacker+surgicals/@8.4405186,77.1018945,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af9d2a3fd611:0xb166554c8017d9de!8m2!3d8.4405186!4d77.1018945!16s%2Fg%2F11w_nhxvjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2346,10 +2365,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hacker+surgicals/@8.4405186,77.1018945,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af9d2a3fd611:0xb166554c8017d9de!8m2!3d8.4405186!4d77.1018945!16s%2Fg%2F11w_nhxvjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "isa-medical-and-dental-centre-consultation-centre-maranalloor",
@@ -2398,7 +2418,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ISA+MEDICAL+AND+DENTAL+CENTRE+(Consultation+Centre)/@8.437802,77.0982259,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af0000938055:0x6b8da8379618996!8m2!3d8.437802!4d77.0982259!16s%2Fg%2F11z4bpqct3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ISA+MEDICAL+AND+DENTAL+CENTRE+(Consultation+Centre)/@8.437802,77.0982259,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af0000938055:0x6b8da8379618996!8m2!3d8.437802!4d77.0982259!16s%2Fg%2F11z4bpqct3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2464,10 +2484,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ISA+MEDICAL+AND+DENTAL+CENTRE+(Consultation+Centre)/@8.437802,77.0982259,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af0000938055:0x6b8da8379618996!8m2!3d8.437802!4d77.0982259!16s%2Fg%2F11z4bpqct3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "iza-homoeopathic-clinic-neyyattinkara",
@@ -2514,7 +2535,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Iza+Homoeopathic+clinic/@8.4339457,77.0973418,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af000655f07d:0x49e8d4a50a9f85cb!8m2!3d8.4339457!4d77.0973418!16s%2Fg%2F11vxln1xh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Iza+Homoeopathic+clinic/@8.4339457,77.0973418,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af000655f07d:0x49e8d4a50a9f85cb!8m2!3d8.4339457!4d77.0973418!16s%2Fg%2F11vxln1xh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2580,10 +2601,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Iza+Homoeopathic+clinic/@8.4339457,77.0973418,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af000655f07d:0x49e8d4a50a9f85cb!8m2!3d8.4339457!4d77.0973418!16s%2Fg%2F11vxln1xh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "j-dent-family-aesthetics-dental-clinic-neyyattinkara",
@@ -2631,7 +2653,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/J+DENT+FAMILY+AESTHETICS+DENTAL+CLINIC%C2%AE/@8.3936682,77.0923947,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afa24855de07:0x28233fb2ec25c790!8m2!3d8.3936682!4d77.0923947!16s%2Fg%2F11t2dzr0b_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J+DENT+FAMILY+AESTHETICS+DENTAL+CLINIC%C2%AE/@8.3936682,77.0923947,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afa24855de07:0x28233fb2ec25c790!8m2!3d8.3936682!4d77.0923947!16s%2Fg%2F11t2dzr0b_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2697,10 +2719,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/J+DENT+FAMILY+AESTHETICS+DENTAL+CLINIC%C2%AE/@8.3936682,77.0923947,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afa24855de07:0x28233fb2ec25c790!8m2!3d8.3936682!4d77.0923947!16s%2Fg%2F11t2dzr0b_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeeva-medicare-hospital-athiyannur",
@@ -2748,7 +2771,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Jeeva+Medicare+Hospital/@8.3925889,77.0676081,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af0007c843c7:0xdfc7f2839d0e8113!8m2!3d8.3925889!4d77.0676081!16s%2Fg%2F11x8ltn7gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeeva+Medicare+Hospital/@8.3925889,77.0676081,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af0007c843c7:0xdfc7f2839d0e8113!8m2!3d8.3925889!4d77.0676081!16s%2Fg%2F11x8ltn7gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2814,10 +2837,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeeva+Medicare+Hospital/@8.3925889,77.0676081,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af0007c843c7:0xdfc7f2839d0e8113!8m2!3d8.3925889!4d77.0676081!16s%2Fg%2F11x8ltn7gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "k-v-hospital-neyyattinkara",
@@ -2865,7 +2889,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/K.V.+Hospital/@8.3959722,77.055661,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af01e8ba6897:0x20dc8cd733385866!8m2!3d8.3959722!4d77.055661!16s%2Fg%2F11b7gq0h5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K.V.+Hospital/@8.3959722,77.055661,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af01e8ba6897:0x20dc8cd733385866!8m2!3d8.3959722!4d77.055661!16s%2Fg%2F11b7gq0h5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2934,7 +2958,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/K.V.+Hospital/@8.3959722,77.055661,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af01e8ba6897:0x20dc8cd733385866!8m2!3d8.3959722!4d77.055661!16s%2Fg%2F11b7gq0h5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kripa-clinic-neyyattinkara",
@@ -2982,7 +3007,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kripa+clinic/@8.3894783,77.1630944,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05adf1ca254ee5:0xe13bdc8f06876e4e!8m2!3d8.3894783!4d77.1630944!16s%2Fg%2F11kq9c7zhl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kripa+clinic/@8.3894783,77.1630944,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05adf1ca254ee5:0xe13bdc8f06876e4e!8m2!3d8.3894783!4d77.1630944!16s%2Fg%2F11kq9c7zhl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3048,10 +3073,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kripa+clinic/@8.3894783,77.1630944,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05adf1ca254ee5:0xe13bdc8f06876e4e!8m2!3d8.3894783!4d77.1630944!16s%2Fg%2F11kq9c7zhl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lena-dental-and-homoeo-speciality-clinic-neyyattinkara",
@@ -3100,7 +3126,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lena+Dental+and+Homoeo+Speciality+Clinic/@8.3939375,77.0721875,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afc6ae58e343:0x624c5143aaff4ea0!8m2!3d8.3939375!4d77.0721875!16s%2Fg%2F11p5sfgf_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lena+Dental+and+Homoeo+Speciality+Clinic/@8.3939375,77.0721875,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afc6ae58e343:0x624c5143aaff4ea0!8m2!3d8.3939375!4d77.0721875!16s%2Fg%2F11p5sfgf_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3166,10 +3192,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lena+Dental+and+Homoeo+Speciality+Clinic/@8.3939375,77.0721875,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afc6ae58e343:0x624c5143aaff4ea0!8m2!3d8.3939375!4d77.0721875!16s%2Fg%2F11p5sfgf_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madonna-beauty-clinic-neyyattinkara",
@@ -3218,7 +3245,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Madonna+Beauty+Clinic/@8.3987332,77.0868666,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af39bb6a2fb3:0x3a7bf31fc73b198c!8m2!3d8.3987332!4d77.0868666!16s%2Fg%2F11fd57767g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madonna+Beauty+Clinic/@8.3987332,77.0868666,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af39bb6a2fb3:0x3a7bf31fc73b198c!8m2!3d8.3987332!4d77.0868666!16s%2Fg%2F11fd57767g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3287,7 +3314,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madonna+Beauty+Clinic/@8.3987332,77.0868666,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af39bb6a2fb3:0x3a7bf31fc73b198c!8m2!3d8.3987332!4d77.0868666!16s%2Fg%2F11fd57767g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "matha-home-care-service-24x7-neyyattinkara",
@@ -3336,7 +3364,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MATHA+HOME+CARE+SERVICE+24x7/@8.3665044,77.0951103,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afa6c3664fb1:0x1cdd3266104ccf4d!8m2!3d8.3665044!4d77.0951103!16s%2Fg%2F11v6fs370d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MATHA+HOME+CARE+SERVICE+24x7/@8.3665044,77.0951103,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afa6c3664fb1:0x1cdd3266104ccf4d!8m2!3d8.3665044!4d77.0951103!16s%2Fg%2F11v6fs370d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3402,10 +3430,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MATHA+HOME+CARE+SERVICE+24x7/@8.3665044,77.0951103,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afa6c3664fb1:0x1cdd3266104ccf4d!8m2!3d8.3665044!4d77.0951103!16s%2Fg%2F11v6fs370d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "modern-clinical-laboratory-neyyattinkara",
@@ -3454,7 +3483,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Modern+clinical+laboratory/@8.4066517,77.0844747,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae66b2a25765:0x794509d86fc9f88c!8m2!3d8.4066517!4d77.0844747!16s%2Fg%2F11f4pgfggy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modern+clinical+laboratory/@8.4066517,77.0844747,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae66b2a25765:0x794509d86fc9f88c!8m2!3d8.4066517!4d77.0844747!16s%2Fg%2F11f4pgfggy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3523,7 +3552,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Modern+clinical+laboratory/@8.4066517,77.0844747,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae66b2a25765:0x794509d86fc9f88c!8m2!3d8.4066517!4d77.0844747!16s%2Fg%2F11f4pgfggy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "modern-diagnostic-and-clinical-laboratory-neyyattinkara",
@@ -3572,7 +3602,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Modern+Diagnostic+And+Clinical+Laboratory/@8.4063065,77.0843102,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae614bbd065b:0xe9aa34706f276abc!8m2!3d8.4063065!4d77.0843102!16s%2Fg%2F11xghspvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modern+Diagnostic+And+Clinical+Laboratory/@8.4063065,77.0843102,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae614bbd065b:0xe9aa34706f276abc!8m2!3d8.4063065!4d77.0843102!16s%2Fg%2F11xghspvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3641,7 +3671,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Modern+Diagnostic+And+Clinical+Laboratory/@8.4063065,77.0843102,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae614bbd065b:0xe9aa34706f276abc!8m2!3d8.4063065!4d77.0843102!16s%2Fg%2F11xghspvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "moon-smile-dental-care-neyyattinkara",
@@ -3690,7 +3721,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MOON+SMILE+DENTAL+CARE/@8.4572681,77.0377794,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05b10059c28d6b:0xdced1f66f671568b!8m2!3d8.4572681!4d77.0377794!16s%2Fg%2F11ywrfb4k8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MOON+SMILE+DENTAL+CARE/@8.4572681,77.0377794,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05b10059c28d6b:0xdced1f66f671568b!8m2!3d8.4572681!4d77.0377794!16s%2Fg%2F11ywrfb4k8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3756,10 +3787,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MOON+SMILE+DENTAL+CARE/@8.4572681,77.0377794,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05b10059c28d6b:0xdced1f66f671568b!8m2!3d8.4572681!4d77.0377794!16s%2Fg%2F11ywrfb4k8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mukhasree-beauty-clinic-neyyattinkara",
@@ -3808,7 +3840,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mukhasree+Beauty+Clinic/@8.4015057,77.088468,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae627a46089f:0xc77a76d725a85518!8m2!3d8.4015057!4d77.088468!16s%2Fg%2F11tcx8032v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mukhasree+Beauty+Clinic/@8.4015057,77.088468,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae627a46089f:0xc77a76d725a85518!8m2!3d8.4015057!4d77.088468!16s%2Fg%2F11tcx8032v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3874,10 +3906,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mukhasree+Beauty+Clinic/@8.4015057,77.088468,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae627a46089f:0xc77a76d725a85518!8m2!3d8.4015057!4d77.088468!16s%2Fg%2F11tcx8032v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "naira-s-hearing-world-best-hearing-aid-clinic-neyyattinkara-neyyattinkara",
@@ -3927,7 +3960,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Naira%27s+Hearing+World+%7C+Best+Hearing+Aid+Clinic+%7C+Neyyattinkara/data=!4m7!3m6!1s0x3b05afcd6cd5387d:0x19c53dcc62ac6dcb!8m2!3d8.4083429!4d77.081573!16s%2Fg%2F11mz9pngrc!19sChIJfTjVbM2vBTsRy22sYsw9xRk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naira%27s+Hearing+World+%7C+Best+Hearing+Aid+Clinic+%7C+Neyyattinkara/data=!4m7!3m6!1s0x3b05afcd6cd5387d:0x19c53dcc62ac6dcb!8m2!3d8.4083429!4d77.081573!16s%2Fg%2F11mz9pngrc!19sChIJfTjVbM2vBTsRy22sYsw9xRk?authuser=0&hl=en&rclk=1"
@@ -3993,10 +4026,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Naira%27s+Hearing+World+%7C+Best+Hearing+Aid+Clinic+%7C+Neyyattinkara/data=!4m7!3m6!1s0x3b05afcd6cd5387d:0x19c53dcc62ac6dcb!8m2!3d8.4083429!4d77.081573!16s%2Fg%2F11mz9pngrc!19sChIJfTjVbM2vBTsRy22sYsw9xRk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neo-dental-clinic-neyyattinkara",
@@ -4044,7 +4078,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Neo+Dental+Clinic/@8.3978695,77.0890301,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae88efdeec7d:0xc1c3f0d042a72ddb!8m2!3d8.3978695!4d77.0890301!16s%2Fg%2F11b74p0m7y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neo+Dental+Clinic/@8.3978695,77.0890301,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae88efdeec7d:0xc1c3f0d042a72ddb!8m2!3d8.3978695!4d77.0890301!16s%2Fg%2F11b74p0m7y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4113,7 +4147,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neo+Dental+Clinic/@8.3978695,77.0890301,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae88efdeec7d:0xc1c3f0d042a72ddb!8m2!3d8.3978695!4d77.0890301!16s%2Fg%2F11b74p0m7y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "newlife-physiotherapy-hospital-and-rehabilitation-centre-npr-neyyattinkara",
@@ -4163,7 +4198,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NEWLIFE+PHYSIOTHERAPY+HOSPITAL+AND+REHABILITATION+CENTRE%28NPR%29/data=!4m7!3m6!1s0x3b05af2dfd30128f:0xac70c95e141bbf31!8m2!3d8.4079541!4d77.0857971!16s%2Fg%2F11jdjccvgf!19sChIJjxIw_S2vBTsRMb8bFF7JcKw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEWLIFE+PHYSIOTHERAPY+HOSPITAL+AND+REHABILITATION+CENTRE%28NPR%29/data=!4m7!3m6!1s0x3b05af2dfd30128f:0xac70c95e141bbf31!8m2!3d8.4079541!4d77.0857971!16s%2Fg%2F11jdjccvgf!19sChIJjxIw_S2vBTsRMb8bFF7JcKw?authuser=0&hl=en&rclk=1"
@@ -4229,10 +4264,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEWLIFE+PHYSIOTHERAPY+HOSPITAL+AND+REHABILITATION+CENTRE%28NPR%29/data=!4m7!3m6!1s0x3b05af2dfd30128f:0xac70c95e141bbf31!8m2!3d8.4079541!4d77.0857971!16s%2Fg%2F11jdjccvgf!19sChIJjxIw_S2vBTsRMb8bFF7JcKw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neyyar-medicity-kattakkada",
@@ -4281,7 +4317,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Neyyar+Medicity/@8.5016721,77.0699583,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05b169c28c723f:0xd9391deca666e61d!8m2!3d8.5016721!4d77.0699583!16s%2Fg%2F11h37lhq6q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neyyar+Medicity/@8.5016721,77.0699583,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05b169c28c723f:0xd9391deca666e61d!8m2!3d8.5016721!4d77.0699583!16s%2Fg%2F11h37lhq6q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4350,7 +4386,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neyyar+Medicity/@8.5016721,77.0699583,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05b169c28c723f:0xd9391deca666e61d!8m2!3d8.5016721!4d77.0699583!16s%2Fg%2F11h37lhq6q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neyyatinkara-general-hospital-op-block-neyyattinkara",
@@ -4398,7 +4435,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Neyyatinkara+General+Hospital+OP+Block/@8.4066312,77.0852521,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae6400074421:0xcb9f911fb5717b19!8m2!3d8.4066312!4d77.0852521!16s%2Fg%2F11bz089qt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neyyatinkara+General+Hospital+OP+Block/@8.4066312,77.0852521,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae6400074421:0xcb9f911fb5717b19!8m2!3d8.4066312!4d77.0852521!16s%2Fg%2F11bz089qt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4467,7 +4504,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neyyatinkara+General+Hospital+OP+Block/@8.4066312,77.0852521,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae6400074421:0xcb9f911fb5717b19!8m2!3d8.4066312!4d77.0852521!16s%2Fg%2F11bz089qt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nims-heart-foundation-nims-aralummoodu",
@@ -4517,7 +4555,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NIMS+Heart+Foundation/@8.4122463,77.0665724,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae4fe9cd3125:0x6e4a1f8984155036!8m2!3d8.4122463!4d77.0665724!16s%2Fg%2F11c45cw9sp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIMS+Heart+Foundation/@8.4122463,77.0665724,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae4fe9cd3125:0x6e4a1f8984155036!8m2!3d8.4122463!4d77.0665724!16s%2Fg%2F11c45cw9sp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4586,7 +4624,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NIMS+Heart+Foundation/@8.4122463,77.0665724,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae4fe9cd3125:0x6e4a1f8984155036!8m2!3d8.4122463!4d77.0665724!16s%2Fg%2F11c45cw9sp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nims-hospital-neyyattinkara",
@@ -4635,7 +4674,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NIMS+Hospital/data=!4m7!3m6!1s0x3b05af08ada78f17:0x266275e9e01868be!8m2!3d8.4122195!4d77.0659184!16s%2Fm%2F0wbj92k!19sChIJF4-nrQivBTsRvmgY4Ol1YiY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIMS+Hospital/data=!4m7!3m6!1s0x3b05af08ada78f17:0x266275e9e01868be!8m2!3d8.4122195!4d77.0659184!16s%2Fm%2F0wbj92k!19sChIJF4-nrQivBTsRvmgY4Ol1YiY?authuser=0&hl=en&rclk=1"
@@ -4704,7 +4743,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NIMS+Hospital/data=!4m7!3m6!1s0x3b05af08ada78f17:0x266275e9e01868be!8m2!3d8.4122195!4d77.0659184!16s%2Fm%2F0wbj92k!19sChIJF4-nrQivBTsRvmgY4Ol1YiY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nims-hospital-mosque-neyyattinkara",
@@ -4753,7 +4793,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/NIMS+Hospital+Mosque/@8.412463,77.0657494,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afe46bb21d77:0xcfb9a75ef460c5f6!8m2!3d8.412463!4d77.0657494!16s%2Fg%2F11hzxyy2wy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIMS+Hospital+Mosque/@8.412463,77.0657494,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afe46bb21d77:0xcfb9a75ef460c5f6!8m2!3d8.412463!4d77.0657494!16s%2Fg%2F11hzxyy2wy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4822,7 +4862,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NIMS+Hospital+Mosque/@8.412463,77.0657494,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afe46bb21d77:0xcfb9a75ef460c5f6!8m2!3d8.412463!4d77.0657494!16s%2Fg%2F11hzxyy2wy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "noorul-islam-institute-of-medical-science-and-research-foundation-neyyattinkara",
@@ -4870,7 +4911,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Noorul+Islam+Institute+Of+Medical+Science+And+Research+Foundation/@8.4122378,77.0658993,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae4fc6f37f4b:0xad2458edd322e328!8m2!3d8.4122378!4d77.0658993!16s%2Fg%2F11mxn2l03b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Noorul+Islam+Institute+Of+Medical+Science+And+Research+Foundation/@8.4122378,77.0658993,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae4fc6f37f4b:0xad2458edd322e328!8m2!3d8.4122378!4d77.0658993!16s%2Fg%2F11mxn2l03b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4936,10 +4977,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Noorul+Islam+Institute+Of+Medical+Science+And+Research+Foundation/@8.4122378,77.0658993,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae4fc6f37f4b:0xad2458edd322e328!8m2!3d8.4122378!4d77.0658993!16s%2Fg%2F11mxn2l03b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "orchid-beauty-clinic-and-study-center-neyyattinkara",
@@ -4988,7 +5030,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Orchid+Beauty+Clinic+%26+Study+Center/@8.4096111,77.0858699,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af8917891425:0x96ed61aee4aded65!8m2!3d8.4096111!4d77.0858699!16s%2Fg%2F11mvrpd63c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orchid+Beauty+Clinic+%26+Study+Center/@8.4096111,77.0858699,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af8917891425:0x96ed61aee4aded65!8m2!3d8.4096111!4d77.0858699!16s%2Fg%2F11mvrpd63c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5057,7 +5099,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Orchid+Beauty+Clinic+%26+Study+Center/@8.4096111,77.0858699,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af8917891425:0x96ed61aee4aded65!8m2!3d8.4096111!4d77.0858699!16s%2Fg%2F11mvrpd63c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pallavi-hospital-athiyannur",
@@ -5105,7 +5148,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Pallavi+Hospital/@8.3615889,77.0792403,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05aeca779fb7d5:0x6a2aebd963f7adfb!8m2!3d8.3615889!4d77.0792403!16s%2Fg%2F12625n4j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pallavi+Hospital/@8.3615889,77.0792403,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05aeca779fb7d5:0x6a2aebd963f7adfb!8m2!3d8.3615889!4d77.0792403!16s%2Fg%2F12625n4j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5171,10 +5214,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pallavi+Hospital/@8.3615889,77.0792403,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05aeca779fb7d5:0x6a2aebd963f7adfb!8m2!3d8.3615889!4d77.0792403!16s%2Fg%2F12625n4j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ponnambalam-child-care-neyyattinkara",
@@ -5224,7 +5268,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ponnambalam+Child+Care/@8.393366,77.0891909,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af0db6b9e139:0x6510258ee6dad34c!8m2!3d8.393366!4d77.0891909!16s%2Fg%2F11f767wnyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ponnambalam+Child+Care/@8.393366,77.0891909,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af0db6b9e139:0x6510258ee6dad34c!8m2!3d8.393366!4d77.0891909!16s%2Fg%2F11f767wnyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5293,7 +5337,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ponnambalam+Child+Care/@8.393366,77.0891909,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af0db6b9e139:0x6510258ee6dad34c!8m2!3d8.393366!4d77.0891909!16s%2Fg%2F11f767wnyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pran-fertility-and-well-woman-centre-thiruvananthapuram",
@@ -5344,7 +5389,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/PRAN+FERTILITY+AND+WELL+WOMAN+CENTRE/@8.5160155,76.9022406,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bbf0827e3135:0x143e0b10f447416e!8m2!3d8.5160155!4d76.9022406!16s%2Fg%2F11c2k487rp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRAN+FERTILITY+AND+WELL+WOMAN+CENTRE/@8.5160155,76.9022406,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bbf0827e3135:0x143e0b10f447416e!8m2!3d8.5160155!4d76.9022406!16s%2Fg%2F11c2k487rp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5413,7 +5458,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PRAN+FERTILITY+AND+WELL+WOMAN+CENTRE/@8.5160155,76.9022406,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bbf0827e3135:0x143e0b10f447416e!8m2!3d8.5160155!4d76.9022406!16s%2Fg%2F11c2k487rp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pran-hospital-thiruvananthapuram",
@@ -5462,7 +5508,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pran+Hospital/data=!4m7!3m6!1s0x3b05bd8b16fea491:0xf38dd43816526fcd!8m2!3d8.5160078!4d76.9022274!16s%2Fg%2F11xcw9mv8j!19sChIJkaT-Fou9BTsRzW9SFjjUjfM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pran+Hospital/data=!4m7!3m6!1s0x3b05bd8b16fea491:0xf38dd43816526fcd!8m2!3d8.5160078!4d76.9022274!16s%2Fg%2F11xcw9mv8j!19sChIJkaT-Fou9BTsRzW9SFjjUjfM?authuser=0&hl=en&rclk=1"
@@ -5528,10 +5574,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pran+Hospital/data=!4m7!3m6!1s0x3b05bd8b16fea491:0xf38dd43816526fcd!8m2!3d8.5160078!4d76.9022274!16s%2Fg%2F11xcw9mv8j!19sChIJkaT-Fou9BTsRzW9SFjjUjfM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rollands-hospital-neyyattinkara",
@@ -5580,7 +5627,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rollands+Hospital/@8.4123149,77.0715672,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae5b22905303:0xea26c822bd36cd04!8m2!3d8.4123149!4d77.0715672!16s%2Fg%2F1tlqndzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rollands+Hospital/@8.4123149,77.0715672,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae5b22905303:0xea26c822bd36cd04!8m2!3d8.4123149!4d77.0715672!16s%2Fg%2F1tlqndzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5649,7 +5696,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rollands+Hospital/@8.4123149,77.0715672,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae5b22905303:0xea26c822bd36cd04!8m2!3d8.4123149!4d77.0715672!16s%2Fg%2F1tlqndzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "royal-medicity-hospital-neyyattinkara",
@@ -5697,7 +5745,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Royal+Medicity+Hospital/@8.3619449,77.079653,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afd20c5fbb89:0xb1efec7131b9dd5!8m2!3d8.3619449!4d77.079653!16s%2Fg%2F11qprxjml5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+Medicity+Hospital/@8.3619449,77.079653,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afd20c5fbb89:0xb1efec7131b9dd5!8m2!3d8.3619449!4d77.079653!16s%2Fg%2F11qprxjml5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5766,7 +5814,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Royal+Medicity+Hospital/@8.3619449,77.079653,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05afd20c5fbb89:0xb1efec7131b9dd5!8m2!3d8.3619449!4d77.079653!16s%2Fg%2F11qprxjml5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rro-diagnostics-neyyattinkara",
@@ -5815,7 +5864,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/RRO+Diagnostics/@8.4065625,77.0848774,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae6154bbd8d7:0xff8dc9a6f5535a96!8m2!3d8.4065625!4d77.0848774!16s%2Fg%2F11x9r022l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RRO+Diagnostics/@8.4065625,77.0848774,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae6154bbd8d7:0xff8dc9a6f5535a96!8m2!3d8.4065625!4d77.0848774!16s%2Fg%2F11x9r022l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5884,7 +5933,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RRO+Diagnostics/@8.4065625,77.0848774,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae6154bbd8d7:0xff8dc9a6f5535a96!8m2!3d8.4065625!4d77.0848774!16s%2Fg%2F11x9r022l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-and-s-surgicals-neyyattinkara",
@@ -5933,7 +5983,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/S+%26+S+Surgicals/data=!4m7!3m6!1s0x3b05af19c35cf4a1:0x3be146d529ef3803!8m2!3d8.4059461!4d77.0847668!16s%2Fg%2F11s0tmnf01!19sChIJofRcwxmvBTsRAzjvKdVG4Ts?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+%26+S+Surgicals/data=!4m7!3m6!1s0x3b05af19c35cf4a1:0x3be146d529ef3803!8m2!3d8.4059461!4d77.0847668!16s%2Fg%2F11s0tmnf01!19sChIJofRcwxmvBTsRAzjvKdVG4Ts?authuser=0&hl=en&rclk=1"
@@ -5999,10 +6049,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+%26+S+Surgicals/data=!4m7!3m6!1s0x3b05af19c35cf4a1:0x3be146d529ef3803!8m2!3d8.4059461!4d77.0847668!16s%2Fg%2F11s0tmnf01!19sChIJofRcwxmvBTsRAzjvKdVG4Ts?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "samad-hospital-thiruvananthapuram",
@@ -6051,7 +6102,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Samad+Hospital/@8.4953603,76.936755,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bba698de1ad9:0x51403b176ae72235!8m2!3d8.4953603!4d76.936755!16s%2Fg%2F1tglfrhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samad+Hospital/@8.4953603,76.936755,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bba698de1ad9:0x51403b176ae72235!8m2!3d8.4953603!4d76.936755!16s%2Fg%2F1tglfrhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6120,7 +6171,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samad+Hospital/@8.4953603,76.936755,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bba698de1ad9:0x51403b176ae72235!8m2!3d8.4953603!4d76.936755!16s%2Fg%2F1tglfrhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saraswathy-hospital-parassala",
@@ -6169,7 +6221,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Saraswathy+Hospital/@8.348764,77.148677,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ab77dbc0a393:0xf6b42ab5acf44c02!8m2!3d8.348764!4d77.148677!16s%2Fg%2F1tj2g9qk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saraswathy+Hospital/@8.348764,77.148677,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ab77dbc0a393:0xf6b42ab5acf44c02!8m2!3d8.348764!4d77.148677!16s%2Fg%2F1tj2g9qk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6238,7 +6290,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saraswathy+Hospital/@8.348764,77.148677,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ab77dbc0a393:0xf6b42ab5acf44c02!8m2!3d8.348764!4d77.148677!16s%2Fg%2F1tj2g9qk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-craft-dental-clinic-and-bls-acls-pals-courses-in-neyyattinkara-neyyattinkara",
@@ -6287,7 +6340,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Craft+Dental+Clinic+%26+BLS+ACLS+PALS+Courses+in+Neyyattinkara/@8.3970625,77.0890625,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af0f768dab19:0xb088921f7de00a37!8m2!3d8.3970625!4d77.0890625!16s%2Fg%2F11wpppdssq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Craft+Dental+Clinic+%26+BLS+ACLS+PALS+Courses+in+Neyyattinkara/@8.3970625,77.0890625,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af0f768dab19:0xb088921f7de00a37!8m2!3d8.3970625!4d77.0890625!16s%2Fg%2F11wpppdssq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6356,7 +6409,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Craft+Dental+Clinic+%26+BLS+ACLS+PALS+Courses+in+Neyyattinkara/@8.3970625,77.0890625,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af0f768dab19:0xb088921f7de00a37!8m2!3d8.3970625!4d77.0890625!16s%2Fg%2F11wpppdssq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sp-medifort-hospital-thiruvananthapuram",
@@ -6405,7 +6459,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SP+Medifort+Hospital/@8.484393,76.9293629,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bb8bd25bb37f:0xe6eb1debf8a21ac7!8m2!3d8.484393!4d76.9293629!16s%2Fg%2F11fr9qgc9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SP+Medifort+Hospital/@8.484393,76.9293629,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bb8bd25bb37f:0xe6eb1debf8a21ac7!8m2!3d8.484393!4d76.9293629!16s%2Fg%2F11fr9qgc9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6474,7 +6528,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SP+Medifort+Hospital/@8.484393,76.9293629,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bb8bd25bb37f:0xe6eb1debf8a21ac7!8m2!3d8.484393!4d76.9293629!16s%2Fg%2F11fr9qgc9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sp-well-fort-thiruvananthapuram",
@@ -6523,7 +6578,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SP+Well+Fort/@8.5121696,76.9754374,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bb7c1cf4b7e9:0x1305a3c64e0470a5!8m2!3d8.5121696!4d76.9754374!16s%2Fg%2F11j1m1xdlw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SP+Well+Fort/@8.5121696,76.9754374,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bb7c1cf4b7e9:0x1305a3c64e0470a5!8m2!3d8.5121696!4d76.9754374!16s%2Fg%2F11j1m1xdlw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6592,7 +6647,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SP+Well+Fort/@8.5121696,76.9754374,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bb7c1cf4b7e9:0x1305a3c64e0470a5!8m2!3d8.5121696!4d76.9754374!16s%2Fg%2F11j1m1xdlw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "speciality-dental-care-neyyattinkara",
@@ -6641,7 +6697,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Speciality+Dental+Care/@8.3975437,77.0912083,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae86212fe423:0xb99a229bbea3954c!8m2!3d8.3975437!4d77.0912083!16s%2Fg%2F11b73t1d3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Speciality+Dental+Care/@8.3975437,77.0912083,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae86212fe423:0xb99a229bbea3954c!8m2!3d8.3975437!4d77.0912083!16s%2Fg%2F11b73t1d3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6707,10 +6763,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Speciality+Dental+Care/@8.3975437,77.0912083,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae86212fe423:0xb99a229bbea3954c!8m2!3d8.3975437!4d77.0912083!16s%2Fg%2F11b73t1d3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-chitra-dental-clinic-neyyattinkara",
@@ -6758,7 +6815,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Chitra+Dental+Clinic/@8.4093532,77.0825941,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae6655b0cbd5:0x4f62fab347ba885e!8m2!3d8.4093532!4d77.0825941!16s%2Fg%2F11g8w54z0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Chitra+Dental+Clinic/@8.4093532,77.0825941,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae6655b0cbd5:0x4f62fab347ba885e!8m2!3d8.4093532!4d77.0825941!16s%2Fg%2F11g8w54z0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6824,10 +6881,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Chitra+Dental+Clinic/@8.4093532,77.0825941,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae6655b0cbd5:0x4f62fab347ba885e!8m2!3d8.4093532!4d77.0825941!16s%2Fg%2F11g8w54z0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sreenethra-eye-care-neyyattinkara-neyyattinkara",
@@ -6877,7 +6935,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sreenethra+Eye+Care+Neyyattinkara/@8.4041945,77.0850965,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af17c449c337:0xa9a897f60e6f605f!8m2!3d8.4041945!4d77.0850965!16s%2Fg%2F11n5clqgwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sreenethra+Eye+Care+Neyyattinkara/@8.4041945,77.0850965,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af17c449c337:0xa9a897f60e6f605f!8m2!3d8.4041945!4d77.0850965!16s%2Fg%2F11n5clqgwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6946,7 +7004,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sreenethra+Eye+Care+Neyyattinkara/@8.4041945,77.0850965,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af17c449c337:0xa9a897f60e6f605f!8m2!3d8.4041945!4d77.0850965!16s%2Fg%2F11n5clqgwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "suvarna-aesthetics-thiruvananthapuram",
@@ -6995,7 +7054,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Suvarna+Aesthetics/data=!4m7!3m6!1s0x3b05ba36dc5fb291:0x152fd78314de4d3f!8m2!3d8.5091118!4d76.9724308!16s%2Fg%2F11b6z2cy8j!19sChIJkbJf3Da6BTsRP03eFIPXLxU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suvarna+Aesthetics/data=!4m7!3m6!1s0x3b05ba36dc5fb291:0x152fd78314de4d3f!8m2!3d8.5091118!4d76.9724308!16s%2Fg%2F11b6z2cy8j!19sChIJkbJf3Da6BTsRP03eFIPXLxU?authuser=0&hl=en&rclk=1"
@@ -7064,7 +7123,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suvarna+Aesthetics/data=!4m7!3m6!1s0x3b05ba36dc5fb291:0x152fd78314de4d3f!8m2!3d8.5091118!4d76.9724308!16s%2Fg%2F11b6z2cy8j!19sChIJkbJf3Da6BTsRP03eFIPXLxU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "swasthya-ayurveda-neyyattinkara-neyyattinkara",
@@ -7113,7 +7173,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Swasthya+Ayurveda+Neyyattinkara/@8.3885769,77.1009926,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af5e4c9499fd:0x483ce6bd2d7a0a18!8m2!3d8.3885769!4d77.1009926!16s%2Fg%2F11yl73zctt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swasthya+Ayurveda+Neyyattinkara/@8.3885769,77.1009926,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af5e4c9499fd:0x483ce6bd2d7a0a18!8m2!3d8.3885769!4d77.1009926!16s%2Fg%2F11yl73zctt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7179,10 +7239,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swasthya+Ayurveda+Neyyattinkara/@8.3885769,77.1009926,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af5e4c9499fd:0x483ce6bd2d7a0a18!8m2!3d8.3885769!4d77.1009926!16s%2Fg%2F11yl73zctt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "team-rehab-physio-clinic-and-study-centre-neyyattinkara-neyyattinkara",
@@ -7231,7 +7292,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Team+Rehab+Physio+Clinic+%26+Study+Centre,+Neyyattinkara/@8.3938111,77.0920811,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af28957118bd:0x7f6377ba415f5dbc!8m2!3d8.3938111!4d77.0920811!16s%2Fg%2F11f9wpn43q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Team+Rehab+Physio+Clinic+%26+Study+Centre,+Neyyattinkara/@8.3938111,77.0920811,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af28957118bd:0x7f6377ba415f5dbc!8m2!3d8.3938111!4d77.0920811!16s%2Fg%2F11f9wpn43q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7297,10 +7358,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Team+Rehab+Physio+Clinic+%26+Study+Centre,+Neyyattinkara/@8.3938111,77.0920811,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af28957118bd:0x7f6377ba415f5dbc!8m2!3d8.3938111!4d77.0920811!16s%2Fg%2F11f9wpn43q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-nest-woman-wellness-and-fertility-clinic-thiruvananthapuram",
@@ -7352,7 +7414,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Nest+Woman+Wellness+and+Fertility+Clinic/@8.4938928,76.9673283,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bb88c527cde7:0xbe0a0269fbe3a5c9!8m2!3d8.4938928!4d76.9673283!16s%2Fg%2F11h7z1v5fd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Nest+Woman+Wellness+and+Fertility+Clinic/@8.4938928,76.9673283,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bb88c527cde7:0xbe0a0269fbe3a5c9!8m2!3d8.4938928!4d76.9673283!16s%2Fg%2F11h7z1v5fd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7418,10 +7480,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Nest+Woman+Wellness+and+Fertility+Clinic/@8.4938928,76.9673283,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bb88c527cde7:0xbe0a0269fbe3a5c9!8m2!3d8.4938928!4d76.9673283!16s%2Fg%2F11h7z1v5fd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "travancore-hearing-solutions-neyyattinkara",
@@ -7471,7 +7534,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Travancore+Hearing+Solutions/@8.4076752,77.0848729,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae8f00000001:0xba1d395715435214!8m2!3d8.4076752!4d77.0848729!16s%2Fg%2F11fm3hk1zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Travancore+Hearing+Solutions/@8.4076752,77.0848729,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae8f00000001:0xba1d395715435214!8m2!3d8.4076752!4d77.0848729!16s%2Fg%2F11fm3hk1zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7540,7 +7603,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Travancore+Hearing+Solutions/@8.4076752,77.0848729,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae8f00000001:0xba1d395715435214!8m2!3d8.4076752!4d77.0848729!16s%2Fg%2F11fm3hk1zb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "v-care-skin-clinic-and-piles-centre-kattakkada",
@@ -7588,7 +7652,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/V+Care+Skin+Clinic%26+Piles+Centre/@8.5052127,77.0769678,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05b114fbd73df3:0xb740a437f090c49!8m2!3d8.5052127!4d77.0769678!16s%2Fg%2F11f5bp8hnw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V+Care+Skin+Clinic%26+Piles+Centre/@8.5052127,77.0769678,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05b114fbd73df3:0xb740a437f090c49!8m2!3d8.5052127!4d77.0769678!16s%2Fg%2F11f5bp8hnw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7654,10 +7718,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/V+Care+Skin+Clinic%26+Piles+Centre/@8.5052127,77.0769678,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05b114fbd73df3:0xb740a437f090c49!8m2!3d8.5052127!4d77.0769678!16s%2Fg%2F11f5bp8hnw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vedraksha-ayurveda-neyyattinkara",
@@ -7705,7 +7770,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/VEDRAKSHA+AYURVEDA/data=!4m7!3m6!1s0x3b05afd59a94e6b1:0x84dd283023174fea!8m2!3d8.3916079!4d77.0882855!16s%2Fg%2F11zk831xrl!19sChIJseaUmtWvBTsR6k8XIzAo3YQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VEDRAKSHA+AYURVEDA/data=!4m7!3m6!1s0x3b05afd59a94e6b1:0x84dd283023174fea!8m2!3d8.3916079!4d77.0882855!16s%2Fg%2F11zk831xrl!19sChIJseaUmtWvBTsR6k8XIzAo3YQ?authuser=0&hl=en&rclk=1"
@@ -7771,10 +7836,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VEDRAKSHA+AYURVEDA/data=!4m7!3m6!1s0x3b05afd59a94e6b1:0x84dd283023174fea!8m2!3d8.3916079!4d77.0882855!16s%2Fg%2F11zk831xrl!19sChIJseaUmtWvBTsR6k8XIzAo3YQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "venad-scans-and-laboratory-neyyattinkara",
@@ -7824,7 +7890,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Venad+Scans+%26+Laboratory/@8.407668,77.0849813,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae66a1344bb9:0xb9f717a9ebebe93c!8m2!3d8.407668!4d77.0849813!16s%2Fg%2F11f2b6d7kk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Venad+Scans+%26+Laboratory/@8.407668,77.0849813,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae66a1344bb9:0xb9f717a9ebebe93c!8m2!3d8.407668!4d77.0849813!16s%2Fg%2F11f2b6d7kk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7893,7 +7959,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Venad+Scans+%26+Laboratory/@8.407668,77.0849813,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05ae66a1344bb9:0xb9f717a9ebebe93c!8m2!3d8.407668!4d77.0849813!16s%2Fg%2F11f2b6d7kk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wear-a-smile-neyyattinkara",
@@ -7942,7 +8009,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/WEAR+A+SMILE/@8.4120172,77.0658003,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af9ea532eddd:0x6a828779f1509b71!8m2!3d8.4120172!4d77.0658003!16s%2Fg%2F11r_xvtgcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/WEAR+A+SMILE/@8.4120172,77.0658003,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af9ea532eddd:0x6a828779f1509b71!8m2!3d8.4120172!4d77.0658003!16s%2Fg%2F11r_xvtgcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8008,10 +8075,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/WEAR+A+SMILE/@8.4120172,77.0658003,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af9ea532eddd:0x6a828779f1509b71!8m2!3d8.4120172!4d77.0658003!16s%2Fg%2F11r_xvtgcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wowfactor-medicosmetic-skin-and-laser-centre-nanthancodu",
@@ -8060,7 +8128,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/WowFactor+MediCosmetic+Skin+%26+Laser+Centre/@8.5181014,76.9510597,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bbd21b136f89:0xe16810db40c26732!8m2!3d8.5181014!4d76.9510597!16s%2Fg%2F11bw21f9zn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/WowFactor+MediCosmetic+Skin+%26+Laser+Centre/@8.5181014,76.9510597,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bbd21b136f89:0xe16810db40c26732!8m2!3d8.5181014!4d76.9510597!16s%2Fg%2F11bw21f9zn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8129,7 +8197,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/WowFactor+MediCosmetic+Skin+%26+Laser+Centre/@8.5181014,76.9510597,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bbd21b136f89:0xe16810db40c26732!8m2!3d8.5181014!4d76.9510597!16s%2Fg%2F11bw21f9zn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yana-ivf-yana-women-s-hospital-and-fertility-centre-thiruvananthapuram-thiruvananthapuram",
@@ -8180,7 +8249,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yana+IVF+-+Yana+Women's+Hospital+and+Fertility+Centre+-+Thiruvananthapuram/@8.5278044,76.9261153,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05b9325267df7f:0xe1f5b92574b1db0e!8m2!3d8.5278044!4d76.9261153!16s%2Fg%2F11qpff2sp_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yana+IVF+-+Yana+Women's+Hospital+and+Fertility+Centre+-+Thiruvananthapuram/@8.5278044,76.9261153,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05b9325267df7f:0xe1f5b92574b1db0e!8m2!3d8.5278044!4d76.9261153!16s%2Fg%2F11qpff2sp_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8249,6 +8318,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yana+IVF+-+Yana+Women's+Hospital+and+Fertility+Centre+-+Thiruvananthapuram/@8.5278044,76.9261153,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05b9325267df7f:0xe1f5b92574b1db0e!8m2!3d8.5278044!4d76.9261153!16s%2Fg%2F11qpff2sp_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

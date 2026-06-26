@@ -47,7 +47,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aastha+Dental+Clinic+(%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE+%E0%A4%A6%E0%A4%BE%E0%A4%81%E0%A4%A4%E0%A5%8B+%E0%A4%95%E0%A4%BE+%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2)/@29.1632888,75.7191863,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336ff61a7085:0x3c3e1caf47824174!8m2!3d29.1632888!4d75.7191863!16s%2Fg%2F11h3nn5tvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+Dental+Clinic+(%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE+%E0%A4%A6%E0%A4%BE%E0%A4%81%E0%A4%A4%E0%A5%8B+%E0%A4%95%E0%A4%BE+%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2)/@29.1632888,75.7191863,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336ff61a7085:0x3c3e1caf47824174!8m2!3d29.1632888!4d75.7191863!16s%2Fg%2F11h3nn5tvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -116,7 +116,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aastha+Dental+Clinic+(%E0%A4%86%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE+%E0%A4%A6%E0%A4%BE%E0%A4%81%E0%A4%A4%E0%A5%8B+%E0%A4%95%E0%A4%BE+%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2)/@29.1632888,75.7191863,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336ff61a7085:0x3c3e1caf47824174!8m2!3d29.1632888!4d75.7191863!16s%2Fg%2F11h3nn5tvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amandeep-hospital-hisar",
@@ -165,7 +166,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Amandeep+Hospital/@29.1180451,75.75089,17z/data=!3m1!4b1!4m6!3m5!1s0x391233044a6d4467:0x4e14c5c789d39515!8m2!3d29.1180451!4d75.75089!16s%2Fg%2F11fk41db05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amandeep+Hospital/@29.1180451,75.75089,17z/data=!3m1!4b1!4m6!3m5!1s0x391233044a6d4467:0x4e14c5c789d39515!8m2!3d29.1180451!4d75.75089!16s%2Fg%2F11fk41db05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -234,7 +235,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amandeep+Hospital/@29.1180451,75.75089,17z/data=!3m1!4b1!4m6!3m5!1s0x391233044a6d4467:0x4e14c5c789d39515!8m2!3d29.1180451!4d75.75089!16s%2Fg%2F11fk41db05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anil-dental-clinic-hisar",
@@ -282,7 +284,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Anil+Dental+Clinic/@29.1678334,75.7175696,17z/data=!3m1!4b1!4m6!3m5!1s0x391232d3e8323b95:0xc0935771692614f5!8m2!3d29.1678334!4d75.7175696!16s%2Fg%2F11f24tx3vs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anil+Dental+Clinic/@29.1678334,75.7175696,17z/data=!3m1!4b1!4m6!3m5!1s0x391232d3e8323b95:0xc0935771692614f5!8m2!3d29.1678334!4d75.7175696!16s%2Fg%2F11f24tx3vs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -348,10 +350,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anil+Dental+Clinic/@29.1678334,75.7175696,17z/data=!3m1!4b1!4m6!3m5!1s0x391232d3e8323b95:0xc0935771692614f5!8m2!3d29.1678334!4d75.7175696!16s%2Fg%2F11f24tx3vs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashish-dental-care-hisar",
@@ -399,7 +402,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Ashish+Dental+Care/@29.1710444,75.7069822,17z/data=!3m1!4b1!4m6!3m5!1s0x3913cde8221f8e63:0x2748b11341f8f8d1!8m2!3d29.1710444!4d75.7069822!16s%2Fg%2F11rvlpmxvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashish+Dental+Care/@29.1710444,75.7069822,17z/data=!3m1!4b1!4m6!3m5!1s0x3913cde8221f8e63:0x2748b11341f8f8d1!8m2!3d29.1710444!4d75.7069822!16s%2Fg%2F11rvlpmxvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -465,10 +468,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashish+Dental+Care/@29.1710444,75.7069822,17z/data=!3m1!4b1!4m6!3m5!1s0x3913cde8221f8e63:0x2748b11341f8f8d1!8m2!3d29.1710444!4d75.7069822!16s%2Fg%2F11rvlpmxvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashok-hospital-hisar",
@@ -516,7 +520,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/ASHOK+HOSPITAL/@29.1420276,75.7206491,17z/data=!3m1!4b1!4m6!3m5!1s0x391233310852522d:0x1c352bf92e7478cc!8m2!3d29.1420276!4d75.7206491!16s%2Fg%2F11q4cf3xdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASHOK+HOSPITAL/@29.1420276,75.7206491,17z/data=!3m1!4b1!4m6!3m5!1s0x391233310852522d:0x1c352bf92e7478cc!8m2!3d29.1420276!4d75.7206491!16s%2Fg%2F11q4cf3xdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -585,7 +589,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ASHOK+HOSPITAL/@29.1420276,75.7206491,17z/data=!3m1!4b1!4m6!3m5!1s0x391233310852522d:0x1c352bf92e7478cc!8m2!3d29.1420276!4d75.7206491!16s%2Fg%2F11q4cf3xdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "back-and-neck-care-ayurveda-neuro-therapy-clinic-hisar",
@@ -635,7 +640,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Back+%26+Neck+Care+%7C+Ayurveda+Neuro+therapy+Clinic/@29.1726997,75.7133507,17z/data=!3m1!4b1!4m6!3m5!1s0x39123368fe7d74dd:0x7fc9a0efec61b854!8m2!3d29.1726997!4d75.7133507!16s%2Fg%2F11qzcf317z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Back+%26+Neck+Care+%7C+Ayurveda+Neuro+therapy+Clinic/@29.1726997,75.7133507,17z/data=!3m1!4b1!4m6!3m5!1s0x39123368fe7d74dd:0x7fc9a0efec61b854!8m2!3d29.1726997!4d75.7133507!16s%2Fg%2F11qzcf317z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -701,10 +706,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Back+%26+Neck+Care+%7C+Ayurveda+Neuro+therapy+Clinic/@29.1726997,75.7133507,17z/data=!3m1!4b1!4m6!3m5!1s0x39123368fe7d74dd:0x7fc9a0efec61b854!8m2!3d29.1726997!4d75.7133507!16s%2Fg%2F11qzcf317z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bansal-dental-implant-and-tmj-centre-hisar",
@@ -753,7 +759,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Bansal+Dental+Implant+and+TMJ+Centre/@29.134445,75.7422325,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333fd5da2d33:0x30cd1db10791f956!8m2!3d29.134445!4d75.7422325!16s%2Fg%2F11g9f_2n7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal+Dental+Implant+and+TMJ+Centre/@29.134445,75.7422325,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333fd5da2d33:0x30cd1db10791f956!8m2!3d29.134445!4d75.7422325!16s%2Fg%2F11g9f_2n7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -822,7 +828,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bansal+Dental+Implant+and+TMJ+Centre/@29.134445,75.7422325,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333fd5da2d33:0x30cd1db10791f956!8m2!3d29.134445!4d75.7422325!16s%2Fg%2F11g9f_2n7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bharat-clinic-hisar",
@@ -871,7 +878,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bharat+Clinic/@29.1347677,75.7268617,17z/data=!3m1!4b1!4m6!3m5!1s0x391233380c8b0dd3:0xdd91a9d9742e13d!8m2!3d29.1347677!4d75.7268617!16s%2Fg%2F1tgdrjbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharat+Clinic/@29.1347677,75.7268617,17z/data=!3m1!4b1!4m6!3m5!1s0x391233380c8b0dd3:0xdd91a9d9742e13d!8m2!3d29.1347677!4d75.7268617!16s%2Fg%2F1tgdrjbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -937,10 +944,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bharat+Clinic/@29.1347677,75.7268617,17z/data=!3m1!4b1!4m6!3m5!1s0x391233380c8b0dd3:0xdd91a9d9742e13d!8m2!3d29.1347677!4d75.7268617!16s%2Fg%2F1tgdrjbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chahal-advance-dental-care-and-rct-center-hisar",
@@ -988,7 +996,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Chahal+Advance+Dental+care+%26+RCT+Center/@29.1547443,75.7642228,17z/data=!3m1!4b1!4m6!3m5!1s0x39123337510027ef:0xaf178f17021edb1!8m2!3d29.1547443!4d75.7642228!16s%2Fg%2F11q3dyfd70?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chahal+Advance+Dental+care+%26+RCT+Center/@29.1547443,75.7642228,17z/data=!3m1!4b1!4m6!3m5!1s0x39123337510027ef:0xaf178f17021edb1!8m2!3d29.1547443!4d75.7642228!16s%2Fg%2F11q3dyfd70?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1057,7 +1065,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chahal+Advance+Dental+care+%26+RCT+Center/@29.1547443,75.7642228,17z/data=!3m1!4b1!4m6!3m5!1s0x39123337510027ef:0xaf178f17021edb1!8m2!3d29.1547443!4d75.7642228!16s%2Fg%2F11q3dyfd70?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "churamani-visnhudevi-maternity-hospital-hisar-hisar",
@@ -1106,7 +1115,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Churamani+Visnhudevi+Maternity+Hospital+Hisar/@29.146531,75.7274575,17z/data=!3m1!4b1!4m6!3m5!1s0x391233253a3faa13:0x801c31a537bc6d74!8m2!3d29.146531!4d75.7274575!16s%2Fg%2F11gg9dzn3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Churamani+Visnhudevi+Maternity+Hospital+Hisar/@29.146531,75.7274575,17z/data=!3m1!4b1!4m6!3m5!1s0x391233253a3faa13:0x801c31a537bc6d74!8m2!3d29.146531!4d75.7274575!16s%2Fg%2F11gg9dzn3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1175,7 +1184,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Churamani+Visnhudevi+Maternity+Hospital+Hisar/@29.146531,75.7274575,17z/data=!3m1!4b1!4m6!3m5!1s0x391233253a3faa13:0x801c31a537bc6d74!8m2!3d29.146531!4d75.7274575!16s%2Fg%2F11gg9dzn3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-dental-clinic-and-implant-centre-best-dental-clinic-in-hisar-root-canal-implants-whitening-fixed-teeth-hisar",
@@ -1225,7 +1235,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/City+Dental+Clinic+%26+Implant+Centre+%E2%80%93+Best+Dental+Clinic+in+Hisar+%7C+Root+Canal+%7C+Implants+%7C+Whitening+%7C+Fixed+Teeth/@29.1471563,75.7260962,17z/data=!3m1!4b1!4m6!3m5!1s0x39123390a3ce67c9:0x28e84044b6bfd652!8m2!3d29.1471563!4d75.7260962!16s%2Fg%2F11t9w56yv4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Dental+Clinic+%26+Implant+Centre+%E2%80%93+Best+Dental+Clinic+in+Hisar+%7C+Root+Canal+%7C+Implants+%7C+Whitening+%7C+Fixed+Teeth/@29.1471563,75.7260962,17z/data=!3m1!4b1!4m6!3m5!1s0x39123390a3ce67c9:0x28e84044b6bfd652!8m2!3d29.1471563!4d75.7260962!16s%2Fg%2F11t9w56yv4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1291,10 +1301,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Dental+Clinic+%26+Implant+Centre+%E2%80%93+Best+Dental+Clinic+in+Hisar+%7C+Root+Canal+%7C+Implants+%7C+Whitening+%7C+Fixed+Teeth/@29.1471563,75.7260962,17z/data=!3m1!4b1!4m6!3m5!1s0x39123390a3ce67c9:0x28e84044b6bfd652!8m2!3d29.1471563!4d75.7260962!16s%2Fg%2F11t9w56yv4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-clinic-in-hisar-hisar",
@@ -1340,7 +1351,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Dental+Clinic+in+Hisar/@29.1364138,75.7410365,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333c27ce3eaf:0xc18dc2a46b86975c!8m2!3d29.1364138!4d75.7410365!16s%2Fg%2F11g03lb2j1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Clinic+in+Hisar/@29.1364138,75.7410365,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333c27ce3eaf:0xc18dc2a46b86975c!8m2!3d29.1364138!4d75.7410365!16s%2Fg%2F11g03lb2j1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1406,10 +1417,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Clinic+in+Hisar/@29.1364138,75.7410365,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333c27ce3eaf:0xc18dc2a46b86975c!8m2!3d29.1364138!4d75.7410365!16s%2Fg%2F11g03lb2j1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dewan-dental-hisar",
@@ -1457,7 +1469,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dewan+Dental/@29.1647543,75.7275242,17z/data=!3m1!4b1!4m6!3m5!1s0x391233116c068353:0xffc5a7b10b59d36c!8m2!3d29.1647543!4d75.7275242!16s%2Fg%2F11gv_3wpqx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dewan+Dental/@29.1647543,75.7275242,17z/data=!3m1!4b1!4m6!3m5!1s0x391233116c068353:0xffc5a7b10b59d36c!8m2!3d29.1647543!4d75.7275242!16s%2Fg%2F11gv_3wpqx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1523,10 +1535,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dewan+Dental/@29.1647543,75.7275242,17z/data=!3m1!4b1!4m6!3m5!1s0x391233116c068353:0xffc5a7b10b59d36c!8m2!3d29.1647543!4d75.7275242!16s%2Fg%2F11gv_3wpqx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divydeep-hospital-advanced-surgical-centre-hisar",
@@ -1575,7 +1588,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Divydeep+Hospital:+Advanced+Surgical+Centre/@29.1271259,75.7370103,17z/data=!3m1!4b1!4m6!3m5!1s0x391233317b4592bd:0x3228f02f945bd982!8m2!3d29.1271259!4d75.7370103!16s%2Fg%2F11f8ht0p4b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divydeep+Hospital:+Advanced+Surgical+Centre/@29.1271259,75.7370103,17z/data=!3m1!4b1!4m6!3m5!1s0x391233317b4592bd:0x3228f02f945bd982!8m2!3d29.1271259!4d75.7370103!16s%2Fg%2F11f8ht0p4b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1644,7 +1657,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divydeep+Hospital:+Advanced+Surgical+Centre/@29.1271259,75.7370103,17z/data=!3m1!4b1!4m6!3m5!1s0x391233317b4592bd:0x3228f02f945bd982!8m2!3d29.1271259!4d75.7370103!16s%2Fg%2F11f8ht0p4b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ellora-eve-care-hospital-and-ivf-center-hisar",
@@ -1694,7 +1708,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ellora+Eve+Care+Hospital+and+ivf+center/@29.1300679,75.7437727,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336ea5b0da13:0xa3186c38fd94f0c4!8m2!3d29.1300679!4d75.7437727!16s%2Fg%2F11bbwhpn2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ellora+Eve+Care+Hospital+and+ivf+center/@29.1300679,75.7437727,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336ea5b0da13:0xa3186c38fd94f0c4!8m2!3d29.1300679!4d75.7437727!16s%2Fg%2F11bbwhpn2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1763,7 +1777,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ellora+Eve+Care+Hospital+and+ivf+center/@29.1300679,75.7437727,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336ea5b0da13:0xa3186c38fd94f0c4!8m2!3d29.1300679!4d75.7437727!16s%2Fg%2F11bbwhpn2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "geetanjali-hospital-hisar",
@@ -1812,7 +1827,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Geetanjali+Hospital/@29.1322478,75.7431085,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336c77b3e11b:0xab31901f64390f7c!8m2!3d29.1322478!4d75.7431085!16s%2Fg%2F1tdbctbx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Geetanjali+Hospital/@29.1322478,75.7431085,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336c77b3e11b:0xab31901f64390f7c!8m2!3d29.1322478!4d75.7431085!16s%2Fg%2F1tdbctbx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1881,7 +1896,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Geetanjali+Hospital/@29.1322478,75.7431085,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336c77b3e11b:0xab31901f64390f7c!8m2!3d29.1322478!4d75.7431085!16s%2Fg%2F1tdbctbx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "girdhar-dental-clinic-hisar",
@@ -1930,7 +1946,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Girdhar+Dental+Clinic/@29.1342694,75.7470728,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336d0c600611:0x1fa3fe9c5fe2343b!8m2!3d29.1342694!4d75.7470728!16s%2Fg%2F11b7hv_7rm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Girdhar+Dental+Clinic/@29.1342694,75.7470728,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336d0c600611:0x1fa3fe9c5fe2343b!8m2!3d29.1342694!4d75.7470728!16s%2Fg%2F11b7hv_7rm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1999,7 +2015,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Girdhar+Dental+Clinic/@29.1342694,75.7470728,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336d0c600611:0x1fa3fe9c5fe2343b!8m2!3d29.1342694!4d75.7470728!16s%2Fg%2F11b7hv_7rm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goyal-hospitalgoyal-hospital-skin-treatment-cosmetic-burns-plastic-surgery-laser-hair-transplant-removal-hisar",
@@ -2047,7 +2064,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Goyal+HospitalGoyal+Hospital+-+Skin+Treatment+Cosmetic+Burns+Plastic+Surgery+Laser+Hair+Transplant+Removal/@29.1394222,75.736172,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333e3c64215d:0x24925736aec22d58!8m2!3d29.1394222!4d75.736172!16s%2Fg%2F1tfdx76x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goyal+HospitalGoyal+Hospital+-+Skin+Treatment+Cosmetic+Burns+Plastic+Surgery+Laser+Hair+Transplant+Removal/@29.1394222,75.736172,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333e3c64215d:0x24925736aec22d58!8m2!3d29.1394222!4d75.736172!16s%2Fg%2F1tfdx76x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2113,10 +2130,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goyal+HospitalGoyal+Hospital+-+Skin+Treatment+Cosmetic+Burns+Plastic+Surgery+Laser+Hair+Transplant+Removal/@29.1394222,75.736172,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333e3c64215d:0x24925736aec22d58!8m2!3d29.1394222!4d75.736172!16s%2Fg%2F1tfdx76x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "grover-diagnostic-and-dental-clinic-hisar",
@@ -2164,7 +2182,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Grover+Diagnostic+%26+Dental+Clinic/@29.1581131,75.7213042,17z/data=!3m1!4b1!4m6!3m5!1s0x3912338833862a7d:0x19e836d9f0fe4735!8m2!3d29.1581131!4d75.7213042!16s%2Fg%2F11fl83b32h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Grover+Diagnostic+%26+Dental+Clinic/@29.1581131,75.7213042,17z/data=!3m1!4b1!4m6!3m5!1s0x3912338833862a7d:0x19e836d9f0fe4735!8m2!3d29.1581131!4d75.7213042!16s%2Fg%2F11fl83b32h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2233,7 +2251,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Grover+Diagnostic+%26+Dental+Clinic/@29.1581131,75.7213042,17z/data=!3m1!4b1!4m6!3m5!1s0x3912338833862a7d:0x19e836d9f0fe4735!8m2!3d29.1581131!4d75.7213042!16s%2Fg%2F11fl83b32h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gulati-children-hospital-hisar",
@@ -2282,7 +2301,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Gulati+Children+Hospital/@29.1542689,75.7260353,17z/data=!3m1!4b1!4m6!3m5!1s0x39123327d323d125:0xb6397380778920e0!8m2!3d29.1542689!4d75.7260353!16s%2Fg%2F1tf5c3ts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gulati+Children+Hospital/@29.1542689,75.7260353,17z/data=!3m1!4b1!4m6!3m5!1s0x39123327d323d125:0xb6397380778920e0!8m2!3d29.1542689!4d75.7260353!16s%2Fg%2F1tf5c3ts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2351,7 +2370,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gulati+Children+Hospital/@29.1542689,75.7260353,17z/data=!3m1!4b1!4m6!3m5!1s0x39123327d323d125:0xb6397380778920e0!8m2!3d29.1542689!4d75.7260353!16s%2Fg%2F1tf5c3ts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gupta-hospital-hisar",
@@ -2400,7 +2420,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gupta+hospital/@29.173959,75.713649,17z/data=!3m1!4b1!4m6!3m5!1s0x3913cd34b6a6c6df:0x9c62c48940d49223!8m2!3d29.173959!4d75.713649!16s%2Fg%2F1pty72zvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+hospital/@29.173959,75.713649,17z/data=!3m1!4b1!4m6!3m5!1s0x3913cd34b6a6c6df:0x9c62c48940d49223!8m2!3d29.173959!4d75.713649!16s%2Fg%2F1pty72zvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2469,7 +2489,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gupta+hospital/@29.173959,75.713649,17z/data=!3m1!4b1!4m6!3m5!1s0x3913cd34b6a6c6df:0x9c62c48940d49223!8m2!3d29.173959!4d75.713649!16s%2Fg%2F1pty72zvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hisar-dental-and-orthodontic-clinic-hisar",
@@ -2518,7 +2539,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Hisar+Dental+%26+Orthodontic+Clinic/@29.1329287,75.745917,17z/data=!3m1!4b1!4m6!3m5!1s0x391233cec48de3eb:0xb430459fab9b91c7!8m2!3d29.1329287!4d75.745917!16s%2Fg%2F11n6vcwqp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hisar+Dental+%26+Orthodontic+Clinic/@29.1329287,75.745917,17z/data=!3m1!4b1!4m6!3m5!1s0x391233cec48de3eb:0xb430459fab9b91c7!8m2!3d29.1329287!4d75.745917!16s%2Fg%2F11n6vcwqp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2584,10 +2605,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hisar+Dental+%26+Orthodontic+Clinic/@29.1329287,75.745917,17z/data=!3m1!4b1!4m6!3m5!1s0x391233cec48de3eb:0xb430459fab9b91c7!8m2!3d29.1329287!4d75.745917!16s%2Fg%2F11n6vcwqp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "holy-help-hospital-hisar-hisar",
@@ -2636,7 +2658,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Holy+Help+Hospital+Hisar/data=!4m7!3m6!1s0x3912336b1ff19b35:0xbe7618c4a8f8638c!8m2!3d29.1303556!4d75.742286!16s%2Fg%2F1260q02ww!19sChIJNZvxH2szEjkRjGP4qMQYdr4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Holy+Help+Hospital+Hisar/data=!4m7!3m6!1s0x3912336b1ff19b35:0xbe7618c4a8f8638c!8m2!3d29.1303556!4d75.742286!16s%2Fg%2F1260q02ww!19sChIJNZvxH2szEjkRjGP4qMQYdr4?authuser=0&hl=en&rclk=1"
@@ -2705,7 +2727,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Holy+Help+Hospital+Hisar/data=!4m7!3m6!1s0x3912336b1ff19b35:0xbe7618c4a8f8638c!8m2!3d29.1303556!4d75.742286!16s%2Fg%2F1260q02ww!19sChIJNZvxH2szEjkRjGP4qMQYdr4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-hisar-best-ivf-centre-hisar",
@@ -2755,7 +2778,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Hisar+-+Best+IVF+Centre/@29.1333199,75.7398737,17z/data=!3m1!4b1!4m6!3m5!1s0x3912332797d74b15:0xb560f5e425b157c2!8m2!3d29.1333199!4d75.7398737!16s%2Fg%2F11h7d7z8v9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Hisar+-+Best+IVF+Centre/@29.1333199,75.7398737,17z/data=!3m1!4b1!4m6!3m5!1s0x3912332797d74b15:0xb560f5e425b157c2!8m2!3d29.1333199!4d75.7398737!16s%2Fg%2F11h7d7z8v9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2824,7 +2847,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Hisar+-+Best+IVF+Centre/@29.1333199,75.7398737,17z/data=!3m1!4b1!4m6!3m5!1s0x3912332797d74b15:0xb560f5e425b157c2!8m2!3d29.1333199!4d75.7398737!16s%2Fg%2F11h7d7z8v9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jigyasa-hospital-hisar",
@@ -2872,7 +2896,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Jigyasa+Hospital/@29.1442163,75.7336884,17z/data=!3m1!4b1!4m6!3m5!1s0x391233e46cecb6f1:0xbd35169de426c0d9!8m2!3d29.1442163!4d75.7336884!16s%2Fg%2F11q7_0frjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jigyasa+Hospital/@29.1442163,75.7336884,17z/data=!3m1!4b1!4m6!3m5!1s0x391233e46cecb6f1:0xbd35169de426c0d9!8m2!3d29.1442163!4d75.7336884!16s%2Fg%2F11q7_0frjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2941,7 +2965,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jigyasa+Hospital/@29.1442163,75.7336884,17z/data=!3m1!4b1!4m6!3m5!1s0x391233e46cecb6f1:0xbd35169de426c0d9!8m2!3d29.1442163!4d75.7336884!16s%2Fg%2F11q7_0frjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jindal-hospital-hisar",
@@ -2990,7 +3015,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jindal+Hospital/@29.1304069,75.7450572,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336e9c8dce99:0x55a9c74ae42dc18e!8m2!3d29.1304069!4d75.7450572!16s%2Fg%2F1261gx9c_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jindal+Hospital/@29.1304069,75.7450572,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336e9c8dce99:0x55a9c74ae42dc18e!8m2!3d29.1304069!4d75.7450572!16s%2Fg%2F1261gx9c_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3056,10 +3081,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jindal+Hospital/@29.1304069,75.7450572,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336e9c8dce99:0x55a9c74ae42dc18e!8m2!3d29.1304069!4d75.7450572!16s%2Fg%2F1261gx9c_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jindal-institute-of-medical-sciences-jims-quality-medical-care-at-affordable-cost-hisar",
@@ -3107,7 +3133,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/JINDAL+INSTITUTE+OF+MEDICAL+SCIENCES(JIMS)+Quality+Medical+Care+at+Affordable+Cost/@29.1307591,75.7447158,17z/data=!3m1!4b1!4m6!3m5!1s0x391233955ff226b1:0xa6ef9c863dfa6503!8m2!3d29.1307591!4d75.7447158!16s%2Fg%2F11fjscnrw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JINDAL+INSTITUTE+OF+MEDICAL+SCIENCES(JIMS)+Quality+Medical+Care+at+Affordable+Cost/@29.1307591,75.7447158,17z/data=!3m1!4b1!4m6!3m5!1s0x391233955ff226b1:0xa6ef9c863dfa6503!8m2!3d29.1307591!4d75.7447158!16s%2Fg%2F11fjscnrw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3176,7 +3202,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JINDAL+INSTITUTE+OF+MEDICAL+SCIENCES(JIMS)+Quality+Medical+Care+at+Affordable+Cost/@29.1307591,75.7447158,17z/data=!3m1!4b1!4m6!3m5!1s0x391233955ff226b1:0xa6ef9c863dfa6503!8m2!3d29.1307591!4d75.7447158!16s%2Fg%2F11fjscnrw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kd-cosmetic-and-plastic-surgery-centre-hisar-hisar",
@@ -3225,7 +3252,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KD+Cosmetic+and+Plastic+Surgery+Centre+%7C+Hisar/@29.1357442,75.7430573,17z/data=!3m1!4b1!4m6!3m5!1s0x3912331c6a2c0b3f:0x3d88061c6b14caf0!8m2!3d29.1357442!4d75.7430573!16s%2Fg%2F11mlwgzdf2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KD+Cosmetic+and+Plastic+Surgery+Centre+%7C+Hisar/@29.1357442,75.7430573,17z/data=!3m1!4b1!4m6!3m5!1s0x3912331c6a2c0b3f:0x3d88061c6b14caf0!8m2!3d29.1357442!4d75.7430573!16s%2Fg%2F11mlwgzdf2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3294,7 +3321,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KD+Cosmetic+and+Plastic+Surgery+Centre+%7C+Hisar/@29.1357442,75.7430573,17z/data=!3m1!4b1!4m6!3m5!1s0x3912331c6a2c0b3f:0x3d88061c6b14caf0!8m2!3d29.1357442!4d75.7430573!16s%2Fg%2F11mlwgzdf2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kesar-hospital-dr-rohit-sagu-hisar",
@@ -3343,7 +3371,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kesar+Hospital+(Dr+Rohit+Sagu)/@29.1354269,75.7203739,17z/data=!3m1!4b1!4m6!3m5!1s0x391233001299317b:0x9dbd1e24e77c194c!8m2!3d29.1354269!4d75.7203739!16s%2Fg%2F11x30tslyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kesar+Hospital+(Dr+Rohit+Sagu)/@29.1354269,75.7203739,17z/data=!3m1!4b1!4m6!3m5!1s0x391233001299317b:0x9dbd1e24e77c194c!8m2!3d29.1354269!4d75.7203739!16s%2Fg%2F11x30tslyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3412,7 +3440,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kesar+Hospital+(Dr+Rohit+Sagu)/@29.1354269,75.7203739,17z/data=!3m1!4b1!4m6!3m5!1s0x391233001299317b:0x9dbd1e24e77c194c!8m2!3d29.1354269!4d75.7203739!16s%2Fg%2F11x30tslyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khurana-hospital-hisar",
@@ -3460,7 +3489,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Khurana+hospital/@29.1305069,75.7426597,17z/data=!3m1!4b1!4m6!3m5!1s0x39123338165014ad:0x92ff422317e8accc!8m2!3d29.1305069!4d75.7426597!16s%2Fg%2F11h2nhkstz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khurana+hospital/@29.1305069,75.7426597,17z/data=!3m1!4b1!4m6!3m5!1s0x39123338165014ad:0x92ff422317e8accc!8m2!3d29.1305069!4d75.7426597!16s%2Fg%2F11h2nhkstz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3529,7 +3558,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khurana+hospital/@29.1305069,75.7426597,17z/data=!3m1!4b1!4m6!3m5!1s0x39123338165014ad:0x92ff422317e8accc!8m2!3d29.1305069!4d75.7426597!16s%2Fg%2F11h2nhkstz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mahatma-gandhi-institute-of-medical-sciences-hisar",
@@ -3578,7 +3608,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mahatma+Gandhi+Institute+of+Medical+Sciences/@29.1290299,75.7417714,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336941096b9d:0x7a5ca6a9c14e3099!8m2!3d29.1290299!4d75.7417714!16s%2Fg%2F11f57d4__3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahatma+Gandhi+Institute+of+Medical+Sciences/@29.1290299,75.7417714,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336941096b9d:0x7a5ca6a9c14e3099!8m2!3d29.1290299!4d75.7417714!16s%2Fg%2F11f57d4__3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3647,7 +3677,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahatma+Gandhi+Institute+of+Medical+Sciences/@29.1290299,75.7417714,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336941096b9d:0x7a5ca6a9c14e3099!8m2!3d29.1290299!4d75.7417714!16s%2Fg%2F11f57d4__3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "malhotra-dental-and-gynae-care-centre-dental-clinic-in-hisar-hisar",
@@ -3695,7 +3726,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Malhotra+Dental+%26+Gynae+Care+Centre+-+Dental+Clinic+in+Hisar/@29.1374213,75.7379063,17z/data=!3m1!4b1!4m6!3m5!1s0x391233156485a27b:0x4482f9ac26c2df6b!8m2!3d29.1374213!4d75.7379063!16s%2Fg%2F11bxglk2fr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malhotra+Dental+%26+Gynae+Care+Centre+-+Dental+Clinic+in+Hisar/@29.1374213,75.7379063,17z/data=!3m1!4b1!4m6!3m5!1s0x391233156485a27b:0x4482f9ac26c2df6b!8m2!3d29.1374213!4d75.7379063!16s%2Fg%2F11bxglk2fr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3764,7 +3795,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Malhotra+Dental+%26+Gynae+Care+Centre+-+Dental+Clinic+in+Hisar/@29.1374213,75.7379063,17z/data=!3m1!4b1!4m6!3m5!1s0x391233156485a27b:0x4482f9ac26c2df6b!8m2!3d29.1374213!4d75.7379063!16s%2Fg%2F11bxglk2fr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "malik-hospital-aabhari-plastic-surgery-centre-hisar",
@@ -3813,7 +3845,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MALIK+HOSPITAL,+AABHARI+PLASTIC+SURGERY+CENTRE/@29.1557107,75.7139637,17z/data=!3m1!4b1!4m6!3m5!1s0x3912332af3fc1331:0x765d3150ba6d795a!8m2!3d29.1557107!4d75.7139637!16s%2Fg%2F11f03t8s7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MALIK+HOSPITAL,+AABHARI+PLASTIC+SURGERY+CENTRE/@29.1557107,75.7139637,17z/data=!3m1!4b1!4m6!3m5!1s0x3912332af3fc1331:0x765d3150ba6d795a!8m2!3d29.1557107!4d75.7139637!16s%2Fg%2F11f03t8s7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3882,7 +3914,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MALIK+HOSPITAL,+AABHARI+PLASTIC+SURGERY+CENTRE/@29.1557107,75.7139637,17z/data=!3m1!4b1!4m6!3m5!1s0x3912332af3fc1331:0x765d3150ba6d795a!8m2!3d29.1557107!4d75.7139637!16s%2Fg%2F11f03t8s7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maxdent-hisar-dental-implant-rct-specialist-best-dental-clinic-in-hisar-hisar",
@@ -3931,7 +3964,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Maxdent+Hisar+%7C+Dental+implant+%7C+Rct+specialist+%7C+best+dental+clinic+in+hisar/@29.1337744,75.7443417,17z/data=!3m1!4b1!4m6!3m5!1s0x3912339dd953a499:0x14e099d3bfc04f5!8m2!3d29.1337744!4d75.7443417!16s%2Fg%2F11y6s5shfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxdent+Hisar+%7C+Dental+implant+%7C+Rct+specialist+%7C+best+dental+clinic+in+hisar/@29.1337744,75.7443417,17z/data=!3m1!4b1!4m6!3m5!1s0x3912339dd953a499:0x14e099d3bfc04f5!8m2!3d29.1337744!4d75.7443417!16s%2Fg%2F11y6s5shfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4000,7 +4033,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maxdent+Hisar+%7C+Dental+implant+%7C+Rct+specialist+%7C+best+dental+clinic+in+hisar/@29.1337744,75.7443417,17z/data=!3m1!4b1!4m6!3m5!1s0x3912339dd953a499:0x14e099d3bfc04f5!8m2!3d29.1337744!4d75.7443417!16s%2Fg%2F11y6s5shfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medident-dental-care-hisar",
@@ -4048,7 +4082,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/medident+dental+care/@29.1464965,75.7262702,17z/data=!3m1!4b1!4m6!3m5!1s0x391233fa15a5ba77:0xec8e2576093936df!8m2!3d29.1464965!4d75.7262702!16s%2Fg%2F11g10kkzkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/medident+dental+care/@29.1464965,75.7262702,17z/data=!3m1!4b1!4m6!3m5!1s0x391233fa15a5ba77:0xec8e2576093936df!8m2!3d29.1464965!4d75.7262702!16s%2Fg%2F11g10kkzkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4117,7 +4151,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/medident+dental+care/@29.1464965,75.7262702,17z/data=!3m1!4b1!4m6!3m5!1s0x391233fa15a5ba77:0xec8e2576093936df!8m2!3d29.1464965!4d75.7262702!16s%2Fg%2F11g10kkzkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mj-neuro-spine-and-dental-care-centre-hisar",
@@ -4167,7 +4202,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/MJ+Neuro,+spine+and+dental+Care+Centre/@29.1318654,75.7448298,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336c390936f7:0x7515733dd410756e!8m2!3d29.1318654!4d75.7448298!16s%2Fg%2F11hcnrrzmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MJ+Neuro,+spine+and+dental+Care+Centre/@29.1318654,75.7448298,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336c390936f7:0x7515733dd410756e!8m2!3d29.1318654!4d75.7448298!16s%2Fg%2F11hcnrrzmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4236,7 +4271,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MJ+Neuro,+spine+and+dental+Care+Centre/@29.1318654,75.7448298,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336c390936f7:0x7515733dd410756e!8m2!3d29.1318654!4d75.7448298!16s%2Fg%2F11hcnrrzmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "my-fit-brain-hisar",
@@ -4287,7 +4323,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/My+Fit+Brain/@29.168279,75.7187128,17z/data=!3m1!4b1!4m6!3m5!1s0x391232cdf1d89aff:0x823d21c088f685bc!8m2!3d29.168279!4d75.7187128!16s%2Fg%2F11g8wpglst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/My+Fit+Brain/@29.168279,75.7187128,17z/data=!3m1!4b1!4m6!3m5!1s0x391232cdf1d89aff:0x823d21c088f685bc!8m2!3d29.168279!4d75.7187128!16s%2Fg%2F11g8wpglst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4356,7 +4392,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/My+Fit+Brain/@29.168279,75.7187128,17z/data=!3m1!4b1!4m6!3m5!1s0x391232cdf1d89aff:0x823d21c088f685bc!8m2!3d29.168279!4d75.7187128!16s%2Fg%2F11g8wpglst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "n-d-gupta-hospital-hisar",
@@ -4404,7 +4441,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/N.+D.+Gupta+Hospital/@29.1337234,75.743168,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336c811580e9:0x4d95621df3ec86c!8m2!3d29.1337234!4d75.743168!16s%2Fg%2F1260hxsx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/N.+D.+Gupta+Hospital/@29.1337234,75.743168,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336c811580e9:0x4d95621df3ec86c!8m2!3d29.1337234!4d75.743168!16s%2Fg%2F1260hxsx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4473,7 +4510,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/N.+D.+Gupta+Hospital/@29.1337234,75.743168,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336c811580e9:0x4d95621df3ec86c!8m2!3d29.1337234!4d75.743168!16s%2Fg%2F1260hxsx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "national-fertility-centre-best-ivf-specialist-in-hisar-hisar",
@@ -4523,7 +4561,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NATIONAL+FERTILITY+CENTRE+-+Best+IVF+Specialist+in+Hisar/@29.1691394,75.7209297,17z/data=!3m1!4b1!4m6!3m5!1s0x39123358aa10e043:0x8fe20cd82c76410a!8m2!3d29.1691394!4d75.7209297!16s%2Fg%2F11r4ll53b6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NATIONAL+FERTILITY+CENTRE+-+Best+IVF+Specialist+in+Hisar/@29.1691394,75.7209297,17z/data=!3m1!4b1!4m6!3m5!1s0x39123358aa10e043:0x8fe20cd82c76410a!8m2!3d29.1691394!4d75.7209297!16s%2Fg%2F11r4ll53b6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4592,7 +4630,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NATIONAL+FERTILITY+CENTRE+-+Best+IVF+Specialist+in+Hisar/@29.1691394,75.7209297,17z/data=!3m1!4b1!4m6!3m5!1s0x39123358aa10e043:0x8fe20cd82c76410a!8m2!3d29.1691394!4d75.7209297!16s%2Fg%2F11r4ll53b6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nayra-dental-care-hisar",
@@ -4641,7 +4680,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nayra+Dental+Care/@29.1336844,75.7457913,17z/data=!3m1!4b1!4m6!3m5!1s0x39123314cc5b8635:0x332357821a13a877!8m2!3d29.1336844!4d75.7457913!16s%2Fg%2F119x1hbqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nayra+Dental+Care/@29.1336844,75.7457913,17z/data=!3m1!4b1!4m6!3m5!1s0x39123314cc5b8635:0x332357821a13a877!8m2!3d29.1336844!4d75.7457913!16s%2Fg%2F119x1hbqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4710,7 +4749,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nayra+Dental+Care/@29.1336844,75.7457913,17z/data=!3m1!4b1!4m6!3m5!1s0x39123314cc5b8635:0x332357821a13a877!8m2!3d29.1336844!4d75.7457913!16s%2Fg%2F119x1hbqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nova-ivf-fertility-center-best-ivf-centre-in-hisar-hisar",
@@ -4760,7 +4800,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+In+Hisar/@29.1292888,75.7423454,17z/data=!3m1!4b1!4m6!3m5!1s0x391233694ec7882b:0x54ef8d81da54cc80!8m2!3d29.1292888!4d75.7423454!16s%2Fg%2F11bz__86zy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+In+Hisar/@29.1292888,75.7423454,17z/data=!3m1!4b1!4m6!3m5!1s0x391233694ec7882b:0x54ef8d81da54cc80!8m2!3d29.1292888!4d75.7423454!16s%2Fg%2F11bz__86zy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4829,7 +4869,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+In+Hisar/@29.1292888,75.7423454,17z/data=!3m1!4b1!4m6!3m5!1s0x391233694ec7882b:0x54ef8d81da54cc80!8m2!3d29.1292888!4d75.7423454!16s%2Fg%2F11bz__86zy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parivartan-hospital-hisar",
@@ -4878,7 +4919,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Parivartan+Hospital/@29.1411909,75.7333232,17z/data=!3m1!4b1!4m6!3m5!1s0x3912339fdc8b4b7d:0xe1b57da6554d4403!8m2!3d29.1411909!4d75.7333232!16s%2Fg%2F11h77x8c9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parivartan+Hospital/@29.1411909,75.7333232,17z/data=!3m1!4b1!4m6!3m5!1s0x3912339fdc8b4b7d:0xe1b57da6554d4403!8m2!3d29.1411909!4d75.7333232!16s%2Fg%2F11h77x8c9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4944,10 +4985,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parivartan+Hospital/@29.1411909,75.7333232,17z/data=!3m1!4b1!4m6!3m5!1s0x3912339fdc8b4b7d:0xe1b57da6554d4403!8m2!3d29.1411909!4d75.7333232!16s%2Fg%2F11h77x8c9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raj-parasher-gynacology-hospital-hisar",
@@ -4995,7 +5037,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Raj+Parasher+Gynacology+Hospital/@22.5046069,88.3919015,15z/data=!3m1!4b1!4m6!3m5!1s0x391232d399763827:0x7a8ef1d6e8f015a4!8m2!3d29.1629968!4d75.7173922!16s%2Fg%2F1264ft33w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raj+Parasher+Gynacology+Hospital/@22.5046069,88.3919015,15z/data=!3m1!4b1!4m6!3m5!1s0x391232d399763827:0x7a8ef1d6e8f015a4!8m2!3d29.1629968!4d75.7173922!16s%2Fg%2F1264ft33w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5061,10 +5103,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raj+Parasher+Gynacology+Hospital/@22.5046069,88.3919015,15z/data=!3m1!4b1!4m6!3m5!1s0x391232d399763827:0x7a8ef1d6e8f015a4!8m2!3d29.1629968!4d75.7173922!16s%2Fg%2F1264ft33w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raja-ram-mohan-roy-education-foundation-hospital-best-hospital-in-hisar-hisar",
@@ -5113,7 +5156,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Raja+Ram+Mohan+Roy+Education+Foundation+Hospital+-+Best+Hospital+in+Hisar/@29.1749951,75.7201578,17z/data=!3m1!4b1!4m6!3m5!1s0x391233cdd8d35535:0x7ca2a0e0004015e4!8m2!3d29.1749951!4d75.7201578!16s%2Fg%2F11yc2xsm7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raja+Ram+Mohan+Roy+Education+Foundation+Hospital+-+Best+Hospital+in+Hisar/@29.1749951,75.7201578,17z/data=!3m1!4b1!4m6!3m5!1s0x391233cdd8d35535:0x7ca2a0e0004015e4!8m2!3d29.1749951!4d75.7201578!16s%2Fg%2F11yc2xsm7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5182,7 +5225,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raja+Ram+Mohan+Roy+Education+Foundation+Hospital+-+Best+Hospital+in+Hisar/@29.1749951,75.7201578,17z/data=!3m1!4b1!4m6!3m5!1s0x391233cdd8d35535:0x7ca2a0e0004015e4!8m2!3d29.1749951!4d75.7201578!16s%2Fg%2F11yc2xsm7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajiv-dental-clinic-hisar",
@@ -5230,7 +5274,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Rajiv+Dental+Clinic/@29.1633139,75.7185734,17z/data=!3m1!4b1!4m6!3m5!1s0x391232d3ea05d311:0x405903f6532cf827!8m2!3d29.1633139!4d75.7185734!16s%2Fg%2F11gf60mm6t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajiv+Dental+Clinic/@29.1633139,75.7185734,17z/data=!3m1!4b1!4m6!3m5!1s0x391232d3ea05d311:0x405903f6532cf827!8m2!3d29.1633139!4d75.7185734!16s%2Fg%2F11gf60mm6t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5299,7 +5343,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajiv+Dental+Clinic/@29.1633139,75.7185734,17z/data=!3m1!4b1!4m6!3m5!1s0x391232d3ea05d311:0x405903f6532cf827!8m2!3d29.1633139!4d75.7185734!16s%2Fg%2F11gf60mm6t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-hospital-hisar",
@@ -5347,7 +5392,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Hospital/@29.132433,75.7409634,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336f6c0ce3e3:0x78a0bfd0c99e13dd!8m2!3d29.132433!4d75.7409634!16s%2Fg%2F11c5fz4sb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Hospital/@29.132433,75.7409634,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336f6c0ce3e3:0x78a0bfd0c99e13dd!8m2!3d29.132433!4d75.7409634!16s%2Fg%2F11c5fz4sb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5416,7 +5461,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Hospital/@29.132433,75.7409634,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336f6c0ce3e3:0x78a0bfd0c99e13dd!8m2!3d29.132433!4d75.7409634!16s%2Fg%2F11c5fz4sb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samayra-dental-and-laser-clinic-hisar-hisar",
@@ -5464,7 +5510,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Samayra+Dental+and+laser+Clinic+Hisar/@29.1272505,75.7052489,17z/data=!3m1!4b1!4m6!3m5!1s0x3913cd000c6ceff9:0x3e4610f4daa86062!8m2!3d29.1272505!4d75.7052489!16s%2Fg%2F11w_nclj9l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samayra+Dental+and+laser+Clinic+Hisar/@29.1272505,75.7052489,17z/data=!3m1!4b1!4m6!3m5!1s0x3913cd000c6ceff9:0x3e4610f4daa86062!8m2!3d29.1272505!4d75.7052489!16s%2Fg%2F11w_nclj9l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5530,10 +5576,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samayra+Dental+and+laser+Clinic+Hisar/@29.1272505,75.7052489,17z/data=!3m1!4b1!4m6!3m5!1s0x3913cd000c6ceff9:0x3e4610f4daa86062!8m2!3d29.1272505!4d75.7052489!16s%2Fg%2F11w_nclj9l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sandeep-oro-dental-clinic-hisar",
@@ -5581,7 +5628,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sandeep+Oro-Dental+Clinic/data=!4m7!3m6!1s0x391233298cbe9655:0x46f823fb8e809a14!8m2!3d29.1555027!4d75.7202743!16s%2Fg%2F11clgksyfk!19sChIJVZa-jCkzEjkRFJqAjvsj-EY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sandeep+Oro-Dental+Clinic/data=!4m7!3m6!1s0x391233298cbe9655:0x46f823fb8e809a14!8m2!3d29.1555027!4d75.7202743!16s%2Fg%2F11clgksyfk!19sChIJVZa-jCkzEjkRFJqAjvsj-EY?authuser=0&hl=en&rclk=1"
@@ -5650,7 +5697,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sandeep+Oro-Dental+Clinic/data=!4m7!3m6!1s0x391233298cbe9655:0x46f823fb8e809a14!8m2!3d29.1555027!4d75.7202743!16s%2Fg%2F11clgksyfk!19sChIJVZa-jCkzEjkRFJqAjvsj-EY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sangeet-dental-care-and-cosmetic-center-hisar-hisar",
@@ -5699,7 +5747,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sangeet+Dental+Care+%26+Cosmetic+Center+,+Hisar/@29.1337541,75.7458903,17z/data=!3m1!4b1!4m6!3m5!1s0x39123306e61dc4c3:0x1bb767c7c22ef377!8m2!3d29.1337541!4d75.7458903!16s%2Fg%2F11h75_x0wg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sangeet+Dental+Care+%26+Cosmetic+Center+,+Hisar/@29.1337541,75.7458903,17z/data=!3m1!4b1!4m6!3m5!1s0x39123306e61dc4c3:0x1bb767c7c22ef377!8m2!3d29.1337541!4d75.7458903!16s%2Fg%2F11h75_x0wg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5768,7 +5816,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sangeet+Dental+Care+%26+Cosmetic+Center+,+Hisar/@29.1337541,75.7458903,17z/data=!3m1!4b1!4m6!3m5!1s0x39123306e61dc4c3:0x1bb767c7c22ef377!8m2!3d29.1337541!4d75.7458903!16s%2Fg%2F11h75_x0wg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "savant-hospital-hisar",
@@ -5816,7 +5865,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Savant+Hospital/@29.1477849,75.7264507,17z/data=!3m1!4b1!4m6!3m5!1s0x391233256fd67ebf:0xa85bbeb3fd685ffc!8m2!3d29.1477849!4d75.7264507!16s%2Fg%2F1thmjcxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Savant+Hospital/@29.1477849,75.7264507,17z/data=!3m1!4b1!4m6!3m5!1s0x391233256fd67ebf:0xa85bbeb3fd685ffc!8m2!3d29.1477849!4d75.7264507!16s%2Fg%2F1thmjcxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5885,7 +5934,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Savant+Hospital/@29.1477849,75.7264507,17z/data=!3m1!4b1!4m6!3m5!1s0x391233256fd67ebf:0xa85bbeb3fd685ffc!8m2!3d29.1477849!4d75.7264507!16s%2Fg%2F1thmjcxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "setia-hospital-plles-and-abdominal-diseases-clinic-hisar",
@@ -5934,7 +5984,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Setia+Hospital+,+PlLES+and+Abdominal+Diseases+Clinic/@29.1443872,75.7294497,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333b16d9d83f:0x4cb31fb343122305!8m2!3d29.1443872!4d75.7294497!16s%2Fg%2F11cm02fydw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Setia+Hospital+,+PlLES+and+Abdominal+Diseases+Clinic/@29.1443872,75.7294497,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333b16d9d83f:0x4cb31fb343122305!8m2!3d29.1443872!4d75.7294497!16s%2Fg%2F11cm02fydw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6003,7 +6053,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Setia+Hospital+,+PlLES+and+Abdominal+Diseases+Clinic/@29.1443872,75.7294497,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333b16d9d83f:0x4cb31fb343122305!8m2!3d29.1443872!4d75.7294497!16s%2Fg%2F11cm02fydw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shakti-neuroscience-centre-burman-hospital-hisar",
@@ -6053,7 +6104,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shakti+NeuroScience+Centre%2FBurman+Hospital/@29.169242,75.7211556,17z/data=!3m1!4b1!4m6!3m5!1s0x391232ce3ffce211:0xae33f6cbe1e8c92!8m2!3d29.169242!4d75.7211556!16s%2Fg%2F11dxl5xjcn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shakti+NeuroScience+Centre%2FBurman+Hospital/@29.169242,75.7211556,17z/data=!3m1!4b1!4m6!3m5!1s0x391232ce3ffce211:0xae33f6cbe1e8c92!8m2!3d29.169242!4d75.7211556!16s%2Fg%2F11dxl5xjcn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6122,7 +6173,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shakti+NeuroScience+Centre%2FBurman+Hospital/@29.169242,75.7211556,17z/data=!3m1!4b1!4m6!3m5!1s0x391232ce3ffce211:0xae33f6cbe1e8c92!8m2!3d29.169242!4d75.7211556!16s%2Fg%2F11dxl5xjcn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shanti-devi-gi-institute-and-advanced-endoscopy-centre-hisar-hisar",
@@ -6171,7 +6223,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shanti+Devi+GI+Institute+%26+Advanced+Endoscopy+Centre+%7C+Hisar/@29.1399173,75.7349032,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333e63589ce3:0xd82229747e4661ab!8m2!3d29.1399173!4d75.7349032!16s%2Fg%2F11ggb8pnjj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+Devi+GI+Institute+%26+Advanced+Endoscopy+Centre+%7C+Hisar/@29.1399173,75.7349032,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333e63589ce3:0xd82229747e4661ab!8m2!3d29.1399173!4d75.7349032!16s%2Fg%2F11ggb8pnjj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6240,7 +6292,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanti+Devi+GI+Institute+%26+Advanced+Endoscopy+Centre+%7C+Hisar/@29.1399173,75.7349032,17z/data=!3m1!4b1!4m6!3m5!1s0x3912333e63589ce3:0xd82229747e4661ab!8m2!3d29.1399173!4d75.7349032!16s%2Fg%2F11ggb8pnjj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shanti-mission-hospital-hisar",
@@ -6288,7 +6341,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Shanti+Mission+Hospital/@29.1354333,75.7442413,17z/data=!3m1!4b1!4m6!3m5!1s0x3912335c3bc5f0f9:0x897fb4942170c2da!8m2!3d29.1354333!4d75.7442413!16s%2Fg%2F11kr6w4hln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+Mission+Hospital/@29.1354333,75.7442413,17z/data=!3m1!4b1!4m6!3m5!1s0x3912335c3bc5f0f9:0x897fb4942170c2da!8m2!3d29.1354333!4d75.7442413!16s%2Fg%2F11kr6w4hln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6354,10 +6407,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanti+Mission+Hospital/@29.1354333,75.7442413,17z/data=!3m1!4b1!4m6!3m5!1s0x3912335c3bc5f0f9:0x897fb4942170c2da!8m2!3d29.1354333!4d75.7442413!16s%2Fg%2F11kr6w4hln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharda-hospital-hisar-hisar",
@@ -6405,7 +6459,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/SHARDA+HOSPITAL+HISAR/@29.1343847,75.7442023,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336c95b4a1d9:0x924cf20a4de48d39!8m2!3d29.1343847!4d75.7442023!16s%2Fg%2F1tnpjd6j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHARDA+HOSPITAL+HISAR/@29.1343847,75.7442023,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336c95b4a1d9:0x924cf20a4de48d39!8m2!3d29.1343847!4d75.7442023!16s%2Fg%2F1tnpjd6j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6471,10 +6525,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHARDA+HOSPITAL+HISAR/@29.1343847,75.7442023,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336c95b4a1d9:0x924cf20a4de48d39!8m2!3d29.1343847!4d75.7442023!16s%2Fg%2F1tnpjd6j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-ram-dental-care-hisar",
@@ -6522,7 +6577,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Ram+Dental+Care/@29.1427719,75.7263712,17z/data=!3m1!4b1!4m6!3m5!1s0x39123329074e63e3:0xc817de2f6d4d7f82!8m2!3d29.1427719!4d75.7263712!16s%2Fg%2F11vwwcpv8s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Ram+Dental+Care/@29.1427719,75.7263712,17z/data=!3m1!4b1!4m6!3m5!1s0x39123329074e63e3:0xc817de2f6d4d7f82!8m2!3d29.1427719!4d75.7263712!16s%2Fg%2F11vwwcpv8s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6588,10 +6643,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Ram+Dental+Care/@29.1427719,75.7263712,17z/data=!3m1!4b1!4m6!3m5!1s0x39123329074e63e3:0xc817de2f6d4d7f82!8m2!3d29.1427719!4d75.7263712!16s%2Fg%2F11vwwcpv8s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shubham-dental-clinic-hisar-hisar",
@@ -6641,7 +6697,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shubham+Dental+Clinic+Hisar/@29.1369038,75.742323,17z/data=!3m1!4b1!4m6!3m5!1s0x3912332ee931ea51:0x2dfd1ece62a144!8m2!3d29.1369038!4d75.742323!16s%2Fg%2F11s1ydktk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubham+Dental+Clinic+Hisar/@29.1369038,75.742323,17z/data=!3m1!4b1!4m6!3m5!1s0x3912332ee931ea51:0x2dfd1ece62a144!8m2!3d29.1369038!4d75.742323!16s%2Fg%2F11s1ydktk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6707,10 +6763,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shubham+Dental+Clinic+Hisar/@29.1369038,75.742323,17z/data=!3m1!4b1!4m6!3m5!1s0x3912332ee931ea51:0x2dfd1ece62a144!8m2!3d29.1369038!4d75.742323!16s%2Fg%2F11s1ydktk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sonakshi-ivf-center-best-ivf-hospital-in-hisar-hisar",
@@ -6760,7 +6817,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sonakshi+IVF+Center+-+Best+IVF+Hospital+in+Hisar/@29.1300917,75.7443132,17z/data=!3m1!4b1!4m6!3m5!1s0x3912334216cd51fb:0x4dbc625a6c80a3e3!8m2!3d29.1300917!4d75.7443132!16s%2Fg%2F11k6fzdv5m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sonakshi+IVF+Center+-+Best+IVF+Hospital+in+Hisar/@29.1300917,75.7443132,17z/data=!3m1!4b1!4m6!3m5!1s0x3912334216cd51fb:0x4dbc625a6c80a3e3!8m2!3d29.1300917!4d75.7443132!16s%2Fg%2F11k6fzdv5m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6829,7 +6886,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sonakshi+IVF+Center+-+Best+IVF+Hospital+in+Hisar/@29.1300917,75.7443132,17z/data=!3m1!4b1!4m6!3m5!1s0x3912334216cd51fb:0x4dbc625a6c80a3e3!8m2!3d29.1300917!4d75.7443132!16s%2Fg%2F11k6fzdv5m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "soni-burn-and-plastic-surgery-hospital-hisar",
@@ -6878,7 +6936,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Soni+Burn+and+Plastic+Surgery+Hospital/@29.1354626,75.7204288,17z/data=!3m1!4b1!4m6!3m5!1s0x39123325f4615a95:0x4766910592ad3c44!8m2!3d29.1354626!4d75.7204288!16s%2Fg%2F1262wxr4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Soni+Burn+and+Plastic+Surgery+Hospital/@29.1354626,75.7204288,17z/data=!3m1!4b1!4m6!3m5!1s0x39123325f4615a95:0x4766910592ad3c44!8m2!3d29.1354626!4d75.7204288!16s%2Fg%2F1262wxr4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6947,7 +7005,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Soni+Burn+and+Plastic+Surgery+Hospital/@29.1354626,75.7204288,17z/data=!3m1!4b1!4m6!3m5!1s0x39123325f4615a95:0x4766910592ad3c44!8m2!3d29.1354626!4d75.7204288!16s%2Fg%2F1262wxr4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "soni-burn-hospital-hisar",
@@ -6996,7 +7055,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Soni+Burn+Hospital/@29.1501508,75.7257944,17z/data=!3m1!4b1!4m6!3m5!1s0x3912338697926881:0x426d4dcef7db0fb8!8m2!3d29.1501508!4d75.7257944!16s%2Fg%2F11gn26ddhd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Soni+Burn+Hospital/@29.1501508,75.7257944,17z/data=!3m1!4b1!4m6!3m5!1s0x3912338697926881:0x426d4dcef7db0fb8!8m2!3d29.1501508!4d75.7257944!16s%2Fg%2F11gn26ddhd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7065,7 +7124,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Soni+Burn+Hospital/@29.1501508,75.7257944,17z/data=!3m1!4b1!4m6!3m5!1s0x3912338697926881:0x426d4dcef7db0fb8!8m2!3d29.1501508!4d75.7257944!16s%2Fg%2F11gn26ddhd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spine-care-center-hisar",
@@ -7114,7 +7174,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Spine+Care+Center/@29.1373787,75.7422792,17z/data=!3m1!4b1!4m6!3m5!1s0x391233138cf3cc75:0x82dd4b815b5c35b4!8m2!3d29.1373787!4d75.7422792!16s%2Fg%2F11h07t7v_4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spine+Care+Center/@29.1373787,75.7422792,17z/data=!3m1!4b1!4m6!3m5!1s0x391233138cf3cc75:0x82dd4b815b5c35b4!8m2!3d29.1373787!4d75.7422792!16s%2Fg%2F11h07t7v_4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7183,7 +7243,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spine+Care+Center/@29.1373787,75.7422792,17z/data=!3m1!4b1!4m6!3m5!1s0x391233138cf3cc75:0x82dd4b815b5c35b4!8m2!3d29.1373787!4d75.7422792!16s%2Fg%2F11h07t7v_4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spine-shoulder-chiropractor-clinic-hisar",
@@ -7233,7 +7294,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SPINE+SHOULDER+CHIROPRACTOR+CLINIC/@29.1324681,75.7555435,17z/data=!3m1!4b1!4m6!3m5!1s0x39123397f4e6db7b:0x306160351ab5f6f7!8m2!3d29.1324681!4d75.7555435!16s%2Fg%2F11w7_h3n_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SPINE+SHOULDER+CHIROPRACTOR+CLINIC/@29.1324681,75.7555435,17z/data=!3m1!4b1!4m6!3m5!1s0x39123397f4e6db7b:0x306160351ab5f6f7!8m2!3d29.1324681!4d75.7555435!16s%2Fg%2F11w7_h3n_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7302,7 +7363,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SPINE+SHOULDER+CHIROPRACTOR+CLINIC/@29.1324681,75.7555435,17z/data=!3m1!4b1!4m6!3m5!1s0x39123397f4e6db7b:0x306160351ab5f6f7!8m2!3d29.1324681!4d75.7555435!16s%2Fg%2F11w7_h3n_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sudarshan-medspa-hisar",
@@ -7351,7 +7413,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sudarshan+Medspa/@29.1356289,75.7204948,17z/data=!3m1!4b1!4m6!3m5!1s0x3912332c1a13998d:0x6f909b2146f452ad!8m2!3d29.1356289!4d75.7204948!16s%2Fg%2F11g0mtzlc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudarshan+Medspa/@29.1356289,75.7204948,17z/data=!3m1!4b1!4m6!3m5!1s0x3912332c1a13998d:0x6f909b2146f452ad!8m2!3d29.1356289!4d75.7204948!16s%2Fg%2F11g0mtzlc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7417,10 +7479,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sudarshan+Medspa/@29.1356289,75.7204948,17z/data=!3m1!4b1!4m6!3m5!1s0x3912332c1a13998d:0x6f909b2146f452ad!8m2!3d29.1356289!4d75.7204948!16s%2Fg%2F11g0mtzlc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sukhprabha-fertility-centre-hisar-hisar",
@@ -7469,7 +7532,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sukhprabha+Fertility+Centre+Hisar/@29.1181449,75.7507132,17z/data=!3m1!4b1!4m6!3m5!1s0x391233b14d955335:0xace2be3642afcbce!8m2!3d29.1181449!4d75.7507132!16s%2Fg%2F11nhy6j5ht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sukhprabha+Fertility+Centre+Hisar/@29.1181449,75.7507132,17z/data=!3m1!4b1!4m6!3m5!1s0x391233b14d955335:0xace2be3642afcbce!8m2!3d29.1181449!4d75.7507132!16s%2Fg%2F11nhy6j5ht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7535,10 +7598,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sukhprabha+Fertility+Centre+Hisar/@29.1181449,75.7507132,17z/data=!3m1!4b1!4m6!3m5!1s0x391233b14d955335:0xace2be3642afcbce!8m2!3d29.1181449!4d75.7507132!16s%2Fg%2F11nhy6j5ht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vk-neurocare-and-trauma-research-hospital-in-hisar-hisar",
@@ -7588,7 +7652,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VK+Neurocare+and+Trauma+Research+Hospital+In+Hisar/@29.129711,75.7433069,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336eb1f0f319:0x3c6806fbac286fac!8m2!3d29.129711!4d75.7433069!16s%2Fg%2F1pp2x6jtk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VK+Neurocare+and+Trauma+Research+Hospital+In+Hisar/@29.129711,75.7433069,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336eb1f0f319:0x3c6806fbac286fac!8m2!3d29.129711!4d75.7433069!16s%2Fg%2F1pp2x6jtk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7657,6 +7721,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VK+Neurocare+and+Trauma+Research+Hospital+In+Hisar/@29.129711,75.7433069,17z/data=!3m1!4b1!4m6!3m5!1s0x3912336eb1f0f319:0x3c6806fbac286fac!8m2!3d29.129711!4d75.7433069!16s%2Fg%2F1pp2x6jtk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

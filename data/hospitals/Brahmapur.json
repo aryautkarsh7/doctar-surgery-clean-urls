@@ -47,7 +47,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/*DIVINE+NURSING+HOME*/@19.310768,84.804601,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51439195ef25:0x21809350a2b8d933!8m2!3d19.310768!4d84.804601!16s%2Fg%2F11h6qlryfg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/*DIVINE+NURSING+HOME*/@19.310768,84.804601,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51439195ef25:0x21809350a2b8d933!8m2!3d19.310768!4d84.804601!16s%2Fg%2F11h6qlryfg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -116,7 +116,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/*DIVINE+NURSING+HOME*/@19.310768,84.804601,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51439195ef25:0x21809350a2b8d933!8m2!3d19.310768!4d84.804601!16s%2Fg%2F11h6qlryfg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aahan-dental-care-brahmapur",
@@ -164,7 +165,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aahan+Dental+Care/@19.3081244,84.8064632,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51005407050b:0xb86acb7593f33666!8m2!3d19.3081244!4d84.8064632!16s%2Fg%2F11xknbr90l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aahan+Dental+Care/@19.3081244,84.8064632,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51005407050b:0xb86acb7593f33666!8m2!3d19.3081244!4d84.8064632!16s%2Fg%2F11xknbr90l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -230,10 +231,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aahan+Dental+Care/@19.3081244,84.8064632,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51005407050b:0xb86acb7593f33666!8m2!3d19.3081244!4d84.8064632!16s%2Fg%2F11xknbr90l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aastha-hospital-brahmapur",
@@ -282,7 +284,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aastha+Hospital/@19.3118882,84.8054087,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507a70000001:0x94f99fe0601af68!8m2!3d19.3118882!4d84.8054087!16s%2Fg%2F1hd_g7063?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+Hospital/@19.3118882,84.8054087,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507a70000001:0x94f99fe0601af68!8m2!3d19.3118882!4d84.8054087!16s%2Fg%2F1hd_g7063?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -351,7 +353,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aastha+Hospital/@19.3118882,84.8054087,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507a70000001:0x94f99fe0601af68!8m2!3d19.3118882!4d84.8054087!16s%2Fg%2F1hd_g7063?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aayush-hospital-brahmapur",
@@ -399,7 +402,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Aayush+Hospital/@19.3149121,84.8015312,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5071b6301c9f:0x8f672f0a6d5bbd8b!8m2!3d19.3149121!4d84.8015312!16s%2Fg%2F11f4qjv9xd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aayush+Hospital/@19.3149121,84.8015312,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5071b6301c9f:0x8f672f0a6d5bbd8b!8m2!3d19.3149121!4d84.8015312!16s%2Fg%2F11f4qjv9xd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -468,7 +471,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aayush+Hospital/@19.3149121,84.8015312,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5071b6301c9f:0x8f672f0a6d5bbd8b!8m2!3d19.3149121!4d84.8015312!16s%2Fg%2F11f4qjv9xd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aeshrat-nursing-home-and-polyclinic-brahmapur",
@@ -516,7 +520,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Aeshrat+Nursing+Home+And+Polyclinic/@19.3109843,84.7905817,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500c6d9980d3:0x23781974d3d3c322!8m2!3d19.3109843!4d84.7905817!16s%2Fg%2F1td5_4c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aeshrat+Nursing+Home+And+Polyclinic/@19.3109843,84.7905817,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500c6d9980d3:0x23781974d3d3c322!8m2!3d19.3109843!4d84.7905817!16s%2Fg%2F1td5_4c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -585,7 +589,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aeshrat+Nursing+Home+And+Polyclinic/@19.3109843,84.7905817,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500c6d9980d3:0x23781974d3d3c322!8m2!3d19.3109843!4d84.7905817!16s%2Fg%2F1td5_4c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amit-hospital-brahmapur",
@@ -633,7 +638,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/AMIT+HOSPITAL/data=!4m7!3m6!1s0x3a3d500d41b6b4df:0x3ca004fd73a6026b!8m2!3d19.3148928!4d84.7931611!16s%2Fg%2F1tq4pj3r!19sChIJ37S2QQ1QPToRawKmc_0EoDw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMIT+HOSPITAL/data=!4m7!3m6!1s0x3a3d500d41b6b4df:0x3ca004fd73a6026b!8m2!3d19.3148928!4d84.7931611!16s%2Fg%2F1tq4pj3r!19sChIJ37S2QQ1QPToRawKmc_0EoDw?authuser=0&hl=en&rclk=1"
@@ -702,7 +707,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AMIT+HOSPITAL/data=!4m7!3m6!1s0x3a3d500d41b6b4df:0x3ca004fd73a6026b!8m2!3d19.3148928!4d84.7931611!16s%2Fg%2F1tq4pj3r!19sChIJ37S2QQ1QPToRawKmc_0EoDw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "amrut-hospital-brahmapur",
@@ -750,7 +756,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Amrut+Hospital/@19.3123333,84.8022806,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d513aef3d2a33:0x825215da1c2b93e5!8m2!3d19.3123333!4d84.8022806!16s%2Fg%2F11rpq54vlq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrut+Hospital/@19.3123333,84.8022806,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d513aef3d2a33:0x825215da1c2b93e5!8m2!3d19.3123333!4d84.8022806!16s%2Fg%2F11rpq54vlq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -819,7 +825,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrut+Hospital/@19.3123333,84.8022806,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d513aef3d2a33:0x825215da1c2b93e5!8m2!3d19.3123333!4d84.8022806!16s%2Fg%2F11rpq54vlq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amrut-hospital-urology-brahmapur",
@@ -868,7 +875,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Amrut+Hospital+Urology/@19.3124334,84.8013539,17z/data=!3m1!4b1!4m6!3m5!1s0x4d52b082f8bd615f:0x1f283f4d767fe35!8m2!3d19.3124334!4d84.8013539!16s%2Fg%2F11sjrnmry4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrut+Hospital+Urology/@19.3124334,84.8013539,17z/data=!3m1!4b1!4m6!3m5!1s0x4d52b082f8bd615f:0x1f283f4d767fe35!8m2!3d19.3124334!4d84.8013539!16s%2Fg%2F11sjrnmry4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -934,10 +941,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrut+Hospital+Urology/@19.3124334,84.8013539,17z/data=!3m1!4b1!4m6!3m5!1s0x4d52b082f8bd615f:0x1f283f4d767fe35!8m2!3d19.3124334!4d84.8013539!16s%2Fg%2F11sjrnmry4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anuradha-hospital-brahmapur",
@@ -986,7 +994,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Anuradha+Hospital/@19.3139999,84.78394,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500f897b45ad:0xac0f1e70aaa0a98f!8m2!3d19.3139999!4d84.78394!16s%2Fg%2F1hf6g2q8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anuradha+Hospital/@19.3139999,84.78394,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500f897b45ad:0xac0f1e70aaa0a98f!8m2!3d19.3139999!4d84.78394!16s%2Fg%2F1hf6g2q8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1052,10 +1060,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anuradha+Hospital/@19.3139999,84.78394,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500f897b45ad:0xac0f1e70aaa0a98f!8m2!3d19.3139999!4d84.78394!16s%2Fg%2F1hf6g2q8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anurradha-ladies-clinic-brahmapur",
@@ -1104,7 +1113,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/ANURRADHA+LADIES+CLINIC/@19.3139957,84.7839802,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500f89232e47:0x7b2e0c4ca0b6d6d5!8m2!3d19.3139957!4d84.7839802!16s%2Fg%2F11fx7wdsjk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANURRADHA+LADIES+CLINIC/@19.3139957,84.7839802,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500f89232e47:0x7b2e0c4ca0b6d6d5!8m2!3d19.3139957!4d84.7839802!16s%2Fg%2F11fx7wdsjk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1173,7 +1182,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ANURRADHA+LADIES+CLINIC/@19.3139957,84.7839802,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500f89232e47:0x7b2e0c4ca0b6d6d5!8m2!3d19.3139957!4d84.7839802!16s%2Fg%2F11fx7wdsjk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arogya-dental-care-brahmapur",
@@ -1221,7 +1231,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Arogya+dental+care/@19.3115744,84.8337148,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d512ea8f08ec1:0xf318e41f6b4d554!8m2!3d19.3115744!4d84.8337148!16s%2Fg%2F11fsm3y3rp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arogya+dental+care/@19.3115744,84.8337148,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d512ea8f08ec1:0xf318e41f6b4d554!8m2!3d19.3115744!4d84.8337148!16s%2Fg%2F11fsm3y3rp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1290,7 +1300,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arogya+dental+care/@19.3115744,84.8337148,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d512ea8f08ec1:0xf318e41f6b4d554!8m2!3d19.3115744!4d84.8337148!16s%2Fg%2F11fsm3y3rp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arya-aesthetics-and-cosmetics-brahmapur",
@@ -1339,7 +1350,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Arya+Aesthetics+And+Cosmetics/@19.3072525,84.8060163,17z/data=!3m1!4b1!4m6!3m5!1s0x21de9ae40aaf3a3f:0x9ce3ef10d3651207!8m2!3d19.3072525!4d84.8060163!16s%2Fg%2F11vxg7h2g4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arya+Aesthetics+And+Cosmetics/@19.3072525,84.8060163,17z/data=!3m1!4b1!4m6!3m5!1s0x21de9ae40aaf3a3f:0x9ce3ef10d3651207!8m2!3d19.3072525!4d84.8060163!16s%2Fg%2F11vxg7h2g4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1408,7 +1419,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arya+Aesthetics+And+Cosmetics/@19.3072525,84.8060163,17z/data=!3m1!4b1!4m6!3m5!1s0x21de9ae40aaf3a3f:0x9ce3ef10d3651207!8m2!3d19.3072525!4d84.8060163!16s%2Fg%2F11vxg7h2g4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashutosh-hospital-brahmapur",
@@ -1456,7 +1468,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Ashutosh+Hospital/@19.3078375,84.8193906,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50819dcbeeed:0x41e529b9795f309a!8m2!3d19.3078375!4d84.8193906!16s%2Fg%2F11dx8mpggw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashutosh+Hospital/@19.3078375,84.8193906,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50819dcbeeed:0x41e529b9795f309a!8m2!3d19.3078375!4d84.8193906!16s%2Fg%2F11dx8mpggw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1525,7 +1537,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashutosh+Hospital/@19.3078375,84.8193906,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50819dcbeeed:0x41e529b9795f309a!8m2!3d19.3078375!4d84.8193906!16s%2Fg%2F11dx8mpggw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "audizone-hearing-care-pvt-ltd-berhampur-brahmapur",
@@ -1574,7 +1587,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Audizone+hearing+Care+Pvt+Ltd.+Berhampur/@19.3085329,84.8064409,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51e7ec89347d:0xf5e71c4a15756107!8m2!3d19.3085329!4d84.8064409!16s%2Fg%2F11qn06bpt0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Audizone+hearing+Care+Pvt+Ltd.+Berhampur/@19.3085329,84.8064409,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51e7ec89347d:0xf5e71c4a15756107!8m2!3d19.3085329!4d84.8064409!16s%2Fg%2F11qn06bpt0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1643,7 +1656,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Audizone+hearing+Care+Pvt+Ltd.+Berhampur/@19.3085329,84.8064409,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51e7ec89347d:0xf5e71c4a15756107!8m2!3d19.3085329!4d84.8064409!16s%2Fg%2F11qn06bpt0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aziz-dental-care-brahmapur",
@@ -1691,7 +1705,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Aziz+Dental+Care/@19.3146036,84.7750437,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5002c4154e8d:0xfbbc424eb9fc6fef!8m2!3d19.3146036!4d84.7750437!16s%2Fg%2F11f123j3g5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aziz+Dental+Care/@19.3146036,84.7750437,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5002c4154e8d:0xfbbc424eb9fc6fef!8m2!3d19.3146036!4d84.7750437!16s%2Fg%2F11f123j3g5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1760,7 +1774,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aziz+Dental+Care/@19.3146036,84.7750437,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5002c4154e8d:0xfbbc424eb9fc6fef!8m2!3d19.3146036!4d84.7750437!16s%2Fg%2F11f123j3g5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "b-m-clinic-brahmapur",
@@ -1808,7 +1823,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/B.m.+clinic/@19.3152224,84.8021601,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070fe7bf961:0x298ae1aca480024a!8m2!3d19.3152224!4d84.8021601!16s%2Fg%2F11f04d8k83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B.m.+clinic/@19.3152224,84.8021601,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070fe7bf961:0x298ae1aca480024a!8m2!3d19.3152224!4d84.8021601!16s%2Fg%2F11f04d8k83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1874,10 +1889,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/B.m.+clinic/@19.3152224,84.8021601,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070fe7bf961:0x298ae1aca480024a!8m2!3d19.3152224!4d84.8021601!16s%2Fg%2F11f04d8k83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "b3-best-hair-transplant-clinic-brahmapur",
@@ -1926,7 +1942,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/B3+BEST+HAIR+TRANSPLANT+CLINIC/@19.3043591,84.7977266,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5b2c14476ef5:0x44319b9665b7242!8m2!3d19.3043591!4d84.7977266!16s%2Fg%2F11q580vddq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B3+BEST+HAIR+TRANSPLANT+CLINIC/@19.3043591,84.7977266,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5b2c14476ef5:0x44319b9665b7242!8m2!3d19.3043591!4d84.7977266!16s%2Fg%2F11q580vddq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1992,10 +2008,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/B3+BEST+HAIR+TRANSPLANT+CLINIC/@19.3043591,84.7977266,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5b2c14476ef5:0x44319b9665b7242!8m2!3d19.3043591!4d84.7977266!16s%2Fg%2F11q580vddq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "balaji-diagnostic-and-research-centre-berehampur-brahmapur",
@@ -2045,7 +2062,7 @@
       "Google rating 1.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BALAJI+DIAGNOSTIC+AND+RESEARCH+CENTRE+BEREHAMPUR/@19.3064928,84.8089778,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5031184fbd79:0x19654ab5e44c1e81!8m2!3d19.3064928!4d84.8089778!16s%2Fg%2F11bvvzr6m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BALAJI+DIAGNOSTIC+AND+RESEARCH+CENTRE+BEREHAMPUR/@19.3064928,84.8089778,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5031184fbd79:0x19654ab5e44c1e81!8m2!3d19.3064928!4d84.8089778!16s%2Fg%2F11bvvzr6m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2114,7 +2131,8 @@
     "rating": 1.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BALAJI+DIAGNOSTIC+AND+RESEARCH+CENTRE+BEREHAMPUR/@19.3064928,84.8089778,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5031184fbd79:0x19654ab5e44c1e81!8m2!3d19.3064928!4d84.8089778!16s%2Fg%2F11bvvzr6m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bansadhara-hospital-brahampur",
@@ -2162,7 +2180,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Bansadhara+Hospital/@19.307595,84.8087068,17z/data=!3m1!4b1!4m6!3m5!1s0x3a1a212daaaaaaab:0xdabd46931d4a4294!8m2!3d19.307595!4d84.8087068!16s%2Fg%2F1thx707r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansadhara+Hospital/@19.307595,84.8087068,17z/data=!3m1!4b1!4m6!3m5!1s0x3a1a212daaaaaaab:0xdabd46931d4a4294!8m2!3d19.307595!4d84.8087068!16s%2Fg%2F1thx707r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2231,7 +2249,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bansadhara+Hospital/@19.307595,84.8087068,17z/data=!3m1!4b1!4m6!3m5!1s0x3a1a212daaaaaaab:0xdabd46931d4a4294!8m2!3d19.307595!4d84.8087068!16s%2Fg%2F1thx707r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "berhampur-cardiac-centre-brahmapur",
@@ -2280,7 +2299,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Berhampur+Cardiac+Centre/@19.3067512,84.8085365,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5158e342b825:0xfe2ca6f31313f12b!8m2!3d19.3067512!4d84.8085365!16s%2Fg%2F11ghzndvxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Berhampur+Cardiac+Centre/@19.3067512,84.8085365,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5158e342b825:0xfe2ca6f31313f12b!8m2!3d19.3067512!4d84.8085365!16s%2Fg%2F11ghzndvxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2349,7 +2368,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Berhampur+Cardiac+Centre/@19.3067512,84.8085365,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5158e342b825:0xfe2ca6f31313f12b!8m2!3d19.3067512!4d84.8085365!16s%2Fg%2F11ghzndvxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "berhampur-dental-clinic-brahmapur",
@@ -2397,7 +2417,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Berhampur+Dental+Clinic/@19.3099052,84.7955131,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507490acaa53:0x5fdfa7d8fa8190fb!8m2!3d19.3099052!4d84.7955131!16s%2Fg%2F11b7jfm1f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Berhampur+Dental+Clinic/@19.3099052,84.7955131,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507490acaa53:0x5fdfa7d8fa8190fb!8m2!3d19.3099052!4d84.7955131!16s%2Fg%2F11b7jfm1f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2466,7 +2486,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Berhampur+Dental+Clinic/@19.3099052,84.7955131,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507490acaa53:0x5fdfa7d8fa8190fb!8m2!3d19.3099052!4d84.7955131!16s%2Fg%2F11b7jfm1f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "berhampur-urology-center-brahmapur",
@@ -2514,7 +2535,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Berhampur+Urology+Center/@19.3124975,84.8012372,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50711176a237:0x3b5da616acb367d0!8m2!3d19.3124975!4d84.8012372!16s%2Fg%2F1thvr36r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Berhampur+Urology+Center/@19.3124975,84.8012372,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50711176a237:0x3b5da616acb367d0!8m2!3d19.3124975!4d84.8012372!16s%2Fg%2F1thvr36r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2583,7 +2604,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Berhampur+Urology+Center/@19.3124975,84.8012372,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50711176a237:0x3b5da616acb367d0!8m2!3d19.3124975!4d84.8012372!16s%2Fg%2F1thvr36r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhabani-diagnostic-centre-brahmapur",
@@ -2632,7 +2654,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Bhabani+Diagnostic+Centre/@19.3082589,84.8063129,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507849f45867:0x3cac8c564dc9dc15!8m2!3d19.3082589!4d84.8063129!16s%2Fg%2F11fylk7h7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhabani+Diagnostic+Centre/@19.3082589,84.8063129,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507849f45867:0x3cac8c564dc9dc15!8m2!3d19.3082589!4d84.8063129!16s%2Fg%2F11fylk7h7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2701,7 +2723,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhabani+Diagnostic+Centre/@19.3082589,84.8063129,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507849f45867:0x3cac8c564dc9dc15!8m2!3d19.3082589!4d84.8063129!16s%2Fg%2F11fylk7h7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhagabati-physiotherapy-clinic-brahmapur",
@@ -2750,7 +2773,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Bhagabati+Physiotherapy+Clinic/@19.3082416,84.8066974,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51d1e597d7a5:0x61549d303eb3e946!8m2!3d19.3082416!4d84.8066974!16s%2Fg%2F11fjmby3np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagabati+Physiotherapy+Clinic/@19.3082416,84.8066974,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51d1e597d7a5:0x61549d303eb3e946!8m2!3d19.3082416!4d84.8066974!16s%2Fg%2F11fjmby3np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2819,7 +2842,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhagabati+Physiotherapy+Clinic/@19.3082416,84.8066974,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51d1e597d7a5:0x61549d303eb3e946!8m2!3d19.3082416!4d84.8066974!16s%2Fg%2F11fjmby3np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bharat-clinic-brahmapur",
@@ -2868,7 +2892,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/BHARAT+CLINIC/@19.3090247,84.8060611,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51621f61f23b:0x1e2cf80ea3e418bc!8m2!3d19.3090247!4d84.8060611!16s%2Fg%2F11fr5x26m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BHARAT+CLINIC/@19.3090247,84.8060611,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51621f61f23b:0x1e2cf80ea3e418bc!8m2!3d19.3090247!4d84.8060611!16s%2Fg%2F11fr5x26m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2937,7 +2961,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BHARAT+CLINIC/@19.3090247,84.8060611,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51621f61f23b:0x1e2cf80ea3e418bc!8m2!3d19.3090247!4d84.8060611!16s%2Fg%2F11fr5x26m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bheshaj-clinic-brahmapur",
@@ -2985,7 +3010,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/BHESHAJ+CLINIC/@19.3152884,84.8022114,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51903dd39031:0x3bdb5a6c831ceb4e!8m2!3d19.3152884!4d84.8022114!16s%2Fg%2F11mhh43vky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BHESHAJ+CLINIC/@19.3152884,84.8022114,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51903dd39031:0x3bdb5a6c831ceb4e!8m2!3d19.3152884!4d84.8022114!16s%2Fg%2F11mhh43vky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3054,7 +3079,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BHESHAJ+CLINIC/@19.3152884,84.8022114,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51903dd39031:0x3bdb5a6c831ceb4e!8m2!3d19.3152884!4d84.8022114!16s%2Fg%2F11mhh43vky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "biju-pattnaik-homoeopathic-medical-college-and-hospital-brahmapur",
@@ -3104,7 +3130,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Biju+Pattnaik+Homoeopathic+Medical+College+And+Hospital/@19.3122394,84.7939238,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500cd8666989:0xa636af13c0178e99!8m2!3d19.3122394!4d84.7939238!16s%2Fg%2F11b6nhgm4m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Biju+Pattnaik+Homoeopathic+Medical+College+And+Hospital/@19.3122394,84.7939238,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500cd8666989:0xa636af13c0178e99!8m2!3d19.3122394!4d84.7939238!16s%2Fg%2F11b6nhgm4m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3173,7 +3199,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Biju+Pattnaik+Homoeopathic+Medical+College+And+Hospital/@19.3122394,84.7939238,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500cd8666989:0xa636af13c0178e99!8m2!3d19.3122394!4d84.7939238!16s%2Fg%2F11b6nhgm4m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "biswanath-uro-care-hospital-brahmapur",
@@ -3221,7 +3248,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Biswanath+Uro+Care+Hospital/@19.3152478,84.79959,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5071b1edee0f:0x7ed1d8f9b99b87ca!8m2!3d19.3152478!4d84.79959!16s%2Fg%2F11g9vmp15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Biswanath+Uro+Care+Hospital/@19.3152478,84.79959,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5071b1edee0f:0x7ed1d8f9b99b87ca!8m2!3d19.3152478!4d84.79959!16s%2Fg%2F11g9vmp15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3290,7 +3317,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Biswanath+Uro+Care+Hospital/@19.3152478,84.79959,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5071b1edee0f:0x7ed1d8f9b99b87ca!8m2!3d19.3152478!4d84.79959!16s%2Fg%2F11g9vmp15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bone-and-brain-physiotherapy-clinic-brahmapur",
@@ -3341,7 +3369,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/BONE+AND+BRAIN+PHYSIOTHERAPY+CLINIC/@19.3217087,84.8053767,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d519a29b81031:0xa281fc6403edd49b!8m2!3d19.3217087!4d84.8053767!16s%2Fg%2F11y6b52b1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BONE+AND+BRAIN+PHYSIOTHERAPY+CLINIC/@19.3217087,84.8053767,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d519a29b81031:0xa281fc6403edd49b!8m2!3d19.3217087!4d84.8053767!16s%2Fg%2F11y6b52b1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3410,7 +3438,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BONE+AND+BRAIN+PHYSIOTHERAPY+CLINIC/@19.3217087,84.8053767,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d519a29b81031:0xa281fc6403edd49b!8m2!3d19.3217087!4d84.8053767!16s%2Fg%2F11y6b52b1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cancer-care-centre-brahmapur",
@@ -3458,7 +3487,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Cancer+Care+Centre/@19.3150997,84.8043781,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51001344f84d:0x6f95f54ce5cd5fa5!8m2!3d19.3150997!4d84.8043781!16s%2Fg%2F11x092shpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cancer+Care+Centre/@19.3150997,84.8043781,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51001344f84d:0x6f95f54ce5cd5fa5!8m2!3d19.3150997!4d84.8043781!16s%2Fg%2F11x092shpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3524,10 +3553,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cancer+Care+Centre/@19.3150997,84.8043781,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51001344f84d:0x6f95f54ce5cd5fa5!8m2!3d19.3150997!4d84.8043781!16s%2Fg%2F11x092shpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chakadola-clinic-brahmapur",
@@ -3575,7 +3605,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Chakadola+Clinic/@19.3183244,84.7954868,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d506d3d66eecf:0xa7c7948645e86fc!8m2!3d19.3183244!4d84.7954868!16s%2Fg%2F11fj8hhq4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chakadola+Clinic/@19.3183244,84.7954868,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d506d3d66eecf:0xa7c7948645e86fc!8m2!3d19.3183244!4d84.7954868!16s%2Fg%2F11fj8hhq4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3641,10 +3671,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chakadola+Clinic/@19.3183244,84.7954868,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d506d3d66eecf:0xa7c7948645e86fc!8m2!3d19.3183244!4d84.7954868!16s%2Fg%2F11fj8hhq4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chandan-dental-clinic-and-orthodontic-clip-centre-brahmapur",
@@ -3693,7 +3724,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/CHANDAN+DENTAL+CLINIC+AND+ORTHODONTIC+CLIP+CENTRE/@19.306111,84.8067019,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507f31655e65:0x75ecf8365290a583!8m2!3d19.306111!4d84.8067019!16s%2Fg%2F11g8ybh8n_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CHANDAN+DENTAL+CLINIC+AND+ORTHODONTIC+CLIP+CENTRE/@19.306111,84.8067019,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507f31655e65:0x75ecf8365290a583!8m2!3d19.306111!4d84.8067019!16s%2Fg%2F11g8ybh8n_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3762,7 +3793,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CHANDAN+DENTAL+CLINIC+AND+ORTHODONTIC+CLIP+CENTRE/@19.306111,84.8067019,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507f31655e65:0x75ecf8365290a583!8m2!3d19.306111!4d84.8067019!16s%2Fg%2F11g8ybh8n_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chandana-hospital-berhampur-brahmapur",
@@ -3810,7 +3842,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Chandana+Hospital,+Berhampur/@19.3146427,84.7932472,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51015582433f:0xde07146e1538e44d!8m2!3d19.3146427!4d84.7932472!16s%2Fg%2F11xr_9gznc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandana+Hospital,+Berhampur/@19.3146427,84.7932472,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51015582433f:0xde07146e1538e44d!8m2!3d19.3146427!4d84.7932472!16s%2Fg%2F11xr_9gznc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3876,10 +3908,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chandana+Hospital,+Berhampur/@19.3146427,84.7932472,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51015582433f:0xde07146e1538e44d!8m2!3d19.3146427!4d84.7932472!16s%2Fg%2F11xr_9gznc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-hospital-brahmapur",
@@ -3927,7 +3960,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/City+Hospital/@19.3127849,84.7935111,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500cc5c68c73:0xa8e7c83972981565!8m2!3d19.3127849!4d84.7935111!16s%2Fg%2F1tftzzh5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Hospital/@19.3127849,84.7935111,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500cc5c68c73:0xa8e7c83972981565!8m2!3d19.3127849!4d84.7935111!16s%2Fg%2F1tftzzh5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3996,7 +4029,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Hospital/@19.3127849,84.7935111,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500cc5c68c73:0xa8e7c83972981565!8m2!3d19.3127849!4d84.7935111!16s%2Fg%2F1tftzzh5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cure-and-care-brahmapur",
@@ -4044,7 +4078,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Cure+and+care/@19.3086611,84.789402,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5128a9776019:0x95f898bee0fa9903!8m2!3d19.3086611!4d84.789402!16s%2Fg%2F11h11knf3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cure+and+care/@19.3086611,84.789402,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5128a9776019:0x95f898bee0fa9903!8m2!3d19.3086611!4d84.789402!16s%2Fg%2F11h11knf3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4110,10 +4144,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cure+and+care/@19.3086611,84.789402,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5128a9776019:0x95f898bee0fa9903!8m2!3d19.3086611!4d84.789402!16s%2Fg%2F11h11knf3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "digident-dental-care-brahmapur",
@@ -4162,7 +4197,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Digident+Dental+Care/@19.3116384,84.7931569,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d515286d776cb:0x21ac187188427682!8m2!3d19.3116384!4d84.7931569!16s%2Fg%2F11xyglstwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Digident+Dental+Care/@19.3116384,84.7931569,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d515286d776cb:0x21ac187188427682!8m2!3d19.3116384!4d84.7931569!16s%2Fg%2F11xyglstwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4231,7 +4266,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Digident+Dental+Care/@19.3116384,84.7931569,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d515286d776cb:0x21ac187188427682!8m2!3d19.3116384!4d84.7931569!16s%2Fg%2F11xyglstwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dynamic-ayur-care-brahmapur",
@@ -4280,7 +4316,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dynamic+Ayur+Care/@19.3218669,84.7977973,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d513b934c6ccf:0xb933f27340de6c9!8m2!3d19.3218669!4d84.7977973!16s%2Fg%2F11sgmyrl91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dynamic+Ayur+Care/@19.3218669,84.7977973,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d513b934c6ccf:0xb933f27340de6c9!8m2!3d19.3218669!4d84.7977973!16s%2Fg%2F11sgmyrl91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4349,7 +4385,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dynamic+Ayur+Care/@19.3218669,84.7977973,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d513b934c6ccf:0xb933f27340de6c9!8m2!3d19.3218669!4d84.7977973!16s%2Fg%2F11sgmyrl91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dynamic-health-care-brahmapur",
@@ -4397,7 +4434,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Dynamic+Health+Care/@19.3080839,84.806454,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516a929b762b:0xaa8f147294587087!8m2!3d19.3080839!4d84.806454!16s%2Fg%2F11nmlwggjl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dynamic+Health+Care/@19.3080839,84.806454,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516a929b762b:0xaa8f147294587087!8m2!3d19.3080839!4d84.806454!16s%2Fg%2F11nmlwggjl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4466,7 +4503,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dynamic+Health+Care/@19.3080839,84.806454,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516a929b762b:0xaa8f147294587087!8m2!3d19.3080839!4d84.806454!16s%2Fg%2F11nmlwggjl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eye-care-hospital-brahmapur",
@@ -4514,7 +4552,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Eye+Care+Hospital/@19.309704,84.787802,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d517419debd11:0x775bb59f201f97b7!8m2!3d19.309704!4d84.787802!16s%2Fg%2F11k3d084ds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eye+Care+Hospital/@19.309704,84.787802,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d517419debd11:0x775bb59f201f97b7!8m2!3d19.309704!4d84.787802!16s%2Fg%2F11k3d084ds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4583,7 +4621,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eye+Care+Hospital/@19.309704,84.787802,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d517419debd11:0x775bb59f201f97b7!8m2!3d19.309704!4d84.787802!16s%2Fg%2F11k3d084ds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ganesh-health-care-berhampur-ganjam-odisha-dr-jitendra-kumar-panigrahi-dr-minakshi-muni-clinic-brahmapur",
@@ -4631,7 +4670,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ganesh+Health+Care+Berhampur,Ganjam,+odisha,Dr+Jitendra+Kumar+Panigrahi,Dr+Minakshi+Muni,+Clinic/@19.3203145,84.791947,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d510ed6583351:0x2d6cb33e78ed3ff9!8m2!3d19.3203145!4d84.791947!16s%2Fg%2F11y5ntq9ly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganesh+Health+Care+Berhampur,Ganjam,+odisha,Dr+Jitendra+Kumar+Panigrahi,Dr+Minakshi+Muni,+Clinic/@19.3203145,84.791947,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d510ed6583351:0x2d6cb33e78ed3ff9!8m2!3d19.3203145!4d84.791947!16s%2Fg%2F11y5ntq9ly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4697,10 +4736,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ganesh+Health+Care+Berhampur,Ganjam,+odisha,Dr+Jitendra+Kumar+Panigrahi,Dr+Minakshi+Muni,+Clinic/@19.3203145,84.791947,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d510ed6583351:0x2d6cb33e78ed3ff9!8m2!3d19.3203145!4d84.791947!16s%2Fg%2F11y5ntq9ly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gayatri-clinic-brahmapur",
@@ -4748,7 +4788,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gayatri+Clinic/@19.3126238,84.8007527,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50716d30dc93:0x88d741575df2ed1a!8m2!3d19.3126238!4d84.8007527!16s%2Fg%2F11r8fspk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayatri+Clinic/@19.3126238,84.8007527,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50716d30dc93:0x88d741575df2ed1a!8m2!3d19.3126238!4d84.8007527!16s%2Fg%2F11r8fspk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4814,10 +4854,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gayatri+Clinic/@19.3126238,84.8007527,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50716d30dc93:0x88d741575df2ed1a!8m2!3d19.3126238!4d84.8007527!16s%2Fg%2F11r8fspk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "global-physiotherapy-clinic-brahmapur",
@@ -4866,7 +4907,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Global+physiotherapy+clinic/@19.3005654,84.8177802,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5b2457cbce6f:0x4f745d1b56bcccc1!8m2!3d19.3005654!4d84.8177802!16s%2Fg%2F11stdq558y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+physiotherapy+clinic/@19.3005654,84.8177802,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5b2457cbce6f:0x4f745d1b56bcccc1!8m2!3d19.3005654!4d84.8177802!16s%2Fg%2F11stdq558y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4935,7 +4976,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Global+physiotherapy+clinic/@19.3005654,84.8177802,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5b2457cbce6f:0x4f745d1b56bcccc1!8m2!3d19.3005654!4d84.8177802!16s%2Fg%2F11stdq558y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gurudev-hospital-brahmapur",
@@ -4983,7 +5025,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Gurudev+Hospital/@19.3144536,84.8020152,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079bd372db1:0x9d3dbbb062e701bf!8m2!3d19.3144536!4d84.8020152!16s%2Fg%2F11b6bdzwtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurudev+Hospital/@19.3144536,84.8020152,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079bd372db1:0x9d3dbbb062e701bf!8m2!3d19.3144536!4d84.8020152!16s%2Fg%2F11b6bdzwtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5049,10 +5091,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gurudev+Hospital/@19.3144536,84.8020152,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079bd372db1:0x9d3dbbb062e701bf!8m2!3d19.3144536!4d84.8020152!16s%2Fg%2F11b6bdzwtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hair-line-beauty-clinic-brahmapur",
@@ -5101,7 +5144,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Hair+Line+Beauty+Clinic/@19.314379,84.7869115,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500e4834933b:0xed98993061acad5f!8m2!3d19.314379!4d84.7869115!16s%2Fg%2F11c5gxg05l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hair+Line+Beauty+Clinic/@19.314379,84.7869115,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500e4834933b:0xed98993061acad5f!8m2!3d19.314379!4d84.7869115!16s%2Fg%2F11c5gxg05l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5170,7 +5213,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hair+Line+Beauty+Clinic/@19.314379,84.7869115,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500e4834933b:0xed98993061acad5f!8m2!3d19.314379!4d84.7869115!16s%2Fg%2F11c5gxg05l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "health-care-patho-lab-brahmapur",
@@ -5220,7 +5264,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HEALTH+CARE+PATHO+LAB/@19.3052018,84.8010168,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51ae9f9f5819:0xb7e9f10f3c275157!8m2!3d19.3052018!4d84.8010168!16s%2Fg%2F11h56vwtfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HEALTH+CARE+PATHO+LAB/@19.3052018,84.8010168,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51ae9f9f5819:0xb7e9f10f3c275157!8m2!3d19.3052018!4d84.8010168!16s%2Fg%2F11h56vwtfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5289,7 +5333,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HEALTH+CARE+PATHO+LAB/@19.3052018,84.8010168,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51ae9f9f5819:0xb7e9f10f3c275157!8m2!3d19.3052018!4d84.8010168!16s%2Fg%2F11h56vwtfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indu-s-unisex-salon-and-clinic-academy-brahmapur",
@@ -5338,7 +5383,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Indu's+Unisex+Salon+%26+Clinic+Academy/@19.3145292,84.791981,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51685e7cdc15:0xe6c46d281e40c316!8m2!3d19.3145292!4d84.791981!16s%2Fg%2F11vy_wcck5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indu's+Unisex+Salon+%26+Clinic+Academy/@19.3145292,84.791981,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51685e7cdc15:0xe6c46d281e40c316!8m2!3d19.3145292!4d84.791981!16s%2Fg%2F11vy_wcck5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5407,7 +5452,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indu's+Unisex+Salon+%26+Clinic+Academy/@19.3145292,84.791981,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51685e7cdc15:0xe6c46d281e40c316!8m2!3d19.3145292!4d84.791981!16s%2Fg%2F11vy_wcck5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jagannath-hospital-brahmapur",
@@ -5455,7 +5501,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Jagannath+Hospital/@19.3090116,84.8063655,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51dc03f03787:0x84558f6520cfa42d!8m2!3d19.3090116!4d84.8063655!16s%2Fg%2F11nxs_fznt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jagannath+Hospital/@19.3090116,84.8063655,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51dc03f03787:0x84558f6520cfa42d!8m2!3d19.3090116!4d84.8063655!16s%2Fg%2F11nxs_fznt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5524,7 +5570,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jagannath+Hospital/@19.3090116,84.8063655,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51dc03f03787:0x84558f6520cfa42d!8m2!3d19.3090116!4d84.8063655!16s%2Fg%2F11nxs_fznt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "janata-dental-clinic-brahmapur",
@@ -5573,7 +5620,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/JANATA+DENTAL+CLINIC+%F0%9F%A6%B7/@19.3152612,84.7888244,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51621e60cdb1:0x6e4d6ae1e8106c99!8m2!3d19.3152612!4d84.7888244!16s%2Fg%2F11gk3lcglh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JANATA+DENTAL+CLINIC+%F0%9F%A6%B7/@19.3152612,84.7888244,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51621e60cdb1:0x6e4d6ae1e8106c99!8m2!3d19.3152612!4d84.7888244!16s%2Fg%2F11gk3lcglh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5642,7 +5689,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JANATA+DENTAL+CLINIC+%F0%9F%A6%B7/@19.3152612,84.7888244,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51621e60cdb1:0x6e4d6ae1e8106c99!8m2!3d19.3152612!4d84.7888244!16s%2Fg%2F11gk3lcglh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jasodhara-life-hospital-and-maternity-centre-brahmapur",
@@ -5691,7 +5739,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jasodhara+Life+Hospital+And+Maternity+Centre/@19.3210625,84.7709375,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d4fe22b9a87cf:0x8b01e39f86ac12c3!8m2!3d19.3210625!4d84.7709375!16s%2Fg%2F11cs5y5ql0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jasodhara+Life+Hospital+And+Maternity+Centre/@19.3210625,84.7709375,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d4fe22b9a87cf:0x8b01e39f86ac12c3!8m2!3d19.3210625!4d84.7709375!16s%2Fg%2F11cs5y5ql0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5760,7 +5808,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jasodhara+Life+Hospital+And+Maternity+Centre/@19.3210625,84.7709375,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d4fe22b9a87cf:0x8b01e39f86ac12c3!8m2!3d19.3210625!4d84.7709375!16s%2Fg%2F11cs5y5ql0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevan-rekha-clinic-home-care-service-brahmapur",
@@ -5810,7 +5859,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Rekha+Clinic+%7C+Home+Care+Service/@19.308189,84.8065523,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d517fcceb4481:0xa5f8fc7d8b2eed5b!8m2!3d19.308189!4d84.8065523!16s%2Fg%2F11pcvf9lr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Rekha+Clinic+%7C+Home+Care+Service/@19.308189,84.8065523,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d517fcceb4481:0xa5f8fc7d8b2eed5b!8m2!3d19.308189!4d84.8065523!16s%2Fg%2F11pcvf9lr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5879,7 +5928,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Rekha+Clinic+%7C+Home+Care+Service/@19.308189,84.8065523,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d517fcceb4481:0xa5f8fc7d8b2eed5b!8m2!3d19.308189!4d84.8065523!16s%2Fg%2F11pcvf9lr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jyoshna-healthcare-brahmapur",
@@ -5927,7 +5977,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Jyoshna+Healthcare/@19.3087158,84.8064967,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5124dfacf671:0x76feb4fe5402cba4!8m2!3d19.3087158!4d84.8064967!16s%2Fg%2F11vyj40jrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jyoshna+Healthcare/@19.3087158,84.8064967,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5124dfacf671:0x76feb4fe5402cba4!8m2!3d19.3087158!4d84.8064967!16s%2Fg%2F11vyj40jrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5996,7 +6046,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jyoshna+Healthcare/@19.3087158,84.8064967,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5124dfacf671:0x76feb4fe5402cba4!8m2!3d19.3087158!4d84.8064967!16s%2Fg%2F11vyj40jrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "k-k-samal-clinic-brahmapur",
@@ -6044,7 +6095,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/K.K.Samal+Clinic/@19.3045233,84.8012123,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50762ceb7313:0x82384624a71e78a9!8m2!3d19.3045233!4d84.8012123!16s%2Fg%2F11c80j8_lt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K.K.Samal+Clinic/@19.3045233,84.8012123,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50762ceb7313:0x82384624a71e78a9!8m2!3d19.3045233!4d84.8012123!16s%2Fg%2F11c80j8_lt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6113,7 +6164,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/K.K.Samal+Clinic/@19.3045233,84.8012123,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50762ceb7313:0x82384624a71e78a9!8m2!3d19.3045233!4d84.8012123!16s%2Fg%2F11c80j8_lt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalinga-dental-clinic-and-implant-center-brahmapur",
@@ -6162,7 +6214,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kalinga+Dental+Clinic+%26+Implant+Center/@19.3081019,84.8211674,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516c89f4f6e5:0x32bfbe570eb7abd4!8m2!3d19.3081019!4d84.8211674!16s%2Fg%2F11sqb8bfnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalinga+Dental+Clinic+%26+Implant+Center/@19.3081019,84.8211674,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516c89f4f6e5:0x32bfbe570eb7abd4!8m2!3d19.3081019!4d84.8211674!16s%2Fg%2F11sqb8bfnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6231,7 +6283,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalinga+Dental+Clinic+%26+Implant+Center/@19.3081019,84.8211674,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516c89f4f6e5:0x32bfbe570eb7abd4!8m2!3d19.3081019!4d84.8211674!16s%2Fg%2F11sqb8bfnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalinga-dental-implant-and-laser-clinic-brahmapur",
@@ -6279,7 +6332,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/KALINGA+DENTAL+IMPLANT+%26+LASER+CLINIC/@19.3138445,84.7764496,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5003227163fb:0xcd3aa7eceb0a3b69!8m2!3d19.3138445!4d84.7764496!16s%2Fg%2F11g6xqqmcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KALINGA+DENTAL+IMPLANT+%26+LASER+CLINIC/@19.3138445,84.7764496,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5003227163fb:0xcd3aa7eceb0a3b69!8m2!3d19.3138445!4d84.7764496!16s%2Fg%2F11g6xqqmcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6348,7 +6401,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KALINGA+DENTAL+IMPLANT+%26+LASER+CLINIC/@19.3138445,84.7764496,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5003227163fb:0xcd3aa7eceb0a3b69!8m2!3d19.3138445!4d84.7764496!16s%2Fg%2F11g6xqqmcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kavach-sevasadan-advanced-ent-hospital-brahmapur",
@@ -6397,7 +6451,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KAVACH+SEVASADAN+(+Advanced+ENT+Hospital)/@19.3153215,84.802067,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51cc1cea0851:0x2983ba38c8a99f89!8m2!3d19.3153215!4d84.802067!16s%2Fg%2F11vk1q577w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KAVACH+SEVASADAN+(+Advanced+ENT+Hospital)/@19.3153215,84.802067,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51cc1cea0851:0x2983ba38c8a99f89!8m2!3d19.3153215!4d84.802067!16s%2Fg%2F11vk1q577w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6466,7 +6520,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KAVACH+SEVASADAN+(+Advanced+ENT+Hospital)/@19.3153215,84.802067,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51cc1cea0851:0x2983ba38c8a99f89!8m2!3d19.3153215!4d84.802067!16s%2Fg%2F11vk1q577w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kgn-sparsh-hospital-brahmapur",
@@ -6514,7 +6569,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Kgn+Sparsh+Hospital/@19.3044508,84.7962667,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50757d0e0a83:0x50f62b472ba292d2!8m2!3d19.3044508!4d84.7962667!16s%2Fg%2F11c5_nk_m8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kgn+Sparsh+Hospital/@19.3044508,84.7962667,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50757d0e0a83:0x50f62b472ba292d2!8m2!3d19.3044508!4d84.7962667!16s%2Fg%2F11c5_nk_m8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6580,10 +6635,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kgn+Sparsh+Hospital/@19.3044508,84.7962667,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50757d0e0a83:0x50f62b472ba292d2!8m2!3d19.3044508!4d84.7962667!16s%2Fg%2F11c5_nk_m8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kidney-care-hospital-brahmapur",
@@ -6632,7 +6688,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kidney+care+hospital/@19.3111566,84.8055787,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d515299925609:0x1689d759461867a3!8m2!3d19.3111566!4d84.8055787!16s%2Fg%2F11vfb9gdgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kidney+care+hospital/@19.3111566,84.8055787,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d515299925609:0x1689d759461867a3!8m2!3d19.3111566!4d84.8055787!16s%2Fg%2F11vfb9gdgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6698,10 +6754,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kidney+care+hospital/@19.3111566,84.8055787,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d515299925609:0x1689d759461867a3!8m2!3d19.3111566!4d84.8055787!16s%2Fg%2F11vfb9gdgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kiera-care-skin-hair-laser-and-weightloss-brahmapur",
@@ -6750,7 +6807,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIERA+CARE+SKIN,+HAIR+,LASER+%26+WEIGHTLOSS/@19.3060715,84.8068498,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51d646658cb3:0xb902f7348c027039!8m2!3d19.3060715!4d84.8068498!16s%2Fg%2F11fss07t0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIERA+CARE+SKIN,+HAIR+,LASER+%26+WEIGHTLOSS/@19.3060715,84.8068498,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51d646658cb3:0xb902f7348c027039!8m2!3d19.3060715!4d84.8068498!16s%2Fg%2F11fss07t0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6819,7 +6876,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIERA+CARE+SKIN,+HAIR+,LASER+%26+WEIGHTLOSS/@19.3060715,84.8068498,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51d646658cb3:0xb902f7348c027039!8m2!3d19.3060715!4d84.8068498!16s%2Fg%2F11fss07t0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "konark-nursing-home-brahmapur",
@@ -6868,7 +6926,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Konark+Nursing+Home/@19.3095673,84.7845472,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5004d96fceb9:0x9c6968a8672c61fd!8m2!3d19.3095673!4d84.7845472!16s%2Fg%2F124ydslxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Konark+Nursing+Home/@19.3095673,84.7845472,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5004d96fceb9:0x9c6968a8672c61fd!8m2!3d19.3095673!4d84.7845472!16s%2Fg%2F124ydslxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6937,7 +6995,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Konark+Nursing+Home/@19.3095673,84.7845472,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5004d96fceb9:0x9c6968a8672c61fd!8m2!3d19.3095673!4d84.7845472!16s%2Fg%2F124ydslxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-care-hospital-brahmapur",
@@ -6985,7 +7044,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Life+Care+Hospital/@19.3107326,84.8044436,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070aae7ba71:0x4ab0964cc6f4c664!8m2!3d19.3107326!4d84.8044436!16s%2Fg%2F11f04fgsr2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Care+Hospital/@19.3107326,84.8044436,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070aae7ba71:0x4ab0964cc6f4c664!8m2!3d19.3107326!4d84.8044436!16s%2Fg%2F11f04fgsr2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7054,7 +7113,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+Care+Hospital/@19.3107326,84.8044436,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070aae7ba71:0x4ab0964cc6f4c664!8m2!3d19.3107326!4d84.8044436!16s%2Fg%2F11f04fgsr2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maa-adishakti-dental-care-the-clinic-of-dental-medicine-and-maxillofacial-care-brahmapur",
@@ -7103,7 +7163,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/MAA+ADISHAKTI+DENTAL+CARE+The+clinic+of+Dental+Medicine+and+maxillofacial+care/data=!4m7!3m6!1s0x3a3d5b004713a49d:0x78a101d18a218dcf!8m2!3d19.29825!4d84.8118792!16s%2Fg%2F11w8yqcprw!19sChIJnaQTRwBbPToRz40hitEBoXg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAA+ADISHAKTI+DENTAL+CARE+The+clinic+of+Dental+Medicine+and+maxillofacial+care/data=!4m7!3m6!1s0x3a3d5b004713a49d:0x78a101d18a218dcf!8m2!3d19.29825!4d84.8118792!16s%2Fg%2F11w8yqcprw!19sChIJnaQTRwBbPToRz40hitEBoXg?authuser=0&hl=en&rclk=1"
@@ -7169,10 +7229,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MAA+ADISHAKTI+DENTAL+CARE+The+clinic+of+Dental+Medicine+and+maxillofacial+care/data=!4m7!3m6!1s0x3a3d5b004713a49d:0x78a101d18a218dcf!8m2!3d19.29825!4d84.8118792!16s%2Fg%2F11w8yqcprw!19sChIJnaQTRwBbPToRz40hitEBoXg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maa-vaishnodevi-happy-health-care-brahmapur-ganjam-odisha-brahmapur",
@@ -7221,7 +7282,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MAA+VAISHNODEVI+HAPPY+HEALTH+CARE+BRAHMAPUR,GANJAM,ODISHA/@19.3082251,84.8063019,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51003a25e84b:0x350a6bb38c3ee329!8m2!3d19.3082251!4d84.8063019!16s%2Fg%2F11n08zgc_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAA+VAISHNODEVI+HAPPY+HEALTH+CARE+BRAHMAPUR,GANJAM,ODISHA/@19.3082251,84.8063019,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51003a25e84b:0x350a6bb38c3ee329!8m2!3d19.3082251!4d84.8063019!16s%2Fg%2F11n08zgc_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7287,10 +7348,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MAA+VAISHNODEVI+HAPPY+HEALTH+CARE+BRAHMAPUR,GANJAM,ODISHA/@19.3082251,84.8063019,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51003a25e84b:0x350a6bb38c3ee329!8m2!3d19.3082251!4d84.8063019!16s%2Fg%2F11n08zgc_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "marella-clinic-brahmapur",
@@ -7338,7 +7400,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Marella+Clinic/@19.3127513,84.7891536,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500c2bcdadcd:0x12a600d9a9d0d516!8m2!3d19.3127513!4d84.7891536!16s%2Fg%2F11gbl2z6rp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Marella+Clinic/@19.3127513,84.7891536,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500c2bcdadcd:0x12a600d9a9d0d516!8m2!3d19.3127513!4d84.7891536!16s%2Fg%2F11gbl2z6rp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7407,7 +7469,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Marella+Clinic/@19.3127513,84.7891536,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500c2bcdadcd:0x12a600d9a9d0d516!8m2!3d19.3127513!4d84.7891536!16s%2Fg%2F11gbl2z6rp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maxdent-clinic-bhubaneswar",
@@ -7456,7 +7519,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Maxdent+Clinic/@20.2426624,85.7774046,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a7b5f3fd617f:0x6266d7f53f4e27a!8m2!3d20.2426624!4d85.7774046!16s%2Fg%2F11qh1xhn_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxdent+Clinic/@20.2426624,85.7774046,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a7b5f3fd617f:0x6266d7f53f4e27a!8m2!3d20.2426624!4d85.7774046!16s%2Fg%2F11qh1xhn_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7525,7 +7588,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maxdent+Clinic/@20.2426624,85.7774046,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a7b5f3fd617f:0x6266d7f53f4e27a!8m2!3d20.2426624!4d85.7774046!16s%2Fg%2F11qh1xhn_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medisafe-medicals-brahmapur",
@@ -7574,7 +7638,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/MEDISAFE+MEDICALS/@19.3106222,84.8049038,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51a3f692f5c7:0x31cac28aabe00418!8m2!3d19.3106222!4d84.8049038!16s%2Fg%2F11rycr9ct7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEDISAFE+MEDICALS/@19.3106222,84.8049038,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51a3f692f5c7:0x31cac28aabe00418!8m2!3d19.3106222!4d84.8049038!16s%2Fg%2F11rycr9ct7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7640,10 +7704,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MEDISAFE+MEDICALS/@19.3106222,84.8049038,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51a3f692f5c7:0x31cac28aabe00418!8m2!3d19.3106222!4d84.8049038!16s%2Fg%2F11rycr9ct7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "meenakshi-hospital-brahmapur",
@@ -7691,7 +7756,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Meenakshi+Hospital/@19.3128738,84.7926277,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500cefa0b67f:0xdf7fc51eb8f1958!8m2!3d19.3128738!4d84.7926277!16s%2Fg%2F1q640200k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meenakshi+Hospital/@19.3128738,84.7926277,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500cefa0b67f:0xdf7fc51eb8f1958!8m2!3d19.3128738!4d84.7926277!16s%2Fg%2F1q640200k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7757,10 +7822,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meenakshi+Hospital/@19.3128738,84.7926277,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500cefa0b67f:0xdf7fc51eb8f1958!8m2!3d19.3128738!4d84.7926277!16s%2Fg%2F1q640200k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mkcg-medical-college-and-hospital-brahmapur-brahmapur",
@@ -7810,7 +7876,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MKCG+Medical+College+And+Hospital+,+Brahmapur/@19.3076505,84.8109778,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507f0104c369:0x8da88d5c079c5b29!8m2!3d19.3076505!4d84.8109778!16s%2Fm%2F02pw2vd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MKCG+Medical+College+And+Hospital+,+Brahmapur/@19.3076505,84.8109778,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507f0104c369:0x8da88d5c079c5b29!8m2!3d19.3076505!4d84.8109778!16s%2Fm%2F02pw2vd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7879,7 +7945,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MKCG+Medical+College+And+Hospital+,+Brahmapur/@19.3076505,84.8109778,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507f0104c369:0x8da88d5c079c5b29!8m2!3d19.3076505!4d84.8109778!16s%2Fm%2F02pw2vd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "modern-eye-care-centre-and-hospital-brahmapur",
@@ -7928,7 +7995,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/MODERN+EYE+CARE+CENTRE+%26+HOSPITAL/@19.3070029,84.8063929,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5153f0a1e091:0xba013c61c471482f!8m2!3d19.3070029!4d84.8063929!16s%2Fg%2F11qnbp85sj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MODERN+EYE+CARE+CENTRE+%26+HOSPITAL/@19.3070029,84.8063929,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5153f0a1e091:0xba013c61c471482f!8m2!3d19.3070029!4d84.8063929!16s%2Fg%2F11qnbp85sj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7997,7 +8064,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MODERN+EYE+CARE+CENTRE+%26+HOSPITAL/@19.3070029,84.8063929,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5153f0a1e091:0xba013c61c471482f!8m2!3d19.3070029!4d84.8063929!16s%2Fg%2F11qnbp85sj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mom-n-kids-clinic-brahmapur",
@@ -8045,7 +8113,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/MOM+N+KIDS+CLINIC/@19.314333,84.799694,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51893a86ee9f:0x9fc2e96c3dffd5!8m2!3d19.314333!4d84.799694!16s%2Fg%2F11p5_5x7d_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MOM+N+KIDS+CLINIC/@19.314333,84.799694,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51893a86ee9f:0x9fc2e96c3dffd5!8m2!3d19.314333!4d84.799694!16s%2Fg%2F11p5_5x7d_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8114,7 +8182,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MOM+N+KIDS+CLINIC/@19.314333,84.799694,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51893a86ee9f:0x9fc2e96c3dffd5!8m2!3d19.314333!4d84.799694!16s%2Fg%2F11p5_5x7d_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nari-hospital-brahmapur",
@@ -8163,7 +8232,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Nari+Hospital/@19.313837,84.8251776,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5084d42eb71d:0x1d758fce6e3a414!8m2!3d19.313837!4d84.8251776!16s%2Fg%2F11c2pzh63n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nari+Hospital/@19.313837,84.8251776,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5084d42eb71d:0x1d758fce6e3a414!8m2!3d19.313837!4d84.8251776!16s%2Fg%2F11c2pzh63n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8232,7 +8301,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nari+Hospital/@19.313837,84.8251776,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5084d42eb71d:0x1d758fce6e3a414!8m2!3d19.313837!4d84.8251776!16s%2Fg%2F11c2pzh63n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neelachala-hospital-brahmapur",
@@ -8280,7 +8350,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Neelachala+Hospital/@19.3067103,84.8057671,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507839ae563b:0x366ea1023ce34ac8!8m2!3d19.3067103!4d84.8057671!16s%2Fg%2F11fylkc4kg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neelachala+Hospital/@19.3067103,84.8057671,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507839ae563b:0x366ea1023ce34ac8!8m2!3d19.3067103!4d84.8057671!16s%2Fg%2F11fylkc4kg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8349,7 +8419,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neelachala+Hospital/@19.3067103,84.8057671,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507839ae563b:0x366ea1023ce34ac8!8m2!3d19.3067103!4d84.8057671!16s%2Fg%2F11fylkc4kg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neuro-care-clinic-brahmapur",
@@ -8398,7 +8469,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Neuro+Care+Clinic/@19.3137224,84.7824344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51245f48e7b5:0x887542a96e9416a1!8m2!3d19.3137224!4d84.7824344!16s%2Fg%2F11m_kw5tk6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuro+Care+Clinic/@19.3137224,84.7824344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51245f48e7b5:0x887542a96e9416a1!8m2!3d19.3137224!4d84.7824344!16s%2Fg%2F11m_kw5tk6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8464,10 +8535,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neuro+Care+Clinic/@19.3137224,84.7824344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51245f48e7b5:0x887542a96e9416a1!8m2!3d19.3137224!4d84.7824344!16s%2Fg%2F11m_kw5tk6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-kalinga-hospital-brahmapur",
@@ -8515,7 +8587,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/New+Kalinga+Hospital/@19.3101707,84.8052501,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079fa1ce905:0xa8615f709c64a4e4!8m2!3d19.3101707!4d84.8052501!16s%2Fg%2F11f0_gf7pn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Kalinga+Hospital/@19.3101707,84.8052501,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079fa1ce905:0xa8615f709c64a4e4!8m2!3d19.3101707!4d84.8052501!16s%2Fg%2F11f0_gf7pn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8584,7 +8656,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Kalinga+Hospital/@19.3101707,84.8052501,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079fa1ce905:0xa8615f709c64a4e4!8m2!3d19.3101707!4d84.8052501!16s%2Fg%2F11f0_gf7pn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-maa-tarini-medical-store-brahmapur",
@@ -8633,7 +8706,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/New+maa+tarini+medical+store/@19.311265,84.8042413,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5132ffca4817:0xd660cf7caef0dcbc!8m2!3d19.311265!4d84.8042413!16s%2Fg%2F11hzpngvq4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+maa+tarini+medical+store/@19.311265,84.8042413,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5132ffca4817:0xd660cf7caef0dcbc!8m2!3d19.311265!4d84.8042413!16s%2Fg%2F11hzpngvq4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8702,7 +8775,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+maa+tarini+medical+store/@19.311265,84.8042413,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5132ffca4817:0xd660cf7caef0dcbc!8m2!3d19.311265!4d84.8042413!16s%2Fg%2F11hzpngvq4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-my-cure-clinic-brahmapur",
@@ -8750,7 +8824,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/New+My+Cure+Clinic/@19.3115652,84.8058805,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51007ff64f69:0xc9ac22ed27e6fda8!8m2!3d19.3115652!4d84.8058805!16s%2Fg%2F11xth3qxj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+My+Cure+Clinic/@19.3115652,84.8058805,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51007ff64f69:0xc9ac22ed27e6fda8!8m2!3d19.3115652!4d84.8058805!16s%2Fg%2F11xth3qxj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8816,10 +8890,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+My+Cure+Clinic/@19.3115652,84.8058805,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51007ff64f69:0xc9ac22ed27e6fda8!8m2!3d19.3115652!4d84.8058805!16s%2Fg%2F11xth3qxj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-nandighosh-hospital-brahmapur",
@@ -8867,7 +8942,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/New+Nandighosh+Hospital/@19.3071923,84.8159682,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516840c34059:0xd5bfdb74d2159eec!8m2!3d19.3071923!4d84.8159682!16s%2Fg%2F11jtgjhmgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Nandighosh+Hospital/@19.3071923,84.8159682,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516840c34059:0xd5bfdb74d2159eec!8m2!3d19.3071923!4d84.8159682!16s%2Fg%2F11jtgjhmgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8936,7 +9011,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Nandighosh+Hospital/@19.3071923,84.8159682,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516840c34059:0xd5bfdb74d2159eec!8m2!3d19.3071923!4d84.8159682!16s%2Fg%2F11jtgjhmgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-siva-sai-dialysis-center-brahmapur",
@@ -8984,7 +9060,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/New+Siva+Sai+Dialysis+Center/@19.3076498,84.818272,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5100092f5ca7:0x5c1b1410688bf503!8m2!3d19.3076498!4d84.818272!16s%2Fg%2F11y7mgvn36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Siva+Sai+Dialysis+Center/@19.3076498,84.818272,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5100092f5ca7:0x5c1b1410688bf503!8m2!3d19.3076498!4d84.818272!16s%2Fg%2F11y7mgvn36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9050,10 +9126,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Siva+Sai+Dialysis+Center/@19.3076498,84.818272,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5100092f5ca7:0x5c1b1410688bf503!8m2!3d19.3076498!4d84.818272!16s%2Fg%2F11y7mgvn36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nidan-diagnostic-centre-brahmapur",
@@ -9103,7 +9180,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nidan+Diagnostic+Centre/@19.3070761,84.8146781,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50a4065f1e57:0x3e09c7214589ac61!8m2!3d19.3070761!4d84.8146781!16s%2Fg%2F124t0zlhx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nidan+Diagnostic+Centre/@19.3070761,84.8146781,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50a4065f1e57:0x3e09c7214589ac61!8m2!3d19.3070761!4d84.8146781!16s%2Fg%2F124t0zlhx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9172,7 +9249,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nidan+Diagnostic+Centre/@19.3070761,84.8146781,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50a4065f1e57:0x3e09c7214589ac61!8m2!3d19.3070761!4d84.8146781!16s%2Fg%2F124t0zlhx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nigam-clinic-and-diagnostic-brahmapur",
@@ -9220,7 +9298,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Nigam+clinic+and+diagnostic/@19.3208981,84.7982367,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d519c08ff56bb:0xd7637da08a349cd7!8m2!3d19.3208981!4d84.7982367!16s%2Fg%2F11zkdgw8_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nigam+clinic+and+diagnostic/@19.3208981,84.7982367,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d519c08ff56bb:0xd7637da08a349cd7!8m2!3d19.3208981!4d84.7982367!16s%2Fg%2F11zkdgw8_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9289,7 +9367,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nigam+clinic+and+diagnostic/@19.3208981,84.7982367,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d519c08ff56bb:0xd7637da08a349cd7!8m2!3d19.3208981!4d84.7982367!16s%2Fg%2F11zkdgw8_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "niramaya-ent-hospital-brahmapur",
@@ -9337,7 +9416,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Niramaya+ENT+Hospital/@19.3109909,84.805699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070b0203289:0xa253756f88cdd80f!8m2!3d19.3109909!4d84.805699!16s%2Fg%2F11f3xy42b0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Niramaya+ENT+Hospital/@19.3109909,84.805699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070b0203289:0xa253756f88cdd80f!8m2!3d19.3109909!4d84.805699!16s%2Fg%2F11f3xy42b0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9406,7 +9485,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Niramaya+ENT+Hospital/@19.3109909,84.805699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070b0203289:0xa253756f88cdd80f!8m2!3d19.3109909!4d84.805699!16s%2Fg%2F11f3xy42b0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "obstetrics-and-gynecology-berhampur-brahmapur",
@@ -9453,7 +9533,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Obstetrics+and+Gynecology,+Berhampur/@19.3094984,84.8059347,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d519a42e24f95:0x64fae7d5ddb6a0aa!8m2!3d19.3094984!4d84.8059347!16s%2Fg%2F11vc6z13pq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Obstetrics+and+Gynecology,+Berhampur/@19.3094984,84.8059347,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d519a42e24f95:0x64fae7d5ddb6a0aa!8m2!3d19.3094984!4d84.8059347!16s%2Fg%2F11vc6z13pq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9519,10 +9599,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Obstetrics+and+Gynecology,+Berhampur/@19.3094984,84.8059347,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d519a42e24f95:0x64fae7d5ddb6a0aa!8m2!3d19.3094984!4d84.8059347!16s%2Fg%2F11vc6z13pq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "om-bhairabi-pahology-and-specality-clinics-brahmapur",
@@ -9570,7 +9651,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Om+Bhairabi+Pahology%26+Specality+Clinics/@19.3258448,84.8010147,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5069a37bcd3f:0x8dd434c73b78328f!8m2!3d19.3258448!4d84.8010147!16s%2Fg%2F11gf5s9l5t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Bhairabi+Pahology%26+Specality+Clinics/@19.3258448,84.8010147,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5069a37bcd3f:0x8dd434c73b78328f!8m2!3d19.3258448!4d84.8010147!16s%2Fg%2F11gf5s9l5t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9639,7 +9720,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Om+Bhairabi+Pahology%26+Specality+Clinics/@19.3258448,84.8010147,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5069a37bcd3f:0x8dd434c73b78328f!8m2!3d19.3258448!4d84.8010147!16s%2Fg%2F11gf5s9l5t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "om-sai-dental-clinic-brahmapur",
@@ -9688,7 +9770,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Om+Sai+Dental+Clinic/@19.308723,84.7910142,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d518b340fd899:0x583f2b758c887b04!8m2!3d19.308723!4d84.7910142!16s%2Fg%2F11vpnmj186?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Sai+Dental+Clinic/@19.308723,84.7910142,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d518b340fd899:0x583f2b758c887b04!8m2!3d19.308723!4d84.7910142!16s%2Fg%2F11vpnmj186?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9754,10 +9836,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Om+Sai+Dental+Clinic/@19.308723,84.7910142,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d518b340fd899:0x583f2b758c887b04!8m2!3d19.308723!4d84.7910142!16s%2Fg%2F11vpnmj186?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oral-and-maxillofacial-clinic-kolkata",
@@ -9806,7 +9889,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Oral+%26+Maxillofacial+Clinic/@22.5053167,88.3610344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271abe8f683f9:0xb72f0a211990596e!8m2!3d22.5053167!4d88.3610344!16s%2Fg%2F11sqldqzl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+%26+Maxillofacial+Clinic/@22.5053167,88.3610344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271abe8f683f9:0xb72f0a211990596e!8m2!3d22.5053167!4d88.3610344!16s%2Fg%2F11sqldqzl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9875,7 +9958,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oral+%26+Maxillofacial+Clinic/@22.5053167,88.3610344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271abe8f683f9:0xb72f0a211990596e!8m2!3d22.5053167!4d88.3610344!16s%2Fg%2F11sqldqzl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oro-and-dental-care-center-brahmapur",
@@ -9923,7 +10007,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Oro+%26+Dental+Care+Center/@19.3082778,84.8069305,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079af1205e9:0xb674edbcab9254fb!8m2!3d19.3082778!4d84.8069305!16s%2Fg%2F1tfx3b0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oro+%26+Dental+Care+Center/@19.3082778,84.8069305,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079af1205e9:0xb674edbcab9254fb!8m2!3d19.3082778!4d84.8069305!16s%2Fg%2F1tfx3b0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9992,7 +10076,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oro+%26+Dental+Care+Center/@19.3082778,84.8069305,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079af1205e9:0xb674edbcab9254fb!8m2!3d19.3082778!4d84.8069305!16s%2Fg%2F1tfx3b0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "orodent-dental-care-brahmapur",
@@ -10040,7 +10125,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ORODENT+DENTAL+CARE/data=!4m7!3m6!1s0x3a3d4f2b887bcf5f:0x44182b763e4c6ffd!8m2!3d19.3241929!4d84.7689158!16s%2Fg%2F11hyx_vklv!19sChIJX897iCtPPToR_W9MPnYrGEQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ORODENT+DENTAL+CARE/data=!4m7!3m6!1s0x3a3d4f2b887bcf5f:0x44182b763e4c6ffd!8m2!3d19.3241929!4d84.7689158!16s%2Fg%2F11hyx_vklv!19sChIJX897iCtPPToR_W9MPnYrGEQ?authuser=0&hl=en&rclk=1"
@@ -10106,10 +10191,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ORODENT+DENTAL+CARE/data=!4m7!3m6!1s0x3a3d4f2b887bcf5f:0x44182b763e4c6ffd!8m2!3d19.3241929!4d84.7689158!16s%2Fg%2F11hyx_vklv!19sChIJX897iCtPPToR_W9MPnYrGEQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "padma-dental-clinic-and-implant-centre-brahmapur",
@@ -10157,7 +10243,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Padma+Dental+Clinic+And+Implant+Centre/@19.3159908,84.7810302,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51fe993d6509:0x1c61676b1b4d9cc8!8m2!3d19.3159908!4d84.7810302!16s%2Fg%2F11spd0f2n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Padma+Dental+Clinic+And+Implant+Centre/@19.3159908,84.7810302,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51fe993d6509:0x1c61676b1b4d9cc8!8m2!3d19.3159908!4d84.7810302!16s%2Fg%2F11spd0f2n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10226,7 +10312,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Padma+Dental+Clinic+And+Implant+Centre/@19.3159908,84.7810302,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51fe993d6509:0x1c61676b1b4d9cc8!8m2!3d19.3159908!4d84.7810302!16s%2Fg%2F11spd0f2n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patro-hospital-brahmapur",
@@ -10274,7 +10361,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Patro+Hospital/@19.3088882,84.7961172,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507492928233:0xc66379405a95473a!8m2!3d19.3088882!4d84.7961172!16s%2Fg%2F11c5__4204?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patro+Hospital/@19.3088882,84.7961172,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507492928233:0xc66379405a95473a!8m2!3d19.3088882!4d84.7961172!16s%2Fg%2F11c5__4204?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10343,7 +10430,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patro+Hospital/@19.3088882,84.7961172,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d507492928233:0xc66379405a95473a!8m2!3d19.3088882!4d84.7961172!16s%2Fg%2F11c5__4204?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "phl-clinic-brahmapur",
@@ -10392,7 +10480,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/PHL+Clinic+%E0%AC%AA%E0%AC%BF.%E0%AC%8F%E0%AC%9A%E0%AD%8D.%E0%AC%8F%E0%AC%B2%E0%AD%8D+%E0%AC%95%E0%AD%8D%E0%AC%B2%E0%AC%BF%E0%AC%A8%E0%AC%BF%E0%AC%95%E0%AD%8D/@19.3088895,84.8064675,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51eb6c9c5c9b:0x6dfe89d3350a6934!8m2!3d19.3088895!4d84.8064675!16s%2Fg%2F11pwvh308_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PHL+Clinic+%E0%AC%AA%E0%AC%BF.%E0%AC%8F%E0%AC%9A%E0%AD%8D.%E0%AC%8F%E0%AC%B2%E0%AD%8D+%E0%AC%95%E0%AD%8D%E0%AC%B2%E0%AC%BF%E0%AC%A8%E0%AC%BF%E0%AC%95%E0%AD%8D/@19.3088895,84.8064675,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51eb6c9c5c9b:0x6dfe89d3350a6934!8m2!3d19.3088895!4d84.8064675!16s%2Fg%2F11pwvh308_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10458,10 +10546,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PHL+Clinic+%E0%AC%AA%E0%AC%BF.%E0%AC%8F%E0%AC%9A%E0%AD%8D.%E0%AC%8F%E0%AC%B2%E0%AD%8D+%E0%AC%95%E0%AD%8D%E0%AC%B2%E0%AC%BF%E0%AC%A8%E0%AC%BF%E0%AC%95%E0%AD%8D/@19.3088895,84.8064675,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51eb6c9c5c9b:0x6dfe89d3350a6934!8m2!3d19.3088895!4d84.8064675!16s%2Fg%2F11pwvh308_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pinakini-ladies-clinic-brahmapur",
@@ -10509,7 +10598,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Pinakini+ladies+clinic/@19.3124468,84.7938976,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d511012abdeeb:0x983c3db5495b8861!8m2!3d19.3124468!4d84.7938976!16s%2Fg%2F11h02fdfpf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pinakini+ladies+clinic/@19.3124468,84.7938976,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d511012abdeeb:0x983c3db5495b8861!8m2!3d19.3124468!4d84.7938976!16s%2Fg%2F11h02fdfpf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10578,7 +10667,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pinakini+ladies+clinic/@19.3124468,84.7938976,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d511012abdeeb:0x983c3db5495b8861!8m2!3d19.3124468!4d84.7938976!16s%2Fg%2F11h02fdfpf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pradeep-hospital-brahmapur",
@@ -10626,7 +10716,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Pradeep+Hospital/@19.2939589,84.8108781,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5bacf5c1a40f:0xa24225d49d04d6bf!8m2!3d19.2939589!4d84.8108781!16s%2Fg%2F11mcmhfd7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pradeep+Hospital/@19.2939589,84.8108781,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5bacf5c1a40f:0xa24225d49d04d6bf!8m2!3d19.2939589!4d84.8108781!16s%2Fg%2F11mcmhfd7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10692,10 +10782,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pradeep+Hospital/@19.2939589,84.8108781,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5bacf5c1a40f:0xa24225d49d04d6bf!8m2!3d19.2939589!4d84.8108781!16s%2Fg%2F11mcmhfd7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prajay-dental-and-facial-surgery-clinic-brahmapur",
@@ -10743,7 +10834,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Prajay+Dental+%26+Facial+Surgery+Clinic/@19.3083158,84.806339,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079ba7a1bb9:0x3b38640e631e46c9!8m2!3d19.3083158!4d84.806339!16s%2Fg%2F11fyzfdk_d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prajay+Dental+%26+Facial+Surgery+Clinic/@19.3083158,84.806339,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079ba7a1bb9:0x3b38640e631e46c9!8m2!3d19.3083158!4d84.806339!16s%2Fg%2F11fyzfdk_d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10809,10 +10900,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prajay+Dental+%26+Facial+Surgery+Clinic/@19.3083158,84.806339,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079ba7a1bb9:0x3b38640e631e46c9!8m2!3d19.3083158!4d84.806339!16s%2Fg%2F11fyzfdk_d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pratara-health-brahmapur",
@@ -10862,7 +10954,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pratara+Health/@19.3075728,84.8087199,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5197e12aab43:0x22b41ec5faec8d39!8m2!3d19.3075728!4d84.8087199!16s%2Fg%2F11y6j3rjlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pratara+Health/@19.3075728,84.8087199,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5197e12aab43:0x22b41ec5faec8d39!8m2!3d19.3075728!4d84.8087199!16s%2Fg%2F11y6j3rjlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10928,10 +11020,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pratara+Health/@19.3075728,84.8087199,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5197e12aab43:0x22b41ec5faec8d39!8m2!3d19.3075728!4d84.8087199!16s%2Fg%2F11y6j3rjlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "purushottam-hospital-brahmapur",
@@ -10979,7 +11072,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Purushottam+hospital/@19.3070217,84.8101786,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51bfec49ea9b:0x37daf540caf02d44!8m2!3d19.3070217!4d84.8101786!16s%2Fg%2F11v9p2px1q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Purushottam+hospital/@19.3070217,84.8101786,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51bfec49ea9b:0x37daf540caf02d44!8m2!3d19.3070217!4d84.8101786!16s%2Fg%2F11v9p2px1q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11048,7 +11141,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Purushottam+hospital/@19.3070217,84.8101786,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51bfec49ea9b:0x37daf540caf02d44!8m2!3d19.3070217!4d84.8101786!16s%2Fg%2F11v9p2px1q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "puspa-speciality-dental-clinic-brahmapur",
@@ -11097,7 +11191,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Puspa+speciality+dental+clinic/@19.3088861,84.8064807,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d510074ea8679:0x36c6be41b6153910!8m2!3d19.3088861!4d84.8064807!16s%2Fg%2F11fq88m2hr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Puspa+speciality+dental+clinic/@19.3088861,84.8064807,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d510074ea8679:0x36c6be41b6153910!8m2!3d19.3088861!4d84.8064807!16s%2Fg%2F11fq88m2hr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11166,7 +11260,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Puspa+speciality+dental+clinic/@19.3088861,84.8064807,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d510074ea8679:0x36c6be41b6153910!8m2!3d19.3088861!4d84.8064807!16s%2Fg%2F11fq88m2hr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radiant-dental-care-brahmapur",
@@ -11214,7 +11309,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Radiant+dental+care/@19.3144768,84.7998148,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51fed93a81f1:0x85be0e397a198aa5!8m2!3d19.3144768!4d84.7998148!16s%2Fg%2F11j693gzn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiant+dental+care/@19.3144768,84.7998148,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51fed93a81f1:0x85be0e397a198aa5!8m2!3d19.3144768!4d84.7998148!16s%2Fg%2F11j693gzn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11283,7 +11378,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radiant+dental+care/@19.3144768,84.7998148,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51fed93a81f1:0x85be0e397a198aa5!8m2!3d19.3144768!4d84.7998148!16s%2Fg%2F11j693gzn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raju-clinic-brahmapur",
@@ -11332,7 +11428,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Raju+Clinic/@19.3149903,84.7763365,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5105cb9b8081:0x6332a1a6e27e96c6!8m2!3d19.3149903!4d84.7763365!16s%2Fg%2F11ll5n0lpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raju+Clinic/@19.3149903,84.7763365,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5105cb9b8081:0x6332a1a6e27e96c6!8m2!3d19.3149903!4d84.7763365!16s%2Fg%2F11ll5n0lpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11401,7 +11497,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raju+Clinic/@19.3149903,84.7763365,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5105cb9b8081:0x6332a1a6e27e96c6!8m2!3d19.3149903!4d84.7763365!16s%2Fg%2F11ll5n0lpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rk-dental-care-brahmapur",
@@ -11450,7 +11547,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RK+DENTAL+CARE/@19.3158259,84.7793024,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5126dea70bb7:0x921ed93aac2d4aaa!8m2!3d19.3158259!4d84.7793024!16s%2Fg%2F11swtbyml5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RK+DENTAL+CARE/@19.3158259,84.7793024,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5126dea70bb7:0x921ed93aac2d4aaa!8m2!3d19.3158259!4d84.7793024!16s%2Fg%2F11swtbyml5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11516,10 +11613,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RK+DENTAL+CARE/@19.3158259,84.7793024,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5126dea70bb7:0x921ed93aac2d4aaa!8m2!3d19.3158259!4d84.7793024!16s%2Fg%2F11swtbyml5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sabita-dental-clinic-brahmapur",
@@ -11567,7 +11665,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sabita+Dental+Clinic/@19.3116195,84.8039506,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51e27fed1b2f:0x7271919ef190926e!8m2!3d19.3116195!4d84.8039506!16s%2Fg%2F11zkvw3clm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sabita+Dental+Clinic/@19.3116195,84.8039506,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51e27fed1b2f:0x7271919ef190926e!8m2!3d19.3116195!4d84.8039506!16s%2Fg%2F11zkvw3clm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11633,10 +11731,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sabita+Dental+Clinic/@19.3116195,84.8039506,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51e27fed1b2f:0x7271919ef190926e!8m2!3d19.3116195!4d84.8039506!16s%2Fg%2F11zkvw3clm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sadhana-gastro-and-liver-clinic-brahmapur",
@@ -11687,7 +11786,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SADHANA+GASTRO+%26+LIVER+CLINIC/@19.3141748,84.8006967,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d510b8168fb85:0xeb376512ff5dbcaf!8m2!3d19.3141748!4d84.8006967!16s%2Fg%2F11rknz43jv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SADHANA+GASTRO+%26+LIVER+CLINIC/@19.3141748,84.8006967,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d510b8168fb85:0xeb376512ff5dbcaf!8m2!3d19.3141748!4d84.8006967!16s%2Fg%2F11rknz43jv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11756,7 +11855,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SADHANA+GASTRO+%26+LIVER+CLINIC/@19.3141748,84.8006967,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d510b8168fb85:0xeb376512ff5dbcaf!8m2!3d19.3141748!4d84.8006967!16s%2Fg%2F11rknz43jv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sahu-dental-clinic-brahmapur",
@@ -11804,7 +11904,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sahu+Dental+Clinic/@19.3053396,84.8005462,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5076170c7da9:0xeea734cff70c3070!8m2!3d19.3053396!4d84.8005462!16s%2Fg%2F11fylprqxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahu+Dental+Clinic/@19.3053396,84.8005462,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5076170c7da9:0xeea734cff70c3070!8m2!3d19.3053396!4d84.8005462!16s%2Fg%2F11fylprqxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11870,10 +11970,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sahu+Dental+Clinic/@19.3053396,84.8005462,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5076170c7da9:0xeea734cff70c3070!8m2!3d19.3053396!4d84.8005462!16s%2Fg%2F11fylprqxj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-aaradhya-hospital-brahmapur",
@@ -11921,7 +12022,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Aaradhya+Hospital/@19.3142957,84.8017056,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5103562cdf9f:0xd276ca446299898!8m2!3d19.3142957!4d84.8017056!16s%2Fg%2F11l1qjgk9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Aaradhya+Hospital/@19.3142957,84.8017056,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5103562cdf9f:0xd276ca446299898!8m2!3d19.3142957!4d84.8017056!16s%2Fg%2F11l1qjgk9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -11990,7 +12091,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Aaradhya+Hospital/@19.3142957,84.8017056,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5103562cdf9f:0xd276ca446299898!8m2!3d19.3142957!4d84.8017056!16s%2Fg%2F11l1qjgk9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-dibyajyoti-hospital-brahmapur",
@@ -12038,7 +12140,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Dibyajyoti+Hospital/@19.3146942,84.7982407,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5160b53571e9:0xcb6a7ddf77ca1544!8m2!3d19.3146942!4d84.7982407!16s%2Fg%2F11tdhrl0_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Dibyajyoti+Hospital/@19.3146942,84.7982407,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5160b53571e9:0xcb6a7ddf77ca1544!8m2!3d19.3146942!4d84.7982407!16s%2Fg%2F11tdhrl0_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -12107,7 +12209,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Dibyajyoti+Hospital/@19.3146942,84.7982407,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5160b53571e9:0xcb6a7ddf77ca1544!8m2!3d19.3146942!4d84.7982407!16s%2Fg%2F11tdhrl0_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-narayani-advanced-dental-care-brahmapur",
@@ -12155,7 +12258,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Narayani+Advanced+Dental+Care/@19.3069375,84.8083125,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5078e89d6af5:0x69c7b99a00f04a0e!8m2!3d19.3069375!4d84.8083125!16s%2Fg%2F11g02vkbn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Narayani+Advanced+Dental+Care/@19.3069375,84.8083125,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5078e89d6af5:0x69c7b99a00f04a0e!8m2!3d19.3069375!4d84.8083125!16s%2Fg%2F11g02vkbn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -12221,10 +12324,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Narayani+Advanced+Dental+Care/@19.3069375,84.8083125,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5078e89d6af5:0x69c7b99a00f04a0e!8m2!3d19.3069375!4d84.8083125!16s%2Fg%2F11g02vkbn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-siddhi-dental-care-brahmapur",
@@ -12273,7 +12377,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Siddhi+Dental+Care/data=!4m7!3m6!1s0x3a3d5bb658cf718b:0x53d86db4bbdb94c4!8m2!3d19.3025048!4d84.8207723!16s%2Fg%2F11y1r09spk!19sChIJi3HPWLZbPToRxJTbu7Rt2FM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Siddhi+Dental+Care/data=!4m7!3m6!1s0x3a3d5bb658cf718b:0x53d86db4bbdb94c4!8m2!3d19.3025048!4d84.8207723!16s%2Fg%2F11y1r09spk!19sChIJi3HPWLZbPToRxJTbu7Rt2FM?authuser=0&hl=en&rclk=1"
@@ -12339,10 +12443,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Siddhi+Dental+Care/data=!4m7!3m6!1s0x3a3d5bb658cf718b:0x53d86db4bbdb94c4!8m2!3d19.3025048!4d84.8207723!16s%2Fg%2F11y1r09spk!19sChIJi3HPWLZbPToRxJTbu7Rt2FM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "saidev-hospital-brahmapur",
@@ -12390,7 +12495,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Saidev+Hospital/@19.3152778,84.7993333,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51000ecc5a1f:0xc9be657a2549920c!8m2!3d19.3152778!4d84.7993333!16s%2Fg%2F11wj48lz9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saidev+Hospital/@19.3152778,84.7993333,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51000ecc5a1f:0xc9be657a2549920c!8m2!3d19.3152778!4d84.7993333!16s%2Fg%2F11wj48lz9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -12459,7 +12564,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saidev+Hospital/@19.3152778,84.7993333,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51000ecc5a1f:0xc9be657a2549920c!8m2!3d19.3152778!4d84.7993333!16s%2Fg%2F11wj48lz9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samvab-community-health-care-and-research-center-brahmapur",
@@ -12507,7 +12613,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/SAMVAB+Community+Health+Care+%26+Research+Center/@19.3116344,84.8039343,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070bc9f164f:0x768197921e7aaf1e!8m2!3d19.3116344!4d84.8039343!16s%2Fg%2F126235qsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAMVAB+Community+Health+Care+%26+Research+Center/@19.3116344,84.8039343,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070bc9f164f:0x768197921e7aaf1e!8m2!3d19.3116344!4d84.8039343!16s%2Fg%2F126235qsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -12576,7 +12682,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAMVAB+Community+Health+Care+%26+Research+Center/@19.3116344,84.8039343,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070bc9f164f:0x768197921e7aaf1e!8m2!3d19.3116344!4d84.8039343!16s%2Fg%2F126235qsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "santaan-fertility-center-and-research-institute-brahmapur",
@@ -12626,7 +12733,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Santaan+Fertility+Center+And+Research+Institute/@19.3083683,84.8161707,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50805c799073:0xbc3f180d1a25961a!8m2!3d19.3083683!4d84.8161707!16s%2Fg%2F11f087v0w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Santaan+Fertility+Center+And+Research+Institute/@19.3083683,84.8161707,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50805c799073:0xbc3f180d1a25961a!8m2!3d19.3083683!4d84.8161707!16s%2Fg%2F11f087v0w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -12695,7 +12802,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Santaan+Fertility+Center+And+Research+Institute/@19.3083683,84.8161707,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d50805c799073:0xbc3f180d1a25961a!8m2!3d19.3083683!4d84.8161707!16s%2Fg%2F11f087v0w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saptagiri-hospital-brahmapur",
@@ -12743,7 +12851,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Saptagiri+hospital/@19.3091525,84.8058422,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d518ac220c0b9:0xdc1c46c5b46bc2d9!8m2!3d19.3091525!4d84.8058422!16s%2Fg%2F11j37xgp8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saptagiri+hospital/@19.3091525,84.8058422,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d518ac220c0b9:0xdc1c46c5b46bc2d9!8m2!3d19.3091525!4d84.8058422!16s%2Fg%2F11j37xgp8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -12812,7 +12920,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saptagiri+hospital/@19.3091525,84.8058422,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d518ac220c0b9:0xdc1c46c5b46bc2d9!8m2!3d19.3091525!4d84.8058422!16s%2Fg%2F11j37xgp8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "satyarth-age-care-hospital-brahmapur",
@@ -12862,7 +12971,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Satyarth+Age+Care+Hospital/@19.3123789,84.8279938,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5182697558e5:0x1221e89a85b4fda4!8m2!3d19.3123789!4d84.8279938!16s%2Fg%2F11srgknzhm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satyarth+Age+Care+Hospital/@19.3123789,84.8279938,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5182697558e5:0x1221e89a85b4fda4!8m2!3d19.3123789!4d84.8279938!16s%2Fg%2F11srgknzhm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -12928,10 +13037,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Satyarth+Age+Care+Hospital/@19.3123789,84.8279938,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5182697558e5:0x1221e89a85b4fda4!8m2!3d19.3123789!4d84.8279938!16s%2Fg%2F11srgknzhm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "seva-medical-brahmapur",
@@ -12979,7 +13089,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/SEVA+MEDICAL/@19.3094763,84.8056207,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079a8af7317:0x2c06a8dfdbde807!8m2!3d19.3094763!4d84.8056207!16s%2Fg%2F11fxb2y1sv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SEVA+MEDICAL/@19.3094763,84.8056207,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079a8af7317:0x2c06a8dfdbde807!8m2!3d19.3094763!4d84.8056207!16s%2Fg%2F11fxb2y1sv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -13048,7 +13158,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SEVA+MEDICAL/@19.3094763,84.8056207,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5079a8af7317:0x2c06a8dfdbde807!8m2!3d19.3094763!4d84.8056207!16s%2Fg%2F11fxb2y1sv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shades-skin-hair-laser-clinic-brahmapur",
@@ -13097,7 +13208,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SHADES+Skin+Hair+Laser+Clinic/@19.3057315,84.8005011,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51c524064451:0xd38a81ccbe0eb1e9!8m2!3d19.3057315!4d84.8005011!16s%2Fg%2F11mv0n9r2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHADES+Skin+Hair+Laser+Clinic/@19.3057315,84.8005011,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51c524064451:0xd38a81ccbe0eb1e9!8m2!3d19.3057315!4d84.8005011!16s%2Fg%2F11mv0n9r2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -13166,7 +13277,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHADES+Skin+Hair+Laser+Clinic/@19.3057315,84.8005011,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51c524064451:0xd38a81ccbe0eb1e9!8m2!3d19.3057315!4d84.8005011!16s%2Fg%2F11mv0n9r2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivaya-dental-clinic-and-immunization-centre-brahmapur",
@@ -13212,7 +13324,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Shivaya+Dental+Clinic%26immunization+centre/@19.3149567,84.8470922,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51004f59141b:0xc9af6ce26ff358b!8m2!3d19.3149567!4d84.8470922!16s%2Fg%2F11lp63qpfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivaya+Dental+Clinic%26immunization+centre/@19.3149567,84.8470922,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51004f59141b:0xc9af6ce26ff358b!8m2!3d19.3149567!4d84.8470922!16s%2Fg%2F11lp63qpfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -13278,10 +13390,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivaya+Dental+Clinic%26immunization+centre/@19.3149567,84.8470922,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51004f59141b:0xc9af6ce26ff358b!8m2!3d19.3149567!4d84.8470922!16s%2Fg%2F11lp63qpfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shreya-ivf-centre-in-berhampur-brahmapur",
@@ -13330,7 +13443,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shreya+IVF+Centre+in+Berhampur/@19.308335,84.806333,17z/data=!3m1!4b1!4m6!3m5!1s0x802bdde03a0b43e5:0x4c4347c049c82985!8m2!3d19.308335!4d84.806333!16s%2Fg%2F11xs8txb7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreya+IVF+Centre+in+Berhampur/@19.308335,84.806333,17z/data=!3m1!4b1!4m6!3m5!1s0x802bdde03a0b43e5:0x4c4347c049c82985!8m2!3d19.308335!4d84.806333!16s%2Fg%2F11xs8txb7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -13396,10 +13509,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shreya+IVF+Centre+in+Berhampur/@19.308335,84.806333,17z/data=!3m1!4b1!4m6!3m5!1s0x802bdde03a0b43e5:0x4c4347c049c82985!8m2!3d19.308335!4d84.806333!16s%2Fg%2F11xs8txb7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "siddhidata-hospital-brahmapur",
@@ -13447,7 +13561,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Siddhidata+hospital/@19.3078959,84.8073869,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d512b6330d37b:0x26465a8bf1bda460!8m2!3d19.3078959!4d84.8073869!16s%2Fg%2F11sgcxdg16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddhidata+hospital/@19.3078959,84.8073869,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d512b6330d37b:0x26465a8bf1bda460!8m2!3d19.3078959!4d84.8073869!16s%2Fg%2F11sgcxdg16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -13516,7 +13630,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Siddhidata+hospital/@19.3078959,84.8073869,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d512b6330d37b:0x26465a8bf1bda460!8m2!3d19.3078959!4d84.8073869!16s%2Fg%2F11sgcxdg16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sivanand-clinic-brahmapur",
@@ -13564,7 +13679,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sivanand+Clinic/@19.3115662,84.8027364,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070c4058f01:0x3aba1efe3cfc0c1!8m2!3d19.3115662!4d84.8027364!16s%2Fg%2F11clyhh02j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sivanand+Clinic/@19.3115662,84.8027364,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070c4058f01:0x3aba1efe3cfc0c1!8m2!3d19.3115662!4d84.8027364!16s%2Fg%2F11clyhh02j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -13633,7 +13748,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sivanand+Clinic/@19.3115662,84.8027364,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070c4058f01:0x3aba1efe3cfc0c1!8m2!3d19.3115662!4d84.8027364!16s%2Fg%2F11clyhh02j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-line-dental-clinic-bramhapur",
@@ -13681,7 +13797,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Line+Dental+Clinic/@22.4592027,88.3644303,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027182c42abba7:0x52855907bc7480f1!8m2!3d22.4592027!4d88.3644303!16s%2Fg%2F11rzjgf5jr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Line+Dental+Clinic/@22.4592027,88.3644303,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027182c42abba7:0x52855907bc7480f1!8m2!3d22.4592027!4d88.3644303!16s%2Fg%2F11rzjgf5jr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -13750,7 +13866,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Line+Dental+Clinic/@22.4592027,88.3644303,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027182c42abba7:0x52855907bc7480f1!8m2!3d22.4592027!4d88.3644303!16s%2Fg%2F11rzjgf5jr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-balaji-dental-clinic-brahmapur",
@@ -13798,7 +13915,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Balaji+Dental+Clinic/@19.312707,84.802457,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070fb34e9c9:0x19f101f08f60c849!8m2!3d19.312707!4d84.802457!16s%2Fg%2F119t8880t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Balaji+Dental+Clinic/@19.312707,84.802457,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070fb34e9c9:0x19f101f08f60c849!8m2!3d19.312707!4d84.802457!16s%2Fg%2F119t8880t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -13867,7 +13984,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Balaji+Dental+Clinic/@19.312707,84.802457,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5070fb34e9c9:0x19f101f08f60c849!8m2!3d19.312707!4d84.802457!16s%2Fg%2F119t8880t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-radheshyam-ayurveda-panchakarma-and-ksharasutra-clinic-brahmapur",
@@ -13916,7 +14034,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Radheshyam+Ayurveda+Panchakarma+%26+ksharasutra+clinic/@19.2980625,84.7929375,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5bd20efb1e47:0xbb07c45bb78335f1!8m2!3d19.2980625!4d84.7929375!16s%2Fg%2F11r4m4glc7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Radheshyam+Ayurveda+Panchakarma+%26+ksharasutra+clinic/@19.2980625,84.7929375,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5bd20efb1e47:0xbb07c45bb78335f1!8m2!3d19.2980625!4d84.7929375!16s%2Fg%2F11r4m4glc7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -13982,10 +14100,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Radheshyam+Ayurveda+Panchakarma+%26+ksharasutra+clinic/@19.2980625,84.7929375,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5bd20efb1e47:0xbb07c45bb78335f1!8m2!3d19.2980625!4d84.7929375!16s%2Fg%2F11r4m4glc7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sriram-dental-clinic-and-maxillofacial-care-center-for-dental-implants-i-best-dentist-in-berhampur-brahmapur",
@@ -14034,7 +14153,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SRIRAM+DENTAL+CLINIC+%26+MAXILLOFACIAL+CARE+%7C+Center+for+Dental+Implants+I+Best+Dentist+in+Berhampur/@19.3141744,84.8007044,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5078f537628b:0xf3a3b49141d23942!8m2!3d19.3141744!4d84.8007044!16s%2Fg%2F11fxxr7zjj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRIRAM+DENTAL+CLINIC+%26+MAXILLOFACIAL+CARE+%7C+Center+for+Dental+Implants+I+Best+Dentist+in+Berhampur/@19.3141744,84.8007044,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5078f537628b:0xf3a3b49141d23942!8m2!3d19.3141744!4d84.8007044!16s%2Fg%2F11fxxr7zjj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -14103,7 +14222,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRIRAM+DENTAL+CLINIC+%26+MAXILLOFACIAL+CARE+%7C+Center+for+Dental+Implants+I+Best+Dentist+in+Berhampur/@19.3141744,84.8007044,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5078f537628b:0xf3a3b49141d23942!8m2!3d19.3141744!4d84.8007044!16s%2Fg%2F11fxxr7zjj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sriram-hospital-brahmapur",
@@ -14151,7 +14271,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Sriram+Hospital/@19.308863,84.8185418,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d508110338291:0xe4871097f2e4397b!8m2!3d19.308863!4d84.8185418!16s%2Fg%2F11fy90df51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sriram+Hospital/@19.308863,84.8185418,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d508110338291:0xe4871097f2e4397b!8m2!3d19.308863!4d84.8185418!16s%2Fg%2F11fy90df51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -14220,7 +14340,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sriram+Hospital/@19.308863,84.8185418,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d508110338291:0xe4871097f2e4397b!8m2!3d19.308863!4d84.8185418!16s%2Fg%2F11fy90df51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "subham-dental-clinic-brahmapur",
@@ -14268,7 +14389,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SUBHAM+DENTAL+CLINIC/@19.3069293,84.8103485,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d512551207301:0x4d1909e6a9a99ab8!8m2!3d19.3069293!4d84.8103485!16s%2Fg%2F11j7h3157r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUBHAM+DENTAL+CLINIC/@19.3069293,84.8103485,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d512551207301:0x4d1909e6a9a99ab8!8m2!3d19.3069293!4d84.8103485!16s%2Fg%2F11j7h3157r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -14334,10 +14455,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SUBHAM+DENTAL+CLINIC/@19.3069293,84.8103485,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d512551207301:0x4d1909e6a9a99ab8!8m2!3d19.3069293!4d84.8103485!16s%2Fg%2F11j7h3157r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sudhir-heart-centre-brahmapur",
@@ -14387,7 +14509,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sudhir+Heart+Centre/data=!4m7!3m6!1s0x3a3d5008b71457fb:0xd9f1a6780cb4c7a!8m2!3d19.3093138!4d84.7848187!16s%2Fg%2F11fy90q60k!19sChIJ-1cUtwhQPToRekzLgGcanw0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudhir+Heart+Centre/data=!4m7!3m6!1s0x3a3d5008b71457fb:0xd9f1a6780cb4c7a!8m2!3d19.3093138!4d84.7848187!16s%2Fg%2F11fy90q60k!19sChIJ-1cUtwhQPToRekzLgGcanw0?authuser=0&hl=en&rclk=1"
@@ -14456,7 +14578,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sudhir+Heart+Centre/data=!4m7!3m6!1s0x3a3d5008b71457fb:0xd9f1a6780cb4c7a!8m2!3d19.3093138!4d84.7848187!16s%2Fg%2F11fy90q60k!19sChIJ-1cUtwhQPToRekzLgGcanw0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "suhasini-dental-care-berhampur-brahmapur",
@@ -14505,7 +14628,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Suhasini+Dental+Care+Berhampur/@19.3074956,84.8171929,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51330a4c8dd7:0x7cd1017167da36d8!8m2!3d19.3074956!4d84.8171929!16s%2Fg%2F11n459j2dh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suhasini+Dental+Care+Berhampur/@19.3074956,84.8171929,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51330a4c8dd7:0x7cd1017167da36d8!8m2!3d19.3074956!4d84.8171929!16s%2Fg%2F11n459j2dh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -14571,10 +14694,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suhasini+Dental+Care+Berhampur/@19.3074956,84.8171929,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51330a4c8dd7:0x7cd1017167da36d8!8m2!3d19.3074956!4d84.8171929!16s%2Fg%2F11n459j2dh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sum-hospital-brahmapur",
@@ -14623,7 +14747,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SUM+HOSPITAL/@19.3536739,84.8705858,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51fcbeb871a7:0xfde116308d1826f1!8m2!3d19.3536739!4d84.8705858!16s%2Fg%2F11vq4g5n85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUM+HOSPITAL/@19.3536739,84.8705858,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51fcbeb871a7:0xfde116308d1826f1!8m2!3d19.3536739!4d84.8705858!16s%2Fg%2F11vq4g5n85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -14692,7 +14816,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SUM+HOSPITAL/@19.3536739,84.8705858,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51fcbeb871a7:0xfde116308d1826f1!8m2!3d19.3536739!4d84.8705858!16s%2Fg%2F11vq4g5n85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surakhya-dental-clinic-brahmapur",
@@ -14741,7 +14866,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Surakhya+Dental+Clinic/@19.3143579,84.7997399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d511eadafe359:0x893993f19e1075af!8m2!3d19.3143579!4d84.7997399!16s%2Fg%2F11xymhyq6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surakhya+Dental+Clinic/@19.3143579,84.7997399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d511eadafe359:0x893993f19e1075af!8m2!3d19.3143579!4d84.7997399!16s%2Fg%2F11xymhyq6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -14810,7 +14935,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surakhya+Dental+Clinic/@19.3143579,84.7997399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d511eadafe359:0x893993f19e1075af!8m2!3d19.3143579!4d84.7997399!16s%2Fg%2F11xymhyq6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surya-dental-clinic-brahmapur",
@@ -14860,7 +14986,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SURYA+Dental+Clinic/@19.3120237,84.7933791,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500cdaaace1b:0x19dee4ce1d821b20!8m2!3d19.3120237!4d84.7933791!16s%2Fg%2F11cnxkdf21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SURYA+Dental+Clinic/@19.3120237,84.7933791,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500cdaaace1b:0x19dee4ce1d821b20!8m2!3d19.3120237!4d84.7933791!16s%2Fg%2F11cnxkdf21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -14929,7 +15055,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SURYA+Dental+Clinic/@19.3120237,84.7933791,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500cdaaace1b:0x19dee4ce1d821b20!8m2!3d19.3120237!4d84.7933791!16s%2Fg%2F11cnxkdf21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swasthya-sadan-diabetes-and-endocrinology-clinic-brahmapur",
@@ -14979,7 +15106,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Swasthya+Sadan-+Diabetes+%26+Endocrinology+Clinic/@19.3112776,84.8038972,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5100154ea737:0x30b45f7db2deb456!8m2!3d19.3112776!4d84.8038972!16s%2Fg%2F11vpvd9m3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swasthya+Sadan-+Diabetes+%26+Endocrinology+Clinic/@19.3112776,84.8038972,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5100154ea737:0x30b45f7db2deb456!8m2!3d19.3112776!4d84.8038972!16s%2Fg%2F11vpvd9m3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -15045,10 +15172,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swasthya+Sadan-+Diabetes+%26+Endocrinology+Clinic/@19.3112776,84.8038972,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5100154ea737:0x30b45f7db2deb456!8m2!3d19.3112776!4d84.8038972!16s%2Fg%2F11vpvd9m3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swastik-gastro-and-liver-care-hospital-brahmapur",
@@ -15098,7 +15226,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Swastik+Gastro+%26+Liver+Care+Hospital/@19.3099884,84.8051757,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51aafd4c2165:0x2f35e2f380148f2c!8m2!3d19.3099884!4d84.8051757!16s%2Fg%2F11j3xg_cn3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swastik+Gastro+%26+Liver+Care+Hospital/@19.3099884,84.8051757,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51aafd4c2165:0x2f35e2f380148f2c!8m2!3d19.3099884!4d84.8051757!16s%2Fg%2F11j3xg_cn3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -15164,10 +15292,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swastik+Gastro+%26+Liver+Care+Hospital/@19.3099884,84.8051757,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51aafd4c2165:0x2f35e2f380148f2c!8m2!3d19.3099884!4d84.8051757!16s%2Fg%2F11j3xg_cn3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swastika-hair-transplant-and-face-cosmetic-clinic-hair-transplant-clinic-in-brahmapur-lasers-prp-skin-and-cosmetology-clinic-brahmapur",
@@ -15215,7 +15344,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Swastika+Hair+Transplant+And+Face+Cosmetic+Clinic+%2FHair+Transplant+Clinic+in+Brahmapur%2FLasers+PRP%2FSkin+and+Cosmetology+clinic/@19.3132095,84.8014756,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51493d494deb:0xe737a8b824b82f02!8m2!3d19.3132095!4d84.8014756!16s%2Fg%2F11sv_7154s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swastika+Hair+Transplant+And+Face+Cosmetic+Clinic+%2FHair+Transplant+Clinic+in+Brahmapur%2FLasers+PRP%2FSkin+and+Cosmetology+clinic/@19.3132095,84.8014756,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51493d494deb:0xe737a8b824b82f02!8m2!3d19.3132095!4d84.8014756!16s%2Fg%2F11sv_7154s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -15284,7 +15413,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swastika+Hair+Transplant+And+Face+Cosmetic+Clinic+%2FHair+Transplant+Clinic+in+Brahmapur%2FLasers+PRP%2FSkin+and+Cosmetology+clinic/@19.3132095,84.8014756,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51493d494deb:0xe737a8b824b82f02!8m2!3d19.3132095!4d84.8014756!16s%2Fg%2F11sv_7154s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-brain-clinic-brahmapur",
@@ -15334,7 +15464,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Brain+Clinic/data=!4m7!3m6!1s0x3a3d57dd9f99b3f3:0x814b78532d261bbf!8m2!3d19.3177257!4d84.857629!16s%2Fg%2F11kb94y0rh!19sChIJ87OZn91XPToRvxsmLVN4S4E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Brain+Clinic/data=!4m7!3m6!1s0x3a3d57dd9f99b3f3:0x814b78532d261bbf!8m2!3d19.3177257!4d84.857629!16s%2Fg%2F11kb94y0rh!19sChIJ87OZn91XPToRvxsmLVN4S4E?authuser=0&hl=en&rclk=1"
@@ -15400,10 +15530,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Brain+Clinic/data=!4m7!3m6!1s0x3a3d57dd9f99b3f3:0x814b78532d261bbf!8m2!3d19.3177257!4d84.857629!16s%2Fg%2F11kb94y0rh!19sChIJ87OZn91XPToRvxsmLVN4S4E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-clinic-of-diental-medicine-and-maxillofacial-care-brahmapur",
@@ -15450,7 +15581,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/The+clinic+of+diental+medicine+and+maxillofacial+care+%F0%9F%A6%B7/@19.2962026,84.8121768,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5b004b138921:0x4d55f9b72001bba8!8m2!3d19.2962026!4d84.8121768!16s%2Fg%2F11ln5rn12b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+clinic+of+diental+medicine+and+maxillofacial+care+%F0%9F%A6%B7/@19.2962026,84.8121768,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5b004b138921:0x4d55f9b72001bba8!8m2!3d19.2962026!4d84.8121768!16s%2Fg%2F11ln5rn12b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -15516,10 +15647,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+clinic+of+diental+medicine+and+maxillofacial+care+%F0%9F%A6%B7/@19.2962026,84.8121768,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5b004b138921:0x4d55f9b72001bba8!8m2!3d19.2962026!4d84.8121768!16s%2Fg%2F11ln5rn12b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -15569,7 +15701,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -15635,10 +15767,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-neurology-and-skin-care-clinic-brahmapur",
@@ -15687,7 +15820,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/The+Neurology+and+skin+care+clinic/@19.3059625,84.8067853,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516005755263:0x86b8ee1c8cd0fbf2!8m2!3d19.3059625!4d84.8067853!16s%2Fg%2F11tdztz7__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Neurology+and+skin+care+clinic/@19.3059625,84.8067853,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516005755263:0x86b8ee1c8cd0fbf2!8m2!3d19.3059625!4d84.8067853!16s%2Fg%2F11tdztz7__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -15756,7 +15889,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Neurology+and+skin+care+clinic/@19.3059625,84.8067853,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516005755263:0x86b8ee1c8cd0fbf2!8m2!3d19.3059625!4d84.8067853!16s%2Fg%2F11tdztz7__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-odontologist-smile-makers-brahmapur",
@@ -15805,7 +15939,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+ODontologist+-+Smile+Makers/@19.307249,84.815632,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51bf29ba54ff:0xfc879c9eea213a!8m2!3d19.307249!4d84.815632!16s%2Fg%2F11vz4jnc_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+ODontologist+-+Smile+Makers/@19.307249,84.815632,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51bf29ba54ff:0xfc879c9eea213a!8m2!3d19.307249!4d84.815632!16s%2Fg%2F11vz4jnc_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -15874,7 +16008,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+ODontologist+-+Smile+Makers/@19.307249,84.815632,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51bf29ba54ff:0xfc879c9eea213a!8m2!3d19.307249!4d84.815632!16s%2Fg%2F11vz4jnc_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-smile-dental-clinic-brahmapur",
@@ -15922,7 +16057,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Smile+Dental+Clinic/@19.3177788,84.7950571,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d506d38743c5f:0x264c82afe9079a28!8m2!3d19.3177788!4d84.7950571!16s%2Fg%2F11g9vnzlhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Smile+Dental+Clinic/@19.3177788,84.7950571,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d506d38743c5f:0x264c82afe9079a28!8m2!3d19.3177788!4d84.7950571!16s%2Fg%2F11g9vnzlhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -15988,10 +16123,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Smile+Dental+Clinic/@19.3177788,84.7950571,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d506d38743c5f:0x264c82afe9079a28!8m2!3d19.3177788!4d84.7950571!16s%2Fg%2F11g9vnzlhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "trishan-hospital-brahmapur",
@@ -16039,7 +16175,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/TRISHAN+HOSPITAL/@19.3065193,84.809026,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516f88db5deb:0x794535100d10af37!8m2!3d19.3065193!4d84.809026!16s%2Fg%2F11yk729rcv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TRISHAN+HOSPITAL/@19.3065193,84.809026,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516f88db5deb:0x794535100d10af37!8m2!3d19.3065193!4d84.809026!16s%2Fg%2F11yk729rcv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -16105,10 +16241,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TRISHAN+HOSPITAL/@19.3065193,84.809026,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d516f88db5deb:0x794535100d10af37!8m2!3d19.3065193!4d84.809026!16s%2Fg%2F11yk729rcv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "unique-health-care-goilundi-berhampur-brahmapur",
@@ -16157,7 +16294,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Unique+Health+Care,+Goilundi,+Berhampur/@19.3099468,84.8054851,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51ebbc23a2dd:0x31715ad8336b2da6!8m2!3d19.3099468!4d84.8054851!16s%2Fg%2F11t6pnzs7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unique+Health+Care,+Goilundi,+Berhampur/@19.3099468,84.8054851,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51ebbc23a2dd:0x31715ad8336b2da6!8m2!3d19.3099468!4d84.8054851!16s%2Fg%2F11t6pnzs7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -16223,10 +16360,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Unique+Health+Care,+Goilundi,+Berhampur/@19.3099468,84.8054851,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d51ebbc23a2dd:0x31715ad8336b2da6!8m2!3d19.3099468!4d84.8054851!16s%2Fg%2F11t6pnzs7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "utkal-dental-clinic-brahmapur",
@@ -16274,7 +16412,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/UTKAL+DENTAL+CLINIC/@19.314329,84.7864891,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500d2ecbaf73:0x5c8924307116513c!8m2!3d19.314329!4d84.7864891!16s%2Fg%2F11c1nd2975?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UTKAL+DENTAL+CLINIC/@19.314329,84.7864891,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500d2ecbaf73:0x5c8924307116513c!8m2!3d19.314329!4d84.7864891!16s%2Fg%2F11c1nd2975?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -16343,7 +16481,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/UTKAL+DENTAL+CLINIC/@19.314329,84.7864891,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500d2ecbaf73:0x5c8924307116513c!8m2!3d19.314329!4d84.7864891!16s%2Fg%2F11c1nd2975?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "utkal-surgical-and-pharmaceutical-agency-brahmapur",
@@ -16393,7 +16532,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Utkal+Surgical+%26+Pharmaceutical+Agency/@19.3133232,84.7941422,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500d2b285fef:0xd6605e2f8d0a4958!8m2!3d19.3133232!4d84.7941422!16s%2Fg%2F11g9sv_n9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Utkal+Surgical+%26+Pharmaceutical+Agency/@19.3133232,84.7941422,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500d2b285fef:0xd6605e2f8d0a4958!8m2!3d19.3133232!4d84.7941422!16s%2Fg%2F11g9sv_n9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -16462,7 +16601,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Utkal+Surgical+%26+Pharmaceutical+Agency/@19.3133232,84.7941422,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d500d2b285fef:0xd6605e2f8d0a4958!8m2!3d19.3133232!4d84.7941422!16s%2Fg%2F11g9sv_n9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "white-pearl-dental-and-implant-clinic-in-brahmapur-brahmapur",
@@ -16511,7 +16651,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/White+Pearl+Dental+and+Implant+Clinic+in+Brahmapur/@19.3083298,84.7972425,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5bcd4690241b:0xe7292ef31ae8d1f!8m2!3d19.3083298!4d84.7972425!16s%2Fg%2F11s0zn9c_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/White+Pearl+Dental+and+Implant+Clinic+in+Brahmapur/@19.3083298,84.7972425,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5bcd4690241b:0xe7292ef31ae8d1f!8m2!3d19.3083298!4d84.7972425!16s%2Fg%2F11s0zn9c_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -16580,7 +16720,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/White+Pearl+Dental+and+Implant+Clinic+in+Brahmapur/@19.3083298,84.7972425,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5bcd4690241b:0xe7292ef31ae8d1f!8m2!3d19.3083298!4d84.7972425!16s%2Fg%2F11s0zn9c_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yamini-dental-clinic-and-implant-centre-brahmapur",
@@ -16628,7 +16769,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Yamini+Dental+Clinic+and+Implant+Centre/data=!4m7!3m6!1s0x3a3d51fd1ee268fb:0x6f7f1beb1c2968a5!8m2!3d19.3048261!4d84.8010033!16s%2Fg%2F11nygv5r7y!19sChIJ-2jiHv1RPToRpWgpHOsbf28?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yamini+Dental+Clinic+and+Implant+Centre/data=!4m7!3m6!1s0x3a3d51fd1ee268fb:0x6f7f1beb1c2968a5!8m2!3d19.3048261!4d84.8010033!16s%2Fg%2F11nygv5r7y!19sChIJ-2jiHv1RPToRpWgpHOsbf28?authuser=0&hl=en&rclk=1"
@@ -16694,10 +16835,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yamini+Dental+Clinic+and+Implant+Centre/data=!4m7!3m6!1s0x3a3d51fd1ee268fb:0x6f7f1beb1c2968a5!8m2!3d19.3048261!4d84.8010033!16s%2Fg%2F11nygv5r7y!19sChIJ-2jiHv1RPToRpWgpHOsbf28?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "zenana-hospital-maternity-brahmapur",
@@ -16745,7 +16887,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Zenana+Hospital(+maternity)/@19.3056294,84.7985056,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5075e96e3fdd:0x5d2ff921884182d5!8m2!3d19.3056294!4d84.7985056!16s%2Fg%2F11fyljpmvm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zenana+Hospital(+maternity)/@19.3056294,84.7985056,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5075e96e3fdd:0x5d2ff921884182d5!8m2!3d19.3056294!4d84.7985056!16s%2Fg%2F11fyljpmvm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -16811,9 +16953,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zenana+Hospital(+maternity)/@19.3056294,84.7985056,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5075e96e3fdd:0x5d2ff921884182d5!8m2!3d19.3056294!4d84.7985056!16s%2Fg%2F11fyljpmvm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

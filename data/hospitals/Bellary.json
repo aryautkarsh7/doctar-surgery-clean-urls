@@ -46,7 +46,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%22Sri+Someshwara+ENT+Clinic+-+SS+ENT+Day+Care+Center,%22/data=!4m7!3m6!1s0x3bb7117ccce06713:0xab16c4b0677984d2!8m2!3d15.1516016!4d76.9220804!16s%2Fg%2F11f1w7150z!19sChIJE2fgzHwRtzsR0oR5Z7DEFqs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%22Sri+Someshwara+ENT+Clinic+-+SS+ENT+Day+Care+Center,%22/data=!4m7!3m6!1s0x3bb7117ccce06713:0xab16c4b0677984d2!8m2!3d15.1516016!4d76.9220804!16s%2Fg%2F11f1w7150z!19sChIJE2fgzHwRtzsR0oR5Z7DEFqs?authuser=0&hl=en&rclk=1"
@@ -115,7 +115,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%22Sri+Someshwara+ENT+Clinic+-+SS+ENT+Day+Care+Center,%22/data=!4m7!3m6!1s0x3bb7117ccce06713:0xab16c4b0677984d2!8m2!3d15.1516016!4d76.9220804!16s%2Fg%2F11f1w7150z!19sChIJE2fgzHwRtzsR0oR5Z7DEFqs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "adarsh-nursing-home-ballari",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Adarsh+Nursing+Home/data=!4m7!3m6!1s0x3bb71171b87069bf:0xfb545561ca7c8a28!8m2!3d15.1536183!4d76.9334118!16s%2Fg%2F11c2pv1w89!19sChIJv2lwuHERtzsRKIp8ymFVVPs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adarsh+Nursing+Home/data=!4m7!3m6!1s0x3bb71171b87069bf:0xfb545561ca7c8a28!8m2!3d15.1536183!4d76.9334118!16s%2Fg%2F11c2pv1w89!19sChIJv2lwuHERtzsRKIp8ymFVVPs?authuser=0&hl=en&rclk=1"
@@ -232,7 +233,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Adarsh+Nursing+Home/data=!4m7!3m6!1s0x3bb71171b87069bf:0xfb545561ca7c8a28!8m2!3d15.1536183!4d76.9334118!16s%2Fg%2F11c2pv1w89!19sChIJv2lwuHERtzsRKIp8ymFVVPs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aditya-nursing-home-ballari",
@@ -283,7 +285,7 @@
       "5+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aditya+Nursing+Home/data=!4m7!3m6!1s0x3bb71114d0c6f185:0x6880b93578b0e0ba!8m2!3d15.14651!4d76.94205!16s%2Fg%2F11fz9zgwv_!19sChIJhfHG0BQRtzsRuuCweDW5gGg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditya+Nursing+Home/data=!4m7!3m6!1s0x3bb71114d0c6f185:0x6880b93578b0e0ba!8m2!3d15.14651!4d76.94205!16s%2Fg%2F11fz9zgwv_!19sChIJhfHG0BQRtzsRuuCweDW5gGg?authuser=0&hl=en&rclk=1"
@@ -352,7 +354,8 @@
     "rating": 3.7,
     "reviews": 5,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aditya+Nursing+Home/data=!4m7!3m6!1s0x3bb71114d0c6f185:0x6880b93578b0e0ba!8m2!3d15.14651!4d76.94205!16s%2Fg%2F11fz9zgwv_!19sChIJhfHG0BQRtzsRuuCweDW5gGg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "agastya-hospitals-ballari",
@@ -400,7 +403,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/AGASTYA+HOSPITALS/data=!4m7!3m6!1s0x3bb713339d24cd9d:0x9cabc43aca95b4b5!8m2!3d15.1554014!4d76.9169972!16s%2Fg%2F11z0pdf_xb!19sChIJnc0knTMTtzsRtbSVyjrEq5w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AGASTYA+HOSPITALS/data=!4m7!3m6!1s0x3bb713339d24cd9d:0x9cabc43aca95b4b5!8m2!3d15.1554014!4d76.9169972!16s%2Fg%2F11z0pdf_xb!19sChIJnc0knTMTtzsRtbSVyjrEq5w?authuser=0&hl=en&rclk=1"
@@ -466,10 +469,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AGASTYA+HOSPITALS/data=!4m7!3m6!1s0x3bb713339d24cd9d:0x9cabc43aca95b4b5!8m2!3d15.1554014!4d76.9169972!16s%2Fg%2F11z0pdf_xb!19sChIJnc0knTMTtzsRtbSVyjrEq5w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "all-care-dental-centre-ballari",
@@ -517,7 +521,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/All+care+Dental+Centre/data=!4m7!3m6!1s0x3bb7110039f3c385:0x1392e09059871ac3!8m2!3d15.144475!4d76.9294719!16s%2Fg%2F11y47fnmql!19sChIJhcPzOQARtzsRwxqHWZDgkhM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/All+care+Dental+Centre/data=!4m7!3m6!1s0x3bb7110039f3c385:0x1392e09059871ac3!8m2!3d15.144475!4d76.9294719!16s%2Fg%2F11y47fnmql!19sChIJhcPzOQARtzsRwxqHWZDgkhM?authuser=0&hl=en&rclk=1"
@@ -583,10 +587,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/All+care+Dental+Centre/data=!4m7!3m6!1s0x3bb7110039f3c385:0x1392e09059871ac3!8m2!3d15.144475!4d76.9294719!16s%2Fg%2F11y47fnmql!19sChIJhcPzOQARtzsRwxqHWZDgkhM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "all-smiles-dental-solutions-ballari",
@@ -634,7 +639,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/ALL+SMILES+DENTAL+SOLUTIONS/data=!4m7!3m6!1s0x3bb7112f9e63b7ff:0x89ead0dfe515de5e!8m2!3d15.1519882!4d76.9317601!16s%2Fg%2F11pb2ghlsf!19sChIJ_7djni8RtzsRXt4V5d_Q6ok?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ALL+SMILES+DENTAL+SOLUTIONS/data=!4m7!3m6!1s0x3bb7112f9e63b7ff:0x89ead0dfe515de5e!8m2!3d15.1519882!4d76.9317601!16s%2Fg%2F11pb2ghlsf!19sChIJ_7djni8RtzsRXt4V5d_Q6ok?authuser=0&hl=en&rclk=1"
@@ -703,7 +708,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ALL+SMILES+DENTAL+SOLUTIONS/data=!4m7!3m6!1s0x3bb7112f9e63b7ff:0x89ead0dfe515de5e!8m2!3d15.1519882!4d76.9317601!16s%2Fg%2F11pb2ghlsf!19sChIJ_7djni8RtzsRXt4V5d_Q6ok?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "amogh-nursing-home-ballari",
@@ -751,7 +757,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Amogh+Nursing+Home/data=!4m7!3m6!1s0x3bb7117b023c46eb:0xa365a866f9ed00d2!8m2!3d15.1540395!4d76.9267654!16s%2Fg%2F11cs3yrk91!19sChIJ60Y8AnsRtzsR0gDt-WaoZaM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amogh+Nursing+Home/data=!4m7!3m6!1s0x3bb7117b023c46eb:0xa365a866f9ed00d2!8m2!3d15.1540395!4d76.9267654!16s%2Fg%2F11cs3yrk91!19sChIJ60Y8AnsRtzsR0gDt-WaoZaM?authuser=0&hl=en&rclk=1"
@@ -820,7 +826,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amogh+Nursing+Home/data=!4m7!3m6!1s0x3bb7117b023c46eb:0xa365a866f9ed00d2!8m2!3d15.1540395!4d76.9267654!16s%2Fg%2F11cs3yrk91!19sChIJ60Y8AnsRtzsR0gDt-WaoZaM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "amrutha-dental-hospitals-ballari",
@@ -869,7 +876,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Amrutha+Dental+Hospitals/data=!4m7!3m6!1s0x3bb711605cf17deb:0x976326f17afd6833!8m2!3d15.1417918!4d76.9207301!16s%2Fg%2F11g_7sxzr!19sChIJ633xXGARtzsRM2j9evEmY5c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrutha+Dental+Hospitals/data=!4m7!3m6!1s0x3bb711605cf17deb:0x976326f17afd6833!8m2!3d15.1417918!4d76.9207301!16s%2Fg%2F11g_7sxzr!19sChIJ633xXGARtzsRM2j9evEmY5c?authuser=0&hl=en&rclk=1"
@@ -938,7 +945,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrutha+Dental+Hospitals/data=!4m7!3m6!1s0x3bb711605cf17deb:0x976326f17afd6833!8m2!3d15.1417918!4d76.9207301!16s%2Fg%2F11g_7sxzr!19sChIJ633xXGARtzsRM2j9evEmY5c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "anantha-vasudev-hospital-ballari",
@@ -987,7 +995,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ANANTHA+VASUDEV+HOSPITAL/data=!4m7!3m6!1s0x3bb71166099708a7:0xb0afd8299c8a81cc!8m2!3d15.142478!4d76.9457346!16s%2Fg%2F11bt_j_sks!19sChIJpwiXCWYRtzsRzIGKnCnYr7A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANANTHA+VASUDEV+HOSPITAL/data=!4m7!3m6!1s0x3bb71166099708a7:0xb0afd8299c8a81cc!8m2!3d15.142478!4d76.9457346!16s%2Fg%2F11bt_j_sks!19sChIJpwiXCWYRtzsRzIGKnCnYr7A?authuser=0&hl=en&rclk=1"
@@ -1056,7 +1064,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ANANTHA+VASUDEV+HOSPITAL/data=!4m7!3m6!1s0x3bb71166099708a7:0xb0afd8299c8a81cc!8m2!3d15.142478!4d76.9457346!16s%2Fg%2F11bt_j_sks!19sChIJpwiXCWYRtzsRzIGKnCnYr7A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "annapoorna-skin-clinic-ballari",
@@ -1104,7 +1113,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Annapoorna+Skin+Clinic/data=!4m7!3m6!1s0x3bb7117019020ac5:0x3cf1f269467fef79!8m2!3d15.1525524!4d76.9309955!16s%2Fg%2F11f_j8skvb!19sChIJxQoCGXARtzsRee9_Rmny8Tw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Annapoorna+Skin+Clinic/data=!4m7!3m6!1s0x3bb7117019020ac5:0x3cf1f269467fef79!8m2!3d15.1525524!4d76.9309955!16s%2Fg%2F11f_j8skvb!19sChIJxQoCGXARtzsRee9_Rmny8Tw?authuser=0&hl=en&rclk=1"
@@ -1173,7 +1182,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Annapoorna+Skin+Clinic/data=!4m7!3m6!1s0x3bb7117019020ac5:0x3cf1f269467fef79!8m2!3d15.1525524!4d76.9309955!16s%2Fg%2F11f_j8skvb!19sChIJxQoCGXARtzsRee9_Rmny8Tw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "anuradha-heart-care-center-ballari",
@@ -1222,7 +1232,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/ANURADHA+HEART+CARE+CENTER/data=!4m7!3m6!1s0x3bb713c9160ef93b:0x46055812329119cf!8m2!3d15.1544213!4d76.8994383!16s%2Fg%2F11cmswkfs1!19sChIJO_kOFskTtzsRzxmRMhJYBUY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANURADHA+HEART+CARE+CENTER/data=!4m7!3m6!1s0x3bb713c9160ef93b:0x46055812329119cf!8m2!3d15.1544213!4d76.8994383!16s%2Fg%2F11cmswkfs1!19sChIJO_kOFskTtzsRzxmRMhJYBUY?authuser=0&hl=en&rclk=1"
@@ -1291,7 +1301,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ANURADHA+HEART+CARE+CENTER/data=!4m7!3m6!1s0x3bb713c9160ef93b:0x46055812329119cf!8m2!3d15.1544213!4d76.8994383!16s%2Fg%2F11cmswkfs1!19sChIJO_kOFskTtzsRzxmRMhJYBUY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "anushka-hosptial-ballari-ballari",
@@ -1340,7 +1351,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ANUSHKA+HOSPTIAL+BALLARI/data=!4m7!3m6!1s0x3bb713eab5ed883f:0x93a1aa8541b4f6a!8m2!3d15.155056!4d76.8995687!16s%2Fg%2F11qp07rnkb!19sChIJP4jtteoTtzsRak8bVKgaOgk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANUSHKA+HOSPTIAL+BALLARI/data=!4m7!3m6!1s0x3bb713eab5ed883f:0x93a1aa8541b4f6a!8m2!3d15.155056!4d76.8995687!16s%2Fg%2F11qp07rnkb!19sChIJP4jtteoTtzsRak8bVKgaOgk?authuser=0&hl=en&rclk=1"
@@ -1409,7 +1420,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ANUSHKA+HOSPTIAL+BALLARI/data=!4m7!3m6!1s0x3bb713eab5ed883f:0x93a1aa8541b4f6a!8m2!3d15.155056!4d76.8995687!16s%2Fg%2F11qp07rnkb!19sChIJP4jtteoTtzsRak8bVKgaOgk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aradhana-hospital-ballari",
@@ -1458,7 +1470,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aradhana+Hospital/data=!4m7!3m6!1s0x3bb711739b16eaf9:0xd2cee85de3403c6f!8m2!3d15.1573792!4d76.937913!16s%2Fg%2F11c2jwywd6!19sChIJ-eoWm3MRtzsRbzxA413oztI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aradhana+Hospital/data=!4m7!3m6!1s0x3bb711739b16eaf9:0xd2cee85de3403c6f!8m2!3d15.1573792!4d76.937913!16s%2Fg%2F11c2jwywd6!19sChIJ-eoWm3MRtzsRbzxA413oztI?authuser=0&hl=en&rclk=1"
@@ -1527,7 +1539,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aradhana+Hospital/data=!4m7!3m6!1s0x3bb711739b16eaf9:0xd2cee85de3403c6f!8m2!3d15.1573792!4d76.937913!16s%2Fg%2F11c2jwywd6!19sChIJ-eoWm3MRtzsRbzxA413oztI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "arunodaya-dental-care-ballari",
@@ -1575,7 +1588,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Arunodaya+Dental+Care/data=!4m7!3m6!1s0x3bb7116fe40fa3d5:0xf636bcc41416a16b!8m2!3d15.1516362!4d76.9307645!16s%2Fg%2F11f_1d62md!19sChIJ1aMP5G8RtzsRa6EWFMS8NvY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arunodaya+Dental+Care/data=!4m7!3m6!1s0x3bb7116fe40fa3d5:0xf636bcc41416a16b!8m2!3d15.1516362!4d76.9307645!16s%2Fg%2F11f_1d62md!19sChIJ1aMP5G8RtzsRa6EWFMS8NvY?authuser=0&hl=en&rclk=1"
@@ -1641,10 +1654,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arunodaya+Dental+Care/data=!4m7!3m6!1s0x3bb7116fe40fa3d5:0xf636bcc41416a16b!8m2!3d15.1516362!4d76.9307645!16s%2Fg%2F11f_1d62md!19sChIJ1aMP5G8RtzsRa6EWFMS8NvY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "arunodaya-hospital-ballari",
@@ -1694,7 +1708,7 @@
       "2+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Arunodaya+Hospital/data=!4m7!3m6!1s0x3bb713d50679027f:0x83ff101c36ea7b42!8m2!3d15.1600833!4d76.9157258!16s%2Fg%2F1tm1nxd3!19sChIJfwJ5BtUTtzsRQnvqNhwQ_4M?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arunodaya+Hospital/data=!4m7!3m6!1s0x3bb713d50679027f:0x83ff101c36ea7b42!8m2!3d15.1600833!4d76.9157258!16s%2Fg%2F1tm1nxd3!19sChIJfwJ5BtUTtzsRQnvqNhwQ_4M?authuser=0&hl=en&rclk=1"
@@ -1763,7 +1777,8 @@
     "rating": 3.2,
     "reviews": 2,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arunodaya+Hospital/data=!4m7!3m6!1s0x3bb713d50679027f:0x83ff101c36ea7b42!8m2!3d15.1600833!4d76.9157258!16s%2Fg%2F1tm1nxd3!19sChIJfwJ5BtUTtzsRQnvqNhwQ_4M?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ashraya-clinic-ballari",
@@ -1813,7 +1828,7 @@
       "Google rating 5.0",
       "6+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Ashraya+Clinic/data=!4m7!3m6!1s0x3bb7116d17294ff9:0xdb5450b87b20b4d7!8m2!3d15.1419378!4d76.928929!16s%2Fg%2F11s3ddnw18!19sChIJ-U8pF20RtzsR17Qge7hQVNs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashraya+Clinic/data=!4m7!3m6!1s0x3bb7116d17294ff9:0xdb5450b87b20b4d7!8m2!3d15.1419378!4d76.928929!16s%2Fg%2F11s3ddnw18!19sChIJ-U8pF20RtzsR17Qge7hQVNs?authuser=0&hl=en&rclk=1"
@@ -1879,10 +1894,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 6,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashraya+Clinic/data=!4m7!3m6!1s0x3bb7116d17294ff9:0xdb5450b87b20b4d7!8m2!3d15.1419378!4d76.928929!16s%2Fg%2F11s3ddnw18!19sChIJ-U8pF20RtzsR17Qge7hQVNs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "b-k-s-hospital-ballari",
@@ -1930,7 +1946,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/B+K+S+Hospital/data=!4m7!3m6!1s0x3bb71171e1fe652d:0xc8238b4690cc2b5b!8m2!3d15.1524564!4d76.936249!16s%2Fg%2F11bv1sk732!19sChIJLWX-4XERtzsRWyvMkEaLI8g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B+K+S+Hospital/data=!4m7!3m6!1s0x3bb71171e1fe652d:0xc8238b4690cc2b5b!8m2!3d15.1524564!4d76.936249!16s%2Fg%2F11bv1sk732!19sChIJLWX-4XERtzsRWyvMkEaLI8g?authuser=0&hl=en&rclk=1"
@@ -1999,7 +2015,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/B+K+S+Hospital/data=!4m7!3m6!1s0x3bb71171e1fe652d:0xc8238b4690cc2b5b!8m2!3d15.1524564!4d76.936249!16s%2Fg%2F11bv1sk732!19sChIJLWX-4XERtzsRWyvMkEaLI8g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ballari-chest-center-ballari",
@@ -2048,7 +2065,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ballari+Chest+Center/data=!4m7!3m6!1s0x3bb7118b395546ab:0xa2ec63d6ff2a385!8m2!3d15.1543179!4d76.937534!16s%2Fg%2F11lh549w8v!19sChIJq0ZVOYsRtzsRhaPybz3GLgo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ballari+Chest+Center/data=!4m7!3m6!1s0x3bb7118b395546ab:0xa2ec63d6ff2a385!8m2!3d15.1543179!4d76.937534!16s%2Fg%2F11lh549w8v!19sChIJq0ZVOYsRtzsRhaPybz3GLgo?authuser=0&hl=en&rclk=1"
@@ -2117,7 +2134,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ballari+Chest+Center/data=!4m7!3m6!1s0x3bb7118b395546ab:0xa2ec63d6ff2a385!8m2!3d15.1543179!4d76.937534!16s%2Fg%2F11lh549w8v!19sChIJq0ZVOYsRtzsRhaPybz3GLgo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ballari-diabetes-and-endocrine-center-ballari",
@@ -2167,7 +2185,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BALLARI+DIABETES+AND+ENDOCRINE+CENTER/data=!4m7!3m6!1s0x3bb71133a4ce0be7:0xba947850a4e8d385!8m2!3d15.137899!4d76.9038147!16s%2Fg%2F11wb_bzkqn!19sChIJ5wvOpDMRtzsRhdPopFB4lLo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BALLARI+DIABETES+AND+ENDOCRINE+CENTER/data=!4m7!3m6!1s0x3bb71133a4ce0be7:0xba947850a4e8d385!8m2!3d15.137899!4d76.9038147!16s%2Fg%2F11wb_bzkqn!19sChIJ5wvOpDMRtzsRhdPopFB4lLo?authuser=0&hl=en&rclk=1"
@@ -2236,7 +2254,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BALLARI+DIABETES+AND+ENDOCRINE+CENTER/data=!4m7!3m6!1s0x3bb71133a4ce0be7:0xba947850a4e8d385!8m2!3d15.137899!4d76.9038147!16s%2Fg%2F11wb_bzkqn!19sChIJ5wvOpDMRtzsRhdPopFB4lLo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ballari-health-city-ballari",
@@ -2285,7 +2304,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BALLARI+Health+City/data=!4m7!3m6!1s0x3bb713d751cb3969:0x3b6049a077434cc5!8m2!3d15.162552!4d76.9143633!16s%2Fg%2F11rm4kxcsd!19sChIJaTnLUdcTtzsRxUxDd6BJYDs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BALLARI+Health+City/data=!4m7!3m6!1s0x3bb713d751cb3969:0x3b6049a077434cc5!8m2!3d15.162552!4d76.9143633!16s%2Fg%2F11rm4kxcsd!19sChIJaTnLUdcTtzsRxUxDd6BJYDs?authuser=0&hl=en&rclk=1"
@@ -2354,7 +2373,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BALLARI+Health+City/data=!4m7!3m6!1s0x3bb713d751cb3969:0x3b6049a077434cc5!8m2!3d15.162552!4d76.9143633!16s%2Fg%2F11rm4kxcsd!19sChIJaTnLUdcTtzsRxUxDd6BJYDs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ballari-lifeline-hospital-ballari",
@@ -2403,7 +2423,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ballari+Lifeline+Hospital/data=!4m7!3m6!1s0x3bb711002639d7d9:0x275cabde113d5bea!8m2!3d15.1473337!4d76.9291849!16s%2Fg%2F11y5cgv_2r!19sChIJ2dc5JgARtzsR6ls9Ed6rXCc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ballari+Lifeline+Hospital/data=!4m7!3m6!1s0x3bb711002639d7d9:0x275cabde113d5bea!8m2!3d15.1473337!4d76.9291849!16s%2Fg%2F11y5cgv_2r!19sChIJ2dc5JgARtzsR6ls9Ed6rXCc?authuser=0&hl=en&rclk=1"
@@ -2472,7 +2492,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ballari+Lifeline+Hospital/data=!4m7!3m6!1s0x3bb711002639d7d9:0x275cabde113d5bea!8m2!3d15.1473337!4d76.9291849!16s%2Fg%2F11y5cgv_2r!19sChIJ2dc5JgARtzsR6ls9Ed6rXCc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ballari-neuro-centre-ballari",
@@ -2522,7 +2543,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ballari+Neuro+Centre/data=!4m7!3m6!1s0x3bb7110cecf90c55:0x3e4ba8e1a26c59f1!8m2!3d15.1568969!4d76.9432148!16s%2Fg%2F11gf9cs1l4!19sChIJVQz57AwRtzsR8VlsouGoSz4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ballari+Neuro+Centre/data=!4m7!3m6!1s0x3bb7110cecf90c55:0x3e4ba8e1a26c59f1!8m2!3d15.1568969!4d76.9432148!16s%2Fg%2F11gf9cs1l4!19sChIJVQz57AwRtzsR8VlsouGoSz4?authuser=0&hl=en&rclk=1"
@@ -2591,7 +2612,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ballari+Neuro+Centre/data=!4m7!3m6!1s0x3bb7110cecf90c55:0x3e4ba8e1a26c59f1!8m2!3d15.1568969!4d76.9432148!16s%2Fg%2F11gf9cs1l4!19sChIJVQz57AwRtzsR8VlsouGoSz4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "basava-cancer-clinic-ballari",
@@ -2641,7 +2663,7 @@
       "Google rating 3.0",
       "12+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Basava+Cancer+Clinic/data=!4m7!3m6!1s0x3bb711660843780b:0xd4cdda3de786cdfa!8m2!3d15.1460667!4d76.9289051!16s%2Fg%2F11gbzc5_fy!19sChIJC3hDCGYRtzsR-s2G5z3azdQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Basava+Cancer+Clinic/data=!4m7!3m6!1s0x3bb711660843780b:0xd4cdda3de786cdfa!8m2!3d15.1460667!4d76.9289051!16s%2Fg%2F11gbzc5_fy!19sChIJC3hDCGYRtzsR-s2G5z3azdQ?authuser=0&hl=en&rclk=1"
@@ -2707,10 +2729,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 12,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Basava+Cancer+Clinic/data=!4m7!3m6!1s0x3bb711660843780b:0xd4cdda3de786cdfa!8m2!3d15.1460667!4d76.9289051!16s%2Fg%2F11gbzc5_fy!19sChIJC3hDCGYRtzsR-s2G5z3azdQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bellary-fetal-medicine-centre-ballari",
@@ -2761,7 +2784,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BELLARY+FETAL+MEDICINE+CENTRE/data=!4m7!3m6!1s0x3bb711174cbcea05:0x9a5732acec8f2843!8m2!3d15.153849!4d76.9358094!16s%2Fg%2F11ptthgymy!19sChIJBeq8TBcRtzsRQyiP7KwyV5o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BELLARY+FETAL+MEDICINE+CENTRE/data=!4m7!3m6!1s0x3bb711174cbcea05:0x9a5732acec8f2843!8m2!3d15.153849!4d76.9358094!16s%2Fg%2F11ptthgymy!19sChIJBeq8TBcRtzsRQyiP7KwyV5o?authuser=0&hl=en&rclk=1"
@@ -2830,7 +2853,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BELLARY+FETAL+MEDICINE+CENTRE/data=!4m7!3m6!1s0x3bb711174cbcea05:0x9a5732acec8f2843!8m2!3d15.153849!4d76.9358094!16s%2Fg%2F11ptthgymy!19sChIJBeq8TBcRtzsRQyiP7KwyV5o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bhagya-hospital-ballari",
@@ -2880,7 +2904,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhagya+Hospital/data=!4m7!3m6!1s0x3bb713d6e9b43c87:0xc2229e90bb17c0d8!8m2!3d15.1548754!4d76.914088!16s%2Fg%2F11sbq_97f8!19sChIJhzy06dYTtzsR2MAXu5CeIsI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagya+Hospital/data=!4m7!3m6!1s0x3bb713d6e9b43c87:0xc2229e90bb17c0d8!8m2!3d15.1548754!4d76.914088!16s%2Fg%2F11sbq_97f8!19sChIJhzy06dYTtzsR2MAXu5CeIsI?authuser=0&hl=en&rclk=1"
@@ -2949,7 +2973,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhagya+Hospital/data=!4m7!3m6!1s0x3bb713d6e9b43c87:0xc2229e90bb17c0d8!8m2!3d15.1548754!4d76.914088!16s%2Fg%2F11sbq_97f8!19sChIJhzy06dYTtzsR2MAXu5CeIsI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bharath-health-centre-ballari",
@@ -2998,7 +3023,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bharath+Health+Centre/data=!4m7!3m6!1s0x3bb7117121263ca5:0x7e2a5c8b5604c994!8m2!3d15.156779!4d76.9327744!16s%2Fg%2F11gcqwnsnr!19sChIJpTwmIXERtzsRlMkEVotcKn4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharath+Health+Centre/data=!4m7!3m6!1s0x3bb7117121263ca5:0x7e2a5c8b5604c994!8m2!3d15.156779!4d76.9327744!16s%2Fg%2F11gcqwnsnr!19sChIJpTwmIXERtzsRlMkEVotcKn4?authuser=0&hl=en&rclk=1"
@@ -3067,7 +3092,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bharath+Health+Centre/data=!4m7!3m6!1s0x3bb7117121263ca5:0x7e2a5c8b5604c994!8m2!3d15.156779!4d76.9327744!16s%2Fg%2F11gcqwnsnr!19sChIJpTwmIXERtzsRlMkEVotcKn4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bilwa-ayurveda-ballari",
@@ -3115,7 +3141,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Bilwa+Ayurveda/data=!4m7!3m6!1s0x3bb711acc3b387ff:0x11f49bff1845e031!8m2!3d15.1562493!4d76.9438067!16s%2Fg%2F11ny9nj6fk!19sChIJ_4ezw6wRtzsRMeBFGP-b9BE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bilwa+Ayurveda/data=!4m7!3m6!1s0x3bb711acc3b387ff:0x11f49bff1845e031!8m2!3d15.1562493!4d76.9438067!16s%2Fg%2F11ny9nj6fk!19sChIJ_4ezw6wRtzsRMeBFGP-b9BE?authuser=0&hl=en&rclk=1"
@@ -3184,7 +3210,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bilwa+Ayurveda/data=!4m7!3m6!1s0x3bb711acc3b387ff:0x11f49bff1845e031!8m2!3d15.1562493!4d76.9438067!16s%2Fg%2F11ny9nj6fk!19sChIJ_4ezw6wRtzsRMeBFGP-b9BE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bmc-hospital-basaveshwara-medical-center-ballari",
@@ -3232,7 +3259,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/BMC+Hospital-+Basaveshwara+Medical+Center/data=!4m7!3m6!1s0x3bb713cf66a3c635:0xa1d8879af47d2657!8m2!3d15.1513062!4d76.9024364!16s%2Fg%2F1v3klh_h!19sChIJNcajZs8TtzsRVyZ99JqH2KE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BMC+Hospital-+Basaveshwara+Medical+Center/data=!4m7!3m6!1s0x3bb713cf66a3c635:0xa1d8879af47d2657!8m2!3d15.1513062!4d76.9024364!16s%2Fg%2F1v3klh_h!19sChIJNcajZs8TtzsRVyZ99JqH2KE?authuser=0&hl=en&rclk=1"
@@ -3301,7 +3328,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BMC+Hospital-+Basaveshwara+Medical+Center/data=!4m7!3m6!1s0x3bb713cf66a3c635:0xa1d8879af47d2657!8m2!3d15.1513062!4d76.9024364!16s%2Fg%2F1v3klh_h!19sChIJNcajZs8TtzsRVyZ99JqH2KE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dani-skin-cosmetic-and-laser-clinic-ballari",
@@ -3350,7 +3378,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DANI+SKIN+COSMETIC+AND+LASER+CLINIC/data=!4m7!3m6!1s0x3bb713ea87b51d77:0xa5ac564bf9d48871!8m2!3d15.1380247!4d76.8978648!16s%2Fg%2F11vzzvs9qr!19sChIJdx21h-oTtzsRcYjU-UtWrKU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DANI+SKIN+COSMETIC+AND+LASER+CLINIC/data=!4m7!3m6!1s0x3bb713ea87b51d77:0xa5ac564bf9d48871!8m2!3d15.1380247!4d76.8978648!16s%2Fg%2F11vzzvs9qr!19sChIJdx21h-oTtzsRcYjU-UtWrKU?authuser=0&hl=en&rclk=1"
@@ -3416,10 +3444,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DANI+SKIN+COSMETIC+AND+LASER+CLINIC/data=!4m7!3m6!1s0x3bb713ea87b51d77:0xa5ac564bf9d48871!8m2!3d15.1380247!4d76.8978648!16s%2Fg%2F11vzzvs9qr!19sChIJdx21h-oTtzsRcYjU-UtWrKU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dental-clinic-in-bellary-ballari",
@@ -3467,7 +3496,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Clinic+in+Bellary/data=!4m7!3m6!1s0x3bb7113381e6a685:0x129d1600bbd7b3b0!8m2!3d15.143529!4d76.9275525!16s%2Fg%2F11plsckpym!19sChIJhabmgTMRtzsRsLPXuwAWnRI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Clinic+in+Bellary/data=!4m7!3m6!1s0x3bb7113381e6a685:0x129d1600bbd7b3b0!8m2!3d15.143529!4d76.9275525!16s%2Fg%2F11plsckpym!19sChIJhabmgTMRtzsRsLPXuwAWnRI?authuser=0&hl=en&rclk=1"
@@ -3533,10 +3562,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Clinic+in+Bellary/data=!4m7!3m6!1s0x3bb7113381e6a685:0x129d1600bbd7b3b0!8m2!3d15.143529!4d76.9275525!16s%2Fg%2F11plsckpym!19sChIJhabmgTMRtzsRsLPXuwAWnRI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dental-speciality-hospitals-ballari",
@@ -3585,7 +3615,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+speciality+hospitals/data=!4m7!3m6!1s0x3bb71342c9d4c15d:0xddde8a95ba3a24c0!8m2!3d15.1558506!4d76.8993942!16s%2Fg%2F11sqchqzvt!19sChIJXcHUyUITtzsRwCQ6upWK3t0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+speciality+hospitals/data=!4m7!3m6!1s0x3bb71342c9d4c15d:0xddde8a95ba3a24c0!8m2!3d15.1558506!4d76.8993942!16s%2Fg%2F11sqchqzvt!19sChIJXcHUyUITtzsRwCQ6upWK3t0?authuser=0&hl=en&rclk=1"
@@ -3651,10 +3681,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+speciality+hospitals/data=!4m7!3m6!1s0x3bb71342c9d4c15d:0xddde8a95ba3a24c0!8m2!3d15.1558506!4d76.8993942!16s%2Fg%2F11sqchqzvt!19sChIJXcHUyUITtzsRwCQ6upWK3t0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "devi-dental-clinic-ballari",
@@ -3702,7 +3733,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Devi+Dental+Clinic/data=!4m7!3m6!1s0x3bb711c793fb6509:0x8a40ccd74d48b074!8m2!3d15.1402335!4d76.9312266!16s%2Fg%2F11fmlggq0t!19sChIJCWX7k8cRtzsRdLBITdfMQIo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devi+Dental+Clinic/data=!4m7!3m6!1s0x3bb711c793fb6509:0x8a40ccd74d48b074!8m2!3d15.1402335!4d76.9312266!16s%2Fg%2F11fmlggq0t!19sChIJCWX7k8cRtzsRdLBITdfMQIo?authuser=0&hl=en&rclk=1"
@@ -3771,7 +3802,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Devi+Dental+Clinic/data=!4m7!3m6!1s0x3bb711c793fb6509:0x8a40ccd74d48b074!8m2!3d15.1402335!4d76.9312266!16s%2Fg%2F11fmlggq0t!19sChIJCWX7k8cRtzsRdLBITdfMQIo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "district-hospital-ballari-ballari",
@@ -3821,7 +3853,7 @@
       "3+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/District+Hospital,+Ballari/data=!4m7!3m6!1s0x3bb711696f2ac2d1:0xc533fe540a8186b5!8m2!3d15.1443869!4d76.934778!16s%2Fg%2F119tlzl93!19sChIJ0cIqb2kRtzsRtYaBClT-M8U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital,+Ballari/data=!4m7!3m6!1s0x3bb711696f2ac2d1:0xc533fe540a8186b5!8m2!3d15.1443869!4d76.934778!16s%2Fg%2F119tlzl93!19sChIJ0cIqb2kRtzsRtYaBClT-M8U?authuser=0&hl=en&rclk=1"
@@ -3890,7 +3922,8 @@
     "rating": 3.9,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+Hospital,+Ballari/data=!4m7!3m6!1s0x3bb711696f2ac2d1:0xc533fe540a8186b5!8m2!3d15.1443869!4d76.934778!16s%2Fg%2F119tlzl93!19sChIJ0cIqb2kRtzsRtYaBClT-M8U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dwaraka-hospital-ballari",
@@ -3938,7 +3971,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Dwaraka+Hospital/data=!4m7!3m6!1s0x3bb71172cb628dd1:0x9c9c0aa358d6e4c7!8m2!3d15.1544262!4d76.9411182!16s%2Fg%2F11b6s7lxvs!19sChIJ0Y1iy3IRtzsRx-TWWKMKnJw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dwaraka+Hospital/data=!4m7!3m6!1s0x3bb71172cb628dd1:0x9c9c0aa358d6e4c7!8m2!3d15.1544262!4d76.9411182!16s%2Fg%2F11b6s7lxvs!19sChIJ0Y1iy3IRtzsRx-TWWKMKnJw?authuser=0&hl=en&rclk=1"
@@ -4007,7 +4040,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dwaraka+Hospital/data=!4m7!3m6!1s0x3bb71172cb628dd1:0x9c9c0aa358d6e4c7!8m2!3d15.1544262!4d76.9411182!16s%2Fg%2F11b6s7lxvs!19sChIJ0Y1iy3IRtzsRx-TWWKMKnJw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ekadanta-dental-and-oral-care-ballari",
@@ -4055,7 +4089,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Ekadanta+Dental+And+Oral+Care/data=!4m7!3m6!1s0x3bb71133fffffff5:0xec670e1670a97189!8m2!3d15.1462635!4d76.9284301!16s%2Fg%2F11dylv80tq!19sChIJ9f___zMRtzsRiXGpcBYOZ-w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ekadanta+Dental+And+Oral+Care/data=!4m7!3m6!1s0x3bb71133fffffff5:0xec670e1670a97189!8m2!3d15.1462635!4d76.9284301!16s%2Fg%2F11dylv80tq!19sChIJ9f___zMRtzsRiXGpcBYOZ-w?authuser=0&hl=en&rclk=1"
@@ -4121,10 +4155,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ekadanta+Dental+And+Oral+Care/data=!4m7!3m6!1s0x3bb71133fffffff5:0xec670e1670a97189!8m2!3d15.1462635!4d76.9284301!16s%2Fg%2F11dylv80tq!19sChIJ9f___zMRtzsRiXGpcBYOZ-w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "empire-dental-hospital-ballari",
@@ -4172,7 +4207,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Empire+Dental+Hospital/data=!4m7!3m6!1s0x3bb711ea9ca9273d:0x8007e34b37327514!8m2!3d15.1413086!4d76.9207624!16s%2Fg%2F11h51jsgr2!19sChIJPSepnOoRtzsRFHUyN0vjB4A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Empire+Dental+Hospital/data=!4m7!3m6!1s0x3bb711ea9ca9273d:0x8007e34b37327514!8m2!3d15.1413086!4d76.9207624!16s%2Fg%2F11h51jsgr2!19sChIJPSepnOoRtzsRFHUyN0vjB4A?authuser=0&hl=en&rclk=1"
@@ -4241,7 +4276,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Empire+Dental+Hospital/data=!4m7!3m6!1s0x3bb711ea9ca9273d:0x8007e34b37327514!8m2!3d15.1413086!4d76.9207624!16s%2Fg%2F11h51jsgr2!19sChIJPSepnOoRtzsRFHUyN0vjB4A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "family-dental-care-and-implant-center-ballari",
@@ -4289,7 +4325,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Family+Dental+Care+And+Implant+Center/data=!4m7!3m6!1s0x3bb713003f7e36fb:0xcb88ad210978899b!8m2!3d15.1639135!4d76.9138603!16s%2Fg%2F11vsyqjt9y!19sChIJ-zZ-PwATtzsRm4l4CSGtiMs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Family+Dental+Care+And+Implant+Center/data=!4m7!3m6!1s0x3bb713003f7e36fb:0xcb88ad210978899b!8m2!3d15.1639135!4d76.9138603!16s%2Fg%2F11vsyqjt9y!19sChIJ-zZ-PwATtzsRm4l4CSGtiMs?authuser=0&hl=en&rclk=1"
@@ -4355,10 +4391,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Family+Dental+Care+And+Implant+Center/data=!4m7!3m6!1s0x3bb713003f7e36fb:0xcb88ad210978899b!8m2!3d15.1639135!4d76.9138603!16s%2Fg%2F11vsyqjt9y!19sChIJ-zZ-PwATtzsRm4l4CSGtiMs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gajendra-chest-and-maternity-centre-best-asthma-copd-pulmonology-fertility-and-women-s-health-clinic-in-ballari-ballari",
@@ -4410,7 +4447,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gajendra+Chest+and+Maternity+Centre+%E2%80%93+Best+Asthma,+COPD,+Pulmonology,+Fertility+%26+Women%E2%80%99s+Health+Clinic+in+Ballari/data=!4m7!3m6!1s0x3bb7111117c81095:0xba78e7e9044e65e2!8m2!3d15.1567979!4d76.9320643!16s%2Fg%2F11x886lc8r!19sChIJlRDIFxERtzsR4mVOBOnneLo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gajendra+Chest+and+Maternity+Centre+%E2%80%93+Best+Asthma,+COPD,+Pulmonology,+Fertility+%26+Women%E2%80%99s+Health+Clinic+in+Ballari/data=!4m7!3m6!1s0x3bb7111117c81095:0xba78e7e9044e65e2!8m2!3d15.1567979!4d76.9320643!16s%2Fg%2F11x886lc8r!19sChIJlRDIFxERtzsR4mVOBOnneLo?authuser=0&hl=en&rclk=1"
@@ -4476,10 +4513,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gajendra+Chest+and+Maternity+Centre+%E2%80%93+Best+Asthma,+COPD,+Pulmonology,+Fertility+%26+Women%E2%80%99s+Health+Clinic+in+Ballari/data=!4m7!3m6!1s0x3bb7111117c81095:0xba78e7e9044e65e2!8m2!3d15.1567979!4d76.9320643!16s%2Fg%2F11x886lc8r!19sChIJlRDIFxERtzsR4mVOBOnneLo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "galaxy-dental-clinic-ballari",
@@ -4528,7 +4566,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/GALAXY+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb7130dc5c4cf35:0x288c8dbbc430a6f9!8m2!3d15.1409445!4d76.8945033!16s%2Fg%2F11rk577t55!19sChIJNc_ExQ0TtzsR-aYwxLuNjCg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GALAXY+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb7130dc5c4cf35:0x288c8dbbc430a6f9!8m2!3d15.1409445!4d76.8945033!16s%2Fg%2F11rk577t55!19sChIJNc_ExQ0TtzsR-aYwxLuNjCg?authuser=0&hl=en&rclk=1"
@@ -4594,10 +4632,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GALAXY+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb7130dc5c4cf35:0x288c8dbbc430a6f9!8m2!3d15.1409445!4d76.8945033!16s%2Fg%2F11rk577t55!19sChIJNc_ExQ0TtzsR-aYwxLuNjCg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gayathri-surgical-house-ballari",
@@ -4647,7 +4686,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gayathri+Surgical+house/data=!4m7!3m6!1s0x3bb71166273515eb:0x1563f314cd332c88!8m2!3d15.1443578!4d76.9294293!16s%2Fg%2F11fzffhr8s!19sChIJ6xU1J2YRtzsRiCwzzRTzYxU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayathri+Surgical+house/data=!4m7!3m6!1s0x3bb71166273515eb:0x1563f314cd332c88!8m2!3d15.1443578!4d76.9294293!16s%2Fg%2F11fzffhr8s!19sChIJ6xU1J2YRtzsRiCwzzRTzYxU?authuser=0&hl=en&rclk=1"
@@ -4716,7 +4755,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gayathri+Surgical+house/data=!4m7!3m6!1s0x3bb71166273515eb:0x1563f314cd332c88!8m2!3d15.1443578!4d76.9294293!16s%2Fg%2F11fzffhr8s!19sChIJ6xU1J2YRtzsRiCwzzRTzYxU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "government-dental-college-and-research-institute-gdcri-ballari",
@@ -4765,7 +4805,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Government+Dental+College+and+Research+Institute+%28GDCRI%29/data=!4m7!3m6!1s0x3bb713db00000001:0xcc2787cb08a83b19!8m2!3d15.1581051!4d76.8933401!16s%2Fg%2F11b8083d5t!19sChIJAQAAANsTtzsRGTuoCMuHJ8w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Dental+College+and+Research+Institute+%28GDCRI%29/data=!4m7!3m6!1s0x3bb713db00000001:0xcc2787cb08a83b19!8m2!3d15.1581051!4d76.8933401!16s%2Fg%2F11b8083d5t!19sChIJAQAAANsTtzsRGTuoCMuHJ8w?authuser=0&hl=en&rclk=1"
@@ -4834,7 +4874,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Dental+College+and+Research+Institute+%28GDCRI%29/data=!4m7!3m6!1s0x3bb713db00000001:0xcc2787cb08a83b19!8m2!3d15.1581051!4d76.8933401!16s%2Fg%2F11b8083d5t!19sChIJAQAAANsTtzsRGTuoCMuHJ8w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gudi-skin-care-clinic-ballari",
@@ -4882,7 +4923,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/Gudi+Skin+Care+Clinic/data=!4m7!3m6!1s0x3bb7117018eef473:0x8635389d860edd27!8m2!3d15.1525265!4d76.9310569!16s%2Fg%2F11f1xy9v74!19sChIJc_TuGHARtzsRJ90Ohp04NYY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gudi+Skin+Care+Clinic/data=!4m7!3m6!1s0x3bb7117018eef473:0x8635389d860edd27!8m2!3d15.1525265!4d76.9310569!16s%2Fg%2F11f1xy9v74!19sChIJc_TuGHARtzsRJ90Ohp04NYY?authuser=0&hl=en&rclk=1"
@@ -4951,7 +4992,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gudi+Skin+Care+Clinic/data=!4m7!3m6!1s0x3bb7117018eef473:0x8635389d860edd27!8m2!3d15.1525265!4d76.9310569!16s%2Fg%2F11f1xy9v74!19sChIJc_TuGHARtzsRJ90Ohp04NYY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gunasheela-fertility-centre-ballari-best-ivf-centre-ballari",
@@ -5001,7 +5043,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gunasheela+Fertility+Centre+-+Ballari+%7C+Best+IVF+Centre/data=!4m7!3m6!1s0x3bb711fd0dc3c187:0xfc69e33c1ca8f102!8m2!3d15.151391!4d76.9231199!16s%2Fg%2F11vqh43417!19sChIJh8HDDf0RtzsRAvGoHDzjafw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gunasheela+Fertility+Centre+-+Ballari+%7C+Best+IVF+Centre/data=!4m7!3m6!1s0x3bb711fd0dc3c187:0xfc69e33c1ca8f102!8m2!3d15.151391!4d76.9231199!16s%2Fg%2F11vqh43417!19sChIJh8HDDf0RtzsRAvGoHDzjafw?authuser=0&hl=en&rclk=1"
@@ -5070,7 +5112,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gunasheela+Fertility+Centre+-+Ballari+%7C+Best+IVF+Centre/data=!4m7!3m6!1s0x3bb711fd0dc3c187:0xfc69e33c1ca8f102!8m2!3d15.151391!4d76.9231199!16s%2Fg%2F11vqh43417!19sChIJh8HDDf0RtzsRAvGoHDzjafw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "healthy-smiles-dental-home-ballari",
@@ -5119,7 +5162,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/HEALTHY+SMILES+DENTAL+HOME/data=!4m7!3m6!1s0x3bb7114cc63ef9fd:0xe9906f65c9c8936!8m2!3d15.1555486!4d76.9286007!16s%2Fg%2F11h447h8xn!19sChIJ_fk-xkwRtzsRNomcXPYGmQ4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HEALTHY+SMILES+DENTAL+HOME/data=!4m7!3m6!1s0x3bb7114cc63ef9fd:0xe9906f65c9c8936!8m2!3d15.1555486!4d76.9286007!16s%2Fg%2F11h447h8xn!19sChIJ_fk-xkwRtzsRNomcXPYGmQ4?authuser=0&hl=en&rclk=1"
@@ -5188,7 +5231,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HEALTHY+SMILES+DENTAL+HOME/data=!4m7!3m6!1s0x3bb7114cc63ef9fd:0xe9906f65c9c8936!8m2!3d15.1555486!4d76.9286007!16s%2Fg%2F11h447h8xn!19sChIJ_fk-xkwRtzsRNomcXPYGmQ4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "homeocare-international-bellary-best-homeopathic-clinic-in-bellary-ballari",
@@ -5238,7 +5282,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Homeocare+International+Bellary+%7C+Best+Homeopathic+Clinic+In+Bellary/data=!4m7!3m6!1s0x3bb7117aa4fbf1b1:0xe0899604fc02c9cd!8m2!3d15.1515272!4d76.9226566!16s%2Fg%2F1q6kk3h75!19sChIJsfH7pHoRtzsRzckC_ASWieA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Homeocare+International+Bellary+%7C+Best+Homeopathic+Clinic+In+Bellary/data=!4m7!3m6!1s0x3bb7117aa4fbf1b1:0xe0899604fc02c9cd!8m2!3d15.1515272!4d76.9226566!16s%2Fg%2F1q6kk3h75!19sChIJsfH7pHoRtzsRzckC_ASWieA?authuser=0&hl=en&rclk=1"
@@ -5307,7 +5351,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Homeocare+International+Bellary+%7C+Best+Homeopathic+Clinic+In+Bellary/data=!4m7!3m6!1s0x3bb7117aa4fbf1b1:0xe0899604fc02c9cd!8m2!3d15.1515272!4d76.9226566!16s%2Fg%2F1q6kk3h75!19sChIJsfH7pHoRtzsRzckC_ASWieA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "implant-center-ballari",
@@ -5355,7 +5400,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Implant+Center/data=!4m7!3m6!1s0x3bb7119779ff6a15:0xbf38cd85a66536ea!8m2!3d15.1524612!4d76.9210558!16s%2Fg%2F11rw7b1812!19sChIJFWr_eZcRtzsR6jZlpoXNOL8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Implant+Center/data=!4m7!3m6!1s0x3bb7119779ff6a15:0xbf38cd85a66536ea!8m2!3d15.1524612!4d76.9210558!16s%2Fg%2F11rw7b1812!19sChIJFWr_eZcRtzsR6jZlpoXNOL8?authuser=0&hl=en&rclk=1"
@@ -5421,10 +5466,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Implant+Center/data=!4m7!3m6!1s0x3bb7119779ff6a15:0xbf38cd85a66536ea!8m2!3d15.1524612!4d76.9210558!16s%2Fg%2F11rw7b1812!19sChIJFWr_eZcRtzsR6jZlpoXNOL8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "indira-hospital-ballari",
@@ -5473,7 +5519,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+Hospital/data=!4m7!3m6!1s0x3bb71165879f0c39:0x30fd5a8422dbaefe!8m2!3d15.1484864!4d76.9296802!16s%2Fg%2F11bzv5x5p7!19sChIJOQyfh2URtzsR_q7bIoRa_TA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+Hospital/data=!4m7!3m6!1s0x3bb71165879f0c39:0x30fd5a8422dbaefe!8m2!3d15.1484864!4d76.9296802!16s%2Fg%2F11bzv5x5p7!19sChIJOQyfh2URtzsR_q7bIoRa_TA?authuser=0&hl=en&rclk=1"
@@ -5539,10 +5585,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+Hospital/data=!4m7!3m6!1s0x3bb71165879f0c39:0x30fd5a8422dbaefe!8m2!3d15.1484864!4d76.9296802!16s%2Fg%2F11bzv5x5p7!19sChIJOQyfh2URtzsR_q7bIoRa_TA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-ballari-best-ivf-centre-ballari",
@@ -5592,7 +5639,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Ballari+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3bb7135930d4c88b:0xa5f834a00b9aaa73!8m2!3d15.1463571!4d76.8953302!16s%2Fg%2F11sc9c1c7m!19sChIJi8jUMFkTtzsRc6qaC6A0-KU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Ballari+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3bb7135930d4c88b:0xa5f834a00b9aaa73!8m2!3d15.1463571!4d76.8953302!16s%2Fg%2F11sc9c1c7m!19sChIJi8jUMFkTtzsRc6qaC6A0-KU?authuser=0&hl=en&rclk=1"
@@ -5661,7 +5708,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Ballari+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3bb7135930d4c88b:0xa5f834a00b9aaa73!8m2!3d15.1463571!4d76.8953302!16s%2Fg%2F11sc9c1c7m!19sChIJi8jUMFkTtzsRc6qaC6A0-KU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ismile-dental-clinic-ballari",
@@ -5709,7 +5757,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ismile+dental+clinic/data=!4m7!3m6!1s0x3bb713caf3e83469:0x365f229d2b251d63!8m2!3d15.159082!4d76.896901!16s%2Fg%2F11k3hm2327!19sChIJaTTo88oTtzsRYx0lK50iXzY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ismile+dental+clinic/data=!4m7!3m6!1s0x3bb713caf3e83469:0x365f229d2b251d63!8m2!3d15.159082!4d76.896901!16s%2Fg%2F11k3hm2327!19sChIJaTTo88oTtzsRYx0lK50iXzY?authuser=0&hl=en&rclk=1"
@@ -5775,10 +5823,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ismile+dental+clinic/data=!4m7!3m6!1s0x3bb713caf3e83469:0x365f229d2b251d63!8m2!3d15.159082!4d76.896901!16s%2Fg%2F11k3hm2327!19sChIJaTTo88oTtzsRYx0lK50iXzY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "iswarya-ivf-and-fertility-centre-bellari-ballari",
@@ -5828,7 +5877,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Bellari/data=!4m7!3m6!1s0x3bb713005842d3a5:0x58b74e3f7f92bc25!8m2!3d15.1534529!4d76.9063954!16s%2Fg%2F11mz08f_l5!19sChIJpdNCWAATtzsRJbySfz9Ot1g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Bellari/data=!4m7!3m6!1s0x3bb713005842d3a5:0x58b74e3f7f92bc25!8m2!3d15.1534529!4d76.9063954!16s%2Fg%2F11mz08f_l5!19sChIJpdNCWAATtzsRJbySfz9Ot1g?authuser=0&hl=en&rclk=1"
@@ -5894,10 +5943,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Bellari/data=!4m7!3m6!1s0x3bb713005842d3a5:0x58b74e3f7f92bc25!8m2!3d15.1534529!4d76.9063954!16s%2Fg%2F11mz08f_l5!19sChIJpdNCWAATtzsRJbySfz9Ot1g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ivy-dental-centre-ballari",
@@ -5945,7 +5995,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/IVY+DENTAL+CENTRE/data=!4m7!3m6!1s0x3bb7136bf301858d:0x2e98115736c6819a!8m2!3d15.1542146!4d76.9139709!16s%2Fg%2F11w1j2pkfq!19sChIJjYUB82sTtzsRmoHGNlcRmC4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IVY+DENTAL+CENTRE/data=!4m7!3m6!1s0x3bb7136bf301858d:0x2e98115736c6819a!8m2!3d15.1542146!4d76.9139709!16s%2Fg%2F11w1j2pkfq!19sChIJjYUB82sTtzsRmoHGNlcRmC4?authuser=0&hl=en&rclk=1"
@@ -6014,7 +6064,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/IVY+DENTAL+CENTRE/data=!4m7!3m6!1s0x3bb7136bf301858d:0x2e98115736c6819a!8m2!3d15.1542146!4d76.9139709!16s%2Fg%2F11w1j2pkfq!19sChIJjYUB82sTtzsRmoHGNlcRmC4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jayashree-dental-clinic-ballari",
@@ -6062,7 +6113,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Jayashree+Dental+Clinic/data=!4m7!3m6!1s0x3bb713b7622f93f5:0x7fccf01ad6c4a668!8m2!3d15.1378383!4d76.9039822!16s%2Fg%2F11sc26_bm0!19sChIJ9ZMvYrcTtzsRaKbE1hrwzH8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jayashree+Dental+Clinic/data=!4m7!3m6!1s0x3bb713b7622f93f5:0x7fccf01ad6c4a668!8m2!3d15.1378383!4d76.9039822!16s%2Fg%2F11sc26_bm0!19sChIJ9ZMvYrcTtzsRaKbE1hrwzH8?authuser=0&hl=en&rclk=1"
@@ -6128,10 +6179,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jayashree+Dental+Clinic/data=!4m7!3m6!1s0x3bb713b7622f93f5:0x7fccf01ad6c4a668!8m2!3d15.1378383!4d76.9039822!16s%2Fg%2F11sc26_bm0!19sChIJ9ZMvYrcTtzsRaKbE1hrwzH8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "k-s-m-hospital-ballari",
@@ -6179,7 +6231,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/K+S+M+Hospital/data=!4m7!3m6!1s0x3bb7117ae40f8fe7:0x7d19ec5c19af47c9!8m2!3d15.1536618!4d76.9272512!16s%2Fg%2F11fzff7g3f!19sChIJ548P5HoRtzsRyUevGVzsGX0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K+S+M+Hospital/data=!4m7!3m6!1s0x3bb7117ae40f8fe7:0x7d19ec5c19af47c9!8m2!3d15.1536618!4d76.9272512!16s%2Fg%2F11fzff7g3f!19sChIJ548P5HoRtzsRyUevGVzsGX0?authuser=0&hl=en&rclk=1"
@@ -6248,7 +6300,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/K+S+M+Hospital/data=!4m7!3m6!1s0x3bb7117ae40f8fe7:0x7d19ec5c19af47c9!8m2!3d15.1536618!4d76.9272512!16s%2Fg%2F11fzff7g3f!19sChIJ548P5HoRtzsRyUevGVzsGX0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "k-s-h-dental-clinic-ballari",
@@ -6296,7 +6349,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/K.S.H+Dental+Clinic/data=!4m7!3m6!1s0x3bb713e9c168468f:0xcf97fbffb908d607!8m2!3d15.1377929!4d76.9026235!16s%2Fg%2F11f__2fm59!19sChIJj0ZowekTtzsRB9YIuf_7l88?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K.S.H+Dental+Clinic/data=!4m7!3m6!1s0x3bb713e9c168468f:0xcf97fbffb908d607!8m2!3d15.1377929!4d76.9026235!16s%2Fg%2F11f__2fm59!19sChIJj0ZowekTtzsRB9YIuf_7l88?authuser=0&hl=en&rclk=1"
@@ -6365,7 +6418,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/K.S.H+Dental+Clinic/data=!4m7!3m6!1s0x3bb713e9c168468f:0xcf97fbffb908d607!8m2!3d15.1377929!4d76.9026235!16s%2Fg%2F11f__2fm59!19sChIJj0ZowekTtzsRB9YIuf_7l88?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kkn-physiotherapy-clinic-ballari",
@@ -6414,7 +6468,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/KKN+physiotherapy+clinic/data=!4m7!3m6!1s0x3bb713b6c521e9f3:0xd25a1ad9c864ba!8m2!3d15.1423731!4d76.945706!16s%2Fg%2F11k6dp4y49!19sChIJ8-khxbYTtzsRumTI2Rpa0gA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KKN+physiotherapy+clinic/data=!4m7!3m6!1s0x3bb713b6c521e9f3:0xd25a1ad9c864ba!8m2!3d15.1423731!4d76.945706!16s%2Fg%2F11k6dp4y49!19sChIJ8-khxbYTtzsRumTI2Rpa0gA?authuser=0&hl=en&rclk=1"
@@ -6483,7 +6537,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KKN+physiotherapy+clinic/data=!4m7!3m6!1s0x3bb713b6c521e9f3:0xd25a1ad9c864ba!8m2!3d15.1423731!4d76.945706!16s%2Fg%2F11k6dp4y49!19sChIJ8-khxbYTtzsRumTI2Rpa0gA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kunjeti-dental-facial-and-implant-clinic-ballari",
@@ -6533,7 +6588,7 @@
       "8+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kunjeti+Dental+Facial+%26+Implant+Clinic/data=!4m7!3m6!1s0x3bb711fc1018cb5b:0xf7f1f4202358952f!8m2!3d15.1461825!4d76.9284252!16s%2Fg%2F11wq_yj2dt!19sChIJW8sYEPwRtzsRL5VYIyD08fc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kunjeti+Dental+Facial+%26+Implant+Clinic/data=!4m7!3m6!1s0x3bb711fc1018cb5b:0xf7f1f4202358952f!8m2!3d15.1461825!4d76.9284252!16s%2Fg%2F11wq_yj2dt!19sChIJW8sYEPwRtzsRL5VYIyD08fc?authuser=0&hl=en&rclk=1"
@@ -6599,10 +6654,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 8,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kunjeti+Dental+Facial+%26+Implant+Clinic/data=!4m7!3m6!1s0x3bb711fc1018cb5b:0xf7f1f4202358952f!8m2!3d15.1461825!4d76.9284252!16s%2Fg%2F11wq_yj2dt!19sChIJW8sYEPwRtzsRL5VYIyD08fc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lakshya-dental-and-bonne-body-hair-clinic-ballari",
@@ -6651,7 +6707,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/LAKSHYA+DENTAL+%26+BONNE+BODY+HAIR+CLINIC/data=!4m7!3m6!1s0x3bb711d9a80e5961:0x803e5403f028b207!8m2!3d15.1568241!4d76.9152453!16s%2Fg%2F11mvz8wvmb!19sChIJYVkOqNkRtzsRB7Io8ANUPoA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LAKSHYA+DENTAL+%26+BONNE+BODY+HAIR+CLINIC/data=!4m7!3m6!1s0x3bb711d9a80e5961:0x803e5403f028b207!8m2!3d15.1568241!4d76.9152453!16s%2Fg%2F11mvz8wvmb!19sChIJYVkOqNkRtzsRB7Io8ANUPoA?authuser=0&hl=en&rclk=1"
@@ -6720,7 +6776,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LAKSHYA+DENTAL+%26+BONNE+BODY+HAIR+CLINIC/data=!4m7!3m6!1s0x3bb711d9a80e5961:0x803e5403f028b207!8m2!3d15.1568241!4d76.9152453!16s%2Fg%2F11mvz8wvmb!19sChIJYVkOqNkRtzsRB7Io8ANUPoA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "leela-ent-care-ballari-ballari",
@@ -6768,7 +6825,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Leela+Ent+Care+Ballari/data=!4m7!3m6!1s0x3bb7116c2fb1c94b:0x1612f690054456e5!8m2!3d15.1488959!4d76.9361699!16s%2Fg%2F11dz56p7wc!19sChIJS8mxL2wRtzsR5VZEBZD2EhY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Leela+Ent+Care+Ballari/data=!4m7!3m6!1s0x3bb7116c2fb1c94b:0x1612f690054456e5!8m2!3d15.1488959!4d76.9361699!16s%2Fg%2F11dz56p7wc!19sChIJS8mxL2wRtzsR5VZEBZD2EhY?authuser=0&hl=en&rclk=1"
@@ -6837,7 +6894,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Leela+Ent+Care+Ballari/data=!4m7!3m6!1s0x3bb7116c2fb1c94b:0x1612f690054456e5!8m2!3d15.1488959!4d76.9361699!16s%2Fg%2F11dz56p7wc!19sChIJS8mxL2wRtzsR5VZEBZD2EhY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "m-s-kidney-hospital-ballari",
@@ -6886,7 +6944,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/M.S.Kidney+Hospital/data=!4m7!3m6!1s0x3bb711ce154ef7d3:0xfabf4b87faba5ce1!8m2!3d15.1457743!4d76.9295662!16s%2Fg%2F11h_6hyw0h!19sChIJ0_dOFc4RtzsR4Vy6-odLv_o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.S.Kidney+Hospital/data=!4m7!3m6!1s0x3bb711ce154ef7d3:0xfabf4b87faba5ce1!8m2!3d15.1457743!4d76.9295662!16s%2Fg%2F11h_6hyw0h!19sChIJ0_dOFc4RtzsR4Vy6-odLv_o?authuser=0&hl=en&rclk=1"
@@ -6952,10 +7010,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M.S.Kidney+Hospital/data=!4m7!3m6!1s0x3bb711ce154ef7d3:0xfabf4b87faba5ce1!8m2!3d15.1457743!4d76.9295662!16s%2Fg%2F11h_6hyw0h!19sChIJ0_dOFc4RtzsR4Vy6-odLv_o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mahima-hospital-beside-bageecha-hotel",
@@ -7004,7 +7063,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Mahima+Hospital/data=!4m7!3m6!1s0x3bb7106b46e47829:0xe5c8ffb1d6532a0b!8m2!3d15.1555433!4d76.9363724!16s%2Fg%2F11gh35qtz0!19sChIJKXjkRmsQtzsRCypT1rH_yOU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahima+Hospital/data=!4m7!3m6!1s0x3bb7106b46e47829:0xe5c8ffb1d6532a0b!8m2!3d15.1555433!4d76.9363724!16s%2Fg%2F11gh35qtz0!19sChIJKXjkRmsQtzsRCypT1rH_yOU?authuser=0&hl=en&rclk=1"
@@ -7073,7 +7132,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahima+Hospital/data=!4m7!3m6!1s0x3bb7106b46e47829:0xe5c8ffb1d6532a0b!8m2!3d15.1555433!4d76.9363724!16s%2Fg%2F11gh35qtz0!19sChIJKXjkRmsQtzsRCypT1rH_yOU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maya-beauty-salon-and-makeup-studio-ballari",
@@ -7124,7 +7184,7 @@
       "7+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Maya+Beauty+Salon+And+Makeup+Studio/data=!4m7!3m6!1s0x3bb7130ad39cd949:0x5413c883b4cf8e6e!8m2!3d15.1538965!4d76.9115433!16s%2Fg%2F11sgh_7r9z!19sChIJSdmc0woTtzsRbo7PtIPIE1Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maya+Beauty+Salon+And+Makeup+Studio/data=!4m7!3m6!1s0x3bb7130ad39cd949:0x5413c883b4cf8e6e!8m2!3d15.1538965!4d76.9115433!16s%2Fg%2F11sgh_7r9z!19sChIJSdmc0woTtzsRbo7PtIPIE1Q?authuser=0&hl=en&rclk=1"
@@ -7193,7 +7253,8 @@
     "rating": 4.9,
     "reviews": 7,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maya+Beauty+Salon+And+Makeup+Studio/data=!4m7!3m6!1s0x3bb7130ad39cd949:0x5413c883b4cf8e6e!8m2!3d15.1538965!4d76.9115433!16s%2Fg%2F11sgh_7r9z!19sChIJSdmc0woTtzsRbo7PtIPIE1Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mayank-dental-clinic-ballari",
@@ -7241,7 +7302,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/MAYANK+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb711440f756445:0xa11121c6d64c624d!8m2!3d15.1557741!4d76.9337139!16s%2Fg%2F11qn7t5sz5!19sChIJRWR1D0QRtzsRTWJM1sYhEaE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAYANK+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb711440f756445:0xa11121c6d64c624d!8m2!3d15.1557741!4d76.9337139!16s%2Fg%2F11qn7t5sz5!19sChIJRWR1D0QRtzsRTWJM1sYhEaE?authuser=0&hl=en&rclk=1"
@@ -7310,7 +7371,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MAYANK+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb711440f756445:0xa11121c6d64c624d!8m2!3d15.1557741!4d76.9337139!16s%2Fg%2F11qn7t5sz5!19sChIJRWR1D0QRtzsRTWJM1sYhEaE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mithil-clinic-ballari",
@@ -7359,7 +7421,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MITHIL+CLINIC/data=!4m7!3m6!1s0x3bb7132843d06ab7:0x13e73038728d3f20!8m2!3d15.1590018!4d76.8973318!16s%2Fg%2F11h0v8431v!19sChIJt2rQQygTtzsRID-Ncjgw5xM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MITHIL+CLINIC/data=!4m7!3m6!1s0x3bb7132843d06ab7:0x13e73038728d3f20!8m2!3d15.1590018!4d76.8973318!16s%2Fg%2F11h0v8431v!19sChIJt2rQQygTtzsRID-Ncjgw5xM?authuser=0&hl=en&rclk=1"
@@ -7428,7 +7490,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MITHIL+CLINIC/data=!4m7!3m6!1s0x3bb7132843d06ab7:0x13e73038728d3f20!8m2!3d15.1590018!4d76.8973318!16s%2Fg%2F11h0v8431v!19sChIJt2rQQygTtzsRID-Ncjgw5xM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mother-s-hospital-ballari",
@@ -7477,7 +7540,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mother%27s+Hospital/data=!4m7!3m6!1s0x3bb7138aa86824fd:0x88c0b9fa45f4d7e!8m2!3d15.1389574!4d76.8966584!16s%2Fg%2F11fkq25zdh!19sChIJ_SRoqIoTtzsRfk1fpJ8LjAg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mother%27s+Hospital/data=!4m7!3m6!1s0x3bb7138aa86824fd:0x88c0b9fa45f4d7e!8m2!3d15.1389574!4d76.8966584!16s%2Fg%2F11fkq25zdh!19sChIJ_SRoqIoTtzsRfk1fpJ8LjAg?authuser=0&hl=en&rclk=1"
@@ -7546,7 +7609,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mother%27s+Hospital/data=!4m7!3m6!1s0x3bb7138aa86824fd:0x88c0b9fa45f4d7e!8m2!3d15.1389574!4d76.8966584!16s%2Fg%2F11fkq25zdh!19sChIJ_SRoqIoTtzsRfk1fpJ8LjAg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "msr-hospital-ballari",
@@ -7596,7 +7660,7 @@
       "3+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MSR+Hospital/data=!4m7!3m6!1s0x3bb7116dc11e07a9:0xdc72deda5004c2f2!8m2!3d15.1507007!4d76.9367562!16s%2Fg%2F11f29fp4j6!19sChIJqQcewW0RtzsR8sIEUNrectw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MSR+Hospital/data=!4m7!3m6!1s0x3bb7116dc11e07a9:0xdc72deda5004c2f2!8m2!3d15.1507007!4d76.9367562!16s%2Fg%2F11f29fp4j6!19sChIJqQcewW0RtzsR8sIEUNrectw?authuser=0&hl=en&rclk=1"
@@ -7662,10 +7726,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MSR+Hospital/data=!4m7!3m6!1s0x3bb7116dc11e07a9:0xdc72deda5004c2f2!8m2!3d15.1507007!4d76.9367562!16s%2Fg%2F11f29fp4j6!19sChIJqQcewW0RtzsR8sIEUNrectw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "murthy-nursing-home-ballari",
@@ -7713,7 +7778,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Murthy+Nursing+Home/data=!4m7!3m6!1s0x3bb7117207b1702b:0x139674bb0a81fcda!8m2!3d15.1524949!4d76.9360971!16s%2Fg%2F1tdbcw7h!19sChIJK3CxB3IRtzsR2vyBCrt0lhM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Murthy+Nursing+Home/data=!4m7!3m6!1s0x3bb7117207b1702b:0x139674bb0a81fcda!8m2!3d15.1524949!4d76.9360971!16s%2Fg%2F1tdbcw7h!19sChIJK3CxB3IRtzsR2vyBCrt0lhM?authuser=0&hl=en&rclk=1"
@@ -7779,10 +7844,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Murthy+Nursing+Home/data=!4m7!3m6!1s0x3bb7117207b1702b:0x139674bb0a81fcda!8m2!3d15.1524949!4d76.9360971!16s%2Fg%2F1tdbcw7h!19sChIJK3CxB3IRtzsR2vyBCrt0lhM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "n-b-hospital-dr-kasa-somasekhar-ballari",
@@ -7831,7 +7897,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/N+B+Hospital+Dr,+Kasa+Somasekhar/data=!4m7!3m6!1s0x3bb71159a8e3fd6d:0xcba5fb25025b3d24!8m2!3d15.1428274!4d76.9471288!16s%2Fg%2F11r9h48075!19sChIJbf3jqFkRtzsRJD1bAiX7pcs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/N+B+Hospital+Dr,+Kasa+Somasekhar/data=!4m7!3m6!1s0x3bb71159a8e3fd6d:0xcba5fb25025b3d24!8m2!3d15.1428274!4d76.9471288!16s%2Fg%2F11r9h48075!19sChIJbf3jqFkRtzsRJD1bAiX7pcs?authuser=0&hl=en&rclk=1"
@@ -7900,7 +7966,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/N+B+Hospital+Dr,+Kasa+Somasekhar/data=!4m7!3m6!1s0x3bb71159a8e3fd6d:0xcba5fb25025b3d24!8m2!3d15.1428274!4d76.9471288!16s%2Fg%2F11r9h48075!19sChIJbf3jqFkRtzsRJD1bAiX7pcs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "narayan-dental-studio-ballari",
@@ -7948,7 +8015,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Narayan+Dental+studio/data=!4m7!3m6!1s0x3bb7114296aa3207:0x91ef72afc9ff7532!8m2!3d15.1397023!4d76.9301572!16s%2Fg%2F11s9bmnyth!19sChIJBzKqlkIRtzsRMnX_ya9y75E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narayan+Dental+studio/data=!4m7!3m6!1s0x3bb7114296aa3207:0x91ef72afc9ff7532!8m2!3d15.1397023!4d76.9301572!16s%2Fg%2F11s9bmnyth!19sChIJBzKqlkIRtzsRMnX_ya9y75E?authuser=0&hl=en&rclk=1"
@@ -8017,7 +8084,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Narayan+Dental+studio/data=!4m7!3m6!1s0x3bb7114296aa3207:0x91ef72afc9ff7532!8m2!3d15.1397023!4d76.9301572!16s%2Fg%2F11s9bmnyth!19sChIJBzKqlkIRtzsRMnX_ya9y75E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neela-dental-clinic-ballari",
@@ -8066,7 +8134,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Neela+Dental+Clinic/data=!4m7!3m6!1s0x3bb71165925d6ab3:0x2f99ba49b51b2518!8m2!3d15.1479137!4d76.9289331!16s%2Fg%2F11f_4rph6k!19sChIJs2pdkmURtzsRGCUbtUm6mS8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neela+Dental+Clinic/data=!4m7!3m6!1s0x3bb71165925d6ab3:0x2f99ba49b51b2518!8m2!3d15.1479137!4d76.9289331!16s%2Fg%2F11f_4rph6k!19sChIJs2pdkmURtzsRGCUbtUm6mS8?authuser=0&hl=en&rclk=1"
@@ -8132,10 +8200,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neela+Dental+Clinic/data=!4m7!3m6!1s0x3bb71165925d6ab3:0x2f99ba49b51b2518!8m2!3d15.1479137!4d76.9289331!16s%2Fg%2F11f_4rph6k!19sChIJs2pdkmURtzsRGCUbtUm6mS8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neelesh-dental-clinic-ballari",
@@ -8183,7 +8252,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/NEELESH+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb711be1b00d881:0xc765e06c1e2b26a4!8m2!3d15.1371486!4d76.9274459!16s%2Fg%2F11whv5xjvy!19sChIJgdgAG74RtzsRpCYrHmzgZcc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEELESH+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb711be1b00d881:0xc765e06c1e2b26a4!8m2!3d15.1371486!4d76.9274459!16s%2Fg%2F11whv5xjvy!19sChIJgdgAG74RtzsRpCYrHmzgZcc?authuser=0&hl=en&rclk=1"
@@ -8249,10 +8318,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEELESH+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb711be1b00d881:0xc765e06c1e2b26a4!8m2!3d15.1371486!4d76.9274459!16s%2Fg%2F11whv5xjvy!19sChIJgdgAG74RtzsRpCYrHmzgZcc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neuro-nest-polyclinic-and-child-development-centre-ballari",
@@ -8303,7 +8373,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Neuro+Nest+Polyclinic+and+Child+Development+Centre/data=!4m7!3m6!1s0x3bb711dfffd711ed:0x8a5d25b0bab03e23!8m2!3d15.1541693!4d76.9338441!16s%2Fg%2F11vwhr5sjg!19sChIJ7RHX_98RtzsRIz6wurAlXYo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuro+Nest+Polyclinic+and+Child+Development+Centre/data=!4m7!3m6!1s0x3bb711dfffd711ed:0x8a5d25b0bab03e23!8m2!3d15.1541693!4d76.9338441!16s%2Fg%2F11vwhr5sjg!19sChIJ7RHX_98RtzsRIz6wurAlXYo?authuser=0&hl=en&rclk=1"
@@ -8372,7 +8442,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neuro+Nest+Polyclinic+and+Child+Development+Centre/data=!4m7!3m6!1s0x3bb711dfffd711ed:0x8a5d25b0bab03e23!8m2!3d15.1541693!4d76.9338441!16s%2Fg%2F11vwhr5sjg!19sChIJ7RHX_98RtzsRIz6wurAlXYo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nisarga-general-surgery-clinic-ballari",
@@ -8418,7 +8489,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Nisarga+General+Surgery+Clinic/data=!4m7!3m6!1s0x3bb7115eb1c6107d:0xda0559dd9989ee80!8m2!3d15.1463916!4d76.9292947!16s%2Fg%2F11qr94vjgm!19sChIJfRDGsV4RtzsRgO6Jmd1ZBdo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nisarga+General+Surgery+Clinic/data=!4m7!3m6!1s0x3bb7115eb1c6107d:0xda0559dd9989ee80!8m2!3d15.1463916!4d76.9292947!16s%2Fg%2F11qr94vjgm!19sChIJfRDGsV4RtzsRgO6Jmd1ZBdo?authuser=0&hl=en&rclk=1"
@@ -8484,10 +8555,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nisarga+General+Surgery+Clinic/data=!4m7!3m6!1s0x3bb7115eb1c6107d:0xda0559dd9989ee80!8m2!3d15.1463916!4d76.9292947!16s%2Fg%2F11qr94vjgm!19sChIJfRDGsV4RtzsRgO6Jmd1ZBdo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pro-dental-ballari",
@@ -8535,7 +8607,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Pro+Dental/data=!4m7!3m6!1s0x3bb7130075a07c23:0xddc643ebaf703183!8m2!3d15.1376734!4d76.9023349!16s%2Fg%2F11x0zctms0!19sChIJI3ygdQATtzsRgzFwr-tDxt0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pro+Dental/data=!4m7!3m6!1s0x3bb7130075a07c23:0xddc643ebaf703183!8m2!3d15.1376734!4d76.9023349!16s%2Fg%2F11x0zctms0!19sChIJI3ygdQATtzsRgzFwr-tDxt0?authuser=0&hl=en&rclk=1"
@@ -8601,10 +8673,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pro+Dental/data=!4m7!3m6!1s0x3bb7130075a07c23:0xddc643ebaf703183!8m2!3d15.1376734!4d76.9023349!16s%2Fg%2F11x0zctms0!19sChIJI3ygdQATtzsRgzFwr-tDxt0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pulse-health-care-ballari",
@@ -8652,7 +8725,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/PULSE+HEALTH+CARE/data=!4m7!3m6!1s0x3bb713001080cee3:0xe92553a6db28ac79!8m2!3d15.1410994!4d76.8951258!16s%2Fg%2F11mcw0kn7z!19sChIJ486AEAATtzsReawo26ZTJek?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PULSE+HEALTH+CARE/data=!4m7!3m6!1s0x3bb713001080cee3:0xe92553a6db28ac79!8m2!3d15.1410994!4d76.8951258!16s%2Fg%2F11mcw0kn7z!19sChIJ486AEAATtzsReawo26ZTJek?authuser=0&hl=en&rclk=1"
@@ -8721,7 +8794,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PULSE+HEALTH+CARE/data=!4m7!3m6!1s0x3bb713001080cee3:0xe92553a6db28ac79!8m2!3d15.1410994!4d76.8951258!16s%2Fg%2F11mcw0kn7z!19sChIJ486AEAATtzsReawo26ZTJek?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rays-hospital-ballari",
@@ -8769,7 +8843,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Rays+Hospital/data=!4m7!3m6!1s0x3bb711fb495a86af:0x42552a9da5002ea5!8m2!3d15.1383576!4d76.9043401!16s%2Fg%2F11n13xdvpx!19sChIJr4ZaSfsRtzsRpS4ApZ0qVUI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rays+Hospital/data=!4m7!3m6!1s0x3bb711fb495a86af:0x42552a9da5002ea5!8m2!3d15.1383576!4d76.9043401!16s%2Fg%2F11n13xdvpx!19sChIJr4ZaSfsRtzsRpS4ApZ0qVUI?authuser=0&hl=en&rclk=1"
@@ -8838,7 +8912,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rays+Hospital/data=!4m7!3m6!1s0x3bb711fb495a86af:0x42552a9da5002ea5!8m2!3d15.1383576!4d76.9043401!16s%2Fg%2F11n13xdvpx!19sChIJr4ZaSfsRtzsRpS4ApZ0qVUI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "relief-poly-clinic-ballari",
@@ -8886,7 +8961,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/RELIEF+POLY+CLINIC/data=!4m7!3m6!1s0x3bb71346e82a0da5:0xe87d2419e1f5b375!8m2!3d15.1379902!4d76.8975517!16s%2Fg%2F11ll3rpprm!19sChIJpQ0q6EYTtzsRdbP14Rkkfeg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RELIEF+POLY+CLINIC/data=!4m7!3m6!1s0x3bb71346e82a0da5:0xe87d2419e1f5b375!8m2!3d15.1379902!4d76.8975517!16s%2Fg%2F11ll3rpprm!19sChIJpQ0q6EYTtzsRdbP14Rkkfeg?authuser=0&hl=en&rclk=1"
@@ -8955,7 +9030,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RELIEF+POLY+CLINIC/data=!4m7!3m6!1s0x3bb71346e82a0da5:0xe87d2419e1f5b375!8m2!3d15.1379902!4d76.8975517!16s%2Fg%2F11ll3rpprm!19sChIJpQ0q6EYTtzsRdbP14Rkkfeg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rjr-herbal-hospital-ballari-ballari",
@@ -9004,7 +9080,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RJR+HERBAL+HOSPITAL+-+BALLARI/data=!4m7!3m6!1s0xa2ee47f5701e137:0xd2c0bcecf929fca7!8m2!3d15.1374404!4d76.9203796!16s%2Fg%2F11v0y_s7y7!19sChIJN-EBV3_kLgoRp_wp-ey8wNI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RJR+HERBAL+HOSPITAL+-+BALLARI/data=!4m7!3m6!1s0xa2ee47f5701e137:0xd2c0bcecf929fca7!8m2!3d15.1374404!4d76.9203796!16s%2Fg%2F11v0y_s7y7!19sChIJN-EBV3_kLgoRp_wp-ey8wNI?authuser=0&hl=en&rclk=1"
@@ -9073,7 +9149,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RJR+HERBAL+HOSPITAL+-+BALLARI/data=!4m7!3m6!1s0xa2ee47f5701e137:0xd2c0bcecf929fca7!8m2!3d15.1374404!4d76.9203796!16s%2Fg%2F11v0y_s7y7!19sChIJN-EBV3_kLgoRp_wp-ey8wNI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "royal-city-hospital-ballari",
@@ -9121,7 +9198,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Royal+City+Hospital/data=!4m7!3m6!1s0x3bb711661e676047:0xe7de4dc202f9b872!8m2!3d15.145066!4d76.929584!16s%2Fg%2F11f15pzq12!19sChIJR2BnHmYRtzsRcrj5AsJN3uc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+City+Hospital/data=!4m7!3m6!1s0x3bb711661e676047:0xe7de4dc202f9b872!8m2!3d15.145066!4d76.929584!16s%2Fg%2F11f15pzq12!19sChIJR2BnHmYRtzsRcrj5AsJN3uc?authuser=0&hl=en&rclk=1"
@@ -9190,7 +9267,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Royal+City+Hospital/data=!4m7!3m6!1s0x3bb711661e676047:0xe7de4dc202f9b872!8m2!3d15.145066!4d76.929584!16s%2Fg%2F11f15pzq12!19sChIJR2BnHmYRtzsRcrj5AsJN3uc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rr-children-s-clinic-ballari",
@@ -9239,7 +9317,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/RR+CHILDREN%27S+CLINIC/data=!4m7!3m6!1s0x3bb713b39d433ae1:0x493f1b97b71f0724!8m2!3d15.1586838!4d76.8982447!16s%2Fg%2F11t1d1h85p!19sChIJ4TpDnbMTtzsRJAcft5cbP0k?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RR+CHILDREN%27S+CLINIC/data=!4m7!3m6!1s0x3bb713b39d433ae1:0x493f1b97b71f0724!8m2!3d15.1586838!4d76.8982447!16s%2Fg%2F11t1d1h85p!19sChIJ4TpDnbMTtzsRJAcft5cbP0k?authuser=0&hl=en&rclk=1"
@@ -9305,10 +9383,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RR+CHILDREN%27S+CLINIC/data=!4m7!3m6!1s0x3bb713b39d433ae1:0x493f1b97b71f0724!8m2!3d15.1586838!4d76.8982447!16s%2Fg%2F11t1d1h85p!19sChIJ4TpDnbMTtzsRJAcft5cbP0k?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rukmini-dental-clinic-ballari",
@@ -9356,7 +9435,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Rukmini+Dental+Clinic/data=!4m7!3m6!1s0x3bb713cfa8151dab:0x48dba1dd3c69a2d8!8m2!3d15.1526812!4d76.9038834!16s%2Fg%2F11f1w7rqbk!19sChIJqx0VqM8TtzsR2KJpPN2h20g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rukmini+Dental+Clinic/data=!4m7!3m6!1s0x3bb713cfa8151dab:0x48dba1dd3c69a2d8!8m2!3d15.1526812!4d76.9038834!16s%2Fg%2F11f1w7rqbk!19sChIJqx0VqM8TtzsR2KJpPN2h20g?authuser=0&hl=en&rclk=1"
@@ -9425,7 +9504,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rukmini+Dental+Clinic/data=!4m7!3m6!1s0x3bb713cfa8151dab:0x48dba1dd3c69a2d8!8m2!3d15.1526812!4d76.9038834!16s%2Fg%2F11f1w7rqbk!19sChIJqx0VqM8TtzsR2KJpPN2h20g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sai-pavan-physiotherapy-clinic-ballari",
@@ -9475,7 +9555,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SAI+PAVAN+PHYSIOTHERAPY+CLINIC/data=!4m7!3m6!1s0x3bb7117b06a81f4b:0x5a9a8833354ed965!8m2!3d15.1542867!4d76.9265321!16s%2Fg%2F11f1jxgq12!19sChIJSx-oBnsRtzsRZdlONTOImlo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAI+PAVAN+PHYSIOTHERAPY+CLINIC/data=!4m7!3m6!1s0x3bb7117b06a81f4b:0x5a9a8833354ed965!8m2!3d15.1542867!4d76.9265321!16s%2Fg%2F11f1jxgq12!19sChIJSx-oBnsRtzsRZdlONTOImlo?authuser=0&hl=en&rclk=1"
@@ -9544,7 +9624,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAI+PAVAN+PHYSIOTHERAPY+CLINIC/data=!4m7!3m6!1s0x3bb7117b06a81f4b:0x5a9a8833354ed965!8m2!3d15.1542867!4d76.9265321!16s%2Fg%2F11f1jxgq12!19sChIJSx-oBnsRtzsRZdlONTOImlo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sandhya-polyclinic-ballari",
@@ -9593,7 +9674,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sandhya+polyclinic/data=!4m7!3m6!1s0x3bb7117b50bcc31d:0xe0cb4c5167486031!8m2!3d15.1523538!4d76.9244095!16s%2Fg%2F11gd8c3phr!19sChIJHcO8UHsRtzsRMWBIZ1FMy-A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sandhya+polyclinic/data=!4m7!3m6!1s0x3bb7117b50bcc31d:0xe0cb4c5167486031!8m2!3d15.1523538!4d76.9244095!16s%2Fg%2F11gd8c3phr!19sChIJHcO8UHsRtzsRMWBIZ1FMy-A?authuser=0&hl=en&rclk=1"
@@ -9662,7 +9743,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sandhya+polyclinic/data=!4m7!3m6!1s0x3bb7117b50bcc31d:0xe0cb4c5167486031!8m2!3d15.1523538!4d76.9244095!16s%2Fg%2F11gd8c3phr!19sChIJHcO8UHsRtzsRMWBIZ1FMy-A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sanjeevini-hospital-ballari",
@@ -9711,7 +9793,7 @@
       "Google rating 2.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeevini+Hospital/data=!4m7!3m6!1s0x3bb7117066202071:0x34173fba3b4ab49d!8m2!3d15.1541398!4d76.9308785!16s%2Fg%2F11csb079y6!19sChIJcSAgZnARtzsRnbRKO7o_FzQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevini+Hospital/data=!4m7!3m6!1s0x3bb7117066202071:0x34173fba3b4ab49d!8m2!3d15.1541398!4d76.9308785!16s%2Fg%2F11csb079y6!19sChIJcSAgZnARtzsRnbRKO7o_FzQ?authuser=0&hl=en&rclk=1"
@@ -9780,7 +9862,8 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeevini+Hospital/data=!4m7!3m6!1s0x3bb7117066202071:0x34173fba3b4ab49d!8m2!3d15.1541398!4d76.9308785!16s%2Fg%2F11csb079y6!19sChIJcSAgZnARtzsRnbRKO7o_FzQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "saroja-hanumaiah-speciality-hospital-ballari",
@@ -9830,7 +9913,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Saroja+Hanumaiah+Speciality+Hospital/data=!4m7!3m6!1s0x3bb7130a2829230b:0x79999a82beb4f9a0!8m2!3d15.1615255!4d76.9142951!16s%2Fg%2F11v451b7d_!19sChIJCyMpKAoTtzsRoPm0voKamXk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saroja+Hanumaiah+Speciality+Hospital/data=!4m7!3m6!1s0x3bb7130a2829230b:0x79999a82beb4f9a0!8m2!3d15.1615255!4d76.9142951!16s%2Fg%2F11v451b7d_!19sChIJCyMpKAoTtzsRoPm0voKamXk?authuser=0&hl=en&rclk=1"
@@ -9899,7 +9982,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saroja+Hanumaiah+Speciality+Hospital/data=!4m7!3m6!1s0x3bb7130a2829230b:0x79999a82beb4f9a0!8m2!3d15.1615255!4d76.9142951!16s%2Fg%2F11v451b7d_!19sChIJCyMpKAoTtzsRoPm0voKamXk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "saroja-speciality-clinic-ballari",
@@ -9948,7 +10032,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Saroja+Speciality+Clinic/data=!4m7!3m6!1s0x3bb7136677554c61:0x7102bd8c49db7389!8m2!3d15.1539547!4d76.909724!16s%2Fg%2F11pdy7sqjb!19sChIJYUxVd2YTtzsRiXPbSYy9AnE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saroja+Speciality+Clinic/data=!4m7!3m6!1s0x3bb7136677554c61:0x7102bd8c49db7389!8m2!3d15.1539547!4d76.909724!16s%2Fg%2F11pdy7sqjb!19sChIJYUxVd2YTtzsRiXPbSYy9AnE?authuser=0&hl=en&rclk=1"
@@ -10014,10 +10098,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saroja+Speciality+Clinic/data=!4m7!3m6!1s0x3bb7136677554c61:0x7102bd8c49db7389!8m2!3d15.1539547!4d76.909724!16s%2Fg%2F11pdy7sqjb!19sChIJYUxVd2YTtzsRiXPbSYy9AnE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sharada-gastro-and-liver-care-centre-ballari",
@@ -10067,7 +10152,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/SHARADA+GASTRO+%26+LIVER+CARE+CENTRE/data=!4m7!3m6!1s0x3bb711c98c521973:0x10c16b7db9d852bc!8m2!3d15.1629752!4d76.9143449!16s%2Fg%2F11frq2ks58!19sChIJcxlSjMkRtzsRvFLYuX1rwRA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHARADA+GASTRO+%26+LIVER+CARE+CENTRE/data=!4m7!3m6!1s0x3bb711c98c521973:0x10c16b7db9d852bc!8m2!3d15.1629752!4d76.9143449!16s%2Fg%2F11frq2ks58!19sChIJcxlSjMkRtzsRvFLYuX1rwRA?authuser=0&hl=en&rclk=1"
@@ -10136,7 +10221,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHARADA+GASTRO+%26+LIVER+CARE+CENTRE/data=!4m7!3m6!1s0x3bb711c98c521973:0x10c16b7db9d852bc!8m2!3d15.1629752!4d76.9143449!16s%2Fg%2F11frq2ks58!19sChIJcxlSjMkRtzsRvFLYuX1rwRA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shiva-dental-and-physiotherapy-ballari",
@@ -10184,7 +10270,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shiva+Dental+and+Physiotherapy/data=!4m7!3m6!1s0x3bb7110067a1a9ef:0x6d45246af144a08b!8m2!3d15.1524153!4d76.9267015!16s%2Fg%2F11ln2q9sv9!19sChIJ76mhZwARtzsRi6BE8WokRW0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiva+Dental+and+Physiotherapy/data=!4m7!3m6!1s0x3bb7110067a1a9ef:0x6d45246af144a08b!8m2!3d15.1524153!4d76.9267015!16s%2Fg%2F11ln2q9sv9!19sChIJ76mhZwARtzsRi6BE8WokRW0?authuser=0&hl=en&rclk=1"
@@ -10250,10 +10336,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shiva+Dental+and+Physiotherapy/data=!4m7!3m6!1s0x3bb7110067a1a9ef:0x6d45246af144a08b!8m2!3d15.1524153!4d76.9267015!16s%2Fg%2F11ln2q9sv9!19sChIJ76mhZwARtzsRi6BE8WokRW0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shivani-maternity-and-orthopadic-clinic-ballari",
@@ -10304,7 +10391,7 @@
       "Google rating 4.3",
       "9+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Shivani+Maternity+%26+Orthopadic+Clinic/data=!4m7!3m6!1s0x3bb71165e3193b97:0x4a95d37e947c7dab!8m2!3d15.1463991!4d76.9289102!16s%2Fg%2F11f1zl4050!19sChIJlzsZ42URtzsRq318lH7TlUo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivani+Maternity+%26+Orthopadic+Clinic/data=!4m7!3m6!1s0x3bb71165e3193b97:0x4a95d37e947c7dab!8m2!3d15.1463991!4d76.9289102!16s%2Fg%2F11f1zl4050!19sChIJlzsZ42URtzsRq318lH7TlUo?authuser=0&hl=en&rclk=1"
@@ -10373,7 +10460,8 @@
     "rating": 4.3,
     "reviews": 9,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivani+Maternity+%26+Orthopadic+Clinic/data=!4m7!3m6!1s0x3bb71165e3193b97:0x4a95d37e947c7dab!8m2!3d15.1463991!4d76.9289102!16s%2Fg%2F11f1zl4050!19sChIJlzsZ42URtzsRq318lH7TlUo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-dental-clinic-ballari",
@@ -10422,7 +10510,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Dental+Clinic/data=!4m7!3m6!1s0x3bb7117cba8fa91f:0xb024d69bd3858a8e!8m2!3d15.1523622!4d76.9232249!16s%2Fg%2F11sbr0pv8f!19sChIJH6mPunwRtzsRjoqF05vWJLA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Dental+Clinic/data=!4m7!3m6!1s0x3bb7117cba8fa91f:0xb024d69bd3858a8e!8m2!3d15.1523622!4d76.9232249!16s%2Fg%2F11sbr0pv8f!19sChIJH6mPunwRtzsRjoqF05vWJLA?authuser=0&hl=en&rclk=1"
@@ -10488,10 +10576,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Dental+Clinic/data=!4m7!3m6!1s0x3bb7117cba8fa91f:0xb024d69bd3858a8e!8m2!3d15.1523622!4d76.9232249!16s%2Fg%2F11sbr0pv8f!19sChIJH6mPunwRtzsRjoqF05vWJLA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "siddeshwara-skin-clinic-ballari",
@@ -10539,7 +10628,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Siddeshwara+Skin+Clinic/data=!4m7!3m6!1s0x3bb711e09d114983:0xffffd223badadc93!8m2!3d15.1441952!4d76.9295499!16s%2Fg%2F11nx170nnx!19sChIJg0kRneARtzsRk9zauiPS__8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddeshwara+Skin+Clinic/data=!4m7!3m6!1s0x3bb711e09d114983:0xffffd223badadc93!8m2!3d15.1441952!4d76.9295499!16s%2Fg%2F11nx170nnx!19sChIJg0kRneARtzsRk9zauiPS__8?authuser=0&hl=en&rclk=1"
@@ -10608,7 +10697,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Siddeshwara+Skin+Clinic/data=!4m7!3m6!1s0x3bb711e09d114983:0xffffd223badadc93!8m2!3d15.1441952!4d76.9295499!16s%2Fg%2F11nx170nnx!19sChIJg0kRneARtzsRk9zauiPS__8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sk-panduranga-rao-hospital-ballari",
@@ -10657,7 +10747,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SK+Panduranga+Rao+Hospital/data=!4m7!3m6!1s0x3bb7116c29b947e3:0xd27967bf2d07ef1d!8m2!3d15.1489402!4d76.935904!16s%2Fg%2F11f3rzcmb_!19sChIJ40e5KWwRtzsRHe8HLb9nedI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SK+Panduranga+Rao+Hospital/data=!4m7!3m6!1s0x3bb7116c29b947e3:0xd27967bf2d07ef1d!8m2!3d15.1489402!4d76.935904!16s%2Fg%2F11f3rzcmb_!19sChIJ40e5KWwRtzsRHe8HLb9nedI?authuser=0&hl=en&rclk=1"
@@ -10726,7 +10816,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SK+Panduranga+Rao+Hospital/data=!4m7!3m6!1s0x3bb7116c29b947e3:0xd27967bf2d07ef1d!8m2!3d15.1489402!4d76.935904!16s%2Fg%2F11f3rzcmb_!19sChIJ40e5KWwRtzsRHe8HLb9nedI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smile-dental-clinic-ballari",
@@ -10774,7 +10865,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Dental+Clinic/data=!4m7!3m6!1s0x3bb7136e883a4237:0x63ce92809ad3b7c5!8m2!3d15.1376267!4d76.9028221!16s%2Fg%2F11rzr22247!19sChIJN0I6iG4TtzsRxbfTmoCSzmM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Dental+Clinic/data=!4m7!3m6!1s0x3bb7136e883a4237:0x63ce92809ad3b7c5!8m2!3d15.1376267!4d76.9028221!16s%2Fg%2F11rzr22247!19sChIJN0I6iG4TtzsRxbfTmoCSzmM?authuser=0&hl=en&rclk=1"
@@ -10840,10 +10931,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Dental+Clinic/data=!4m7!3m6!1s0x3bb7136e883a4237:0x63ce92809ad3b7c5!8m2!3d15.1376267!4d76.9028221!16s%2Fg%2F11rzr22247!19sChIJN0I6iG4TtzsRxbfTmoCSzmM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sree-dental-care-ballari",
@@ -10891,7 +10983,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Dental+Care/data=!4m7!3m6!1s0x3bb711687301a287:0xf366fcaf412807d7!8m2!3d15.1421342!4d76.9302666!16s%2Fg%2F11f1w6t0qd!19sChIJh6IBc2gRtzsR1wcoQa_8ZvM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Dental+Care/data=!4m7!3m6!1s0x3bb711687301a287:0xf366fcaf412807d7!8m2!3d15.1421342!4d76.9302666!16s%2Fg%2F11f1w6t0qd!19sChIJh6IBc2gRtzsR1wcoQa_8ZvM?authuser=0&hl=en&rclk=1"
@@ -10960,7 +11052,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Dental+Care/data=!4m7!3m6!1s0x3bb711687301a287:0xf366fcaf412807d7!8m2!3d15.1421342!4d76.9302666!16s%2Fg%2F11f1w6t0qd!19sChIJh6IBc2gRtzsR1wcoQa_8ZvM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sree-thirumala-hospital-main-road-sontha-lingana-colony-ballari-ho",
@@ -11009,7 +11102,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Thirumala+Hospital/data=!4m7!3m6!1s0x3bb71110b4f8c06d:0xebd4135bd679c5e9!8m2!3d15.1588141!4d76.9378868!16s%2Fg%2F11tfwkl7xd!19sChIJbcD4tBARtzsR6cV51lsT1Os?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Thirumala+Hospital/data=!4m7!3m6!1s0x3bb71110b4f8c06d:0xebd4135bd679c5e9!8m2!3d15.1588141!4d76.9378868!16s%2Fg%2F11tfwkl7xd!19sChIJbcD4tBARtzsR6cV51lsT1Os?authuser=0&hl=en&rclk=1"
@@ -11078,7 +11171,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Thirumala+Hospital/data=!4m7!3m6!1s0x3bb71110b4f8c06d:0xebd4135bd679c5e9!8m2!3d15.1588141!4d76.9378868!16s%2Fg%2F11tfwkl7xd!19sChIJbcD4tBARtzsR6cV51lsT1Os?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-akshaya-dental-care-and-implant-center-ballari",
@@ -11127,7 +11221,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Akshaya+Dental+Care+And+Implant+Center/data=!4m7!3m6!1s0x3bb711cc9fafa863:0x520800e478312338!8m2!3d15.1435325!4d76.927512!16s%2Fg%2F11h1hz1hps!19sChIJY6ivn8wRtzsROCMxeOQACFI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Akshaya+Dental+Care+And+Implant+Center/data=!4m7!3m6!1s0x3bb711cc9fafa863:0x520800e478312338!8m2!3d15.1435325!4d76.927512!16s%2Fg%2F11h1hz1hps!19sChIJY6ivn8wRtzsROCMxeOQACFI?authuser=0&hl=en&rclk=1"
@@ -11193,10 +11287,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Akshaya+Dental+Care+And+Implant+Center/data=!4m7!3m6!1s0x3bb711cc9fafa863:0x520800e478312338!8m2!3d15.1435325!4d76.927512!16s%2Fg%2F11h1hz1hps!19sChIJY6ivn8wRtzsROCMxeOQACFI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-balaji-nursing-home-ballari",
@@ -11246,7 +11341,7 @@
       "Google rating 3.5",
       "7+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Balaji+Nursing+Home/data=!4m7!3m6!1s0x3bb7117a6057752d:0x236a611cfeb25acb!8m2!3d15.1551162!4d76.9283258!16s%2Fg%2F1tgnvnzf!19sChIJLXVXYHoRtzsRy1qy_hxhaiM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Balaji+Nursing+Home/data=!4m7!3m6!1s0x3bb7117a6057752d:0x236a611cfeb25acb!8m2!3d15.1551162!4d76.9283258!16s%2Fg%2F1tgnvnzf!19sChIJLXVXYHoRtzsRy1qy_hxhaiM?authuser=0&hl=en&rclk=1"
@@ -11315,7 +11410,8 @@
     "rating": 3.5,
     "reviews": 7,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Balaji+Nursing+Home/data=!4m7!3m6!1s0x3bb7117a6057752d:0x236a611cfeb25acb!8m2!3d15.1551162!4d76.9283258!16s%2Fg%2F1tgnvnzf!19sChIJLXVXYHoRtzsRy1qy_hxhaiM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-durga-clinic-ballari",
@@ -11363,7 +11459,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Durga+Clinic/@15.1528488,76.9295832,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb7117aa7a9bafb:0x90936994ad6f12b0!8m2!3d15.1528488!4d76.9295832!16s%2Fg%2F11f15mhwtb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Durga+Clinic/@15.1528488,76.9295832,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb7117aa7a9bafb:0x90936994ad6f12b0!8m2!3d15.1528488!4d76.9295832!16s%2Fg%2F11f15mhwtb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -11429,10 +11525,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Durga+Clinic/@15.1528488,76.9295832,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb7117aa7a9bafb:0x90936994ad6f12b0!8m2!3d15.1528488!4d76.9295832!16s%2Fg%2F11f15mhwtb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-maruthi-clinic-ballari",
@@ -11480,7 +11577,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Maruthi+Clinic/data=!4m7!3m6!1s0x3bb71168976b282b:0xd81e6f709d0cead8!8m2!3d15.1445996!4d76.9305172!16s%2Fg%2F11f_p2cqxx!19sChIJKyhrl2gRtzsR2OoMnXBvHtg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Maruthi+Clinic/data=!4m7!3m6!1s0x3bb71168976b282b:0xd81e6f709d0cead8!8m2!3d15.1445996!4d76.9305172!16s%2Fg%2F11f_p2cqxx!19sChIJKyhrl2gRtzsR2OoMnXBvHtg?authuser=0&hl=en&rclk=1"
@@ -11546,10 +11643,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Maruthi+Clinic/data=!4m7!3m6!1s0x3bb71168976b282b:0xd81e6f709d0cead8!8m2!3d15.1445996!4d76.9305172!16s%2Fg%2F11f_p2cqxx!19sChIJKyhrl2gRtzsR2OoMnXBvHtg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-padmavathi-srinivasa-kidney-care-spskc-ballari",
@@ -11599,7 +11697,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Padmavathi+Srinivasa+Kidney+Care+%28SPSKC%29/data=!4m7!3m6!1s0x3bb71131770d67b5:0x32e541ca9eb71a67!8m2!3d15.1524883!4d76.9264533!16s%2Fg%2F11mxpsg0b8!19sChIJtWcNdzERtzsRZxq3nspB5TI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Padmavathi+Srinivasa+Kidney+Care+%28SPSKC%29/data=!4m7!3m6!1s0x3bb71131770d67b5:0x32e541ca9eb71a67!8m2!3d15.1524883!4d76.9264533!16s%2Fg%2F11mxpsg0b8!19sChIJtWcNdzERtzsRZxq3nspB5TI?authuser=0&hl=en&rclk=1"
@@ -11668,7 +11766,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Padmavathi+Srinivasa+Kidney+Care+%28SPSKC%29/data=!4m7!3m6!1s0x3bb71131770d67b5:0x32e541ca9eb71a67!8m2!3d15.1524883!4d76.9264533!16s%2Fg%2F11mxpsg0b8!19sChIJtWcNdzERtzsRZxq3nspB5TI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-sai-dental-specialities-ballari",
@@ -11718,7 +11817,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sai+Dental+Specialities/data=!4m7!3m6!1s0x3bb713cf3d55d6df:0xeaa71a9e3817e374!8m2!3d15.1525282!4d76.902433!16s%2Fg%2F11b7kj7344!19sChIJ39ZVPc8TtzsRdOMXOJ4ap-o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sai+Dental+Specialities/data=!4m7!3m6!1s0x3bb713cf3d55d6df:0xeaa71a9e3817e374!8m2!3d15.1525282!4d76.902433!16s%2Fg%2F11b7kj7344!19sChIJ39ZVPc8TtzsRdOMXOJ4ap-o?authuser=0&hl=en&rclk=1"
@@ -11787,7 +11886,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sai+Dental+Specialities/data=!4m7!3m6!1s0x3bb713cf3d55d6df:0xeaa71a9e3817e374!8m2!3d15.1525282!4d76.902433!16s%2Fg%2F11b7kj7344!19sChIJ39ZVPc8TtzsRdOMXOJ4ap-o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-sai-hospital-ballari",
@@ -11836,7 +11936,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sai+Hospital/data=!4m7!3m6!1s0x3bb7112ba1b4aa41:0x8413138a7df06d5d!8m2!3d15.1532579!4d76.9296151!16s%2Fg%2F11g0hzpsvt!19sChIJQaq0oSsRtzsRXW3wfYoTE4Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sai+Hospital/data=!4m7!3m6!1s0x3bb7112ba1b4aa41:0x8413138a7df06d5d!8m2!3d15.1532579!4d76.9296151!16s%2Fg%2F11g0hzpsvt!19sChIJQaq0oSsRtzsRXW3wfYoTE4Q?authuser=0&hl=en&rclk=1"
@@ -11905,7 +12005,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sai+Hospital/data=!4m7!3m6!1s0x3bb7112ba1b4aa41:0x8413138a7df06d5d!8m2!3d15.1532579!4d76.9296151!16s%2Fg%2F11g0hzpsvt!19sChIJQaq0oSsRtzsRXW3wfYoTE4Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-venkateswara-nursing-home-ballari",
@@ -11956,7 +12057,7 @@
       "18+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Venkateswara+Nursing+Home/data=!4m7!3m6!1s0x3bb71171e927e3d9:0x4ae0554a0a53a189!8m2!3d15.1529569!4d76.9344157!16s%2Fg%2F11c44prdcq!19sChIJ2eMn6XERtzsRiaFTCkpV4Eo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Venkateswara+Nursing+Home/data=!4m7!3m6!1s0x3bb71171e927e3d9:0x4ae0554a0a53a189!8m2!3d15.1529569!4d76.9344157!16s%2Fg%2F11c44prdcq!19sChIJ2eMn6XERtzsRiaFTCkpV4Eo?authuser=0&hl=en&rclk=1"
@@ -12025,7 +12126,8 @@
     "rating": 4.3,
     "reviews": 18,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Venkateswara+Nursing+Home/data=!4m7!3m6!1s0x3bb71171e927e3d9:0x4ae0554a0a53a189!8m2!3d15.1529569!4d76.9344157!16s%2Fg%2F11c44prdcq!19sChIJ2eMn6XERtzsRiaFTCkpV4Eo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sridurga-ent-and-cancer-hospital-ballari",
@@ -12073,7 +12175,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sridurga+ENT+And+Cancer+Hospital/data=!4m7!3m6!1s0x3bb7118d2793a73b:0x7f67e13d948685f4!8m2!3d15.1528172!4d76.9307083!16s%2Fg%2F11h6t98ww1!19sChIJO6eTJ40RtzsR9IWGlD3hZ38?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sridurga+ENT+And+Cancer+Hospital/data=!4m7!3m6!1s0x3bb7118d2793a73b:0x7f67e13d948685f4!8m2!3d15.1528172!4d76.9307083!16s%2Fg%2F11h6t98ww1!19sChIJO6eTJ40RtzsR9IWGlD3hZ38?authuser=0&hl=en&rclk=1"
@@ -12139,10 +12241,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sridurga+ENT+And+Cancer+Hospital/data=!4m7!3m6!1s0x3bb7118d2793a73b:0x7f67e13d948685f4!8m2!3d15.1528172!4d76.9307083!16s%2Fg%2F11h6t98ww1!19sChIJO6eTJ40RtzsR9IWGlD3hZ38?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srinivas-dental-care-ballari",
@@ -12190,7 +12293,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/SRINIVAS+DENTAL+CARE/data=!4m7!3m6!1s0x3bb7117028b2868f:0x5873ac8b39cf0b7a!8m2!3d15.1524466!4d76.9319434!16s%2Fg%2F11f_31m2w4!19sChIJj4ayKHARtzsRegvPOYusc1g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRINIVAS+DENTAL+CARE/data=!4m7!3m6!1s0x3bb7117028b2868f:0x5873ac8b39cf0b7a!8m2!3d15.1524466!4d76.9319434!16s%2Fg%2F11f_31m2w4!19sChIJj4ayKHARtzsRegvPOYusc1g?authuser=0&hl=en&rclk=1"
@@ -12259,7 +12362,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRINIVAS+DENTAL+CARE/data=!4m7!3m6!1s0x3bb7117028b2868f:0x5873ac8b39cf0b7a!8m2!3d15.1524466!4d76.9319434!16s%2Fg%2F11f_31m2w4!19sChIJj4ayKHARtzsRegvPOYusc1g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srk-bone-and-joint-clinic-ballari",
@@ -12308,7 +12412,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/SRK+Bone+%26+Joint+Clinic/data=!4m7!3m6!1s0x3bb71165fcffc1bb:0x65b07dc9e9dafc0b!8m2!3d15.1462428!4d76.9291398!16s%2Fg%2F11f26jnpm2!19sChIJu8H__GURtzsRC_za6cl9sGU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRK+Bone+%26+Joint+Clinic/data=!4m7!3m6!1s0x3bb71165fcffc1bb:0x65b07dc9e9dafc0b!8m2!3d15.1462428!4d76.9291398!16s%2Fg%2F11f26jnpm2!19sChIJu8H__GURtzsRC_za6cl9sGU?authuser=0&hl=en&rclk=1"
@@ -12377,7 +12481,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRK+Bone+%26+Joint+Clinic/data=!4m7!3m6!1s0x3bb71165fcffc1bb:0x65b07dc9e9dafc0b!8m2!3d15.1462428!4d76.9291398!16s%2Fg%2F11f26jnpm2!19sChIJu8H__GURtzsRC_za6cl9sGU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srujan-aesthetic-clinic-shifted-to-anantha-vasudev-hospital-anantpur-road-ballari",
@@ -12426,7 +12531,7 @@
       "Google rating 4.7",
       "1+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Srujan+aesthetic+clinic%28Shifted+to+Anantha+vasudev+hospital+,+anantpur+road%29/data=!4m7!3m6!1s0x3bb71323de93787d:0x60c0f464f3e9f4ea!8m2!3d15.1551842!4d76.9040075!16s%2Fg%2F11qgpjjjcf!19sChIJfXiT3iMTtzsR6vTp82T0wGA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srujan+aesthetic+clinic%28Shifted+to+Anantha+vasudev+hospital+,+anantpur+road%29/data=!4m7!3m6!1s0x3bb71323de93787d:0x60c0f464f3e9f4ea!8m2!3d15.1551842!4d76.9040075!16s%2Fg%2F11qgpjjjcf!19sChIJfXiT3iMTtzsR6vTp82T0wGA?authuser=0&hl=en&rclk=1"
@@ -12495,7 +12600,8 @@
     "rating": 4.7,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srujan+aesthetic+clinic%28Shifted+to+Anantha+vasudev+hospital+,+anantpur+road%29/data=!4m7!3m6!1s0x3bb71323de93787d:0x60c0f464f3e9f4ea!8m2!3d15.1551842!4d76.9040075!16s%2Fg%2F11qgpjjjcf!19sChIJfXiT3iMTtzsR6vTp82T0wGA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srushti-hair-and-skin-clinic-ballari",
@@ -12545,7 +12651,7 @@
       "4+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Srushti+Hair+and+Skin+clinic/data=!4m7!3m6!1s0x3bb713d0467f7537:0x77feacba087effb7!8m2!3d15.1527047!4d76.9056252!16s%2Fg%2F11krkgvnkr!19sChIJN3V_RtATtzsRt_9-CLqs_nc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srushti+Hair+and+Skin+clinic/data=!4m7!3m6!1s0x3bb713d0467f7537:0x77feacba087effb7!8m2!3d15.1527047!4d76.9056252!16s%2Fg%2F11krkgvnkr!19sChIJN3V_RtATtzsRt_9-CLqs_nc?authuser=0&hl=en&rclk=1"
@@ -12611,10 +12717,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 4,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srushti+Hair+and+Skin+clinic/data=!4m7!3m6!1s0x3bb713d0467f7537:0x77feacba087effb7!8m2!3d15.1527047!4d76.9056252!16s%2Fg%2F11krkgvnkr!19sChIJN3V_RtATtzsRt_9-CLqs_nc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "st-marys-dental-clinic-ballari",
@@ -12662,7 +12769,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ST+MARYS+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb7138ec5a83c39:0x494df8008117496a!8m2!3d15.1545797!4d76.8998225!16s%2Fg%2F11k3xd9f31!19sChIJOTyoxY4TtzsRakkXgQD4TUk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ST+MARYS+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb7138ec5a83c39:0x494df8008117496a!8m2!3d15.1545797!4d76.8998225!16s%2Fg%2F11k3xd9f31!19sChIJOTyoxY4TtzsRakkXgQD4TUk?authuser=0&hl=en&rclk=1"
@@ -12728,10 +12835,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ST+MARYS+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb7138ec5a83c39:0x494df8008117496a!8m2!3d15.1545797!4d76.8998225!16s%2Fg%2F11k3xd9f31!19sChIJOTyoxY4TtzsRakkXgQD4TUk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "st-mary-s-hospital-ballari",
@@ -12780,7 +12888,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/St.+Mary%27s+Hospital/data=!4m7!3m6!1s0x3bb713cecb07522f:0x28da0d8767f45759!8m2!3d15.1542333!4d76.9008556!16s%2Fg%2F1hdzhj_25!19sChIJL1IHy84TtzsRWVf0Z4cN2ig?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/St.+Mary%27s+Hospital/data=!4m7!3m6!1s0x3bb713cecb07522f:0x28da0d8767f45759!8m2!3d15.1542333!4d76.9008556!16s%2Fg%2F1hdzhj_25!19sChIJL1IHy84TtzsRWVf0Z4cN2ig?authuser=0&hl=en&rclk=1"
@@ -12846,10 +12954,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/St.+Mary%27s+Hospital/data=!4m7!3m6!1s0x3bb713cecb07522f:0x28da0d8767f45759!8m2!3d15.1542333!4d76.9008556!16s%2Fg%2F1hdzhj_25!19sChIJL1IHy84TtzsRWVf0Z4cN2ig?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "surabhi-dental-clinic-ballari",
@@ -12897,7 +13006,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Surabhi+Dental+Clinic/data=!4m7!3m6!1s0x3bb711f70b2f1ff1:0x94e1cd437cc6944f!8m2!3d15.1401918!4d76.9280475!16s%2Fg%2F11gr61dyv1!19sChIJ8R8vC_cRtzsRT5TGfEPN4ZQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surabhi+Dental+Clinic/data=!4m7!3m6!1s0x3bb711f70b2f1ff1:0x94e1cd437cc6944f!8m2!3d15.1401918!4d76.9280475!16s%2Fg%2F11gr61dyv1!19sChIJ8R8vC_cRtzsRT5TGfEPN4ZQ?authuser=0&hl=en&rclk=1"
@@ -12966,7 +13075,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surabhi+Dental+Clinic/data=!4m7!3m6!1s0x3bb711f70b2f1ff1:0x94e1cd437cc6944f!8m2!3d15.1401918!4d76.9280475!16s%2Fg%2F11gr61dyv1!19sChIJ8R8vC_cRtzsRT5TGfEPN4ZQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "suraksha-speciality-dental-care-ballari",
@@ -13015,7 +13125,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Suraksha+Speciality+Dental+Care/data=!4m7!3m6!1s0x3bb7116ebd6f4061:0x73129415bdf7030!8m2!3d15.1479157!4d76.9346616!16s%2Fg%2F11gcmmny8l!19sChIJYUBvvW4RtzsRMHDfW0EpMQc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suraksha+Speciality+Dental+Care/data=!4m7!3m6!1s0x3bb7116ebd6f4061:0x73129415bdf7030!8m2!3d15.1479157!4d76.9346616!16s%2Fg%2F11gcmmny8l!19sChIJYUBvvW4RtzsRMHDfW0EpMQc?authuser=0&hl=en&rclk=1"
@@ -13084,7 +13194,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suraksha+Speciality+Dental+Care/data=!4m7!3m6!1s0x3bb7116ebd6f4061:0x73129415bdf7030!8m2!3d15.1479157!4d76.9346616!16s%2Fg%2F11gcmmny8l!19sChIJYUBvvW4RtzsRMHDfW0EpMQc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "thippareddy-hospital-ballari",
@@ -13132,7 +13243,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Thippareddy+hospital/data=!4m7!3m6!1s0x3bb7110031dd16cd:0x8cbf61db3a81d1bb!8m2!3d15.1543272!4d76.9309554!16s%2Fg%2F11ybpjp8kc!19sChIJzRbdMQARtzsRu9GBOtthv4w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thippareddy+hospital/data=!4m7!3m6!1s0x3bb7110031dd16cd:0x8cbf61db3a81d1bb!8m2!3d15.1543272!4d76.9309554!16s%2Fg%2F11ybpjp8kc!19sChIJzRbdMQARtzsRu9GBOtthv4w?authuser=0&hl=en&rclk=1"
@@ -13201,7 +13312,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thippareddy+hospital/data=!4m7!3m6!1s0x3bb7110031dd16cd:0x8cbf61db3a81d1bb!8m2!3d15.1543272!4d76.9309554!16s%2Fg%2F11ybpjp8kc!19sChIJzRbdMQARtzsRu9GBOtthv4w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vcare-hair-and-skin-clinic-ballari-skin-treatment-hair-treatment-hair-transplant-laser-hair-removal-skin-whitening-ballari",
@@ -13251,7 +13363,7 @@
       "7+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Ballari+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3bb7119faf0437d3:0x1aca248dd1949b1f!8m2!3d15.1572878!4d76.9415899!16s%2Fg%2F11spnq0tfy!19sChIJ0zcEr58RtzsRH5uU0Y0kyho?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Ballari+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3bb7119faf0437d3:0x1aca248dd1949b1f!8m2!3d15.1572878!4d76.9415899!16s%2Fg%2F11spnq0tfy!19sChIJ0zcEr58RtzsRH5uU0Y0kyho?authuser=0&hl=en&rclk=1"
@@ -13320,7 +13432,8 @@
     "rating": 4.6,
     "reviews": 7,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Ballari+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3bb7119faf0437d3:0x1aca248dd1949b1f!8m2!3d15.1572878!4d76.9415899!16s%2Fg%2F11spnq0tfy!19sChIJ0zcEr58RtzsRH5uU0Y0kyho?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "venkat-kamineni-hospital-ballari",
@@ -13369,7 +13482,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Venkat+Kamineni+Hospital/data=!4m7!3m6!1s0x3bb713dcb57e35a7:0xdc96b70ddab26d53!8m2!3d15.1442589!4d76.9066957!16s%2Fg%2F11tjy87k3f!19sChIJpzV-tdwTtzsRU22y2g23ltw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Venkat+Kamineni+Hospital/data=!4m7!3m6!1s0x3bb713dcb57e35a7:0xdc96b70ddab26d53!8m2!3d15.1442589!4d76.9066957!16s%2Fg%2F11tjy87k3f!19sChIJpzV-tdwTtzsRU22y2g23ltw?authuser=0&hl=en&rclk=1"
@@ -13438,7 +13551,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Venkat+Kamineni+Hospital/data=!4m7!3m6!1s0x3bb713dcb57e35a7:0xdc96b70ddab26d53!8m2!3d15.1442589!4d76.9066957!16s%2Fg%2F11tjy87k3f!19sChIJpzV-tdwTtzsRU22y2g23ltw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vishwa-health-care-ballari",
@@ -13486,7 +13600,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/VISHWA+HEALTH+CARE/data=!4m7!3m6!1s0x3bb713cc6d24dd13:0x331c8f2694584aae!8m2!3d15.157596!4d76.9018748!16s%2Fg%2F11clyqypf6!19sChIJE90kbcwTtzsRrkpYlCaPHDM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VISHWA+HEALTH+CARE/data=!4m7!3m6!1s0x3bb713cc6d24dd13:0x331c8f2694584aae!8m2!3d15.157596!4d76.9018748!16s%2Fg%2F11clyqypf6!19sChIJE90kbcwTtzsRrkpYlCaPHDM?authuser=0&hl=en&rclk=1"
@@ -13555,7 +13669,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VISHWA+HEALTH+CARE/data=!4m7!3m6!1s0x3bb713cc6d24dd13:0x331c8f2694584aae!8m2!3d15.157596!4d76.9018748!16s%2Fg%2F11clyqypf6!19sChIJE90kbcwTtzsRrkpYlCaPHDM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ballari",
@@ -13604,7 +13719,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%E0%B2%A6%E0%B3%87%E0%B2%B8%E0%B2%BE%E0%B2%AF%E0%B2%BF+%E0%B2%86%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B3%86/data=!4m7!3m6!1s0x3bb7110c89505eff:0x82e82cf42aa0d5de!8m2!3d15.1574521!4d76.9438371!16s%2Fg%2F11hb2ck_lt!19sChIJ_15QiQwRtzsR3tWgKvQs6II?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%B2%A6%E0%B3%87%E0%B2%B8%E0%B2%BE%E0%B2%AF%E0%B2%BF+%E0%B2%86%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B3%86/data=!4m7!3m6!1s0x3bb7110c89505eff:0x82e82cf42aa0d5de!8m2!3d15.1574521!4d76.9438371!16s%2Fg%2F11hb2ck_lt!19sChIJ_15QiQwRtzsR3tWgKvQs6II?authuser=0&hl=en&rclk=1"
@@ -13673,6 +13788,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%B2%A6%E0%B3%87%E0%B2%B8%E0%B2%BE%E0%B2%AF%E0%B2%BF+%E0%B2%86%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B3%86/data=!4m7!3m6!1s0x3bb7110c89505eff:0x82e82cf42aa0d5de!8m2!3d15.1574521!4d76.9438371!16s%2Fg%2F11hb2ck_lt!19sChIJ_15QiQwRtzsR3tWgKvQs6II?authuser=0&hl=en&rclk=1"
   }
 ]

@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/CHC+PAPADAHANDI/@19.3392649,82.5222256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ab5cb9667137f:0xb67f092eaa905897!8m2!3d19.3392649!4d82.5222256!16s%2Fg%2F11bxc5ryhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CHC+PAPADAHANDI/@19.3392649,82.5222256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ab5cb9667137f:0xb67f092eaa905897!8m2!3d19.3392649!4d82.5222256!16s%2Fg%2F11bxc5ryhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CHC+PAPADAHANDI/@19.3392649,82.5222256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ab5cb9667137f:0xb67f092eaa905897!8m2!3d19.3392649!4d82.5222256!16s%2Fg%2F11bxc5ryhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "christian-hospital-nabarangpur-nabarangpur",
@@ -162,7 +163,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Christian+Hospital,+Nabarangpur/@19.2392509,82.547666,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ab7ee28dae95d:0xf36b4849ae246529!8m2!3d19.2392509!4d82.547666!16s%2Fg%2F1thf6_41?entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Christian+Hospital,+Nabarangpur/@19.2392509,82.547666,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ab7ee28dae95d:0xf36b4849ae246529!8m2!3d19.2392509!4d82.547666!16s%2Fg%2F1thf6_41?entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -231,7 +232,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Christian+Hospital,+Nabarangpur/@19.2392509,82.547666,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ab7ee28dae95d:0xf36b4849ae246529!8m2!3d19.2392509!4d82.547666!16s%2Fg%2F1thf6_41?entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indravati-eye-hospital-nabarangpur",
@@ -279,7 +281,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Indravati+Eye+Hospital/@19.229316,82.562957,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ac97e2ee33bc3:0x5b32397321d94878!8m2!3d19.229316!4d82.562957!16s%2Fg%2F11t4262nyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indravati+Eye+Hospital/@19.229316,82.562957,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ac97e2ee33bc3:0x5b32397321d94878!8m2!3d19.229316!4d82.562957!16s%2Fg%2F11t4262nyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -348,7 +350,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indravati+Eye+Hospital/@19.229316,82.562957,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ac97e2ee33bc3:0x5b32397321d94878!8m2!3d19.229316!4d82.562957!16s%2Fg%2F11t4262nyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kidney-plus-clinics-kolkata-kolkata",
@@ -399,7 +402,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/@22.4917711,88.3740256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/@22.4917711,88.3740256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -468,7 +471,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/@22.4917711,88.3740256,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kolkata-kidney-institute-kolkata",
@@ -518,7 +522,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KOLKATA+KIDNEY+INSTITUTE/@22.503913,88.3979072,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027120ecfb01b3:0xd0b9d152082694a1!8m2!3d22.503913!4d88.3979072!16s%2Fg%2F11hg29sfdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KOLKATA+KIDNEY+INSTITUTE/@22.503913,88.3979072,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027120ecfb01b3:0xd0b9d152082694a1!8m2!3d22.503913!4d88.3979072!16s%2Fg%2F11hg29sfdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -587,7 +591,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KOLKATA+KIDNEY+INSTITUTE/@22.503913,88.3979072,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027120ecfb01b3:0xd0b9d152082694a1!8m2!3d22.503913!4d88.3979072!16s%2Fg%2F11hg29sfdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nkpc-kidney-clinic-kolkata",
@@ -637,7 +642,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -706,7 +711,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/@22.498556,88.4002065,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patra-dental-hospital-advanced-root-canal-and-implant-centre-nabarangpur",
@@ -755,7 +761,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/PATRA+DENTAL+HOSPITAL+,Advanced+Root+Canal+and+Implant+Centre/data=!4m7!3m6!1s0x3a3ab984644a6c1d:0x8d5db3b7c8787574!8m2!3d19.2265668!4d82.5487966!16s%2Fg%2F11nxr5_vyk!19sChIJHWxKZIS5OjoRdHV4yLezXY0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PATRA+DENTAL+HOSPITAL+,Advanced+Root+Canal+and+Implant+Centre/data=!4m7!3m6!1s0x3a3ab984644a6c1d:0x8d5db3b7c8787574!8m2!3d19.2265668!4d82.5487966!16s%2Fg%2F11nxr5_vyk!19sChIJHWxKZIS5OjoRdHV4yLezXY0?authuser=0&hl=en&rclk=1"
@@ -821,10 +827,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PATRA+DENTAL+HOSPITAL+,Advanced+Root+Canal+and+Implant+Centre/data=!4m7!3m6!1s0x3a3ab984644a6c1d:0x8d5db3b7c8787574!8m2!3d19.2265668!4d82.5487966!16s%2Fg%2F11nxr5_vyk!19sChIJHWxKZIS5OjoRdHV4yLezXY0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "s-m-dental-clinic-nabarangpur",
@@ -873,7 +880,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/S+M+DENTAL+CLINIC/@19.2328643,82.5479284,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ab79eb26f7f1f:0x6db1e1631da2af68!8m2!3d19.2328643!4d82.5479284!16s%2Fg%2F11hzybzrcn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+M+DENTAL+CLINIC/@19.2328643,82.5479284,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ab79eb26f7f1f:0x6db1e1631da2af68!8m2!3d19.2328643!4d82.5479284!16s%2Fg%2F11hzybzrcn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -939,10 +946,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+M+DENTAL+CLINIC/@19.2328643,82.5479284,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ab79eb26f7f1f:0x6db1e1631da2af68!8m2!3d19.2328643!4d82.5479284!16s%2Fg%2F11hzybzrcn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "simadri-surya-eye-hospital-chutiaguda",
@@ -991,7 +999,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Simadri+Surya+Eye+Hospital/@19.2417397,82.5417936,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ab7007c5d32bd:0xc3a48e7806bf79b1!8m2!3d19.2417397!4d82.5417936!16s%2Fg%2F11vm2vyw1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Simadri+Surya+Eye+Hospital/@19.2417397,82.5417936,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ab7007c5d32bd:0xc3a48e7806bf79b1!8m2!3d19.2417397!4d82.5417936!16s%2Fg%2F11vm2vyw1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1060,7 +1068,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Simadri+Surya+Eye+Hospital/@19.2417397,82.5417936,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3ab7007c5d32bd:0xc3a48e7806bf79b1!8m2!3d19.2417397!4d82.5417936!16s%2Fg%2F11vm2vyw1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sudhir-heart-centre-brahmapur",
@@ -1110,7 +1119,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sudhir+Heart+Centre/@19.3093138,84.7848187,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5008b71457fb:0xd9f1a6780cb4c7a!8m2!3d19.3093138!4d84.7848187!16s%2Fg%2F11fy90q60k?entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudhir+Heart+Centre/@19.3093138,84.7848187,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5008b71457fb:0xd9f1a6780cb4c7a!8m2!3d19.3093138!4d84.7848187!16s%2Fg%2F11fy90q60k?entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1179,7 +1188,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sudhir+Heart+Centre/@19.3093138,84.7848187,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3d5008b71457fb:0xd9f1a6780cb4c7a!8m2!3d19.3093138!4d84.7848187!16s%2Fg%2F11fy90q60k?entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vijaya-laxmi-medical-and-general-store-nabarangpur",
@@ -1227,7 +1237,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Vijaya+Laxmi+Medical+%26+General+Store/data=!4m7!3m6!1s0x3a3ab7f7b8e21bf9:0x7df93e28cb1ae4ae!8m2!3d19.2284278!4d82.5492086!16s%2Fg%2F11bx564tkz!19sChIJ-RviuPe3OjoRruQayyg--X0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijaya+Laxmi+Medical+%26+General+Store/data=!4m7!3m6!1s0x3a3ab7f7b8e21bf9:0x7df93e28cb1ae4ae!8m2!3d19.2284278!4d82.5492086!16s%2Fg%2F11bx564tkz!19sChIJ-RviuPe3OjoRruQayyg--X0?authuser=0&hl=en&rclk=1"
@@ -1296,6 +1306,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vijaya+Laxmi+Medical+%26+General+Store/data=!4m7!3m6!1s0x3a3ab7f7b8e21bf9:0x7df93e28cb1ae4ae!8m2!3d19.2284278!4d82.5492086!16s%2Fg%2F11bx564tkz!19sChIJ-RviuPe3OjoRruQayyg--X0?authuser=0&hl=en&rclk=1"
   }
 ]

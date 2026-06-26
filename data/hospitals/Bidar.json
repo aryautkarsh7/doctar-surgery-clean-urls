@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Aarogya+Hospital/@17.9154864,77.5123885,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d762e12089:0x77c93b18a122abe5!8m2!3d17.9154864!4d77.5123885!16s%2Fg%2F11d_8zlrtq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogya+Hospital/@17.9154864,77.5123885,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d762e12089:0x77c93b18a122abe5!8m2!3d17.9154864!4d77.5123885!16s%2Fg%2F11d_8zlrtq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aarogya+Hospital/@17.9154864,77.5123885,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d762e12089:0x77c93b18a122abe5!8m2!3d17.9154864!4d77.5123885!16s%2Fg%2F11d_8zlrtq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-heart-care-clinic-bidar",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Heart+Care+Clinic/@17.9206057,77.5123812,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d69fabb90b:0x32e8f594249f28e7!8m2!3d17.9206057!4d77.5123812!16s%2Fg%2F11gnht7d5t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Heart+Care+Clinic/@17.9206057,77.5123812,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d69fabb90b:0x32e8f594249f28e7!8m2!3d17.9206057!4d77.5123812!16s%2Fg%2F11gnht7d5t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -232,7 +233,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Heart+Care+Clinic/@17.9206057,77.5123812,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d69fabb90b:0x32e8f594249f28e7!8m2!3d17.9206057!4d77.5123812!16s%2Fg%2F11gnht7d5t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bidar-kidney-centre-bidar",
@@ -281,7 +283,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Bidar+kidney+centre/@17.9215489,77.5086711,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec7a3eb0f22a7:0x2ae1eacd1917d40d!8m2!3d17.9215489!4d77.5086711!16s%2Fg%2F11yjfrztsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bidar+kidney+centre/@17.9215489,77.5086711,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec7a3eb0f22a7:0x2ae1eacd1917d40d!8m2!3d17.9215489!4d77.5086711!16s%2Fg%2F11yjfrztsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -350,7 +352,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bidar+kidney+centre/@17.9215489,77.5086711,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec7a3eb0f22a7:0x2ae1eacd1917d40d!8m2!3d17.9215489!4d77.5086711!16s%2Fg%2F11yjfrztsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chidri-hospital-bidar",
@@ -398,7 +401,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Chidri+Hospital/@17.9218418,77.517088,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec72a1be2f819:0xec2ec504d79c9614!8m2!3d17.9218418!4d77.517088!16s%2Fg%2F1hm3jmwyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chidri+Hospital/@17.9218418,77.517088,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec72a1be2f819:0xec2ec504d79c9614!8m2!3d17.9218418!4d77.517088!16s%2Fg%2F1hm3jmwyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -467,7 +470,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chidri+Hospital/@17.9218418,77.517088,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec72a1be2f819:0xec2ec504d79c9614!8m2!3d17.9218418!4d77.517088!16s%2Fg%2F1hm3jmwyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gudage-hospital-bidar",
@@ -516,7 +520,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gudage+Hospital/@17.9148503,77.5127992,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d82ae5d1ab:0x7ef867ab52c06a50!8m2!3d17.9148503!4d77.5127992!16s%2Fg%2F11b6bgbp_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gudage+Hospital/@17.9148503,77.5127992,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d82ae5d1ab:0x7ef867ab52c06a50!8m2!3d17.9148503!4d77.5127992!16s%2Fg%2F11b6bgbp_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -585,7 +589,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gudage+Hospital/@17.9148503,77.5127992,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d82ae5d1ab:0x7ef867ab52c06a50!8m2!3d17.9148503!4d77.5127992!16s%2Fg%2F11b6bgbp_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healing-tree-hospital-bidar",
@@ -634,7 +639,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healing+Tree+Hospital/@17.9165622,77.5131948,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec744e51c2b7b:0x962231ada867d5c4!8m2!3d17.9165622!4d77.5131948!16s%2Fg%2F11nfm79m32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healing+Tree+Hospital/@17.9165622,77.5131948,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec744e51c2b7b:0x962231ada867d5c4!8m2!3d17.9165622!4d77.5131948!16s%2Fg%2F11nfm79m32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -703,7 +708,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healing+Tree+Hospital/@17.9165622,77.5131948,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec744e51c2b7b:0x962231ada867d5c4!8m2!3d17.9165622!4d77.5131948!16s%2Fg%2F11nfm79m32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "navjeevan-hospital-bidar-bidar",
@@ -751,7 +757,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/NAVJEEVAN+HOSPITAL+BIDAR/@17.9193573,77.5179114,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec77c2b43c667:0x132611be18a356f4!8m2!3d17.9193573!4d77.5179114!16s%2Fg%2F11n5hgt4bf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NAVJEEVAN+HOSPITAL+BIDAR/@17.9193573,77.5179114,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec77c2b43c667:0x132611be18a356f4!8m2!3d17.9193573!4d77.5179114!16s%2Fg%2F11n5hgt4bf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -820,7 +826,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NAVJEEVAN+HOSPITAL+BIDAR/@17.9193573,77.5179114,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec77c2b43c667:0x132611be18a356f4!8m2!3d17.9193573!4d77.5179114!16s%2Fg%2F11n5hgt4bf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pulse-hospital-bidar",
@@ -868,7 +875,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/PULSE+HOSPITAL/@17.9166553,77.5126004,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec7bb7f4d724b:0x2ffc3e85a19c3e92!8m2!3d17.9166553!4d77.5126004!16s%2Fg%2F11lgdn7kb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PULSE+HOSPITAL/@17.9166553,77.5126004,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec7bb7f4d724b:0x2ffc3e85a19c3e92!8m2!3d17.9166553!4d77.5126004!16s%2Fg%2F11lgdn7kb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -937,7 +944,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PULSE+HOSPITAL/@17.9166553,77.5126004,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec7bb7f4d724b:0x2ffc3e85a19c3e92!8m2!3d17.9166553!4d77.5126004!16s%2Fg%2F11lgdn7kb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-preet-bhalke-hospital-bidar",
@@ -986,7 +994,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Preet+Bhalke+Hospital/@17.918667,77.5080102,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d105963b7b:0x37891a1f9ef9e80f!8m2!3d17.918667!4d77.5080102!16s%2Fg%2F11b69_dr23?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Preet+Bhalke+Hospital/@17.918667,77.5080102,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d105963b7b:0x37891a1f9ef9e80f!8m2!3d17.918667!4d77.5080102!16s%2Fg%2F11b69_dr23?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1052,10 +1060,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Preet+Bhalke+Hospital/@17.918667,77.5080102,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d105963b7b:0x37891a1f9ef9e80f!8m2!3d17.918667!4d77.5080102!16s%2Fg%2F11b69_dr23?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sehat-speciality-clinic-bidar",
@@ -1105,7 +1114,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sehat+Speciality+Clinic/@17.9139953,77.522092,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec79a3ab447c9:0xa5d3806606513e1b!8m2!3d17.9139953!4d77.522092!16s%2Fg%2F11hdy4cfdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sehat+Speciality+Clinic/@17.9139953,77.522092,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec79a3ab447c9:0xa5d3806606513e1b!8m2!3d17.9139953!4d77.522092!16s%2Fg%2F11hdy4cfdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1171,10 +1180,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sehat+Speciality+Clinic/@17.9139953,77.522092,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec79a3ab447c9:0xa5d3806606513e1b!8m2!3d17.9139953!4d77.522092!16s%2Fg%2F11hdy4cfdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vasu-hospital-bidar",
@@ -1223,7 +1233,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vasu+Hospital/@17.901908,77.5166871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec729126591b3:0xb13f29bc0f9d05b4!8m2!3d17.901908!4d77.5166871!16s%2Fg%2F1hhnshsm_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vasu+Hospital/@17.901908,77.5166871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec729126591b3:0xb13f29bc0f9d05b4!8m2!3d17.901908!4d77.5166871!16s%2Fg%2F1hhnshsm_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1292,7 +1302,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vasu+Hospital/@17.901908,77.5166871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec729126591b3:0xb13f29bc0f9d05b4!8m2!3d17.901908!4d77.5166871!16s%2Fg%2F1hhnshsm_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vishwa-hospital-bidar",
@@ -1341,7 +1352,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vishwa+Hospital/@17.9195998,77.5079454,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d83e68ec49:0x2c2d7b11f93915c0!8m2!3d17.9195998!4d77.5079454!16s%2Fg%2F11f3rgp1lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishwa+Hospital/@17.9195998,77.5079454,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d83e68ec49:0x2c2d7b11f93915c0!8m2!3d17.9195998!4d77.5079454!16s%2Fg%2F11f3rgp1lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1410,6 +1421,7 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vishwa+Hospital/@17.9195998,77.5079454,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcec6d83e68ec49:0x2c2d7b11f93915c0!8m2!3d17.9195998!4d77.5079454!16s%2Fg%2F11f3rgp1lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

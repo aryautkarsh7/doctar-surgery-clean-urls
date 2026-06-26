@@ -43,7 +43,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%22ENDOLASE%22+ADVANCED+ENDODONTICS,+DENTAL+LASER+%26+IMPLANT+CENTRE+./data=!4m7!3m6!1s0x3bbf61c78df4de21:0x52ae424da24025c!8m2!3d15.8765473!4d74.5298497!16s%2Fg%2F11nhnvlgm8!19sChIJId70jcdhvzsRXAIk2iTkKgU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%22ENDOLASE%22+ADVANCED+ENDODONTICS,+DENTAL+LASER+%26+IMPLANT+CENTRE+./data=!4m7!3m6!1s0x3bbf61c78df4de21:0x52ae424da24025c!8m2!3d15.8765473!4d74.5298497!16s%2Fg%2F11nhnvlgm8!19sChIJId70jcdhvzsRXAIk2iTkKgU?authuser=0&hl=en&rclk=1"
@@ -109,10 +109,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%22ENDOLASE%22+ADVANCED+ENDODONTICS,+DENTAL+LASER+%26+IMPLANT+CENTRE+./data=!4m7!3m6!1s0x3bbf61c78df4de21:0x52ae424da24025c!8m2!3d15.8765473!4d74.5298497!16s%2Fg%2F11nhnvlgm8!19sChIJId70jcdhvzsRXAIk2iTkKgU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "5sn-polyclinic-and-face-aesthetic-clinic-best-in-belagavi-hindalgi",
@@ -160,7 +161,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/5SN+polyclinic+and+face+aesthetic+clinic%7C+Best+in+Belagavi/data=!4m7!3m6!1s0x3bbf657ecaac0fd1:0xd38cebbedacc7067!8m2!3d15.8647019!4d74.4823613!16s%2Fg%2F11k42sg8k3!19sChIJ0Q-syn5lvzsRZ3DM2r7rjNM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/5SN+polyclinic+and+face+aesthetic+clinic%7C+Best+in+Belagavi/data=!4m7!3m6!1s0x3bbf657ecaac0fd1:0xd38cebbedacc7067!8m2!3d15.8647019!4d74.4823613!16s%2Fg%2F11k42sg8k3!19sChIJ0Q-syn5lvzsRZ3DM2r7rjNM?authuser=0&hl=en&rclk=1"
@@ -226,10 +227,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/5SN+polyclinic+and+face+aesthetic+clinic%7C+Best+in+Belagavi/data=!4m7!3m6!1s0x3bbf657ecaac0fd1:0xd38cebbedacc7067!8m2!3d15.8647019!4d74.4823613!16s%2Fg%2F11k42sg8k3!19sChIJ0Q-syn5lvzsRZ3DM2r7rjNM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aarya-clinic-belagavi",
@@ -277,7 +279,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aarya+clinic/data=!4m7!3m6!1s0x3bbf610045f376d3:0xbdade3c522c38234!8m2!3d15.8859297!4d74.5127287!16s%2Fg%2F11x0dmkq18!19sChIJ03bzRQBhvzsRNILDIsXjrb0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarya+clinic/data=!4m7!3m6!1s0x3bbf610045f376d3:0xbdade3c522c38234!8m2!3d15.8859297!4d74.5127287!16s%2Fg%2F11x0dmkq18!19sChIJ03bzRQBhvzsRNILDIsXjrb0?authuser=0&hl=en&rclk=1"
@@ -343,10 +345,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aarya+clinic/data=!4m7!3m6!1s0x3bbf610045f376d3:0xbdade3c522c38234!8m2!3d15.8859297!4d74.5127287!16s%2Fg%2F11x0dmkq18!19sChIJ03bzRQBhvzsRNILDIsXjrb0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aaryan-clinic-general-and-ortho-care-belagavi",
@@ -395,7 +398,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aaryan+Clinic,+General+%26+Ortho+Care/data=!4m7!3m6!1s0x3bbf614fe7b55e75:0x4e971248850008ce!8m2!3d15.880144!4d74.52901!16s%2Fg%2F11wh6t4dl0!19sChIJdV61509hvzsRzggAhUgSl04?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aaryan+Clinic,+General+%26+Ortho+Care/data=!4m7!3m6!1s0x3bbf614fe7b55e75:0x4e971248850008ce!8m2!3d15.880144!4d74.52901!16s%2Fg%2F11wh6t4dl0!19sChIJdV61509hvzsRzggAhUgSl04?authuser=0&hl=en&rclk=1"
@@ -461,10 +464,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aaryan+Clinic,+General+%26+Ortho+Care/data=!4m7!3m6!1s0x3bbf614fe7b55e75:0x4e971248850008ce!8m2!3d15.880144!4d74.52901!16s%2Fg%2F11wh6t4dl0!19sChIJdV61509hvzsRzggAhUgSl04?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "advance-hair-transplant-clinic-belagavi-cantonment",
@@ -514,7 +518,7 @@
       "17+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Advance+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3bbf67c1b1436267:0xdd492d7013129a9!8m2!3d15.8655221!4d74.5203941!16s%2Fg%2F11f5prtks1!19sChIJZ2JDscFnvzsRqSkxAdeS1A0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3bbf67c1b1436267:0xdd492d7013129a9!8m2!3d15.8655221!4d74.5203941!16s%2Fg%2F11f5prtks1!19sChIJZ2JDscFnvzsRqSkxAdeS1A0?authuser=0&hl=en&rclk=1"
@@ -580,10 +584,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 17,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3bbf67c1b1436267:0xdd492d7013129a9!8m2!3d15.8655221!4d74.5203941!16s%2Fg%2F11f5prtks1!19sChIJZ2JDscFnvzsRqSkxAdeS1A0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "akshaya-hospital-belagavi",
@@ -633,7 +638,7 @@
       "Google rating 4.3",
       "29+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Akshaya+Hospital/data=!4m7!3m6!1s0x3bbf668526ee0f09:0x60192fdb16fb23f9!8m2!3d15.8387363!4d74.5084917!16s%2Fg%2F11dylxpf75!19sChIJCQ_uJoVmvzsR-SP7FtsvGWA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akshaya+Hospital/data=!4m7!3m6!1s0x3bbf668526ee0f09:0x60192fdb16fb23f9!8m2!3d15.8387363!4d74.5084917!16s%2Fg%2F11dylxpf75!19sChIJCQ_uJoVmvzsR-SP7FtsvGWA?authuser=0&hl=en&rclk=1"
@@ -702,7 +707,8 @@
     "rating": 4.3,
     "reviews": 29,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Akshaya+Hospital/data=!4m7!3m6!1s0x3bbf668526ee0f09:0x60192fdb16fb23f9!8m2!3d15.8387363!4d74.5084917!16s%2Fg%2F11dylxpf75!19sChIJCQ_uJoVmvzsR-SP7FtsvGWA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "al-hayat-hospital-belagavi",
@@ -750,7 +756,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Al-Hayat+Hospital/data=!4m7!3m6!1s0x3bbf66b02202d83b:0xdca09a7b18b6a92!8m2!3d15.8641551!4d74.5114245!16s%2Fg%2F11ddwttj7p!19sChIJO9gCIrBmvzsRkmqLsacJyg0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Al-Hayat+Hospital/data=!4m7!3m6!1s0x3bbf66b02202d83b:0xdca09a7b18b6a92!8m2!3d15.8641551!4d74.5114245!16s%2Fg%2F11ddwttj7p!19sChIJO9gCIrBmvzsRkmqLsacJyg0?authuser=0&hl=en&rclk=1"
@@ -819,7 +825,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Al-Hayat+Hospital/data=!4m7!3m6!1s0x3bbf66b02202d83b:0xdca09a7b18b6a92!8m2!3d15.8641551!4d74.5114245!16s%2Fg%2F11ddwttj7p!19sChIJO9gCIrBmvzsRkmqLsacJyg0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "align-physiotherapy-clinic-belagavi",
@@ -868,7 +875,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/ALIGN+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bbf6568e1a9e01d:0x752885365351cf95!8m2!3d15.8077834!4d74.4870292!16s%2Fg%2F11zkp_thrn!19sChIJHeCp4WhlvzsRlc9RUzaFKHU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ALIGN+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bbf6568e1a9e01d:0x752885365351cf95!8m2!3d15.8077834!4d74.4870292!16s%2Fg%2F11zkp_thrn!19sChIJHeCp4WhlvzsRlc9RUzaFKHU?authuser=0&hl=en&rclk=1"
@@ -937,7 +944,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ALIGN+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bbf6568e1a9e01d:0x752885365351cf95!8m2!3d15.8077834!4d74.4870292!16s%2Fg%2F11zkp_thrn!19sChIJHeCp4WhlvzsRlc9RUzaFKHU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ankur-polyclinic-belgaum-advanced-neuro-and-spine-surgery-belagavi",
@@ -988,7 +996,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ankur+Polyclinic%28Belgaum+Advanced+Neuro+%26+Spine+surgery%29/data=!4m7!3m6!1s0x3bbf66b271fa5999:0xc06d1d5345d66c57!8m2!3d15.8754033!4d74.5135579!16s%2Fg%2F11j007y7d6!19sChIJmVn6cbJmvzsRV2zWRVMdbcA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ankur+Polyclinic%28Belgaum+Advanced+Neuro+%26+Spine+surgery%29/data=!4m7!3m6!1s0x3bbf66b271fa5999:0xc06d1d5345d66c57!8m2!3d15.8754033!4d74.5135579!16s%2Fg%2F11j007y7d6!19sChIJmVn6cbJmvzsRV2zWRVMdbcA?authuser=0&hl=en&rclk=1"
@@ -1054,10 +1062,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ankur+Polyclinic%28Belgaum+Advanced+Neuro+%26+Spine+surgery%29/data=!4m7!3m6!1s0x3bbf66b271fa5999:0xc06d1d5345d66c57!8m2!3d15.8754033!4d74.5135579!16s%2Fg%2F11j007y7d6!19sChIJmVn6cbJmvzsRV2zWRVMdbcA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ankur-skin-clinic-belagavi",
@@ -1105,7 +1114,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Ankur+Skin+Clinic/data=!4m7!3m6!1s0x3bbf67da7a35b215:0xc492634d399b01a3!8m2!3d15.861656!4d74.5076188!16s%2Fg%2F11gxxgs02t!19sChIJFbI1etpnvzsRowGbOU1jksQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ankur+Skin+Clinic/data=!4m7!3m6!1s0x3bbf67da7a35b215:0xc492634d399b01a3!8m2!3d15.861656!4d74.5076188!16s%2Fg%2F11gxxgs02t!19sChIJFbI1etpnvzsRowGbOU1jksQ?authuser=0&hl=en&rclk=1"
@@ -1174,7 +1183,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ankur+Skin+Clinic/data=!4m7!3m6!1s0x3bbf67da7a35b215:0xc492634d399b01a3!8m2!3d15.861656!4d74.5076188!16s%2Fg%2F11gxxgs02t!19sChIJFbI1etpnvzsRowGbOU1jksQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "anupama-dental-clinic-belagavi",
@@ -1222,7 +1232,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Anupama+Dental+Clinic/data=!4m7!3m6!1s0x3bbf61fd61df602b:0xd69c993c21d34c4d!8m2!3d15.8899541!4d74.5116438!16s%2Fg%2F11l35nctz8!19sChIJK2DfYf1hvzsRTUzTITyZnNY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anupama+Dental+Clinic/data=!4m7!3m6!1s0x3bbf61fd61df602b:0xd69c993c21d34c4d!8m2!3d15.8899541!4d74.5116438!16s%2Fg%2F11l35nctz8!19sChIJK2DfYf1hvzsRTUzTITyZnNY?authuser=0&hl=en&rclk=1"
@@ -1288,10 +1298,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anupama+Dental+Clinic/data=!4m7!3m6!1s0x3bbf61fd61df602b:0xd69c993c21d34c4d!8m2!3d15.8899541!4d74.5116438!16s%2Fg%2F11l35nctz8!19sChIJK2DfYf1hvzsRTUzTITyZnNY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apex-polyclinic-executive-health-checkup-center-belagavi",
@@ -1340,7 +1351,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/APEX+POLYCLINIC+Executive+Health+Checkup+Center/data=!4m7!3m6!1s0x3bbf612595f7e08f:0x9bbdab61b83e5894!8m2!3d15.8752069!4d74.5092064!16s%2Fg%2F11rzfqddwp!19sChIJj-D3lSVhvzsRlFg-uGGrvZs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/APEX+POLYCLINIC+Executive+Health+Checkup+Center/data=!4m7!3m6!1s0x3bbf612595f7e08f:0x9bbdab61b83e5894!8m2!3d15.8752069!4d74.5092064!16s%2Fg%2F11rzfqddwp!19sChIJj-D3lSVhvzsRlFg-uGGrvZs?authuser=0&hl=en&rclk=1"
@@ -1409,7 +1420,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/APEX+POLYCLINIC+Executive+Health+Checkup+Center/data=!4m7!3m6!1s0x3bbf612595f7e08f:0x9bbdab61b83e5894!8m2!3d15.8752069!4d74.5092064!16s%2Fg%2F11rzfqddwp!19sChIJj-D3lSVhvzsRlFg-uGGrvZs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apollo-proton-therapy-in-belgaum-belagavi-cantonment",
@@ -1458,7 +1470,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Belgaum/data=!4m7!3m6!1s0x3bbf67f14622e8af:0xc481f8115071032f!8m2!3d15.857828!4d74.506387!16s%2Fg%2F11xs76b7zy!19sChIJr-giRvFnvzsRLwNxUBH4gcQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Belgaum/data=!4m7!3m6!1s0x3bbf67f14622e8af:0xc481f8115071032f!8m2!3d15.857828!4d74.506387!16s%2Fg%2F11xs76b7zy!19sChIJr-giRvFnvzsRLwNxUBH4gcQ?authuser=0&hl=en&rclk=1"
@@ -1524,10 +1536,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Belgaum/data=!4m7!3m6!1s0x3bbf67f14622e8af:0xc481f8115071032f!8m2!3d15.857828!4d74.506387!16s%2Fg%2F11xs76b7zy!19sChIJr-giRvFnvzsRLwNxUBH4gcQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ashok-hospital-belagavi-belagavi",
@@ -1576,7 +1589,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ashok+Hospital+Belagavi/data=!4m7!3m6!1s0x3bbf66b49e7dcefb:0x8604182267405a3!8m2!3d15.8727048!4d74.5172112!16s%2Fg%2F11cs0rl61m!19sChIJ-859nrRmvzsRowV0JoJBYAg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashok+Hospital+Belagavi/data=!4m7!3m6!1s0x3bbf66b49e7dcefb:0x8604182267405a3!8m2!3d15.8727048!4d74.5172112!16s%2Fg%2F11cs0rl61m!19sChIJ-859nrRmvzsRowV0JoJBYAg?authuser=0&hl=en&rclk=1"
@@ -1642,10 +1655,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashok+Hospital+Belagavi/data=!4m7!3m6!1s0x3bbf66b49e7dcefb:0x8604182267405a3!8m2!3d15.8727048!4d74.5172112!16s%2Fg%2F11cs0rl61m!19sChIJ-859nrRmvzsRowV0JoJBYAg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "athani-polyclinic-and-day-care-belagavi",
@@ -1693,7 +1707,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ATHANI+POLYCLINIC+%26+DAY+CARE/data=!4m7!3m6!1s0x3bbf640a0b95c2ed:0xde97d18d8268272!8m2!3d15.8716282!4d74.4806493!16s%2Fg%2F11ld92qw98!19sChIJ7cKVCwpkvzsRcoIm2Bh96Q0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ATHANI+POLYCLINIC+%26+DAY+CARE/data=!4m7!3m6!1s0x3bbf640a0b95c2ed:0xde97d18d8268272!8m2!3d15.8716282!4d74.4806493!16s%2Fg%2F11ld92qw98!19sChIJ7cKVCwpkvzsRcoIm2Bh96Q0?authuser=0&hl=en&rclk=1"
@@ -1759,10 +1773,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ATHANI+POLYCLINIC+%26+DAY+CARE/data=!4m7!3m6!1s0x3bbf640a0b95c2ed:0xde97d18d8268272!8m2!3d15.8716282!4d74.4806493!16s%2Fg%2F11ld92qw98!19sChIJ7cKVCwpkvzsRcoIm2Bh96Q0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ayushyaman-healthcare-clinic-belagavi",
@@ -1810,7 +1825,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ayushyaman+Healthcare+Clinic/data=!4m7!3m6!1s0x3bbf66af9ff39e1d:0x4d2f48e5751fed1c!8m2!3d15.8638928!4d74.5083221!16s%2Fg%2F11c37z606t!19sChIJHZ7zn69mvzsRHO0fdeVIL00?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayushyaman+Healthcare+Clinic/data=!4m7!3m6!1s0x3bbf66af9ff39e1d:0x4d2f48e5751fed1c!8m2!3d15.8638928!4d74.5083221!16s%2Fg%2F11c37z606t!19sChIJHZ7zn69mvzsRHO0fdeVIL00?authuser=0&hl=en&rclk=1"
@@ -1876,10 +1891,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayushyaman+Healthcare+Clinic/data=!4m7!3m6!1s0x3bbf66af9ff39e1d:0x4d2f48e5751fed1c!8m2!3d15.8638928!4d74.5083221!16s%2Fg%2F11c37z606t!19sChIJHZ7zn69mvzsRHO0fdeVIL00?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bankapure-s-dental-clinic-belagavi",
@@ -1928,7 +1944,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Bankapure%27s+Dental+Clinic/data=!4m7!3m6!1s0x3bbf67e757d0435f:0xba91e106e2880222!8m2!3d15.8491381!4d74.5161447!16s%2Fg%2F1tf34dcj!19sChIJX0PQV-dnvzsRIgKI4gbhkbo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bankapure%27s+Dental+Clinic/data=!4m7!3m6!1s0x3bbf67e757d0435f:0xba91e106e2880222!8m2!3d15.8491381!4d74.5161447!16s%2Fg%2F1tf34dcj!19sChIJX0PQV-dnvzsRIgKI4gbhkbo?authuser=0&hl=en&rclk=1"
@@ -1997,7 +2013,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bankapure%27s+Dental+Clinic/data=!4m7!3m6!1s0x3bbf67e757d0435f:0xba91e106e2880222!8m2!3d15.8491381!4d74.5161447!16s%2Fg%2F1tf34dcj!19sChIJX0PQV-dnvzsRIgKI4gbhkbo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "basava-polyclinic-belagavi",
@@ -2045,7 +2062,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Basava+Polyclinic/data=!4m7!3m6!1s0x3bbf670046a0c78f:0x9acb3e6bb6ffcc0a!8m2!3d15.8505992!4d74.5144151!16s%2Fg%2F11xtbcy8fn!19sChIJj8egRgBnvzsRCsz_tms-y5o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Basava+Polyclinic/data=!4m7!3m6!1s0x3bbf670046a0c78f:0x9acb3e6bb6ffcc0a!8m2!3d15.8505992!4d74.5144151!16s%2Fg%2F11xtbcy8fn!19sChIJj8egRgBnvzsRCsz_tms-y5o?authuser=0&hl=en&rclk=1"
@@ -2111,10 +2128,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Basava+Polyclinic/data=!4m7!3m6!1s0x3bbf670046a0c78f:0x9acb3e6bb6ffcc0a!8m2!3d15.8505992!4d74.5144151!16s%2Fg%2F11xtbcy8fn!19sChIJj8egRgBnvzsRCsz_tms-y5o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "basava-polyclinic-heart-and-surgical-care-centre-belagavi",
@@ -2163,7 +2181,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Basava+Polyclinic+Heart+%26+Surgical+Care+Centre/data=!4m7!3m6!1s0x3bbf670030ebc72b:0x5e8e24335f81b617!8m2!3d15.8506309!4d74.5143502!16s%2Fg%2F11yjsvbw4r!19sChIJK8frMABnvzsRF7aBXzMkjl4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Basava+Polyclinic+Heart+%26+Surgical+Care+Centre/data=!4m7!3m6!1s0x3bbf670030ebc72b:0x5e8e24335f81b617!8m2!3d15.8506309!4d74.5143502!16s%2Fg%2F11yjsvbw4r!19sChIJK8frMABnvzsRF7aBXzMkjl4?authuser=0&hl=en&rclk=1"
@@ -2232,7 +2250,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Basava+Polyclinic+Heart+%26+Surgical+Care+Centre/data=!4m7!3m6!1s0x3bbf670030ebc72b:0x5e8e24335f81b617!8m2!3d15.8506309!4d74.5143502!16s%2Fg%2F11yjsvbw4r!19sChIJK8frMABnvzsRF7aBXzMkjl4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "behere-s-physiotherapy-clinic-gayatri-behere-ashwini-behere-belagavi",
@@ -2281,7 +2300,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Behere%27s+Physiotherapy+clinic-+Gayatri+Behere,+Ashwini+Behere/data=!4m7!3m6!1s0x3bbf668277e2a30d:0xdb10164f18e2325b!8m2!3d15.8359959!4d74.499843!16s%2Fg%2F1td51wqm!19sChIJDaPid4JmvzsRWzLiGE8WENs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Behere%27s+Physiotherapy+clinic-+Gayatri+Behere,+Ashwini+Behere/data=!4m7!3m6!1s0x3bbf668277e2a30d:0xdb10164f18e2325b!8m2!3d15.8359959!4d74.499843!16s%2Fg%2F1td51wqm!19sChIJDaPid4JmvzsRWzLiGE8WENs?authuser=0&hl=en&rclk=1"
@@ -2350,7 +2369,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Behere%27s+Physiotherapy+clinic-+Gayatri+Behere,+Ashwini+Behere/data=!4m7!3m6!1s0x3bbf668277e2a30d:0xdb10164f18e2325b!8m2!3d15.8359959!4d74.499843!16s%2Fg%2F1td51wqm!19sChIJDaPid4JmvzsRWzLiGE8WENs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "belgaum-cancer-hospital-belagavi",
@@ -2399,7 +2419,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Belgaum+Cancer+Hospital/data=!4m7!3m6!1s0x3bbf61531d69f8cf:0x36469512c2fe219a!8m2!3d15.8722842!4d74.5277165!16s%2Fg%2F11pbrfb_x7!19sChIJz_hpHVNhvzsRmiH-whKVRjY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Belgaum+Cancer+Hospital/data=!4m7!3m6!1s0x3bbf61531d69f8cf:0x36469512c2fe219a!8m2!3d15.8722842!4d74.5277165!16s%2Fg%2F11pbrfb_x7!19sChIJz_hpHVNhvzsRmiH-whKVRjY?authuser=0&hl=en&rclk=1"
@@ -2465,10 +2485,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Belgaum+Cancer+Hospital/data=!4m7!3m6!1s0x3bbf61531d69f8cf:0x36469512c2fe219a!8m2!3d15.8722842!4d74.5277165!16s%2Fg%2F11pbrfb_x7!19sChIJz_hpHVNhvzsRmiH-whKVRjY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "belgaum-clinic-general-and-surgical-belagavi",
@@ -2514,7 +2535,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Belgaum+Clinic-+General+and+Surgical/data=!4m7!3m6!1s0x3bbf66ba0dc14e5f:0x81c3462877ceebf9!8m2!3d15.8624416!4d74.5158224!16s%2Fg%2F1tgwl3wl!19sChIJX07BDbpmvzsR-evOdyhGw4E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Belgaum+Clinic-+General+and+Surgical/data=!4m7!3m6!1s0x3bbf66ba0dc14e5f:0x81c3462877ceebf9!8m2!3d15.8624416!4d74.5158224!16s%2Fg%2F1tgwl3wl!19sChIJX07BDbpmvzsR-evOdyhGw4E?authuser=0&hl=en&rclk=1"
@@ -2580,10 +2601,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Belgaum+Clinic-+General+and+Surgical/data=!4m7!3m6!1s0x3bbf66ba0dc14e5f:0x81c3462877ceebf9!8m2!3d15.8624416!4d74.5158224!16s%2Fg%2F1tgwl3wl!19sChIJX07BDbpmvzsR-evOdyhGw4E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "belgaum-dental-care-belagavi",
@@ -2632,7 +2654,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Belgaum+Dental+Care/data=!4m7!3m6!1s0x3bbf66baee067791:0x9f8fa6c034fcc375!8m2!3d15.8629214!4d74.5076361!16s%2Fg%2F11dxf16098!19sChIJkXcG7rpmvzsRdcP8NMCmj58?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Belgaum+Dental+Care/data=!4m7!3m6!1s0x3bbf66baee067791:0x9f8fa6c034fcc375!8m2!3d15.8629214!4d74.5076361!16s%2Fg%2F11dxf16098!19sChIJkXcG7rpmvzsRdcP8NMCmj58?authuser=0&hl=en&rclk=1"
@@ -2701,7 +2723,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Belgaum+Dental+Care/data=!4m7!3m6!1s0x3bbf66baee067791:0x9f8fa6c034fcc375!8m2!3d15.8629214!4d74.5076361!16s%2Fg%2F11dxf16098!19sChIJkXcG7rpmvzsRdcP8NMCmj58?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "belgaum-women-s-hospital-belagavi",
@@ -2750,7 +2773,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Belgaum+women%27s+Hospital/data=!4m7!3m6!1s0x3bbf67fcfffcfbd5:0x8bc4e65462cc1d7a!8m2!3d15.8440157!4d74.5079628!16s%2Fg%2F11ptxwvpg8!19sChIJ1fv8__xnvzsReh3MYlTmxIs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Belgaum+women%27s+Hospital/data=!4m7!3m6!1s0x3bbf67fcfffcfbd5:0x8bc4e65462cc1d7a!8m2!3d15.8440157!4d74.5079628!16s%2Fg%2F11ptxwvpg8!19sChIJ1fv8__xnvzsReh3MYlTmxIs?authuser=0&hl=en&rclk=1"
@@ -2819,7 +2842,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Belgaum+women%27s+Hospital/data=!4m7!3m6!1s0x3bbf67fcfffcfbd5:0x8bc4e65462cc1d7a!8m2!3d15.8440157!4d74.5079628!16s%2Fg%2F11ptxwvpg8!19sChIJ1fv8__xnvzsReh3MYlTmxIs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bhs-lakeview-hospital-belagavi",
@@ -2868,7 +2892,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BHS+Lakeview+Hospital/data=!4m7!3m6!1s0x3bbf66c625965b83:0x21ab45db75b588ce!8m2!3d15.8634235!4d74.5265588!16s%2Fg%2F1hm5zftp0!19sChIJg1uWJcZmvzsRzoi1ddtFqyE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BHS+Lakeview+Hospital/data=!4m7!3m6!1s0x3bbf66c625965b83:0x21ab45db75b588ce!8m2!3d15.8634235!4d74.5265588!16s%2Fg%2F1hm5zftp0!19sChIJg1uWJcZmvzsRzoi1ddtFqyE?authuser=0&hl=en&rclk=1"
@@ -2934,10 +2958,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BHS+Lakeview+Hospital/data=!4m7!3m6!1s0x3bbf66c625965b83:0x21ab45db75b588ce!8m2!3d15.8634235!4d74.5265588!16s%2Fg%2F1hm5zftp0!19sChIJg1uWJcZmvzsRzoi1ddtFqyE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cantonment-general-hospital-belagavi-cantonment",
@@ -2985,7 +3010,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Cantonment+General+Hospital/data=!4m7!3m6!1s0x3bbf66a267b391a9:0x681a2977e4ae4f0c!8m2!3d15.8524041!4d74.5075553!16s%2Fg%2F1tgxrzy9!19sChIJqZGzZ6JmvzsRDE-u5HcpGmg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cantonment+General+Hospital/data=!4m7!3m6!1s0x3bbf66a267b391a9:0x681a2977e4ae4f0c!8m2!3d15.8524041!4d74.5075553!16s%2Fg%2F1tgxrzy9!19sChIJqZGzZ6JmvzsRDE-u5HcpGmg?authuser=0&hl=en&rclk=1"
@@ -3054,7 +3079,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cantonment+General+Hospital/data=!4m7!3m6!1s0x3bbf66a267b391a9:0x681a2977e4ae4f0c!8m2!3d15.8524041!4d74.5075553!16s%2Fg%2F1tgxrzy9!19sChIJqZGzZ6JmvzsRDE-u5HcpGmg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chavan-hospital-benakanhalli",
@@ -3102,7 +3128,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Chavan+Hospital/data=!4m7!3m6!1s0x3bbf647343fe68b9:0xb0f58911dd247392!8m2!3d15.8647028!4d74.474892!16s%2Fg%2F1pp2vf1j7!19sChIJuWj-Q3NkvzsRknMk3RGJ9bA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chavan+Hospital/data=!4m7!3m6!1s0x3bbf647343fe68b9:0xb0f58911dd247392!8m2!3d15.8647028!4d74.474892!16s%2Fg%2F1pp2vf1j7!19sChIJuWj-Q3NkvzsRknMk3RGJ9bA?authuser=0&hl=en&rclk=1"
@@ -3171,7 +3197,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chavan+Hospital/data=!4m7!3m6!1s0x3bbf647343fe68b9:0xb0f58911dd247392!8m2!3d15.8647028!4d74.474892!16s%2Fg%2F1pp2vf1j7!19sChIJuWj-Q3NkvzsRknMk3RGJ9bA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chintamani-hospital-maternity-belagavi-cantonment",
@@ -3221,7 +3248,7 @@
       "Google rating 5.0",
       "3+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Chintamani+Hospital+Maternity/data=!4m7!3m6!1s0x3bbf669f5095362f:0x78060cf1b92016c2!8m2!3d15.85036!4d74.504669!16s%2Fg%2F1tjmc2zn!19sChIJLzaVUJ9mvzsRwhYgufEMBng?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chintamani+Hospital+Maternity/data=!4m7!3m6!1s0x3bbf669f5095362f:0x78060cf1b92016c2!8m2!3d15.85036!4d74.504669!16s%2Fg%2F1tjmc2zn!19sChIJLzaVUJ9mvzsRwhYgufEMBng?authuser=0&hl=en&rclk=1"
@@ -3287,10 +3314,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chintamani+Hospital+Maternity/data=!4m7!3m6!1s0x3bbf669f5095362f:0x78060cf1b92016c2!8m2!3d15.85036!4d74.504669!16s%2Fg%2F1tjmc2zn!19sChIJLzaVUJ9mvzsRwhYgufEMBng?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "city-hospital-maternity-home-belagavi",
@@ -3338,7 +3366,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/City+Hospital+Maternity+Home/data=!4m7!3m6!1s0x3bbf67c8c072ee1b:0x3c54bc28f5f2d76c!8m2!3d15.8633356!4d74.5153434!16s%2Fg%2F11gy30zxmb!19sChIJG-5ywMhnvzsRbNfy9Si8VDw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Hospital+Maternity+Home/data=!4m7!3m6!1s0x3bbf67c8c072ee1b:0x3c54bc28f5f2d76c!8m2!3d15.8633356!4d74.5153434!16s%2Fg%2F11gy30zxmb!19sChIJG-5ywMhnvzsRbNfy9Si8VDw?authuser=0&hl=en&rclk=1"
@@ -3407,7 +3435,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Hospital+Maternity+Home/data=!4m7!3m6!1s0x3bbf67c8c072ee1b:0x3c54bc28f5f2d76c!8m2!3d15.8633356!4d74.5153434!16s%2Fg%2F11gy30zxmb!19sChIJG-5ywMhnvzsRbNfy9Si8VDw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "civil-hospital-belagavi",
@@ -3456,7 +3485,7 @@
       "Google rating 3.3",
       "9+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Civil+Hospital/data=!4m7!3m6!1s0x3bbf66ae02e4b7bd:0xe03143fe040f0a07!8m2!3d15.8683106!4d74.5113339!16s%2Fg%2F1tgpr1h6!19sChIJvbfkAq5mvzsRBwoPBP5DMeA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Civil+Hospital/data=!4m7!3m6!1s0x3bbf66ae02e4b7bd:0xe03143fe040f0a07!8m2!3d15.8683106!4d74.5113339!16s%2Fg%2F1tgpr1h6!19sChIJvbfkAq5mvzsRBwoPBP5DMeA?authuser=0&hl=en&rclk=1"
@@ -3525,7 +3554,8 @@
     "rating": 3.3,
     "reviews": 9,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Civil+Hospital/data=!4m7!3m6!1s0x3bbf66ae02e4b7bd:0xe03143fe040f0a07!8m2!3d15.8683106!4d74.5113339!16s%2Fg%2F1tgpr1h6!19sChIJvbfkAq5mvzsRBwoPBP5DMeA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cosmocraft-belagavi",
@@ -3573,7 +3603,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Cosmocraft/data=!4m7!3m6!1s0x3bbf67152fc73fab:0x14b0680360d2d650!8m2!3d15.8770167!4d74.5152251!16s%2Fg%2F11f65839f_!19sChIJqz_HLxVnvzsRUNbSYANosBQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmocraft/data=!4m7!3m6!1s0x3bbf67152fc73fab:0x14b0680360d2d650!8m2!3d15.8770167!4d74.5152251!16s%2Fg%2F11f65839f_!19sChIJqz_HLxVnvzsRUNbSYANosBQ?authuser=0&hl=en&rclk=1"
@@ -3642,7 +3672,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmocraft/data=!4m7!3m6!1s0x3bbf67152fc73fab:0x14b0680360d2d650!8m2!3d15.8770167!4d74.5152251!16s%2Fg%2F11f65839f_!19sChIJqz_HLxVnvzsRUNbSYANosBQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cosmokey-clinic-best-cosmetologist-in-belagavi-belagavi",
@@ -3691,7 +3722,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Cosmokey+Clinic+%7C+Best+Cosmetologist+in+Belagavi/data=!4m7!3m6!1s0x3bbf6757c91f6151:0x9940fe0bcfbe11e7!8m2!3d15.8671962!4d74.5285095!16s%2Fg%2F11t3ttpf68!19sChIJUWEfyVdnvzsR5xG-zwv-QJk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmokey+Clinic+%7C+Best+Cosmetologist+in+Belagavi/data=!4m7!3m6!1s0x3bbf6757c91f6151:0x9940fe0bcfbe11e7!8m2!3d15.8671962!4d74.5285095!16s%2Fg%2F11t3ttpf68!19sChIJUWEfyVdnvzsR5xG-zwv-QJk?authuser=0&hl=en&rclk=1"
@@ -3757,10 +3788,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmokey+Clinic+%7C+Best+Cosmetologist+in+Belagavi/data=!4m7!3m6!1s0x3bbf6757c91f6151:0x9940fe0bcfbe11e7!8m2!3d15.8671962!4d74.5285095!16s%2Fg%2F11t3ttpf68!19sChIJUWEfyVdnvzsR5xG-zwv-QJk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dantavardhini-dental-centre-invisalign-and-implants-belagavi",
@@ -3809,7 +3841,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dantavardhini+Dental+Centre+%E2%80%93+Invisalign+%26+Implants/data=!4m7!3m6!1s0x3bbf6700072df329:0x4cb4249f2050a46b!8m2!3d15.8418744!4d74.5096804!16s%2Fg%2F11lypk2qm9!19sChIJKfMtBwBnvzsRa6RQIJ8ktEw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dantavardhini+Dental+Centre+%E2%80%93+Invisalign+%26+Implants/data=!4m7!3m6!1s0x3bbf6700072df329:0x4cb4249f2050a46b!8m2!3d15.8418744!4d74.5096804!16s%2Fg%2F11lypk2qm9!19sChIJKfMtBwBnvzsRa6RQIJ8ktEw?authuser=0&hl=en&rclk=1"
@@ -3878,7 +3910,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dantavardhini+Dental+Centre+%E2%80%93+Invisalign+%26+Implants/data=!4m7!3m6!1s0x3bbf6700072df329:0x4cb4249f2050a46b!8m2!3d15.8418744!4d74.5096804!16s%2Fg%2F11lypk2qm9!19sChIJKfMtBwBnvzsRa6RQIJ8ktEw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "danushree-specialty-dental-clinic-implant-and-laser-centre-belagavi",
@@ -3927,7 +3960,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Danushree+Specialty+Dental+Clinic:+Implant+%26+Laser+Centre/data=!4m7!3m6!1s0x3bbf61498f9828bb:0x73b9bc0541d90449!8m2!3d15.8811607!4d74.5208295!16s%2Fg%2F11f3jt1bjq!19sChIJuyiYj0lhvzsRSQTZQQW8uXM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Danushree+Specialty+Dental+Clinic:+Implant+%26+Laser+Centre/data=!4m7!3m6!1s0x3bbf61498f9828bb:0x73b9bc0541d90449!8m2!3d15.8811607!4d74.5208295!16s%2Fg%2F11f3jt1bjq!19sChIJuyiYj0lhvzsRSQTZQQW8uXM?authuser=0&hl=en&rclk=1"
@@ -3993,10 +4026,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Danushree+Specialty+Dental+Clinic:+Implant+%26+Laser+Centre/data=!4m7!3m6!1s0x3bbf61498f9828bb:0x73b9bc0541d90449!8m2!3d15.8811607!4d74.5208295!16s%2Fg%2F11f3jt1bjq!19sChIJuyiYj0lhvzsRSQTZQQW8uXM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "deesha-physiotherapy-clinic-belagavi",
@@ -4046,7 +4080,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Deesha+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bbf66a588c11003:0xe98e980b10a9ddc0!8m2!3d15.8770746!4d74.5151332!16s%2Fg%2F11b5r8bqx3!19sChIJAxDBiKVmvzsRwN2pEAuYjuk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deesha+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bbf66a588c11003:0xe98e980b10a9ddc0!8m2!3d15.8770746!4d74.5151332!16s%2Fg%2F11b5r8bqx3!19sChIJAxDBiKVmvzsRwN2pEAuYjuk?authuser=0&hl=en&rclk=1"
@@ -4115,7 +4149,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deesha+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bbf66a588c11003:0xe98e980b10a9ddc0!8m2!3d15.8770746!4d74.5151332!16s%2Fg%2F11b5r8bqx3!19sChIJAxDBiKVmvzsRwN2pEAuYjuk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "disha-daignostic-and-cardiac-center-belagavi",
@@ -4164,7 +4199,7 @@
     "metrics": [
       "Google rating 2.4"
     ],
-    "image": "https://www.google.com/maps/place/Disha+Daignostic+and+Cardiac+Center/data=!4m7!3m6!1s0x3bbf66bccb3ffff9:0xcadcd8957b5afa82!8m2!3d15.8553049!4d74.5112635!16s%2Fg%2F11hbr486b3!19sChIJ-f8_y7xmvzsRgvpae5XY3Mo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Disha+Daignostic+and+Cardiac+Center/data=!4m7!3m6!1s0x3bbf66bccb3ffff9:0xcadcd8957b5afa82!8m2!3d15.8553049!4d74.5112635!16s%2Fg%2F11hbr486b3!19sChIJ-f8_y7xmvzsRgvpae5XY3Mo?authuser=0&hl=en&rclk=1"
@@ -4233,7 +4268,8 @@
     "rating": 2.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Disha+Daignostic+and+Cardiac+Center/data=!4m7!3m6!1s0x3bbf66bccb3ffff9:0xcadcd8957b5afa82!8m2!3d15.8553049!4d74.5112635!16s%2Fg%2F11hbr486b3!19sChIJ-f8_y7xmvzsRgvpae5XY3Mo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "drahosmani-diabetes-and-kidney-care-center-belagavi",
@@ -4282,7 +4318,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Drahosmani+Diabetes+and+kidney+care+center/data=!4m7!3m6!1s0x3bbf6708fd367fd3:0x9d9a54d59d4713d3!8m2!3d15.8450417!4d74.5167939!16s%2Fg%2F11kh4ktyb0!19sChIJ0382_QhnvzsR0xNHndVUmp0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Drahosmani+Diabetes+and+kidney+care+center/data=!4m7!3m6!1s0x3bbf6708fd367fd3:0x9d9a54d59d4713d3!8m2!3d15.8450417!4d74.5167939!16s%2Fg%2F11kh4ktyb0!19sChIJ0382_QhnvzsR0xNHndVUmp0?authuser=0&hl=en&rclk=1"
@@ -4348,10 +4384,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Drahosmani+Diabetes+and+kidney+care+center/data=!4m7!3m6!1s0x3bbf6708fd367fd3:0x9d9a54d59d4713d3!8m2!3d15.8450417!4d74.5167939!16s%2Fg%2F11kh4ktyb0!19sChIJ0382_QhnvzsR0xNHndVUmp0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "echs-belagavi-cantonment",
@@ -4399,7 +4436,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/ECHS/data=!4m7!3m6!1s0x3bbf641ca6ce2bb7:0xa8df586906335b00!8m2!3d15.8603062!4d74.4937888!16s%2Fg%2F11dxh_v2dd!19sChIJtyvOphxkvzsRAFszBmlY36g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ECHS/data=!4m7!3m6!1s0x3bbf641ca6ce2bb7:0xa8df586906335b00!8m2!3d15.8603062!4d74.4937888!16s%2Fg%2F11dxh_v2dd!19sChIJtyvOphxkvzsRAFszBmlY36g?authuser=0&hl=en&rclk=1"
@@ -4468,7 +4505,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ECHS/data=!4m7!3m6!1s0x3bbf641ca6ce2bb7:0xa8df586906335b00!8m2!3d15.8603062!4d74.4937888!16s%2Fg%2F11dxh_v2dd!19sChIJtyvOphxkvzsRAFszBmlY36g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "essentials-clinic-belagavi",
@@ -4516,7 +4554,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Essentials+clinic/data=!4m7!3m6!1s0x3bbf6186b746c155:0xbc78a7a3ee5912e1!8m2!3d15.8841895!4d74.5089894!16s%2Fg%2F11sbfby33z!19sChIJVcFGt4ZhvzsR4RJZ7qOneLw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Essentials+clinic/data=!4m7!3m6!1s0x3bbf6186b746c155:0xbc78a7a3ee5912e1!8m2!3d15.8841895!4d74.5089894!16s%2Fg%2F11sbfby33z!19sChIJVcFGt4ZhvzsR4RJZ7qOneLw?authuser=0&hl=en&rclk=1"
@@ -4585,7 +4623,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Essentials+clinic/data=!4m7!3m6!1s0x3bbf6186b746c155:0xbc78a7a3ee5912e1!8m2!3d15.8841895!4d74.5089894!16s%2Fg%2F11sbfby33z!19sChIJVcFGt4ZhvzsR4RJZ7qOneLw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "fit-for-tooth-dental-clinic-belagavi",
@@ -4635,7 +4674,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Fit+For+Tooth+Dental+Clinic/data=!4m7!3m6!1s0x443e51f636d374a1:0xdcc8ca1c88f7b521!8m2!3d15.8766104!4d74.4928085!16s%2Fg%2F11y621yt7v!19sChIJoXTTNvZRPkQRIbX3iBzKyNw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fit+For+Tooth+Dental+Clinic/data=!4m7!3m6!1s0x443e51f636d374a1:0xdcc8ca1c88f7b521!8m2!3d15.8766104!4d74.4928085!16s%2Fg%2F11y621yt7v!19sChIJoXTTNvZRPkQRIbX3iBzKyNw?authuser=0&hl=en&rclk=1"
@@ -4704,7 +4743,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fit+For+Tooth+Dental+Clinic/data=!4m7!3m6!1s0x443e51f636d374a1:0xdcc8ca1c88f7b521!8m2!3d15.8766104!4d74.4928085!16s%2Fg%2F11y621yt7v!19sChIJoXTTNvZRPkQRIbX3iBzKyNw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ganga-surgical-and-fracture-clinic-gokak",
@@ -4753,7 +4793,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ganga+surgical+and+fracture+clinic/data=!4m7!3m6!1s0x3bc0afd4a7b9362d:0x2e9340f4c72ca5b5!8m2!3d16.16581!4d74.8264789!16s%2Fg%2F11csp71130!19sChIJLTa5p9SvwDsRtaUsx_RAky4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ganga+surgical+and+fracture+clinic/data=!4m7!3m6!1s0x3bc0afd4a7b9362d:0x2e9340f4c72ca5b5!8m2!3d16.16581!4d74.8264789!16s%2Fg%2F11csp71130!19sChIJLTa5p9SvwDsRtaUsx_RAky4?authuser=0&hl=en&rclk=1"
@@ -4822,7 +4862,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ganga+surgical+and+fracture+clinic/data=!4m7!3m6!1s0x3bc0afd4a7b9362d:0x2e9340f4c72ca5b5!8m2!3d16.16581!4d74.8264789!16s%2Fg%2F11csp71130!19sChIJLTa5p9SvwDsRtaUsx_RAky4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gawas-clinic-belagavi",
@@ -4870,7 +4911,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/GAWAS+CLINIC/data=!4m7!3m6!1s0x3bbf6760bb23447b:0x25725c8847edc71c!8m2!3d15.8637147!4d74.5147383!16s%2Fg%2F11pwv4k668!19sChIJe0Qju2BnvzsRHMftR4hcciU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GAWAS+CLINIC/data=!4m7!3m6!1s0x3bbf6760bb23447b:0x25725c8847edc71c!8m2!3d15.8637147!4d74.5147383!16s%2Fg%2F11pwv4k668!19sChIJe0Qju2BnvzsRHMftR4hcciU?authuser=0&hl=en&rclk=1"
@@ -4936,10 +4977,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GAWAS+CLINIC/data=!4m7!3m6!1s0x3bbf6760bb23447b:0x25725c8847edc71c!8m2!3d15.8637147!4d74.5147383!16s%2Fg%2F11pwv4k668!19sChIJe0Qju2BnvzsRHMftR4hcciU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "german-piles-belagavi",
@@ -4985,7 +5027,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/German+piles/data=!4m7!3m6!1s0x3bbf670d31eb7a0b:0xdeffaac62c63a544!8m2!3d15.8279337!4d74.5171618!16s%2Fg%2F11j016clyv!19sChIJC3rrMQ1nvzsRRKVjLMaq_94?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/German+piles/data=!4m7!3m6!1s0x3bbf670d31eb7a0b:0xdeffaac62c63a544!8m2!3d15.8279337!4d74.5171618!16s%2Fg%2F11j016clyv!19sChIJC3rrMQ1nvzsRRKVjLMaq_94?authuser=0&hl=en&rclk=1"
@@ -5051,10 +5093,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/German+piles/data=!4m7!3m6!1s0x3bbf670d31eb7a0b:0xdeffaac62c63a544!8m2!3d15.8279337!4d74.5171618!16s%2Fg%2F11j016clyv!19sChIJC3rrMQ1nvzsRRKVjLMaq_94?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gizare-maternity-hospital-belagavi",
@@ -5105,7 +5148,7 @@
       "2+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gizare+Maternity+Hospital/data=!4m7!3m6!1s0x3bbf66a32b821397:0xfd21ed2b82f040db!8m2!3d15.8553535!4d74.5116019!16s%2Fg%2F11c707k0_s!19sChIJlxOCK6NmvzsR20DwgivtIf0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gizare+Maternity+Hospital/data=!4m7!3m6!1s0x3bbf66a32b821397:0xfd21ed2b82f040db!8m2!3d15.8553535!4d74.5116019!16s%2Fg%2F11c707k0_s!19sChIJlxOCK6NmvzsR20DwgivtIf0?authuser=0&hl=en&rclk=1"
@@ -5174,7 +5217,8 @@
     "rating": 4.3,
     "reviews": 2,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gizare+Maternity+Hospital/data=!4m7!3m6!1s0x3bbf66a32b821397:0xfd21ed2b82f040db!8m2!3d15.8553535!4d74.5116019!16s%2Fg%2F11c707k0_s!19sChIJlxOCK6NmvzsR20DwgivtIf0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gizare-prime-care-hospital-and-gizare-fertility-ivf-center-benakanhalli",
@@ -5224,7 +5268,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/GIZARE+PRIME+CARE+HOSPITAL+%26GIZARE+FERTILITY+IVF+CENTER/data=!4m7!3m6!1s0x3bbf65976f47d7cd:0x3a9b9375be13b0db!8m2!3d15.864393!4d74.4784564!16s%2Fg%2F11tstxkc2z!19sChIJzddHb5dlvzsR27ATvnWTmzo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GIZARE+PRIME+CARE+HOSPITAL+%26GIZARE+FERTILITY+IVF+CENTER/data=!4m7!3m6!1s0x3bbf65976f47d7cd:0x3a9b9375be13b0db!8m2!3d15.864393!4d74.4784564!16s%2Fg%2F11tstxkc2z!19sChIJzddHb5dlvzsR27ATvnWTmzo?authuser=0&hl=en&rclk=1"
@@ -5293,7 +5337,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GIZARE+PRIME+CARE+HOSPITAL+%26GIZARE+FERTILITY+IVF+CENTER/data=!4m7!3m6!1s0x3bbf65976f47d7cd:0x3a9b9375be13b0db!8m2!3d15.864393!4d74.4784564!16s%2Fg%2F11tstxkc2z!19sChIJzddHb5dlvzsR27ATvnWTmzo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hair-cpc-belagavi-belagavi",
@@ -5343,7 +5388,7 @@
       "2+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HAIR+CPC+Belagavi/data=!4m7!3m6!1s0x3bbf61bb7d063b41:0x2881a465b69bde16!8m2!3d15.8864927!4d74.5135524!16s%2Fg%2F11mtbbk6gq!19sChIJQTsGfbthvzsRFt6btmWkgSg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HAIR+CPC+Belagavi/data=!4m7!3m6!1s0x3bbf61bb7d063b41:0x2881a465b69bde16!8m2!3d15.8864927!4d74.5135524!16s%2Fg%2F11mtbbk6gq!19sChIJQTsGfbthvzsRFt6btmWkgSg?authuser=0&hl=en&rclk=1"
@@ -5409,10 +5454,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HAIR+CPC+Belagavi/data=!4m7!3m6!1s0x3bbf61bb7d063b41:0x2881a465b69bde16!8m2!3d15.8864927!4d74.5135524!16s%2Fg%2F11mtbbk6gq!19sChIJQTsGfbthvzsRFt6btmWkgSg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hanji-cancer-hospital-belagavi",
@@ -5460,7 +5506,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Hanji+Cancer+Hospital/data=!4m7!3m6!1s0x3bbf6683bb6ceba1:0x100b961a0339ef09!8m2!3d15.8355937!4d74.5033423!16s%2Fg%2F11c60ml1yg!19sChIJoetsu4NmvzsRCe85AxqWCxA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hanji+Cancer+Hospital/data=!4m7!3m6!1s0x3bbf6683bb6ceba1:0x100b961a0339ef09!8m2!3d15.8355937!4d74.5033423!16s%2Fg%2F11c60ml1yg!19sChIJoetsu4NmvzsRCe85AxqWCxA?authuser=0&hl=en&rclk=1"
@@ -5529,7 +5575,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hanji+Cancer+Hospital/data=!4m7!3m6!1s0x3bbf6683bb6ceba1:0x100b961a0339ef09!8m2!3d15.8355937!4d74.5033423!16s%2Fg%2F11c60ml1yg!19sChIJoetsu4NmvzsRCe85AxqWCxA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "happy-teeth-pediatric-and-family-dentistry-belagavi",
@@ -5577,7 +5624,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Happy+Teeth+Pediatric+%26+Family+Dentistry/data=!4m7!3m6!1s0x3bbf677e24d7a9f5:0xc4b45ead33eba4e4!8m2!3d15.8348783!4d74.5028945!16s%2Fg%2F11pzwzxsnm!19sChIJ9anXJH5nvzsR5KTrM61etMQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Happy+Teeth+Pediatric+%26+Family+Dentistry/data=!4m7!3m6!1s0x3bbf677e24d7a9f5:0xc4b45ead33eba4e4!8m2!3d15.8348783!4d74.5028945!16s%2Fg%2F11pzwzxsnm!19sChIJ9anXJH5nvzsR5KTrM61etMQ?authuser=0&hl=en&rclk=1"
@@ -5646,7 +5693,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Happy+Teeth+Pediatric+%26+Family+Dentistry/data=!4m7!3m6!1s0x3bbf677e24d7a9f5:0xc4b45ead33eba4e4!8m2!3d15.8348783!4d74.5028945!16s%2Fg%2F11pzwzxsnm!19sChIJ9anXJH5nvzsR5KTrM61etMQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hariom-health-care-benakanhalli",
@@ -5695,7 +5743,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hariom+Health+care/data=!4m7!3m6!1s0x3bbf65fa8ae3c0ff:0xf1d4b36db3b017a3!8m2!3d15.8639395!4d74.473157!16s%2Fg%2F11ghgxzgp0!19sChIJ_8DjivplvzsRoxews22z1PE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hariom+Health+care/data=!4m7!3m6!1s0x3bbf65fa8ae3c0ff:0xf1d4b36db3b017a3!8m2!3d15.8639395!4d74.473157!16s%2Fg%2F11ghgxzgp0!19sChIJ_8DjivplvzsRoxews22z1PE?authuser=0&hl=en&rclk=1"
@@ -5761,10 +5809,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hariom+Health+care/data=!4m7!3m6!1s0x3bbf65fa8ae3c0ff:0xf1d4b36db3b017a3!8m2!3d15.8639395!4d74.473157!16s%2Fg%2F11ghgxzgp0!19sChIJ_8DjivplvzsRoxews22z1PE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "harmony-clinics-empower-aesthetics-and-enhance-vitality-at-tilakwadi-belgaum-belagavi",
@@ -5813,7 +5862,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Harmony+Clinics+-+Empower+Aesthetics+%26+Enhance+Vitality+at+Tilakwadi+Belgaum/data=!4m7!3m6!1s0xa6d6c0f4eee9b9f1:0x9486fcff0d9d13a6!8m2!3d15.8377587!4d74.503493!16s%2Fg%2F11xf59xfz6!19sChIJ8bnp7vTA1qYRphOdDf_8hpQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Harmony+Clinics+-+Empower+Aesthetics+%26+Enhance+Vitality+at+Tilakwadi+Belgaum/data=!4m7!3m6!1s0xa6d6c0f4eee9b9f1:0x9486fcff0d9d13a6!8m2!3d15.8377587!4d74.503493!16s%2Fg%2F11xf59xfz6!19sChIJ8bnp7vTA1qYRphOdDf_8hpQ?authuser=0&hl=en&rclk=1"
@@ -5879,10 +5928,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Harmony+Clinics+-+Empower+Aesthetics+%26+Enhance+Vitality+at+Tilakwadi+Belgaum/data=!4m7!3m6!1s0xa6d6c0f4eee9b9f1:0x9486fcff0d9d13a6!8m2!3d15.8377587!4d74.503493!16s%2Fg%2F11xf59xfz6!19sChIJ8bnp7vTA1qYRphOdDf_8hpQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "healthy-smile-dental-clinic-belagavi",
@@ -5931,7 +5981,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic/data=!4m7!3m6!1s0x3bbf6683b3245251:0x282492af800c95fc!8m2!3d15.8354591!4d74.50244!16s%2Fg%2F11f00n_tdg!19sChIJUVIks4NmvzsR_JUMgK-SJCg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic/data=!4m7!3m6!1s0x3bbf6683b3245251:0x282492af800c95fc!8m2!3d15.8354591!4d74.50244!16s%2Fg%2F11f00n_tdg!19sChIJUVIks4NmvzsR_JUMgK-SJCg?authuser=0&hl=en&rclk=1"
@@ -6000,7 +6050,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic/data=!4m7!3m6!1s0x3bbf6683b3245251:0x282492af800c95fc!8m2!3d15.8354591!4d74.50244!16s%2Fg%2F11f00n_tdg!19sChIJUVIks4NmvzsR_JUMgK-SJCg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hhope-infertility-clinic-belagavi",
@@ -6050,7 +6101,7 @@
       "Google rating 5.0",
       "1087+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Hhope+Infertility+Clinic/data=!4m7!3m6!1s0x3bbf669f5095362f:0x38342343381543c1!8m2!3d15.8356866!4d74.5054562!16s%2Fg%2F1tm283vs!19sChIJLzaVUJ9mvzsRwUMVOEMjNDg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hhope+Infertility+Clinic/data=!4m7!3m6!1s0x3bbf669f5095362f:0x38342343381543c1!8m2!3d15.8356866!4d74.5054562!16s%2Fg%2F1tm283vs!19sChIJLzaVUJ9mvzsRwUMVOEMjNDg?authuser=0&hl=en&rclk=1"
@@ -6116,10 +6167,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 1087,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hhope+Infertility+Clinic/data=!4m7!3m6!1s0x3bbf669f5095362f:0x38342343381543c1!8m2!3d15.8356866!4d74.5054562!16s%2Fg%2F1tm283vs!19sChIJLzaVUJ9mvzsRwUMVOEMjNDg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "husna-clinic-belagavi",
@@ -6167,7 +6219,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Husna+Clinic/data=!4m7!3m6!1s0x3bbf67b84cde20ef:0xdae2e687d5e71529!8m2!3d15.8653907!4d74.510369!16s%2Fg%2F11g1s9yy8z!19sChIJ7yDeTLhnvzsRKRXn1Yfm4to?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Husna+Clinic/data=!4m7!3m6!1s0x3bbf67b84cde20ef:0xdae2e687d5e71529!8m2!3d15.8653907!4d74.510369!16s%2Fg%2F11g1s9yy8z!19sChIJ7yDeTLhnvzsRKRXn1Yfm4to?authuser=0&hl=en&rclk=1"
@@ -6236,7 +6288,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Husna+Clinic/data=!4m7!3m6!1s0x3bbf67b84cde20ef:0xdae2e687d5e71529!8m2!3d15.8653907!4d74.510369!16s%2Fg%2F11g1s9yy8z!19sChIJ7yDeTLhnvzsRKRXn1Yfm4to?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "inamdar-hospital-24x7-inamdar-s-joint-and-spine-care-clinic-belagavi",
@@ -6286,7 +6339,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Inamdar+hospital+24x7+Inamdar%27s+Joint+%26+Spine+care+Clinic/data=!4m7!3m6!1s0x3bbf66a59dfd5a95:0x90e52c1ad48bc11a!8m2!3d15.861264!4d74.5083709!16s%2Fg%2F11dxcjsgrd!19sChIJlVr9naVmvzsRGsGL1Bos5ZA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Inamdar+hospital+24x7+Inamdar%27s+Joint+%26+Spine+care+Clinic/data=!4m7!3m6!1s0x3bbf66a59dfd5a95:0x90e52c1ad48bc11a!8m2!3d15.861264!4d74.5083709!16s%2Fg%2F11dxcjsgrd!19sChIJlVr9naVmvzsRGsGL1Bos5ZA?authuser=0&hl=en&rclk=1"
@@ -6355,7 +6408,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Inamdar+hospital+24x7+Inamdar%27s+Joint+%26+Spine+care+Clinic/data=!4m7!3m6!1s0x3bbf66a59dfd5a95:0x90e52c1ad48bc11a!8m2!3d15.861264!4d74.5083709!16s%2Fg%2F11dxcjsgrd!19sChIJlVr9naVmvzsRGsGL1Bos5ZA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-belgaum-best-ivf-centre-belagavi",
@@ -6406,7 +6460,7 @@
       "1087+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Belgaum+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3bbf679534415653:0xd22d41b11e933ef!8m2!3d15.8612461!4d74.5077384!16s%2Fg%2F11rskdv0r4!19sChIJU1ZBNJVnvzsR7zPpERvUIg0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Belgaum+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3bbf679534415653:0xd22d41b11e933ef!8m2!3d15.8612461!4d74.5077384!16s%2Fg%2F11rskdv0r4!19sChIJU1ZBNJVnvzsR7zPpERvUIg0?authuser=0&hl=en&rclk=1"
@@ -6475,7 +6529,8 @@
     "rating": 4.9,
     "reviews": 1087,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Belgaum+-+Best+IVF+Centre/data=!4m7!3m6!1s0x3bbf679534415653:0xd22d41b11e933ef!8m2!3d15.8612461!4d74.5077384!16s%2Fg%2F11rskdv0r4!19sChIJU1ZBNJVnvzsR7zPpERvUIg0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "joshi-dental-care-belagavi",
@@ -6524,7 +6579,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Joshi+Dental+Care/data=!4m7!3m6!1s0x3bbf616b3cca5beb:0xb6eac2d2009957c3!8m2!3d15.8744678!4d74.5153284!16s%2Fg%2F11ssz915l6!19sChIJ61vKPGthvzsRw1eZANLC6rY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Joshi+Dental+Care/data=!4m7!3m6!1s0x3bbf616b3cca5beb:0xb6eac2d2009957c3!8m2!3d15.8744678!4d74.5153284!16s%2Fg%2F11ssz915l6!19sChIJ61vKPGthvzsRw1eZANLC6rY?authuser=0&hl=en&rclk=1"
@@ -6590,10 +6645,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Joshi+Dental+Care/data=!4m7!3m6!1s0x3bbf616b3cca5beb:0xb6eac2d2009957c3!8m2!3d15.8744678!4d74.5153284!16s%2Fg%2F11ssz915l6!19sChIJ61vKPGthvzsRw1eZANLC6rY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kidney-stone-clinic-belagavi",
@@ -6640,7 +6696,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Kidney+Stone+Clinic/data=!4m7!3m6!1s0x3bbf6683e4f6f6e3:0x9f8fea1f4767f67d!8m2!3d15.836551!4d74.5067239!16s%2Fg%2F11sj9tv8j8!19sChIJ4_b25INmvzsRffZnRx_qj58?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kidney+Stone+Clinic/data=!4m7!3m6!1s0x3bbf6683e4f6f6e3:0x9f8fea1f4767f67d!8m2!3d15.836551!4d74.5067239!16s%2Fg%2F11sj9tv8j8!19sChIJ4_b25INmvzsRffZnRx_qj58?authuser=0&hl=en&rclk=1"
@@ -6706,10 +6762,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kidney+Stone+Clinic/data=!4m7!3m6!1s0x3bbf6683e4f6f6e3:0x9f8fea1f4767f67d!8m2!3d15.836551!4d74.5067239!16s%2Fg%2F11sj9tv8j8!19sChIJ4_b25INmvzsRffZnRx_qj58?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kidneystone-clinic-belagavi",
@@ -6758,7 +6815,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/KidneyStone+Clinic/data=!4m7!3m6!1s0x3bbf67027aa1a569:0xc3f10e7834b46990!8m2!3d15.8364782!4d74.5066768!16s%2Fg%2F11fm6t7sbq!19sChIJaaWhegJnvzsRkGm0NHgO8cM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KidneyStone+Clinic/data=!4m7!3m6!1s0x3bbf67027aa1a569:0xc3f10e7834b46990!8m2!3d15.8364782!4d74.5066768!16s%2Fg%2F11fm6t7sbq!19sChIJaaWhegJnvzsRkGm0NHgO8cM?authuser=0&hl=en&rclk=1"
@@ -6827,7 +6884,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KidneyStone+Clinic/data=!4m7!3m6!1s0x3bbf67027aa1a569:0xc3f10e7834b46990!8m2!3d15.8364782!4d74.5066768!16s%2Fg%2F11fm6t7sbq!19sChIJaaWhegJnvzsRkGm0NHgO8cM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kids-heart-clinic-belagavi",
@@ -6876,7 +6934,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kids+Heart+Clinic/data=!4m7!3m6!1s0x3bbf6734e26072e1:0x623406d7ab9d603!8m2!3d15.8653276!4d74.5091802!16s%2Fg%2F11j4s4bcf8!19sChIJ4XJg4jRnvzsRA9a5em1AIwY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kids+Heart+Clinic/data=!4m7!3m6!1s0x3bbf6734e26072e1:0x623406d7ab9d603!8m2!3d15.8653276!4d74.5091802!16s%2Fg%2F11j4s4bcf8!19sChIJ4XJg4jRnvzsRA9a5em1AIwY?authuser=0&hl=en&rclk=1"
@@ -6942,10 +7000,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kids+Heart+Clinic/data=!4m7!3m6!1s0x3bbf6734e26072e1:0x623406d7ab9d603!8m2!3d15.8653276!4d74.5091802!16s%2Fg%2F11j4s4bcf8!19sChIJ4XJg4jRnvzsRA9a5em1AIwY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kle-cancer-hospital-belagavi",
@@ -6994,7 +7053,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KLE+Cancer+Hospital/data=!4m7!3m6!1s0x3bbf610074889103:0x4caa4ca97c2f9281!8m2!3d15.8889312!4d74.5183154!16s%2Fg%2F11wr93v_0x!19sChIJA5GIdABhvzsRgZIvfKlMqkw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KLE+Cancer+Hospital/data=!4m7!3m6!1s0x3bbf610074889103:0x4caa4ca97c2f9281!8m2!3d15.8889312!4d74.5183154!16s%2Fg%2F11wr93v_0x!19sChIJA5GIdABhvzsRgZIvfKlMqkw?authuser=0&hl=en&rclk=1"
@@ -7063,7 +7122,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KLE+Cancer+Hospital/data=!4m7!3m6!1s0x3bbf610074889103:0x4caa4ca97c2f9281!8m2!3d15.8889312!4d74.5183154!16s%2Fg%2F11wr93v_0x!19sChIJA5GIdABhvzsRgZIvfKlMqkw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kle-centenary-charitable-hospital-yellur-road-belagavi",
@@ -7113,7 +7173,7 @@
       "85+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KLE+Centenary+Charitable+Hospital,+Yellur+Road/data=!4m7!3m6!1s0x3bbf666603158fc9:0xfb60353267ebb6b8!8m2!3d15.8181428!4d74.5177657!16s%2Fg%2F11b747cf6k!19sChIJyY8VA2ZmvzsRuLbrZzI1YPs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KLE+Centenary+Charitable+Hospital,+Yellur+Road/data=!4m7!3m6!1s0x3bbf666603158fc9:0xfb60353267ebb6b8!8m2!3d15.8181428!4d74.5177657!16s%2Fg%2F11b747cf6k!19sChIJyY8VA2ZmvzsRuLbrZzI1YPs?authuser=0&hl=en&rclk=1"
@@ -7182,7 +7242,8 @@
     "rating": 4.6,
     "reviews": 85,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KLE+Centenary+Charitable+Hospital,+Yellur+Road/data=!4m7!3m6!1s0x3bbf666603158fc9:0xfb60353267ebb6b8!8m2!3d15.8181428!4d74.5177657!16s%2Fg%2F11b747cf6k!19sChIJyY8VA2ZmvzsRuLbrZzI1YPs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kle-surgery-ward-belagavi",
@@ -7230,7 +7291,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Kle+Surgery+Ward/data=!4m7!3m6!1s0x3bbf6146385c83a5:0xa3321898ff4c9b66!8m2!3d15.8874556!4d74.519101!16s%2Fg%2F11df7jrn31!19sChIJpYNcOEZhvzsRZptM_5gYMqM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kle+Surgery+Ward/data=!4m7!3m6!1s0x3bbf6146385c83a5:0xa3321898ff4c9b66!8m2!3d15.8874556!4d74.519101!16s%2Fg%2F11df7jrn31!19sChIJpYNcOEZhvzsRZptM_5gYMqM?authuser=0&hl=en&rclk=1"
@@ -7296,10 +7357,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kle+Surgery+Ward/data=!4m7!3m6!1s0x3bbf6146385c83a5:0xa3321898ff4c9b66!8m2!3d15.8874556!4d74.519101!16s%2Fg%2F11df7jrn31!19sChIJpYNcOEZhvzsRZptM_5gYMqM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kle-vk-institute-of-dental-sciences-belagavi-belagavi",
@@ -7349,7 +7411,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KLE+VK+Institute+of+Dental+sciences,+Belagavi/data=!4m7!3m6!1s0x3bbf614855555555:0xd71d9e980d0c7aa6!8m2!3d15.8816663!4d74.5167094!16s%2Fg%2F11btxjpvxs!19sChIJVVVVVUhhvzsRpnoMDZieHdc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KLE+VK+Institute+of+Dental+sciences,+Belagavi/data=!4m7!3m6!1s0x3bbf614855555555:0xd71d9e980d0c7aa6!8m2!3d15.8816663!4d74.5167094!16s%2Fg%2F11btxjpvxs!19sChIJVVVVVUhhvzsRpnoMDZieHdc?authuser=0&hl=en&rclk=1"
@@ -7418,7 +7480,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KLE+VK+Institute+of+Dental+sciences,+Belagavi/data=!4m7!3m6!1s0x3bbf614855555555:0xd71d9e980d0c7aa6!8m2!3d15.8816663!4d74.5167094!16s%2Fg%2F11btxjpvxs!19sChIJVVVVVUhhvzsRpnoMDZieHdc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kles-hospital-canteen-belagavi",
@@ -7468,7 +7531,7 @@
       "Google rating 2.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KLES+Hospital+Canteen/data=!4m7!3m6!1s0x3bbf61464e11cf93:0x3cb0aed9ee0edaa3!8m2!3d15.8882257!4d74.5195465!16s%2Fg%2F11df5bm540!19sChIJk88RTkZhvzsRo9oO7tmusDw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KLES+Hospital+Canteen/data=!4m7!3m6!1s0x3bbf61464e11cf93:0x3cb0aed9ee0edaa3!8m2!3d15.8882257!4d74.5195465!16s%2Fg%2F11df5bm540!19sChIJk88RTkZhvzsRo9oO7tmusDw?authuser=0&hl=en&rclk=1"
@@ -7537,7 +7600,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KLES+Hospital+Canteen/data=!4m7!3m6!1s0x3bbf61464e11cf93:0x3cb0aed9ee0edaa3!8m2!3d15.8882257!4d74.5195465!16s%2Fg%2F11df5bm540!19sChIJk88RTkZhvzsRo9oO7tmusDw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lakshminarayana-hospital-belgaum-belagavi",
@@ -7585,7 +7649,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Lakshminarayana+hospital+belgaum/data=!4m7!3m6!1s0x3bbf676bd6c8f727:0x203ac04a854dd2f8!8m2!3d15.8432965!4d74.5093326!16s%2Fg%2F11kr7qmt5g!19sChIJJ_fI1mtnvzsR-NJNhUrAOiA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lakshminarayana+hospital+belgaum/data=!4m7!3m6!1s0x3bbf676bd6c8f727:0x203ac04a854dd2f8!8m2!3d15.8432965!4d74.5093326!16s%2Fg%2F11kr7qmt5g!19sChIJJ_fI1mtnvzsR-NJNhUrAOiA?authuser=0&hl=en&rclk=1"
@@ -7654,7 +7718,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lakshminarayana+hospital+belgaum/data=!4m7!3m6!1s0x3bbf676bd6c8f727:0x203ac04a854dd2f8!8m2!3d15.8432965!4d74.5093326!16s%2Fg%2F11kr7qmt5g!19sChIJJ_fI1mtnvzsR-NJNhUrAOiA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lotus-hospital-belagavi",
@@ -7702,7 +7767,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Lotus+Hospital/data=!4m7!3m6!1s0x3bbf6500cd41de7f:0x6c24d165787d5ef5!8m2!3d15.8358943!4d74.4957767!16s%2Fg%2F11nmkb4vmj!19sChIJf95BzQBlvzsR9V59eGXRJGw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lotus+Hospital/data=!4m7!3m6!1s0x3bbf6500cd41de7f:0x6c24d165787d5ef5!8m2!3d15.8358943!4d74.4957767!16s%2Fg%2F11nmkb4vmj!19sChIJf95BzQBlvzsR9V59eGXRJGw?authuser=0&hl=en&rclk=1"
@@ -7771,7 +7836,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lotus+Hospital/data=!4m7!3m6!1s0x3bbf6500cd41de7f:0x6c24d165787d5ef5!8m2!3d15.8358943!4d74.4957767!16s%2Fg%2F11nmkb4vmj!19sChIJf95BzQBlvzsR9V59eGXRJGw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "madhavbaug-angol-road-clinic-belagavi",
@@ -7820,7 +7886,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Madhavbaug+-+Angol+Road+Clinic/data=!4m7!3m6!1s0x3bbf6776699e18ef:0xe7b3370b4a93ca13!8m2!3d15.8264608!4d74.5031517!16s%2Fg%2F11fmr5ym1h!19sChIJ7xieaXZnvzsRE8qTSgs3s-c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+-+Angol+Road+Clinic/data=!4m7!3m6!1s0x3bbf6776699e18ef:0xe7b3370b4a93ca13!8m2!3d15.8264608!4d74.5031517!16s%2Fg%2F11fmr5ym1h!19sChIJ7xieaXZnvzsRE8qTSgs3s-c?authuser=0&hl=en&rclk=1"
@@ -7889,7 +7955,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+-+Angol+Road+Clinic/data=!4m7!3m6!1s0x3bbf6776699e18ef:0xe7b3370b4a93ca13!8m2!3d15.8264608!4d74.5031517!16s%2Fg%2F11fmr5ym1h!19sChIJ7xieaXZnvzsRE8qTSgs3s-c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "madhavbaug-clinic-bogarves-belagavi-belagavi",
@@ -7939,7 +8006,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Madhavbaug+Clinic+-Bogarves+Belagavi/data=!4m7!3m6!1s0x3bbf66a5793b83eb:0x43a1f6fb96869e56!8m2!3d15.8604343!4d74.5080438!16s%2Fg%2F11bwqfzz34!19sChIJ64M7eaVmvzsRVp6Glvv2oUM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+Clinic+-Bogarves+Belagavi/data=!4m7!3m6!1s0x3bbf66a5793b83eb:0x43a1f6fb96869e56!8m2!3d15.8604343!4d74.5080438!16s%2Fg%2F11bwqfzz34!19sChIJ64M7eaVmvzsRVp6Glvv2oUM?authuser=0&hl=en&rclk=1"
@@ -8008,7 +8075,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+Clinic+-Bogarves+Belagavi/data=!4m7!3m6!1s0x3bbf66a5793b83eb:0x43a1f6fb96869e56!8m2!3d15.8604343!4d74.5080438!16s%2Fg%2F11bwqfzz34!19sChIJ64M7eaVmvzsRVp6Glvv2oUM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "madhavbaug-shahapur-branch-belagavi",
@@ -8056,7 +8124,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Madhavbaug+Shahapur,+Branch./data=!4m7!3m6!1s0x3bbf67fdca4b50e7:0x6d17ff5625fe5464!8m2!3d15.846576!4d74.5165717!16s%2Fg%2F11jl0840hm!19sChIJ51BLyv1nvzsRZFT-JVb_F20?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+Shahapur,+Branch./data=!4m7!3m6!1s0x3bbf67fdca4b50e7:0x6d17ff5625fe5464!8m2!3d15.846576!4d74.5165717!16s%2Fg%2F11jl0840hm!19sChIJ51BLyv1nvzsRZFT-JVb_F20?authuser=0&hl=en&rclk=1"
@@ -8122,10 +8190,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+Shahapur,+Branch./data=!4m7!3m6!1s0x3bbf67fdca4b50e7:0x6d17ff5625fe5464!8m2!3d15.846576!4d74.5165717!16s%2Fg%2F11jl0840hm!19sChIJ51BLyv1nvzsRZFT-JVb_F20?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-ramdev-circle-belagavi-belagavi",
@@ -8175,7 +8244,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%28Ramdev+Circle,+Belagavi%29/data=!4m7!3m6!1s0x3bbf61cc72ec9fc9:0x4f8017b660b0e90e!8m2!3d15.8790681!4d74.5192432!16s%2Fg%2F11gmwmjcgd!19sChIJyZ_scsxhvzsRDumwYLYXgE8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%28Ramdev+Circle,+Belagavi%29/data=!4m7!3m6!1s0x3bbf61cc72ec9fc9:0x4f8017b660b0e90e!8m2!3d15.8790681!4d74.5192432!16s%2Fg%2F11gmwmjcgd!19sChIJyZ_scsxhvzsRDumwYLYXgE8?authuser=0&hl=en&rclk=1"
@@ -8244,7 +8313,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%28Ramdev+Circle,+Belagavi%29/data=!4m7!3m6!1s0x3bbf61cc72ec9fc9:0x4f8017b660b0e90e!8m2!3d15.8790681!4d74.5192432!16s%2Fg%2F11gmwmjcgd!19sChIJyZ_scsxhvzsRDumwYLYXgE8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mahananda-speciality-clinic-belagavi",
@@ -8293,7 +8363,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/MAHANANDA+SPECIALITY+CLINIC/data=!4m7!3m6!1s0x3bbf67e71d1ceccf:0x16618d939e03e960!8m2!3d15.8728893!4d74.529129!16s%2Fg%2F11mvn_c12l!19sChIJz-wcHednvzsRYOkDnpONYRY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAHANANDA+SPECIALITY+CLINIC/data=!4m7!3m6!1s0x3bbf67e71d1ceccf:0x16618d939e03e960!8m2!3d15.8728893!4d74.529129!16s%2Fg%2F11mvn_c12l!19sChIJz-wcHednvzsRYOkDnpONYRY?authuser=0&hl=en&rclk=1"
@@ -8362,7 +8432,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MAHANANDA+SPECIALITY+CLINIC/data=!4m7!3m6!1s0x3bbf67e71d1ceccf:0x16618d939e03e960!8m2!3d15.8728893!4d74.529129!16s%2Fg%2F11mvn_c12l!19sChIJz-wcHednvzsRYOkDnpONYRY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mai-hospital-belagavi",
@@ -8411,7 +8482,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mai+Hospital/data=!4m7!3m6!1s0x3bbf6690f6bfc94f:0xc90dec86c7cd7142!8m2!3d15.8428742!4d74.5124058!16s%2Fg%2F1xgrld35!19sChIJT8m_9pBmvzsRQnHNx4bsDck?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mai+Hospital/data=!4m7!3m6!1s0x3bbf6690f6bfc94f:0xc90dec86c7cd7142!8m2!3d15.8428742!4d74.5124058!16s%2Fg%2F1xgrld35!19sChIJT8m_9pBmvzsRQnHNx4bsDck?authuser=0&hl=en&rclk=1"
@@ -8480,7 +8551,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mai+Hospital/data=!4m7!3m6!1s0x3bbf6690f6bfc94f:0xc90dec86c7cd7142!8m2!3d15.8428742!4d74.5124058!16s%2Fg%2F1xgrld35!19sChIJT8m_9pBmvzsRQnHNx4bsDck?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mangal-health-clinic-belagavi",
@@ -8528,7 +8600,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mangal+Health+Clinic/data=!4m7!3m6!1s0x3bbf66b0ed0ccfdb:0x977b6b3416627400!8m2!3d15.8645487!4d74.5149284!16s%2Fg%2F11g6yxsb4j!19sChIJ288M7bBmvzsRAHRiFjRre5c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangal+Health+Clinic/data=!4m7!3m6!1s0x3bbf66b0ed0ccfdb:0x977b6b3416627400!8m2!3d15.8645487!4d74.5149284!16s%2Fg%2F11g6yxsb4j!19sChIJ288M7bBmvzsRAHRiFjRre5c?authuser=0&hl=en&rclk=1"
@@ -8594,10 +8666,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangal+Health+Clinic/data=!4m7!3m6!1s0x3bbf66b0ed0ccfdb:0x977b6b3416627400!8m2!3d15.8645487!4d74.5149284!16s%2Fg%2F11g6yxsb4j!19sChIJ288M7bBmvzsRAHRiFjRre5c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "manjrekar-clinic-opd-for-manjrekar-maternity-and-nursing-home-belagavi-cantonment",
@@ -8647,7 +8720,7 @@
       "Google rating 4.9",
       "48+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Manjrekar+Clinic-+OPD+for+Manjrekar+Maternity+and+nursing+home/data=!4m7!3m6!1s0x3bbf67d89267b49f:0xe066077364ff211c!8m2!3d15.8609614!4d74.504891!16s%2Fg%2F11jfdqbg9_!19sChIJn7RnkthnvzsRHCH_ZHMHZuA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manjrekar+Clinic-+OPD+for+Manjrekar+Maternity+and+nursing+home/data=!4m7!3m6!1s0x3bbf67d89267b49f:0xe066077364ff211c!8m2!3d15.8609614!4d74.504891!16s%2Fg%2F11jfdqbg9_!19sChIJn7RnkthnvzsRHCH_ZHMHZuA?authuser=0&hl=en&rclk=1"
@@ -8716,7 +8789,8 @@
     "rating": 4.9,
     "reviews": 48,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manjrekar+Clinic-+OPD+for+Manjrekar+Maternity+and+nursing+home/data=!4m7!3m6!1s0x3bbf67d89267b49f:0xe066077364ff211c!8m2!3d15.8609614!4d74.504891!16s%2Fg%2F11jfdqbg9_!19sChIJn7RnkthnvzsRHCH_ZHMHZuA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "manjrekar-maternity-and-nursing-home-belagavi",
@@ -8765,7 +8839,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Manjrekar+Maternity+And+Nursing+Home/data=!4m7!3m6!1s0x3bbf66a515b8441d:0x2e9edd364b9182b!8m2!3d15.8620266!4d74.5101657!16s%2Fg%2F1td7rn33!19sChIJHUS4FaVmvzsRKxi5ZNPt6QI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manjrekar+Maternity+And+Nursing+Home/data=!4m7!3m6!1s0x3bbf66a515b8441d:0x2e9edd364b9182b!8m2!3d15.8620266!4d74.5101657!16s%2Fg%2F1td7rn33!19sChIJHUS4FaVmvzsRKxi5ZNPt6QI?authuser=0&hl=en&rclk=1"
@@ -8831,10 +8905,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manjrekar+Maternity+And+Nursing+Home/data=!4m7!3m6!1s0x3bbf66a515b8441d:0x2e9edd364b9182b!8m2!3d15.8620266!4d74.5101657!16s%2Fg%2F1td7rn33!19sChIJHUS4FaVmvzsRKxi5ZNPt6QI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maratha-mandal-s-nathajirao-g-halgekar-institute-of-dental-sciences-and-research-centre-belagavi-belagavi",
@@ -8884,7 +8959,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Maratha+Mandal%27s+Nathajirao+G+Halgekar+Institute+of+Dental+Sciences+and+Research+Centre,+Belagavi./data=!4m7!3m6!1s0x3bbf61573476e59d:0xcc8e7e225960de0a!8m2!3d15.8836676!4d74.5050995!16s%2Fg%2F1td1n9z1!19sChIJneV2NFdhvzsRCt5gWSJ-jsw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maratha+Mandal%27s+Nathajirao+G+Halgekar+Institute+of+Dental+Sciences+and+Research+Centre,+Belagavi./data=!4m7!3m6!1s0x3bbf61573476e59d:0xcc8e7e225960de0a!8m2!3d15.8836676!4d74.5050995!16s%2Fg%2F1td1n9z1!19sChIJneV2NFdhvzsRCt5gWSJ-jsw?authuser=0&hl=en&rclk=1"
@@ -8953,7 +9028,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maratha+Mandal%27s+Nathajirao+G+Halgekar+Institute+of+Dental+Sciences+and+Research+Centre,+Belagavi./data=!4m7!3m6!1s0x3bbf61573476e59d:0xcc8e7e225960de0a!8m2!3d15.8836676!4d74.5050995!16s%2Fg%2F1td1n9z1!19sChIJneV2NFdhvzsRCt5gWSJ-jsw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "metgud-hospital-advanced-laparoscopy-and-ivf-centre-belagavi",
@@ -9003,7 +9079,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/METGUD+HOSPITAL+-+Advanced+Laparoscopy+And+IVF+Centre/data=!4m7!3m6!1s0x3bbf67036421db3f:0xf1705bb01d5175d3!8m2!3d15.8668096!4d74.5284371!16s%2Fg%2F11gxmw9zg4!19sChIJP9shZANnvzsR03VRHbBbcPE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/METGUD+HOSPITAL+-+Advanced+Laparoscopy+And+IVF+Centre/data=!4m7!3m6!1s0x3bbf67036421db3f:0xf1705bb01d5175d3!8m2!3d15.8668096!4d74.5284371!16s%2Fg%2F11gxmw9zg4!19sChIJP9shZANnvzsR03VRHbBbcPE?authuser=0&hl=en&rclk=1"
@@ -9072,7 +9148,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/METGUD+HOSPITAL+-+Advanced+Laparoscopy+And+IVF+Centre/data=!4m7!3m6!1s0x3bbf67036421db3f:0xf1705bb01d5175d3!8m2!3d15.8668096!4d74.5284371!16s%2Fg%2F11gxmw9zg4!19sChIJP9shZANnvzsR03VRHbBbcPE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "metri-clinic-belagavi",
@@ -9121,7 +9198,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Metri+clinic/data=!4m7!3m6!1s0x3bbf678b726c7611:0x92c741a60ba71c70!8m2!3d15.8654912!4d74.5078323!16s%2Fg%2F11thh9wcgh!19sChIJEXZscotnvzsRcBynC6ZBx5I?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metri+clinic/data=!4m7!3m6!1s0x3bbf678b726c7611:0x92c741a60ba71c70!8m2!3d15.8654912!4d74.5078323!16s%2Fg%2F11thh9wcgh!19sChIJEXZscotnvzsRcBynC6ZBx5I?authuser=0&hl=en&rclk=1"
@@ -9187,10 +9264,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metri+clinic/data=!4m7!3m6!1s0x3bbf678b726c7611:0x92c741a60ba71c70!8m2!3d15.8654912!4d74.5078323!16s%2Fg%2F11thh9wcgh!19sChIJEXZscotnvzsRcBynC6ZBx5I?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "military-hospital-belagavi-belagavi-cantonment",
@@ -9238,7 +9316,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Military+hospital,+Belagavi/data=!4m7!3m6!1s0x3bbf659870d00a4b:0xdc3ffe2a0f9f608b!8m2!3d15.8619671!4d74.4941004!16s%2Fg%2F11vldr2k87!19sChIJSwrQcJhlvzsRi2CfDyr-P9w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Military+hospital,+Belagavi/data=!4m7!3m6!1s0x3bbf659870d00a4b:0xdc3ffe2a0f9f608b!8m2!3d15.8619671!4d74.4941004!16s%2Fg%2F11vldr2k87!19sChIJSwrQcJhlvzsRi2CfDyr-P9w?authuser=0&hl=en&rclk=1"
@@ -9307,7 +9385,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Military+hospital,+Belagavi/data=!4m7!3m6!1s0x3bbf659870d00a4b:0xdc3ffe2a0f9f608b!8m2!3d15.8619671!4d74.4941004!16s%2Fg%2F11vldr2k87!19sChIJSwrQcJhlvzsRi2CfDyr-P9w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "namita-clinic-belagavi",
@@ -9355,7 +9434,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Namita+Clinic/data=!4m7!3m6!1s0x3bbf6135070657db:0x84eebb97ecc99103!8m2!3d15.8778674!4d74.5240488!16s%2Fg%2F11cs5df1xr!19sChIJ21cGBzVhvzsRA5HJ7Je77oQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Namita+Clinic/data=!4m7!3m6!1s0x3bbf6135070657db:0x84eebb97ecc99103!8m2!3d15.8778674!4d74.5240488!16s%2Fg%2F11cs5df1xr!19sChIJ21cGBzVhvzsRA5HJ7Je77oQ?authuser=0&hl=en&rclk=1"
@@ -9424,7 +9503,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Namita+Clinic/data=!4m7!3m6!1s0x3bbf6135070657db:0x84eebb97ecc99103!8m2!3d15.8778674!4d74.5240488!16s%2Fg%2F11cs5df1xr!19sChIJ21cGBzVhvzsRA5HJ7Je77oQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nandadeep-eye-hospital-belagavi-belagavi",
@@ -9474,7 +9554,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nandadeep+Eye+Hospital,+Belagavi/data=!4m7!3m6!1s0x3bbf67615fe87b5f:0x6b5c5ffec99df877!8m2!3d15.838199!4d74.5075263!16s%2Fg%2F11r3f9bn60!19sChIJX3voX2FnvzsRd_idyf5fXGs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nandadeep+Eye+Hospital,+Belagavi/data=!4m7!3m6!1s0x3bbf67615fe87b5f:0x6b5c5ffec99df877!8m2!3d15.838199!4d74.5075263!16s%2Fg%2F11r3f9bn60!19sChIJX3voX2FnvzsRd_idyf5fXGs?authuser=0&hl=en&rclk=1"
@@ -9543,7 +9623,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nandadeep+Eye+Hospital,+Belagavi/data=!4m7!3m6!1s0x3bbf67615fe87b5f:0x6b5c5ffec99df877!8m2!3d15.838199!4d74.5075263!16s%2Fg%2F11r3f9bn60!19sChIJX3voX2FnvzsRd_idyf5fXGs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nandana-clinic-belagavi",
@@ -9591,7 +9672,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Nandana+clinic/data=!4m7!3m6!1s0x3bbf678dabb54165:0xf349265c5d3294b3!8m2!3d15.8504455!4d74.5165933!16s%2Fg%2F11sdcgmc1k!19sChIJZUG1q41nvzsRs5QyXVwmSfM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nandana+clinic/data=!4m7!3m6!1s0x3bbf678dabb54165:0xf349265c5d3294b3!8m2!3d15.8504455!4d74.5165933!16s%2Fg%2F11sdcgmc1k!19sChIJZUG1q41nvzsRs5QyXVwmSfM?authuser=0&hl=en&rclk=1"
@@ -9657,10 +9738,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nandana+clinic/data=!4m7!3m6!1s0x3bbf678dabb54165:0xf349265c5d3294b3!8m2!3d15.8504455!4d74.5165933!16s%2Fg%2F11sdcgmc1k!19sChIJZUG1q41nvzsRs5QyXVwmSfM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "naya-skin-clinic-belagavi",
@@ -9709,7 +9791,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Naya+Skin+Clinic/data=!4m7!3m6!1s0x3bbf677ee19e9181:0xbe17bba6ad40154d!8m2!3d15.843636!4d74.5014149!16s%2Fg%2F11svq6tmws!19sChIJgZGe4X5nvzsRTRVAraa7F74?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naya+Skin+Clinic/data=!4m7!3m6!1s0x3bbf677ee19e9181:0xbe17bba6ad40154d!8m2!3d15.843636!4d74.5014149!16s%2Fg%2F11svq6tmws!19sChIJgZGe4X5nvzsRTRVAraa7F74?authuser=0&hl=en&rclk=1"
@@ -9778,7 +9860,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Naya+Skin+Clinic/data=!4m7!3m6!1s0x3bbf677ee19e9181:0xbe17bba6ad40154d!8m2!3d15.843636!4d74.5014149!16s%2Fg%2F11svq6tmws!19sChIJgZGe4X5nvzsRTRVAraa7F74?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "new-life-hospital-belagavi",
@@ -9826,7 +9909,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/New+Life+Hospital/data=!4m7!3m6!1s0x3bbf674ed45a697f:0x1d75db4f4e16c54c!8m2!3d15.8692043!4d74.5221483!16s%2Fg%2F11h25y7jgn!19sChIJf2la1E5nvzsRTMUWTk_bdR0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Life+Hospital/data=!4m7!3m6!1s0x3bbf674ed45a697f:0x1d75db4f4e16c54c!8m2!3d15.8692043!4d74.5221483!16s%2Fg%2F11h25y7jgn!19sChIJf2la1E5nvzsRTMUWTk_bdR0?authuser=0&hl=en&rclk=1"
@@ -9892,10 +9975,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Life+Hospital/data=!4m7!3m6!1s0x3bbf674ed45a697f:0x1d75db4f4e16c54c!8m2!3d15.8692043!4d74.5221483!16s%2Fg%2F11h25y7jgn!19sChIJf2la1E5nvzsRTMUWTk_bdR0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "new-life-maternity-and-dental-polyclinic-belagavi",
@@ -9943,7 +10027,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/New+Life+Maternity+and+Dental+Polyclinic/data=!4m7!3m6!1s0x3bbf678f3932aced:0x1561978db4d99d4a!8m2!3d15.8712784!4d74.52649!16s%2Fg%2F11j43f2zkm!19sChIJ7awyOY9nvzsRSp3ZtI2XYRU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Life+Maternity+and+Dental+Polyclinic/data=!4m7!3m6!1s0x3bbf678f3932aced:0x1561978db4d99d4a!8m2!3d15.8712784!4d74.52649!16s%2Fg%2F11j43f2zkm!19sChIJ7awyOY9nvzsRSp3ZtI2XYRU?authuser=0&hl=en&rclk=1"
@@ -10012,7 +10096,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Life+Maternity+and+Dental+Polyclinic/data=!4m7!3m6!1s0x3bbf678f3932aced:0x1561978db4d99d4a!8m2!3d15.8712784!4d74.52649!16s%2Fg%2F11j43f2zkm!19sChIJ7awyOY9nvzsRSp3ZtI2XYRU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nomani-hospital-subash-nagar-belagavi",
@@ -10060,7 +10145,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/NOMANI+HOSPITAL+-+Subash+nagar/data=!4m7!3m6!1s0x3bbf6764ed1e7af3:0x57068c997b28c02c!8m2!3d15.8751792!4d74.5177246!16s%2Fg%2F11r3z3tg6p!19sChIJ83oe7WRnvzsRLMAoe5mMBlc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NOMANI+HOSPITAL+-+Subash+nagar/data=!4m7!3m6!1s0x3bbf6764ed1e7af3:0x57068c997b28c02c!8m2!3d15.8751792!4d74.5177246!16s%2Fg%2F11r3z3tg6p!19sChIJ83oe7WRnvzsRLMAoe5mMBlc?authuser=0&hl=en&rclk=1"
@@ -10129,7 +10214,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NOMANI+HOSPITAL+-+Subash+nagar/data=!4m7!3m6!1s0x3bbf6764ed1e7af3:0x57068c997b28c02c!8m2!3d15.8751792!4d74.5177246!16s%2Fg%2F11r3z3tg6p!19sChIJ83oe7WRnvzsRLMAoe5mMBlc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "oasis-fertility-best-ivf-centre-in-belagavi-belagavi",
@@ -10179,7 +10265,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Oasis+Fertility-+Best+IVF+Centre+in+Belagavi/data=!4m7!3m6!1s0x3bbf67158e6ec465:0x46795e5f0599ec8e!8m2!3d15.8368442!4d74.5062239!16s%2Fg%2F11sv__lz4h!19sChIJZcRujhVnvzsRjuyZBV9eeUY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oasis+Fertility-+Best+IVF+Centre+in+Belagavi/data=!4m7!3m6!1s0x3bbf67158e6ec465:0x46795e5f0599ec8e!8m2!3d15.8368442!4d74.5062239!16s%2Fg%2F11sv__lz4h!19sChIJZcRujhVnvzsRjuyZBV9eeUY?authuser=0&hl=en&rclk=1"
@@ -10245,10 +10331,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oasis+Fertility-+Best+IVF+Centre+in+Belagavi/data=!4m7!3m6!1s0x3bbf67158e6ec465:0x46795e5f0599ec8e!8m2!3d15.8368442!4d74.5062239!16s%2Fg%2F11sv__lz4h!19sChIJZcRujhVnvzsRjuyZBV9eeUY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "one-dentall-aligners-and-implant-dental-centre-belagavi",
@@ -10297,7 +10384,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/One+dentall+,+Aligners+and+implant+Dental+centre/data=!4m7!3m6!1s0x3bbf6684e8e8e725:0x137c50e9cbb4ed0!8m2!3d15.8377686!4d74.5076965!16s%2Fg%2F11bzs3yzn0!19sChIJJefo6IRmvzsR0E67nA7FNwE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/One+dentall+,+Aligners+and+implant+Dental+centre/data=!4m7!3m6!1s0x3bbf6684e8e8e725:0x137c50e9cbb4ed0!8m2!3d15.8377686!4d74.5076965!16s%2Fg%2F11bzs3yzn0!19sChIJJefo6IRmvzsR0E67nA7FNwE?authuser=0&hl=en&rclk=1"
@@ -10366,7 +10453,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/One+dentall+,+Aligners+and+implant+Dental+centre/data=!4m7!3m6!1s0x3bbf6684e8e8e725:0x137c50e9cbb4ed0!8m2!3d15.8377686!4d74.5076965!16s%2Fg%2F11bzs3yzn0!19sChIJJefo6IRmvzsR0E67nA7FNwE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "parmekar-ent-and-general-clinic-belagavi",
@@ -10414,7 +10502,7 @@
     "metrics": [
       "Google rating 1.3"
     ],
-    "image": "https://www.google.com/maps/place/Parmekar+ENT+and+general+clinic/data=!4m7!3m6!1s0x3bbf66a4c299f575:0xa800657ec7710ba5!8m2!3d15.8584684!4d74.5090195!16s%2Fg%2F11cn0wcjx5!19sChIJdfWZwqRmvzsRpQtxx35lAKg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parmekar+ENT+and+general+clinic/data=!4m7!3m6!1s0x3bbf66a4c299f575:0xa800657ec7710ba5!8m2!3d15.8584684!4d74.5090195!16s%2Fg%2F11cn0wcjx5!19sChIJdfWZwqRmvzsRpQtxx35lAKg?authuser=0&hl=en&rclk=1"
@@ -10483,7 +10571,8 @@
     "rating": 1.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parmekar+ENT+and+general+clinic/data=!4m7!3m6!1s0x3bbf66a4c299f575:0xa800657ec7710ba5!8m2!3d15.8584684!4d74.5090195!16s%2Fg%2F11cn0wcjx5!19sChIJdfWZwqRmvzsRpQtxx35lAKg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pathade-hospital-belagavi",
@@ -10532,7 +10621,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pathade+Hospital/data=!4m7!3m6!1s0x3bbf642ca9942e31:0xdccc4c6504c9f860!8m2!3d15.8275479!4d74.4933833!16s%2Fg%2F11f0_fj8r9!19sChIJMS6UqSxkvzsRYPjJBGVMzNw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pathade+Hospital/data=!4m7!3m6!1s0x3bbf642ca9942e31:0xdccc4c6504c9f860!8m2!3d15.8275479!4d74.4933833!16s%2Fg%2F11f0_fj8r9!19sChIJMS6UqSxkvzsRYPjJBGVMzNw?authuser=0&hl=en&rclk=1"
@@ -10601,7 +10690,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pathade+Hospital/data=!4m7!3m6!1s0x3bbf642ca9942e31:0xdccc4c6504c9f860!8m2!3d15.8275479!4d74.4933833!16s%2Fg%2F11f0_fj8r9!19sChIJMS6UqSxkvzsRYPjJBGVMzNw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "patteds-fertility-and-research-centre-belagavi",
@@ -10652,7 +10742,7 @@
       "1+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Patteds+Fertility+%26+Research+Centre/data=!4m7!3m6!1s0x3bbf66b33678b955:0xefdd68e0bd1bb1aa!8m2!3d15.8712472!4d74.5172528!16s%2Fg%2F1pyqpfcfb!19sChIJVbl4NrNmvzsRqrEbveBo3e8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patteds+Fertility+%26+Research+Centre/data=!4m7!3m6!1s0x3bbf66b33678b955:0xefdd68e0bd1bb1aa!8m2!3d15.8712472!4d74.5172528!16s%2Fg%2F1pyqpfcfb!19sChIJVbl4NrNmvzsRqrEbveBo3e8?authuser=0&hl=en&rclk=1"
@@ -10721,7 +10811,8 @@
     "rating": 4.6,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patteds+Fertility+%26+Research+Centre/data=!4m7!3m6!1s0x3bbf66b33678b955:0xefdd68e0bd1bb1aa!8m2!3d15.8712472!4d74.5172528!16s%2Fg%2F1pyqpfcfb!19sChIJVbl4NrNmvzsRqrEbveBo3e8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "piles-treatment-without-surgery-belagavi",
@@ -10767,7 +10858,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Piles+treatment+without+surgery/data=!4m7!3m6!1s0x3bbf674c7f338e45:0xa8b882a59812be7e!8m2!3d15.862341!4d74.5156664!16s%2Fg%2F11lfpxzq96!19sChIJRY4zf0xnvzsRfr4SmKWCuKg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Piles+treatment+without+surgery/data=!4m7!3m6!1s0x3bbf674c7f338e45:0xa8b882a59812be7e!8m2!3d15.862341!4d74.5156664!16s%2Fg%2F11lfpxzq96!19sChIJRY4zf0xnvzsRfr4SmKWCuKg?authuser=0&hl=en&rclk=1"
@@ -10833,10 +10924,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Piles+treatment+without+surgery/data=!4m7!3m6!1s0x3bbf674c7f338e45:0xa8b882a59812be7e!8m2!3d15.862341!4d74.5156664!16s%2Fg%2F11lfpxzq96!19sChIJRY4zf0xnvzsRfr4SmKWCuKg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pink-health-child-neurology-and-rheumatology-arthritis-clinic-belagavi",
@@ -10887,7 +10979,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Pink+health+Child+Neurology+and+Rheumatology+%28Arthritis%29+Clinic/data=!4m7!3m6!1s0x3bbf67e019624dd7:0x2d47d9fa408f558a!8m2!3d15.8820368!4d74.4972079!16s%2Fg%2F11g6pyq5kz!19sChIJ101iGeBnvzsRilWPQPrZRy0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pink+health+Child+Neurology+and+Rheumatology+%28Arthritis%29+Clinic/data=!4m7!3m6!1s0x3bbf67e019624dd7:0x2d47d9fa408f558a!8m2!3d15.8820368!4d74.4972079!16s%2Fg%2F11g6pyq5kz!19sChIJ101iGeBnvzsRilWPQPrZRy0?authuser=0&hl=en&rclk=1"
@@ -10956,7 +11048,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pink+health+Child+Neurology+and+Rheumatology+%28Arthritis%29+Clinic/data=!4m7!3m6!1s0x3bbf67e019624dd7:0x2d47d9fa408f558a!8m2!3d15.8820368!4d74.4972079!16s%2Fg%2F11g6pyq5kz!19sChIJ101iGeBnvzsRilWPQPrZRy0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "plastic-surgery-and-varicose-veins-laser-clinic-belagavi",
@@ -11005,7 +11098,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Plastic+surgery+and+Varicose+veins+laser+clinic/data=!4m7!3m6!1s0x3bbf614d236f3d99:0x44a1ecc280c89560!8m2!3d15.8753423!4d74.513498!16s%2Fg%2F11f_j7hcp7!19sChIJmT1vI01hvzsRYJXIgMLsoUQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Plastic+surgery+and+Varicose+veins+laser+clinic/data=!4m7!3m6!1s0x3bbf614d236f3d99:0x44a1ecc280c89560!8m2!3d15.8753423!4d74.513498!16s%2Fg%2F11f_j7hcp7!19sChIJmT1vI01hvzsRYJXIgMLsoUQ?authuser=0&hl=en&rclk=1"
@@ -11074,7 +11167,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Plastic+surgery+and+Varicose+veins+laser+clinic/data=!4m7!3m6!1s0x3bbf614d236f3d99:0x44a1ecc280c89560!8m2!3d15.8753423!4d74.513498!16s%2Fg%2F11f_j7hcp7!19sChIJmT1vI01hvzsRYJXIgMLsoUQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ravi-munavalli-clinic-belagavi",
@@ -11122,7 +11216,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Ravi+Munavalli+Clinic/data=!4m7!3m6!1s0x3bbf668e0a6875e1:0xd3426d8f9861fce8!8m2!3d15.8390798!4d74.5170021!16s%2Fg%2F11csb14fbz!19sChIJ4XVoCo5mvzsR6PxhmI9tQtM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ravi+Munavalli+Clinic/data=!4m7!3m6!1s0x3bbf668e0a6875e1:0xd3426d8f9861fce8!8m2!3d15.8390798!4d74.5170021!16s%2Fg%2F11csb14fbz!19sChIJ4XVoCo5mvzsR6PxhmI9tQtM?authuser=0&hl=en&rclk=1"
@@ -11191,7 +11285,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ravi+Munavalli+Clinic/data=!4m7!3m6!1s0x3bbf668e0a6875e1:0xd3426d8f9861fce8!8m2!3d15.8390798!4d74.5170021!16s%2Fg%2F11csb14fbz!19sChIJ4XVoCo5mvzsR6PxhmI9tQtM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "redymed-cosmetic-surgery-and-hair-transplant-centre-belgaum-belagavi",
@@ -11240,7 +11335,7 @@
       "Google rating 4.8",
       "17+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/REDYMED+Cosmetic+Surgery+%26+Hair+Transplant+Centre+,+Belgaum/data=!4m7!3m6!1s0x3bbf67064f227451:0xc797201bbc099d92!8m2!3d15.8838765!4d74.5122362!16s%2Fg%2F11j0d554x5!19sChIJUXQiTwZnvzsRkp0JvBsgl8c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/REDYMED+Cosmetic+Surgery+%26+Hair+Transplant+Centre+,+Belgaum/data=!4m7!3m6!1s0x3bbf67064f227451:0xc797201bbc099d92!8m2!3d15.8838765!4d74.5122362!16s%2Fg%2F11j0d554x5!19sChIJUXQiTwZnvzsRkp0JvBsgl8c?authuser=0&hl=en&rclk=1"
@@ -11309,7 +11404,8 @@
     "rating": 4.8,
     "reviews": 17,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/REDYMED+Cosmetic+Surgery+%26+Hair+Transplant+Centre+,+Belgaum/data=!4m7!3m6!1s0x3bbf67064f227451:0xc797201bbc099d92!8m2!3d15.8838765!4d74.5122362!16s%2Fg%2F11j0d554x5!19sChIJUXQiTwZnvzsRkp0JvBsgl8c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "reederm-skin-hair-laser-clinic-belagavi",
@@ -11357,7 +11453,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Reederm+skin+hair+laser+clinic/data=!4m7!3m6!1s0x3bbf67002ee0ad67:0x8e2f78002c4bd3e2!8m2!3d15.8565352!4d74.5102161!16s%2Fg%2F11x162hyxh!19sChIJZ63gLgBnvzsR4tNLLAB4L44?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Reederm+skin+hair+laser+clinic/data=!4m7!3m6!1s0x3bbf67002ee0ad67:0x8e2f78002c4bd3e2!8m2!3d15.8565352!4d74.5102161!16s%2Fg%2F11x162hyxh!19sChIJZ63gLgBnvzsR4tNLLAB4L44?authuser=0&hl=en&rclk=1"
@@ -11423,10 +11519,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Reederm+skin+hair+laser+clinic/data=!4m7!3m6!1s0x3bbf67002ee0ad67:0x8e2f78002c4bd3e2!8m2!3d15.8565352!4d74.5102161!16s%2Fg%2F11x162hyxh!19sChIJZ63gLgBnvzsR4tNLLAB4L44?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rotti-s-kidney-care-centre-belagavi",
@@ -11476,7 +11573,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rotti%E2%80%99s+Kidney+Care+Centre/data=!4m7!3m6!1s0x3bbf67539897fd1f:0x8325ec60d958ba59!8m2!3d15.8801934!4d74.5298676!16s%2Fg%2F11jm6t3yqt!19sChIJH_2XmFNnvzsRWbpY2WDsJYM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rotti%E2%80%99s+Kidney+Care+Centre/data=!4m7!3m6!1s0x3bbf67539897fd1f:0x8325ec60d958ba59!8m2!3d15.8801934!4d74.5298676!16s%2Fg%2F11jm6t3yqt!19sChIJH_2XmFNnvzsRWbpY2WDsJYM?authuser=0&hl=en&rclk=1"
@@ -11542,10 +11639,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rotti%E2%80%99s+Kidney+Care+Centre/data=!4m7!3m6!1s0x3bbf67539897fd1f:0x8325ec60d958ba59!8m2!3d15.8801934!4d74.5298676!16s%2Fg%2F11jm6t3yqt!19sChIJH_2XmFNnvzsRWbpY2WDsJYM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "saaol-heart-centre-belagavi-belagavi",
@@ -11592,7 +11690,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/SAAOL+heart+centre+Belagavi/data=!4m7!3m6!1s0x3bbf63006f6e01b7:0x2b648e0d7bb2c28e!8m2!3d15.8749774!4d74.4887896!16s%2Fg%2F11vjw6kywz!19sChIJtwFubwBjvzsRjsKyew2OZCs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAAOL+heart+centre+Belagavi/data=!4m7!3m6!1s0x3bbf63006f6e01b7:0x2b648e0d7bb2c28e!8m2!3d15.8749774!4d74.4887896!16s%2Fg%2F11vjw6kywz!19sChIJtwFubwBjvzsRjsKyew2OZCs?authuser=0&hl=en&rclk=1"
@@ -11658,10 +11756,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAAOL+heart+centre+Belagavi/data=!4m7!3m6!1s0x3bbf63006f6e01b7:0x2b648e0d7bb2c28e!8m2!3d15.8749774!4d74.4887896!16s%2Fg%2F11vjw6kywz!19sChIJtwFubwBjvzsRjsKyew2OZCs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sai-dental-clinic-belagavi",
@@ -11711,7 +11810,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Dental+Clinic/data=!4m7!3m6!1s0x3bbf679335fae0c9:0xa2069e52f75537c8!8m2!3d15.8653099!4d74.5092012!16s%2Fg%2F11f9h0z1xf!19sChIJyeD6NZNnvzsRyDdV91KeBqI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Dental+Clinic/data=!4m7!3m6!1s0x3bbf679335fae0c9:0xa2069e52f75537c8!8m2!3d15.8653099!4d74.5092012!16s%2Fg%2F11f9h0z1xf!19sChIJyeD6NZNnvzsRyDdV91KeBqI?authuser=0&hl=en&rclk=1"
@@ -11780,7 +11879,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Dental+Clinic/data=!4m7!3m6!1s0x3bbf679335fae0c9:0xa2069e52f75537c8!8m2!3d15.8653099!4d74.5092012!16s%2Fg%2F11f9h0z1xf!19sChIJyeD6NZNnvzsRyDdV91KeBqI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sai-hospital-general-and-eye-care-centre-belagavi",
@@ -11829,7 +11929,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Hospital+General+%26+Eye+Care+Centre/data=!4m7!3m6!1s0x3bbf614dce31ca45:0x3195a9c9e1464560!8m2!3d15.8792588!4d74.5135912!16s%2Fg%2F11ddwvsqsb!19sChIJRcoxzk1hvzsRYEVG4cmplTE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Hospital+General+%26+Eye+Care+Centre/data=!4m7!3m6!1s0x3bbf614dce31ca45:0x3195a9c9e1464560!8m2!3d15.8792588!4d74.5135912!16s%2Fg%2F11ddwvsqsb!19sChIJRcoxzk1hvzsRYEVG4cmplTE?authuser=0&hl=en&rclk=1"
@@ -11898,7 +11998,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Hospital+General+%26+Eye+Care+Centre/data=!4m7!3m6!1s0x3bbf614dce31ca45:0x3195a9c9e1464560!8m2!3d15.8792588!4d74.5135912!16s%2Fg%2F11ddwvsqsb!19sChIJRcoxzk1hvzsRYEVG4cmplTE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sai-ortho-plus-speciality-dental-clinic-orthodontist-invisalign-braces-implants-and-root-canal-belagavi-belagavi",
@@ -11949,7 +12050,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Ortho+Plus+Speciality+Dental+Clinic+%7C+Orthodontist,+Invisalign,+Braces,+Implants+%26+Root+Canal+%7C+Belagavi/data=!4m7!3m6!1s0x3bbf67419a10275b:0x1859f54e7de223a8!8m2!3d15.8702667!4d74.5298826!16s%2Fg%2F11y5_ys7b3!19sChIJWycQmkFnvzsRqCPifU71WRg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Ortho+Plus+Speciality+Dental+Clinic+%7C+Orthodontist,+Invisalign,+Braces,+Implants+%26+Root+Canal+%7C+Belagavi/data=!4m7!3m6!1s0x3bbf67419a10275b:0x1859f54e7de223a8!8m2!3d15.8702667!4d74.5298826!16s%2Fg%2F11y5_ys7b3!19sChIJWycQmkFnvzsRqCPifU71WRg?authuser=0&hl=en&rclk=1"
@@ -12018,7 +12119,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Ortho+Plus+Speciality+Dental+Clinic+%7C+Orthodontist,+Invisalign,+Braces,+Implants+%26+Root+Canal+%7C+Belagavi/data=!4m7!3m6!1s0x3bbf67419a10275b:0x1859f54e7de223a8!8m2!3d15.8702667!4d74.5298826!16s%2Fg%2F11y5_ys7b3!19sChIJWycQmkFnvzsRqCPifU71WRg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sakshi-s-skin-clinic-belagavi",
@@ -12066,7 +12168,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sakshi%27s+skin+Clinic/data=!4m7!3m6!1s0x3bbf673b814386cf:0x113cb87617971f4d!8m2!3d15.8455267!4d74.5219597!16s%2Fg%2F11w24f39kl!19sChIJz4ZDgTtnvzsRTR-XF3a4PBE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakshi%27s+skin+Clinic/data=!4m7!3m6!1s0x3bbf673b814386cf:0x113cb87617971f4d!8m2!3d15.8455267!4d74.5219597!16s%2Fg%2F11w24f39kl!19sChIJz4ZDgTtnvzsRTR-XF3a4PBE?authuser=0&hl=en&rclk=1"
@@ -12132,10 +12234,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sakshi%27s+skin+Clinic/data=!4m7!3m6!1s0x3bbf673b814386cf:0x113cb87617971f4d!8m2!3d15.8455267!4d74.5219597!16s%2Fg%2F11w24f39kl!19sChIJz4ZDgTtnvzsRTR-XF3a4PBE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sanjeevini-nephro-urology-center-belagavi",
@@ -12183,7 +12286,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeevini+Nephro+Urology+Center/data=!4m7!3m6!1s0x3bbf66b333810623:0x447fe1dd295bf62!8m2!3d15.8753446!4d74.509323!16s%2Fg%2F11dfgnqh8l!19sChIJIwaBM7NmvzsRYr-V0h3-RwQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevini+Nephro+Urology+Center/data=!4m7!3m6!1s0x3bbf66b333810623:0x447fe1dd295bf62!8m2!3d15.8753446!4d74.509323!16s%2Fg%2F11dfgnqh8l!19sChIJIwaBM7NmvzsRYr-V0h3-RwQ?authuser=0&hl=en&rclk=1"
@@ -12252,7 +12355,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeevini+Nephro+Urology+Center/data=!4m7!3m6!1s0x3bbf66b333810623:0x447fe1dd295bf62!8m2!3d15.8753446!4d74.509323!16s%2Fg%2F11dfgnqh8l!19sChIJIwaBM7NmvzsRYr-V0h3-RwQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sarojini-dental-clinic-belagavi",
@@ -12300,7 +12404,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Sarojini+Dental+Clinic/data=!4m7!3m6!1s0x3bbf66bcd4c4cc47:0xab438abc8445fd06!8m2!3d15.8554048!4d74.5113895!16s%2Fg%2F1tgm1974!19sChIJR8zE1LxmvzsRBv1FhLyKQ6s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarojini+Dental+Clinic/data=!4m7!3m6!1s0x3bbf66bcd4c4cc47:0xab438abc8445fd06!8m2!3d15.8554048!4d74.5113895!16s%2Fg%2F1tgm1974!19sChIJR8zE1LxmvzsRBv1FhLyKQ6s?authuser=0&hl=en&rclk=1"
@@ -12369,7 +12473,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sarojini+Dental+Clinic/data=!4m7!3m6!1s0x3bbf66bcd4c4cc47:0xab438abc8445fd06!8m2!3d15.8554048!4d74.5113895!16s%2Fg%2F1tgm1974!19sChIJR8zE1LxmvzsRBv1FhLyKQ6s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sbg-hospital-allopathy-ayurveda-panchakarma-yoga-physiotherapy-belagavi-belagavi",
@@ -12418,7 +12523,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SBG+HOSPITAL+%7C+ALLOPATHY+%7C+AYURVEDA+%7C+PANCHAKARMA+%7C+YOGA+%7C+PHYSIOTHERAPY+%7C+BELAGAVI/data=!4m7!3m6!1s0x3bbf640fe83b80f1:0x5df5e81692b20abd!8m2!3d15.8634145!4d74.4861828!16s%2Fg%2F11f__7cz04!19sChIJ8YA76A9kvzsRvQqykhbo9V0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SBG+HOSPITAL+%7C+ALLOPATHY+%7C+AYURVEDA+%7C+PANCHAKARMA+%7C+YOGA+%7C+PHYSIOTHERAPY+%7C+BELAGAVI/data=!4m7!3m6!1s0x3bbf640fe83b80f1:0x5df5e81692b20abd!8m2!3d15.8634145!4d74.4861828!16s%2Fg%2F11f__7cz04!19sChIJ8YA76A9kvzsRvQqykhbo9V0?authuser=0&hl=en&rclk=1"
@@ -12487,7 +12592,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SBG+HOSPITAL+%7C+ALLOPATHY+%7C+AYURVEDA+%7C+PANCHAKARMA+%7C+YOGA+%7C+PHYSIOTHERAPY+%7C+BELAGAVI/data=!4m7!3m6!1s0x3bbf640fe83b80f1:0x5df5e81692b20abd!8m2!3d15.8634145!4d74.4861828!16s%2Fg%2F11f__7cz04!19sChIJ8YA76A9kvzsRvQqykhbo9V0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sevashrama-chikitsaalaya-belagavi",
@@ -12535,7 +12641,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Sevashrama+chikitsaalaya/data=!4m7!3m6!1s0x3bbf613534b49ae1:0xf0e9fee2796201fd!8m2!3d15.875176!4d74.5247342!16s%2Fg%2F1pp2vf1rt!19sChIJ4Zq0NDVhvzsR_QFieeL-6fA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sevashrama+chikitsaalaya/data=!4m7!3m6!1s0x3bbf613534b49ae1:0xf0e9fee2796201fd!8m2!3d15.875176!4d74.5247342!16s%2Fg%2F1pp2vf1rt!19sChIJ4Zq0NDVhvzsR_QFieeL-6fA?authuser=0&hl=en&rclk=1"
@@ -12604,7 +12710,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sevashrama+chikitsaalaya/data=!4m7!3m6!1s0x3bbf613534b49ae1:0xf0e9fee2796201fd!8m2!3d15.875176!4d74.5247342!16s%2Fg%2F1pp2vf1rt!19sChIJ4Zq0NDVhvzsR_QFieeL-6fA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shantesh-dental-clinic-belagavi",
@@ -12653,7 +12760,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shantesh+Dental+Clinic/data=!4m7!3m6!1s0x3bbf67b623001d35:0xe64d52fd042a1f62!8m2!3d15.8623138!4d74.5184418!16s%2Fg%2F11fk3wcqph!19sChIJNR0AI7ZnvzsRYh8qBP1STeY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shantesh+Dental+Clinic/data=!4m7!3m6!1s0x3bbf67b623001d35:0xe64d52fd042a1f62!8m2!3d15.8623138!4d74.5184418!16s%2Fg%2F11fk3wcqph!19sChIJNR0AI7ZnvzsRYh8qBP1STeY?authuser=0&hl=en&rclk=1"
@@ -12719,10 +12826,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shantesh+Dental+Clinic/data=!4m7!3m6!1s0x3bbf67b623001d35:0xe64d52fd042a1f62!8m2!3d15.8623138!4d74.5184418!16s%2Fg%2F11fk3wcqph!19sChIJNR0AI7ZnvzsRYh8qBP1STeY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shanti-hospital-belagavi",
@@ -12770,7 +12878,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Shanti+Hospital/data=!4m7!3m6!1s0x3bbf66a515b8441d:0x95624a8aeb62cc18!8m2!3d15.8609592!4d74.5097554!16s%2Fg%2F1tfbg587!19sChIJHUS4FaVmvzsRGMxi64pKYpU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+Hospital/data=!4m7!3m6!1s0x3bbf66a515b8441d:0x95624a8aeb62cc18!8m2!3d15.8609592!4d74.5097554!16s%2Fg%2F1tfbg587!19sChIJHUS4FaVmvzsRGMxi64pKYpU?authuser=0&hl=en&rclk=1"
@@ -12839,7 +12947,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanti+Hospital/data=!4m7!3m6!1s0x3bbf66a515b8441d:0x95624a8aeb62cc18!8m2!3d15.8609592!4d74.5097554!16s%2Fg%2F1tfbg587!19sChIJHUS4FaVmvzsRGMxi64pKYpU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shenvi-dental-clinic-and-specialty-root-canal-centre-belagavi",
@@ -12889,7 +12998,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shenvi+Dental+Clinic+and+Specialty+Root+Canal+Centre/data=!4m7!3m6!1s0x3bbf67e22e4c4497:0x8174536067f36cb5!8m2!3d15.8301489!4d74.5034724!16s%2Fg%2F11n7f3txg5!19sChIJl0RMLuJnvzsRtWzzZ2BTdIE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shenvi+Dental+Clinic+and+Specialty+Root+Canal+Centre/data=!4m7!3m6!1s0x3bbf67e22e4c4497:0x8174536067f36cb5!8m2!3d15.8301489!4d74.5034724!16s%2Fg%2F11n7f3txg5!19sChIJl0RMLuJnvzsRtWzzZ2BTdIE?authuser=0&hl=en&rclk=1"
@@ -12955,10 +13064,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shenvi+Dental+Clinic+and+Specialty+Root+Canal+Centre/data=!4m7!3m6!1s0x3bbf67e22e4c4497:0x8174536067f36cb5!8m2!3d15.8301489!4d74.5034724!16s%2Fg%2F11n7f3txg5!19sChIJl0RMLuJnvzsRtWzzZ2BTdIE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shifa-oral-care-dental-clinic-belagavi",
@@ -13006,7 +13116,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SHIFA+ORAL+CARE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bbf66b00384fe27:0xd25426a8cd0c8b2c!8m2!3d15.8631681!4d74.5113935!16s%2Fg%2F11gdlyl6kn!19sChIJJ_6EA7BmvzsRLIsMzagmVNI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHIFA+ORAL+CARE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bbf66b00384fe27:0xd25426a8cd0c8b2c!8m2!3d15.8631681!4d74.5113935!16s%2Fg%2F11gdlyl6kn!19sChIJJ_6EA7BmvzsRLIsMzagmVNI?authuser=0&hl=en&rclk=1"
@@ -13075,7 +13185,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHIFA+ORAL+CARE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bbf66b00384fe27:0xd25426a8cd0c8b2c!8m2!3d15.8631681!4d74.5113935!16s%2Fg%2F11gdlyl6kn!19sChIJJ_6EA7BmvzsRLIsMzagmVNI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-dental-clinic-belagavi",
@@ -13124,7 +13235,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bbf679ba3a591cf:0x7ee221ab5f63979e!8m2!3d15.858963!4d74.5097101!16s%2Fg%2F11vzrn3kp2!19sChIJz5Glo5tnvzsRnpdjX6sh4n4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bbf679ba3a591cf:0x7ee221ab5f63979e!8m2!3d15.858963!4d74.5097101!16s%2Fg%2F11vzrn3kp2!19sChIJz5Glo5tnvzsRnpdjX6sh4n4?authuser=0&hl=en&rclk=1"
@@ -13190,10 +13301,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bbf679ba3a591cf:0x7ee221ab5f63979e!8m2!3d15.858963!4d74.5097101!16s%2Fg%2F11vzrn3kp2!19sChIJz5Glo5tnvzsRnpdjX6sh4n4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-ortho-and-trauma-centre-belagavi",
@@ -13243,7 +13355,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SHREE+ORTHO+%26+TRAUMA+CENTRE/@15.8659541,74.5076561,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf66ac7333c603:0x581ec6f23eabbec2!8m2!3d15.8659541!4d74.5076561!16s%2Fg%2F11b6nv6dt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+ORTHO+%26+TRAUMA+CENTRE/@15.8659541,74.5076561,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf66ac7333c603:0x581ec6f23eabbec2!8m2!3d15.8659541!4d74.5076561!16s%2Fg%2F11b6nv6dt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -13312,7 +13424,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHREE+ORTHO+%26+TRAUMA+CENTRE/@15.8659541,74.5076561,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf66ac7333c603:0x581ec6f23eabbec2!8m2!3d15.8659541!4d74.5076561!16s%2Fg%2F11b6nv6dt2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-sai-baba-surgical-hospital-belagavi",
@@ -13360,7 +13473,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Sai+Baba+Surgical+Hospital/data=!4m7!3m6!1s0x3bbf67d7a0fe3a77:0xc7a2a51b22fc4ff0!8m2!3d15.8618259!4d74.5084127!16s%2Fg%2F11s4wf1jvv!19sChIJdzr-oNdnvzsR8E_8Ihulosc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Sai+Baba+Surgical+Hospital/data=!4m7!3m6!1s0x3bbf67d7a0fe3a77:0xc7a2a51b22fc4ff0!8m2!3d15.8618259!4d74.5084127!16s%2Fg%2F11s4wf1jvv!19sChIJdzr-oNdnvzsR8E_8Ihulosc?authuser=0&hl=en&rclk=1"
@@ -13426,10 +13539,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Sai+Baba+Surgical+Hospital/data=!4m7!3m6!1s0x3bbf67d7a0fe3a77:0xc7a2a51b22fc4ff0!8m2!3d15.8618259!4d74.5084127!16s%2Fg%2F11s4wf1jvv!19sChIJdzr-oNdnvzsR8E_8Ihulosc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-ayurved-dr-shrinivas-patil-belagavi",
@@ -13477,7 +13591,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Ayurved%28Dr+Shrinivas+Patil%29/data=!4m7!3m6!1s0x3bbf6683f8f2f89f:0x841cb163b5b4f839!8m2!3d15.8319948!4d74.5190255!16s%2Fg%2F11bxffs8bg!19sChIJn_jy-INmvzsROfi0tWOxHIQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Ayurved%28Dr+Shrinivas+Patil%29/data=!4m7!3m6!1s0x3bbf6683f8f2f89f:0x841cb163b5b4f839!8m2!3d15.8319948!4d74.5190255!16s%2Fg%2F11bxffs8bg!19sChIJn_jy-INmvzsROfi0tWOxHIQ?authuser=0&hl=en&rclk=1"
@@ -13546,7 +13660,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Ayurved%28Dr+Shrinivas+Patil%29/data=!4m7!3m6!1s0x3bbf6683f8f2f89f:0x841cb163b5b4f839!8m2!3d15.8319948!4d74.5190255!16s%2Fg%2F11bxffs8bg!19sChIJn_jy-INmvzsROfi0tWOxHIQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-daneshwari-maternity-and-general-hospital-belagavi",
@@ -13594,7 +13709,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Daneshwari+Maternity+%26+General+Hospital/data=!4m7!3m6!1s0x3bbf6692423955c3:0x4874ffae5723cb15!8m2!3d15.8417334!4d74.517913!16s%2Fg%2F1tcv9bb9!19sChIJw1U5QpJmvzsRFcsjV67_dEg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Daneshwari+Maternity+%26+General+Hospital/data=!4m7!3m6!1s0x3bbf6692423955c3:0x4874ffae5723cb15!8m2!3d15.8417334!4d74.517913!16s%2Fg%2F1tcv9bb9!19sChIJw1U5QpJmvzsRFcsjV67_dEg?authuser=0&hl=en&rclk=1"
@@ -13663,7 +13778,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Daneshwari+Maternity+%26+General+Hospital/data=!4m7!3m6!1s0x3bbf6692423955c3:0x4874ffae5723cb15!8m2!3d15.8417334!4d74.517913!16s%2Fg%2F1tcv9bb9!19sChIJw1U5QpJmvzsRFcsjV67_dEg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-daneshwari-surgical-and-general-hospital-belagavi",
@@ -13709,7 +13825,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Shri+Daneshwari+Surgical+And+General+Hospital/data=!4m7!3m6!1s0x3bbf6691be50b895:0xa4208444810468fa!8m2!3d15.8417673!4d74.515407!16s%2Fg%2F11mxn350g6!19sChIJlbhQvpFmvzsR-mgEgUSEIKQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Daneshwari+Surgical+And+General+Hospital/data=!4m7!3m6!1s0x3bbf6691be50b895:0xa4208444810468fa!8m2!3d15.8417673!4d74.515407!16s%2Fg%2F11mxn350g6!19sChIJlbhQvpFmvzsR-mgEgUSEIKQ?authuser=0&hl=en&rclk=1"
@@ -13775,10 +13891,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Daneshwari+Surgical+And+General+Hospital/data=!4m7!3m6!1s0x3bbf6691be50b895:0xa4208444810468fa!8m2!3d15.8417673!4d74.515407!16s%2Fg%2F11mxn350g6!19sChIJlbhQvpFmvzsR-mgEgUSEIKQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-prabha-hospital-belagavi",
@@ -13826,7 +13943,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Prabha+Hospital/data=!4m7!3m6!1s0x3bbf66b2cfa82bc7:0xc93961362eb13b3a!8m2!3d15.8735843!4d74.513035!16s%2Fg%2F11dftts4nh!19sChIJxyuoz7JmvzsROjuxLjZhOck?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Prabha+Hospital/data=!4m7!3m6!1s0x3bbf66b2cfa82bc7:0xc93961362eb13b3a!8m2!3d15.8735843!4d74.513035!16s%2Fg%2F11dftts4nh!19sChIJxyuoz7JmvzsROjuxLjZhOck?authuser=0&hl=en&rclk=1"
@@ -13895,7 +14012,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Prabha+Hospital/data=!4m7!3m6!1s0x3bbf66b2cfa82bc7:0xc93961362eb13b3a!8m2!3d15.8735843!4d74.513035!16s%2Fg%2F11dftts4nh!19sChIJxyuoz7JmvzsROjuxLjZhOck?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-ramakrishna-ayurved-and-fertility-centre-srafc-belagavi",
@@ -13946,7 +14064,7 @@
       "5+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Ramakrishna+Ayurved+and+Fertility+Centre+%28SRAFC%29/data=!4m7!3m6!1s0x3bbf6693d856aa11:0x84987b8ee1def409!8m2!3d15.8382144!4d74.5070514!16s%2Fg%2F11g8v29tqm!19sChIJEapW2JNmvzsRCfTe4Y57mIQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Ramakrishna+Ayurved+and+Fertility+Centre+%28SRAFC%29/data=!4m7!3m6!1s0x3bbf6693d856aa11:0x84987b8ee1def409!8m2!3d15.8382144!4d74.5070514!16s%2Fg%2F11g8v29tqm!19sChIJEapW2JNmvzsRCfTe4Y57mIQ?authuser=0&hl=en&rclk=1"
@@ -14012,10 +14130,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 5,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Ramakrishna+Ayurved+and+Fertility+Centre+%28SRAFC%29/data=!4m7!3m6!1s0x3bbf6693d856aa11:0x84987b8ee1def409!8m2!3d15.8382144!4d74.5070514!16s%2Fg%2F11g8v29tqm!19sChIJEapW2JNmvzsRCfTe4Y57mIQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-sai-hospital-belagavi",
@@ -14063,7 +14182,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Sai+Hospital/data=!4m7!3m6!1s0x3bbf66f4434a122f:0xca9b64a594a9be28!8m2!3d15.8346308!4d74.5255915!16s%2Fg%2F11b6bc916d!19sChIJLxJKQ_RmvzsRKL6plKVkm8o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Sai+Hospital/data=!4m7!3m6!1s0x3bbf66f4434a122f:0xca9b64a594a9be28!8m2!3d15.8346308!4d74.5255915!16s%2Fg%2F11b6bc916d!19sChIJLxJKQ_RmvzsRKL6plKVkm8o?authuser=0&hl=en&rclk=1"
@@ -14132,7 +14251,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Sai+Hospital/data=!4m7!3m6!1s0x3bbf66f4434a122f:0xca9b64a594a9be28!8m2!3d15.8346308!4d74.5255915!16s%2Fg%2F11b6bc916d!19sChIJLxJKQ_RmvzsRKL6plKVkm8o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sigma6-hair-and-skin-clinic-nehru-nagar-belgaum-belagavi",
@@ -14182,7 +14302,7 @@
       "755+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sigma6+Hair+%26+Skin+Clinic+Nehru+Nagar+Belgaum/data=!4m7!3m6!1s0x3bbf61a404128dbb:0x266d541799e339b5!8m2!3d15.8801073!4d74.5162475!16s%2Fg%2F11hzqg838n!19sChIJu40SBKRhvzsRtTnjmRdUbSY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sigma6+Hair+%26+Skin+Clinic+Nehru+Nagar+Belgaum/data=!4m7!3m6!1s0x3bbf61a404128dbb:0x266d541799e339b5!8m2!3d15.8801073!4d74.5162475!16s%2Fg%2F11hzqg838n!19sChIJu40SBKRhvzsRtTnjmRdUbSY?authuser=0&hl=en&rclk=1"
@@ -14251,7 +14371,8 @@
     "rating": 4.8,
     "reviews": 755,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sigma6+Hair+%26+Skin+Clinic+Nehru+Nagar+Belgaum/data=!4m7!3m6!1s0x3bbf61a404128dbb:0x266d541799e339b5!8m2!3d15.8801073!4d74.5162475!16s%2Fg%2F11hzqg838n!19sChIJu40SBKRhvzsRtTnjmRdUbSY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "skin-clinic-belagavi",
@@ -14299,7 +14420,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Skin+clinic/data=!4m7!3m6!1s0x3bbf610ce1d0f645:0x1e1eeb9388ac185b!8m2!3d15.8772125!4d74.5149248!16s%2Fg%2F11fktrj7kd!19sChIJRfbQ4QxhvzsRWxisiJPrHh4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+clinic/data=!4m7!3m6!1s0x3bbf610ce1d0f645:0x1e1eeb9388ac185b!8m2!3d15.8772125!4d74.5149248!16s%2Fg%2F11fktrj7kd!19sChIJRfbQ4QxhvzsRWxisiJPrHh4?authuser=0&hl=en&rclk=1"
@@ -14368,7 +14489,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skin+clinic/data=!4m7!3m6!1s0x3bbf610ce1d0f645:0x1e1eeb9388ac185b!8m2!3d15.8772125!4d74.5149248!16s%2Fg%2F11fktrj7kd!19sChIJRfbQ4QxhvzsRWxisiJPrHh4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "skin-shin-cosmetic-and-wellness-center-belagavi",
@@ -14416,7 +14538,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Skin+shin+cosmetic+and+wellness+center/data=!4m7!3m6!1s0x3bbf66809a1888a3:0x115d2d014425e124!8m2!3d15.8412528!4d74.5096197!16s%2Fg%2F11g6_3p3gq!19sChIJo4gYmoBmvzsRJOElRAEtXRE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+shin+cosmetic+and+wellness+center/data=!4m7!3m6!1s0x3bbf66809a1888a3:0x115d2d014425e124!8m2!3d15.8412528!4d74.5096197!16s%2Fg%2F11g6_3p3gq!19sChIJo4gYmoBmvzsRJOElRAEtXRE?authuser=0&hl=en&rclk=1"
@@ -14482,10 +14604,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skin+shin+cosmetic+and+wellness+center/data=!4m7!3m6!1s0x3bbf66809a1888a3:0x115d2d014425e124!8m2!3d15.8412528!4d74.5096197!16s%2Fg%2F11g6_3p3gq!19sChIJo4gYmoBmvzsRJOElRAEtXRE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smayaa-dental-clinic-belagavi",
@@ -14534,7 +14657,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smayaa+Dental+Clinic/data=!4m7!3m6!1s0x3bbf67acb5454ab3:0xd275b1403bb96173!8m2!3d15.8653786!4d74.5079926!16s%2Fg%2F11wxfjwlz9!19sChIJs0pFtaxnvzsRc2G5O0CxddI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smayaa+Dental+Clinic/data=!4m7!3m6!1s0x3bbf67acb5454ab3:0xd275b1403bb96173!8m2!3d15.8653786!4d74.5079926!16s%2Fg%2F11wxfjwlz9!19sChIJs0pFtaxnvzsRc2G5O0CxddI?authuser=0&hl=en&rclk=1"
@@ -14603,7 +14726,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smayaa+Dental+Clinic/data=!4m7!3m6!1s0x3bbf67acb5454ab3:0xd275b1403bb96173!8m2!3d15.8653786!4d74.5079926!16s%2Fg%2F11wxfjwlz9!19sChIJs0pFtaxnvzsRc2G5O0CxddI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smile-care-dental-clinic-belagavi",
@@ -14651,7 +14775,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Care+Dental+Clinic/data=!4m7!3m6!1s0x3bbf6690008cfbc5:0x158b650f986b0001!8m2!3d15.8400868!4d74.5112538!16s%2Fg%2F11hb6js84s!19sChIJxfuMAJBmvzsRAQBrmA9lixU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Care+Dental+Clinic/data=!4m7!3m6!1s0x3bbf6690008cfbc5:0x158b650f986b0001!8m2!3d15.8400868!4d74.5112538!16s%2Fg%2F11hb6js84s!19sChIJxfuMAJBmvzsRAQBrmA9lixU?authuser=0&hl=en&rclk=1"
@@ -14720,7 +14844,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Care+Dental+Clinic/data=!4m7!3m6!1s0x3bbf6690008cfbc5:0x158b650f986b0001!8m2!3d15.8400868!4d74.5112538!16s%2Fg%2F11hb6js84s!19sChIJxfuMAJBmvzsRAQBrmA9lixU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smile-n-face-dental-and-implant-center-belagavi",
@@ -14769,7 +14894,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+N%27+Face+Dental+And+Implant+Center/data=!4m7!3m6!1s0x3bbf6174283046ed:0x862b1de0f4b1d0c6!8m2!3d15.8839269!4d74.5122132!16s%2Fg%2F11kbwbnkg9!19sChIJ7UYwKHRhvzsRxtCx9OAdK4Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+N%27+Face+Dental+And+Implant+Center/data=!4m7!3m6!1s0x3bbf6174283046ed:0x862b1de0f4b1d0c6!8m2!3d15.8839269!4d74.5122132!16s%2Fg%2F11kbwbnkg9!19sChIJ7UYwKHRhvzsRxtCx9OAdK4Y?authuser=0&hl=en&rclk=1"
@@ -14838,7 +14963,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+N%27+Face+Dental+And+Implant+Center/data=!4m7!3m6!1s0x3bbf6174283046ed:0x862b1de0f4b1d0c6!8m2!3d15.8839269!4d74.5122132!16s%2Fg%2F11kbwbnkg9!19sChIJ7UYwKHRhvzsRxtCx9OAdK4Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smile-on-dental-experts-belagavi",
@@ -14887,7 +15013,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+On+Dental+Experts/data=!4m7!3m6!1s0x3bbf678e36969bb5:0xf2f5087f32024d18!8m2!3d15.8363332!4d74.5050893!16s%2Fg%2F11w27z_42d!19sChIJtZuWNo5nvzsRGE0CMn8I9fI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+On+Dental+Experts/data=!4m7!3m6!1s0x3bbf678e36969bb5:0xf2f5087f32024d18!8m2!3d15.8363332!4d74.5050893!16s%2Fg%2F11w27z_42d!19sChIJtZuWNo5nvzsRGE0CMn8I9fI?authuser=0&hl=en&rclk=1"
@@ -14953,10 +15079,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+On+Dental+Experts/data=!4m7!3m6!1s0x3bbf678e36969bb5:0xf2f5087f32024d18!8m2!3d15.8363332!4d74.5050893!16s%2Fg%2F11w27z_42d!19sChIJtZuWNo5nvzsRGE0CMn8I9fI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sparsh-skin-hair-and-laser-clinic-belagavi",
@@ -15005,7 +15132,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sparsh+Skin+Hair+%26+Laser+Clinic/data=!4m7!3m6!1s0x3bbf6682e6ab572d:0x6f555ea6a98e2b6d!8m2!3d15.8374116!4d74.5020518!16s%2Fg%2F11btth4q6l!19sChIJLVer5oJmvzsRbSuOqaZeVW8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsh+Skin+Hair+%26+Laser+Clinic/data=!4m7!3m6!1s0x3bbf6682e6ab572d:0x6f555ea6a98e2b6d!8m2!3d15.8374116!4d74.5020518!16s%2Fg%2F11btth4q6l!19sChIJLVer5oJmvzsRbSuOqaZeVW8?authuser=0&hl=en&rclk=1"
@@ -15074,7 +15201,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sparsh+Skin+Hair+%26+Laser+Clinic/data=!4m7!3m6!1s0x3bbf6682e6ab572d:0x6f555ea6a98e2b6d!8m2!3d15.8374116!4d74.5020518!16s%2Fg%2F11btth4q6l!19sChIJLVer5oJmvzsRbSuOqaZeVW8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "speciality-surgical-oncology-belgaum-cancer-hospital-belagavi-belagavi",
@@ -15125,7 +15253,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Speciality+Surgical+Oncology-+Belgaum+Cancer+Hospital,+Belagavi/data=!4m7!3m6!1s0x3bbf66cba1b8eee5:0x3473f83d3e509ff5!8m2!3d15.8722655!4d74.5277283!16s%2Fg%2F1tx4mt90!19sChIJ5e64octmvzsR9Z9QPj34czQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Speciality+Surgical+Oncology-+Belgaum+Cancer+Hospital,+Belagavi/data=!4m7!3m6!1s0x3bbf66cba1b8eee5:0x3473f83d3e509ff5!8m2!3d15.8722655!4d74.5277283!16s%2Fg%2F1tx4mt90!19sChIJ5e64octmvzsR9Z9QPj34czQ?authuser=0&hl=en&rclk=1"
@@ -15194,7 +15322,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Speciality+Surgical+Oncology-+Belgaum+Cancer+Hospital,+Belagavi/data=!4m7!3m6!1s0x3bbf66cba1b8eee5:0x3473f83d3e509ff5!8m2!3d15.8722655!4d74.5277283!16s%2Fg%2F1tx4mt90!19sChIJ5e64octmvzsR9Z9QPj34czQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-manjunatheshwara-s-smile-dental-clinic-bhagyanagar-belgaum-belagavi",
@@ -15243,7 +15372,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Manjunatheshwara%27s+Smile+dental+clinic+Bhagyanagar+Belgaum/data=!4m7!3m6!1s0x3bbf67166fe607b3:0x5125a6fc9180f97c!8m2!3d15.8330347!4d74.504558!16s%2Fg%2F11mp1_bv7p!19sChIJswfmbxZnvzsRfPmAkfymJVE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Manjunatheshwara%27s+Smile+dental+clinic+Bhagyanagar+Belgaum/data=!4m7!3m6!1s0x3bbf67166fe607b3:0x5125a6fc9180f97c!8m2!3d15.8330347!4d74.504558!16s%2Fg%2F11mp1_bv7p!19sChIJswfmbxZnvzsRfPmAkfymJVE?authuser=0&hl=en&rclk=1"
@@ -15309,10 +15438,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Manjunatheshwara%27s+Smile+dental+clinic+Bhagyanagar+Belgaum/data=!4m7!3m6!1s0x3bbf67166fe607b3:0x5125a6fc9180f97c!8m2!3d15.8330347!4d74.504558!16s%2Fg%2F11mp1_bv7p!19sChIJswfmbxZnvzsRfPmAkfymJVE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-sankalp-nursing-home-belagavi",
@@ -15360,7 +15490,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/sri+sankalp+nursing+home/data=!4m7!3m6!1s0x3bbf6682e15801b3:0x4afb6f56f1b0cacc!8m2!3d15.8374252!4d74.5020619!16s%2Fg%2F11dyn70x5n!19sChIJswFY4YJmvzsRzMqw8VZv-0o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/sri+sankalp+nursing+home/data=!4m7!3m6!1s0x3bbf6682e15801b3:0x4afb6f56f1b0cacc!8m2!3d15.8374252!4d74.5020619!16s%2Fg%2F11dyn70x5n!19sChIJswFY4YJmvzsRzMqw8VZv-0o?authuser=0&hl=en&rclk=1"
@@ -15429,7 +15559,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/sri+sankalp+nursing+home/data=!4m7!3m6!1s0x3bbf6682e15801b3:0x4afb6f56f1b0cacc!8m2!3d15.8374252!4d74.5020619!16s%2Fg%2F11dyn70x5n!19sChIJswFY4YJmvzsRzMqw8VZv-0o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sunshine-hospital-complete-women-care-hospital-belagavi",
@@ -15478,7 +15609,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sunshine+Hospital+-+Complete+Women+Care+Hospital/data=!4m7!3m6!1s0x3bbf614630c2dc01:0x29b3de73478ee3ce!8m2!3d15.8751573!4d74.5145281!16s%2Fg%2F11f66g6jrw!19sChIJAdzCMEZhvzsRzuOOR3Pesyk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunshine+Hospital+-+Complete+Women+Care+Hospital/data=!4m7!3m6!1s0x3bbf614630c2dc01:0x29b3de73478ee3ce!8m2!3d15.8751573!4d74.5145281!16s%2Fg%2F11f66g6jrw!19sChIJAdzCMEZhvzsRzuOOR3Pesyk?authuser=0&hl=en&rclk=1"
@@ -15547,7 +15678,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunshine+Hospital+-+Complete+Women+Care+Hospital/data=!4m7!3m6!1s0x3bbf614630c2dc01:0x29b3de73478ee3ce!8m2!3d15.8751573!4d74.5145281!16s%2Fg%2F11f66g6jrw!19sChIJAdzCMEZhvzsRzuOOR3Pesyk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "suresh-bhat-s-clinic-belagavi",
@@ -15593,7 +15725,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/SURESH+BHAT%27S+CLINIC/data=!4m7!3m6!1s0x3bbf66911666ba9f:0x277204d97e954bbd!8m2!3d15.8443083!4d74.515108!16s%2Fg%2F11l6tml2fm!19sChIJn7pmFpFmvzsRvUuVftkEcic?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SURESH+BHAT%27S+CLINIC/data=!4m7!3m6!1s0x3bbf66911666ba9f:0x277204d97e954bbd!8m2!3d15.8443083!4d74.515108!16s%2Fg%2F11l6tml2fm!19sChIJn7pmFpFmvzsRvUuVftkEcic?authuser=0&hl=en&rclk=1"
@@ -15659,10 +15791,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SURESH+BHAT%27S+CLINIC/data=!4m7!3m6!1s0x3bbf66911666ba9f:0x277204d97e954bbd!8m2!3d15.8443083!4d74.515108!16s%2Fg%2F11l6tml2fm!19sChIJn7pmFpFmvzsRvUuVftkEcic?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sweeton-dental-clinic-belagavi",
@@ -15710,7 +15843,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sweeton+Dental+Clinic/data=!4m7!3m6!1s0x3bbf66b007c73527:0x97a1a05e9397b9ae!8m2!3d15.8627959!4d74.5119654!16s%2Fg%2F11c0vylmp0!19sChIJJzXHB7BmvzsRrrmXk16goZc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sweeton+Dental+Clinic/data=!4m7!3m6!1s0x3bbf66b007c73527:0x97a1a05e9397b9ae!8m2!3d15.8627959!4d74.5119654!16s%2Fg%2F11c0vylmp0!19sChIJJzXHB7BmvzsRrrmXk16goZc?authuser=0&hl=en&rclk=1"
@@ -15776,10 +15909,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sweeton+Dental+Clinic/data=!4m7!3m6!1s0x3bbf66b007c73527:0x97a1a05e9397b9ae!8m2!3d15.8627959!4d74.5119654!16s%2Fg%2F11c0vylmp0!19sChIJJzXHB7BmvzsRrrmXk16goZc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-dentist-belagavi",
@@ -15827,7 +15961,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/THE+DENTIST/data=!4m7!3m6!1s0x3bbf61bcaf406483:0xfeddaf7a42e3274a!8m2!3d15.8868792!4d74.5444877!16s%2Fg%2F11xyyncdp3!19sChIJg2RAr7xhvzsRSifjQnqv3f4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THE+DENTIST/data=!4m7!3m6!1s0x3bbf61bcaf406483:0xfeddaf7a42e3274a!8m2!3d15.8868792!4d74.5444877!16s%2Fg%2F11xyyncdp3!19sChIJg2RAr7xhvzsRSifjQnqv3f4?authuser=0&hl=en&rclk=1"
@@ -15893,10 +16027,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/THE+DENTIST/data=!4m7!3m6!1s0x3bbf61bcaf406483:0xfeddaf7a42e3274a!8m2!3d15.8868792!4d74.5444877!16s%2Fg%2F11xyyncdp3!19sChIJg2RAr7xhvzsRSifjQnqv3f4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-physio-clinic-and-rehabilitation-centre-belgaum-belagavi",
@@ -15945,7 +16080,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/THE+PHYSIO+CLINIC+%26+REHABILITATION+CENTRE+Belgaum/data=!4m7!3m6!1s0x3bbf67fdd5d596fd:0xff738525a702faf6!8m2!3d15.8376144!4d74.5011257!16s%2Fg%2F11ycxxnrrc!19sChIJ_ZbV1f1nvzsR9voCpyWFc_8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THE+PHYSIO+CLINIC+%26+REHABILITATION+CENTRE+Belgaum/data=!4m7!3m6!1s0x3bbf67fdd5d596fd:0xff738525a702faf6!8m2!3d15.8376144!4d74.5011257!16s%2Fg%2F11ycxxnrrc!19sChIJ_ZbV1f1nvzsR9voCpyWFc_8?authuser=0&hl=en&rclk=1"
@@ -16014,7 +16149,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/THE+PHYSIO+CLINIC+%26+REHABILITATION+CENTRE+Belgaum/data=!4m7!3m6!1s0x3bbf67fdd5d596fd:0xff738525a702faf6!8m2!3d15.8376144!4d74.5011257!16s%2Fg%2F11ycxxnrrc!19sChIJ_ZbV1f1nvzsR9voCpyWFc_8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-white-dental-clinic-belagavi",
@@ -16063,7 +16199,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+White+Dental+Clinic/data=!4m7!3m6!1s0x3bbf67542e2359e7:0x4f252e5ccb437ca1!8m2!3d15.8364549!4d74.5002862!16s%2Fg%2F11qbcgtgmw!19sChIJ51kjLlRnvzsRoXxDy1wuJU8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+White+Dental+Clinic/data=!4m7!3m6!1s0x3bbf67542e2359e7:0x4f252e5ccb437ca1!8m2!3d15.8364549!4d74.5002862!16s%2Fg%2F11qbcgtgmw!19sChIJ51kjLlRnvzsRoXxDy1wuJU8?authuser=0&hl=en&rclk=1"
@@ -16132,7 +16268,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+White+Dental+Clinic/data=!4m7!3m6!1s0x3bbf67542e2359e7:0x4f252e5ccb437ca1!8m2!3d15.8364549!4d74.5002862!16s%2Fg%2F11qbcgtgmw!19sChIJ51kjLlRnvzsRoXxDy1wuJU8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "thousand-smiles-dental-clinic-and-orthodontic-center-belagavi",
@@ -16182,7 +16319,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Thousand+Smiles+Dental+Clinic+and+Orthodontic+Center/data=!4m7!3m6!1s0x3bbf669cfbb55ff5:0xb6cb2e55ba8d7bfc!8m2!3d15.8416671!4d74.502989!16s%2Fg%2F1hf3_9zsr!19sChIJ9V-1-5xmvzsR_HuNulUuy7Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thousand+Smiles+Dental+Clinic+and+Orthodontic+Center/data=!4m7!3m6!1s0x3bbf669cfbb55ff5:0xb6cb2e55ba8d7bfc!8m2!3d15.8416671!4d74.502989!16s%2Fg%2F1hf3_9zsr!19sChIJ9V-1-5xmvzsR_HuNulUuy7Y?authuser=0&hl=en&rclk=1"
@@ -16251,7 +16388,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thousand+Smiles+Dental+Clinic+and+Orthodontic+Center/data=!4m7!3m6!1s0x3bbf669cfbb55ff5:0xb6cb2e55ba8d7bfc!8m2!3d15.8416671!4d74.502989!16s%2Fg%2F1hf3_9zsr!19sChIJ9V-1-5xmvzsR_HuNulUuy7Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tukkar-hospital-belagavi",
@@ -16299,7 +16437,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/TUKKAR+HOSPITAL/data=!4m7!3m6!1s0x3bbf67ab772345a1:0xb03c7903bb7c731e!8m2!3d15.8564895!4d74.5117641!16s%2Fg%2F1v93zj5t!19sChIJoUUjd6tnvzsRHnN8uwN5PLA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TUKKAR+HOSPITAL/data=!4m7!3m6!1s0x3bbf67ab772345a1:0xb03c7903bb7c731e!8m2!3d15.8564895!4d74.5117641!16s%2Fg%2F1v93zj5t!19sChIJoUUjd6tnvzsRHnN8uwN5PLA?authuser=0&hl=en&rclk=1"
@@ -16368,7 +16506,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TUKKAR+HOSPITAL/data=!4m7!3m6!1s0x3bbf67ab772345a1:0xb03c7903bb7c731e!8m2!3d15.8564895!4d74.5117641!16s%2Fg%2F1v93zj5t!19sChIJoUUjd6tnvzsRHnN8uwN5PLA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "unicare-hospital-belagavi",
@@ -16418,7 +16557,7 @@
       "3+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Unicare+Hospital/data=!4m7!3m6!1s0x3bbf670dde71f847:0xf7e1a4930b7d575b!8m2!3d15.8455348!4d74.5155947!16s%2Fg%2F11y49y4w3q!19sChIJR_hx3g1nvzsRW1d9C5Ok4fc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unicare+Hospital/data=!4m7!3m6!1s0x3bbf670dde71f847:0xf7e1a4930b7d575b!8m2!3d15.8455348!4d74.5155947!16s%2Fg%2F11y49y4w3q!19sChIJR_hx3g1nvzsRW1d9C5Ok4fc?authuser=0&hl=en&rclk=1"
@@ -16487,7 +16626,8 @@
     "rating": 4.8,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Unicare+Hospital/data=!4m7!3m6!1s0x3bbf670dde71f847:0xf7e1a4930b7d575b!8m2!3d15.8455348!4d74.5155947!16s%2Fg%2F11y49y4w3q!19sChIJR_hx3g1nvzsRW1d9C5Ok4fc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "unique-hair-transplant-belagavi",
@@ -16537,7 +16677,7 @@
       "Google rating 5.0",
       "107+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/UNIQUE+HAIR+TRANSPLANT/data=!4m7!3m6!1s0x3bbf67abbc7a7523:0xb53aab0fbbbf3397!8m2!3d15.8577687!4d74.5086576!16s%2Fg%2F11x1jgqn2l!19sChIJI3V6vKtnvzsRlzO_uw-rOrU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UNIQUE+HAIR+TRANSPLANT/data=!4m7!3m6!1s0x3bbf67abbc7a7523:0xb53aab0fbbbf3397!8m2!3d15.8577687!4d74.5086576!16s%2Fg%2F11x1jgqn2l!19sChIJI3V6vKtnvzsRlzO_uw-rOrU?authuser=0&hl=en&rclk=1"
@@ -16603,10 +16743,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 107,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/UNIQUE+HAIR+TRANSPLANT/data=!4m7!3m6!1s0x3bbf67abbc7a7523:0xb53aab0fbbbf3397!8m2!3d15.8577687!4d74.5086576!16s%2Fg%2F11x1jgqn2l!19sChIJI3V6vKtnvzsRlzO_uw-rOrU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "uro-care-centre-belagavi",
@@ -16654,7 +16795,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Uro+Care+Centre/data=!4m7!3m6!1s0x3bbf66a515b8441d:0xc08fad0827e7003e!8m2!3d15.8610216!4d74.5080014!16s%2Fg%2F1v6p79f8!19sChIJHUS4FaVmvzsRPgDnJwitj8A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uro+Care+Centre/data=!4m7!3m6!1s0x3bbf66a515b8441d:0xc08fad0827e7003e!8m2!3d15.8610216!4d74.5080014!16s%2Fg%2F1v6p79f8!19sChIJHUS4FaVmvzsRPgDnJwitj8A?authuser=0&hl=en&rclk=1"
@@ -16723,7 +16864,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Uro+Care+Centre/data=!4m7!3m6!1s0x3bbf66a515b8441d:0xc08fad0827e7003e!8m2!3d15.8610216!4d74.5080014!16s%2Fg%2F1v6p79f8!19sChIJHUS4FaVmvzsRPgDnJwitj8A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "v-derma-skin-clinic-belagavi",
@@ -16771,7 +16913,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/V+Derma+Skin+Clinic/data=!4m7!3m6!1s0x3bbf61f7d1972f1b:0x6e57ede0923cfeab!8m2!3d15.8838707!4d74.5097572!16s%2Fg%2F11kqwljf_y!19sChIJGy-X0fdhvzsRq_48kuDtV24?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V+Derma+Skin+Clinic/data=!4m7!3m6!1s0x3bbf61f7d1972f1b:0x6e57ede0923cfeab!8m2!3d15.8838707!4d74.5097572!16s%2Fg%2F11kqwljf_y!19sChIJGy-X0fdhvzsRq_48kuDtV24?authuser=0&hl=en&rclk=1"
@@ -16840,7 +16982,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/V+Derma+Skin+Clinic/data=!4m7!3m6!1s0x3bbf61f7d1972f1b:0x6e57ede0923cfeab!8m2!3d15.8838707!4d74.5097572!16s%2Fg%2F11kqwljf_y!19sChIJGy-X0fdhvzsRq_48kuDtV24?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "v-n-desai-hospital-belagavi",
@@ -16888,7 +17031,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/V.n.+Desai+Hospital/data=!4m7!3m6!1s0x3bbf67cb55ef42eb:0xcf568040263f1f05!8m2!3d15.8607255!4d74.511445!16s%2Fg%2F11h22jb0fw!19sChIJ60LvVctnvzsRBR8_JkCAVs8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V.n.+Desai+Hospital/data=!4m7!3m6!1s0x3bbf67cb55ef42eb:0xcf568040263f1f05!8m2!3d15.8607255!4d74.511445!16s%2Fg%2F11h22jb0fw!19sChIJ60LvVctnvzsRBR8_JkCAVs8?authuser=0&hl=en&rclk=1"
@@ -16954,10 +17097,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/V.n.+Desai+Hospital/data=!4m7!3m6!1s0x3bbf67cb55ef42eb:0xcf568040263f1f05!8m2!3d15.8607255!4d74.511445!16s%2Fg%2F11h22jb0fw!19sChIJ60LvVctnvzsRBR8_JkCAVs8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vcare-hair-and-skin-clinic-belagavi-skin-treatment-hair-treatment-hair-transplant-laser-hair-removal-skin-whitening-belagavi",
@@ -17007,7 +17151,7 @@
       "16+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Belagavi+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/@15.8405721,74.5088601,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf67160cbb66db:0x91da6914dbc25973!8m2!3d15.8405721!4d74.5088601!16s%2Fg%2F11vjk228f_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Belagavi+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/@15.8405721,74.5088601,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf67160cbb66db:0x91da6914dbc25973!8m2!3d15.8405721!4d74.5088601!16s%2Fg%2F11vjk228f_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -17076,7 +17220,8 @@
     "rating": 4.6,
     "reviews": 16,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Belagavi+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/@15.8405721,74.5088601,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf67160cbb66db:0x91da6914dbc25973!8m2!3d15.8405721!4d74.5088601!16s%2Fg%2F11vjk228f_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "venugram-hospital-belagavi",
@@ -17126,7 +17271,7 @@
       "137+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Venugram+Hospital/data=!4m7!3m6!1s0x3bbf65d517208a65:0xa880d7b2bdfcd42c!8m2!3d15.8258605!4d74.4976148!16s%2Fg%2F11cjg9hxb1!19sChIJZYogF9VlvzsRLNT8vbLXgKg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Venugram+Hospital/data=!4m7!3m6!1s0x3bbf65d517208a65:0xa880d7b2bdfcd42c!8m2!3d15.8258605!4d74.4976148!16s%2Fg%2F11cjg9hxb1!19sChIJZYogF9VlvzsRLNT8vbLXgKg?authuser=0&hl=en&rclk=1"
@@ -17195,7 +17340,8 @@
     "rating": 4.6,
     "reviews": 137,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Venugram+Hospital/data=!4m7!3m6!1s0x3bbf65d517208a65:0xa880d7b2bdfcd42c!8m2!3d15.8258605!4d74.4976148!16s%2Fg%2F11cjg9hxb1!19sChIJZYogF9VlvzsRLNT8vbLXgKg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vernekar-hospital-belagavi",
@@ -17245,7 +17391,7 @@
       "Google rating 4.7",
       "1+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Vernekar+hospital/data=!4m7!3m6!1s0x3bbf6779c705a5bd:0x6562fd5ca1541db1!8m2!3d15.8372677!4d74.5212927!16s%2Fg%2F11qykq2vqg!19sChIJvaUFx3lnvzsRsR1UoVz9YmU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vernekar+hospital/data=!4m7!3m6!1s0x3bbf6779c705a5bd:0x6562fd5ca1541db1!8m2!3d15.8372677!4d74.5212927!16s%2Fg%2F11qykq2vqg!19sChIJvaUFx3lnvzsRsR1UoVz9YmU?authuser=0&hl=en&rclk=1"
@@ -17314,7 +17460,8 @@
     "rating": 4.7,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vernekar+hospital/data=!4m7!3m6!1s0x3bbf6779c705a5bd:0x6562fd5ca1541db1!8m2!3d15.8372677!4d74.5212927!16s%2Fg%2F11qykq2vqg!19sChIJvaUFx3lnvzsRsR1UoVz9YmU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vibhaa-hospital-belagavi",
@@ -17363,7 +17510,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vibhaa+hospital/data=!4m7!3m6!1s0x3bbf619ccdc02369:0x202b5f808d6ea1e!8m2!3d15.880703!4d74.5214139!16s%2Fg%2F11sqxhz7xm!19sChIJaSPAzZxhvzsRHurWCPi1AgI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vibhaa+hospital/data=!4m7!3m6!1s0x3bbf619ccdc02369:0x202b5f808d6ea1e!8m2!3d15.880703!4d74.5214139!16s%2Fg%2F11sqxhz7xm!19sChIJaSPAzZxhvzsRHurWCPi1AgI?authuser=0&hl=en&rclk=1"
@@ -17432,7 +17579,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vibhaa+hospital/data=!4m7!3m6!1s0x3bbf619ccdc02369:0x202b5f808d6ea1e!8m2!3d15.880703!4d74.5214139!16s%2Fg%2F11sqxhz7xm!19sChIJaSPAzZxhvzsRHurWCPi1AgI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vijaya-hospital-belgavi-belagavi",
@@ -17481,7 +17629,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vijaya+Hospital+Belgavi/data=!4m7!3m6!1s0x3bbf67b92aef10fb:0xc3464e96201f5702!8m2!3d15.8742326!4d74.5142662!16s%2Fg%2F11ghsbltmj!19sChIJ-xDvKrlnvzsRAlcfIJZORsM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijaya+Hospital+Belgavi/data=!4m7!3m6!1s0x3bbf67b92aef10fb:0xc3464e96201f5702!8m2!3d15.8742326!4d74.5142662!16s%2Fg%2F11ghsbltmj!19sChIJ-xDvKrlnvzsRAlcfIJZORsM?authuser=0&hl=en&rclk=1"
@@ -17550,7 +17698,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vijaya+Hospital+Belgavi/data=!4m7!3m6!1s0x3bbf67b92aef10fb:0xc3464e96201f5702!8m2!3d15.8742326!4d74.5142662!16s%2Fg%2F11ghsbltmj!19sChIJ-xDvKrlnvzsRAlcfIJZORsM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "yash-hospital-critical-care-centre-belagavi",
@@ -17598,7 +17747,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Yash+Hospital+critical+care+centre/data=!4m7!3m6!1s0x3bbf66be19c69953:0x4641eeb5f2936a20!8m2!3d15.8524144!4d74.5182641!16s%2Fg%2F1tglfs01!19sChIJU5nGGb5mvzsRIGqT8rXuQUY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yash+Hospital+critical+care+centre/data=!4m7!3m6!1s0x3bbf66be19c69953:0x4641eeb5f2936a20!8m2!3d15.8524144!4d74.5182641!16s%2Fg%2F1tglfs01!19sChIJU5nGGb5mvzsRIGqT8rXuQUY?authuser=0&hl=en&rclk=1"
@@ -17667,7 +17816,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yash+Hospital+critical+care+centre/data=!4m7!3m6!1s0x3bbf66be19c69953:0x4641eeb5f2936a20!8m2!3d15.8524144!4d74.5182641!16s%2Fg%2F1tglfs01!19sChIJU5nGGb5mvzsRIGqT8rXuQUY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "yashoda-health-clinic-belagavi",
@@ -17715,7 +17865,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Yashoda+Health+Clinic/data=!4m7!3m6!1s0x3bbf66b2d01b2bc5:0x79de8fc632c60cca!8m2!3d15.8736109!4d74.5134029!16s%2Fg%2F11gd92y49b!19sChIJxSsb0LJmvzsRygzGMsaP3nk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashoda+Health+Clinic/data=!4m7!3m6!1s0x3bbf66b2d01b2bc5:0x79de8fc632c60cca!8m2!3d15.8736109!4d74.5134029!16s%2Fg%2F11gd92y49b!19sChIJxSsb0LJmvzsRygzGMsaP3nk?authuser=0&hl=en&rclk=1"
@@ -17784,7 +17934,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashoda+Health+Clinic/data=!4m7!3m6!1s0x3bbf66b2d01b2bc5:0x79de8fc632c60cca!8m2!3d15.8736109!4d74.5134029!16s%2Fg%2F11gd92y49b!19sChIJxSsb0LJmvzsRygzGMsaP3nk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "zingade-ent-eye-and-dental-hospital-belagavi",
@@ -17833,7 +17984,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Zingade+ENT+EYE+and+DENTAL+Hospital/data=!4m7!3m6!1s0x3bbf668499266cad:0xacb2fd5ae1146b75!8m2!3d15.8377012!4d74.5058575!16s%2Fg%2F11byyrwdz5!19sChIJrWwmmYRmvzsRdWsU4Vr9sqw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zingade+ENT+EYE+and+DENTAL+Hospital/data=!4m7!3m6!1s0x3bbf668499266cad:0xacb2fd5ae1146b75!8m2!3d15.8377012!4d74.5058575!16s%2Fg%2F11byyrwdz5!19sChIJrWwmmYRmvzsRdWsU4Vr9sqw?authuser=0&hl=en&rclk=1"
@@ -17902,6 +18053,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zingade+ENT+EYE+and+DENTAL+Hospital/data=!4m7!3m6!1s0x3bbf668499266cad:0xacb2fd5ae1146b75!8m2!3d15.8377012!4d74.5058575!16s%2Fg%2F11byyrwdz5!19sChIJrWwmmYRmvzsRdWsU4Vr9sqw?authuser=0&hl=en&rclk=1"
   }
 ]

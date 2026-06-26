@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Akruthi+Dental+Facial+Cosmetic+Surgery+%26+Hair+Transplantation+Center/@15.4848868,78.4874717,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4def736355:0x946c88ffc7e85bcd!8m2!3d15.4848868!4d78.4874717!16s%2Fg%2F11fhz1p6f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akruthi+Dental+Facial+Cosmetic+Surgery+%26+Hair+Transplantation+Center/@15.4848868,78.4874717,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4def736355:0x946c88ffc7e85bcd!8m2!3d15.4848868!4d78.4874717!16s%2Fg%2F11fhz1p6f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -111,10 +111,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Akruthi+Dental+Facial+Cosmetic+Surgery+%26+Hair+Transplantation+Center/@15.4848868,78.4874717,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4def736355:0x946c88ffc7e85bcd!8m2!3d15.4848868!4d78.4874717!16s%2Fg%2F11fhz1p6f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amaravathi-nethralayam-nandyala",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/AMARAVATHI+NETHRALAYAM/@15.4836349,78.4733096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adbf27f74855:0xc5b7b342482614b2!8m2!3d15.4836349!4d78.4733096!16s%2Fg%2F11wfjyhlrp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMARAVATHI+NETHRALAYAM/@15.4836349,78.4733096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adbf27f74855:0xc5b7b342482614b2!8m2!3d15.4836349!4d78.4733096!16s%2Fg%2F11wfjyhlrp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -229,10 +230,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AMARAVATHI+NETHRALAYAM/@15.4836349,78.4733096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adbf27f74855:0xc5b7b342482614b2!8m2!3d15.4836349!4d78.4733096!16s%2Fg%2F11wfjyhlrp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "american-heart-center-nandyala",
@@ -282,7 +284,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/American+Heart+Center/@15.4804083,78.4830086,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad40b11e8689:0x31644e807629603e!8m2!3d15.4804083!4d78.4830086!16s%2Fg%2F11tnbgry_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/American+Heart+Center/@15.4804083,78.4830086,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad40b11e8689:0x31644e807629603e!8m2!3d15.4804083!4d78.4830086!16s%2Fg%2F11tnbgry_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -348,10 +350,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/American+Heart+Center/@15.4804083,78.4830086,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad40b11e8689:0x31644e807629603e!8m2!3d15.4804083!4d78.4830086!16s%2Fg%2F11tnbgry_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amrutha-piles-clinic-ayurveda-ksharasutra-treatment-nandyala",
@@ -400,7 +403,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Amrutha+Piles+Clinic+,+Ayurveda+Ksharasutra+treatment/@15.4856855,78.4819584,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad805d76d5cf:0xb7be3e2929892a8e!8m2!3d15.4856855!4d78.4819584!16s%2Fg%2F11p419wzp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrutha+Piles+Clinic+,+Ayurveda+Ksharasutra+treatment/@15.4856855,78.4819584,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad805d76d5cf:0xb7be3e2929892a8e!8m2!3d15.4856855!4d78.4819584!16s%2Fg%2F11p419wzp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -469,7 +472,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrutha+Piles+Clinic+,+Ayurveda+Ksharasutra+treatment/@15.4856855,78.4819584,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad805d76d5cf:0xb7be3e2929892a8e!8m2!3d15.4856855!4d78.4819584!16s%2Fg%2F11p419wzp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anil-children-s-and-neonatal-hospital-nandyala",
@@ -518,7 +522,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Anil+children%E2%80%99s+and+neonatal+hospital/@15.4855458,78.4847088,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0052f4126b:0x2e32bb5ffa1d464e!8m2!3d15.4855458!4d78.4847088!16s%2Fg%2F11yv8whh2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anil+children%E2%80%99s+and+neonatal+hospital/@15.4855458,78.4847088,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0052f4126b:0x2e32bb5ffa1d464e!8m2!3d15.4855458!4d78.4847088!16s%2Fg%2F11yv8whh2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -584,10 +588,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anil+children%E2%80%99s+and+neonatal+hospital/@15.4855458,78.4847088,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0052f4126b:0x2e32bb5ffa1d464e!8m2!3d15.4855458!4d78.4847088!16s%2Fg%2F11yv8whh2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anitha-children-hospital-nandyala",
@@ -636,7 +641,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Anitha+children+hospital/@15.484915,78.4874657,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4883074feb:0x74a4a89f0b5dba34!8m2!3d15.484915!4d78.4874657!16s%2Fg%2F11nyk_rxv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anitha+children+hospital/@15.484915,78.4874657,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4883074feb:0x74a4a89f0b5dba34!8m2!3d15.484915!4d78.4874657!16s%2Fg%2F11nyk_rxv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -705,7 +710,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anitha+children+hospital/@15.484915,78.4874657,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4883074feb:0x74a4a89f0b5dba34!8m2!3d15.484915!4d78.4874657!16s%2Fg%2F11nyk_rxv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "archana-dental-hospitals-nandyala",
@@ -754,7 +760,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Archana+Dental+Hospitals/@15.4828933,78.4845165,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad7c836e4fff:0xb8eda83deae1060e!8m2!3d15.4828933!4d78.4845165!16s%2Fg%2F11xrdrg9hz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Archana+Dental+Hospitals/@15.4828933,78.4845165,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad7c836e4fff:0xb8eda83deae1060e!8m2!3d15.4828933!4d78.4845165!16s%2Fg%2F11xrdrg9hz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -820,10 +826,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Archana+Dental+Hospitals/@15.4828933,78.4845165,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad7c836e4fff:0xb8eda83deae1060e!8m2!3d15.4828933!4d78.4845165!16s%2Fg%2F11xrdrg9hz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bharath-neuro-centre-nandyala",
@@ -872,7 +879,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/BHARATH+NEURO+CENTRE/@15.4871108,78.4804672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad44b6b258fd:0x3a0f6643c77e11dd!8m2!3d15.4871108!4d78.4804672!16s%2Fg%2F11rylbp78g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BHARATH+NEURO+CENTRE/@15.4871108,78.4804672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad44b6b258fd:0x3a0f6643c77e11dd!8m2!3d15.4871108!4d78.4804672!16s%2Fg%2F11rylbp78g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -938,10 +945,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BHARATH+NEURO+CENTRE/@15.4871108,78.4804672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad44b6b258fd:0x3a0f6643c77e11dd!8m2!3d15.4871108!4d78.4804672!16s%2Fg%2F11rylbp78g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chaitanya-dental-clinic-nandyala",
@@ -989,7 +997,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Chaitanya+Dental+Clinic/@15.4864153,78.4815534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5188066363:0x7a9d5e5b2944306!8m2!3d15.4864153!4d78.4815534!16s%2Fg%2F11c5_9cjt8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaitanya+Dental+Clinic/@15.4864153,78.4815534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5188066363:0x7a9d5e5b2944306!8m2!3d15.4864153!4d78.4815534!16s%2Fg%2F11c5_9cjt8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1058,7 +1066,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chaitanya+Dental+Clinic/@15.4864153,78.4815534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5188066363:0x7a9d5e5b2944306!8m2!3d15.4864153!4d78.4815534!16s%2Fg%2F11c5_9cjt8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chandamama-children-s-hospital-nandyala",
@@ -1107,7 +1116,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Chandamama+Children's+Hospital/@15.4855983,78.4907772,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4c21fb6efb:0x675413409d281543!8m2!3d15.4855983!4d78.4907772!16s%2Fg%2F11b6c5wy8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandamama+Children's+Hospital/@15.4855983,78.4907772,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4c21fb6efb:0x675413409d281543!8m2!3d15.4855983!4d78.4907772!16s%2Fg%2F11b6c5wy8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1176,7 +1185,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chandamama+Children's+Hospital/@15.4855983,78.4907772,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4c21fb6efb:0x675413409d281543!8m2!3d15.4855983!4d78.4907772!16s%2Fg%2F11b6c5wy8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chandans-ano-rectal-ayurveda-hospital-nandyala",
@@ -1225,7 +1235,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chandans+Ano+Rectal+Ayurveda+Hospital/data=!4m7!3m6!1s0x3bb5adff764c3df5:0x70736fefdee69119!8m2!3d15.4871603!4d78.4802122!16s%2Fg%2F11ygqn_y59!19sChIJ9T1Mdv-ttTsRGZHm3u9vc3A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandans+Ano+Rectal+Ayurveda+Hospital/data=!4m7!3m6!1s0x3bb5adff764c3df5:0x70736fefdee69119!8m2!3d15.4871603!4d78.4802122!16s%2Fg%2F11ygqn_y59!19sChIJ9T1Mdv-ttTsRGZHm3u9vc3A?authuser=0&hl=en&rclk=1"
@@ -1291,10 +1301,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chandans+Ano+Rectal+Ayurveda+Hospital/data=!4m7!3m6!1s0x3bb5adff764c3df5:0x70736fefdee69119!8m2!3d15.4871603!4d78.4802122!16s%2Fg%2F11ygqn_y59!19sChIJ9T1Mdv-ttTsRGZHm3u9vc3A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chandrakala-hospital-nandyala",
@@ -1342,7 +1353,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/Chandrakala+Hospital/@15.4804083,78.4830086,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc960bae655:0xfdbd3180431cae7f!8m2!3d15.4804083!4d78.4830086!16s%2Fg%2F11gpn9d9h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandrakala+Hospital/@15.4804083,78.4830086,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc960bae655:0xfdbd3180431cae7f!8m2!3d15.4804083!4d78.4830086!16s%2Fg%2F11gpn9d9h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1411,7 +1422,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chandrakala+Hospital/@15.4804083,78.4830086,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc960bae655:0xfdbd3180431cae7f!8m2!3d15.4804083!4d78.4830086!16s%2Fg%2F11gpn9d9h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "clear-view-lasik-centre-nandyala",
@@ -1460,7 +1472,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/CLEAR+VIEW+LASIK+CENTRE/@15.4816032,78.4848368,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc8fde5a571:0x1130f30220071450!8m2!3d15.4816032!4d78.4848368!16s%2Fg%2F11z474z8dr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CLEAR+VIEW+LASIK+CENTRE/@15.4816032,78.4848368,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc8fde5a571:0x1130f30220071450!8m2!3d15.4816032!4d78.4848368!16s%2Fg%2F11z474z8dr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1526,10 +1538,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CLEAR+VIEW+LASIK+CENTRE/@15.4816032,78.4848368,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc8fde5a571:0x1130f30220071450!8m2!3d15.4816032!4d78.4848368!16s%2Fg%2F11z474z8dr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "general-hospital-nandyala",
@@ -1577,7 +1590,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/GENERAL+HOSPITAL/@15.4687287,78.4838962,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb452af82555551:0xc84160817dc50658!8m2!3d15.4687287!4d78.4838962!16s%2Fg%2F11css6q8pq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GENERAL+HOSPITAL/@15.4687287,78.4838962,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb452af82555551:0xc84160817dc50658!8m2!3d15.4687287!4d78.4838962!16s%2Fg%2F11css6q8pq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1646,7 +1659,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GENERAL+HOSPITAL/@15.4687287,78.4838962,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb452af82555551:0xc84160817dc50658!8m2!3d15.4687287!4d78.4838962!16s%2Fg%2F11css6q8pq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "glamours-beauty-clinic-skin-and-hair-spa-nandyala",
@@ -1695,7 +1709,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Glamours+Beauty+Clinic+(Skin+And+Hair+Spa)/@15.4907769,78.4833766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc712a0e745:0x54cfde026a25e467!8m2!3d15.4907769!4d78.4833766!16s%2Fg%2F11t8094w17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Glamours+Beauty+Clinic+(Skin+And+Hair+Spa)/@15.4907769,78.4833766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc712a0e745:0x54cfde026a25e467!8m2!3d15.4907769!4d78.4833766!16s%2Fg%2F11t8094w17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1761,10 +1775,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Glamours+Beauty+Clinic+(Skin+And+Hair+Spa)/@15.4907769,78.4833766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc712a0e745:0x54cfde026a25e467!8m2!3d15.4907769!4d78.4833766!16s%2Fg%2F11t8094w17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-general-hospital-nandyala",
@@ -1812,7 +1827,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Government+General+Hospital/@15.4775067,78.4863879,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb453c72b1d207d:0x80c3d3762fc3f2b3!8m2!3d15.4775067!4d78.4863879!16s%2Fg%2F11jsm0sx51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+General+Hospital/@15.4775067,78.4863879,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb453c72b1d207d:0x80c3d3762fc3f2b3!8m2!3d15.4775067!4d78.4863879!16s%2Fg%2F11jsm0sx51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1878,10 +1893,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+General+Hospital/@15.4775067,78.4863879,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb453c72b1d207d:0x80c3d3762fc3f2b3!8m2!3d15.4775067!4d78.4863879!16s%2Fg%2F11jsm0sx51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "govt-general-hospital-nandyal-nandyala",
@@ -1929,7 +1945,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Govt.+General+Hospital+Nandyal/@15.468605,78.4833108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb453cd3f26be8f:0xc0535a8d6ce1ae70!8m2!3d15.468605!4d78.4833108!16s%2Fg%2F11fmsct0hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt.+General+Hospital+Nandyal/@15.468605,78.4833108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb453cd3f26be8f:0xc0535a8d6ce1ae70!8m2!3d15.468605!4d78.4833108!16s%2Fg%2F11fmsct0hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1998,7 +2014,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govt.+General+Hospital+Nandyal/@15.468605,78.4833108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb453cd3f26be8f:0xc0535a8d6ce1ae70!8m2!3d15.468605!4d78.4833108!16s%2Fg%2F11fmsct0hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "harshavardhan-reddy-plastic-surgery-clinic-nandyala",
@@ -2046,7 +2063,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Harshavardhan+Reddy+Plastic+Surgery+Clinic/@15.4806521,78.4841159,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad002e56c859:0x65a913bbda271a7f!8m2!3d15.4806521!4d78.4841159!16s%2Fg%2F11vs53chkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Harshavardhan+Reddy+Plastic+Surgery+Clinic/@15.4806521,78.4841159,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad002e56c859:0x65a913bbda271a7f!8m2!3d15.4806521!4d78.4841159!16s%2Fg%2F11vs53chkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2112,10 +2129,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Harshavardhan+Reddy+Plastic+Surgery+Clinic/@15.4806521,78.4841159,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad002e56c859:0x65a913bbda271a7f!8m2!3d15.4806521!4d78.4841159!16s%2Fg%2F11vs53chkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hyder-hospitals-nandyala",
@@ -2163,7 +2181,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Hyder+Hospitals/@15.4821854,78.4824629,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad55dd295a33:0xe015b3c126f48731!8m2!3d15.4821854!4d78.4824629!16s%2Fg%2F11ddzhmm4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hyder+Hospitals/@15.4821854,78.4824629,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad55dd295a33:0xe015b3c126f48731!8m2!3d15.4821854!4d78.4824629!16s%2Fg%2F11ddzhmm4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2232,7 +2250,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hyder+Hospitals/@15.4821854,78.4824629,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad55dd295a33:0xe015b3c126f48731!8m2!3d15.4821854!4d78.4824629!16s%2Fg%2F11ddzhmm4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "icon-ivf-best-ivf-center-in-nandyal-nandyala",
@@ -2282,7 +2301,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/iCon+IVF%7CBest+IVF+Center+in+Nandyal/@15.4811171,78.4839006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adf6793b927d:0x6a5ecf5ec21af115!8m2!3d15.4811171!4d78.4839006!16s%2Fg%2F11sth8w1xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/iCon+IVF%7CBest+IVF+Center+in+Nandyal/@15.4811171,78.4839006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adf6793b927d:0x6a5ecf5ec21af115!8m2!3d15.4811171!4d78.4839006!16s%2Fg%2F11sth8w1xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2351,7 +2370,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/iCon+IVF%7CBest+IVF+Center+in+Nandyal/@15.4811171,78.4839006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adf6793b927d:0x6a5ecf5ec21af115!8m2!3d15.4811171!4d78.4839006!16s%2Fg%2F11sth8w1xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jabilli-hospital-pediatric-and-maternity-center-nandyala",
@@ -2400,7 +2420,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jabilli+Hospital+pediatric+and+maternity+center/@15.4859806,78.4901161,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad53cbc05833:0x97cf9d54d9e9e994!8m2!3d15.4859806!4d78.4901161!16s%2Fg%2F11bwqmcnrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jabilli+Hospital+pediatric+and+maternity+center/@15.4859806,78.4901161,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad53cbc05833:0x97cf9d54d9e9e994!8m2!3d15.4859806!4d78.4901161!16s%2Fg%2F11bwqmcnrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2469,7 +2489,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jabilli+Hospital+pediatric+and+maternity+center/@15.4859806,78.4901161,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad53cbc05833:0x97cf9d54d9e9e994!8m2!3d15.4859806!4d78.4901161!16s%2Fg%2F11bwqmcnrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "janani-hospital-obg-nandyala",
@@ -2517,7 +2538,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Janani+hospital+OBG/@15.483292,78.480358,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0004b4cba3:0x54baf264ab09cb3d!8m2!3d15.483292!4d78.480358!16s%2Fg%2F11lymf4tgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janani+hospital+OBG/@15.483292,78.480358,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0004b4cba3:0x54baf264ab09cb3d!8m2!3d15.483292!4d78.480358!16s%2Fg%2F11lymf4tgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2583,10 +2604,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Janani+hospital+OBG/@15.483292,78.480358,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0004b4cba3:0x54baf264ab09cb3d!8m2!3d15.483292!4d78.480358!16s%2Fg%2F11lymf4tgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "k-m-reddy-dental-care-and-implant-center-nandyala",
@@ -2634,7 +2656,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/K.+M.+Reddy+Dental+care+and+Implant+center/@15.4845736,78.4750293,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b325a9a93261:0x354927219242d641!8m2!3d15.4845736!4d78.4750293!16s%2Fg%2F11fjy4gb4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K.+M.+Reddy+Dental+care+and+Implant+center/@15.4845736,78.4750293,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b325a9a93261:0x354927219242d641!8m2!3d15.4845736!4d78.4750293!16s%2Fg%2F11fjy4gb4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2700,10 +2722,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/K.+M.+Reddy+Dental+care+and+Implant+center/@15.4845736,78.4750293,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b325a9a93261:0x354927219242d641!8m2!3d15.4845736!4d78.4750293!16s%2Fg%2F11fjy4gb4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kanthi-dental-care-and-implant-centre-nandyala",
@@ -2751,7 +2774,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kanthi+Dental+care+and+Implant+centre/@15.4691368,78.4854598,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb4530019cea335:0x3a5cd0ff5039bbde!8m2!3d15.4691368!4d78.4854598!16s%2Fg%2F11vx5nw9hy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kanthi+Dental+care+and+Implant+centre/@15.4691368,78.4854598,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb4530019cea335:0x3a5cd0ff5039bbde!8m2!3d15.4691368!4d78.4854598!16s%2Fg%2F11vx5nw9hy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2817,10 +2840,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kanthi+Dental+care+and+Implant+centre/@15.4691368,78.4854598,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb4530019cea335:0x3a5cd0ff5039bbde!8m2!3d15.4691368!4d78.4854598!16s%2Fg%2F11vx5nw9hy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kanthi-dental-care-sanjeevanagargate-nandyal-nandyala",
@@ -2868,7 +2892,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kanthi+Dental+care+sanjeevanagargate+Nandyal,+%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B0%BF+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%E0%B0%B8%E0%B0%82%E0%B0%9C%E0%B1%80%E0%B0%B5%E0%B0%A8%E0%B0%97%E0%B0%B0%E0%B1%8D+%E0%B0%97%E0%B1%87%E0%B0%9F%E0%B1%8D+%E0%B0%A8%E0%B0%82%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%B2/@15.4877014,78.4782416,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad001c21796d:0x602c54b1dc6b8287!8m2!3d15.4877014!4d78.4782416!16s%2Fg%2F11yh1txrg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kanthi+Dental+care+sanjeevanagargate+Nandyal,+%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B0%BF+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%E0%B0%B8%E0%B0%82%E0%B0%9C%E0%B1%80%E0%B0%B5%E0%B0%A8%E0%B0%97%E0%B0%B0%E0%B1%8D+%E0%B0%97%E0%B1%87%E0%B0%9F%E0%B1%8D+%E0%B0%A8%E0%B0%82%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%B2/@15.4877014,78.4782416,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad001c21796d:0x602c54b1dc6b8287!8m2!3d15.4877014!4d78.4782416!16s%2Fg%2F11yh1txrg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2934,10 +2958,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kanthi+Dental+care+sanjeevanagargate+Nandyal,+%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B0%BF+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%E0%B0%B8%E0%B0%82%E0%B0%9C%E0%B1%80%E0%B0%B5%E0%B0%A8%E0%B0%97%E0%B0%B0%E0%B1%8D+%E0%B0%97%E0%B1%87%E0%B0%9F%E0%B1%8D+%E0%B0%A8%E0%B0%82%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%B2/@15.4877014,78.4782416,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad001c21796d:0x602c54b1dc6b8287!8m2!3d15.4877014!4d78.4782416!16s%2Fg%2F11yh1txrg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kn-hospital-nandyala",
@@ -2985,7 +3010,7 @@
     "metrics": [
       "Google rating 2.4"
     ],
-    "image": "https://www.google.com/maps/place/KN+HOSPITAL/@15.483744,78.4765978,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0da9fde2b9:0xad84387070722338!8m2!3d15.483744!4d78.4765978!16s%2Fg%2F11qnhzbm4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KN+HOSPITAL/@15.483744,78.4765978,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0da9fde2b9:0xad84387070722338!8m2!3d15.483744!4d78.4765978!16s%2Fg%2F11qnhzbm4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3054,7 +3079,8 @@
     "rating": 2.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KN+HOSPITAL/@15.483744,78.4765978,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0da9fde2b9:0xad84387070722338!8m2!3d15.483744!4d78.4765978!16s%2Fg%2F11qnhzbm4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ksr-hospital-nandyala",
@@ -3102,7 +3128,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/KSR+Hospital/@15.4837194,78.4833149,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad53b6a6c979:0xb4b527cca3a9207b!8m2!3d15.4837194!4d78.4833149!16s%2Fg%2F11cs6dxz6j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KSR+Hospital/@15.4837194,78.4833149,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad53b6a6c979:0xb4b527cca3a9207b!8m2!3d15.4837194!4d78.4833149!16s%2Fg%2F11cs6dxz6j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3171,7 +3197,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KSR+Hospital/@15.4837194,78.4833149,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad53b6a6c979:0xb4b527cca3a9207b!8m2!3d15.4837194!4d78.4833149!16s%2Fg%2F11cs6dxz6j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kvr-hospital-nandyala",
@@ -3219,7 +3246,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/KVR+HOSPITAL/@15.4879463,78.4794363,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adf87259731f:0x983631c9192f6967!8m2!3d15.4879463!4d78.4794363!16s%2Fg%2F11s975b7ly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KVR+HOSPITAL/@15.4879463,78.4794363,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adf87259731f:0x983631c9192f6967!8m2!3d15.4879463!4d78.4794363!16s%2Fg%2F11s975b7ly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3288,7 +3315,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KVR+HOSPITAL/@15.4879463,78.4794363,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adf87259731f:0x983631c9192f6967!8m2!3d15.4879463!4d78.4794363!16s%2Fg%2F11s975b7ly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-hospital-nandyala",
@@ -3336,7 +3364,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Life+Hospital/@15.4650877,78.4821495,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb452a5ca2701c1:0x4b212a6f81a1961!8m2!3d15.4650877!4d78.4821495!16s%2Fg%2F11b6p2c7xm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Hospital/@15.4650877,78.4821495,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb452a5ca2701c1:0x4b212a6f81a1961!8m2!3d15.4650877!4d78.4821495!16s%2Fg%2F11b6p2c7xm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3405,7 +3433,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+Hospital/@15.4650877,78.4821495,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb452a5ca2701c1:0x4b212a6f81a1961!8m2!3d15.4650877!4d78.4821495!16s%2Fg%2F11b6p2c7xm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "m-m-plastics-best-plastic-shop-wholesaler-in-nandyal-nandyala",
@@ -3454,7 +3483,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/M+M+Plastics+-+Best+Plastic+Shop+Wholesaler+In+Nandyal/@15.4898786,78.4824599,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad75672034ad:0x48b7c5a6dd8a9800!8m2!3d15.4898786!4d78.4824599!16s%2Fg%2F11p17xr7jk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M+M+Plastics+-+Best+Plastic+Shop+Wholesaler+In+Nandyal/@15.4898786,78.4824599,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad75672034ad:0x48b7c5a6dd8a9800!8m2!3d15.4898786!4d78.4824599!16s%2Fg%2F11p17xr7jk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3523,7 +3552,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M+M+Plastics+-+Best+Plastic+Shop+Wholesaler+In+Nandyal/@15.4898786,78.4824599,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad75672034ad:0x48b7c5a6dd8a9800!8m2!3d15.4898786!4d78.4824599!16s%2Fg%2F11p17xr7jk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "m-r-hospital-nandyala",
@@ -3571,7 +3601,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/M+R+Hospital/@15.4747372,78.4897972,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb452b3c8bf8027:0xa1ac9c2ed947eba5!8m2!3d15.4747372!4d78.4897972!16s%2Fg%2F1tdxtghn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M+R+Hospital/@15.4747372,78.4897972,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb452b3c8bf8027:0xa1ac9c2ed947eba5!8m2!3d15.4747372!4d78.4897972!16s%2Fg%2F1tdxtghn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3637,10 +3667,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M+R+Hospital/@15.4747372,78.4897972,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb452b3c8bf8027:0xa1ac9c2ed947eba5!8m2!3d15.4747372!4d78.4897972!16s%2Fg%2F1tdxtghn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhu-chinnapilala-aasupatri-nandyala",
@@ -3689,7 +3720,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Madhu+Chinnapilala+Aasupatri/@15.4848888,78.4896111,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4c2d42d967:0x3bf62a23d5efc2a2!8m2!3d15.4848888!4d78.4896111!16s%2Fg%2F11c6cgms_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhu+Chinnapilala+Aasupatri/@15.4848888,78.4896111,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4c2d42d967:0x3bf62a23d5efc2a2!8m2!3d15.4848888!4d78.4896111!16s%2Fg%2F11c6cgms_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3758,7 +3789,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhu+Chinnapilala+Aasupatri/@15.4848888,78.4896111,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4c2d42d967:0x3bf62a23d5efc2a2!8m2!3d15.4848888!4d78.4896111!16s%2Fg%2F11c6cgms_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhumani-nursing-home-nandyal-nandyala",
@@ -3807,7 +3839,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/MADHUMANI+NURSING+HOME+-+NANDYAL/@15.4862586,78.4887409,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4e7bea5225:0x2c0e4a989510aa89!8m2!3d15.4862586!4d78.4887409!16s%2Fg%2F1wn3230p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MADHUMANI+NURSING+HOME+-+NANDYAL/@15.4862586,78.4887409,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4e7bea5225:0x2c0e4a989510aa89!8m2!3d15.4862586!4d78.4887409!16s%2Fg%2F1wn3230p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3876,7 +3908,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MADHUMANI+NURSING+HOME+-+NANDYAL/@15.4862586,78.4887409,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4e7bea5225:0x2c0e4a989510aa89!8m2!3d15.4862586!4d78.4887409!16s%2Fg%2F1wn3230p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maxwell-hospital-nandyal-nandyala",
@@ -3924,7 +3957,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Maxwell+Hospital+-+Nandyal/data=!4m7!3m6!1s0x3bb5ad54d5a71fe7:0xe5beff31d3b6319e!8m2!3d15.4859225!4d78.4899723!16s%2Fg%2F11thn161kt!19sChIJ5x-n1VSttTsRnjG20zH_vuU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxwell+Hospital+-+Nandyal/data=!4m7!3m6!1s0x3bb5ad54d5a71fe7:0xe5beff31d3b6319e!8m2!3d15.4859225!4d78.4899723!16s%2Fg%2F11thn161kt!19sChIJ5x-n1VSttTsRnjG20zH_vuU?authuser=0&hl=en&rclk=1"
@@ -3993,7 +4026,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maxwell+Hospital+-+Nandyal/data=!4m7!3m6!1s0x3bb5ad54d5a71fe7:0xe5beff31d3b6319e!8m2!3d15.4859225!4d78.4899723!16s%2Fg%2F11thn161kt!19sChIJ5x-n1VSttTsRnjG20zH_vuU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "model-dental-clinic-nandyala",
@@ -4041,7 +4075,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Model+Dental+Clinic/data=!4m7!3m6!1s0x3bb5ad517f879f77:0x12f1a572ac5fcc3e!8m2!3d15.4858534!4d78.4837596!16s%2Fg%2F11hbv05xc2!19sChIJd5-Hf1GttTsRPsxfrHKl8RI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Model+Dental+Clinic/data=!4m7!3m6!1s0x3bb5ad517f879f77:0x12f1a572ac5fcc3e!8m2!3d15.4858534!4d78.4837596!16s%2Fg%2F11hbv05xc2!19sChIJd5-Hf1GttTsRPsxfrHKl8RI?authuser=0&hl=en&rclk=1"
@@ -4107,10 +4141,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Model+Dental+Clinic/data=!4m7!3m6!1s0x3bb5ad517f879f77:0x12f1a572ac5fcc3e!8m2!3d15.4858534!4d78.4837596!16s%2Fg%2F11hbv05xc2!19sChIJd5-Hf1GttTsRPsxfrHKl8RI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mr-om-prakash-senior-embryologist-in-nandyal-nandyala",
@@ -4160,7 +4195,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mr.+Om+Prakash%7CSenior+Embryologist+in+Nandyal/@15.483067,78.4801263,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ada0a91f817f:0x86361083b14726fd!8m2!3d15.483067!4d78.4801263!16s%2Fg%2F11sth7lw5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mr.+Om+Prakash%7CSenior+Embryologist+in+Nandyal/@15.483067,78.4801263,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ada0a91f817f:0x86361083b14726fd!8m2!3d15.483067!4d78.4801263!16s%2Fg%2F11sth7lw5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4226,10 +4261,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mr.+Om+Prakash%7CSenior+Embryologist+in+Nandyal/@15.483067,78.4801263,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ada0a91f817f:0x86361083b14726fd!8m2!3d15.483067!4d78.4801263!16s%2Fg%2F11sth7lw5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "murali-hospital-nandyala",
@@ -4277,7 +4313,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Murali+Hospital/@15.4865432,78.4807107,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad513447a3df:0x880217ea9142c6e2!8m2!3d15.4865432!4d78.4807107!16s%2Fg%2F11cs9m88h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Murali+Hospital/@15.4865432,78.4807107,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad513447a3df:0x880217ea9142c6e2!8m2!3d15.4865432!4d78.4807107!16s%2Fg%2F11cs9m88h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4346,7 +4382,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Murali+Hospital/@15.4865432,78.4807107,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad513447a3df:0x880217ea9142c6e2!8m2!3d15.4865432!4d78.4807107!16s%2Fg%2F11cs9m88h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nagendra-reddy-dental-clinic-nandyala",
@@ -4394,7 +4431,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Nagendra+Reddy+dental+clinic/@15.4699992,78.4837006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb4530028661ea9:0xd6f24a4f91bacbaf!8m2!3d15.4699992!4d78.4837006!16s%2Fg%2F11wn5310bp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nagendra+Reddy+dental+clinic/@15.4699992,78.4837006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb4530028661ea9:0xd6f24a4f91bacbaf!8m2!3d15.4699992!4d78.4837006!16s%2Fg%2F11wn5310bp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4463,7 +4500,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nagendra+Reddy+dental+clinic/@15.4699992,78.4837006,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb4530028661ea9:0xd6f24a4f91bacbaf!8m2!3d15.4699992!4d78.4837006!16s%2Fg%2F11wn5310bp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nandyal-critical-care-center-nandyala",
@@ -4511,7 +4549,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/NANDYAL+CRITICAL+CARE+CENTER/@15.483902,78.481479,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adfcda9e74a5:0xd48911dcc2209e0d!8m2!3d15.483902!4d78.481479!16s%2Fg%2F11p60tjz91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NANDYAL+CRITICAL+CARE+CENTER/@15.483902,78.481479,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adfcda9e74a5:0xd48911dcc2209e0d!8m2!3d15.483902!4d78.481479!16s%2Fg%2F11p60tjz91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4580,7 +4618,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NANDYAL+CRITICAL+CARE+CENTER/@15.483902,78.481479,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adfcda9e74a5:0xd48911dcc2209e0d!8m2!3d15.483902!4d78.481479!16s%2Fg%2F11p60tjz91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nandyal-intensive-and-trauma-care-nandyala",
@@ -4629,7 +4668,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nandyal+Intensive+and+Trauma+Care/@15.481923,78.4811257,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc577a35d3b:0xd0a38599f72b0168!8m2!3d15.481923!4d78.4811257!16s%2Fg%2F11txny0ltm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nandyal+Intensive+and+Trauma+Care/@15.481923,78.4811257,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc577a35d3b:0xd0a38599f72b0168!8m2!3d15.481923!4d78.4811257!16s%2Fg%2F11txny0ltm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4698,7 +4737,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nandyal+Intensive+and+Trauma+Care/@15.481923,78.4811257,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc577a35d3b:0xd0a38599f72b0168!8m2!3d15.481923!4d78.4811257!16s%2Fg%2F11txny0ltm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nandyal-kidney-and-urology-centre-nandyala",
@@ -4747,7 +4787,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Nandyal+Kidney+And+Urology+Centre/@15.483046,78.4854926,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5213955555:0xff0528c4418c797c!8m2!3d15.483046!4d78.4854926!16s%2Fg%2F11j008b4pp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nandyal+Kidney+And+Urology+Centre/@15.483046,78.4854926,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5213955555:0xff0528c4418c797c!8m2!3d15.483046!4d78.4854926!16s%2Fg%2F11j008b4pp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4816,7 +4856,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nandyal+Kidney+And+Urology+Centre/@15.483046,78.4854926,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5213955555:0xff0528c4418c797c!8m2!3d15.483046!4d78.4854926!16s%2Fg%2F11j008b4pp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nandyal-mind-care-nandyala",
@@ -4864,7 +4905,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Nandyal+Mind+Care/@15.485556,78.4865326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adaee923a91f:0x70c4303812a2629b!8m2!3d15.485556!4d78.4865326!16s%2Fg%2F11h1m93dl3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nandyal+Mind+Care/@15.485556,78.4865326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adaee923a91f:0x70c4303812a2629b!8m2!3d15.485556!4d78.4865326!16s%2Fg%2F11h1m93dl3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4933,7 +4974,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nandyal+Mind+Care/@15.485556,78.4865326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adaee923a91f:0x70c4303812a2629b!8m2!3d15.485556!4d78.4865326!16s%2Fg%2F11h1m93dl3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "narmada-hospital-nandyala",
@@ -4982,7 +5024,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Narmada+Hospital/@15.4860616,78.4908108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4ea0229525:0x3c367a308eb8a91a!8m2!3d15.4860616!4d78.4908108!16s%2Fg%2F11c5zs0l54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narmada+Hospital/@15.4860616,78.4908108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4ea0229525:0x3c367a308eb8a91a!8m2!3d15.4860616!4d78.4908108!16s%2Fg%2F11c5zs0l54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5051,7 +5093,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Narmada+Hospital/@15.4860616,78.4908108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4ea0229525:0x3c367a308eb8a91a!8m2!3d15.4860616!4d78.4908108!16s%2Fg%2F11c5zs0l54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nayana-dental-clinic-nandyala",
@@ -5099,7 +5142,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/NAYANA+DENTAL+CLINIC/@15.4811711,78.4839093,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5f0186759d:0xef363d5126ce52a1!8m2!3d15.4811711!4d78.4839093!16s%2Fg%2F11yx_vypcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NAYANA+DENTAL+CLINIC/@15.4811711,78.4839093,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5f0186759d:0xef363d5126ce52a1!8m2!3d15.4811711!4d78.4839093!16s%2Fg%2F11yx_vypcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5168,7 +5211,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NAYANA+DENTAL+CLINIC/@15.4811711,78.4839093,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5f0186759d:0xef363d5126ce52a1!8m2!3d15.4811711!4d78.4839093!16s%2Fg%2F11yx_vypcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nayana-eye-care-and-dental-research-centre-nandyala",
@@ -5218,7 +5262,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nayana+Eye+Care+%26dental+Research+Centre/@15.481169,78.4839013,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad52937e0c61:0x3dd10aac5ce63230!8m2!3d15.481169!4d78.4839013!16s%2Fg%2F11b77dl4cj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nayana+Eye+Care+%26dental+Research+Centre/@15.481169,78.4839013,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad52937e0c61:0x3dd10aac5ce63230!8m2!3d15.481169!4d78.4839013!16s%2Fg%2F11b77dl4cj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5287,7 +5331,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nayana+Eye+Care+%26dental+Research+Centre/@15.481169,78.4839013,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad52937e0c61:0x3dd10aac5ce63230!8m2!3d15.481169!4d78.4839013!16s%2Fg%2F11b77dl4cj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "netra-advanced-eye-care-nandyala",
@@ -5337,7 +5382,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Netra+Advanced+Eye+Care/@15.4850515,78.4878563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad397e35b61b:0x3fe0e5c8e1f0bf60!8m2!3d15.4850515!4d78.4878563!16s%2Fg%2F11swzt8jg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Netra+Advanced+Eye+Care/@15.4850515,78.4878563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad397e35b61b:0x3fe0e5c8e1f0bf60!8m2!3d15.4850515!4d78.4878563!16s%2Fg%2F11swzt8jg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5406,7 +5451,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Netra+Advanced+Eye+Care/@15.4850515,78.4878563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad397e35b61b:0x3fe0e5c8e1f0bf60!8m2!3d15.4850515!4d78.4878563!16s%2Fg%2F11swzt8jg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nice-beauty-clinic-nandyala",
@@ -5455,7 +5501,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Nice+Beauty+Clinic/@15.4836716,78.4840174,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad524c0e55c5:0x8e5c3a457b50633a!8m2!3d15.4836716!4d78.4840174!16s%2Fg%2F11fhy1ckhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nice+Beauty+Clinic/@15.4836716,78.4840174,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad524c0e55c5:0x8e5c3a457b50633a!8m2!3d15.4836716!4d78.4840174!16s%2Fg%2F11fhy1ckhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5524,7 +5570,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nice+Beauty+Clinic/@15.4836716,78.4840174,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad524c0e55c5:0x8e5c3a457b50633a!8m2!3d15.4836716!4d78.4840174!16s%2Fg%2F11fhy1ckhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nrs-murthy-ortho-hospital-nandyala",
@@ -5573,7 +5620,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/NRS+MURTHY+ORTHO+HOSPITAL/@15.4860578,78.4909026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad7bdee1d341:0x1c59b89205066fca!8m2!3d15.4860578!4d78.4909026!16s%2Fg%2F11nxc9hfpz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NRS+MURTHY+ORTHO+HOSPITAL/@15.4860578,78.4909026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad7bdee1d341:0x1c59b89205066fca!8m2!3d15.4860578!4d78.4909026!16s%2Fg%2F11nxc9hfpz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5642,7 +5689,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NRS+MURTHY+ORTHO+HOSPITAL/@15.4860578,78.4909026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad7bdee1d341:0x1c59b89205066fca!8m2!3d15.4860578!4d78.4909026!16s%2Fg%2F11nxc9hfpz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "partha-dental-clinic-nandyala-invisalign-provider-aligners-braces-rct-and-implants-nandyala",
@@ -5691,7 +5739,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Nandyala+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Aligners,+Braces,+RCT+%26+Implants/@15.4866497,78.4821775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5169456705:0x75b58bb731ed806c!8m2!3d15.4866497!4d78.4821775!16s%2Fg%2F11gdknhgrf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Nandyala+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Aligners,+Braces,+RCT+%26+Implants/@15.4866497,78.4821775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5169456705:0x75b58bb731ed806c!8m2!3d15.4866497!4d78.4821775!16s%2Fg%2F11gdknhgrf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5760,7 +5808,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Nandyala+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Aligners,+Braces,+RCT+%26+Implants/@15.4866497,78.4821775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5169456705:0x75b58bb731ed806c!8m2!3d15.4866497!4d78.4821775!16s%2Fg%2F11gdknhgrf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pragathi-ent-and-childcare-nandyala",
@@ -5809,7 +5858,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/PRAGATHI+ENT+AND+CHILDCARE/@15.4865082,78.4815803,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adcfa507472b:0x77a2a63d4cb22d27!8m2!3d15.4865082!4d78.4815803!16s%2Fg%2F11r3f38hqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRAGATHI+ENT+AND+CHILDCARE/@15.4865082,78.4815803,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adcfa507472b:0x77a2a63d4cb22d27!8m2!3d15.4865082!4d78.4815803!16s%2Fg%2F11r3f38hqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5875,10 +5924,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PRAGATHI+ENT+AND+CHILDCARE/@15.4865082,78.4815803,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adcfa507472b:0x77a2a63d4cb22d27!8m2!3d15.4865082!4d78.4815803!16s%2Fg%2F11r3f38hqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pranav-eye-hospital-nandyala",
@@ -5927,7 +5977,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Pranav+Eye+Hospital/@15.4878844,78.4795785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad68c4416867:0xa6d50ae5dd43904c!8m2!3d15.4878844!4d78.4795785!16s%2Fg%2F11ghv5btg4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pranav+Eye+Hospital/@15.4878844,78.4795785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad68c4416867:0xa6d50ae5dd43904c!8m2!3d15.4878844!4d78.4795785!16s%2Fg%2F11ghv5btg4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5996,7 +6046,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pranav+Eye+Hospital/@15.4878844,78.4795785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad68c4416867:0xa6d50ae5dd43904c!8m2!3d15.4878844!4d78.4795785!16s%2Fg%2F11ghv5btg4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prime-care-hospital-nandyala",
@@ -6044,7 +6095,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Prime+Care+Hospital/@15.4854987,78.4907627,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad98187cdbb7:0x69392818e1993a61!8m2!3d15.4854987!4d78.4907627!16s%2Fg%2F11v0c7vx6p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prime+Care+Hospital/@15.4854987,78.4907627,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad98187cdbb7:0x69392818e1993a61!8m2!3d15.4854987!4d78.4907627!16s%2Fg%2F11v0c7vx6p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6113,7 +6164,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prime+Care+Hospital/@15.4854987,78.4907627,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad98187cdbb7:0x69392818e1993a61!8m2!3d15.4854987!4d78.4907627!16s%2Fg%2F11v0c7vx6p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prime-hospital-nandyal-nandyala",
@@ -6161,7 +6213,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/PRIME+Hospital,+Nandyal./@15.4857115,78.477672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad370373b113:0xe169fe625481221b!8m2!3d15.4857115!4d78.477672!16s%2Fg%2F11ts9g3bp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRIME+Hospital,+Nandyal./@15.4857115,78.477672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad370373b113:0xe169fe625481221b!8m2!3d15.4857115!4d78.477672!16s%2Fg%2F11ts9g3bp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6230,7 +6282,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PRIME+Hospital,+Nandyal./@15.4857115,78.477672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad370373b113:0xe169fe625481221b!8m2!3d15.4857115!4d78.477672!16s%2Fg%2F11ts9g3bp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "r-k-hospital-nandyala",
@@ -6278,7 +6331,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/R+K+Hospital/@15.4804326,78.483245,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad52d7c3330d:0xad0ca13f9acbe1ab!8m2!3d15.4804326!4d78.483245!16s%2Fg%2F1hm1qs_ck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+K+Hospital/@15.4804326,78.483245,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad52d7c3330d:0xad0ca13f9acbe1ab!8m2!3d15.4804326!4d78.483245!16s%2Fg%2F1hm1qs_ck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6347,7 +6400,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R+K+Hospital/@15.4804326,78.483245,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad52d7c3330d:0xad0ca13f9acbe1ab!8m2!3d15.4804326!4d78.483245!16s%2Fg%2F1hm1qs_ck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "r-v-subba-reddy-hospital-nandyala",
@@ -6395,7 +6449,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/R+V+Subba+Reddy,+Hospital/@15.4860237,78.483175,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc077ca6c31:0x95316fbefa2fa20b!8m2!3d15.4860237!4d78.483175!16s%2Fg%2F11g1qn54rc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+V+Subba+Reddy,+Hospital/@15.4860237,78.483175,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc077ca6c31:0x95316fbefa2fa20b!8m2!3d15.4860237!4d78.483175!16s%2Fg%2F11g1qn54rc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6464,7 +6518,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R+V+Subba+Reddy,+Hospital/@15.4860237,78.483175,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adc077ca6c31:0x95316fbefa2fa20b!8m2!3d15.4860237!4d78.483175!16s%2Fg%2F11g1qn54rc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "r-r-hospital-nandyala",
@@ -6512,7 +6567,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/R.R.Hospital/@15.4814646,78.4710961,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b2ab0eadf2f5:0xbb5a80e2181dbcd!8m2!3d15.4814646!4d78.4710961!16s%2Fg%2F1hhw3_fmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.R.Hospital/@15.4814646,78.4710961,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b2ab0eadf2f5:0xbb5a80e2181dbcd!8m2!3d15.4814646!4d78.4710961!16s%2Fg%2F1hhw3_fmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6581,7 +6636,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R.R.Hospital/@15.4814646,78.4710961,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b2ab0eadf2f5:0xbb5a80e2181dbcd!8m2!3d15.4814646!4d78.4710961!16s%2Fg%2F1hhw3_fmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raayalaseema-hospitals-nandyala",
@@ -6629,7 +6685,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/RAAYALASEEMA+HOSPITALS/data=!4m7!3m6!1s0x3bb5ad53d4297e87:0xe1e5717941e72066!8m2!3d15.4853179!4d78.4834106!16s%2Fg%2F11hbbkkbvw!19sChIJh34p1FOttTsRZiDnQXlx5eE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RAAYALASEEMA+HOSPITALS/data=!4m7!3m6!1s0x3bb5ad53d4297e87:0xe1e5717941e72066!8m2!3d15.4853179!4d78.4834106!16s%2Fg%2F11hbbkkbvw!19sChIJh34p1FOttTsRZiDnQXlx5eE?authuser=0&hl=en&rclk=1"
@@ -6698,7 +6754,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RAAYALASEEMA+HOSPITALS/data=!4m7!3m6!1s0x3bb5ad53d4297e87:0xe1e5717941e72066!8m2!3d15.4853179!4d78.4834106!16s%2Fg%2F11hbbkkbvw!19sChIJh34p1FOttTsRZiDnQXlx5eE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "radhika-gynaec-and-maternity-centre-nandyala",
@@ -6746,7 +6803,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Radhika+gynaec,and+maternity+centre/@15.482947,78.4796493,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adeeb6a94fcd:0x417ac45bbd057d9a!8m2!3d15.482947!4d78.4796493!16s%2Fg%2F11rd5txcyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radhika+gynaec,and+maternity+centre/@15.482947,78.4796493,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adeeb6a94fcd:0x417ac45bbd057d9a!8m2!3d15.482947!4d78.4796493!16s%2Fg%2F11rd5txcyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6815,7 +6872,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radhika+gynaec,and+maternity+centre/@15.482947,78.4796493,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5adeeb6a94fcd:0x417ac45bbd057d9a!8m2!3d15.482947!4d78.4796493!16s%2Fg%2F11rd5txcyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rjr-herbal-hospital-nandyala-nandyala",
@@ -6864,7 +6922,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RJR+HERBAL+HOSPITAL+NANDYALA/@15.4836885,78.4767333,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ade1a23db869:0x45d91fad120e24cd!8m2!3d15.4836885!4d78.4767333!16s%2Fg%2F11l5zdyxxy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RJR+HERBAL+HOSPITAL+NANDYALA/@15.4836885,78.4767333,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ade1a23db869:0x45d91fad120e24cd!8m2!3d15.4836885!4d78.4767333!16s%2Fg%2F11l5zdyxxy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6933,7 +6991,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RJR+HERBAL+HOSPITAL+NANDYALA/@15.4836885,78.4767333,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ade1a23db869:0x45d91fad120e24cd!8m2!3d15.4836885!4d78.4767333!16s%2Fg%2F11l5zdyxxy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-bharath-skin-and-hair-clinic-nandyala",
@@ -6981,7 +7040,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Bharath+Skin+%26+Hair+Clinic/@15.486879,78.4773925,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad32d3311b1f:0x496abdcd8612c2b8!8m2!3d15.486879!4d78.4773925!16s%2Fg%2F11flbshwl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Bharath+Skin+%26+Hair+Clinic/@15.486879,78.4773925,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad32d3311b1f:0x496abdcd8612c2b8!8m2!3d15.486879!4d78.4773925!16s%2Fg%2F11flbshwl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7050,7 +7109,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Bharath+Skin+%26+Hair+Clinic/@15.486879,78.4773925,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad32d3311b1f:0x496abdcd8612c2b8!8m2!3d15.486879!4d78.4773925!16s%2Fg%2F11flbshwl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-s-dento-care-nandyala",
@@ -7098,7 +7158,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sai's+Dento+Care/@15.4871014,78.477312,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad565b46ebb5:0xb9f58f599fb1b837!8m2!3d15.4871014!4d78.477312!16s%2Fg%2F11bvt5hbj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai's+Dento+Care/@15.4871014,78.477312,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad565b46ebb5:0xb9f58f599fb1b837!8m2!3d15.4871014!4d78.477312!16s%2Fg%2F11bvt5hbj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7167,7 +7227,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai's+Dento+Care/@15.4871014,78.477312,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad565b46ebb5:0xb9f58f599fb1b837!8m2!3d15.4871014!4d78.477312!16s%2Fg%2F11bvt5hbj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "santhiram-hospitals-udumalpuram",
@@ -7216,7 +7277,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Santhiram+Hospitals/@15.4918939,78.4188256,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b33b444a060d:0x1dd7cd0363840027!8m2!3d15.4918939!4d78.4188256!16s%2Fg%2F1262430b0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Santhiram+Hospitals/@15.4918939,78.4188256,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b33b444a060d:0x1dd7cd0363840027!8m2!3d15.4918939!4d78.4188256!16s%2Fg%2F1262430b0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7285,7 +7346,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Santhiram+Hospitals/@15.4918939,78.4188256,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b33b444a060d:0x1dd7cd0363840027!8m2!3d15.4918939!4d78.4188256!16s%2Fg%2F1262430b0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shankar-hospital-nandyala",
@@ -7333,7 +7395,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/SHANKAR+HOSPITAL/@15.48363,78.4733083,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b3239484b46b:0xbf9e1129d7d7dd05!8m2!3d15.48363!4d78.4733083!16s%2Fg%2F11w_rgptgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHANKAR+HOSPITAL/@15.48363,78.4733083,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b3239484b46b:0xbf9e1129d7d7dd05!8m2!3d15.48363!4d78.4733083!16s%2Fg%2F11w_rgptgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7402,7 +7464,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHANKAR+HOSPITAL/@15.48363,78.4733083,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b3239484b46b:0xbf9e1129d7d7dd05!8m2!3d15.48363!4d78.4733083!16s%2Fg%2F11w_rgptgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shanthi-raja-dental-hospital-nandyala",
@@ -7451,7 +7514,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shanthi+Raja+Dental+Hospital/@15.4854876,78.475432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad518244a693:0xb2f47984d7f150ee!8m2!3d15.4854876!4d78.475432!16s%2Fg%2F11bwptt8df?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanthi+Raja+Dental+Hospital/@15.4854876,78.475432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad518244a693:0xb2f47984d7f150ee!8m2!3d15.4854876!4d78.475432!16s%2Fg%2F11bwptt8df?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7520,7 +7583,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanthi+Raja+Dental+Hospital/@15.4854876,78.475432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad518244a693:0xb2f47984d7f150ee!8m2!3d15.4854876!4d78.475432!16s%2Fg%2F11bwptt8df?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shilpa-ent-and-gynic-hospital-nandyala",
@@ -7568,7 +7632,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Shilpa+ENT+%26+GYNIC+Hospital/@15.4856167,78.4814579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5261555553:0xcc8cd4227df9a120!8m2!3d15.4856167!4d78.4814579!16s%2Fg%2F11gd4j01zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shilpa+ENT+%26+GYNIC+Hospital/@15.4856167,78.4814579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5261555553:0xcc8cd4227df9a120!8m2!3d15.4856167!4d78.4814579!16s%2Fg%2F11gd4j01zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7637,7 +7701,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shilpa+ENT+%26+GYNIC+Hospital/@15.4856167,78.4814579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5261555553:0xcc8cd4227df9a120!8m2!3d15.4856167!4d78.4814579!16s%2Fg%2F11gd4j01zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shirisha-hospital-nandyala",
@@ -7686,7 +7751,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shirisha+Hospital/@15.4896403,78.4817411,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad50c7991c19:0xacc0150b6328ac39!8m2!3d15.4896403!4d78.4817411!16s%2Fg%2F1tdw1x_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shirisha+Hospital/@15.4896403,78.4817411,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad50c7991c19:0xacc0150b6328ac39!8m2!3d15.4896403!4d78.4817411!16s%2Fg%2F1tdw1x_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7755,7 +7820,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shirisha+Hospital/@15.4896403,78.4817411,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad50c7991c19:0xacc0150b6328ac39!8m2!3d15.4896403!4d78.4817411!16s%2Fg%2F1tdw1x_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-lakshmi-s-infertility-laparoscopy-maternity-cosmetic-gynecology-yashoda-gopala-hospital-in-nandyala-nandyala",
@@ -7805,7 +7871,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Lakshmi's+Infertility-Laparoscopy-Maternity+Cosmetic+Gynecology+%7C+Yashoda+Gopala+hospital+in+Nandyala/@15.4848856,78.4745551,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b33dde347ce1:0xc7a4ff64809ff66b!8m2!3d15.4848856!4d78.4745551!16s%2Fg%2F11y3sjsmcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Lakshmi's+Infertility-Laparoscopy-Maternity+Cosmetic+Gynecology+%7C+Yashoda+Gopala+hospital+in+Nandyala/@15.4848856,78.4745551,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b33dde347ce1:0xc7a4ff64809ff66b!8m2!3d15.4848856!4d78.4745551!16s%2Fg%2F11y3sjsmcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7874,7 +7940,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Lakshmi's+Infertility-Laparoscopy-Maternity+Cosmetic+Gynecology+%7C+Yashoda+Gopala+hospital+in+Nandyala/@15.4848856,78.4745551,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b33dde347ce1:0xc7a4ff64809ff66b!8m2!3d15.4848856!4d78.4745551!16s%2Fg%2F11y3sjsmcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-krishnasai-nursing-home-nandyala",
@@ -7922,7 +7989,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/SHRI+KRISHNASAI+NURSING+HOME/@15.4689834,78.4846981,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb453d78244df5d:0x13d38a81f1f3819!8m2!3d15.4689834!4d78.4846981!16s%2Fg%2F11rsp9k0nb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHRI+KRISHNASAI+NURSING+HOME/@15.4689834,78.4846981,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb453d78244df5d:0x13d38a81f1f3819!8m2!3d15.4689834!4d78.4846981!16s%2Fg%2F11rsp9k0nb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7991,7 +8058,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHRI+KRISHNASAI+NURSING+HOME/@15.4689834,78.4846981,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb453d78244df5d:0x13d38a81f1f3819!8m2!3d15.4689834!4d78.4846981!16s%2Fg%2F11rsp9k0nb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sisindri-newborn-and-children-s-hospital-nandyala",
@@ -8040,7 +8108,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sisindri+Newborn+and+Children's+Hospital/@15.4829638,78.4809824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad3a6ab70c07:0x9dbcbbea0195de6!8m2!3d15.4829638!4d78.4809824!16s%2Fg%2F11wqb73n97?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sisindri+Newborn+and+Children's+Hospital/@15.4829638,78.4809824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad3a6ab70c07:0x9dbcbbea0195de6!8m2!3d15.4829638!4d78.4809824!16s%2Fg%2F11wqb73n97?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8109,7 +8177,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sisindri+Newborn+and+Children's+Hospital/@15.4829638,78.4809824,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad3a6ab70c07:0x9dbcbbea0195de6!8m2!3d15.4829638!4d78.4809824!16s%2Fg%2F11wqb73n97?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skin-and-cosmetic-clinic-nandyala",
@@ -8155,7 +8224,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Skin+%26+Cosmetic+Clinic/@15.485265,78.4876787,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4de6bd1e73:0x823c6e39420e2c4!8m2!3d15.485265!4d78.4876787!16s%2Fg%2F11h27mct7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+%26+Cosmetic+Clinic/@15.485265,78.4876787,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4de6bd1e73:0x823c6e39420e2c4!8m2!3d15.485265!4d78.4876787!16s%2Fg%2F11h27mct7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8221,10 +8290,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skin+%26+Cosmetic+Clinic/@15.485265,78.4876787,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4de6bd1e73:0x823c6e39420e2c4!8m2!3d15.485265!4d78.4876787!16s%2Fg%2F11h27mct7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sln-hospitals-nandyala",
@@ -8273,7 +8343,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SLN+HOSPITALS/@15.4818603,78.4818458,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad8c006605c9:0xb5a9580977f68529!8m2!3d15.4818603!4d78.4818458!16s%2Fg%2F11z0l9k2_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SLN+HOSPITALS/@15.4818603,78.4818458,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad8c006605c9:0xb5a9580977f68529!8m2!3d15.4818603!4d78.4818458!16s%2Fg%2F11z0l9k2_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8339,10 +8409,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SLN+HOSPITALS/@15.4818603,78.4818458,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad8c006605c9:0xb5a9580977f68529!8m2!3d15.4818603!4d78.4818458!16s%2Fg%2F11z0l9k2_9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-durga-hospital-nandyala",
@@ -8390,7 +8461,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Durga+Hospital/@15.4863836,78.4907552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4e9b61dec9:0xb9f6bb29ce3abe40!8m2!3d15.4863836!4d78.4907552!16s%2Fg%2F11b8v9lxzj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Durga+Hospital/@15.4863836,78.4907552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4e9b61dec9:0xb9f6bb29ce3abe40!8m2!3d15.4863836!4d78.4907552!16s%2Fg%2F11b8v9lxzj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8456,10 +8527,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Durga+Hospital/@15.4863836,78.4907552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4e9b61dec9:0xb9f6bb29ce3abe40!8m2!3d15.4863836!4d78.4907552!16s%2Fg%2F11b8v9lxzj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-raghavendra-emergency-critical-care-nandyala",
@@ -8507,7 +8579,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Raghavendra+Emergency+Critical+Care/@15.4859845,78.4764682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad2279e00615:0x4af2cda954ae720b!8m2!3d15.4859845!4d78.4764682!16s%2Fg%2F11p_5554f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Raghavendra+Emergency+Critical+Care/@15.4859845,78.4764682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad2279e00615:0x4af2cda954ae720b!8m2!3d15.4859845!4d78.4764682!16s%2Fg%2F11p_5554f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8573,10 +8645,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Raghavendra+Emergency+Critical+Care/@15.4859845,78.4764682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad2279e00615:0x4af2cda954ae720b!8m2!3d15.4859845!4d78.4764682!16s%2Fg%2F11p_5554f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-ramana-cosmetic-dental-clinic-ceramic-implant-center-nandyala",
@@ -8625,7 +8698,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Ramana+Cosmetic+Dental+Clinic+Ceramic+Implant+Center/@15.4854804,78.4849108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5220e5114b:0x7cc4661f5043ba3e!8m2!3d15.4854804!4d78.4849108!16s%2Fg%2F11b6nrlhm2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Ramana+Cosmetic+Dental+Clinic+Ceramic+Implant+Center/@15.4854804,78.4849108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5220e5114b:0x7cc4661f5043ba3e!8m2!3d15.4854804!4d78.4849108!16s%2Fg%2F11b6nrlhm2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8694,7 +8767,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Ramana+Cosmetic+Dental+Clinic+Ceramic+Implant+Center/@15.4854804,78.4849108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5220e5114b:0x7cc4661f5043ba3e!8m2!3d15.4854804!4d78.4849108!16s%2Fg%2F11b6nrlhm2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-sanjeeva-clinic-for-diabetic-care-and-child-care-nandyala",
@@ -8744,7 +8818,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sanjeeva+Clinic+for+Diabetic+care+and+child+care/@15.4804194,78.4838846,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4de8ae649f:0x971f5c6c2a8e7b1c!8m2!3d15.4804194!4d78.4838846!16s%2Fg%2F11fhz1j386?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sanjeeva+Clinic+for+Diabetic+care+and+child+care/@15.4804194,78.4838846,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4de8ae649f:0x971f5c6c2a8e7b1c!8m2!3d15.4804194!4d78.4838846!16s%2Fg%2F11fhz1j386?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8810,10 +8884,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sanjeeva+Clinic+for+Diabetic+care+and+child+care/@15.4804194,78.4838846,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4de8ae649f:0x971f5c6c2a8e7b1c!8m2!3d15.4804194!4d78.4838846!16s%2Fg%2F11fhz1j386?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-vishnu-hospital-nandyal-nandyala",
@@ -8861,7 +8936,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Vishnu+hospital+nandyal/@15.4873592,78.477562,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad1f30ce580d:0x113527cdb28e817f!8m2!3d15.4873592!4d78.477562!16s%2Fg%2F11tx6_3vp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Vishnu+hospital+nandyal/@15.4873592,78.477562,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad1f30ce580d:0x113527cdb28e817f!8m2!3d15.4873592!4d78.477562!16s%2Fg%2F11tx6_3vp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8930,7 +9005,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Vishnu+hospital+nandyal/@15.4873592,78.477562,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad1f30ce580d:0x113527cdb28e817f!8m2!3d15.4873592!4d78.477562!16s%2Fg%2F11tx6_3vp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srinivasa-skin-care-hospital-nandyala",
@@ -8978,7 +9054,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/SRINIVASA+Skin+Care+Hospital/@15.4865057,78.4826951,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad516935a46f:0x4378cce54ae4a98f!8m2!3d15.4865057!4d78.4826951!16s%2Fg%2F11gfn53vqr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRINIVASA+Skin+Care+Hospital/@15.4865057,78.4826951,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad516935a46f:0x4378cce54ae4a98f!8m2!3d15.4865057!4d78.4826951!16s%2Fg%2F11gfn53vqr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9047,7 +9123,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRINIVASA+Skin+Care+Hospital/@15.4865057,78.4826951,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad516935a46f:0x4378cce54ae4a98f!8m2!3d15.4865057!4d78.4826951!16s%2Fg%2F11gfn53vqr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "st-werburgh-s-maternity-and-general-hospital-nandyala",
@@ -9095,7 +9172,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/St.+Werburgh's+Maternity+%26+General+Hospital/@15.4762384,78.4675204,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb44d53673d2c4f:0x4e205ff0d43ff967!8m2!3d15.4762384!4d78.4675204!16s%2Fg%2F1tmxc_vk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/St.+Werburgh's+Maternity+%26+General+Hospital/@15.4762384,78.4675204,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb44d53673d2c4f:0x4e205ff0d43ff967!8m2!3d15.4762384!4d78.4675204!16s%2Fg%2F1tmxc_vk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9164,7 +9241,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/St.+Werburgh's+Maternity+%26+General+Hospital/@15.4762384,78.4675204,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb44d53673d2c4f:0x4e205ff0d43ff967!8m2!3d15.4762384!4d78.4675204!16s%2Fg%2F1tmxc_vk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "star-children-s-hospital-nandyala",
@@ -9213,7 +9291,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Star+children's+hospital/@15.4834644,78.4801618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad160c8ecf4b:0xe51adef4186624e0!8m2!3d15.4834644!4d78.4801618!16s%2Fg%2F11nc8t_612?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+children's+hospital/@15.4834644,78.4801618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad160c8ecf4b:0xe51adef4186624e0!8m2!3d15.4834644!4d78.4801618!16s%2Fg%2F11nc8t_612?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9279,10 +9357,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Star+children's+hospital/@15.4834644,78.4801618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad160c8ecf4b:0xe51adef4186624e0!8m2!3d15.4834644!4d78.4801618!16s%2Fg%2F11nc8t_612?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sujatha-dental-care-nandyala",
@@ -9330,7 +9409,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sujatha+Dental+Care/@15.4849068,78.4867683,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4df83af50b:0x8d34f091fdd785f8!8m2!3d15.4849068!4d78.4867683!16s%2Fg%2F11h27m2mvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sujatha+Dental+Care/@15.4849068,78.4867683,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4df83af50b:0x8d34f091fdd785f8!8m2!3d15.4849068!4d78.4867683!16s%2Fg%2F11h27m2mvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9396,10 +9475,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sujatha+Dental+Care/@15.4849068,78.4867683,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad4df83af50b:0x8d34f091fdd785f8!8m2!3d15.4849068!4d78.4867683!16s%2Fg%2F11h27m2mvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sumithra-hospital-nandyala",
@@ -9447,7 +9527,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sumithra+Hospital/@15.4861722,78.484702,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad518e6ac64f:0x1656a67065f06b61!8m2!3d15.4861722!4d78.484702!16s%2Fg%2F11cs7d9jr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sumithra+Hospital/@15.4861722,78.484702,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad518e6ac64f:0x1656a67065f06b61!8m2!3d15.4861722!4d78.484702!16s%2Fg%2F11cs7d9jr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9516,7 +9596,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sumithra+Hospital/@15.4861722,78.484702,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad518e6ac64f:0x1656a67065f06b61!8m2!3d15.4861722!4d78.484702!16s%2Fg%2F11cs7d9jr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sunitha-neuro-care-nandyala",
@@ -9565,7 +9646,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Sunitha+Neuro+Care/@15.4860401,78.4825196,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad80318ae0b9:0xbdb0a9783f78edd1!8m2!3d15.4860401!4d78.4825196!16s%2Fg%2F11swf96kz6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunitha+Neuro+Care/@15.4860401,78.4825196,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad80318ae0b9:0xbdb0a9783f78edd1!8m2!3d15.4860401!4d78.4825196!16s%2Fg%2F11swf96kz6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9634,7 +9715,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunitha+Neuro+Care/@15.4860401,78.4825196,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad80318ae0b9:0xbdb0a9783f78edd1!8m2!3d15.4860401!4d78.4825196!16s%2Fg%2F11swf96kz6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sv-chest-and-allergy-speciality-clinic-nandyala",
@@ -9684,7 +9766,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/SV+Chest+%26+Allergy+Speciality+Clinic/@15.4869945,78.4812164,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad51342aa1e3:0x5412038b472df57a!8m2!3d15.4869945!4d78.4812164!16s%2Fg%2F11bzrnybxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SV+Chest+%26+Allergy+Speciality+Clinic/@15.4869945,78.4812164,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad51342aa1e3:0x5412038b472df57a!8m2!3d15.4869945!4d78.4812164!16s%2Fg%2F11bzrnybxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9753,7 +9835,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SV+Chest+%26+Allergy+Speciality+Clinic/@15.4869945,78.4812164,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad51342aa1e3:0x5412038b472df57a!8m2!3d15.4869945!4d78.4812164!16s%2Fg%2F11bzrnybxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sv-hospital-nandyala",
@@ -9801,7 +9884,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/SV+Hospital/@15.4860823,78.476365,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5613ab46f5:0x5fc6c30c458e1053!8m2!3d15.4860823!4d78.476365!16s%2Fg%2F12hl0nm9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SV+Hospital/@15.4860823,78.476365,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5613ab46f5:0x5fc6c30c458e1053!8m2!3d15.4860823!4d78.476365!16s%2Fg%2F12hl0nm9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9870,7 +9953,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SV+Hospital/@15.4860823,78.476365,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5613ab46f5:0x5fc6c30c458e1053!8m2!3d15.4860823!4d78.476365!16s%2Fg%2F12hl0nm9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thyrocare-diagnostic-lab-blood-test-centre-nandyal-bazar-nandyal-nandyala",
@@ -9920,7 +10004,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Thyrocare+Diagnostic+Lab+%7C+Blood+Test+Centre+-+Nandyal+Bazar,+Nandyal/data=!4m7!3m6!1s0x3bb5ad8470538c0f:0x7397fe05e3183750!8m2!3d15.4868239!4d78.4842449!16s%2Fg%2F11p16kcfrh!19sChIJD4xTcISttTsRUDcY4wX-l3M?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thyrocare+Diagnostic+Lab+%7C+Blood+Test+Centre+-+Nandyal+Bazar,+Nandyal/data=!4m7!3m6!1s0x3bb5ad8470538c0f:0x7397fe05e3183750!8m2!3d15.4868239!4d78.4842449!16s%2Fg%2F11p16kcfrh!19sChIJD4xTcISttTsRUDcY4wX-l3M?authuser=0&hl=en&rclk=1"
@@ -9989,7 +10073,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thyrocare+Diagnostic+Lab+%7C+Blood+Test+Centre+-+Nandyal+Bazar,+Nandyal/data=!4m7!3m6!1s0x3bb5ad8470538c0f:0x7397fe05e3183750!8m2!3d15.4868239!4d78.4842449!16s%2Fg%2F11p16kcfrh!19sChIJD4xTcISttTsRUDcY4wX-l3M?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tirumala-dental-care-nandyala",
@@ -10038,7 +10123,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tirumala+dental+care/@15.4865849,78.482427,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad58997312d9:0x6f2bf488bfba2c61!8m2!3d15.4865849!4d78.482427!16s%2Fg%2F11fj3bs453?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tirumala+dental+care/@15.4865849,78.482427,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad58997312d9:0x6f2bf488bfba2c61!8m2!3d15.4865849!4d78.482427!16s%2Fg%2F11fj3bs453?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10107,7 +10192,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tirumala+dental+care/@15.4865849,78.482427,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad58997312d9:0x6f2bf488bfba2c61!8m2!3d15.4865849!4d78.482427!16s%2Fg%2F11fj3bs453?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tirumala-puneeth-ent-and-skin-hospital-nandyala",
@@ -10156,7 +10242,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Tirumala+Puneeth+ENT+and+Skin+Hospital/@15.487315,78.4785022,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad56f0a4bcfd:0xc3101b2b1b8d21e4!8m2!3d15.487315!4d78.4785022!16s%2Fg%2F124yg_34s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tirumala+Puneeth+ENT+and+Skin+Hospital/@15.487315,78.4785022,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad56f0a4bcfd:0xc3101b2b1b8d21e4!8m2!3d15.487315!4d78.4785022!16s%2Fg%2F124yg_34s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10225,7 +10311,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tirumala+Puneeth+ENT+and+Skin+Hospital/@15.487315,78.4785022,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad56f0a4bcfd:0xc3101b2b1b8d21e4!8m2!3d15.487315!4d78.4785022!16s%2Fg%2F124yg_34s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "udayananda-advanced-gastro-center-nandyala",
@@ -10274,7 +10361,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Udayananda+Advanced+Gastro+Center/@15.4669391,78.4709216,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5c7db711e1:0x77f89d7a7f53524!8m2!3d15.4669391!4d78.4709216!16s%2Fg%2F11hz3yws9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Udayananda+Advanced+Gastro+Center/@15.4669391,78.4709216,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5c7db711e1:0x77f89d7a7f53524!8m2!3d15.4669391!4d78.4709216!16s%2Fg%2F11hz3yws9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10343,7 +10430,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Udayananda+Advanced+Gastro+Center/@15.4669391,78.4709216,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad5c7db711e1:0x77f89d7a7f53524!8m2!3d15.4669391!4d78.4709216!16s%2Fg%2F11hz3yws9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "udayananda-cancer-hospital-nandyala",
@@ -10392,7 +10480,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Udayananda+Cancer+Hospital/@15.4669425,78.4712035,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb44d11fd089c39:0x79f7aece52a73b86!8m2!3d15.4669425!4d78.4712035!16s%2Fg%2F11y8_2n0bn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Udayananda+Cancer+Hospital/@15.4669425,78.4712035,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb44d11fd089c39:0x79f7aece52a73b86!8m2!3d15.4669425!4d78.4712035!16s%2Fg%2F11y8_2n0bn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10458,10 +10546,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Udayananda+Cancer+Hospital/@15.4669425,78.4712035,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb44d11fd089c39:0x79f7aece52a73b86!8m2!3d15.4669425!4d78.4712035!16s%2Fg%2F11y8_2n0bn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "udayananda-cardiac-care-nandyala",
@@ -10510,7 +10599,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Udayananda+cardiac+care/@15.48645,78.4827218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad14eebb85b1:0x5e14df10053f4423!8m2!3d15.48645!4d78.4827218!16s%2Fg%2F11hf803zp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Udayananda+cardiac+care/@15.48645,78.4827218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad14eebb85b1:0x5e14df10053f4423!8m2!3d15.48645!4d78.4827218!16s%2Fg%2F11hf803zp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10579,7 +10668,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Udayananda+cardiac+care/@15.48645,78.4827218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad14eebb85b1:0x5e14df10053f4423!8m2!3d15.48645!4d78.4827218!16s%2Fg%2F11hf803zp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "udayananda-hospitals-nandyala",
@@ -10628,7 +10718,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Udayananda+Hospitals/@15.4669826,78.471269,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb44d04f159109f:0xd0ea5ece543876b4!8m2!3d15.4669826!4d78.471269!16s%2Fg%2F11h_6hzwx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Udayananda+Hospitals/@15.4669826,78.471269,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb44d04f159109f:0xd0ea5ece543876b4!8m2!3d15.4669826!4d78.471269!16s%2Fg%2F11h_6hzwx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10697,7 +10787,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Udayananda+Hospitals/@15.4669826,78.471269,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb44d04f159109f:0xd0ea5ece543876b4!8m2!3d15.4669826!4d78.471269!16s%2Fg%2F11h_6hzwx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "varoo-s-herbal-beauty-clinic-and-spa-nandyala",
@@ -10746,7 +10837,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Varoo's+Herbal+Beauty+Clinic+%26+Spa/@15.4828117,78.4849172,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad525f11efd3:0xb265e3ea42660cd7!8m2!3d15.4828117!4d78.4849172!16s%2Fg%2F11fhw1lyrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varoo's+Herbal+Beauty+Clinic+%26+Spa/@15.4828117,78.4849172,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad525f11efd3:0xb265e3ea42660cd7!8m2!3d15.4828117!4d78.4849172!16s%2Fg%2F11fhw1lyrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10815,7 +10906,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Varoo's+Herbal+Beauty+Clinic+%26+Spa/@15.4828117,78.4849172,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad525f11efd3:0xb265e3ea42660cd7!8m2!3d15.4828117!4d78.4849172!16s%2Fg%2F11fhw1lyrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "varun-dental-clinic-nandyala",
@@ -10863,7 +10955,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/VARUN+DENTAL+CLINIC/@15.48069,78.4841183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad002ee5eb19:0xb4bc96025c8b6ad6!8m2!3d15.48069!4d78.4841183!16s%2Fg%2F11wmzlmd3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VARUN+DENTAL+CLINIC/@15.48069,78.4841183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad002ee5eb19:0xb4bc96025c8b6ad6!8m2!3d15.48069!4d78.4841183!16s%2Fg%2F11wmzlmd3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10932,7 +11024,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VARUN+DENTAL+CLINIC/@15.48069,78.4841183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad002ee5eb19:0xb4bc96025c8b6ad6!8m2!3d15.48069!4d78.4841183!16s%2Fg%2F11wmzlmd3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vijaya-dental-care-nandyala",
@@ -10981,7 +11074,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vijaya+Dental+Care/@15.47972,78.4862031,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb453f386247073:0xf7ad4735ec63eb2a!8m2!3d15.47972!4d78.4862031!16s%2Fg%2F11h_k3r9km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijaya+Dental+Care/@15.47972,78.4862031,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb453f386247073:0xf7ad4735ec63eb2a!8m2!3d15.47972!4d78.4862031!16s%2Fg%2F11h_k3r9km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11050,7 +11143,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vijaya+Dental+Care/@15.47972,78.4862031,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb453f386247073:0xf7ad4735ec63eb2a!8m2!3d15.47972!4d78.4862031!16s%2Fg%2F11h_k3r9km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vijaya-diagnostic-centre-nandyal-padmavathi-nagar-pathology-and-radiology-lab-full-body-checkup-nandyala",
@@ -11100,7 +11194,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vijaya+Diagnostic+Centre+Nandyal-Padmavathi+Nagar+-+Pathology+%26+Radiology+Lab+%7C+Full+Body+Checkup/@15.4817413,78.4849423,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad518266c009:0xcc1a006e4038aa05!8m2!3d15.4817413!4d78.4849423!16s%2Fg%2F11ggzdf5p3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijaya+Diagnostic+Centre+Nandyal-Padmavathi+Nagar+-+Pathology+%26+Radiology+Lab+%7C+Full+Body+Checkup/@15.4817413,78.4849423,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad518266c009:0xcc1a006e4038aa05!8m2!3d15.4817413!4d78.4849423!16s%2Fg%2F11ggzdf5p3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11169,7 +11263,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vijaya+Diagnostic+Centre+Nandyal-Padmavathi+Nagar+-+Pathology+%26+Radiology+Lab+%7C+Full+Body+Checkup/@15.4817413,78.4849423,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad518266c009:0xcc1a006e4038aa05!8m2!3d15.4817413!4d78.4849423!16s%2Fg%2F11ggzdf5p3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vijaya-hospital-nandyala",
@@ -11217,7 +11312,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Vijaya+Hospital/@15.486412,78.4820713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad517a3a79ad:0xaa696506c5e26877!8m2!3d15.486412!4d78.4820713!16s%2Fg%2F11gf9ftx6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijaya+Hospital/@15.486412,78.4820713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad517a3a79ad:0xaa696506c5e26877!8m2!3d15.486412!4d78.4820713!16s%2Fg%2F11gf9ftx6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11283,10 +11378,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vijaya+Hospital/@15.486412,78.4820713,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad517a3a79ad:0xaa696506c5e26877!8m2!3d15.486412!4d78.4820713!16s%2Fg%2F11gf9ftx6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vishna-hospital-nandyala",
@@ -11334,7 +11430,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/VISHNA+HOSPITAL/@15.4823753,78.4821834,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0055aceb61:0x88401b0c97b07b1c!8m2!3d15.4823753!4d78.4821834!16s%2Fg%2F11mc9llvv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VISHNA+HOSPITAL/@15.4823753,78.4821834,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0055aceb61:0x88401b0c97b07b1c!8m2!3d15.4823753!4d78.4821834!16s%2Fg%2F11mc9llvv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11403,7 +11499,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VISHNA+HOSPITAL/@15.4823753,78.4821834,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0055aceb61:0x88401b0c97b07b1c!8m2!3d15.4823753!4d78.4821834!16s%2Fg%2F11mc9llvv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "waheeda-rehman-veterinary-clinic-nandyala",
@@ -11451,7 +11548,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Waheeda+Rehman+Veterinary+Clinic/@15.4838608,78.4762958,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0fa054ad5f:0xd3658bf552866f59!8m2!3d15.4838608!4d78.4762958!16s%2Fg%2F11yg7g2jwj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Waheeda+Rehman+Veterinary+Clinic/@15.4838608,78.4762958,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0fa054ad5f:0xd3658bf552866f59!8m2!3d15.4838608!4d78.4762958!16s%2Fg%2F11yg7g2jwj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11520,7 +11617,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Waheeda+Rehman+Veterinary+Clinic/@15.4838608,78.4762958,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad0fa054ad5f:0xd3658bf552866f59!8m2!3d15.4838608!4d78.4762958!16s%2Fg%2F11yg7g2jwj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yashoda-gopala-hospital-nandyala",
@@ -11568,7 +11666,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Yashoda+Gopala+Hospital/@15.4843183,78.4756529,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b31ba00b47b9:0x77bafb548878da7d!8m2!3d15.4843183!4d78.4756529!16s%2Fg%2F11nnz9pwz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashoda+Gopala+Hospital/@15.4843183,78.4756529,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b31ba00b47b9:0x77bafb548878da7d!8m2!3d15.4843183!4d78.4756529!16s%2Fg%2F11nnz9pwz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11637,7 +11735,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashoda+Gopala+Hospital/@15.4843183,78.4756529,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5b31ba00b47b9:0x77bafb548878da7d!8m2!3d15.4843183!4d78.4756529!16s%2Fg%2F11nnz9pwz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nandyala",
@@ -11685,7 +11784,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/%E0%B0%9C%E0%B0%97%E0%B0%A8%E0%B1%8D+%E0%B0%B9%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%AA%E0%B0%BF%E0%B0%9F%E0%B0%B2%E0%B1%8D:+%E0%B0%A1%E0%B0%BE+%7C%7C+%E0%B0%95%E0%B1%86.+%E0%B0%9C%E0%B0%97%E0%B0%A8%E0%B1%8D+%E0%B0%AE%E0%B1%8B%E0%B0%B9%E0%B0%A8%E0%B1%8D+%E0%B0%B0%E0%B1%86%E0%B0%A1%E0%B1%8D%E0%B0%A1%E0%B0%BF/@15.4837415,78.4813672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad00120257eb:0xbcdf7fb17a1ab78a!8m2!3d15.4837415!4d78.4813672!16s%2Fg%2F11wbn_mydz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%B0%9C%E0%B0%97%E0%B0%A8%E0%B1%8D+%E0%B0%B9%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%AA%E0%B0%BF%E0%B0%9F%E0%B0%B2%E0%B1%8D:+%E0%B0%A1%E0%B0%BE+%7C%7C+%E0%B0%95%E0%B1%86.+%E0%B0%9C%E0%B0%97%E0%B0%A8%E0%B1%8D+%E0%B0%AE%E0%B1%8B%E0%B0%B9%E0%B0%A8%E0%B1%8D+%E0%B0%B0%E0%B1%86%E0%B0%A1%E0%B1%8D%E0%B0%A1%E0%B0%BF/@15.4837415,78.4813672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad00120257eb:0xbcdf7fb17a1ab78a!8m2!3d15.4837415!4d78.4813672!16s%2Fg%2F11wbn_mydz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11754,6 +11853,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%B0%9C%E0%B0%97%E0%B0%A8%E0%B1%8D+%E0%B0%B9%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%AA%E0%B0%BF%E0%B0%9F%E0%B0%B2%E0%B1%8D:+%E0%B0%A1%E0%B0%BE+%7C%7C+%E0%B0%95%E0%B1%86.+%E0%B0%9C%E0%B0%97%E0%B0%A8%E0%B1%8D+%E0%B0%AE%E0%B1%8B%E0%B0%B9%E0%B0%A8%E0%B1%8D+%E0%B0%B0%E0%B1%86%E0%B0%A1%E0%B1%8D%E0%B0%A1%E0%B0%BF/@15.4837415,78.4813672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb5ad00120257eb:0xbcdf7fb17a1ab78a!8m2!3d15.4837415!4d78.4813672!16s%2Fg%2F11wbn_mydz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

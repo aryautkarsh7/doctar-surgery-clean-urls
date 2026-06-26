@@ -46,7 +46,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/111+SaveLife+Hospital/@22.7810595,86.1630838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bb0d9cb50f:0x5254c6939bead623!8m2!3d22.7810595!4d86.1630838!16s%2Fg%2F1hm5twmqy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/111+SaveLife+Hospital/@22.7810595,86.1630838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bb0d9cb50f:0x5254c6939bead623!8m2!3d22.7810595!4d86.1630838!16s%2Fg%2F1hm5twmqy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/111+SaveLife+Hospital/@22.7810595,86.1630838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bb0d9cb50f:0x5254c6939bead623!8m2!3d22.7810595!4d86.1630838!16s%2Fg%2F1hm5twmqy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "32-smile-station-jamshedpur",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/32+Smile+Station/@22.806429,86.16158,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3029aa9471d:0x491516bffd134367!8m2!3d22.806429!4d86.16158!16s%2Fg%2F12ll2gmd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+Smile+Station/@22.806429,86.16158,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3029aa9471d:0x491516bffd134367!8m2!3d22.806429!4d86.16158!16s%2Fg%2F12ll2gmd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -232,7 +233,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/32+Smile+Station/@22.806429,86.16158,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3029aa9471d:0x491516bffd134367!8m2!3d22.806429!4d86.16158!16s%2Fg%2F12ll2gmd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "abhinav-surgical-and-maternity-centre-jamshedpur",
@@ -280,7 +282,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Abhinav+Surgical+%26+Maternity+centre/@22.8184364,86.2199804,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e254174c4c43:0xfb2067f7bd0e814b!8m2!3d22.8184364!4d86.2199804!16s%2Fg%2F11bzy7mfnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Abhinav+Surgical+%26+Maternity+centre/@22.8184364,86.2199804,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e254174c4c43:0xfb2067f7bd0e814b!8m2!3d22.8184364!4d86.2199804!16s%2Fg%2F11bzy7mfnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -349,7 +351,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Abhinav+Surgical+%26+Maternity+centre/@22.8184364,86.2199804,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e254174c4c43:0xfb2067f7bd0e814b!8m2!3d22.8184364!4d86.2199804!16s%2Fg%2F11bzy7mfnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aditya-dental-clinic-jamshedpur",
@@ -397,7 +400,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aditya+Dental+Clinic/@22.8033054,86.2206778,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37175919fc5:0xb4bac54c0b2e19d3!8m2!3d22.8033054!4d86.2206778!16s%2Fg%2F11yh2pmcgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditya+Dental+Clinic/@22.8033054,86.2206778,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37175919fc5:0xb4bac54c0b2e19d3!8m2!3d22.8033054!4d86.2206778!16s%2Fg%2F11yh2pmcgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -463,10 +466,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aditya+Dental+Clinic/@22.8033054,86.2206778,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37175919fc5:0xb4bac54c0b2e19d3!8m2!3d22.8033054!4d86.2206778!16s%2Fg%2F11yh2pmcgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advance-dental-clinic-jamshedpur",
@@ -515,7 +519,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Advance+Dental+Clinic/@22.8078936,86.1603692,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5875324fe5d:0xba3648b11efc7e5e!8m2!3d22.8078936!4d86.1603692!16s%2Fg%2F11j94k5q1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Dental+Clinic/@22.8078936,86.1603692,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5875324fe5d:0xba3648b11efc7e5e!8m2!3d22.8078936!4d86.1603692!16s%2Fg%2F11j94k5q1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -584,7 +588,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+Dental+Clinic/@22.8078936,86.1603692,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5875324fe5d:0xba3648b11efc7e5e!8m2!3d22.8078936!4d86.1603692!16s%2Fg%2F11j94k5q1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advance-dental-clinic-jamshedpur",
@@ -632,7 +637,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Advance+Dental+Clinic/@22.8233933,86.2186287,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a1c4ccb621:0x56a691f4bb753c5!8m2!3d22.8233933!4d86.2186287!16s%2Fg%2F11q4db9t2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Dental+Clinic/@22.8233933,86.2186287,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a1c4ccb621:0x56a691f4bb753c5!8m2!3d22.8233933!4d86.2186287!16s%2Fg%2F11q4db9t2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -698,10 +703,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+Dental+Clinic/@22.8233933,86.2186287,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a1c4ccb621:0x56a691f4bb753c5!8m2!3d22.8233933!4d86.2186287!16s%2Fg%2F11q4db9t2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aesthetica-maxillo-facial-and-dental-center-jamshedpur",
@@ -749,7 +755,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aesthetica+(Maxillo+Facial+%26+Dental+Center)/@22.8445603,86.2019964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3967d4b97db:0xbc1b29ad48870159!8m2!3d22.8445603!4d86.2019964!16s%2Fg%2F11h_4465jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aesthetica+(Maxillo+Facial+%26+Dental+Center)/@22.8445603,86.2019964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3967d4b97db:0xbc1b29ad48870159!8m2!3d22.8445603!4d86.2019964!16s%2Fg%2F11h_4465jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -815,10 +821,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aesthetica+(Maxillo+Facial+%26+Dental+Center)/@22.8445603,86.2019964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3967d4b97db:0xbc1b29ad48870159!8m2!3d22.8445603!4d86.2019964!16s%2Fg%2F11h_4465jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "al-senaan-dental-clinic-jamshedpur",
@@ -866,7 +873,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Al+Senaan+Dental+Clinic/@22.8252091,86.2008032,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3bb54000aab:0x45c6180994613709!8m2!3d22.8252091!4d86.2008032!16s%2Fg%2F11g6v_1x2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Al+Senaan+Dental+Clinic/@22.8252091,86.2008032,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3bb54000aab:0x45c6180994613709!8m2!3d22.8252091!4d86.2008032!16s%2Fg%2F11g6v_1x2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -935,7 +942,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Al+Senaan+Dental+Clinic/@22.8252091,86.2008032,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3bb54000aab:0x45c6180994613709!8m2!3d22.8252091!4d86.2008032!16s%2Fg%2F11g6v_1x2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "align-and-braces-dental-clinic-jamshedpur",
@@ -983,7 +991,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ALIGN+AND+BRACES+DENTAL+CLINIC/@22.8027653,86.20449,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3394001ceab:0x396db38065a985e6!8m2!3d22.8027653!4d86.20449!16s%2Fg%2F11rzbh1h_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ALIGN+AND+BRACES+DENTAL+CLINIC/@22.8027653,86.20449,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3394001ceab:0x396db38065a985e6!8m2!3d22.8027653!4d86.20449!16s%2Fg%2F11rzbh1h_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1049,10 +1057,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ALIGN+AND+BRACES+DENTAL+CLINIC/@22.8027653,86.20449,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3394001ceab:0x396db38065a985e6!8m2!3d22.8027653!4d86.20449!16s%2Fg%2F11rzbh1h_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ambarcare-jamshedpur",
@@ -1101,7 +1110,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AMBARCARE/@22.8071801,86.2053604,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f857ee024b:0x43eb3c152cee1725!8m2!3d22.8071801!4d86.2053604!16s%2Fg%2F11k65x_4wh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMBARCARE/@22.8071801,86.2053604,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f857ee024b:0x43eb3c152cee1725!8m2!3d22.8071801!4d86.2053604!16s%2Fg%2F11k65x_4wh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1167,10 +1176,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AMBARCARE/@22.8071801,86.2053604,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f857ee024b:0x43eb3c152cee1725!8m2!3d22.8071801!4d86.2053604!16s%2Fg%2F11k65x_4wh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "angik-s-dental-jamshedpur",
@@ -1220,7 +1230,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Angik's+Dental/@22.7958776,86.1844588,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a31fc12bf3:0x77717bfe409e0c6a!8m2!3d22.7958776!4d86.1844588!16s%2Fg%2F11sffqt_f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Angik's+Dental/@22.7958776,86.1844588,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a31fc12bf3:0x77717bfe409e0c6a!8m2!3d22.7958776!4d86.1844588!16s%2Fg%2F11sffqt_f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1289,7 +1299,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Angik's+Dental/@22.7958776,86.1844588,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a31fc12bf3:0x77717bfe409e0c6a!8m2!3d22.7958776!4d86.1844588!16s%2Fg%2F11sffqt_f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ankit-kumar-prasad-cosmetologist-and-aesthetician-best-skin-and-hair-laser-clinic-in-jamshedpur-jamshedpur",
@@ -1338,7 +1349,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ankit+Kumar+Prasad-+Cosmetologist+%26+Aesthetician(+Best+skin+%26+hair+laser+clinic+in+Jamshedpur)/@22.8066149,86.2035841,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e39c2e04f5c5:0x3a9ec1b1509cb64!8m2!3d22.8066149!4d86.2035841!16s%2Fg%2F11sdfwhm1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ankit+Kumar+Prasad-+Cosmetologist+%26+Aesthetician(+Best+skin+%26+hair+laser+clinic+in+Jamshedpur)/@22.8066149,86.2035841,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e39c2e04f5c5:0x3a9ec1b1509cb64!8m2!3d22.8066149!4d86.2035841!16s%2Fg%2F11sdfwhm1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1407,7 +1418,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ankit+Kumar+Prasad-+Cosmetologist+%26+Aesthetician(+Best+skin+%26+hair+laser+clinic+in+Jamshedpur)/@22.8066149,86.2035841,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e39c2e04f5c5:0x3a9ec1b1509cb64!8m2!3d22.8066149!4d86.2035841!16s%2Fg%2F11sdfwhm1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ankuram-ivf-jamshedpur-jamshedpur",
@@ -1457,7 +1469,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ANKURAM+IVF+%7C+Jamshedpur/@22.8059979,86.2039576,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e31975978441:0x4836bdb7654b9ea7!8m2!3d22.8059979!4d86.2039576!16s%2Fg%2F11vbqqdgb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANKURAM+IVF+%7C+Jamshedpur/@22.8059979,86.2039576,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e31975978441:0x4836bdb7654b9ea7!8m2!3d22.8059979!4d86.2039576!16s%2Fg%2F11vbqqdgb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1526,7 +1538,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ANKURAM+IVF+%7C+Jamshedpur/@22.8059979,86.2039576,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e31975978441:0x4836bdb7654b9ea7!8m2!3d22.8059979!4d86.2039576!16s%2Fg%2F11vbqqdgb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apex-hospital-jamshedpur",
@@ -1574,7 +1587,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Apex+Hospital/@22.8096551,86.2103717,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e306d1e6d235:0x80407dd9f46408b3!8m2!3d22.8096551!4d86.2103717!16s%2Fg%2F119v_lk82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Hospital/@22.8096551,86.2103717,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e306d1e6d235:0x80407dd9f46408b3!8m2!3d22.8096551!4d86.2103717!16s%2Fg%2F119v_lk82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1643,7 +1656,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+Hospital/@22.8096551,86.2103717,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e306d1e6d235:0x80407dd9f46408b3!8m2!3d22.8096551!4d86.2103717!16s%2Fg%2F119v_lk82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-dental-health-care-centre-jamshedpur",
@@ -1691,7 +1705,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Dental+Health+Care+Centre/@22.7531002,86.2084045,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcda7c4ad55d:0xe4377558f448b2bf!8m2!3d22.7531002!4d86.2084045!16s%2Fg%2F11bzzv5zvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dental+Health+Care+Centre/@22.7531002,86.2084045,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcda7c4ad55d:0xe4377558f448b2bf!8m2!3d22.7531002!4d86.2084045!16s%2Fg%2F11bzzv5zvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1760,7 +1774,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Dental+Health+Care+Centre/@22.7531002,86.2084045,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcda7c4ad55d:0xe4377558f448b2bf!8m2!3d22.7531002!4d86.2084045!16s%2Fg%2F11bzzv5zvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apurva-ishan-hospital-golmuri-jamshedpur",
@@ -1808,7 +1823,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Apurva+Ishan+Hospital+Golmuri/@22.7942456,86.2219382,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ce7e63f179:0x1dc90c807f2ca790!8m2!3d22.7942456!4d86.2219382!16s%2Fg%2F11h_4sf8jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apurva+Ishan+Hospital+Golmuri/@22.7942456,86.2219382,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ce7e63f179:0x1dc90c807f2ca790!8m2!3d22.7942456!4d86.2219382!16s%2Fg%2F11h_4sf8jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1877,7 +1892,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apurva+Ishan+Hospital+Golmuri/@22.7942456,86.2219382,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ce7e63f179:0x1dc90c807f2ca790!8m2!3d22.7942456!4d86.2219382!16s%2Fg%2F11h_4sf8jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashoka-dental-hospital-jamshedpur",
@@ -1927,7 +1943,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ashoka+Dental+Hospital/@22.837764,86.2293528,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3183f14094b:0xdffda4961df3c816!8m2!3d22.837764!4d86.2293528!16s%2Fg%2F11k52mxxn9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashoka+Dental+Hospital/@22.837764,86.2293528,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3183f14094b:0xdffda4961df3c816!8m2!3d22.837764!4d86.2293528!16s%2Fg%2F11k52mxxn9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1996,7 +2012,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashoka+Dental+Hospital/@22.837764,86.2293528,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3183f14094b:0xdffda4961df3c816!8m2!3d22.837764!4d86.2293528!16s%2Fg%2F11k52mxxn9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "atul-dental-care-jamshedpur",
@@ -2044,7 +2061,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/ATUL+DENTAL+CARE/@22.755738,86.2154591,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcd7dee6ac3d:0x3ada2a7fe8c73fde!8m2!3d22.755738!4d86.2154591!16s%2Fg%2F11bzznwvw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ATUL+DENTAL+CARE/@22.755738,86.2154591,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcd7dee6ac3d:0x3ada2a7fe8c73fde!8m2!3d22.755738!4d86.2154591!16s%2Fg%2F11bzznwvw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2110,10 +2127,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ATUL+DENTAL+CARE/@22.755738,86.2154591,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcd7dee6ac3d:0x3ada2a7fe8c73fde!8m2!3d22.755738!4d86.2154591!16s%2Fg%2F11bzznwvw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "awadh-dental-college-and-hospital-jamshedpur",
@@ -2163,7 +2181,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Awadh+Dental+College+And+Hospital/@22.8293003,86.2556392,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2762f218c59:0x428027f3764eaf3c!8m2!3d22.8293003!4d86.2556392!16s%2Fg%2F1tfk2vln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Awadh+Dental+College+And+Hospital/@22.8293003,86.2556392,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2762f218c59:0x428027f3764eaf3c!8m2!3d22.8293003!4d86.2556392!16s%2Fg%2F1tfk2vln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2232,7 +2250,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Awadh+Dental+College+And+Hospital/@22.8293003,86.2556392,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2762f218c59:0x428027f3764eaf3c!8m2!3d22.8293003!4d86.2556392!16s%2Fg%2F1tfk2vln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bel-patra-dental-jamshedpur",
@@ -2281,7 +2300,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bel+Patra+Dental/@22.7953724,86.2559906,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e356255f4267:0xa11cab3024fb0ca!8m2!3d22.7953724!4d86.2559906!16s%2Fg%2F11tn64zqvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bel+Patra+Dental/@22.7953724,86.2559906,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e356255f4267:0xa11cab3024fb0ca!8m2!3d22.7953724!4d86.2559906!16s%2Fg%2F11tn64zqvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2350,7 +2369,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bel+Patra+Dental/@22.7953724,86.2559906,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e356255f4267:0xa11cab3024fb0ca!8m2!3d22.7953724!4d86.2559906!16s%2Fg%2F11tn64zqvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhavya-dental-care-jamshedpur",
@@ -2399,7 +2419,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Bhavya+Dental+Care/@22.789356,86.158817,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e495ec5e1f43:0x2043201f4259a027!8m2!3d22.789356!4d86.158817!16s%2Fg%2F11t6jsm1vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhavya+Dental+Care/@22.789356,86.158817,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e495ec5e1f43:0x2043201f4259a027!8m2!3d22.789356!4d86.158817!16s%2Fg%2F11t6jsm1vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2468,7 +2488,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhavya+Dental+Care/@22.789356,86.158817,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e495ec5e1f43:0x2043201f4259a027!8m2!3d22.789356!4d86.158817!16s%2Fg%2F11t6jsm1vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bishnu-health-clinic-adityapur-jamshedpur-13",
@@ -2516,7 +2537,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Bishnu+Health+Clinic/@22.7872122,86.1686002,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53399447195:0x81d1e6b326c42baf!8m2!3d22.7872122!4d86.1686002!16s%2Fg%2F11jr__jz9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bishnu+Health+Clinic/@22.7872122,86.1686002,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53399447195:0x81d1e6b326c42baf!8m2!3d22.7872122!4d86.1686002!16s%2Fg%2F11jr__jz9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2585,7 +2606,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bishnu+Health+Clinic/@22.7872122,86.1686002,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53399447195:0x81d1e6b326c42baf!8m2!3d22.7872122!4d86.1686002!16s%2Fg%2F11jr__jz9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "brahmananda-hospitality-services-jamshedpur",
@@ -2633,7 +2655,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Brahmananda+Hospitality+Services/@22.8485888,86.1918188,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3e6207998ed:0x5fcf832f7711e0ed!8m2!3d22.8485888!4d86.1918188!16s%2Fg%2F11by_myvwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brahmananda+Hospitality+Services/@22.8485888,86.1918188,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3e6207998ed:0x5fcf832f7711e0ed!8m2!3d22.8485888!4d86.1918188!16s%2Fg%2F11by_myvwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2699,10 +2721,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Brahmananda+Hospitality+Services/@22.8485888,86.1918188,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3e6207998ed:0x5fcf832f7711e0ed!8m2!3d22.8485888!4d86.1918188!16s%2Fg%2F11by_myvwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "centre-for-dental-care-jamshedpur",
@@ -2750,7 +2773,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Centre+for+Dental+Care/@22.8083963,86.2053645,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e308a4094491:0x17bf0f66c1e6ab1e!8m2!3d22.8083963!4d86.2053645!16s%2Fg%2F124ybsvsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Centre+for+Dental+Care/@22.8083963,86.2053645,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e308a4094491:0x17bf0f66c1e6ab1e!8m2!3d22.8083963!4d86.2053645!16s%2Fg%2F124ybsvsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2819,7 +2842,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Centre+for+Dental+Care/@22.8083963,86.2053645,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e308a4094491:0x17bf0f66c1e6ab1e!8m2!3d22.8083963!4d86.2053645!16s%2Fg%2F124ybsvsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chandra-medicare-jamshedpur",
@@ -2867,7 +2891,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/chandra+medicare/@22.8082163,86.2120578,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ae476ca415:0x86bd5828973f5aa!8m2!3d22.8082163!4d86.2120578!16s%2Fg%2F11g19jq0vv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/chandra+medicare/@22.8082163,86.2120578,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ae476ca415:0x86bd5828973f5aa!8m2!3d22.8082163!4d86.2120578!16s%2Fg%2F11g19jq0vv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2936,7 +2960,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/chandra+medicare/@22.8082163,86.2120578,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ae476ca415:0x86bd5828973f5aa!8m2!3d22.8082163!4d86.2120578!16s%2Fg%2F11g19jq0vv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "complete-health-care-jamshedpur",
@@ -2984,7 +3009,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Complete+Health+Care/@22.8294187,86.2110153,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b3d902905d:0x3e6a842a2de04de8!8m2!3d22.8294187!4d86.2110153!16s%2Fg%2F11c0r5m1jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Complete+Health+Care/@22.8294187,86.2110153,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b3d902905d:0x3e6a842a2de04de8!8m2!3d22.8294187!4d86.2110153!16s%2Fg%2F11c0r5m1jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3050,10 +3075,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Complete+Health+Care/@22.8294187,86.2110153,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b3d902905d:0x3e6a842a2de04de8!8m2!3d22.8294187!4d86.2110153!16s%2Fg%2F11c0r5m1jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "daya-hospital-jamshedpur",
@@ -3101,7 +3127,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/DAYA+HOSPITAL/@22.8283253,86.2116426,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b22ff21881:0x5752c2e9f64a7130!8m2!3d22.8283253!4d86.2116426!16s%2Fg%2F11c6w0bbjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DAYA+HOSPITAL/@22.8283253,86.2116426,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b22ff21881:0x5752c2e9f64a7130!8m2!3d22.8283253!4d86.2116426!16s%2Fg%2F11c6w0bbjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3170,7 +3196,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DAYA+HOSPITAL/@22.8283253,86.2116426,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b22ff21881:0x5752c2e9f64a7130!8m2!3d22.8283253!4d86.2116426!16s%2Fg%2F11c6w0bbjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-and-cosmo-care-jamshedpur",
@@ -3218,7 +3245,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+%26+Cosmo+Care/@22.7986149,86.1811306,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3943dd3aea3:0x42cdd772ef405e0e!8m2!3d22.7986149!4d86.1811306!16s%2Fg%2F11x80m75st?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+%26+Cosmo+Care/@22.7986149,86.1811306,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3943dd3aea3:0x42cdd772ef405e0e!8m2!3d22.7986149!4d86.1811306!16s%2Fg%2F11x80m75st?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3284,10 +3311,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+%26+Cosmo+Care/@22.7986149,86.1811306,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3943dd3aea3:0x42cdd772ef405e0e!8m2!3d22.7986149!4d86.1811306!16s%2Fg%2F11x80m75st?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-care-and-orthodontic-center-jamshedpur",
@@ -3337,7 +3365,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Care+and+Orthodontic+Center/@22.806698,86.2054809,17z/data=!3m1!4b1!4m6!3m5!1s0x6e7784c00ee822b:0x84427756676d1087!8m2!3d22.806698!4d86.2054809!16s%2Fg%2F11wppm121b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Care+and+Orthodontic+Center/@22.806698,86.2054809,17z/data=!3m1!4b1!4m6!3m5!1s0x6e7784c00ee822b:0x84427756676d1087!8m2!3d22.806698!4d86.2054809!16s%2Fg%2F11wppm121b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3403,10 +3431,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Care+and+Orthodontic+Center/@22.806698,86.2054809,17z/data=!3m1!4b1!4m6!3m5!1s0x6e7784c00ee822b:0x84427756676d1087!8m2!3d22.806698!4d86.2054809!16s%2Fg%2F11wppm121b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-hub-dental-clinic-in-jamshedpur-jamshedpur",
@@ -3455,7 +3484,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Hub+-+Dental+Clinic+in+Jamshedpur/@22.7978177,86.1779166,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3653e96fd51:0x87d1a99250f1802c!8m2!3d22.7978177!4d86.1779166!16s%2Fg%2F11c0w0g5tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Hub+-+Dental+Clinic+in+Jamshedpur/@22.7978177,86.1779166,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3653e96fd51:0x87d1a99250f1802c!8m2!3d22.7978177!4d86.1779166!16s%2Fg%2F11c0w0g5tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3524,7 +3553,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Hub+-+Dental+Clinic+in+Jamshedpur/@22.7978177,86.1779166,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3653e96fd51:0x87d1a99250f1802c!8m2!3d22.7978177!4d86.1779166!16s%2Fg%2F11c0w0g5tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-orion-jamshedpur",
@@ -3574,7 +3604,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Orion/@22.7714278,86.1844725,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36514723161:0xe473d41f5d84861a!8m2!3d22.7714278!4d86.1844725!16s%2Fg%2F11h818ph52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Orion/@22.7714278,86.1844725,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36514723161:0xe473d41f5d84861a!8m2!3d22.7714278!4d86.1844725!16s%2Fg%2F11h818ph52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3640,10 +3670,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Orion/@22.7714278,86.1844725,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36514723161:0xe473d41f5d84861a!8m2!3d22.7714278!4d86.1844725!16s%2Fg%2F11h818ph52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-park-fresh-smile-jamshedpur",
@@ -3691,7 +3722,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Park+Fresh+Smile/@22.8045496,86.2125726,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2fd0c033f2f:0x7907832e7d885b83!8m2!3d22.8045496!4d86.2125726!16s%2Fg%2F11d_71fphp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Park+Fresh+Smile/@22.8045496,86.2125726,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2fd0c033f2f:0x7907832e7d885b83!8m2!3d22.8045496!4d86.2125726!16s%2Fg%2F11d_71fphp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3760,7 +3791,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Park+Fresh+Smile/@22.8045496,86.2125726,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2fd0c033f2f:0x7907832e7d885b83!8m2!3d22.8045496!4d86.2125726!16s%2Fg%2F11d_71fphp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-point-jamshedpur",
@@ -3808,7 +3840,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Point/@22.8049853,86.1880785,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f8076c6755:0x74ed6233a6f32984!8m2!3d22.8049853!4d86.1880785!16s%2Fg%2F11vzcjtyz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Point/@22.8049853,86.1880785,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f8076c6755:0x74ed6233a6f32984!8m2!3d22.8049853!4d86.1880785!16s%2Fg%2F11vzcjtyz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3877,7 +3909,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Point/@22.8049853,86.1880785,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f8076c6755:0x74ed6233a6f32984!8m2!3d22.8049853!4d86.1880785!16s%2Fg%2F11vzcjtyz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-spa-laser-implants-and-orthodontic-centre-jamshedpur",
@@ -3926,7 +3959,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Spa+(Laser,+Implants+and+Orthodontic+Centre)/@22.8084308,86.2122767,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3016f2cca9d:0x87ea86ead2076b46!8m2!3d22.8084308!4d86.2122767!16s%2Fg%2F11g_zdm59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Spa+(Laser,+Implants+and+Orthodontic+Centre)/@22.8084308,86.2122767,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3016f2cca9d:0x87ea86ead2076b46!8m2!3d22.8084308!4d86.2122767!16s%2Fg%2F11g_zdm59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3995,7 +4028,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Spa+(Laser,+Implants+and+Orthodontic+Centre)/@22.8084308,86.2122767,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3016f2cca9d:0x87ea86ead2076b46!8m2!3d22.8084308!4d86.2122767!16s%2Fg%2F11g_zdm59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-treatment-and-mouth-care-centre-jamshedpur",
@@ -4043,7 +4077,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Treatment+%26+Mouth+Care+Centre/@22.8214067,86.1663818,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47adc5bde63:0x51b70cc0fc56cd5d!8m2!3d22.8214067!4d86.1663818!16s%2Fg%2F1hm53r9p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Treatment+%26+Mouth+Care+Centre/@22.8214067,86.1663818,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47adc5bde63:0x51b70cc0fc56cd5d!8m2!3d22.8214067!4d86.1663818!16s%2Fg%2F1hm53r9p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4112,7 +4146,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Treatment+%26+Mouth+Care+Centre/@22.8214067,86.1663818,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47adc5bde63:0x51b70cc0fc56cd5d!8m2!3d22.8214067!4d86.1663818!16s%2Fg%2F1hm53r9p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-villa-jamshedpur",
@@ -4162,7 +4197,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Villa/@22.8070529,86.1995726,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e339d57c7be3:0x7c21887cabca908f!8m2!3d22.8070529!4d86.1995726!16s%2Fg%2F11h64y9jr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Villa/@22.8070529,86.1995726,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e339d57c7be3:0x7c21887cabca908f!8m2!3d22.8070529!4d86.1995726!16s%2Fg%2F11h64y9jr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4231,7 +4266,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Villa/@22.8070529,86.1995726,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e339d57c7be3:0x7c21887cabca908f!8m2!3d22.8070529!4d86.1995726!16s%2Fg%2F11h64y9jr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-wworld-jamshedpur",
@@ -4279,7 +4315,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Dental+wworld/@22.7841873,86.2488669,17z/data=!3m1!4b1!4m6!3m5!1s0x39f60804ce2ac09d:0x821bedc063a2010f!8m2!3d22.7841873!4d86.2488669!16s%2Fg%2F11bzq2t78p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+wworld/@22.7841873,86.2488669,17z/data=!3m1!4b1!4m6!3m5!1s0x39f60804ce2ac09d:0x821bedc063a2010f!8m2!3d22.7841873!4d86.2488669!16s%2Fg%2F11bzq2t78p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4348,7 +4384,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+wworld/@22.7841873,86.2488669,17z/data=!3m1!4b1!4m6!3m5!1s0x39f60804ce2ac09d:0x821bedc063a2010f!8m2!3d22.7841873!4d86.2488669!16s%2Fg%2F11bzq2t78p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "emergency-and-trauma-care-24-7-ambulance-service-narayana-hospital-jamshedpur-jamshedpur",
@@ -4398,7 +4435,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Emergency+%26+Trauma+Care+%7C+24%2F7+Ambulance+Service+%7C+Narayana+Hospital,+Jamshedpur/@22.8483007,86.1921513,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3e91597d565:0xd9d2f8b611b6acee!8m2!3d22.8483007!4d86.1921513!16s%2Fg%2F11vwqv1wxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Emergency+%26+Trauma+Care+%7C+24%2F7+Ambulance+Service+%7C+Narayana+Hospital,+Jamshedpur/@22.8483007,86.1921513,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3e91597d565:0xd9d2f8b611b6acee!8m2!3d22.8483007!4d86.1921513!16s%2Fg%2F11vwqv1wxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4464,10 +4501,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Emergency+%26+Trauma+Care+%7C+24%2F7+Ambulance+Service+%7C+Narayana+Hospital,+Jamshedpur/@22.8483007,86.1921513,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3e91597d565:0xd9d2f8b611b6acee!8m2!3d22.8483007!4d86.1921513!16s%2Fg%2F11vwqv1wxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gandhi-s-clinic-jamshedpur",
@@ -4515,7 +4553,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/Gandhi%E2%80%99s+Clinic/@22.7545059,86.2117851,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a3c410fa3b:0x5974fa1264b2640c!8m2!3d22.7545059!4d86.2117851!16s%2Fg%2F11j0jb70sy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gandhi%E2%80%99s+Clinic/@22.7545059,86.2117851,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a3c410fa3b:0x5974fa1264b2640c!8m2!3d22.7545059!4d86.2117851!16s%2Fg%2F11j0jb70sy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4584,7 +4622,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gandhi%E2%80%99s+Clinic/@22.7545059,86.2117851,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a3c410fa3b:0x5974fa1264b2640c!8m2!3d22.7545059!4d86.2117851!16s%2Fg%2F11j0jb70sy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ganga-memorial-hospital-jamshedpur",
@@ -4632,7 +4671,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Ganga+Memorial+Hospital/@22.830112,86.2237106,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e24e99a23f5d:0xb05372408b6232ca!8m2!3d22.830112!4d86.2237106!16s%2Fg%2F1264qhffq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganga+Memorial+Hospital/@22.830112,86.2237106,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e24e99a23f5d:0xb05372408b6232ca!8m2!3d22.830112!4d86.2237106!16s%2Fg%2F1264qhffq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4701,7 +4740,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ganga+Memorial+Hospital/@22.830112,86.2237106,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e24e99a23f5d:0xb05372408b6232ca!8m2!3d22.830112!4d86.2237106!16s%2Fg%2F1264qhffq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "guru-nanak-hospital-jamshedpur",
@@ -4750,7 +4790,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Guru+Nanak+Hospital/@22.8244252,86.2115397,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3adee7ef9a5:0xcdcaa0b7a8d3ef98!8m2!3d22.8244252!4d86.2115397!16s%2Fg%2F11csb152gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Guru+Nanak+Hospital/@22.8244252,86.2115397,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3adee7ef9a5:0xcdcaa0b7a8d3ef98!8m2!3d22.8244252!4d86.2115397!16s%2Fg%2F11csb152gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4819,7 +4859,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Guru+Nanak+Hospital/@22.8244252,86.2115397,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3adee7ef9a5:0xcdcaa0b7a8d3ef98!8m2!3d22.8244252!4d86.2115397!16s%2Fg%2F11csb152gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healthy-smile-jamshedpur",
@@ -4867,7 +4908,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Healthy+Smile/@22.793141,86.183517,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e366594d1dfd:0x50ebd187f2275e79!8m2!3d22.793141!4d86.183517!16s%2Fg%2F11clwlkcct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthy+Smile/@22.793141,86.183517,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e366594d1dfd:0x50ebd187f2275e79!8m2!3d22.793141!4d86.183517!16s%2Fg%2F11clwlkcct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4933,10 +4974,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healthy+Smile/@22.793141,86.183517,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e366594d1dfd:0x50ebd187f2275e79!8m2!3d22.793141!4d86.183517!16s%2Fg%2F11clwlkcct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healthy-smile-jamshedpur",
@@ -4985,7 +5027,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healthy+Smile/@22.7740573,86.1853801,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34e2aafbc91:0x7c600f233056d644!8m2!3d22.7740573!4d86.1853801!16s%2Fg%2F11b7jgg326?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthy+Smile/@22.7740573,86.1853801,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34e2aafbc91:0x7c600f233056d644!8m2!3d22.7740573!4d86.1853801!16s%2Fg%2F11b7jgg326?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5054,7 +5096,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healthy+Smile/@22.7740573,86.1853801,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34e2aafbc91:0x7c600f233056d644!8m2!3d22.7740573!4d86.1853801!16s%2Fg%2F11b7jgg326?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "heart-surgery-jamshedpur",
@@ -5104,7 +5147,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Heart+Surgery/@22.8103197,86.2038766,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30859d05a91:0xa44de1011f4fb34b!8m2!3d22.8103197!4d86.2038766!16s%2Fg%2F11rn3z16qp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heart+Surgery/@22.8103197,86.2038766,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30859d05a91:0xa44de1011f4fb34b!8m2!3d22.8103197!4d86.2038766!16s%2Fg%2F11rn3z16qp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5170,10 +5213,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Heart+Surgery/@22.8103197,86.2038766,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30859d05a91:0xa44de1011f4fb34b!8m2!3d22.8103197!4d86.2038766!16s%2Fg%2F11rn3z16qp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "holy-care-hospital-and-research-centre-jamshedpur",
@@ -5221,7 +5265,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Holy+Care+Hospital+%26+research+centre/@22.8043079,86.2134647,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3022d4de427:0x8493c27a4ab28298!8m2!3d22.8043079!4d86.2134647!16s%2Fg%2F11fx8qz2yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Holy+Care+Hospital+%26+research+centre/@22.8043079,86.2134647,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3022d4de427:0x8493c27a4ab28298!8m2!3d22.8043079!4d86.2134647!16s%2Fg%2F11fx8qz2yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5290,7 +5334,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Holy+Care+Hospital+%26+research+centre/@22.8043079,86.2134647,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3022d4de427:0x8493c27a4ab28298!8m2!3d22.8043079!4d86.2134647!16s%2Fg%2F11fx8qz2yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ilysha-dental-care-jamshedpur",
@@ -5338,7 +5383,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/ILYSHA+DENTAL+CARE/@22.8026665,86.1784427,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37cbfffffff:0x3cc83970da38d25f!8m2!3d22.8026665!4d86.1784427!16s%2Fg%2F11f5h2npg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ILYSHA+DENTAL+CARE/@22.8026665,86.1784427,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37cbfffffff:0x3cc83970da38d25f!8m2!3d22.8026665!4d86.1784427!16s%2Fg%2F11f5h2npg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5407,7 +5452,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ILYSHA+DENTAL+CARE/@22.8026665,86.1784427,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37cbfffffff:0x3cc83970da38d25f!8m2!3d22.8026665!4d86.1784427!16s%2Fg%2F11f5h2npg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-jamshedpur-best-ivf-centre-jamshedpur",
@@ -5457,7 +5503,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Jamshedpur+-+Best+IVF+Centre/@22.7868023,86.1630789,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5efd48c71184b:0x36099419b2a2ea8a!8m2!3d22.7868023!4d86.1630789!16s%2Fg%2F11fkt7h8j4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Jamshedpur+-+Best+IVF+Centre/@22.7868023,86.1630789,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5efd48c71184b:0x36099419b2a2ea8a!8m2!3d22.7868023!4d86.1630789!16s%2Fg%2F11fkt7h8j4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5526,7 +5572,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Jamshedpur+-+Best+IVF+Centre/@22.7868023,86.1630789,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5efd48c71184b:0x36099419b2a2ea8a!8m2!3d22.7868023!4d86.1630789!16s%2Fg%2F11fkt7h8j4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jamshedpur-dental-hospital-jamshedpur",
@@ -5576,7 +5623,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jamshedpur+Dental+Hospital/@22.8065824,86.2038369,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30f2e364a45:0x24a2f6cd6205644b!8m2!3d22.8065824!4d86.2038369!16s%2Fg%2F11dzt20f2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jamshedpur+Dental+Hospital/@22.8065824,86.2038369,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30f2e364a45:0x24a2f6cd6205644b!8m2!3d22.8065824!4d86.2038369!16s%2Fg%2F11dzt20f2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5645,7 +5692,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jamshedpur+Dental+Hospital/@22.8065824,86.2038369,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30f2e364a45:0x24a2f6cd6205644b!8m2!3d22.8065824!4d86.2038369!16s%2Fg%2F11dzt20f2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jfec-and-sparsh-ivf-center-jamshedpur",
@@ -5695,7 +5743,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/JFEC+%26+Sparsh+IVF+Center/@22.7953003,86.2240879,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2e7f9f71557:0x70bc325004ffb068!8m2!3d22.7953003!4d86.2240879!16s%2Fg%2F11hbtjbmzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JFEC+%26+Sparsh+IVF+Center/@22.7953003,86.2240879,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2e7f9f71557:0x70bc325004ffb068!8m2!3d22.7953003!4d86.2240879!16s%2Fg%2F11hbtjbmzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5764,7 +5812,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JFEC+%26+Sparsh+IVF+Center/@22.7953003,86.2240879,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2e7f9f71557:0x70bc325004ffb068!8m2!3d22.7953003!4d86.2240879!16s%2Fg%2F11hbtjbmzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jiva-ayurveda-clinic-bistupur-jamshedpur-jamshedpur",
@@ -5813,7 +5862,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Bistupur,+Jamshedpur/@22.7958917,86.1842345,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ee3539b3b3:0xb81d728fed6d11e7!8m2!3d22.7958917!4d86.1842345!16s%2Fg%2F11f61gk6f0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Bistupur,+Jamshedpur/@22.7958917,86.1842345,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ee3539b3b3:0xb81d728fed6d11e7!8m2!3d22.7958917!4d86.1842345!16s%2Fg%2F11f61gk6f0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5882,7 +5931,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Bistupur,+Jamshedpur/@22.7958917,86.1842345,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ee3539b3b3:0xb81d728fed6d11e7!8m2!3d22.7958917!4d86.1842345!16s%2Fg%2F11f61gk6f0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalpa-skin-care-jamshedpur",
@@ -5931,7 +5981,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kalpa+Skin+Care/@22.806411,86.2038001,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ee8dec3557:0xe1d558791de41f1d!8m2!3d22.806411!4d86.2038001!16s%2Fg%2F11gtyt6_sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalpa+Skin+Care/@22.806411,86.2038001,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ee8dec3557:0xe1d558791de41f1d!8m2!3d22.806411!4d86.2038001!16s%2Fg%2F11gtyt6_sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6000,7 +6050,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalpa+Skin+Care/@22.806411,86.2038001,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ee8dec3557:0xe1d558791de41f1d!8m2!3d22.806411!4d86.2038001!16s%2Fg%2F11gtyt6_sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kamini-gorai-chikitsalay-kgc-hospital-jamshedpur",
@@ -6048,7 +6099,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/KAMINI+GORAI+CHIKITSALAY-KGC+Hospital/@22.8068227,86.1556988,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e48b5b297ab9:0xb3d75207e0b902d7!8m2!3d22.8068227!4d86.1556988!16s%2Fg%2F11c5_0hnqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KAMINI+GORAI+CHIKITSALAY-KGC+Hospital/@22.8068227,86.1556988,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e48b5b297ab9:0xb3d75207e0b902d7!8m2!3d22.8068227!4d86.1556988!16s%2Fg%2F11c5_0hnqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6117,7 +6168,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KAMINI+GORAI+CHIKITSALAY-KGC+Hospital/@22.8068227,86.1556988,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e48b5b297ab9:0xb3d75207e0b902d7!8m2!3d22.8068227!4d86.1556988!16s%2Fg%2F11c5_0hnqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kantilal-gandhi-memorial-hospital-jamshedpur",
@@ -6165,7 +6217,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://www.google.com/maps/place/Kantilal+Gandhi+Memorial+Hospital/@22.786939,86.177834,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35e4c60ef83:0x53dab5f429a61b3f!8m2!3d22.786939!4d86.177834!16s%2Fg%2F1tds539j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kantilal+Gandhi+Memorial+Hospital/@22.786939,86.177834,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35e4c60ef83:0x53dab5f429a61b3f!8m2!3d22.786939!4d86.177834!16s%2Fg%2F1tds539j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6234,7 +6286,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kantilal+Gandhi+Memorial+Hospital/@22.786939,86.177834,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35e4c60ef83:0x53dab5f429a61b3f!8m2!3d22.786939!4d86.177834!16s%2Fg%2F1tds539j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kartar-dental-clinic-and-implant-center-jamshedpur",
@@ -6282,7 +6335,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kartar+Dental+Clinic+and+Implant+Center./@22.8186833,86.1660911,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e535a41a8cc9:0xb64973335ec81dd4!8m2!3d22.8186833!4d86.1660911!16s%2Fg%2F11x34v5sq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kartar+Dental+Clinic+and+Implant+Center./@22.8186833,86.1660911,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e535a41a8cc9:0xb64973335ec81dd4!8m2!3d22.8186833!4d86.1660911!16s%2Fg%2F11x34v5sq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6348,10 +6401,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kartar+Dental+Clinic+and+Implant+Center./@22.8186833,86.1660911,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e535a41a8cc9:0xb64973335ec81dd4!8m2!3d22.8186833!4d86.1660911!16s%2Fg%2F11x34v5sq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kazmi-dental-care-jamshedpur",
@@ -6399,7 +6453,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Kazmi+Dental+Care/@22.839835,86.2024687,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3640f2607e3:0x2ab4febfd066cc28!8m2!3d22.839835!4d86.2024687!16s%2Fg%2F11hyjd44db?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kazmi+Dental+Care/@22.839835,86.2024687,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3640f2607e3:0x2ab4febfd066cc28!8m2!3d22.839835!4d86.2024687!16s%2Fg%2F11hyjd44db?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6468,7 +6522,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kazmi+Dental+Care/@22.839835,86.2024687,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3640f2607e3:0x2ab4febfd066cc28!8m2!3d22.839835!4d86.2024687!16s%2Fg%2F11hyjd44db?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kedia-eye-and-maternity-centre-jamshedpur",
@@ -6517,7 +6572,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kedia+Eye+%26+Maternity+Centre/@22.7724669,86.1921045,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35ba0e9d893:0xa40bd13e41bd5dcc!8m2!3d22.7724669!4d86.1921045!16s%2Fg%2F11f9yfqss5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kedia+Eye+%26+Maternity+Centre/@22.7724669,86.1921045,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35ba0e9d893:0xa40bd13e41bd5dcc!8m2!3d22.7724669!4d86.1921045!16s%2Fg%2F11f9yfqss5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6586,7 +6641,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kedia+Eye+%26+Maternity+Centre/@22.7724669,86.1921045,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35ba0e9d893:0xa40bd13e41bd5dcc!8m2!3d22.7724669!4d86.1921045!16s%2Fg%2F11f9yfqss5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kumar-dental-clinic-jamshedpur",
@@ -6634,7 +6690,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/KUMAR+DENTAL+CLINIC/@22.780624,86.1660068,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3abf1ca2ca9:0x68fda0baf0d0ef8a!8m2!3d22.780624!4d86.1660068!16s%2Fg%2F11g6qz3_f7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KUMAR+DENTAL+CLINIC/@22.780624,86.1660068,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3abf1ca2ca9:0x68fda0baf0d0ef8a!8m2!3d22.780624!4d86.1660068!16s%2Fg%2F11g6qz3_f7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6703,7 +6759,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KUMAR+DENTAL+CLINIC/@22.780624,86.1660068,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3abf1ca2ca9:0x68fda0baf0d0ef8a!8m2!3d22.780624!4d86.1660068!16s%2Fg%2F11g6qz3_f7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kunal-dental-clinic-and-health-center-jamshedpur",
@@ -6751,7 +6808,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Kunal+Dental+Clinic+And+Health+Center/@22.7790554,86.1630217,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5dc2f45b471:0x3eec3ec4a0fd717!8m2!3d22.7790554!4d86.1630217!16s%2Fg%2F11pz0myghr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kunal+Dental+Clinic+And+Health+Center/@22.7790554,86.1630217,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5dc2f45b471:0x3eec3ec4a0fd717!8m2!3d22.7790554!4d86.1630217!16s%2Fg%2F11pz0myghr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6820,7 +6877,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kunal+Dental+Clinic+And+Health+Center/@22.7790554,86.1630217,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5dc2f45b471:0x3eec3ec4a0fd717!8m2!3d22.7790554!4d86.1630217!16s%2Fg%2F11pz0myghr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "laxmi-nursing-home-jamshedpur",
@@ -6869,7 +6927,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Laxmi+Nursing+Home/@22.7843509,86.264994,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6081a24610be3:0x37ea9ac908d42c9b!8m2!3d22.7843509!4d86.264994!16s%2Fg%2F11c0r5cr5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmi+Nursing+Home/@22.7843509,86.264994,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6081a24610be3:0x37ea9ac908d42c9b!8m2!3d22.7843509!4d86.264994!16s%2Fg%2F11c0r5cr5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6938,7 +6996,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laxmi+Nursing+Home/@22.7843509,86.264994,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6081a24610be3:0x37ea9ac908d42c9b!8m2!3d22.7843509!4d86.264994!16s%2Fg%2F11c0r5cr5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-line-nursing-home-jamshedpur",
@@ -6986,7 +7045,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/Life+Line+Nursing+Home/@22.8092671,86.2090945,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e301101138bf:0x17cd29dd43824598!8m2!3d22.8092671!4d86.2090945!16s%2Fg%2F11rst6kb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Line+Nursing+Home/@22.8092671,86.2090945,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e301101138bf:0x17cd29dd43824598!8m2!3d22.8092671!4d86.2090945!16s%2Fg%2F11rst6kb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7055,7 +7114,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+Line+Nursing+Home/@22.8092671,86.2090945,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e301101138bf:0x17cd29dd43824598!8m2!3d22.8092671!4d86.2090945!16s%2Fg%2F11rst6kb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "liu-s-dental-care-jamshedpur",
@@ -7104,7 +7164,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Liu's+Dental+Care/@22.7982151,86.1822734,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34ff2e3c96d:0x40dad1a83b1e6633!8m2!3d22.7982151!4d86.1822734!16s%2Fg%2F11h7f8sv7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Liu's+Dental+Care/@22.7982151,86.1822734,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34ff2e3c96d:0x40dad1a83b1e6633!8m2!3d22.7982151!4d86.1822734!16s%2Fg%2F11h7f8sv7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7173,7 +7233,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Liu's+Dental+Care/@22.7982151,86.1822734,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34ff2e3c96d:0x40dad1a83b1e6633!8m2!3d22.7982151!4d86.1822734!16s%2Fg%2F11h7f8sv7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhurekha-eye-care-centre-jamshedpur",
@@ -7222,7 +7283,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Madhurekha+Eye+Care+Centre/@22.8189611,86.1660431,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47f18ce4969:0xa450d786b8301852!8m2!3d22.8189611!4d86.1660431!16s%2Fg%2F11gcm07_fh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhurekha+Eye+Care+Centre/@22.8189611,86.1660431,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47f18ce4969:0xa450d786b8301852!8m2!3d22.8189611!4d86.1660431!16s%2Fg%2F11gcm07_fh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7291,7 +7352,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhurekha+Eye+Care+Centre/@22.8189611,86.1660431,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47f18ce4969:0xa450d786b8301852!8m2!3d22.8189611!4d86.1660431!16s%2Fg%2F11gcm07_fh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mango-nursing-home-jamshedpur",
@@ -7340,7 +7402,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mango+Nursing+Home/@22.8267271,86.2095475,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b195457037:0x69978bcb57ffc10b!8m2!3d22.8267271!4d86.2095475!16s%2Fg%2F11jzqr91y6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mango+Nursing+Home/@22.8267271,86.2095475,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b195457037:0x69978bcb57ffc10b!8m2!3d22.8267271!4d86.2095475!16s%2Fg%2F11jzqr91y6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7409,7 +7471,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mango+Nursing+Home/@22.8267271,86.2095475,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b195457037:0x69978bcb57ffc10b!8m2!3d22.8267271!4d86.2095475!16s%2Fg%2F11jzqr91y6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maternity-opd-telco-jamshedpur",
@@ -7457,7 +7520,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Maternity+OPD+Telco/@22.7681194,86.2563282,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2aaa1021691:0x71fecef6fb03d55f!8m2!3d22.7681194!4d86.2563282!16s%2Fg%2F11c2nqkk3l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maternity+OPD+Telco/@22.7681194,86.2563282,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2aaa1021691:0x71fecef6fb03d55f!8m2!3d22.7681194!4d86.2563282!16s%2Fg%2F11c2nqkk3l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7526,7 +7589,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maternity+OPD+Telco/@22.7681194,86.2563282,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2aaa1021691:0x71fecef6fb03d55f!8m2!3d22.7681194!4d86.2563282!16s%2Fg%2F11c2nqkk3l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "max-dental-and-implant-center-jamshedpur",
@@ -7576,7 +7640,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Max+Dental+%26+Implant+Center/@22.7929976,86.2222001,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53b64ab14c5:0xa3946bc8711e25b!8m2!3d22.7929976!4d86.2222001!16s%2Fg%2F11l5t4zmk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Max+Dental+%26+Implant+Center/@22.7929976,86.2222001,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53b64ab14c5:0xa3946bc8711e25b!8m2!3d22.7929976!4d86.2222001!16s%2Fg%2F11l5t4zmk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7642,10 +7706,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Max+Dental+%26+Implant+Center/@22.7929976,86.2222001,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53b64ab14c5:0xa3946bc8711e25b!8m2!3d22.7929976!4d86.2222001!16s%2Fg%2F11l5t4zmk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "max-dental-and-implant-center-jamshedpur",
@@ -7695,7 +7760,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Max+Dental+%26+Implant+Center/@22.7728338,86.1916488,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f0b31ca065:0xdefeaba3eddbac26!8m2!3d22.7728338!4d86.1916488!16s%2Fg%2F11xnmph12g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Max+Dental+%26+Implant+Center/@22.7728338,86.1916488,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f0b31ca065:0xdefeaba3eddbac26!8m2!3d22.7728338!4d86.1916488!16s%2Fg%2F11xnmph12g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7761,10 +7826,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Max+Dental+%26+Implant+Center/@22.7728338,86.1916488,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f0b31ca065:0xdefeaba3eddbac26!8m2!3d22.7728338!4d86.1916488!16s%2Fg%2F11xnmph12g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mayank-mrinal-hospital-jamshedpur",
@@ -7812,7 +7878,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Mayank+Mrinal+Hospital/@22.8271471,86.2232035,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e24e4a3c540f:0xe83fab87ea97c0e8!8m2!3d22.8271471!4d86.2232035!16s%2Fg%2F1pzrd2g7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mayank+Mrinal+Hospital/@22.8271471,86.2232035,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e24e4a3c540f:0xe83fab87ea97c0e8!8m2!3d22.8271471!4d86.2232035!16s%2Fg%2F1pzrd2g7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7881,7 +7947,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mayank+Mrinal+Hospital/@22.8271471,86.2232035,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e24e4a3c540f:0xe83fab87ea97c0e8!8m2!3d22.8271471!4d86.2232035!16s%2Fg%2F1pzrd2g7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medicare-dental-wing-jamshedpur",
@@ -7929,7 +7996,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Medicare+Dental+wing/@22.8044524,86.2095667,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e304603dbd7d:0x8e6f37af07c8d595!8m2!3d22.8044524!4d86.2095667!16s%2Fg%2F11bzzt0k16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicare+Dental+wing/@22.8044524,86.2095667,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e304603dbd7d:0x8e6f37af07c8d595!8m2!3d22.8044524!4d86.2095667!16s%2Fg%2F11bzzt0k16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7998,7 +8065,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicare+Dental+wing/@22.8044524,86.2095667,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e304603dbd7d:0x8e6f37af07c8d595!8m2!3d22.8044524!4d86.2095667!16s%2Fg%2F11bzzt0k16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medinova-nursing-home-best-child-care-maternity-hospital-in-jamshedpur-jamshedpur",
@@ -8047,7 +8115,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Medinova+Nursing+Home+-+Best+Child+Care%2FMaternity+Hospital+in+Jamshedpur/@22.7885758,86.1700645,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e498eca31769:0x92cfe1472623218a!8m2!3d22.7885758!4d86.1700645!16s%2Fg%2F11ggvw8456?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medinova+Nursing+Home+-+Best+Child+Care%2FMaternity+Hospital+in+Jamshedpur/@22.7885758,86.1700645,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e498eca31769:0x92cfe1472623218a!8m2!3d22.7885758!4d86.1700645!16s%2Fg%2F11ggvw8456?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8116,7 +8184,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medinova+Nursing+Home+-+Best+Child+Care%2FMaternity+Hospital+in+Jamshedpur/@22.7885758,86.1700645,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e498eca31769:0x92cfe1472623218a!8m2!3d22.7885758!4d86.1700645!16s%2Fg%2F11ggvw8456?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medipoint-medicals-jamshedpur",
@@ -8164,7 +8233,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/MediPoint+Medicals/@22.8046953,86.2119654,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3039f6f78a1:0x6c35c3b1f8bd968a!8m2!3d22.8046953!4d86.2119654!16s%2Fg%2F11cnc42v7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MediPoint+Medicals/@22.8046953,86.2119654,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3039f6f78a1:0x6c35c3b1f8bd968a!8m2!3d22.8046953!4d86.2119654!16s%2Fg%2F11cnc42v7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8233,7 +8302,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MediPoint+Medicals/@22.8046953,86.2119654,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3039f6f78a1:0x6c35c3b1f8bd968a!8m2!3d22.8046953!4d86.2119654!16s%2Fg%2F11cnc42v7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medisist-ent-and-general-hospital-jamshedpur",
@@ -8282,7 +8352,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medisist+Ent+And+General+Hospital/@22.8081678,86.2022156,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e364b9ac53b7:0x205b90c07c24dfa6!8m2!3d22.8081678!4d86.2022156!16s%2Fg%2F11s_yxnjl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medisist+Ent+And+General+Hospital/@22.8081678,86.2022156,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e364b9ac53b7:0x205b90c07c24dfa6!8m2!3d22.8081678!4d86.2022156!16s%2Fg%2F11s_yxnjl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8351,7 +8421,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medisist+Ent+And+General+Hospital/@22.8081678,86.2022156,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e364b9ac53b7:0x205b90c07c24dfa6!8m2!3d22.8081678!4d86.2022156!16s%2Fg%2F11s_yxnjl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "meditrina-hospital-jamshedpur",
@@ -8401,7 +8472,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Meditrina+Hospital/data=!4m7!3m6!1s0x39f5e5e05efa7d4f:0x954710c5ab847e5e!8m2!3d22.78724!4d86.1691346!16s%2Fg%2F11c6f8gl6x!19sChIJT336XuDl9TkRXn6Eq8UQR5U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meditrina+Hospital/data=!4m7!3m6!1s0x39f5e5e05efa7d4f:0x954710c5ab847e5e!8m2!3d22.78724!4d86.1691346!16s%2Fg%2F11c6f8gl6x!19sChIJT336XuDl9TkRXn6Eq8UQR5U?authuser=0&hl=en&rclk=1"
@@ -8470,7 +8541,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meditrina+Hospital/data=!4m7!3m6!1s0x39f5e5e05efa7d4f:0x954710c5ab847e5e!8m2!3d22.78724!4d86.1691346!16s%2Fg%2F11c6f8gl6x!19sChIJT336XuDl9TkRXn6Eq8UQR5U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "meherbai-tata-memorial-hospital-jamshedpur",
@@ -8520,7 +8592,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MEHERBAI+TATA+MEMORIAL+HOSPITAL/@22.8026759,86.1814222,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3544c010121:0xa1ac50f12c53090a!8m2!3d22.8026759!4d86.1814222!16s%2Fg%2F11fnr8bx4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEHERBAI+TATA+MEMORIAL+HOSPITAL/@22.8026759,86.1814222,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3544c010121:0xa1ac50f12c53090a!8m2!3d22.8026759!4d86.1814222!16s%2Fg%2F11fnr8bx4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8589,7 +8661,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MEHERBAI+TATA+MEMORIAL+HOSPITAL/@22.8026759,86.1814222,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3544c010121:0xa1ac50f12c53090a!8m2!3d22.8026759!4d86.1814222!16s%2Fg%2F11fnr8bx4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mercy-hospital-jamshedpur",
@@ -8637,7 +8710,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Mercy+Hospital/@22.7994125,86.2479844,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e31e376c0b1f:0x7ad59895d58d0d5a!8m2!3d22.7994125!4d86.2479844!16s%2Fg%2F11j267v2x1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mercy+Hospital/@22.7994125,86.2479844,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e31e376c0b1f:0x7ad59895d58d0d5a!8m2!3d22.7994125!4d86.2479844!16s%2Fg%2F11j267v2x1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8706,7 +8779,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mercy+Hospital/@22.7994125,86.2479844,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e31e376c0b1f:0x7ad59895d58d0d5a!8m2!3d22.7994125!4d86.2479844!16s%2Fg%2F11j267v2x1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mg-memorial-clinic-jamshedpur",
@@ -8756,7 +8830,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MG+Memorial+Clinic/@22.7869177,86.162912,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53b2678945d:0x361e3f59941d4597!8m2!3d22.7869177!4d86.162912!16s%2Fg%2F11rhf8x6dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MG+Memorial+Clinic/@22.7869177,86.162912,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53b2678945d:0x361e3f59941d4597!8m2!3d22.7869177!4d86.162912!16s%2Fg%2F11rhf8x6dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8822,10 +8896,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MG+Memorial+Clinic/@22.7869177,86.162912,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53b2678945d:0x361e3f59941d4597!8m2!3d22.7869177!4d86.162912!16s%2Fg%2F11rhf8x6dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "muskurahat-dental-clinic-jamshedpur",
@@ -8873,7 +8948,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Muskurahat+dental+clinic/@22.7723133,86.1912534,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3521d7ea5d7:0x3236e64c0eb0f613!8m2!3d22.7723133!4d86.1912534!16s%2Fg%2F11wtqxglww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Muskurahat+dental+clinic/@22.7723133,86.1912534,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3521d7ea5d7:0x3236e64c0eb0f613!8m2!3d22.7723133!4d86.1912534!16s%2Fg%2F11wtqxglww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8939,10 +9014,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Muskurahat+dental+clinic/@22.7723133,86.1912534,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3521d7ea5d7:0x3236e64c0eb0f613!8m2!3d22.7723133!4d86.1912534!16s%2Fg%2F11wtqxglww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nazish-dental-care-jamshedpur",
@@ -8991,7 +9067,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nazish+Dental+Care/@22.8047754,86.1776953,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37c4cb5efe5:0xb0fbdb2b484b724b!8m2!3d22.8047754!4d86.1776953!16s%2Fg%2F11c0vy8nyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nazish+Dental+Care/@22.8047754,86.1776953,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37c4cb5efe5:0xb0fbdb2b484b724b!8m2!3d22.8047754!4d86.1776953!16s%2Fg%2F11c0vy8nyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9057,10 +9133,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nazish+Dental+Care/@22.8047754,86.1776953,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37c4cb5efe5:0xb0fbdb2b484b724b!8m2!3d22.8047754!4d86.1776953!16s%2Fg%2F11c0vy8nyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nehal-s-dental-clinic-best-dentist-in-bistupur-best-dental-clinic-in-bistupur-jamshedpur-jamshedpur",
@@ -9108,7 +9185,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Nehal's+Dental+Clinic+-Best+dentist+in+Bistupur%7CBest+dental+clinic+in+Bistupur+jamshedpur/@22.7955298,86.1843611,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365ef61d7d7:0x86fcf0ab3ebd9e32!8m2!3d22.7955298!4d86.1843611!16s%2Fg%2F1hm1tc_g1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nehal's+Dental+Clinic+-Best+dentist+in+Bistupur%7CBest+dental+clinic+in+Bistupur+jamshedpur/@22.7955298,86.1843611,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365ef61d7d7:0x86fcf0ab3ebd9e32!8m2!3d22.7955298!4d86.1843611!16s%2Fg%2F1hm1tc_g1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9177,7 +9254,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nehal's+Dental+Clinic+-Best+dentist+in+Bistupur%7CBest+dental+clinic+in+Bistupur+jamshedpur/@22.7955298,86.1843611,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365ef61d7d7:0x86fcf0ab3ebd9e32!8m2!3d22.7955298!4d86.1843611!16s%2Fg%2F1hm1tc_g1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neuro-centre-neuro-and-spine-jamshedpur",
@@ -9229,7 +9307,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Neuro+Centre+Neuro+%26+Spine/@22.8068084,86.2047887,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3001e3efcbd:0x763f0de0a20e0b74!8m2!3d22.8068084!4d86.2047887!16s%2Fg%2F11yfc_4hfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuro+Centre+Neuro+%26+Spine/@22.8068084,86.2047887,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3001e3efcbd:0x763f0de0a20e0b74!8m2!3d22.8068084!4d86.2047887!16s%2Fg%2F11yfc_4hfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9295,10 +9373,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neuro+Centre+Neuro+%26+Spine/@22.8068084,86.2047887,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3001e3efcbd:0x763f0de0a20e0b74!8m2!3d22.8068084!4d86.2047887!16s%2Fg%2F11yfc_4hfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nu-life-jamshedpur",
@@ -9346,7 +9425,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/NU-LIFE/@22.7885199,86.1700939,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4a1fff56d0f:0x8ceca245cfa85afa!8m2!3d22.7885199!4d86.1700939!16s%2Fg%2F11bz_z6ftf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NU-LIFE/@22.7885199,86.1700939,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4a1fff56d0f:0x8ceca245cfa85afa!8m2!3d22.7885199!4d86.1700939!16s%2Fg%2F11bz_z6ftf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9415,7 +9494,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NU-LIFE/@22.7885199,86.1700939,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4a1fff56d0f:0x8ceca245cfa85afa!8m2!3d22.7885199!4d86.1700939!16s%2Fg%2F11bz_z6ftf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "obs-and-gynae-care-jamshedpur",
@@ -9464,7 +9544,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Obs+%26+Gynae+Care/@22.8072667,86.2050262,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30f4d5106f1:0x98d35086a9a6a5f7!8m2!3d22.8072667!4d86.2050262!16s%2Fg%2F11b_22vrry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Obs+%26+Gynae+Care/@22.8072667,86.2050262,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30f4d5106f1:0x98d35086a9a6a5f7!8m2!3d22.8072667!4d86.2050262!16s%2Fg%2F11b_22vrry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9530,10 +9610,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Obs+%26+Gynae+Care/@22.8072667,86.2050262,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30f4d5106f1:0x98d35086a9a6a5f7!8m2!3d22.8072667!4d86.2050262!16s%2Fg%2F11b_22vrry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "omkarananda-dental-care-and-research-jamshedpur",
@@ -9582,7 +9663,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Omkarananda+Dental+Care+%26+Research/@22.7968961,86.1845131,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365965f38a7:0x9eaea6abecd8f738!8m2!3d22.7968961!4d86.1845131!16s%2Fg%2F1tk_mpqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Omkarananda+Dental+Care+%26+Research/@22.7968961,86.1845131,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365965f38a7:0x9eaea6abecd8f738!8m2!3d22.7968961!4d86.1845131!16s%2Fg%2F1tk_mpqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9651,7 +9732,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Omkarananda+Dental+Care+%26+Research/@22.7968961,86.1845131,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365965f38a7:0x9eaea6abecd8f738!8m2!3d22.7968961!4d86.1845131!16s%2Fg%2F1tk_mpqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oral-dental-care-jamshedpur",
@@ -9699,7 +9781,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oral+Dental+Care/@22.7890746,86.1836035,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36789b35ff9:0x9309a1d3b1740b2d!8m2!3d22.7890746!4d86.1836035!16s%2Fg%2F11b6ghx78x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Dental+Care/@22.7890746,86.1836035,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36789b35ff9:0x9309a1d3b1740b2d!8m2!3d22.7890746!4d86.1836035!16s%2Fg%2F11b6ghx78x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9765,10 +9847,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oral+Dental+Care/@22.7890746,86.1836035,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36789b35ff9:0x9309a1d3b1740b2d!8m2!3d22.7890746!4d86.1836035!16s%2Fg%2F11b6ghx78x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oral-dental-care-and-orthodontic-centre-jamshedpur",
@@ -9817,7 +9900,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Oral+Dental+Care+%26+Orthodontic+centre/@22.786993,86.164709,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bd4a0741f5:0xd91e841af98c98d6!8m2!3d22.786993!4d86.164709!16s%2Fg%2F11b6gjkdbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Dental+Care+%26+Orthodontic+centre/@22.786993,86.164709,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bd4a0741f5:0xd91e841af98c98d6!8m2!3d22.786993!4d86.164709!16s%2Fg%2F11b6gjkdbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9883,10 +9966,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oral+Dental+Care+%26+Orthodontic+centre/@22.786993,86.164709,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bd4a0741f5:0xd91e841af98c98d6!8m2!3d22.786993!4d86.164709!16s%2Fg%2F11b6gjkdbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oral-dental-care-and-orthodontic-centre-jamshedpur",
@@ -9935,7 +10019,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Oral+Dental+Care+%26+Orthodontic+Centre/@22.8210771,86.1675215,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47baa6dfdd9:0x47392fa3267b2f48!8m2!3d22.8210771!4d86.1675215!16s%2Fg%2F11td42wqr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Dental+Care+%26+Orthodontic+Centre/@22.8210771,86.1675215,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47baa6dfdd9:0x47392fa3267b2f48!8m2!3d22.8210771!4d86.1675215!16s%2Fg%2F11td42wqr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10004,7 +10088,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oral+Dental+Care+%26+Orthodontic+Centre/@22.8210771,86.1675215,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47baa6dfdd9:0x47392fa3267b2f48!8m2!3d22.8210771!4d86.1675215!16s%2Fg%2F11td42wqr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oral-health-dental-care-jamshedpur",
@@ -10052,7 +10137,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Oral+Health+Dental+Care/@22.8003634,86.2308908,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2ee751653e3:0xcb9415ecbbda88e7!8m2!3d22.8003634!4d86.2308908!16s%2Fg%2F11bzrfycyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Health+Dental+Care/@22.8003634,86.2308908,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2ee751653e3:0xcb9415ecbbda88e7!8m2!3d22.8003634!4d86.2308908!16s%2Fg%2F11bzrfycyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10121,7 +10206,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oral+Health+Dental+Care/@22.8003634,86.2308908,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2ee751653e3:0xcb9415ecbbda88e7!8m2!3d22.8003634!4d86.2308908!16s%2Fg%2F11bzrfycyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "orcadent-jamshedpur",
@@ -10170,7 +10256,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ORCADENT/@22.7943376,86.179602,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e309016c890f:0xb1adf7048a46e5e2!8m2!3d22.7943376!4d86.179602!16s%2Fg%2F11wbdk79qd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ORCADENT/@22.7943376,86.179602,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e309016c890f:0xb1adf7048a46e5e2!8m2!3d22.7943376!4d86.179602!16s%2Fg%2F11wbdk79qd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10236,10 +10322,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ORCADENT/@22.7943376,86.179602,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e309016c890f:0xb1adf7048a46e5e2!8m2!3d22.7943376!4d86.179602!16s%2Fg%2F11wbdk79qd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ordent-implant-and-dental-care-centre-jamshedpur",
@@ -10288,7 +10375,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ordent+Implant+%26+Dental+Care+Centre/@22.8057319,86.1637065,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e575127048db:0xa4b01427f35b8039!8m2!3d22.8057319!4d86.1637065!16s%2Fg%2F11vsrvcvkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ordent+Implant+%26+Dental+Care+Centre/@22.8057319,86.1637065,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e575127048db:0xa4b01427f35b8039!8m2!3d22.8057319!4d86.1637065!16s%2Fg%2F11vsrvcvkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10354,10 +10441,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ordent+Implant+%26+Dental+Care+Centre/@22.8057319,86.1637065,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e575127048db:0xa4b01427f35b8039!8m2!3d22.8057319!4d86.1637065!16s%2Fg%2F11vsrvcvkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patwari-dental-hub-jamshedpur",
@@ -10406,7 +10494,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Patwari+Dental+Hub/@22.8218244,86.1728941,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4788515ed7d:0x9a7fbd2dcc7be202!8m2!3d22.8218244!4d86.1728941!16s%2Fg%2F11dylsbdtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patwari+Dental+Hub/@22.8218244,86.1728941,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4788515ed7d:0x9a7fbd2dcc7be202!8m2!3d22.8218244!4d86.1728941!16s%2Fg%2F11dylsbdtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10472,10 +10560,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patwari+Dental+Hub/@22.8218244,86.1728941,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4788515ed7d:0x9a7fbd2dcc7be202!8m2!3d22.8218244!4d86.1728941!16s%2Fg%2F11dylsbdtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "plastic-and-cosmetic-surgery-clinic-jamshedpur",
@@ -10521,7 +10610,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Plastic+%26+Cosmetic+Surgery+Clinic/@22.808338,86.2057279,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3061ded96a7:0xd3fa092279628ef8!8m2!3d22.808338!4d86.2057279!16s%2Fg%2F11h7rr18dd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Plastic+%26+Cosmetic+Surgery+Clinic/@22.808338,86.2057279,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3061ded96a7:0xd3fa092279628ef8!8m2!3d22.808338!4d86.2057279!16s%2Fg%2F11h7rr18dd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10587,10 +10676,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Plastic+%26+Cosmetic+Surgery+Clinic/@22.808338,86.2057279,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3061ded96a7:0xd3fa092279628ef8!8m2!3d22.808338!4d86.2057279!16s%2Fg%2F11h7rr18dd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prasad-dental-care-and-orthodontic-centre-jamshedpur",
@@ -10639,7 +10729,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Prasad+Dental+Care+And+Orthodontic+Centre/@22.7841654,86.2513921,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3cef8833769:0x53c7da2cdc11b875!8m2!3d22.7841654!4d86.2513921!16s%2Fg%2F11fmh6hm00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prasad+Dental+Care+And+Orthodontic+Centre/@22.7841654,86.2513921,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3cef8833769:0x53c7da2cdc11b875!8m2!3d22.7841654!4d86.2513921!16s%2Fg%2F11fmh6hm00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10705,10 +10795,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prasad+Dental+Care+And+Orthodontic+Centre/@22.7841654,86.2513921,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3cef8833769:0x53c7da2cdc11b875!8m2!3d22.7841654!4d86.2513921!16s%2Fg%2F11fmh6hm00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "purnima-netralaya-jamshedpur",
@@ -10758,7 +10849,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/PURNIMA+NETRALAYA/@22.8093706,86.2025807,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34acc2f415d:0xc2afd64cbffda042!8m2!3d22.8093706!4d86.2025807!16s%2Fg%2F11j02_wn6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PURNIMA+NETRALAYA/@22.8093706,86.2025807,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34acc2f415d:0xc2afd64cbffda042!8m2!3d22.8093706!4d86.2025807!16s%2Fg%2F11j02_wn6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10827,7 +10918,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PURNIMA+NETRALAYA/@22.8093706,86.2025807,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34acc2f415d:0xc2afd64cbffda042!8m2!3d22.8093706!4d86.2025807!16s%2Fg%2F11j02_wn6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "r-p-dental-clinic-jamshedpur",
@@ -10876,7 +10968,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/R.P+DENTAL+CLINIC/@22.8221399,86.2166787,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3c5853911d3:0xc3e051fcb7e61ada!8m2!3d22.8221399!4d86.2166787!16s%2Fg%2F11w_rk8f80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.P+DENTAL+CLINIC/@22.8221399,86.2166787,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3c5853911d3:0xc3e051fcb7e61ada!8m2!3d22.8221399!4d86.2166787!16s%2Fg%2F11w_rk8f80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10942,10 +11034,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R.P+DENTAL+CLINIC/@22.8221399,86.2166787,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3c5853911d3:0xc3e051fcb7e61ada!8m2!3d22.8221399!4d86.2166787!16s%2Fg%2F11w_rk8f80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "reeta-dental-clinic-jamshedpur",
@@ -10993,7 +11086,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/REETA+DENTAL+CLINIC/@22.7946523,86.2434469,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37e48f6f43f:0xa54a64541b01217d!8m2!3d22.7946523!4d86.2434469!16s%2Fg%2F11x_58sv30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/REETA+DENTAL+CLINIC/@22.7946523,86.2434469,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37e48f6f43f:0xa54a64541b01217d!8m2!3d22.7946523!4d86.2434469!16s%2Fg%2F11x_58sv30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11059,10 +11152,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/REETA+DENTAL+CLINIC/@22.7946523,86.2434469,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37e48f6f43f:0xa54a64541b01217d!8m2!3d22.7946523!4d86.2434469!16s%2Fg%2F11x_58sv30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "relife-medicure-jamshedpur",
@@ -11111,7 +11205,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Relife+Medicure/@22.7929474,86.220964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34d92534197:0xf322df260989b7ee!8m2!3d22.7929474!4d86.220964!16s%2Fg%2F11h49kp4sq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Relife+Medicure/@22.7929474,86.220964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34d92534197:0xf322df260989b7ee!8m2!3d22.7929474!4d86.220964!16s%2Fg%2F11h49kp4sq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11180,7 +11274,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Relife+Medicure/@22.7929474,86.220964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34d92534197:0xf322df260989b7ee!8m2!3d22.7929474!4d86.220964!16s%2Fg%2F11h49kp4sq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "remedi-pharma-skin-and-hair-clinic-in-jamshedpur-jamshedpur",
@@ -11229,7 +11324,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Remedi+Pharma+-+Skin+And+Hair+Clinic+In+Jamshedpur/@22.7927539,86.1833117,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30e9555545b:0xf362cfdecf73d7c8!8m2!3d22.7927539!4d86.1833117!16s%2Fg%2F12hq8vtgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Remedi+Pharma+-+Skin+And+Hair+Clinic+In+Jamshedpur/@22.7927539,86.1833117,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30e9555545b:0xf362cfdecf73d7c8!8m2!3d22.7927539!4d86.1833117!16s%2Fg%2F12hq8vtgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11295,10 +11390,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Remedi+Pharma+-+Skin+And+Hair+Clinic+In+Jamshedpur/@22.7927539,86.1833117,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30e9555545b:0xf362cfdecf73d7c8!8m2!3d22.7927539!4d86.1833117!16s%2Fg%2F12hq8vtgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "renew-healthcare-jamshedpur",
@@ -11348,7 +11444,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Renew+Healthcare/@22.7954244,86.1820745,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f61c108ad7:0x67728bfba5628131!8m2!3d22.7954244!4d86.1820745!16s%2Fg%2F11pckjbm3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renew+Healthcare/@22.7954244,86.1820745,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f61c108ad7:0x67728bfba5628131!8m2!3d22.7954244!4d86.1820745!16s%2Fg%2F11pckjbm3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11417,7 +11513,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Renew+Healthcare/@22.7954244,86.1820745,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f61c108ad7:0x67728bfba5628131!8m2!3d22.7954244!4d86.1820745!16s%2Fg%2F11pckjbm3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "royal-oral-and-dental-care-jamshedpur",
@@ -11466,7 +11563,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Royal+Oral+And+Dental+Care/@22.840968,86.2062906,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3c89d0e6027:0x95b863fce6b239f3!8m2!3d22.840968!4d86.2062906!16s%2Fg%2F11gj74vy6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+Oral+And+Dental+Care/@22.840968,86.2062906,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3c89d0e6027:0x95b863fce6b239f3!8m2!3d22.840968!4d86.2062906!16s%2Fg%2F11gj74vy6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11535,7 +11632,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Royal+Oral+And+Dental+Care/@22.840968,86.2062906,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3c89d0e6027:0x95b863fce6b239f3!8m2!3d22.840968!4d86.2062906!16s%2Fg%2F11gj74vy6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "royal-oral-and-dental-care-old-purulia-road-branch-jamshedpur",
@@ -11584,7 +11682,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Royal+oral+and+dental+care+old+purulia+road+branch/@22.8336975,86.2003335,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3bc7eb7ce77:0xa1dea894c5d62e37!8m2!3d22.8336975!4d86.2003335!16s%2Fg%2F11wnc2g6rm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+oral+and+dental+care+old+purulia+road+branch/@22.8336975,86.2003335,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3bc7eb7ce77:0xa1dea894c5d62e37!8m2!3d22.8336975!4d86.2003335!16s%2Fg%2F11wnc2g6rm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11650,10 +11748,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Royal+oral+and+dental+care+old+purulia+road+branch/@22.8336975,86.2003335,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3bc7eb7ce77:0xa1dea894c5d62e37!8m2!3d22.8336975!4d86.2003335!16s%2Fg%2F11wnc2g6rm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sadar-hospital-jamshedpur-jamshedpur",
@@ -11701,7 +11800,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Sadar+Hospital,+Jamshedpur/@22.7587122,86.2013838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcceba537709:0xf251055bb79d995e!8m2!3d22.7587122!4d86.2013838!16s%2Fg%2F11b6glw2n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadar+Hospital,+Jamshedpur/@22.7587122,86.2013838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcceba537709:0xf251055bb79d995e!8m2!3d22.7587122!4d86.2013838!16s%2Fg%2F11b6glw2n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11770,7 +11869,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sadar+Hospital,+Jamshedpur/@22.7587122,86.2013838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcceba537709:0xf251055bb79d995e!8m2!3d22.7587122!4d86.2013838!16s%2Fg%2F11b6glw2n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sahara-dental-jamshedpur",
@@ -11818,7 +11918,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sahara+Dental/@22.823172,86.220411,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2522f97e711:0xe3980758c8fae789!8m2!3d22.823172!4d86.220411!16s%2Fg%2F11bzzvqvqv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahara+Dental/@22.823172,86.220411,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2522f97e711:0xe3980758c8fae789!8m2!3d22.823172!4d86.220411!16s%2Fg%2F11bzzvqvqv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11884,10 +11984,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sahara+Dental/@22.823172,86.220411,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2522f97e711:0xe3980758c8fae789!8m2!3d22.823172!4d86.220411!16s%2Fg%2F11bzzvqvqv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-dental-clinic-jamshedpur",
@@ -11935,7 +12036,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sai+dental+clinic/@22.8395161,86.2300725,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e39a76779ddb:0x7e14c48be6d8a35!8m2!3d22.8395161!4d86.2300725!16s%2Fg%2F11g1hm4hb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+dental+clinic/@22.8395161,86.2300725,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e39a76779ddb:0x7e14c48be6d8a35!8m2!3d22.8395161!4d86.2300725!16s%2Fg%2F11g1hm4hb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12004,7 +12105,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+dental+clinic/@22.8395161,86.2300725,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e39a76779ddb:0x7e14c48be6d8a35!8m2!3d22.8395161!4d86.2300725!16s%2Fg%2F11g1hm4hb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-dental-clinic-jamshedpur",
@@ -12052,7 +12154,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Dental+Clinic/@22.818323,86.097903,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e58696853229:0x9659f34d90235fc8!8m2!3d22.818323!4d86.097903!16s%2Fg%2F11c45yv4gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Dental+Clinic/@22.818323,86.097903,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e58696853229:0x9659f34d90235fc8!8m2!3d22.818323!4d86.097903!16s%2Fg%2F11c45yv4gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12121,7 +12223,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Dental+Clinic/@22.818323,86.097903,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e58696853229:0x9659f34d90235fc8!8m2!3d22.818323!4d86.097903!16s%2Fg%2F11c45yv4gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-dental-clinic-puja-katyan-jamshedpur",
@@ -12169,7 +12272,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Dental+Clinic+(Puja+katyan)/@22.8393292,86.2301497,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e395976b62d7:0x7d0079cc8b10b8c8!8m2!3d22.8393292!4d86.2301497!16s%2Fg%2F11rvlrtm4y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Dental+Clinic+(Puja+katyan)/@22.8393292,86.2301497,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e395976b62d7:0x7d0079cc8b10b8c8!8m2!3d22.8393292!4d86.2301497!16s%2Fg%2F11rvlrtm4y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12238,7 +12341,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Dental+Clinic+(Puja+katyan)/@22.8393292,86.2301497,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e395976b62d7:0x7d0079cc8b10b8c8!8m2!3d22.8393292!4d86.2301497!16s%2Fg%2F11rvlrtm4y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sarita-dental-clinic-jamshedpur",
@@ -12286,7 +12390,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sarita+Dental+Clinic/@22.7923495,86.1429967,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5a210e92c4b:0xb2188e15284fc5e9!8m2!3d22.7923495!4d86.1429967!16s%2Fg%2F11y27cl4yh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarita+Dental+Clinic/@22.7923495,86.1429967,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5a210e92c4b:0xb2188e15284fc5e9!8m2!3d22.7923495!4d86.1429967!16s%2Fg%2F11y27cl4yh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12355,7 +12459,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sarita+Dental+Clinic/@22.7923495,86.1429967,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5a210e92c4b:0xb2188e15284fc5e9!8m2!3d22.7923495!4d86.1429967!16s%2Fg%2F11y27cl4yh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sarkar-dental-clinic-jamshedpur",
@@ -12406,7 +12511,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sarkar+Dental+Clinic/@22.8023376,86.2053167,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e339402c0c59:0x2d54dbfb8d9dea2b!8m2!3d22.8023376!4d86.2053167!16s%2Fg%2F11h1dl8_z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarkar+Dental+Clinic/@22.8023376,86.2053167,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e339402c0c59:0x2d54dbfb8d9dea2b!8m2!3d22.8023376!4d86.2053167!16s%2Fg%2F11h1dl8_z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12475,7 +12580,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sarkar+Dental+Clinic/@22.8023376,86.2053167,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e339402c0c59:0x2d54dbfb8d9dea2b!8m2!3d22.8023376!4d86.2053167!16s%2Fg%2F11h1dl8_z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sarkar-dental-clinic-jamshedpur",
@@ -12524,7 +12630,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sarkar+Dental+Clinic/@22.8223366,86.1696013,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5bbeb828f4d:0x24abc775e4297ce4!8m2!3d22.8223366!4d86.1696013!16s%2Fg%2F11w3bv7cqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarkar+Dental+Clinic/@22.8223366,86.1696013,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5bbeb828f4d:0x24abc775e4297ce4!8m2!3d22.8223366!4d86.1696013!16s%2Fg%2F11w3bv7cqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12593,7 +12699,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sarkar+Dental+Clinic/@22.8223366,86.1696013,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5bbeb828f4d:0x24abc775e4297ce4!8m2!3d22.8223366!4d86.1696013!16s%2Fg%2F11w3bv7cqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "savita-dental-clinic-jamshedpur",
@@ -12641,7 +12748,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Savita+Dental+Clinic/@22.8046406,86.2086801,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2fc9a43b8e5:0x4ee1f3a9222303e!8m2!3d22.8046406!4d86.2086801!16s%2Fg%2F11bztg3c2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Savita+Dental+Clinic/@22.8046406,86.2086801,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2fc9a43b8e5:0x4ee1f3a9222303e!8m2!3d22.8046406!4d86.2086801!16s%2Fg%2F11bztg3c2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12710,7 +12817,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Savita+Dental+Clinic/@22.8046406,86.2086801,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2fc9a43b8e5:0x4ee1f3a9222303e!8m2!3d22.8046406!4d86.2086801!16s%2Fg%2F11bztg3c2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shitala-dentalcare-jamshedpur",
@@ -12759,7 +12867,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/SHITALA+DENTALCARE/@22.7533141,86.2088352,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fd2fcb90d45b:0xf64c0e8422fabe92!8m2!3d22.7533141!4d86.2088352!16s%2Fg%2F11rwlbftf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHITALA+DENTALCARE/@22.7533141,86.2088352,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fd2fcb90d45b:0xf64c0e8422fabe92!8m2!3d22.7533141!4d86.2088352!16s%2Fg%2F11rwlbftf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12828,7 +12936,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHITALA+DENTALCARE/@22.7533141,86.2088352,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fd2fcb90d45b:0xf64c0e8422fabe92!8m2!3d22.7533141!4d86.2088352!16s%2Fg%2F11rwlbftf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shiva-nursing-home-adityapur-jamshedpur",
@@ -12876,7 +12985,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Shiva+Nursing+Home+Adityapur/@22.7863036,86.1716184,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4a1a6cb5237:0xcc1b64865ef85958!8m2!3d22.7863036!4d86.1716184!16s%2Fg%2F11bzv5zhmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiva+Nursing+Home+Adityapur/@22.7863036,86.1716184,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4a1a6cb5237:0xcc1b64865ef85958!8m2!3d22.7863036!4d86.1716184!16s%2Fg%2F11bzv5zhmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12942,10 +13051,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shiva+Nursing+Home+Adityapur/@22.7863036,86.1716184,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4a1a6cb5237:0xcc1b64865ef85958!8m2!3d22.7863036!4d86.1716184!16s%2Fg%2F11bzv5zhmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-gopal-dental-clinic-jamshedpur",
@@ -12993,7 +13103,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Gopal+Dental+Clinic/@22.7866845,86.1637662,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bd6aaaaa69:0xea7a143ff8ab8347!8m2!3d22.7866845!4d86.1637662!16s%2Fg%2F11bzzw6h8p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Gopal+Dental+Clinic/@22.7866845,86.1637662,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bd6aaaaa69:0xea7a143ff8ab8347!8m2!3d22.7866845!4d86.1637662!16s%2Fg%2F11bzzw6h8p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13062,7 +13172,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Gopal+Dental+Clinic/@22.7866845,86.1637662,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bd6aaaaa69:0xea7a143ff8ab8347!8m2!3d22.7866845!4d86.1637662!16s%2Fg%2F11bzzw6h8p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "siddiqui-dental-care-jamshedpur",
@@ -13110,7 +13221,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Siddiqui+Dental+Care/@22.7942891,86.2212947,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3d10df7feaf:0xe162a8d5712b9958!8m2!3d22.7942891!4d86.2212947!16s%2Fg%2F11fjzbb3f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddiqui+Dental+Care/@22.7942891,86.2212947,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3d10df7feaf:0xe162a8d5712b9958!8m2!3d22.7942891!4d86.2212947!16s%2Fg%2F11fjzbb3f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13179,7 +13290,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Siddiqui+Dental+Care/@22.7942891,86.2212947,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3d10df7feaf:0xe162a8d5712b9958!8m2!3d22.7942891!4d86.2212947!16s%2Fg%2F11fjzbb3f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "signaturesmiles-dental-care-and-implant-centre-jamshedpur",
@@ -13227,7 +13339,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/SignatureSmiles-Dental+Care+%26+Implant+Centre/@22.8104171,86.2038223,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f8060ff0b7:0x4a87b70d0727a13f!8m2!3d22.8104171!4d86.2038223!16s%2Fg%2F11h5vht82c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SignatureSmiles-Dental+Care+%26+Implant+Centre/@22.8104171,86.2038223,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f8060ff0b7:0x4a87b70d0727a13f!8m2!3d22.8104171!4d86.2038223!16s%2Fg%2F11h5vht82c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13293,10 +13405,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SignatureSmiles-Dental+Care+%26+Implant+Centre/@22.8104171,86.2038223,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f8060ff0b7:0x4a87b70d0727a13f!8m2!3d22.8104171!4d86.2038223!16s%2Fg%2F11h5vht82c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "singh-dental-care-jamshedpur",
@@ -13345,7 +13458,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Singh+Dental+Care/@22.7943426,86.2213003,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e300000bb815:0xaded5e79eba3e08a!8m2!3d22.7943426!4d86.2213003!16s%2Fg%2F11mdxqwpx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singh+Dental+Care/@22.7943426,86.2213003,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e300000bb815:0xaded5e79eba3e08a!8m2!3d22.7943426!4d86.2213003!16s%2Fg%2F11mdxqwpx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13411,10 +13524,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Singh+Dental+Care/@22.7943426,86.2213003,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e300000bb815:0xaded5e79eba3e08a!8m2!3d22.7943426!4d86.2213003!16s%2Fg%2F11mdxqwpx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-and-shine-dental-care-jamshedpur",
@@ -13462,7 +13576,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Smile+%26+Shine+Dental+care/@22.7863331,86.1623954,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e55ce89b75bd:0xa30bff21883b27c0!8m2!3d22.7863331!4d86.1623954!16s%2Fg%2F11fpffgtxd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+%26+Shine+Dental+care/@22.7863331,86.1623954,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e55ce89b75bd:0xa30bff21883b27c0!8m2!3d22.7863331!4d86.1623954!16s%2Fg%2F11fpffgtxd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13531,7 +13645,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+%26+Shine+Dental+care/@22.7863331,86.1623954,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e55ce89b75bd:0xa30bff21883b27c0!8m2!3d22.7863331!4d86.1623954!16s%2Fg%2F11fpffgtxd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-dental-care-jamshedpur",
@@ -13579,7 +13694,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Dental+Care/@22.8226808,86.22049,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e33ab55dd1ad:0x74f8e55d708215df!8m2!3d22.8226808!4d86.22049!16s%2Fg%2F11b_24ztfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Dental+Care/@22.8226808,86.22049,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e33ab55dd1ad:0x74f8e55d708215df!8m2!3d22.8226808!4d86.22049!16s%2Fg%2F11b_24ztfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13648,7 +13763,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Dental+Care/@22.8226808,86.22049,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e33ab55dd1ad:0x74f8e55d708215df!8m2!3d22.8226808!4d86.22049!16s%2Fg%2F11b_24ztfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-zone-dental-clinic-jamshedpur",
@@ -13697,7 +13813,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Zone+Dental+Clinic/@22.8114174,86.2024869,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e360ab2d5937:0xc6702e18360093c1!8m2!3d22.8114174!4d86.2024869!16s%2Fg%2F11vdsf3_yp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Zone+Dental+Clinic/@22.8114174,86.2024869,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e360ab2d5937:0xc6702e18360093c1!8m2!3d22.8114174!4d86.2024869!16s%2Fg%2F11vdsf3_yp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13766,7 +13882,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Zone+Dental+Clinic/@22.8114174,86.2024869,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e360ab2d5937:0xc6702e18360093c1!8m2!3d22.8114174!4d86.2024869!16s%2Fg%2F11vdsf3_yp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smiles-dental-clinic-jamshedpur",
@@ -13814,7 +13931,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smiles+Dental+Clinic/@22.7919572,86.1846824,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e367cdafa371:0x8b7b471e0d52a127!8m2!3d22.7919572!4d86.1846824!16s%2Fg%2F11ckqn97v7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smiles+Dental+Clinic/@22.7919572,86.1846824,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e367cdafa371:0x8b7b471e0d52a127!8m2!3d22.7919572!4d86.1846824!16s%2Fg%2F11ckqn97v7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13880,10 +13997,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smiles+Dental+Clinic/@22.7919572,86.1846824,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e367cdafa371:0x8b7b471e0d52a127!8m2!3d22.7919572!4d86.1846824!16s%2Fg%2F11ckqn97v7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smriti-seva-sadan-jamshedpur",
@@ -13931,7 +14049,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Smriti+Seva+Sadan/@22.8425791,86.2340843,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e23efef8d9f1:0xbadaf02df9e0575!8m2!3d22.8425791!4d86.2340843!16s%2Fg%2F11dym72__r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smriti+Seva+Sadan/@22.8425791,86.2340843,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e23efef8d9f1:0xbadaf02df9e0575!8m2!3d22.8425791!4d86.2340843!16s%2Fg%2F11dym72__r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14000,7 +14118,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smriti+Seva+Sadan/@22.8425791,86.2340843,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e23efef8d9f1:0xbadaf02df9e0575!8m2!3d22.8425791!4d86.2340843!16s%2Fg%2F11dym72__r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "southern-ent-head-neck-foundation-best-ent-clinic-in-jamshedpur-jamshedpur",
@@ -14050,7 +14169,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Southern+ENT+Head+Neck+Foundation+-+Best+ENT+Clinic+in+Jamshedpur/@22.793098,86.2209686,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a7bc007027:0x223e26c7a54a0e2d!8m2!3d22.793098!4d86.2209686!16s%2Fg%2F11gsd6865c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Southern+ENT+Head+Neck+Foundation+-+Best+ENT+Clinic+in+Jamshedpur/@22.793098,86.2209686,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a7bc007027:0x223e26c7a54a0e2d!8m2!3d22.793098!4d86.2209686!16s%2Fg%2F11gsd6865c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14119,7 +14238,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Southern+ENT+Head+Neck+Foundation+-+Best+ENT+Clinic+in+Jamshedpur/@22.793098,86.2209686,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a7bc007027:0x223e26c7a54a0e2d!8m2!3d22.793098!4d86.2209686!16s%2Fg%2F11gsd6865c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-sai-dental-lab-and-clinic-jamshedpur",
@@ -14167,7 +14287,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sai+Dental+Lab+%26+Clinic/@22.819248,86.1742471,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e478b985feff:0xf882d14595415dad!8m2!3d22.819248!4d86.1742471!16s%2Fg%2F1264b3y6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sai+Dental+Lab+%26+Clinic/@22.819248,86.1742471,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e478b985feff:0xf882d14595415dad!8m2!3d22.819248!4d86.1742471!16s%2Fg%2F1264b3y6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14236,7 +14356,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sai+Dental+Lab+%26+Clinic/@22.819248,86.1742471,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e478b985feff:0xf882d14595415dad!8m2!3d22.819248!4d86.1742471!16s%2Fg%2F1264b3y6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-sathya-sai-sanjeevani-hospital-jamshedpur",
@@ -14285,7 +14406,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sathya+Sai+Sanjeevani+Hospital/@22.7870012,86.1777242,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3dde4d1dc51:0xf3b2cc1dc4649b7f!8m2!3d22.7870012!4d86.1777242!16s%2Fg%2F11k4w0q1cz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sathya+Sai+Sanjeevani+Hospital/@22.7870012,86.1777242,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3dde4d1dc51:0xf3b2cc1dc4649b7f!8m2!3d22.7870012!4d86.1777242!16s%2Fg%2F11k4w0q1cz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14354,7 +14475,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sathya+Sai+Sanjeevani+Hospital/@22.7870012,86.1777242,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3dde4d1dc51:0xf3b2cc1dc4649b7f!8m2!3d22.7870012!4d86.1777242!16s%2Fg%2F11k4w0q1cz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-sathya-sai-sanjeevani-hospital-jamshedpur",
@@ -14403,7 +14525,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SRI+SATHYA+SAI+SANJEEVANI+HOSPITAL/@22.8038816,86.2035618,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3dbf47402bd:0x7b0da788d0419273!8m2!3d22.8038816!4d86.2035618!16s%2Fg%2F11gjv5fpr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SATHYA+SAI+SANJEEVANI+HOSPITAL/@22.8038816,86.2035618,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3dbf47402bd:0x7b0da788d0419273!8m2!3d22.8038816!4d86.2035618!16s%2Fg%2F11gjv5fpr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14469,10 +14591,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+SATHYA+SAI+SANJEEVANI+HOSPITAL/@22.8038816,86.2035618,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3dbf47402bd:0x7b0da788d0419273!8m2!3d22.8038816!4d86.2035618!16s%2Fg%2F11gjv5fpr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srishti-and-drishti-jamshedpur",
@@ -14521,7 +14644,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Srishti+%26+Drishti/@22.8092461,86.2106526,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e306cc97093f:0x75a51ad5fab2ceb6!8m2!3d22.8092461!4d86.2106526!16s%2Fg%2F11b_000dhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srishti+%26+Drishti/@22.8092461,86.2106526,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e306cc97093f:0x75a51ad5fab2ceb6!8m2!3d22.8092461!4d86.2106526!16s%2Fg%2F11b_000dhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14587,10 +14710,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srishti+%26+Drishti/@22.8092461,86.2106526,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e306cc97093f:0x75a51ad5fab2ceb6!8m2!3d22.8092461!4d86.2106526!16s%2Fg%2F11b_000dhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "steel-city-clinic-and-research-centre-jamshedpur",
@@ -14638,7 +14762,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Steel+City+Clinic+And+Research+Centre/@22.7958302,86.1845178,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365ef20d08f:0xf581941d9a20a63!8m2!3d22.7958302!4d86.1845178!16s%2Fg%2F1w3w1gnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Steel+City+Clinic+And+Research+Centre/@22.7958302,86.1845178,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365ef20d08f:0xf581941d9a20a63!8m2!3d22.7958302!4d86.1845178!16s%2Fg%2F1w3w1gnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14707,7 +14831,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Steel+City+Clinic+And+Research+Centre/@22.7958302,86.1845178,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365ef20d08f:0xf581941d9a20a63!8m2!3d22.7958302!4d86.1845178!16s%2Fg%2F1w3w1gnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tata-main-hospital-ccu-jamshedpur",
@@ -14755,7 +14880,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Tata+Main+Hospital+CCU/@22.7996241,86.1785807,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3633b8c4d63:0xe213903d754c3248!8m2!3d22.7996241!4d86.1785807!16s%2Fg%2F11f121yj61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tata+Main+Hospital+CCU/@22.7996241,86.1785807,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3633b8c4d63:0xe213903d754c3248!8m2!3d22.7996241!4d86.1785807!16s%2Fg%2F11f121yj61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14824,7 +14949,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tata+Main+Hospital+CCU/@22.7996241,86.1785807,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3633b8c4d63:0xe213903d754c3248!8m2!3d22.7996241!4d86.1785807!16s%2Fg%2F11f121yj61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tata-motors-hospital-jamshedpur",
@@ -14873,7 +14999,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tata+Motors+Hospital/@22.7685872,86.2555753,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2c6f094ebb1:0x1b935b41307366cc!8m2!3d22.7685872!4d86.2555753!16s%2Fg%2F11c1wxy7d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tata+Motors+Hospital/@22.7685872,86.2555753,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2c6f094ebb1:0x1b935b41307366cc!8m2!3d22.7685872!4d86.2555753!16s%2Fg%2F11c1wxy7d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14942,7 +15068,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tata+Motors+Hospital/@22.7685872,86.2555753,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2c6f094ebb1:0x1b935b41307366cc!8m2!3d22.7685872!4d86.2555753!16s%2Fg%2F11c1wxy7d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-dent-o-care-jamshedpur",
@@ -14990,7 +15117,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/The+Dent-O-Care/@22.8215274,86.2146458,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e33b33326c59:0x973094c45239a7f4!8m2!3d22.8215274!4d86.2146458!16s%2Fg%2F11gy3p42gl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dent-O-Care/@22.8215274,86.2146458,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e33b33326c59:0x973094c45239a7f4!8m2!3d22.8215274!4d86.2146458!16s%2Fg%2F11gy3p42gl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15059,7 +15186,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Dent-O-Care/@22.8215274,86.2146458,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e33b33326c59:0x973094c45239a7f4!8m2!3d22.8215274!4d86.2146458!16s%2Fg%2F11gy3p42gl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-medicare-clinic-jamshedpur",
@@ -15107,7 +15235,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/The+Medicare+Clinic/@22.7882458,86.1852481,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35d4d74468d:0x9150321c9d53fde8!8m2!3d22.7882458!4d86.1852481!16s%2Fg%2F11cpkx7b4w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Medicare+Clinic/@22.7882458,86.1852481,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35d4d74468d:0x9150321c9d53fde8!8m2!3d22.7882458!4d86.1852481!16s%2Fg%2F11cpkx7b4w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15176,7 +15304,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Medicare+Clinic/@22.7882458,86.1852481,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35d4d74468d:0x9150321c9d53fde8!8m2!3d22.7882458!4d86.1852481!16s%2Fg%2F11cpkx7b4w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tmh-tata-main-hospital-jamshedpur",
@@ -15224,7 +15353,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/TMH+-+Tata+Main+Hospital/@22.8015434,86.1799788,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3180b3758ed:0x9cc6b3d0caab4b63!8m2!3d22.8015434!4d86.1799788!16s%2Fg%2F1thbv1y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TMH+-+Tata+Main+Hospital/@22.8015434,86.1799788,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3180b3758ed:0x9cc6b3d0caab4b63!8m2!3d22.8015434!4d86.1799788!16s%2Fg%2F1thbv1y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15293,7 +15422,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TMH+-+Tata+Main+Hospital/@22.8015434,86.1799788,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3180b3758ed:0x9cc6b3d0caab4b63!8m2!3d22.8015434!4d86.1799788!16s%2Fg%2F1thbv1y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tmh-opd-jamshedpur",
@@ -15342,7 +15472,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/TMH+OPD/@22.8011544,86.1817358,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37b49ee7e11:0x7074e79c6200e6bd!8m2!3d22.8011544!4d86.1817358!16s%2Fg%2F11fyzfmkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TMH+OPD/@22.8011544,86.1817358,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37b49ee7e11:0x7074e79c6200e6bd!8m2!3d22.8011544!4d86.1817358!16s%2Fg%2F11fyzfmkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15408,10 +15538,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TMH+OPD/@22.8011544,86.1817358,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37b49ee7e11:0x7074e79c6200e6bd!8m2!3d22.8011544!4d86.1817358!16s%2Fg%2F11fyzfmkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tooth-care-dental-clinic-jamshedpur",
@@ -15460,7 +15591,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tooth+Care+Dental+Clinic/@22.8218062,86.1769873,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e387a5844215:0x1ef722c407cc5c9e!8m2!3d22.8218062!4d86.1769873!16s%2Fg%2F11fx7r8vry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tooth+Care+Dental+Clinic/@22.8218062,86.1769873,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e387a5844215:0x1ef722c407cc5c9e!8m2!3d22.8218062!4d86.1769873!16s%2Fg%2F11fx7r8vry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15529,7 +15660,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tooth+Care+Dental+Clinic/@22.8218062,86.1769873,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e387a5844215:0x1ef722c407cc5c9e!8m2!3d22.8218062!4d86.1769873!16s%2Fg%2F11fx7r8vry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "trupti-dental-clinic-and-implant-center-jamshedpur",
@@ -15577,7 +15709,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Trupti+Dental+Clinic+and+Implant+Center/@22.8012368,86.2089711,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3486d08b38d:0xfd104603c9b4f30e!8m2!3d22.8012368!4d86.2089711!16s%2Fg%2F11txt4blb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trupti+Dental+Clinic+and+Implant+Center/@22.8012368,86.2089711,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3486d08b38d:0xfd104603c9b4f30e!8m2!3d22.8012368!4d86.2089711!16s%2Fg%2F11txt4blb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15643,10 +15775,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Trupti+Dental+Clinic+and+Implant+Center/@22.8012368,86.2089711,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3486d08b38d:0xfd104603c9b4f30e!8m2!3d22.8012368!4d86.2089711!16s%2Fg%2F11txt4blb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ujjwal-oral-and-dental-care-jamshedpur",
@@ -15695,7 +15828,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ujjwal+Oral+and+Dental+Care/@22.8058445,86.2132563,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3004802c0f1:0xa3020b1add31f4d7!8m2!3d22.8058445!4d86.2132563!16s%2Fg%2F11w1cky4ph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ujjwal+Oral+and+Dental+Care/@22.8058445,86.2132563,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3004802c0f1:0xa3020b1add31f4d7!8m2!3d22.8058445!4d86.2132563!16s%2Fg%2F11w1cky4ph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15764,7 +15897,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ujjwal+Oral+and+Dental+Care/@22.8058445,86.2132563,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3004802c0f1:0xa3020b1add31f4d7!8m2!3d22.8058445!4d86.2132563!16s%2Fg%2F11w1cky4ph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vardaan-maternity-and-nursing-homes-jamshedpur",
@@ -15813,7 +15947,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Vardaan+Maternity+%26+Nursing+Homes/@22.7971785,86.2514243,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e29a4d99abbf:0xeb79f9140b55beef!8m2!3d22.7971785!4d86.2514243!16s%2Fg%2F1hm4cylq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardaan+Maternity+%26+Nursing+Homes/@22.7971785,86.2514243,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e29a4d99abbf:0xeb79f9140b55beef!8m2!3d22.7971785!4d86.2514243!16s%2Fg%2F1hm4cylq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15882,7 +16016,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vardaan+Maternity+%26+Nursing+Homes/@22.7971785,86.2514243,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e29a4d99abbf:0xeb79f9140b55beef!8m2!3d22.7971785!4d86.2514243!16s%2Fg%2F1hm4cylq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "venus-aesthetics-jamshedpur",
@@ -15931,7 +16066,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Venus+Aesthetics/@22.7968961,86.1845131,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36ae7b3631b:0x698b55ad80b5e4d0!8m2!3d22.7968961!4d86.1845131!16s%2Fg%2F11y48ypgby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Venus+Aesthetics/@22.7968961,86.1845131,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36ae7b3631b:0x698b55ad80b5e4d0!8m2!3d22.7968961!4d86.1845131!16s%2Fg%2F11y48ypgby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -16000,6 +16135,7 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Venus+Aesthetics/@22.7968961,86.1845131,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36ae7b3631b:0x698b55ad80b5e4d0!8m2!3d22.7968961!4d86.1845131!16s%2Fg%2F11y48ypgby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

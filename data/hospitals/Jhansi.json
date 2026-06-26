@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Aesthetic+Skin+and+Cosmo+World+Jhansi,+Laser+Hair+Removal+in+Jhansi,+Botox,+Medical+Facial,+Filler/@25.4439881,78.5658373,17z/data=!3m1!4b1!4m6!3m5!1s0x397771c82fbd8815:0xc111cfc481c53e48!8m2!3d25.4439881!4d78.5658373!16s%2Fg%2F11q4jw0q65?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aesthetic+Skin+and+Cosmo+World+Jhansi,+Laser+Hair+Removal+in+Jhansi,+Botox,+Medical+Facial,+Filler/@25.4439881,78.5658373,17z/data=!3m1!4b1!4m6!3m5!1s0x397771c82fbd8815:0xc111cfc481c53e48!8m2!3d25.4439881!4d78.5658373!16s%2Fg%2F11q4jw0q65?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aesthetic+Skin+and+Cosmo+World+Jhansi,+Laser+Hair+Removal+in+Jhansi,+Botox,+Medical+Facial,+Filler/@25.4439881,78.5658373,17z/data=!3m1!4b1!4m6!3m5!1s0x397771c82fbd8815:0xc111cfc481c53e48!8m2!3d25.4439881!4d78.5658373!16s%2Fg%2F11q4jw0q65?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anand-hospital-urogynae-research-centre-jhansi",
@@ -162,7 +163,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Anand+Hospital+Urogynae+Research+Centre/@25.4585767,78.6169809,17z/data=!3m1!4b1!4m6!3m5!1s0x3977765479b86ded:0xcf8bd218ff6465ca!8m2!3d25.4585767!4d78.6169809!16s%2Fg%2F11c617b1ft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Hospital+Urogynae+Research+Centre/@25.4585767,78.6169809,17z/data=!3m1!4b1!4m6!3m5!1s0x3977765479b86ded:0xcf8bd218ff6465ca!8m2!3d25.4585767!4d78.6169809!16s%2Fg%2F11c617b1ft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -231,7 +232,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anand+Hospital+Urogynae+Research+Centre/@25.4585767,78.6169809,17z/data=!3m1!4b1!4m6!3m5!1s0x3977765479b86ded:0xcf8bd218ff6465ca!8m2!3d25.4585767!4d78.6169809!16s%2Fg%2F11c617b1ft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-proton-therapy-in-jhansi-jhansi",
@@ -280,7 +282,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Jhansi/@25.458029,78.570614,17z/data=!3m1!4b1!4m6!3m5!1s0x39777777caa5ff7d:0x304639b37c554ac3!8m2!3d25.458029!4d78.570614!16s%2Fg%2F11xtx02179?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Jhansi/@25.458029,78.570614,17z/data=!3m1!4b1!4m6!3m5!1s0x39777777caa5ff7d:0x304639b37c554ac3!8m2!3d25.458029!4d78.570614!16s%2Fg%2F11xtx02179?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -346,10 +348,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Jhansi/@25.458029,78.570614,17z/data=!3m1!4b1!4m6!3m5!1s0x39777777caa5ff7d:0x304639b37c554ac3!8m2!3d25.458029!4d78.570614!16s%2Fg%2F11xtx02179?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arogya-sadan-hospital-jhansi",
@@ -398,7 +401,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Arogya+Sadan+Hospital/@25.4541045,78.534296,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c8311d7c5:0x3c0714007c0072b8!8m2!3d25.4541045!4d78.534296!16s%2Fg%2F1tf73ylp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arogya+Sadan+Hospital/@25.4541045,78.534296,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c8311d7c5:0x3c0714007c0072b8!8m2!3d25.4541045!4d78.534296!16s%2Fg%2F1tf73ylp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -467,7 +470,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arogya+Sadan+Hospital/@25.4541045,78.534296,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c8311d7c5:0x3c0714007c0072b8!8m2!3d25.4541045!4d78.534296!16s%2Fg%2F1tf73ylp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bsant-medical-clinic-and-piles-cure-center-jhansi",
@@ -514,7 +518,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Bsant+medical+clinic+%26+piles+cure+center/@25.4291636,78.5545737,17z/data=!3m1!4b1!4m6!3m5!1s0x397771004a66650f:0xee624277e40a33f8!8m2!3d25.4291636!4d78.5545737!16s%2Fg%2F11vybm2str?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bsant+medical+clinic+%26+piles+cure+center/@25.4291636,78.5545737,17z/data=!3m1!4b1!4m6!3m5!1s0x397771004a66650f:0xee624277e40a33f8!8m2!3d25.4291636!4d78.5545737!16s%2Fg%2F11vybm2str?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -580,10 +584,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bsant+medical+clinic+%26+piles+cure+center/@25.4291636,78.5545737,17z/data=!3m1!4b1!4m6!3m5!1s0x397771004a66650f:0xee624277e40a33f8!8m2!3d25.4291636!4d78.5545737!16s%2Fg%2F11vybm2str?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "care-and-cure-clinic-jhansi-jhansi",
@@ -631,7 +636,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Care+and+Cure+Clinic+Jhansi/@25.4332383,78.5412798,17z/data=!3m1!4b1!4m6!3m5!1s0x39777118da7922f1:0x29026b35cea3c90f!8m2!3d25.4332383!4d78.5412798!16s%2Fg%2F11shrqbk99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+and+Cure+Clinic+Jhansi/@25.4332383,78.5412798,17z/data=!3m1!4b1!4m6!3m5!1s0x39777118da7922f1:0x29026b35cea3c90f!8m2!3d25.4332383!4d78.5412798!16s%2Fg%2F11shrqbk99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -697,10 +702,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Care+and+Cure+Clinic+Jhansi/@25.4332383,78.5412798,17z/data=!3m1!4b1!4m6!3m5!1s0x39777118da7922f1:0x29026b35cea3c90f!8m2!3d25.4332383!4d78.5412798!16s%2Fg%2F11shrqbk99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "care-physiotherapy-clinic-jhansi",
@@ -750,7 +756,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CARE+PHYSIOTHERAPY+CLINIC/@25.4555966,78.6118253,17z/data=!3m1!4b1!4m6!3m5!1s0x397777d5cb4b53e7:0xe7a7bd07d8f7f2bb!8m2!3d25.4555966!4d78.6118253!16s%2Fg%2F11sdm6036y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CARE+PHYSIOTHERAPY+CLINIC/@25.4555966,78.6118253,17z/data=!3m1!4b1!4m6!3m5!1s0x397777d5cb4b53e7:0xe7a7bd07d8f7f2bb!8m2!3d25.4555966!4d78.6118253!16s%2Fg%2F11sdm6036y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -816,10 +822,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CARE+PHYSIOTHERAPY+CLINIC/@25.4555966,78.6118253,17z/data=!3m1!4b1!4m6!3m5!1s0x397777d5cb4b53e7:0xe7a7bd07d8f7f2bb!8m2!3d25.4555966!4d78.6118253!16s%2Fg%2F11sdm6036y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chitransh-nursing-home-piles-ent-mother-and-child-care-jhansi",
@@ -868,7 +875,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Chitransh+Nursing+Home+Piles+ENT+Mother%26Child+Care/@25.4572085,78.5452986,17z/data=!3m1!4b1!4m6!3m5!1s0x39777129f3f46c59:0x3728d20be22ae1ab!8m2!3d25.4572085!4d78.5452986!16s%2Fg%2F11rrgzg960?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chitransh+Nursing+Home+Piles+ENT+Mother%26Child+Care/@25.4572085,78.5452986,17z/data=!3m1!4b1!4m6!3m5!1s0x39777129f3f46c59:0x3728d20be22ae1ab!8m2!3d25.4572085!4d78.5452986!16s%2Fg%2F11rrgzg960?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -934,10 +941,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chitransh+Nursing+Home+Piles+ENT+Mother%26Child+Care/@25.4572085,78.5452986,17z/data=!3m1!4b1!4m6!3m5!1s0x39777129f3f46c59:0x3728d20be22ae1ab!8m2!3d25.4572085!4d78.5452986!16s%2Fg%2F11rrgzg960?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "choise-gwalior-multispecilty-hospital-and-truma-centre-jhansi-jhansi",
@@ -985,7 +993,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Choise+gwalior+multispecilty+hospital+and+truma+centre+jhansi/@25.448583,78.597494,17z/data=!3m1!4b1!4m6!3m5!1s0x3977770023ddca4d:0x6d8bf5937eda5bfb!8m2!3d25.448583!4d78.597494!16s%2Fg%2F11w7d045tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Choise+gwalior+multispecilty+hospital+and+truma+centre+jhansi/@25.448583,78.597494,17z/data=!3m1!4b1!4m6!3m5!1s0x3977770023ddca4d:0x6d8bf5937eda5bfb!8m2!3d25.448583!4d78.597494!16s%2Fg%2F11w7d045tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1051,10 +1059,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Choise+gwalior+multispecilty+hospital+and+truma+centre+jhansi/@25.448583,78.597494,17z/data=!3m1!4b1!4m6!3m5!1s0x3977770023ddca4d:0x6d8bf5937eda5bfb!8m2!3d25.448583!4d78.597494!16s%2Fg%2F11w7d045tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "clinic-jhansi",
@@ -1100,7 +1109,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Clinic/@25.4528421,78.5348984,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c5fee020d:0x32835ede7a26ad04!8m2!3d25.4528421!4d78.5348984!16s%2Fg%2F11c37kjtyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinic/@25.4528421,78.5348984,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c5fee020d:0x32835ede7a26ad04!8m2!3d25.4528421!4d78.5348984!16s%2Fg%2F11c37kjtyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1166,10 +1175,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Clinic/@25.4528421,78.5348984,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c5fee020d:0x32835ede7a26ad04!8m2!3d25.4528421!4d78.5348984!16s%2Fg%2F11c37kjtyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "happy-faemli-hodpital-jhansi",
@@ -1217,7 +1227,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Happy+Faemli+Hodpital/@25.4222782,78.5348507,17z/data=!3m1!4b1!4m6!3m5!1s0x3977709300000001:0xe97b44750d65b089!8m2!3d25.4222782!4d78.5348507!16s%2Fg%2F11df0m9fl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Happy+Faemli+Hodpital/@25.4222782,78.5348507,17z/data=!3m1!4b1!4m6!3m5!1s0x3977709300000001:0xe97b44750d65b089!8m2!3d25.4222782!4d78.5348507!16s%2Fg%2F11df0m9fl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1283,10 +1293,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Happy+Faemli+Hodpital/@25.4222782,78.5348507,17z/data=!3m1!4b1!4m6!3m5!1s0x3977709300000001:0xe97b44750d65b089!8m2!3d25.4222782!4d78.5348507!16s%2Fg%2F11df0m9fl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hi-tech-hospital-and-trauma-center-jhansi",
@@ -1334,7 +1345,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Hi+Tech+Hospital+%26+Trauma+Center/@25.464233,78.6242621,17z/data=!3m1!4b1!4m6!3m5!1s0x397776558d695c95:0x97a8017c91c5d34b!8m2!3d25.464233!4d78.6242621!16s%2Fg%2F11c6ybv01g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hi+Tech+Hospital+%26+Trauma+Center/@25.464233,78.6242621,17z/data=!3m1!4b1!4m6!3m5!1s0x397776558d695c95:0x97a8017c91c5d34b!8m2!3d25.464233!4d78.6242621!16s%2Fg%2F11c6ybv01g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1403,7 +1414,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hi+Tech+Hospital+%26+Trauma+Center/@25.464233,78.6242621,17z/data=!3m1!4b1!4m6!3m5!1s0x397776558d695c95:0x97a8017c91c5d34b!8m2!3d25.464233!4d78.6242621!16s%2Fg%2F11c6ybv01g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jainam-clinic-dental-face-hair-laser-centre-best-face-cosmetic-laser-best-hair-treatment-best-dentist-in-jhansi-jhansi",
@@ -1452,7 +1464,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Jainam+Clinic+%28Dental-Face-Hair+Laser+Centre%29+-+Best+face+cosmetic+Laser+%7C+Best+Hair+Treatment+%7C+Best+Dentist+in+Jhansi/data=!4m7!3m6!1s0x397777b37efaa287:0xc916ac2a875c693a!8m2!3d25.4552257!4d78.5786498!16s%2Fg%2F11rk89ncd3!19sChIJh6L6frN3dzkROmlchyqsFsk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jainam+Clinic+%28Dental-Face-Hair+Laser+Centre%29+-+Best+face+cosmetic+Laser+%7C+Best+Hair+Treatment+%7C+Best+Dentist+in+Jhansi/data=!4m7!3m6!1s0x397777b37efaa287:0xc916ac2a875c693a!8m2!3d25.4552257!4d78.5786498!16s%2Fg%2F11rk89ncd3!19sChIJh6L6frN3dzkROmlchyqsFsk?authuser=0&hl=en&rclk=1"
@@ -1521,7 +1533,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jainam+Clinic+%28Dental-Face-Hair+Laser+Centre%29+-+Best+face+cosmetic+Laser+%7C+Best+Hair+Treatment+%7C+Best+Dentist+in+Jhansi/data=!4m7!3m6!1s0x397777b37efaa287:0xc916ac2a875c693a!8m2!3d25.4552257!4d78.5786498!16s%2Fg%2F11rk89ncd3!19sChIJh6L6frN3dzkROmlchyqsFsk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kamla-hospital-jhansi",
@@ -1569,7 +1582,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Kamla+Hospital/@25.4583135,78.6153625,17z/data=!3m1!4b1!4m6!3m5!1s0x397776545b84be69:0xd99f52e09cc366c6!8m2!3d25.4583135!4d78.6153625!16s%2Fg%2F11c2l3ypx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamla+Hospital/@25.4583135,78.6153625,17z/data=!3m1!4b1!4m6!3m5!1s0x397776545b84be69:0xd99f52e09cc366c6!8m2!3d25.4583135!4d78.6153625!16s%2Fg%2F11c2l3ypx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1638,7 +1651,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kamla+Hospital/@25.4583135,78.6153625,17z/data=!3m1!4b1!4m6!3m5!1s0x397776545b84be69:0xd99f52e09cc366c6!8m2!3d25.4583135!4d78.6153625!16s%2Fg%2F11c2l3ypx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kedarnath-hospital-jhansi",
@@ -1686,7 +1700,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Kedarnath+Hospital/@25.4588702,78.6161107,17z/data=!3m1!4b1!4m6!3m5!1s0x3977779311c4f3eb:0x11fccc5241024670!8m2!3d25.4588702!4d78.6161107!16s%2Fg%2F11h6tjm092?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kedarnath+Hospital/@25.4588702,78.6161107,17z/data=!3m1!4b1!4m6!3m5!1s0x3977779311c4f3eb:0x11fccc5241024670!8m2!3d25.4588702!4d78.6161107!16s%2Fg%2F11h6tjm092?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1755,7 +1769,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kedarnath+Hospital/@25.4588702,78.6161107,17z/data=!3m1!4b1!4m6!3m5!1s0x3977779311c4f3eb:0x11fccc5241024670!8m2!3d25.4588702!4d78.6161107!16s%2Fg%2F11h6tjm092?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khurana-hospital-jhansi-jhansi",
@@ -1803,7 +1818,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Khurana+Hospital+Jhansi/@25.4615392,78.6072432,17z/data=!3m1!4b1!4m6!3m5!1s0x397777808c2b23d1:0x783450070ceb08a4!8m2!3d25.4615392!4d78.6072432!16s%2Fg%2F11fct4gm0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khurana+Hospital+Jhansi/@25.4615392,78.6072432,17z/data=!3m1!4b1!4m6!3m5!1s0x397777808c2b23d1:0x783450070ceb08a4!8m2!3d25.4615392!4d78.6072432!16s%2Fg%2F11fct4gm0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1872,7 +1887,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khurana+Hospital+Jhansi/@25.4615392,78.6072432,17z/data=!3m1!4b1!4m6!3m5!1s0x397777808c2b23d1:0x783450070ceb08a4!8m2!3d25.4615392!4d78.6072432!16s%2Fg%2F11fct4gm0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "l-r-m-jain-hospital-jhansi",
@@ -1920,7 +1936,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/L.R.M+Jain+Hospital/@25.4467785,78.565958,17z/data=!3m1!4b1!4m6!3m5!1s0x397770d4c23f9601:0x4a8e4c074d96204e!8m2!3d25.4467785!4d78.565958!16s%2Fg%2F11b6gfgsdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/L.R.M+Jain+Hospital/@25.4467785,78.565958,17z/data=!3m1!4b1!4m6!3m5!1s0x397770d4c23f9601:0x4a8e4c074d96204e!8m2!3d25.4467785!4d78.565958!16s%2Fg%2F11b6gfgsdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1989,7 +2005,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/L.R.M+Jain+Hospital/@25.4467785,78.565958,17z/data=!3m1!4b1!4m6!3m5!1s0x397770d4c23f9601:0x4a8e4c074d96204e!8m2!3d25.4467785!4d78.565958!16s%2Fg%2F11b6gfgsdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maa-vaishno-hospital-and-trauma-center-jhansi",
@@ -2037,7 +2054,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Maa+Vaishno+Hospital+and+Trauma+Center/@25.4647235,78.6240475,17z/data=!3m1!4b1!4m6!3m5!1s0x3977764fc942f715:0xd9a6a67e592c3886!8m2!3d25.4647235!4d78.6240475!16s%2Fg%2F12hp7x33m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Vaishno+Hospital+and+Trauma+Center/@25.4647235,78.6240475,17z/data=!3m1!4b1!4m6!3m5!1s0x3977764fc942f715:0xd9a6a67e592c3886!8m2!3d25.4647235!4d78.6240475!16s%2Fg%2F12hp7x33m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2106,7 +2123,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maa+Vaishno+Hospital+and+Trauma+Center/@25.4647235,78.6240475,17z/data=!3m1!4b1!4m6!3m5!1s0x3977764fc942f715:0xd9a6a67e592c3886!8m2!3d25.4647235!4d78.6240475!16s%2Fg%2F12hp7x33m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "meghraj-memorial-hospital-gastro-hospital-in-jhansi-gastro-liver-specialist-in-jhansi-jhansi",
@@ -2156,7 +2174,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Meghraj+Memorial+Hospital+-+Gastro+Hospital+in+Jhansi+%7C+Gastro+Liver+Specialist+in+Jhansi/@25.4470357,78.5668313,17z/data=!3m1!4b1!4m6!3m5!1s0x3977774b15169403:0xe85145a1995ab6c8!8m2!3d25.4470357!4d78.5668313!16s%2Fg%2F11pys6mpyg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meghraj+Memorial+Hospital+-+Gastro+Hospital+in+Jhansi+%7C+Gastro+Liver+Specialist+in+Jhansi/@25.4470357,78.5668313,17z/data=!3m1!4b1!4m6!3m5!1s0x3977774b15169403:0xe85145a1995ab6c8!8m2!3d25.4470357!4d78.5668313!16s%2Fg%2F11pys6mpyg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2225,7 +2243,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meghraj+Memorial+Hospital+-+Gastro+Hospital+in+Jhansi+%7C+Gastro+Liver+Specialist+in+Jhansi/@25.4470357,78.5668313,17z/data=!3m1!4b1!4m6!3m5!1s0x3977774b15169403:0xe85145a1995ab6c8!8m2!3d25.4470357!4d78.5668313!16s%2Fg%2F11pys6mpyg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "metro-nursing-home-and-meternity-centre-jhansi",
@@ -2274,7 +2293,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Metro+Nursing+Home+and+Meternity+Centre/@25.4100965,78.563623,17z/data=!3m1!4b1!4m6!3m5!1s0x397770ac822bff53:0xbcd127682c6fcf60!8m2!3d25.4100965!4d78.563623!16s%2Fg%2F11dfj5w3bq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metro+Nursing+Home+and+Meternity+Centre/@25.4100965,78.563623,17z/data=!3m1!4b1!4m6!3m5!1s0x397770ac822bff53:0xbcd127682c6fcf60!8m2!3d25.4100965!4d78.563623!16s%2Fg%2F11dfj5w3bq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2343,7 +2362,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metro+Nursing+Home+and+Meternity+Centre/@25.4100965,78.563623,17z/data=!3m1!4b1!4m6!3m5!1s0x397770ac822bff53:0xbcd127682c6fcf60!8m2!3d25.4100965!4d78.563623!16s%2Fg%2F11dfj5w3bq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "meva-chaudhary-memorial-hospital-jhansi",
@@ -2391,7 +2411,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Meva+Chaudhary+Memorial+Hospital/@25.4587863,78.6158825,17z/data=!3m1!4b1!4m6!3m5!1s0x397776ce86f7824f:0xa0de779c33b4de16!8m2!3d25.4587863!4d78.6158825!16s%2Fg%2F11g727h517?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meva+Chaudhary+Memorial+Hospital/@25.4587863,78.6158825,17z/data=!3m1!4b1!4m6!3m5!1s0x397776ce86f7824f:0xa0de779c33b4de16!8m2!3d25.4587863!4d78.6158825!16s%2Fg%2F11g727h517?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2460,7 +2480,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meva+Chaudhary+Memorial+Hospital/@25.4587863,78.6158825,17z/data=!3m1!4b1!4m6!3m5!1s0x397776ce86f7824f:0xa0de779c33b4de16!8m2!3d25.4587863!4d78.6158825!16s%2Fg%2F11g727h517?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "naja-hospital-and-research-centre-jhansi-private-hospital-in-jhansi-jhansi",
@@ -2509,7 +2530,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Naja+Hospital+And+Research+Centre+Jhansi+%7C+Private+Hospital+in+Jhansi/@25.4508888,78.6008887,17z/data=!3m1!4b1!4m6!3m5!1s0x3977770327b4d19b:0x976c49f2ca7e8513!8m2!3d25.4508888!4d78.6008887!16s%2Fg%2F11c5_tct01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naja+Hospital+And+Research+Centre+Jhansi+%7C+Private+Hospital+in+Jhansi/@25.4508888,78.6008887,17z/data=!3m1!4b1!4m6!3m5!1s0x3977770327b4d19b:0x976c49f2ca7e8513!8m2!3d25.4508888!4d78.6008887!16s%2Fg%2F11c5_tct01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2578,7 +2599,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Naja+Hospital+And+Research+Centre+Jhansi+%7C+Private+Hospital+in+Jhansi/@25.4508888,78.6008887,17z/data=!3m1!4b1!4m6!3m5!1s0x3977770327b4d19b:0x976c49f2ca7e8513!8m2!3d25.4508888!4d78.6008887!16s%2Fg%2F11c5_tct01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nirmal-hospital-jhansi",
@@ -2627,7 +2649,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nirmal+Hospital/@25.4603127,78.6179605,17z/data=!3m1!4b1!4m6!3m5!1s0x39777653fab6da03:0x3882511cc5cd92e8!8m2!3d25.4603127!4d78.6179605!16s%2Fg%2F126049_nh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirmal+Hospital/@25.4603127,78.6179605,17z/data=!3m1!4b1!4m6!3m5!1s0x39777653fab6da03:0x3882511cc5cd92e8!8m2!3d25.4603127!4d78.6179605!16s%2Fg%2F126049_nh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2696,7 +2718,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nirmal+Hospital/@25.4603127,78.6179605,17z/data=!3m1!4b1!4m6!3m5!1s0x39777653fab6da03:0x3882511cc5cd92e8!8m2!3d25.4603127!4d78.6179605!16s%2Fg%2F126049_nh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pratap-gastro-liver-clinic-jhansi",
@@ -2746,7 +2769,7 @@
     "metrics": [
       "Google rating 1.7"
     ],
-    "image": "https://www.google.com/maps/place/Pratap+gastro+liver+clinic/@25.520852,78.58964,17z/data=!3m1!4b1!4m6!3m5!1s0x3977743fc50d7a2f:0xf4d415fdeec4a9a5!8m2!3d25.520852!4d78.58964!16s%2Fg%2F11gdk_7r_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pratap+gastro+liver+clinic/@25.520852,78.58964,17z/data=!3m1!4b1!4m6!3m5!1s0x3977743fc50d7a2f:0xf4d415fdeec4a9a5!8m2!3d25.520852!4d78.58964!16s%2Fg%2F11gdk_7r_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2815,7 +2838,8 @@
     "rating": 1.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pratap+gastro+liver+clinic/@25.520852,78.58964,17z/data=!3m1!4b1!4m6!3m5!1s0x3977743fc50d7a2f:0xf4d415fdeec4a9a5!8m2!3d25.520852!4d78.58964!16s%2Fg%2F11gdk_7r_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "r-j-stone-and-urology-center-jhansi",
@@ -2863,7 +2887,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/R.J.+Stone+And+Urology+Center/@25.458276,78.615352,17z/data=!3m1!4b1!4m6!3m5!1s0x397776545b91eb53:0x96ad6ae4d1fc2102!8m2!3d25.458276!4d78.615352!16s%2Fg%2F11ddzhw9wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.J.+Stone+And+Urology+Center/@25.458276,78.615352,17z/data=!3m1!4b1!4m6!3m5!1s0x397776545b91eb53:0x96ad6ae4d1fc2102!8m2!3d25.458276!4d78.615352!16s%2Fg%2F11ddzhw9wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2932,7 +2956,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R.J.+Stone+And+Urology+Center/@25.458276,78.615352,17z/data=!3m1!4b1!4m6!3m5!1s0x397776545b91eb53:0x96ad6ae4d1fc2102!8m2!3d25.458276!4d78.615352!16s%2Fg%2F11ddzhw9wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radha-krishna-orthocare-joint-and-replacement-centre-jhansi",
@@ -2981,7 +3006,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Radha+Krishna+Orthocare+Joint+and+Replacement+Centre/@25.4222557,78.5717631,17z/data=!3m1!4b1!4m6!3m5!1s0x39777791b25abaa9:0xea78e466bf0493ea!8m2!3d25.4222557!4d78.5717631!16s%2Fg%2F11ypc594jr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radha+Krishna+Orthocare+Joint+and+Replacement+Centre/@25.4222557,78.5717631,17z/data=!3m1!4b1!4m6!3m5!1s0x39777791b25abaa9:0xea78e466bf0493ea!8m2!3d25.4222557!4d78.5717631!16s%2Fg%2F11ypc594jr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3047,10 +3072,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radha+Krishna+Orthocare+Joint+and+Replacement+Centre/@25.4222557,78.5717631,17z/data=!3m1!4b1!4m6!3m5!1s0x39777791b25abaa9:0xea78e466bf0493ea!8m2!3d25.4222557!4d78.5717631!16s%2Fg%2F11ypc594jr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raghvendra-hospital-and-laparoscopic-surgery-centre-jhansi",
@@ -3098,7 +3124,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Raghvendra+Hospital+%26+Laparoscopic+Surgery+Centre/@25.4594748,78.616856,17z/data=!3m1!4b1!4m6!3m5!1s0x39777654734f069f:0x903461cc3950c01e!8m2!3d25.4594748!4d78.616856!16s%2Fg%2F1tlk9srd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raghvendra+Hospital+%26+Laparoscopic+Surgery+Centre/@25.4594748,78.616856,17z/data=!3m1!4b1!4m6!3m5!1s0x39777654734f069f:0x903461cc3950c01e!8m2!3d25.4594748!4d78.616856!16s%2Fg%2F1tlk9srd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3167,7 +3193,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raghvendra+Hospital+%26+Laparoscopic+Surgery+Centre/@25.4594748,78.616856,17z/data=!3m1!4b1!4m6!3m5!1s0x39777654734f069f:0x903461cc3950c01e!8m2!3d25.4594748!4d78.616856!16s%2Fg%2F1tlk9srd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjeevani-icu-and-hospital-best-icu-in-jhansi-jhansi",
@@ -3215,7 +3242,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/SANJEEVANI+ICU+%26+HOSPITAL+-+Best+ICU+in+Jhansi/@25.4510716,78.6014196,17z/data=!3m1!4b1!4m6!3m5!1s0x397777a028e4a59f:0x3cb92614da5a32d2!8m2!3d25.4510716!4d78.6014196!16s%2Fg%2F11ppt9kbhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SANJEEVANI+ICU+%26+HOSPITAL+-+Best+ICU+in+Jhansi/@25.4510716,78.6014196,17z/data=!3m1!4b1!4m6!3m5!1s0x397777a028e4a59f:0x3cb92614da5a32d2!8m2!3d25.4510716!4d78.6014196!16s%2Fg%2F11ppt9kbhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3284,7 +3311,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SANJEEVANI+ICU+%26+HOSPITAL+-+Best+ICU+in+Jhansi/@25.4510716,78.6014196,17z/data=!3m1!4b1!4m6!3m5!1s0x397777a028e4a59f:0x3cb92614da5a32d2!8m2!3d25.4510716!4d78.6014196!16s%2Fg%2F11ppt9kbhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanmati-hospital-and-research-center-jhansi",
@@ -3332,7 +3360,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Sanmati+Hospital+And+Research+Center/@25.4594907,78.6179726,17z/data=!3m1!4b1!4m6!3m5!1s0x39777653ed52a889:0xeca0f49b967ec423!8m2!3d25.4594907!4d78.6179726!16s%2Fg%2F11hd4r02p5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanmati+Hospital+And+Research+Center/@25.4594907,78.6179726,17z/data=!3m1!4b1!4m6!3m5!1s0x39777653ed52a889:0xeca0f49b967ec423!8m2!3d25.4594907!4d78.6179726!16s%2Fg%2F11hd4r02p5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3401,7 +3429,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanmati+Hospital+And+Research+Center/@25.4594907,78.6179726,17z/data=!3m1!4b1!4m6!3m5!1s0x39777653ed52a889:0xeca0f49b967ec423!8m2!3d25.4594907!4d78.6179726!16s%2Fg%2F11hd4r02p5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanwal-hospital-and-laser-centre-jhansi",
@@ -3449,7 +3478,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Sanwal+Hospital+And+Laser+Centre/@25.4559755,78.612058,17z/data=!3m1!4b1!4m6!3m5!1s0x397777282ac9cc07:0x58dd7966dbdc6d10!8m2!3d25.4559755!4d78.612058!16s%2Fg%2F11c2q3hm6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanwal+Hospital+And+Laser+Centre/@25.4559755,78.612058,17z/data=!3m1!4b1!4m6!3m5!1s0x397777282ac9cc07:0x58dd7966dbdc6d10!8m2!3d25.4559755!4d78.612058!16s%2Fg%2F11c2q3hm6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3518,7 +3547,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanwal+Hospital+And+Laser+Centre/@25.4559755,78.612058,17z/data=!3m1!4b1!4m6!3m5!1s0x397777282ac9cc07:0x58dd7966dbdc6d10!8m2!3d25.4559755!4d78.612058!16s%2Fg%2F11c2q3hm6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharad-chandra-hospital-jhansi",
@@ -3567,7 +3597,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sharad+Chandra+Hospital/@25.4470624,78.5668906,17z/data=!3m1!4b1!4m6!3m5!1s0x3977772b313300b5:0x26ca2f0716e6d2a4!8m2!3d25.4470624!4d78.5668906!16s%2Fg%2F11c54crrvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharad+Chandra+Hospital/@25.4470624,78.5668906,17z/data=!3m1!4b1!4m6!3m5!1s0x3977772b313300b5:0x26ca2f0716e6d2a4!8m2!3d25.4470624!4d78.5668906!16s%2Fg%2F11c54crrvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3636,7 +3666,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sharad+Chandra+Hospital/@25.4470624,78.5668906,17z/data=!3m1!4b1!4m6!3m5!1s0x3977772b313300b5:0x26ca2f0716e6d2a4!8m2!3d25.4470624!4d78.5668906!16s%2Fg%2F11c54crrvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shiv-dental-skin-and-hair-clinic-in-jhansi-shop-no-5",
@@ -3684,7 +3715,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shiv+Dental,+Skin+%26+Hair+clinic+in+Jhansi/@25.4579111,78.6144071,17z/data=!3m1!4b1!4m6!3m5!1s0x397777006a94727d:0x768c76f983f4bcf1!8m2!3d25.4579111!4d78.6144071!16s%2Fg%2F11p5syddx9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiv+Dental,+Skin+%26+Hair+clinic+in+Jhansi/@25.4579111,78.6144071,17z/data=!3m1!4b1!4m6!3m5!1s0x397777006a94727d:0x768c76f983f4bcf1!8m2!3d25.4579111!4d78.6144071!16s%2Fg%2F11p5syddx9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3753,7 +3784,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shiv+Dental,+Skin+%26+Hair+clinic+in+Jhansi/@25.4579111,78.6144071,17z/data=!3m1!4b1!4m6!3m5!1s0x397777006a94727d:0x768c76f983f4bcf1!8m2!3d25.4579111!4d78.6144071!16s%2Fg%2F11p5syddx9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivhare-hospital-jhansi-jhansi",
@@ -3802,7 +3834,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SHIVHARE+HOSPITAL+JHANSI/@25.4554254,78.6157836,17z/data=!3m1!4b1!4m6!3m5!1s0x397777b23be97a19:0xc1ce0a9db0bda540!8m2!3d25.4554254!4d78.6157836!16s%2Fg%2F11lfztzs3n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHIVHARE+HOSPITAL+JHANSI/@25.4554254,78.6157836,17z/data=!3m1!4b1!4m6!3m5!1s0x397777b23be97a19:0xc1ce0a9db0bda540!8m2!3d25.4554254!4d78.6157836!16s%2Fg%2F11lfztzs3n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3871,7 +3903,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHIVHARE+HOSPITAL+JHANSI/@25.4554254,78.6157836,17z/data=!3m1!4b1!4m6!3m5!1s0x397777b23be97a19:0xc1ce0a9db0bda540!8m2!3d25.4554254!4d78.6157836!16s%2Fg%2F11lfztzs3n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-jee-hospital-and-research-centre-jhansi",
@@ -3919,7 +3952,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Jee+Hospital+And+Research+Centre/@25.4567118,78.6118091,17z/data=!3m1!4b1!4m6!3m5!1s0x397776557ceebba3:0x8129ba793bc1179c!8m2!3d25.4567118!4d78.6118091!16s%2Fg%2F1262g4zyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Jee+Hospital+And+Research+Centre/@25.4567118,78.6118091,17z/data=!3m1!4b1!4m6!3m5!1s0x397776557ceebba3:0x8129ba793bc1179c!8m2!3d25.4567118!4d78.6118091!16s%2Fg%2F1262g4zyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3988,7 +4021,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Jee+Hospital+And+Research+Centre/@25.4567118,78.6118091,17z/data=!3m1!4b1!4m6!3m5!1s0x397776557ceebba3:0x8129ba793bc1179c!8m2!3d25.4567118!4d78.6118091!16s%2Fg%2F1262g4zyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sknin-clinic-jhansi",
@@ -4036,7 +4070,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://www.google.com/maps/place/Sknin+clinic/@25.4591578,78.6103466,17z/data=!3m1!4b1!4m6!3m5!1s0x3977774ccfb02601:0x542dba9fe8f5f1cd!8m2!3d25.4591578!4d78.6103466!16s%2Fg%2F11hdpgcgz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sknin+clinic/@25.4591578,78.6103466,17z/data=!3m1!4b1!4m6!3m5!1s0x3977774ccfb02601:0x542dba9fe8f5f1cd!8m2!3d25.4591578!4d78.6103466!16s%2Fg%2F11hdpgcgz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4102,10 +4136,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sknin+clinic/@25.4591578,78.6103466,17z/data=!3m1!4b1!4m6!3m5!1s0x3977774ccfb02601:0x542dba9fe8f5f1cd!8m2!3d25.4591578!4d78.6103466!16s%2Fg%2F11hdpgcgz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "stone-clinic-jhansi",
@@ -4153,7 +4188,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Stone+Clinic/@25.454972,78.5721416,17z/data=!3m1!4b1!4m6!3m5!1s0x397776d68484540d:0x3191deac94a2601b!8m2!3d25.454972!4d78.5721416!16s%2Fg%2F11byp5yj8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Stone+Clinic/@25.454972,78.5721416,17z/data=!3m1!4b1!4m6!3m5!1s0x397776d68484540d:0x3191deac94a2601b!8m2!3d25.454972!4d78.5721416!16s%2Fg%2F11byp5yj8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4219,10 +4254,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Stone+Clinic/@25.454972,78.5721416,17z/data=!3m1!4b1!4m6!3m5!1s0x397776d68484540d:0x3191deac94a2601b!8m2!3d25.454972!4d78.5721416!16s%2Fg%2F11byp5yj8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "upchar-hospital-jhansi",
@@ -4270,7 +4306,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Upchar+Hospital/@25.453791,78.606283,17z/data=!3m1!4b1!4m6!3m5!1s0x39777701febed285:0x4bb968e0d3535dc2!8m2!3d25.453791!4d78.606283!16s%2Fg%2F12j691j89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Upchar+Hospital/@25.453791,78.606283,17z/data=!3m1!4b1!4m6!3m5!1s0x39777701febed285:0x4bb968e0d3535dc2!8m2!3d25.453791!4d78.606283!16s%2Fg%2F12j691j89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4339,7 +4375,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Upchar+Hospital/@25.453791,78.606283,17z/data=!3m1!4b1!4m6!3m5!1s0x39777701febed285:0x4bb968e0d3535dc2!8m2!3d25.453791!4d78.606283!16s%2Fg%2F12j691j89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vinayak-hospital-hospital-in-jhansi-best-hospital-in-jhansi-jhansi",
@@ -4387,7 +4424,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Vinayak+Hospital+%7C+Hospital+in+Jhansi+%7C+Best+hospital+in+Jhansi/@25.4466173,78.5689103,17z/data=!3m1!4b1!4m6!3m5!1s0x3977772b758b744f:0x6454f694bf349ce1!8m2!3d25.4466173!4d78.5689103!16s%2Fg%2F1pycljnp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vinayak+Hospital+%7C+Hospital+in+Jhansi+%7C+Best+hospital+in+Jhansi/@25.4466173,78.5689103,17z/data=!3m1!4b1!4m6!3m5!1s0x3977772b758b744f:0x6454f694bf349ce1!8m2!3d25.4466173!4d78.5689103!16s%2Fg%2F1pycljnp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4453,10 +4490,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vinayak+Hospital+%7C+Hospital+in+Jhansi+%7C+Best+hospital+in+Jhansi/@25.4466173,78.5689103,17z/data=!3m1!4b1!4m6!3m5!1s0x3977772b758b744f:0x6454f694bf349ce1!8m2!3d25.4466173!4d78.5689103!16s%2Fg%2F1pycljnp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "and-skin-hair-fall-and-hair-regrowth-treatment-skin-specialist-dark-circles-and-wrinkle-jhansi",
@@ -4505,7 +4543,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B6+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5%F0%9D%98%86+%26+%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BA%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0%7C+Skin%7CHair+Fall+%26+Hair+Regrowth+Treatment%7CSkin+Specialist+%2FDark+Circles+%26+Wrinkle/@25.4557321,78.534506,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c86972b0f:0xdcb319a9cf6f5447!8m2!3d25.4557321!4d78.534506!16s%2Fg%2F11c2j9s5gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B6+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5%F0%9D%98%86+%26+%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BA%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0%7C+Skin%7CHair+Fall+%26+Hair+Regrowth+Treatment%7CSkin+Specialist+%2FDark+Circles+%26+Wrinkle/@25.4557321,78.534506,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c86972b0f:0xdcb319a9cf6f5447!8m2!3d25.4557321!4d78.534506!16s%2Fg%2F11c2j9s5gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4574,7 +4612,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B6+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5%F0%9D%98%86+%26+%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BA%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0%7C+Skin%7CHair+Fall+%26+Hair+Regrowth+Treatment%7CSkin+Specialist+%2FDark+Circles+%26+Wrinkle/@25.4557321,78.534506,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c86972b0f:0xdcb319a9cf6f5447!8m2!3d25.4557321!4d78.534506!16s%2Fg%2F11c2j9s5gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hiv-test-home-collection-centre-hormone-test-best-full-body-checkup-in-jhansi-jhansi",
@@ -4624,7 +4663,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%B9%F0%9D%97%B2+%F0%9D%97%A3%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5+%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%AF+-+HIV+Test+%7C+Home+Collection+Centre+%7C+Hormone+Test+%7C+Best+Full+Body+Checkup+in+Jhansi/@25.4506284,78.562689,17z/data=!3m1!4b1!4m6!3m5!1s0x397771402f43a115:0x6a59f46d22e120a0!8m2!3d25.4506284!4d78.562689!16s%2Fg%2F11pkckwqtt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%B9%F0%9D%97%B2+%F0%9D%97%A3%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5+%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%AF+-+HIV+Test+%7C+Home+Collection+Centre+%7C+Hormone+Test+%7C+Best+Full+Body+Checkup+in+Jhansi/@25.4506284,78.562689,17z/data=!3m1!4b1!4m6!3m5!1s0x397771402f43a115:0x6a59f46d22e120a0!8m2!3d25.4506284!4d78.562689!16s%2Fg%2F11pkckwqtt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4693,6 +4732,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%B9%F0%9D%97%B2+%F0%9D%97%A3%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5+%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%AF+-+HIV+Test+%7C+Home+Collection+Centre+%7C+Hormone+Test+%7C+Best+Full+Body+Checkup+in+Jhansi/@25.4506284,78.562689,17z/data=!3m1!4b1!4m6!3m5!1s0x397771402f43a115:0x6a59f46d22e120a0!8m2!3d25.4506284!4d78.562689!16s%2Fg%2F11pkckwqtt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

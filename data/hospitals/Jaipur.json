@@ -46,7 +46,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Abhishek+Hospital/@26.898858,75.819138,17z/data=!3m1!4b1!4m6!3m5!1s0x396db6bd4f4c1d6d:0x6462e230ffa0456c!8m2!3d26.898858!4d75.819138!16s%2Fg%2F1hm654ngm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Abhishek+Hospital/@26.898858,75.819138,17z/data=!3m1!4b1!4m6!3m5!1s0x396db6bd4f4c1d6d:0x6462e230ffa0456c!8m2!3d26.898858!4d75.819138!16s%2Fg%2F1hm654ngm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Abhishek+Hospital/@26.898858,75.819138,17z/data=!3m1!4b1!4m6!3m5!1s0x396db6bd4f4c1d6d:0x6462e230ffa0456c!8m2!3d26.898858!4d75.819138!16s%2Fg%2F1hm654ngm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ace-hospital-jaipur",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Ace+Hospital/@26.8353063,75.7587951,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5dfcf5d279d:0xd4f2e6d82bbae91d!8m2!3d26.8353063!4d75.7587951!16s%2Fg%2F11fmgmzd_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ace+Hospital/@26.8353063,75.7587951,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5dfcf5d279d:0xd4f2e6d82bbae91d!8m2!3d26.8353063!4d75.7587951!16s%2Fg%2F11fmgmzd_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -232,7 +233,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ace+Hospital/@26.8353063,75.7587951,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5dfcf5d279d:0xd4f2e6d82bbae91d!8m2!3d26.8353063!4d75.7587951!16s%2Fg%2F11fmgmzd_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apex-hospitals-jaipur",
@@ -281,7 +283,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apex+Hospitals/@26.8547693,75.8252627,17z/data=!3m1!4b1!4m6!3m5!1s0x396db66b6d706811:0xcd772b82cdece6c4!8m2!3d26.8547693!4d75.8252627!16s%2Fg%2F1tdbjd6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Hospitals/@26.8547693,75.8252627,17z/data=!3m1!4b1!4m6!3m5!1s0x396db66b6d706811:0xcd772b82cdece6c4!8m2!3d26.8547693!4d75.8252627!16s%2Fg%2F1tdbjd6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -350,7 +352,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+Hospitals/@26.8547693,75.8252627,17z/data=!3m1!4b1!4m6!3m5!1s0x396db66b6d706811:0xcd772b82cdece6c4!8m2!3d26.8547693!4d75.8252627!16s%2Fg%2F1tdbjd6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-spectra-hospitals-jaipur-jaipur",
@@ -399,7 +402,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Spectra+Hospitals+-+Jaipur/@26.8926834,75.7950627,17z/data=!3m1!4b1!4m6!3m5!1s0x253b70f66cd3f66d:0x872a0d5021b35232!8m2!3d26.8926834!4d75.7950627!16s%2Fg%2F11bv6l66n6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Spectra+Hospitals+-+Jaipur/@26.8926834,75.7950627,17z/data=!3m1!4b1!4m6!3m5!1s0x253b70f66cd3f66d:0x872a0d5021b35232!8m2!3d26.8926834!4d75.7950627!16s%2Fg%2F11bv6l66n6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -468,7 +471,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Spectra+Hospitals+-+Jaipur/@26.8926834,75.7950627,17z/data=!3m1!4b1!4m6!3m5!1s0x253b70f66cd3f66d:0x872a0d5021b35232!8m2!3d26.8926834!4d75.7950627!16s%2Fg%2F11bv6l66n6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "asian-ortho-spine-clinic-jaipur",
@@ -519,7 +523,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Asian+Ortho-Spine+Clinic/@26.8659443,75.7610161,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5903fce7931:0xe274ae1da25f4c16!8m2!3d26.8659443!4d75.7610161!16s%2Fg%2F11l223l234?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Ortho-Spine+Clinic/@26.8659443,75.7610161,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5903fce7931:0xe274ae1da25f4c16!8m2!3d26.8659443!4d75.7610161!16s%2Fg%2F11l223l234?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -585,10 +589,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asian+Ortho-Spine+Clinic/@26.8659443,75.7610161,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5903fce7931:0xe274ae1da25f4c16!8m2!3d26.8659443!4d75.7610161!16s%2Fg%2F11l223l234?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "best-cancer-hospital-jaipur",
@@ -638,7 +643,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Best+Cancer+Hospital/@26.867483,75.769049,17z/data=!3m1!4b1!4m6!3m5!1s0x396db545e3f9009b:0x74054344b65ea2f0!8m2!3d26.867483!4d75.769049!16s%2Fg%2F11vblbblgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Best+Cancer+Hospital/@26.867483,75.769049,17z/data=!3m1!4b1!4m6!3m5!1s0x396db545e3f9009b:0x74054344b65ea2f0!8m2!3d26.867483!4d75.769049!16s%2Fg%2F11vblbblgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -704,10 +709,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Best+Cancer+Hospital/@26.867483,75.769049,17z/data=!3m1!4b1!4m6!3m5!1s0x396db545e3f9009b:0x74054344b65ea2f0!8m2!3d26.867483!4d75.769049!16s%2Fg%2F11vblbblgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhagwan-mahaveer-cancer-hospital-and-research-centre-jaipur",
@@ -757,7 +763,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhagwan+Mahaveer+Cancer+Hospital+%26+Research+Centre/@26.8650674,75.8046254,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5d7eee9a05f:0xddf910fecf66939a!8m2!3d26.8650674!4d75.8046254!16s%2Fg%2F1tp0c221?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagwan+Mahaveer+Cancer+Hospital+%26+Research+Centre/@26.8650674,75.8046254,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5d7eee9a05f:0xddf910fecf66939a!8m2!3d26.8650674!4d75.8046254!16s%2Fg%2F1tp0c221?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -826,7 +832,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhagwan+Mahaveer+Cancer+Hospital+%26+Research+Centre/@26.8650674,75.8046254,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5d7eee9a05f:0xddf910fecf66939a!8m2!3d26.8650674!4d75.8046254!16s%2Fg%2F1tp0c221?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhandari-hospital-and-research-centre-jaipur",
@@ -875,7 +882,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhandari+Hospital+%26+Research+Centre/@26.86364,75.7937864,17z/data=!3m1!4b1!4m6!3m5!1s0x396dca04b57eac93:0xea7e8980c3b8b283!8m2!3d26.86364!4d75.7937864!16s%2Fg%2F1tdqfwlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhandari+Hospital+%26+Research+Centre/@26.86364,75.7937864,17z/data=!3m1!4b1!4m6!3m5!1s0x396dca04b57eac93:0xea7e8980c3b8b283!8m2!3d26.86364!4d75.7937864!16s%2Fg%2F1tdqfwlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -944,7 +951,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhandari+Hospital+%26+Research+Centre/@26.86364,75.7937864,17z/data=!3m1!4b1!4m6!3m5!1s0x396dca04b57eac93:0xea7e8980c3b8b283!8m2!3d26.86364!4d75.7937864!16s%2Fg%2F1tdqfwlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhat-s-hypospadias-and-urology-hospital-jaipur",
@@ -992,7 +1000,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Bhat%E2%80%99s+Hypospadias+and+Urology+Hospital/@26.88888,75.800133,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5fe6158aebd:0xb1a4123da20d657a!8m2!3d26.88888!4d75.800133!16s%2Fg%2F11h5414z74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhat%E2%80%99s+Hypospadias+and+Urology+Hospital/@26.88888,75.800133,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5fe6158aebd:0xb1a4123da20d657a!8m2!3d26.88888!4d75.800133!16s%2Fg%2F11h5414z74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1061,7 +1069,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhat%E2%80%99s+Hypospadias+and+Urology+Hospital/@26.88888,75.800133,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5fe6158aebd:0xb1a4123da20d657a!8m2!3d26.88888!4d75.800133!16s%2Fg%2F11h5414z74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bombay-cancer-care-and-senior-citizen-clinic-jaipur",
@@ -1111,7 +1120,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BOMBAY+CANCER+CARE+%26+SENIOR+CITIZEN+CLINIC/@26.8634214,75.7476944,17z/data=!3m1!4b1!4m6!3m5!1s0x396db585ae837687:0xd5e5ff44b58739ef!8m2!3d26.8634214!4d75.7476944!16s%2Fg%2F11ycj6whs9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BOMBAY+CANCER+CARE+%26+SENIOR+CITIZEN+CLINIC/@26.8634214,75.7476944,17z/data=!3m1!4b1!4m6!3m5!1s0x396db585ae837687:0xd5e5ff44b58739ef!8m2!3d26.8634214!4d75.7476944!16s%2Fg%2F11ycj6whs9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1177,10 +1186,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BOMBAY+CANCER+CARE+%26+SENIOR+CITIZEN+CLINIC/@26.8634214,75.7476944,17z/data=!3m1!4b1!4m6!3m5!1s0x396db585ae837687:0xd5e5ff44b58739ef!8m2!3d26.8634214!4d75.7476944!16s%2Fg%2F11ycj6whs9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "brain-spine-and-ent-clinic-jaipur",
@@ -1231,7 +1241,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BRAIN+SPINE+%26+ENT+CLINIC/@26.8416563,75.7742118,17z/data=!3m1!4b1!4m6!3m5!1s0x396db501c5b156af:0x5471f2a108be6b23!8m2!3d26.8416563!4d75.7742118!16s%2Fg%2F11h64_zqg2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BRAIN+SPINE+%26+ENT+CLINIC/@26.8416563,75.7742118,17z/data=!3m1!4b1!4m6!3m5!1s0x396db501c5b156af:0x5471f2a108be6b23!8m2!3d26.8416563!4d75.7742118!16s%2Fg%2F11h64_zqg2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1300,7 +1310,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BRAIN+SPINE+%26+ENT+CLINIC/@26.8416563,75.7742118,17z/data=!3m1!4b1!4m6!3m5!1s0x396db501c5b156af:0x5471f2a108be6b23!8m2!3d26.8416563!4d75.7742118!16s%2Fg%2F11h64_zqg2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cancer-cure-clinic-dr-rohit-swami-jaipur",
@@ -1350,7 +1361,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Cancer+Cure+Clinic+-Dr+Rohit+Swami/@26.9623953,75.7800387,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3202d103823:0x24485ee723e3b745!8m2!3d26.9623953!4d75.7800387!16s%2Fg%2F11t7byz5np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cancer+Cure+Clinic+-Dr+Rohit+Swami/@26.9623953,75.7800387,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3202d103823:0x24485ee723e3b745!8m2!3d26.9623953!4d75.7800387!16s%2Fg%2F11t7byz5np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1416,10 +1427,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cancer+Cure+Clinic+-Dr+Rohit+Swami/@26.9623953,75.7800387,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3202d103823:0x24485ee723e3b745!8m2!3d26.9623953!4d75.7800387!16s%2Fg%2F11t7byz5np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cancer-healer-center-best-cancer-treatment-in-jaipur-cancer-hospital-in-jaipur-jaipur",
@@ -1468,7 +1480,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Cancer+Healer+Center+-+Best+Cancer+Treatment+in+Jaipur+%7C+Cancer+Hospital+in+Jaipur/@26.9156045,75.7438153,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3f2e08ddef7:0x7ce0766b04e4f026!8m2!3d26.9156045!4d75.7438153!16s%2Fg%2F11vzjj1xbr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cancer+Healer+Center+-+Best+Cancer+Treatment+in+Jaipur+%7C+Cancer+Hospital+in+Jaipur/@26.9156045,75.7438153,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3f2e08ddef7:0x7ce0766b04e4f026!8m2!3d26.9156045!4d75.7438153!16s%2Fg%2F11vzjj1xbr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1537,7 +1549,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cancer+Healer+Center+-+Best+Cancer+Treatment+in+Jaipur+%7C+Cancer+Hospital+in+Jaipur/@26.9156045,75.7438153,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3f2e08ddef7:0x7ce0766b04e4f026!8m2!3d26.9156045!4d75.7438153!16s%2Fg%2F11vzjj1xbr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "capital-urology-and-dental-clinic-jaipur",
@@ -1585,7 +1598,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Capital+Urology+And+Dental+Clinic/@26.8914634,75.7661243,17z/data=!3m1!4b1!4m6!3m5!1s0x396db41304ce4c55:0xaa92f401933e3fb!8m2!3d26.8914634!4d75.7661243!16s%2Fg%2F11g6p49kqr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Capital+Urology+And+Dental+Clinic/@26.8914634,75.7661243,17z/data=!3m1!4b1!4m6!3m5!1s0x396db41304ce4c55:0xaa92f401933e3fb!8m2!3d26.8914634!4d75.7661243!16s%2Fg%2F11g6p49kqr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1651,10 +1664,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Capital+Urology+And+Dental+Clinic/@26.8914634,75.7661243,17z/data=!3m1!4b1!4m6!3m5!1s0x396db41304ce4c55:0xaa92f401933e3fb!8m2!3d26.8914634!4d75.7661243!16s%2Fg%2F11g6p49kqr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cbl-holy-family-hospital-jaipur",
@@ -1703,7 +1717,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CBL+Holy+Family+Hospital/@26.9391117,75.7811626,17z/data=!3m1!4b1!4m6!3m5!1s0x396db30c1c0bdad1:0x3cfc840cea25952e!8m2!3d26.9391117!4d75.7811626!16s%2Fg%2F1tgvc0bl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CBL+Holy+Family+Hospital/@26.9391117,75.7811626,17z/data=!3m1!4b1!4m6!3m5!1s0x396db30c1c0bdad1:0x3cfc840cea25952e!8m2!3d26.9391117!4d75.7811626!16s%2Fg%2F1tgvc0bl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1772,7 +1786,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CBL+Holy+Family+Hospital/@26.9391117,75.7811626,17z/data=!3m1!4b1!4m6!3m5!1s0x396db30c1c0bdad1:0x3cfc840cea25952e!8m2!3d26.9391117!4d75.7811626!16s%2Fg%2F1tgvc0bl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "center-of-kidney-diseases-jaipur",
@@ -1821,7 +1836,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Center+of+Kidney+Diseases/@26.8489842,75.7433906,17z/data=!3m1!4b1!4m6!3m5!1s0x396db500696a6a23:0xc36b5f7b9663e63c!8m2!3d26.8489842!4d75.7433906!16s%2Fg%2F11w838j922?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Center+of+Kidney+Diseases/@26.8489842,75.7433906,17z/data=!3m1!4b1!4m6!3m5!1s0x396db500696a6a23:0xc36b5f7b9663e63c!8m2!3d26.8489842!4d75.7433906!16s%2Fg%2F11w838j922?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1887,10 +1902,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Center+of+Kidney+Diseases/@26.8489842,75.7433906,17z/data=!3m1!4b1!4m6!3m5!1s0x396db500696a6a23:0xc36b5f7b9663e63c!8m2!3d26.8489842!4d75.7433906!16s%2Fg%2F11w838j922?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "circumcision-in-jaipur-frenuloplasty-zsr-circumcision-in-jaipur-jaipur",
@@ -1940,7 +1956,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Circumcision+in+jaipur-+Frenuloplasty%2F+ZSR+Circumcision+in+Jaipur/@26.8960667,75.755739,17z/data=!3m1!4b1!4m6!3m5!1s0x396db55e6d806e69:0x86927677fefa0422!8m2!3d26.8960667!4d75.755739!16s%2Fg%2F11sv_ds5my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Circumcision+in+jaipur-+Frenuloplasty%2F+ZSR+Circumcision+in+Jaipur/@26.8960667,75.755739,17z/data=!3m1!4b1!4m6!3m5!1s0x396db55e6d806e69:0x86927677fefa0422!8m2!3d26.8960667!4d75.755739!16s%2Fg%2F11sv_ds5my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2006,10 +2022,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Circumcision+in+jaipur-+Frenuloplasty%2F+ZSR+Circumcision+in+Jaipur/@26.8960667,75.755739,17z/data=!3m1!4b1!4m6!3m5!1s0x396db55e6d806e69:0x86927677fefa0422!8m2!3d26.8960667!4d75.755739!16s%2Fg%2F11sv_ds5my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ck-birla-hospitals-rbh-jaipur",
@@ -2058,7 +2075,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CK+Birla+Hospitals+%7C%7C+RBH/@26.8627282,75.7847499,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5c832f28ec5:0x37e25df9b2082f6d!8m2!3d26.8627282!4d75.7847499!16s%2Fg%2F11cm0cg1rk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CK+Birla+Hospitals+%7C%7C+RBH/@26.8627282,75.7847499,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5c832f28ec5:0x37e25df9b2082f6d!8m2!3d26.8627282!4d75.7847499!16s%2Fg%2F11cm0cg1rk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2127,7 +2144,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CK+Birla+Hospitals+%7C%7C+RBH/@26.8627282,75.7847499,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5c832f28ec5:0x37e25df9b2082f6d!8m2!3d26.8627282!4d75.7847499!16s%2Fg%2F11cm0cg1rk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eternal-hospital-sanganer-jaipur",
@@ -2176,7 +2194,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Eternal+Hospital+Sanganer/@26.8186406,75.7948262,17z/data=!3m1!4b1!4m6!3m5!1s0x396dcb67c6738ed7:0x8d91fae3bee41065!8m2!3d26.8186406!4d75.7948262!16s%2Fg%2F11fn1gtvh_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eternal+Hospital+Sanganer/@26.8186406,75.7948262,17z/data=!3m1!4b1!4m6!3m5!1s0x396dcb67c6738ed7:0x8d91fae3bee41065!8m2!3d26.8186406!4d75.7948262!16s%2Fg%2F11fn1gtvh_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2245,7 +2263,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eternal+Hospital+Sanganer/@26.8186406,75.7948262,17z/data=!3m1!4b1!4m6!3m5!1s0x396dcb67c6738ed7:0x8d91fae3bee41065!8m2!3d26.8186406!4d75.7948262!16s%2Fg%2F11fn1gtvh_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fortis-escorts-hospital-best-hospital-in-jaipur-jaipur",
@@ -2294,7 +2313,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Fortis+Escorts+Hospital+-+Best+Hospital+in+Jaipur/@26.8463447,75.8034836,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5362083d167:0x67d67f484e2e3ac!8m2!3d26.8463447!4d75.8034836!16s%2Fg%2F11h4b7fbvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fortis+Escorts+Hospital+-+Best+Hospital+in+Jaipur/@26.8463447,75.8034836,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5362083d167:0x67d67f484e2e3ac!8m2!3d26.8463447!4d75.8034836!16s%2Fg%2F11h4b7fbvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2363,7 +2382,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fortis+Escorts+Hospital+-+Best+Hospital+in+Jaipur/@26.8463447,75.8034836,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5362083d167:0x67d67f484e2e3ac!8m2!3d26.8463447!4d75.8034836!16s%2Fg%2F11h4b7fbvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goyal-hospital-jaipur",
@@ -2412,7 +2432,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Goyal+Hospital/@26.9379794,75.8007893,17z/data=!3m1!4b1!4m6!3m5!1s0x396db6b2ffa08dcd:0x6ac9553eb49af6e3!8m2!3d26.9379794!4d75.8007893!16s%2Fg%2F1tyt3s2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goyal+Hospital/@26.9379794,75.8007893,17z/data=!3m1!4b1!4m6!3m5!1s0x396db6b2ffa08dcd:0x6ac9553eb49af6e3!8m2!3d26.9379794!4d75.8007893!16s%2Fg%2F1tyt3s2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2481,7 +2501,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goyal+Hospital/@26.9379794,75.8007893,17z/data=!3m1!4b1!4m6!3m5!1s0x396db6b2ffa08dcd:0x6ac9553eb49af6e3!8m2!3d26.9379794!4d75.8007893!16s%2Fg%2F1tyt3s2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hcg-cancer-hospital-mansarovar-jaipur-jaipur",
@@ -2531,7 +2552,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Mansarovar,+Jaipur)/@26.8674807,75.769532,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5ad06a86fdb:0xef2c9d6a3dbd292d!8m2!3d26.8674807!4d75.769532!16s%2Fg%2F11dztshhxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Mansarovar,+Jaipur)/@26.8674807,75.769532,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5ad06a86fdb:0xef2c9d6a3dbd292d!8m2!3d26.8674807!4d75.769532!16s%2Fg%2F11dztshhxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2600,7 +2621,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Mansarovar,+Jaipur)/@26.8674807,75.769532,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5ad06a86fdb:0xef2c9d6a3dbd292d!8m2!3d26.8674807!4d75.769532!16s%2Fg%2F11dztshhxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ibs-hospital-brain-and-spine-jaipur-jaipur",
@@ -2650,7 +2672,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/IBS+Hospital+Brain+And+Spine+Jaipur/@26.8919011,75.8004617,17z/data=!3m1!4b1!4m6!3m5!1s0x396db50ada1b3595:0x777c067dbc84a688!8m2!3d26.8919011!4d75.8004617!16s%2Fg%2F11gnpxvvpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IBS+Hospital+Brain+And+Spine+Jaipur/@26.8919011,75.8004617,17z/data=!3m1!4b1!4m6!3m5!1s0x396db50ada1b3595:0x777c067dbc84a688!8m2!3d26.8919011!4d75.8004617!16s%2Fg%2F11gnpxvvpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2719,7 +2741,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/IBS+Hospital+Brain+And+Spine+Jaipur/@26.8919011,75.8004617,17z/data=!3m1!4b1!4m6!3m5!1s0x396db50ada1b3595:0x777c067dbc84a688!8m2!3d26.8919011!4d75.8004617!16s%2Fg%2F11gnpxvvpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "iconix-hospital-vaishali-nagar-jaipur-best-urology-andrology-and-kidney-disease-centre-jaipur",
@@ -2769,7 +2792,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Iconix+Hospital+Vaishali+Nagar+Jaipur-+Best+urology,+Andrology+%26+Kidney+Disease+Centre/@26.9017645,75.740095,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5cc1030826d:0xb1c98b8eb272ad8e!8m2!3d26.9017645!4d75.740095!16s%2Fg%2F11vysm06lk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Iconix+Hospital+Vaishali+Nagar+Jaipur-+Best+urology,+Andrology+%26+Kidney+Disease+Centre/@26.9017645,75.740095,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5cc1030826d:0xb1c98b8eb272ad8e!8m2!3d26.9017645!4d75.740095!16s%2Fg%2F11vysm06lk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2838,7 +2861,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Iconix+Hospital+Vaishali+Nagar+Jaipur-+Best+urology,+Andrology+%26+Kidney+Disease+Centre/@26.9017645,75.740095,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5cc1030826d:0xb1c98b8eb272ad8e!8m2!3d26.9017645!4d75.740095!16s%2Fg%2F11vysm06lk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indus-jaipur-hospital-jaipur",
@@ -2887,7 +2911,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indus+Jaipur+Hospital/@26.867914,75.7674929,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5ac8d7ab3ed:0x255b09b2bf04a089!8m2!3d26.867914!4d75.7674929!16s%2Fg%2F11f54749xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indus+Jaipur+Hospital/@26.867914,75.7674929,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5ac8d7ab3ed:0x255b09b2bf04a089!8m2!3d26.867914!4d75.7674929!16s%2Fg%2F11f54749xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2956,7 +2980,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indus+Jaipur+Hospital/@26.867914,75.7674929,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5ac8d7ab3ed:0x255b09b2bf04a089!8m2!3d26.867914!4d75.7674929!16s%2Fg%2F11f54749xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "infinity-endovascular-clinic-jaipur",
@@ -3004,7 +3029,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Infinity+Endovascular+Clinic/@26.9058822,75.8130054,17z/data=!3m1!4b1!4m6!3m5!1s0x396db7b2669cf949:0x47bc2843c629da16!8m2!3d26.9058822!4d75.8130054!16s%2Fg%2F11qpf9hjy2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Infinity+Endovascular+Clinic/@26.9058822,75.8130054,17z/data=!3m1!4b1!4m6!3m5!1s0x396db7b2669cf949:0x47bc2843c629da16!8m2!3d26.9058822!4d75.8130054!16s%2Fg%2F11qpf9hjy2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3070,10 +3095,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Infinity+Endovascular+Clinic/@26.9058822,75.8130054,17z/data=!3m1!4b1!4m6!3m5!1s0x396db7b2669cf949:0x47bc2843c629da16!8m2!3d26.9058822!4d75.8130054!16s%2Fg%2F11qpf9hjy2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jaipur-hospital-mahaveer-nagar-jaipur",
@@ -3122,7 +3148,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jaipur+Hospital,+Mahaveer+Nagar/@26.8574458,75.794974,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5c4cc452723:0x881c5aa08bb18a00!8m2!3d26.8574458!4d75.794974!16s%2Fg%2F11c0xc__g4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaipur+Hospital,+Mahaveer+Nagar/@26.8574458,75.794974,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5c4cc452723:0x881c5aa08bb18a00!8m2!3d26.8574458!4d75.794974!16s%2Fg%2F11c0xc__g4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3191,7 +3217,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jaipur+Hospital,+Mahaveer+Nagar/@26.8574458,75.794974,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5c4cc452723:0x881c5aa08bb18a00!8m2!3d26.8574458!4d75.794974!16s%2Fg%2F11c0xc__g4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jaipur-urology-and-laparoscopy-hospital-jaipur",
@@ -3239,7 +3266,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Jaipur+Urology+%26+Laparoscopy+Hospital/@26.9533112,75.7712278,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3bd948912e5:0x760a317bc37bb4ed!8m2!3d26.9533112!4d75.7712278!16s%2Fg%2F11h2lmv8qf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaipur+Urology+%26+Laparoscopy+Hospital/@26.9533112,75.7712278,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3bd948912e5:0x760a317bc37bb4ed!8m2!3d26.9533112!4d75.7712278!16s%2Fg%2F11h2lmv8qf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3308,7 +3335,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jaipur+Urology+%26+Laparoscopy+Hospital/@26.9533112,75.7712278,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3bd948912e5:0x760a317bc37bb4ed!8m2!3d26.9533112!4d75.7712278!16s%2Fg%2F11h2lmv8qf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jr-fertilty-and-kidney-care-jaipur",
@@ -3357,7 +3385,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/JR+Fertilty+%26+Kidney+Care/@26.867825,75.760203,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5000bac241b:0x296261f3ec994674!8m2!3d26.867825!4d75.760203!16s%2Fg%2F11g8cyp5ms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JR+Fertilty+%26+Kidney+Care/@26.867825,75.760203,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5000bac241b:0x296261f3ec994674!8m2!3d26.867825!4d75.760203!16s%2Fg%2F11g8cyp5ms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3423,10 +3451,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JR+Fertilty+%26+Kidney+Care/@26.867825,75.760203,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5000bac241b:0x296261f3ec994674!8m2!3d26.867825!4d75.760203!16s%2Fg%2F11g8cyp5ms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "katta-hospital-jaipur",
@@ -3475,7 +3504,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Katta+Hospital/@26.9410053,75.7765392,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3bdebbb177f:0x476f2a8473d413db!8m2!3d26.9410053!4d75.7765392!16s%2Fg%2F1vsppxnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Katta+Hospital/@26.9410053,75.7765392,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3bdebbb177f:0x476f2a8473d413db!8m2!3d26.9410053!4d75.7765392!16s%2Fg%2F1vsppxnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3544,7 +3573,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Katta+Hospital/@26.9410053,75.7765392,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3bdebbb177f:0x476f2a8473d413db!8m2!3d26.9410053!4d75.7765392!16s%2Fg%2F1vsppxnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khandaka-hospital-jaipur",
@@ -3592,7 +3622,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Khandaka+Hospital/@26.8565056,75.7959871,17z/data=!3m1!4b1!4m6!3m5!1s0x396db6ba6fffffff:0x6698a36277a8076b!8m2!3d26.8565056!4d75.7959871!16s%2Fg%2F1tgnkg_s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khandaka+Hospital/@26.8565056,75.7959871,17z/data=!3m1!4b1!4m6!3m5!1s0x396db6ba6fffffff:0x6698a36277a8076b!8m2!3d26.8565056!4d75.7959871!16s%2Fg%2F1tgnkg_s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3661,7 +3691,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khandaka+Hospital/@26.8565056,75.7959871,17z/data=!3m1!4b1!4m6!3m5!1s0x396db6ba6fffffff:0x6698a36277a8076b!8m2!3d26.8565056!4d75.7959871!16s%2Fg%2F1tgnkg_s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kidney-care-and-general-hospital-jaipur",
@@ -3710,7 +3741,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Kidney+Care+and+General+Hospital/@26.8887834,75.764075,17z/data=!3m1!4b1!4m6!3m5!1s0x396db44fa46606cd:0x23d6d12924312161!8m2!3d26.8887834!4d75.764075!16s%2Fg%2F1yfjk8ms7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kidney+Care+and+General+Hospital/@26.8887834,75.764075,17z/data=!3m1!4b1!4m6!3m5!1s0x396db44fa46606cd:0x23d6d12924312161!8m2!3d26.8887834!4d75.764075!16s%2Fg%2F1yfjk8ms7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3779,7 +3810,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kidney+Care+and+General+Hospital/@26.8887834,75.764075,17z/data=!3m1!4b1!4m6!3m5!1s0x396db44fa46606cd:0x23d6d12924312161!8m2!3d26.8887834!4d75.764075!16s%2Fg%2F1yfjk8ms7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kidsurg-jaipur",
@@ -3830,7 +3862,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIDSURG/@26.9477345,75.7232846,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3eb50194d23:0x749d88da916d0a98!8m2!3d26.9477345!4d75.7232846!16s%2Fg%2F11rsqw594h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIDSURG/@26.9477345,75.7232846,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3eb50194d23:0x749d88da916d0a98!8m2!3d26.9477345!4d75.7232846!16s%2Fg%2F11rsqw594h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3899,7 +3931,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIDSURG/@26.9477345,75.7232846,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3eb50194d23:0x749d88da916d0a98!8m2!3d26.9477345!4d75.7232846!16s%2Fg%2F11rsqw594h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kks-urology-and-general-hospital-jaipur",
@@ -3948,7 +3981,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KKS+Urology+And+General+Hospital/@26.8885927,75.8082159,17z/data=!3m1!4b1!4m6!3m5!1s0x396db69dbfffffff:0xa031312039db4383!8m2!3d26.8885927!4d75.8082159!16s%2Fg%2F1tgh1ct4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KKS+Urology+And+General+Hospital/@26.8885927,75.8082159,17z/data=!3m1!4b1!4m6!3m5!1s0x396db69dbfffffff:0xa031312039db4383!8m2!3d26.8885927!4d75.8082159!16s%2Fg%2F1tgh1ct4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4017,7 +4050,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KKS+Urology+And+General+Hospital/@26.8885927,75.8082159,17z/data=!3m1!4b1!4m6!3m5!1s0x396db69dbfffffff:0xa031312039db4383!8m2!3d26.8885927!4d75.8082159!16s%2Fg%2F1tgh1ct4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mahatma-gandhi-hospital-jaipur-jaipur",
@@ -4066,7 +4100,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mahatma+Gandhi+Hospital+Jaipur/@26.7698706,75.854936,17z/data=!3m1!4b1!4m6!3m5!1s0x396dc9b389e8284f:0xb0816f2d2dde6652!8m2!3d26.7698706!4d75.854936!16s%2Fm%2F0cr412s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahatma+Gandhi+Hospital+Jaipur/@26.7698706,75.854936,17z/data=!3m1!4b1!4m6!3m5!1s0x396dc9b389e8284f:0xb0816f2d2dde6652!8m2!3d26.7698706!4d75.854936!16s%2Fm%2F0cr412s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4135,7 +4169,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahatma+Gandhi+Hospital+Jaipur/@26.7698706,75.854936,17z/data=!3m1!4b1!4m6!3m5!1s0x396dc9b389e8284f:0xb0816f2d2dde6652!8m2!3d26.7698706!4d75.854936!16s%2Fm%2F0cr412s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manas-hospital-jaipur",
@@ -4184,7 +4219,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Manas+Hospital/@26.8920343,75.7205988,17z/data=!3m1!4b1!4m6!3m5!1s0x396db4b690a66909:0x76d04df8af237618!8m2!3d26.8920343!4d75.7205988!16s%2Fg%2F11c72ksh7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manas+Hospital/@26.8920343,75.7205988,17z/data=!3m1!4b1!4m6!3m5!1s0x396db4b690a66909:0x76d04df8af237618!8m2!3d26.8920343!4d75.7205988!16s%2Fg%2F11c72ksh7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4253,7 +4288,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manas+Hospital/@26.8920343,75.7205988,17z/data=!3m1!4b1!4m6!3m5!1s0x396db4b690a66909:0x76d04df8af237618!8m2!3d26.8920343!4d75.7205988!16s%2Fg%2F11c72ksh7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manav-hospital-best-urology-hospital-in-jaipur-jaipur",
@@ -4302,7 +4338,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Manav+Hospital+-+Best+Urology+Hospital+In+Jaipur/@26.9034187,75.7322119,17z/data=!3m1!4b1!4m6!3m5!1s0x396db500325edceb:0x7a7e886d93a3aec5!8m2!3d26.9034187!4d75.7322119!16s%2Fg%2F11y390db7p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manav+Hospital+-+Best+Urology+Hospital+In+Jaipur/@26.9034187,75.7322119,17z/data=!3m1!4b1!4m6!3m5!1s0x396db500325edceb:0x7a7e886d93a3aec5!8m2!3d26.9034187!4d75.7322119!16s%2Fg%2F11y390db7p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4371,7 +4407,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manav+Hospital+-+Best+Urology+Hospital+In+Jaipur/@26.9034187,75.7322119,17z/data=!3m1!4b1!4m6!3m5!1s0x396db500325edceb:0x7a7e886d93a3aec5!8m2!3d26.9034187!4d75.7322119!16s%2Fg%2F11y390db7p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangalam-hospital-jaipur",
@@ -4420,7 +4457,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mangalam+Hospital/@26.8988439,75.8340396,17z/data=!3m1!4b1!4m6!3m5!1s0x396db7d21393bc39:0xad2e5b18a6b1b85c!8m2!3d26.8988439!4d75.8340396!16s%2Fg%2F11qg9st_pv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangalam+Hospital/@26.8988439,75.8340396,17z/data=!3m1!4b1!4m6!3m5!1s0x396db7d21393bc39:0xad2e5b18a6b1b85c!8m2!3d26.8988439!4d75.8340396!16s%2Fg%2F11qg9st_pv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4489,7 +4526,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangalam+Hospital/@26.8988439,75.8340396,17z/data=!3m1!4b1!4m6!3m5!1s0x396db7d21393bc39:0xad2e5b18a6b1b85c!8m2!3d26.8988439!4d75.8340396!16s%2Fg%2F11qg9st_pv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manipal-hospital-jaipur-jaipur",
@@ -4538,7 +4576,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Manipal+Hospital+Jaipur/@26.9687055,75.7734221,17z/data=!3m1!4b1!4m6!3m5!1s0x396db24e7525bee7:0xe317cb2b004c9f43!8m2!3d26.9687055!4d75.7734221!16s%2Fg%2F11cn8xzn26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospital+Jaipur/@26.9687055,75.7734221,17z/data=!3m1!4b1!4m6!3m5!1s0x396db24e7525bee7:0xe317cb2b004c9f43!8m2!3d26.9687055!4d75.7734221!16s%2Fg%2F11cn8xzn26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4607,7 +4645,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manipal+Hospital+Jaipur/@26.9687055,75.7734221,17z/data=!3m1!4b1!4m6!3m5!1s0x396db24e7525bee7:0xe317cb2b004c9f43!8m2!3d26.9687055!4d75.7734221!16s%2Fg%2F11cn8xzn26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "monilek-hospital-and-research-centre-jaipur",
@@ -4656,7 +4695,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Monilek+Hospital+%26+Research+Centre/@26.886919,75.8340895,17z/data=!3m1!4b1!4m6!3m5!1s0x396db7a8e7b9fa17:0xb64c65eefb0d5918!8m2!3d26.886919!4d75.8340895!16s%2Fg%2F11fn4_1cvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Monilek+Hospital+%26+Research+Centre/@26.886919,75.8340895,17z/data=!3m1!4b1!4m6!3m5!1s0x396db7a8e7b9fa17:0xb64c65eefb0d5918!8m2!3d26.886919!4d75.8340895!16s%2Fg%2F11fn4_1cvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4725,7 +4764,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Monilek+Hospital+%26+Research+Centre/@26.886919,75.8340895,17z/data=!3m1!4b1!4m6!3m5!1s0x396db7a8e7b9fa17:0xb64c65eefb0d5918!8m2!3d26.886919!4d75.8340895!16s%2Fg%2F11fn4_1cvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "murlipura-vyas-hospital-jaipur",
@@ -4774,7 +4814,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Murlipura+-+Vyas+Hospital/@26.9764728,75.7644938,17z/data=!3m1!4b1!4m6!3m5!1s0x396db34fc033c995:0x8539e40a3a7a9f25!8m2!3d26.9764728!4d75.7644938!16s%2Fg%2F11vb5yx4y_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Murlipura+-+Vyas+Hospital/@26.9764728,75.7644938,17z/data=!3m1!4b1!4m6!3m5!1s0x396db34fc033c995:0x8539e40a3a7a9f25!8m2!3d26.9764728!4d75.7644938!16s%2Fg%2F11vb5yx4y_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4843,7 +4883,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Murlipura+-+Vyas+Hospital/@26.9764728,75.7644938,17z/data=!3m1!4b1!4m6!3m5!1s0x396db34fc033c995:0x8539e40a3a7a9f25!8m2!3d26.9764728!4d75.7644938!16s%2Fg%2F11vb5yx4y_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "n-k-fracture-and-general-hospital-jaipur",
@@ -4891,7 +4932,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/N.K+Fracture+And+General+Hospital/@26.9562457,75.7411597,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3f76bfe49cf:0x1fa1bd3a2e11ced8!8m2!3d26.9562457!4d75.7411597!16s%2Fg%2F11v0c6vv0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/N.K+Fracture+And+General+Hospital/@26.9562457,75.7411597,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3f76bfe49cf:0x1fa1bd3a2e11ced8!8m2!3d26.9562457!4d75.7411597!16s%2Fg%2F11v0c6vv0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4960,7 +5001,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/N.K+Fracture+And+General+Hospital/@26.9562457,75.7411597,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3f76bfe49cf:0x1fa1bd3a2e11ced8!8m2!3d26.9562457!4d75.7411597!16s%2Fg%2F11v0c6vv0k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nav-imperial-hospital-and-research-centre-ai-robotic-surgery-in-jaipur-jaipur",
@@ -5009,7 +5051,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nav+Imperial+Hospital+and+Research+Centre+-+AI+Robotic+Surgery+in+Jaipur/@26.9446776,75.7972812,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3dd1c4a6e0b:0x776b8a0fc4c2bbd9!8m2!3d26.9446776!4d75.7972812!16s%2Fg%2F11g86ky2mp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nav+Imperial+Hospital+and+Research+Centre+-+AI+Robotic+Surgery+in+Jaipur/@26.9446776,75.7972812,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3dd1c4a6e0b:0x776b8a0fc4c2bbd9!8m2!3d26.9446776!4d75.7972812!16s%2Fg%2F11g86ky2mp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5078,7 +5120,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nav+Imperial+Hospital+and+Research+Centre+-+AI+Robotic+Surgery+in+Jaipur/@26.9446776,75.7972812,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3dd1c4a6e0b:0x776b8a0fc4c2bbd9!8m2!3d26.9446776!4d75.7972812!16s%2Fg%2F11g86ky2mp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-centre-jaipur",
@@ -5129,7 +5172,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@26.8462747,75.8034574,17z/data=!3m1!4b1!4m6!3m5!1s0x396db57b724d79a1:0x524734e1b6808673!8m2!3d26.8462747!4d75.8034574!16s%2Fg%2F11q3qhzlp1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@26.8462747,75.8034574,17z/data=!3m1!4b1!4m6!3m5!1s0x396db57b724d79a1:0x524734e1b6808673!8m2!3d26.8462747!4d75.8034574!16s%2Fg%2F11q3qhzlp1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5195,10 +5238,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@26.8462747,75.8034574,17z/data=!3m1!4b1!4m6!3m5!1s0x396db57b724d79a1:0x524734e1b6808673!8m2!3d26.8462747!4d75.8034574!16s%2Fg%2F11q3qhzlp1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "orthomax-hospital-jaipur",
@@ -5248,7 +5292,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ORTHOMAX+HOSPITAL/@26.9239893,75.730889,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3b3756e270f:0x7109234ded41a!8m2!3d26.9239893!4d75.730889!16s%2Fg%2F11v0lghd0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ORTHOMAX+HOSPITAL/@26.9239893,75.730889,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3b3756e270f:0x7109234ded41a!8m2!3d26.9239893!4d75.730889!16s%2Fg%2F11v0lghd0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5314,10 +5358,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ORTHOMAX+HOSPITAL/@26.9239893,75.730889,17z/data=!3m1!4b1!4m6!3m5!1s0x396db3b3756e270f:0x7109234ded41a!8m2!3d26.9239893!4d75.730889!16s%2Fg%2F11v0lghd0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parijat-endo-laparoscopy-urology-and-maternity-hospital-in-jaipur-jaipur",
@@ -5366,7 +5411,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Parijat+Endo+-+Laparoscopy+Urology+%26+Maternity+Hospital+in+jaipur/@26.896697,75.7706111,17z/data=!3m1!4b1!4m6!3m5!1s0x396db46635fc7059:0x66ec7395754750f3!8m2!3d26.896697!4d75.7706111!16s%2Fg%2F11btxcr47w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parijat+Endo+-+Laparoscopy+Urology+%26+Maternity+Hospital+in+jaipur/@26.896697,75.7706111,17z/data=!3m1!4b1!4m6!3m5!1s0x396db46635fc7059:0x66ec7395754750f3!8m2!3d26.896697!4d75.7706111!16s%2Fg%2F11btxcr47w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5435,7 +5480,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parijat+Endo+-+Laparoscopy+Urology+%26+Maternity+Hospital+in+jaipur/@26.896697,75.7706111,17z/data=!3m1!4b1!4m6!3m5!1s0x396db46635fc7059:0x66ec7395754750f3!8m2!3d26.896697!4d75.7706111!16s%2Fg%2F11btxcr47w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rhl-renova-cancer-centre-cancer-hospital-in-jaipur-jaipur",
@@ -5484,7 +5530,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RHL+Renova+Cancer+Centre+%7C+Cancer+Hospital+in+Jaipur/@26.855619,75.8015974,17z/data=!3m1!4b1!4m6!3m5!1s0x396db51b5bdf0735:0x783ac325b09e5d2a!8m2!3d26.855619!4d75.8015974!16s%2Fg%2F11scgpzjqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RHL+Renova+Cancer+Centre+%7C+Cancer+Hospital+in+Jaipur/@26.855619,75.8015974,17z/data=!3m1!4b1!4m6!3m5!1s0x396db51b5bdf0735:0x783ac325b09e5d2a!8m2!3d26.855619!4d75.8015974!16s%2Fg%2F11scgpzjqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5553,7 +5599,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RHL+Renova+Cancer+Centre+%7C+Cancer+Hospital+in+Jaipur/@26.855619,75.8015974,17z/data=!3m1!4b1!4m6!3m5!1s0x396db51b5bdf0735:0x783ac325b09e5d2a!8m2!3d26.855619!4d75.8015974!16s%2Fg%2F11scgpzjqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rjc-hospitals-jaipur",
@@ -5602,7 +5649,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RJC+Hospitals/@26.933657,75.7919456,17z/data=!3m1!4b1!4m6!3m5!1s0x396db34d4cf63e47:0x55e425d349833b05!8m2!3d26.933657!4d75.7919456!16s%2Fg%2F11ym171cd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RJC+Hospitals/@26.933657,75.7919456,17z/data=!3m1!4b1!4m6!3m5!1s0x396db34d4cf63e47:0x55e425d349833b05!8m2!3d26.933657!4d75.7919456!16s%2Fg%2F11ym171cd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5668,10 +5715,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RJC+Hospitals/@26.933657,75.7919456,17z/data=!3m1!4b1!4m6!3m5!1s0x396db34d4cf63e47:0x55e425d349833b05!8m2!3d26.933657!4d75.7919456!16s%2Fg%2F11ym171cd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rungta-hospital-best-hospital-in-jaipur-jaipur",
@@ -5720,7 +5768,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rungta+Hospital+-+Best+Hospital+in+Jaipur/@26.8573728,75.8152224,17z/data=!3m1!4b1!4m6!3m5!1s0x396db67400000001:0x7b8ae3e01435dd92!8m2!3d26.8573728!4d75.8152224!16s%2Fg%2F1tct_v81?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rungta+Hospital+-+Best+Hospital+in+Jaipur/@26.8573728,75.8152224,17z/data=!3m1!4b1!4m6!3m5!1s0x396db67400000001:0x7b8ae3e01435dd92!8m2!3d26.8573728!4d75.8152224!16s%2Fg%2F1tct_v81?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5789,7 +5837,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rungta+Hospital+-+Best+Hospital+in+Jaipur/@26.8573728,75.8152224,17z/data=!3m1!4b1!4m6!3m5!1s0x396db67400000001:0x7b8ae3e01435dd92!8m2!3d26.8573728!4d75.8152224!16s%2Fg%2F1tct_v81?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sawai-man-singh-hospital-sms-jaipur",
@@ -5837,7 +5886,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sawai+Man+Singh+Hospital+(SMS)/@26.906234,75.8163148,17z/data=!3m1!4b1!4m6!3m5!1s0x396dc8733fd70039:0xed6e6608b8ca9783!8m2!3d26.906234!4d75.8163148!16s%2Fg%2F11c5gbqncw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sawai+Man+Singh+Hospital+(SMS)/@26.906234,75.8163148,17z/data=!3m1!4b1!4m6!3m5!1s0x396dc8733fd70039:0xed6e6608b8ca9783!8m2!3d26.906234!4d75.8163148!16s%2Fg%2F11c5gbqncw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5903,10 +5952,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sawai+Man+Singh+Hospital+(SMS)/@26.906234,75.8163148,17z/data=!3m1!4b1!4m6!3m5!1s0x396dc8733fd70039:0xed6e6608b8ca9783!8m2!3d26.906234!4d75.8163148!16s%2Fg%2F11c5gbqncw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharma-ortho-speciality-clinic-jaipur",
@@ -5957,7 +6007,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sharma+Ortho+Speciality+Clinic/@26.8062893,75.8109154,17z/data=!3m1!4b1!4m6!3m5!1s0x396db614927efc11:0xecfd31aae0d58124!8m2!3d26.8062893!4d75.8109154!16s%2Fg%2F11b64kncrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+Ortho+Speciality+Clinic/@26.8062893,75.8109154,17z/data=!3m1!4b1!4m6!3m5!1s0x396db614927efc11:0xecfd31aae0d58124!8m2!3d26.8062893!4d75.8109154!16s%2Fg%2F11b64kncrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6026,7 +6076,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sharma+Ortho+Speciality+Clinic/@26.8062893,75.8109154,17z/data=!3m1!4b1!4m6!3m5!1s0x396db614927efc11:0xecfd31aae0d58124!8m2!3d26.8062893!4d75.8109154!16s%2Fg%2F11b64kncrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sk-fracture-and-general-hospital-manchwa-kalwar-road-jaipur-spine-surgery-knee-hip-and-shoulder-replacement-arthroscopy-jaipur",
@@ -6076,7 +6127,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SK+Fracture+%26+General+Hospital,+Manchwa,+Kalwar+road,+Jaipur%2F+SPINE+SURGERY%2F+KNEE+,HIP+%26+SHOULDER+REPLACEMENT%2F+ARTHROSCOPY/@26.9694426,75.6490057,17z/data=!3m1!4b1!4m6!3m5!1s0x396c4d055c4c3ef5:0x32f2305d44e079f4!8m2!3d26.9694426!4d75.6490057!16s%2Fg%2F11ngj02931?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SK+Fracture+%26+General+Hospital,+Manchwa,+Kalwar+road,+Jaipur%2F+SPINE+SURGERY%2F+KNEE+,HIP+%26+SHOULDER+REPLACEMENT%2F+ARTHROSCOPY/@26.9694426,75.6490057,17z/data=!3m1!4b1!4m6!3m5!1s0x396c4d055c4c3ef5:0x32f2305d44e079f4!8m2!3d26.9694426!4d75.6490057!16s%2Fg%2F11ngj02931?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6142,10 +6193,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SK+Fracture+%26+General+Hospital,+Manchwa,+Kalwar+road,+Jaipur%2F+SPINE+SURGERY%2F+KNEE+,HIP+%26+SHOULDER+REPLACEMENT%2F+ARTHROSCOPY/@26.9694426,75.6490057,17z/data=!3m1!4b1!4m6!3m5!1s0x396c4d055c4c3ef5:0x32f2305d44e079f4!8m2!3d26.9694426!4d75.6490057!16s%2Fg%2F11ngj02931?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smg-9-states-hospital-jaipur",
@@ -6194,7 +6246,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SMG+9+STATES+Hospital/@26.8939176,75.7337661,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5292be163ad:0x56951215ce2f3131!8m2!3d26.8939176!4d75.7337661!16s%2Fg%2F11kpk48yh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMG+9+STATES+Hospital/@26.8939176,75.7337661,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5292be163ad:0x56951215ce2f3131!8m2!3d26.8939176!4d75.7337661!16s%2Fg%2F11kpk48yh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6260,10 +6312,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SMG+9+STATES+Hospital/@26.8939176,75.7337661,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5292be163ad:0x56951215ce2f3131!8m2!3d26.8939176!4d75.7337661!16s%2Fg%2F11kpk48yh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spine-and-joint-care-physiotherapy-clinic-jaipur",
@@ -6314,7 +6367,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Spine+%26+Joint+Care+Physiotherapy+Clinic/@26.9760526,75.7667962,17z/data=!3m1!4b1!4m6!3m5!1s0x396db24a8b1a894d:0x51812bdb25b8c048!8m2!3d26.9760526!4d75.7667962!16s%2Fg%2F1pp2w_6l1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spine+%26+Joint+Care+Physiotherapy+Clinic/@26.9760526,75.7667962,17z/data=!3m1!4b1!4m6!3m5!1s0x396db24a8b1a894d:0x51812bdb25b8c048!8m2!3d26.9760526!4d75.7667962!16s%2Fg%2F1pp2w_6l1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6383,7 +6436,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spine+%26+Joint+Care+Physiotherapy+Clinic/@26.9760526,75.7667962,17z/data=!3m1!4b1!4m6!3m5!1s0x396db24a8b1a894d:0x51812bdb25b8c048!8m2!3d26.9760526!4d75.7667962!16s%2Fg%2F1pp2w_6l1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "state-cancer-institute-sms-medical-college-jaipur",
@@ -6431,7 +6485,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/State+Cancer+Institute+SMS+MEDICAL+COLLEGE/@26.7963448,75.8245371,17z/data=!3m1!4b1!4m6!3m5!1s0x396dc9b868a3e753:0x6466146f1447aadd!8m2!3d26.7963448!4d75.8245371!16s%2Fg%2F11g0mfs12s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/State+Cancer+Institute+SMS+MEDICAL+COLLEGE/@26.7963448,75.8245371,17z/data=!3m1!4b1!4m6!3m5!1s0x396dc9b868a3e753:0x6466146f1447aadd!8m2!3d26.7963448!4d75.8245371!16s%2Fg%2F11g0mfs12s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6500,7 +6554,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/State+Cancer+Institute+SMS+MEDICAL+COLLEGE/@26.7963448,75.8245371,17z/data=!3m1!4b1!4m6!3m5!1s0x396dc9b868a3e753:0x6466146f1447aadd!8m2!3d26.7963448!4d75.8245371!16s%2Fg%2F11g0mfs12s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surya-hospitals-jaipur-jaipur",
@@ -6549,7 +6604,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Surya+Hospitals+Jaipur/@26.9052191,75.8140333,17z/data=!3m1!4b1!4m6!3m5!1s0x396db6a47005622b:0xd199b35e05542247!8m2!3d26.9052191!4d75.8140333!16s%2Fg%2F11gd215btz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+Hospitals+Jaipur/@26.9052191,75.8140333,17z/data=!3m1!4b1!4m6!3m5!1s0x396db6a47005622b:0xd199b35e05542247!8m2!3d26.9052191!4d75.8140333!16s%2Fg%2F11gd215btz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6618,7 +6673,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surya+Hospitals+Jaipur/@26.9052191,75.8140333,17z/data=!3m1!4b1!4m6!3m5!1s0x396db6a47005622b:0xd199b35e05542247!8m2!3d26.9052191!4d75.8140333!16s%2Fg%2F11gd215btz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tagore-hospital-and-research-institute-jaipur",
@@ -6667,7 +6723,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tagore+Hospital+%26+Research+Institute/@26.8586061,75.7696668,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5af245f9b3f:0x627608ae2b450a86!8m2!3d26.8586061!4d75.7696668!16s%2Fg%2F1v42d5wy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tagore+Hospital+%26+Research+Institute/@26.8586061,75.7696668,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5af245f9b3f:0x627608ae2b450a86!8m2!3d26.8586061!4d75.7696668!16s%2Fg%2F1v42d5wy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6736,7 +6792,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tagore+Hospital+%26+Research+Institute/@26.8586061,75.7696668,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5af245f9b3f:0x627608ae2b450a86!8m2!3d26.8586061!4d75.7696668!16s%2Fg%2F1v42d5wy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "um-cancer-hospital-jaipur-jaipur",
@@ -6785,7 +6842,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/UM+Cancer+Hospital+Jaipur/@26.975609,75.7720627,17z/data=!3m1!4b1!4m6!3m5!1s0x396db38f58f4a58b:0x7da2a752a736dcf3!8m2!3d26.975609!4d75.7720627!16s%2Fg%2F11y7wjx994?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UM+Cancer+Hospital+Jaipur/@26.975609,75.7720627,17z/data=!3m1!4b1!4m6!3m5!1s0x396db38f58f4a58b:0x7da2a752a736dcf3!8m2!3d26.975609!4d75.7720627!16s%2Fg%2F11y7wjx994?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6854,7 +6911,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/UM+Cancer+Hospital+Jaipur/@26.975609,75.7720627,17z/data=!3m1!4b1!4m6!3m5!1s0x396db38f58f4a58b:0x7da2a752a736dcf3!8m2!3d26.975609!4d75.7720627!16s%2Fg%2F11y7wjx994?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vaidik-institute-of-medical-sciences-and-research-centre-jaipur",
@@ -6903,7 +6961,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vaidik+institute+of+medical+sciences+and+research+centre/@26.8412959,75.7729316,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5a53568352b:0xe3aecc8d35f5e808!8m2!3d26.8412959!4d75.7729316!16s%2Fg%2F11rcny_9t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaidik+institute+of+medical+sciences+and+research+centre/@26.8412959,75.7729316,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5a53568352b:0xe3aecc8d35f5e808!8m2!3d26.8412959!4d75.7729316!16s%2Fg%2F11rcny_9t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6972,7 +7030,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vaidik+institute+of+medical+sciences+and+research+centre/@26.8412959,75.7729316,17z/data=!3m1!4b1!4m6!3m5!1s0x396db5a53568352b:0xe3aecc8d35f5e808!8m2!3d26.8412959!4d75.7729316!16s%2Fg%2F11rcny_9t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "welton-hospital-jaipur",
@@ -7021,7 +7080,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Welton+Hospital/@26.8535446,75.7899512,17z/data=!3m1!4b1!4m6!3m5!1s0x396db575938f1b45:0xf0217f37027001db!8m2!3d26.8535446!4d75.7899512!16s%2Fg%2F11jztvtmk3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Welton+Hospital/@26.8535446,75.7899512,17z/data=!3m1!4b1!4m6!3m5!1s0x396db575938f1b45:0xf0217f37027001db!8m2!3d26.8535446!4d75.7899512!16s%2Fg%2F11jztvtmk3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7090,6 +7149,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Welton+Hospital/@26.8535446,75.7899512,17z/data=!3m1!4b1!4m6!3m5!1s0x396db575938f1b45:0xf0217f37027001db!8m2!3d26.8535446!4d75.7899512!16s%2Fg%2F11jztvtmk3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

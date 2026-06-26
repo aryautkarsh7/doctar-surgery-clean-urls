@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://www.google.com/maps/place/Aai+Hospital+Private+Limited+Jalna/@19.8206599,75.8761659,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda570d3125a9b3:0xe4774bf4ec5d682f!8m2!3d19.8206599!4d75.8761659!16s%2Fg%2F11d_xhyfmq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aai+Hospital+Private+Limited+Jalna/@19.8206599,75.8761659,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda570d3125a9b3:0xe4774bf4ec5d682f!8m2!3d19.8206599!4d75.8761659!16s%2Fg%2F11d_xhyfmq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aai+Hospital+Private+Limited+Jalna/@19.8206599,75.8761659,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda570d3125a9b3:0xe4774bf4ec5d682f!8m2!3d19.8206599!4d75.8761659!16s%2Fg%2F11d_xhyfmq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aashirwad-clinic-jalna",
@@ -162,7 +163,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Aashirwad+Clinic/@19.8397067,75.8799282,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574125f95605:0xb9bf1499de492bdb!8m2!3d19.8397067!4d75.8799282!16s%2Fg%2F11f3r3pgz0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aashirwad+Clinic/@19.8397067,75.8799282,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574125f95605:0xb9bf1499de492bdb!8m2!3d19.8397067!4d75.8799282!16s%2Fg%2F11f3r3pgz0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -228,10 +229,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aashirwad+Clinic/@19.8397067,75.8799282,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574125f95605:0xb9bf1499de492bdb!8m2!3d19.8397067!4d75.8799282!16s%2Fg%2F11f3r3pgz0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aastha-hospital-and-icu-jalna",
@@ -279,7 +281,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Aastha+Hospital+%26+ICU/@19.8514501,75.8871308,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574e15d33b3d:0x4a49ebe3185663f2!8m2!3d19.8514501!4d75.8871308!16s%2Fg%2F1hjh934xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+Hospital+%26+ICU/@19.8514501,75.8871308,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574e15d33b3d:0x4a49ebe3185663f2!8m2!3d19.8514501!4d75.8871308!16s%2Fg%2F1hjh934xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -348,7 +350,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aastha+Hospital+%26+ICU/@19.8514501,75.8871308,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574e15d33b3d:0x4a49ebe3185663f2!8m2!3d19.8514501!4d75.8871308!16s%2Fg%2F1hjh934xz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ambekar-hospital-jalna",
@@ -396,7 +399,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Ambekar+Hospital/@19.8438012,75.9210311,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59ec9da721bd:0x41cfe1fd5d6526a7!8m2!3d19.8438012!4d75.9210311!16s%2Fg%2F1261n37f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ambekar+Hospital/@19.8438012,75.9210311,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59ec9da721bd:0x41cfe1fd5d6526a7!8m2!3d19.8438012!4d75.9210311!16s%2Fg%2F1261n37f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -465,7 +468,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ambekar+Hospital/@19.8438012,75.9210311,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59ec9da721bd:0x41cfe1fd5d6526a7!8m2!3d19.8438012!4d75.9210311!16s%2Fg%2F1261n37f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "care-united-ciigma-hospitals-chhatrapati-sambhajinagar",
@@ -514,7 +518,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CARE+United+CIIGMA+Hospitals/@19.8593755,75.3362985,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdb9880a5000001:0xb220728829833101!8m2!3d19.8593755!4d75.3362985!16s%2Fg%2F126052qx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CARE+United+CIIGMA+Hospitals/@19.8593755,75.3362985,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdb9880a5000001:0xb220728829833101!8m2!3d19.8593755!4d75.3362985!16s%2Fg%2F126052qx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -583,7 +587,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CARE+United+CIIGMA+Hospitals/@19.8593755,75.3362985,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdb9880a5000001:0xb220728829833101!8m2!3d19.8593755!4d75.3362985!16s%2Fg%2F126052qx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chhaya-hospital-jalna",
@@ -632,7 +637,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Chhaya+hospital/@19.8385662,75.916239,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59f5d8b6c73f:0x17a7df2115624a77!8m2!3d19.8385662!4d75.916239!16s%2Fg%2F11t9c70g0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chhaya+hospital/@19.8385662,75.916239,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59f5d8b6c73f:0x17a7df2115624a77!8m2!3d19.8385662!4d75.916239!16s%2Fg%2F11t9c70g0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -701,7 +706,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chhaya+hospital/@19.8385662,75.916239,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59f5d8b6c73f:0x17a7df2115624a77!8m2!3d19.8385662!4d75.916239!16s%2Fg%2F11t9c70g0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cryobank-fertility-research-centre-jalna",
@@ -750,7 +756,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Cryobank+Fertility+Research+Centre/@19.849646,75.9029271,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fce0863e3f:0x76696689d0000000!8m2!3d19.849646!4d75.9029271!16s%2Fg%2F11p6spg16m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cryobank+Fertility+Research+Centre/@19.849646,75.9029271,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fce0863e3f:0x76696689d0000000!8m2!3d19.849646!4d75.9029271!16s%2Fg%2F11p6spg16m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -816,10 +822,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cryobank+Fertility+Research+Centre/@19.849646,75.9029271,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fce0863e3f:0x76696689d0000000!8m2!3d19.849646!4d75.9029271!16s%2Fg%2F11p6spg16m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dargad-hospital-jalna",
@@ -867,7 +874,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Dargad+Hospital/@19.8438041,75.9096466,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e5c4dfb8b3:0x1b7c1a2832176e4d!8m2!3d19.8438041!4d75.9096466!16s%2Fg%2F11hcdshz3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dargad+Hospital/@19.8438041,75.9096466,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e5c4dfb8b3:0x1b7c1a2832176e4d!8m2!3d19.8438041!4d75.9096466!16s%2Fg%2F11hcdshz3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -936,7 +943,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dargad+Hospital/@19.8438041,75.9096466,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e5c4dfb8b3:0x1b7c1a2832176e4d!8m2!3d19.8438041!4d75.9096466!16s%2Fg%2F11hcdshz3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deepak-hospital-jalna",
@@ -985,7 +993,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Deepak+Hospital/@19.841533,75.8865349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574499ed9b71:0xa75ec0ad6bad4560!8m2!3d19.841533!4d75.8865349!16s%2Fg%2F1hjgmdw2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deepak+Hospital/@19.841533,75.8865349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574499ed9b71:0xa75ec0ad6bad4560!8m2!3d19.841533!4d75.8865349!16s%2Fg%2F1hjgmdw2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1054,7 +1062,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deepak+Hospital/@19.841533,75.8865349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574499ed9b71:0xa75ec0ad6bad4560!8m2!3d19.841533!4d75.8865349!16s%2Fg%2F1hjgmdw2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "district-hospital-jalna-jalna",
@@ -1102,7 +1111,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/District+Hospital,+Jalna/@19.8323008,75.8744876,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda571511dd0e9d:0x90f74f4e1be440ab!8m2!3d19.8323008!4d75.8744876!16s%2Fg%2F11c1v00729?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital,+Jalna/@19.8323008,75.8744876,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda571511dd0e9d:0x90f74f4e1be440ab!8m2!3d19.8323008!4d75.8744876!16s%2Fg%2F11c1v00729?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1171,7 +1180,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+Hospital,+Jalna/@19.8323008,75.8744876,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda571511dd0e9d:0x90f74f4e1be440ab!8m2!3d19.8323008!4d75.8744876!16s%2Fg%2F11c1v00729?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "district-women-hospital-jalna-jalna",
@@ -1220,7 +1230,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/District+Women+Hospital,+Jalna/@19.8409662,75.8890236,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda575cafe03c8f:0xcfcb62f7df6e1a05!8m2!3d19.8409662!4d75.8890236!16s%2Fg%2F11c6w1m71h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Women+Hospital,+Jalna/@19.8409662,75.8890236,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda575cafe03c8f:0xcfcb62f7df6e1a05!8m2!3d19.8409662!4d75.8890236!16s%2Fg%2F11c6w1m71h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1289,7 +1299,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+Women+Hospital,+Jalna/@19.8409662,75.8890236,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda575cafe03c8f:0xcfcb62f7df6e1a05!8m2!3d19.8409662!4d75.8890236!16s%2Fg%2F11c6w1m71h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "follicle-hair-transplant-clinic-chhatrapati-sambhajinagar",
@@ -1338,7 +1349,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Follicle+Hair+Transplant+Clinic/@19.8756954,75.3357747,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba3977c993b19:0x6b77fe20d9f40479!8m2!3d19.8756954!4d75.3357747!16s%2Fg%2F11ghtpysfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Follicle+Hair+Transplant+Clinic/@19.8756954,75.3357747,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba3977c993b19:0x6b77fe20d9f40479!8m2!3d19.8756954!4d75.3357747!16s%2Fg%2F11ghtpysfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1407,7 +1418,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Follicle+Hair+Transplant+Clinic/@19.8756954,75.3357747,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba3977c993b19:0x6b77fe20d9f40479!8m2!3d19.8756954!4d75.3357747!16s%2Fg%2F11ghtpysfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gadiya-hospital-jalna",
@@ -1455,7 +1467,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Gadiya+hospital/@19.8493788,75.8877399,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574fd6d51341:0xc545807c4727ca20!8m2!3d19.8493788!4d75.8877399!16s%2Fg%2F1t_hxfvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gadiya+hospital/@19.8493788,75.8877399,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574fd6d51341:0xc545807c4727ca20!8m2!3d19.8493788!4d75.8877399!16s%2Fg%2F1t_hxfvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1524,7 +1536,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gadiya+hospital/@19.8493788,75.8877399,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574fd6d51341:0xc545807c4727ca20!8m2!3d19.8493788!4d75.8877399!16s%2Fg%2F1t_hxfvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gajendragadkar-ent-clinic-r-p-road",
@@ -1573,7 +1586,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/Gajendragadkar+ENT+Clinic/@19.8488921,75.9034229,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda598155cf2cbb:0xb764edb70e4e5800!8m2!3d19.8488921!4d75.9034229!16s%2Fg%2F11rx2yh8nz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gajendragadkar+ENT+Clinic/@19.8488921,75.9034229,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda598155cf2cbb:0xb764edb70e4e5800!8m2!3d19.8488921!4d75.9034229!16s%2Fg%2F11rx2yh8nz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1642,7 +1655,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gajendragadkar+ENT+Clinic/@19.8488921,75.9034229,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda598155cf2cbb:0xb764edb70e4e5800!8m2!3d19.8488921!4d75.9034229!16s%2Fg%2F11rx2yh8nz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-civil-hospital-jalna",
@@ -1690,7 +1704,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Government+Civil+Hospital/@19.8403103,75.8887954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda575cb0ffffff:0x5a487281a923c664!8m2!3d19.8403103!4d75.8887954!16s%2Fg%2F11kj3f2fnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Civil+Hospital/@19.8403103,75.8887954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda575cb0ffffff:0x5a487281a923c664!8m2!3d19.8403103!4d75.8887954!16s%2Fg%2F11kj3f2fnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1756,10 +1770,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Civil+Hospital/@19.8403103,75.8887954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda575cb0ffffff:0x5a487281a923c664!8m2!3d19.8403103!4d75.8887954!16s%2Fg%2F11kj3f2fnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gurukrupa-hospital-and-nursing-home-jalna",
@@ -1807,7 +1822,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gurukrupa+Hospital+and+Nursing+Home/@19.8662432,75.8975438,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda51006e4536cf:0x410245c63c8b6bd1!8m2!3d19.8662432!4d75.8975438!16s%2Fg%2F11vqsjpr2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurukrupa+Hospital+and+Nursing+Home/@19.8662432,75.8975438,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda51006e4536cf:0x410245c63c8b6bd1!8m2!3d19.8662432!4d75.8975438!16s%2Fg%2F11vqsjpr2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1873,10 +1888,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gurukrupa+Hospital+and+Nursing+Home/@19.8662432,75.8975438,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda51006e4536cf:0x410245c63c8b6bd1!8m2!3d19.8662432!4d75.8975438!16s%2Fg%2F11vqsjpr2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hm-jalna",
@@ -1924,7 +1940,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Hm/@19.8518877,75.8873366,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574e11d52c3b:0x745edb3aa9192619!8m2!3d19.8518877!4d75.8873366!16s%2Fg%2F1td68b3d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hm/@19.8518877,75.8873366,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574e11d52c3b:0x745edb3aa9192619!8m2!3d19.8518877!4d75.8873366!16s%2Fg%2F1td68b3d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1993,7 +2009,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hm/@19.8518877,75.8873366,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574e11d52c3b:0x745edb3aa9192619!8m2!3d19.8518877!4d75.8873366!16s%2Fg%2F1td68b3d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-jalna-best-ivf-centre-jalna",
@@ -2043,7 +2060,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Jalna+-+Best+IVF+Centre/@19.8444572,75.9075318,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda51cf51958067:0x3b9e078246eb8d29!8m2!3d19.8444572!4d75.9075318!16s%2Fg%2F11lz_1mqrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Jalna+-+Best+IVF+Centre/@19.8444572,75.9075318,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda51cf51958067:0x3b9e078246eb8d29!8m2!3d19.8444572!4d75.9075318!16s%2Fg%2F11lz_1mqrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2112,7 +2129,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Jalna+-+Best+IVF+Centre/@19.8444572,75.9075318,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda51cf51958067:0x3b9e078246eb8d29!8m2!3d19.8444572!4d75.9075318!16s%2Fg%2F11lz_1mqrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "infinity-hospital-chhatrapati-sambhajinagar",
@@ -2161,7 +2179,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/INFINITY+HOSPITAL/@19.8762015,75.3492012,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba341349c6797:0xf239363230e930c8!8m2!3d19.8762015!4d75.3492012!16s%2Fg%2F11l5dqc1zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/INFINITY+HOSPITAL/@19.8762015,75.3492012,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba341349c6797:0xf239363230e930c8!8m2!3d19.8762015!4d75.3492012!16s%2Fg%2F11l5dqc1zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2230,7 +2248,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/INFINITY+HOSPITAL/@19.8762015,75.3492012,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba341349c6797:0xf239363230e930c8!8m2!3d19.8762015!4d75.3492012!16s%2Fg%2F11l5dqc1zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jalna-mission-hospital-jalna",
@@ -2279,7 +2298,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jalna+Mission+Hospital/@19.8491417,75.9060646,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fca80cac31:0xf1595486ebfa044!8m2!3d19.8491417!4d75.9060646!16s%2Fg%2F11c1xp_gr8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jalna+Mission+Hospital/@19.8491417,75.9060646,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fca80cac31:0xf1595486ebfa044!8m2!3d19.8491417!4d75.9060646!16s%2Fg%2F11c1xp_gr8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2348,7 +2367,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jalna+Mission+Hospital/@19.8491417,75.9060646,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fca80cac31:0xf1595486ebfa044!8m2!3d19.8491417!4d75.9060646!16s%2Fg%2F11c1xp_gr8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jilla-hospital-aurangabad-ivf-center-in-aurangabad-chhatrapati-sambhajinagar",
@@ -2398,7 +2418,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jilla+Hospital,+Aurangabad+-+IVF+Center+in+Aurangabad/@19.878254,75.352862,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba290a82c2a77:0x71bafd1adec41a9d!8m2!3d19.878254!4d75.352862!16s%2Fg%2F1tff1hdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jilla+Hospital,+Aurangabad+-+IVF+Center+in+Aurangabad/@19.878254,75.352862,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba290a82c2a77:0x71bafd1adec41a9d!8m2!3d19.878254!4d75.352862!16s%2Fg%2F1tff1hdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2467,7 +2487,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jilla+Hospital,+Aurangabad+-+IVF+Center+in+Aurangabad/@19.878254,75.352862,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba290a82c2a77:0x71bafd1adec41a9d!8m2!3d19.878254!4d75.352862!16s%2Fg%2F1tff1hdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jinturkar-samyak-hospital-jalna",
@@ -2515,7 +2536,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Jinturkar+Samyak+Hospital/@19.8431592,75.9144283,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e92a9a1a45:0x7d7ff41b7c4ef3cb!8m2!3d19.8431592!4d75.9144283!16s%2Fg%2F11d_8gqtzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jinturkar+Samyak+Hospital/@19.8431592,75.9144283,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e92a9a1a45:0x7d7ff41b7c4ef3cb!8m2!3d19.8431592!4d75.9144283!16s%2Fg%2F11d_8gqtzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2584,7 +2605,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jinturkar+Samyak+Hospital/@19.8431592,75.9144283,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e92a9a1a45:0x7d7ff41b7c4ef3cb!8m2!3d19.8431592!4d75.9144283!16s%2Fg%2F11d_8gqtzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kakad-hospital-jalna",
@@ -2632,7 +2654,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Kakad+hospital/@19.8385534,75.8825148,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5743c4ecbf43:0xba3adb6a0de29529!8m2!3d19.8385534!4d75.8825148!16s%2Fg%2F1hjh91xrd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kakad+hospital/@19.8385534,75.8825148,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5743c4ecbf43:0xba3adb6a0de29529!8m2!3d19.8385534!4d75.8825148!16s%2Fg%2F1hjh91xrd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2701,7 +2723,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kakad+hospital/@19.8385534,75.8825148,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5743c4ecbf43:0xba3adb6a0de29529!8m2!3d19.8385534!4d75.8825148!16s%2Fg%2F1hjh91xrd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kamalnayan-bajaj-hospital-chhatrapati-sambhajinagar",
@@ -2750,7 +2773,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kamalnayan+Bajaj+Hospital/@19.8516393,75.3147588,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdb98f39ca15447:0x96c2632e2aaa42c!8m2!3d19.8516393!4d75.3147588!16s%2Fg%2F1tgcqb73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamalnayan+Bajaj+Hospital/@19.8516393,75.3147588,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdb98f39ca15447:0x96c2632e2aaa42c!8m2!3d19.8516393!4d75.3147588!16s%2Fg%2F1tgcqb73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2819,7 +2842,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kamalnayan+Bajaj+Hospital/@19.8516393,75.3147588,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdb98f39ca15447:0x96c2632e2aaa42c!8m2!3d19.8516393!4d75.3147588!16s%2Fg%2F1tgcqb73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "karwa-hospital-jalna",
@@ -2867,7 +2891,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Karwa+Hospital/@19.8450442,75.9065541,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e4660a582d:0xc10cb8ae52c90a9!8m2!3d19.8450442!4d75.9065541!16s%2Fg%2F1hf0h8h0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karwa+Hospital/@19.8450442,75.9065541,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e4660a582d:0xc10cb8ae52c90a9!8m2!3d19.8450442!4d75.9065541!16s%2Fg%2F1hf0h8h0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2936,7 +2960,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Karwa+Hospital/@19.8450442,75.9065541,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e4660a582d:0xc10cb8ae52c90a9!8m2!3d19.8450442!4d75.9065541!16s%2Fg%2F1hf0h8h0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kulkarni-hospital-jalna",
@@ -2984,7 +3009,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Kulkarni+Hospital/@19.8524215,75.9009322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fdecc1ff23:0xf42ecc50b3689682!8m2!3d19.8524215!4d75.9009322!16s%2Fg%2F1tf6vtnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kulkarni+Hospital/@19.8524215,75.9009322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fdecc1ff23:0xf42ecc50b3689682!8m2!3d19.8524215!4d75.9009322!16s%2Fg%2F1tf6vtnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3053,7 +3078,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kulkarni+Hospital/@19.8524215,75.9009322,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fdecc1ff23:0xf42ecc50b3689682!8m2!3d19.8524215!4d75.9009322!16s%2Fg%2F1tf6vtnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "m-g-m-hospital-chhatrapati-sambhajinagar",
@@ -3101,7 +3127,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/M.G.M.+Hospital/data=!4m7!3m6!1s0x3bdba29db9f2ac5d:0x4417eb07679f4421!8m2!3d19.8782764!4d75.3538837!16s%2Fg%2F11c61x72jx!19sChIJXazyuZ2i2zsRIUSfZwfrF0Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.G.M.+Hospital/data=!4m7!3m6!1s0x3bdba29db9f2ac5d:0x4417eb07679f4421!8m2!3d19.8782764!4d75.3538837!16s%2Fg%2F11c61x72jx!19sChIJXazyuZ2i2zsRIUSfZwfrF0Q?authuser=0&hl=en&rclk=1"
@@ -3170,7 +3196,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M.G.M.+Hospital/data=!4m7!3m6!1s0x3bdba29db9f2ac5d:0x4417eb07679f4421!8m2!3d19.8782764!4d75.3538837!16s%2Fg%2F11c61x72jx!19sChIJXazyuZ2i2zsRIUSfZwfrF0Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "matoshree-hospital-and-good-news-test-tube-baby-center-jalna",
@@ -3218,7 +3245,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Matoshree+hospital+%26+Good+News+Test+Tube+Baby+Center/@19.8439311,75.9208196,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda599dad391a1b:0x6ed40a8d14415a21!8m2!3d19.8439311!4d75.9208196!16s%2Fg%2F11r79z2gkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matoshree+hospital+%26+Good+News+Test+Tube+Baby+Center/@19.8439311,75.9208196,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda599dad391a1b:0x6ed40a8d14415a21!8m2!3d19.8439311!4d75.9208196!16s%2Fg%2F11r79z2gkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3287,7 +3314,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Matoshree+hospital+%26+Good+News+Test+Tube+Baby+Center/@19.8439311,75.9208196,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda599dad391a1b:0x6ed40a8d14415a21!8m2!3d19.8439311!4d75.9208196!16s%2Fg%2F11r79z2gkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "matoshri-nas-clinic-and-spine-care-center-jalna",
@@ -3336,7 +3364,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Matoshri+Nas+Clinic+And+Spine+Care+Center+%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%8B%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A8%E0%A4%B8+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@19.8299779,75.8792661,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5772f8215583:0xaab1c907c16515bc!8m2!3d19.8299779!4d75.8792661!16s%2Fg%2F11tfmrtmnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matoshri+Nas+Clinic+And+Spine+Care+Center+%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%8B%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A8%E0%A4%B8+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@19.8299779,75.8792661,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5772f8215583:0xaab1c907c16515bc!8m2!3d19.8299779!4d75.8792661!16s%2Fg%2F11tfmrtmnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3405,7 +3433,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Matoshri+Nas+Clinic+And+Spine+Care+Center+%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%8B%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A8%E0%A4%B8+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@19.8299779,75.8792661,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5772f8215583:0xaab1c907c16515bc!8m2!3d19.8299779!4d75.8792661!16s%2Fg%2F11tfmrtmnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "matrutva-hospital-jalna",
@@ -3453,7 +3482,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Matrutva+Hospital/@19.8429634,75.9225256,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e9eed6cb93:0x9f8373395b2d3c7a!8m2!3d19.8429634!4d75.9225256!16s%2Fg%2F11f01p1t4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matrutva+Hospital/@19.8429634,75.9225256,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e9eed6cb93:0x9f8373395b2d3c7a!8m2!3d19.8429634!4d75.9225256!16s%2Fg%2F11f01p1t4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3519,10 +3548,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Matrutva+Hospital/@19.8429634,75.9225256,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e9eed6cb93:0x9f8373395b2d3c7a!8m2!3d19.8429634!4d75.9225256!16s%2Fg%2F11f01p1t4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mauli-sparsh-hospital-and-maternity-home-jalna",
@@ -3570,7 +3600,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Mauli+Sparsh+Hospital+and+Maternity+Home/@19.8532281,75.8871398,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574de6bd4fe3:0xc10ffc0f75ed0393!8m2!3d19.8532281!4d75.8871398!16s%2Fg%2F11c56rcggk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mauli+Sparsh+Hospital+and+Maternity+Home/@19.8532281,75.8871398,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574de6bd4fe3:0xc10ffc0f75ed0393!8m2!3d19.8532281!4d75.8871398!16s%2Fg%2F11c56rcggk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3639,7 +3669,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mauli+Sparsh+Hospital+and+Maternity+Home/@19.8532281,75.8871398,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574de6bd4fe3:0xc10ffc0f75ed0393!8m2!3d19.8532281!4d75.8871398!16s%2Fg%2F11c56rcggk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "meher-hospital-old-jalna",
@@ -3687,7 +3718,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Meher+Hospital/@19.8426849,75.8855741,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5744f38668b3:0x4cbca936e1489bbe!8m2!3d19.8426849!4d75.8855741!16s%2Fg%2F1hm3ptlr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meher+Hospital/@19.8426849,75.8855741,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5744f38668b3:0x4cbca936e1489bbe!8m2!3d19.8426849!4d75.8855741!16s%2Fg%2F1hm3ptlr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3756,7 +3787,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meher+Hospital/@19.8426849,75.8855741,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5744f38668b3:0x4cbca936e1489bbe!8m2!3d19.8426849!4d75.8855741!16s%2Fg%2F1hm3ptlr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-centre-jalna",
@@ -3806,7 +3838,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@19.8527657,75.8977108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57a15a4d4175:0xed6561c34b211741!8m2!3d19.8527657!4d75.8977108!16s%2Fg%2F11slfd9g0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@19.8527657,75.8977108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57a15a4d4175:0xed6561c34b211741!8m2!3d19.8527657!4d75.8977108!16s%2Fg%2F11slfd9g0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3875,7 +3907,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@19.8527657,75.8977108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57a15a4d4175:0xed6561c34b211741!8m2!3d19.8527657!4d75.8977108!16s%2Fg%2F11slfd9g0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "niramay-hospital-jalna",
@@ -3924,7 +3957,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Niramay+Hospital/@19.8394103,75.8941142,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda575e9dc35e0f:0x44ee1468f4c2cbb8!8m2!3d19.8394103!4d75.8941142!16s%2Fg%2F11c1xfqbry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Niramay+Hospital/@19.8394103,75.8941142,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda575e9dc35e0f:0x44ee1468f4c2cbb8!8m2!3d19.8394103!4d75.8941142!16s%2Fg%2F11c1xfqbry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3993,7 +4026,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Niramay+Hospital/@19.8394103,75.8941142,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda575e9dc35e0f:0x44ee1468f4c2cbb8!8m2!3d19.8394103!4d75.8941142!16s%2Fg%2F11c1xfqbry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "om-hospital-jalna",
@@ -4042,7 +4076,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Om+Hospital/@19.8429092,75.9047905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e3e4ecc74d:0x87c66535e8b9ed2e!8m2!3d19.8429092!4d75.9047905!16s%2Fg%2F1th08x4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Hospital/@19.8429092,75.9047905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e3e4ecc74d:0x87c66535e8b9ed2e!8m2!3d19.8429092!4d75.9047905!16s%2Fg%2F1th08x4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4111,7 +4145,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Om+Hospital/@19.8429092,75.9047905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e3e4ecc74d:0x87c66535e8b9ed2e!8m2!3d19.8429092!4d75.9047905!16s%2Fg%2F1th08x4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "panchsheel-hospital-jalna",
@@ -4160,7 +4195,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Panchsheel+Hospital/@19.8518878,75.9008351,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fd90d62543:0x7f5ce33b79c668f6!8m2!3d19.8518878!4d75.9008351!16s%2Fg%2F1tk6yz4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Panchsheel+Hospital/@19.8518878,75.9008351,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fd90d62543:0x7f5ce33b79c668f6!8m2!3d19.8518878!4d75.9008351!16s%2Fg%2F1tk6yz4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4229,7 +4264,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Panchsheel+Hospital/@19.8518878,75.9008351,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fd90d62543:0x7f5ce33b79c668f6!8m2!3d19.8518878!4d75.9008351!16s%2Fg%2F1tk6yz4c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parinika-nurocare-hospital-jalna",
@@ -4277,7 +4313,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Parinika+nurocare+hospital/@19.8245299,75.8933455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda570001208c23:0x33a64c1a9b08115c!8m2!3d19.8245299!4d75.8933455!16s%2Fg%2F11wvc2c7mj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parinika+nurocare+hospital/@19.8245299,75.8933455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda570001208c23:0x33a64c1a9b08115c!8m2!3d19.8245299!4d75.8933455!16s%2Fg%2F11wvc2c7mj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4346,7 +4382,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parinika+nurocare+hospital/@19.8245299,75.8933455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda570001208c23:0x33a64c1a9b08115c!8m2!3d19.8245299!4d75.8933455!16s%2Fg%2F11wvc2c7mj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prabhu-hospital-jalna",
@@ -4394,7 +4431,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Prabhu+Hospital/@19.8370264,75.8792558,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574053c998a5:0x2e287385b05bd1a0!8m2!3d19.8370264!4d75.8792558!16s%2Fg%2F1hjgqtd9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prabhu+Hospital/@19.8370264,75.8792558,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574053c998a5:0x2e287385b05bd1a0!8m2!3d19.8370264!4d75.8792558!16s%2Fg%2F1hjgqtd9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4463,7 +4500,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prabhu+Hospital/@19.8370264,75.8792558,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574053c998a5:0x2e287385b05bd1a0!8m2!3d19.8370264!4d75.8792558!16s%2Fg%2F1hjgqtd9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prayag-hospital-jalna",
@@ -4511,7 +4549,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Prayag+Hospital/@19.8348547,75.8914877,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda576777510919:0x4d20f2afa0404227!8m2!3d19.8348547!4d75.8914877!16s%2Fg%2F11c1xj7kmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prayag+Hospital/@19.8348547,75.8914877,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda576777510919:0x4d20f2afa0404227!8m2!3d19.8348547!4d75.8914877!16s%2Fg%2F11c1xj7kmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4580,7 +4618,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prayag+Hospital/@19.8348547,75.8914877,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda576777510919:0x4d20f2afa0404227!8m2!3d19.8348547!4d75.8914877!16s%2Fg%2F11c1xj7kmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pushkar-hospital-jalna",
@@ -4628,7 +4667,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Pushkar+Hospital/@19.8465311,75.9039206,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59f77aafa7d1:0xbc6ad99f8af4008!8m2!3d19.8465311!4d75.9039206!16s%2Fg%2F11jvnxkqct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pushkar+Hospital/@19.8465311,75.9039206,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59f77aafa7d1:0xbc6ad99f8af4008!8m2!3d19.8465311!4d75.9039206!16s%2Fg%2F11jvnxkqct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4697,7 +4736,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pushkar+Hospital/@19.8465311,75.9039206,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59f77aafa7d1:0xbc6ad99f8af4008!8m2!3d19.8465311!4d75.9039206!16s%2Fg%2F11jvnxkqct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rain-ivf-and-women-s-hospital-pvt-ltd-karmad",
@@ -4748,7 +4788,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rain+IVF+and+Women%E2%80%99s+Hospital+Pvt+Ltd/@19.8636627,75.5250909,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba525814be87d:0x39f934e46dbeeac5!8m2!3d19.8636627!4d75.5250909!16s%2Fg%2F11vdkfh707?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rain+IVF+and+Women%E2%80%99s+Hospital+Pvt+Ltd/@19.8636627,75.5250909,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba525814be87d:0x39f934e46dbeeac5!8m2!3d19.8636627!4d75.5250909!16s%2Fg%2F11vdkfh707?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4814,10 +4854,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rain+IVF+and+Women%E2%80%99s+Hospital+Pvt+Ltd/@19.8636627,75.5250909,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba525814be87d:0x39f934e46dbeeac5!8m2!3d19.8636627!4d75.5250909!16s%2Fg%2F11vdkfh707?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajasi-clinic-and-panchakarma-center-jalna",
@@ -4865,7 +4906,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rajasi+Clinic+And+Panchakarma+Center/@19.8162826,75.8739976,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda577062a01f19:0x795910edbf3b9717!8m2!3d19.8162826!4d75.8739976!16s%2Fg%2F11qnhrqhlf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajasi+Clinic+And+Panchakarma+Center/@19.8162826,75.8739976,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda577062a01f19:0x795910edbf3b9717!8m2!3d19.8162826!4d75.8739976!16s%2Fg%2F11qnhrqhlf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4931,10 +4972,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajasi+Clinic+And+Panchakarma+Center/@19.8162826,75.8739976,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda577062a01f19:0x795910edbf3b9717!8m2!3d19.8162826!4d75.8739976!16s%2Fg%2F11qnhrqhlf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajkar-s-hair-and-skin-clinic-jalna",
@@ -4983,7 +5025,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rajkar's+Hair+and+Skin+Clinic/@19.8507843,75.8993274,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59aa59161ed3:0xeb3cb68d1e331c40!8m2!3d19.8507843!4d75.8993274!16s%2Fg%2F11g1mj1b_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajkar's+Hair+and+Skin+Clinic/@19.8507843,75.8993274,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59aa59161ed3:0xeb3cb68d1e331c40!8m2!3d19.8507843!4d75.8993274!16s%2Fg%2F11g1mj1b_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5052,7 +5094,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajkar's+Hair+and+Skin+Clinic/@19.8507843,75.8993274,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59aa59161ed3:0xeb3cb68d1e331c40!8m2!3d19.8507843!4d75.8993274!16s%2Fg%2F11g1mj1b_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ruby-hospital-jalna",
@@ -5101,7 +5144,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ruby+Hospital/@19.8467696,75.9052458,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e367031cdd:0x603b1b1a8af9184e!8m2!3d19.8467696!4d75.9052458!16s%2Fg%2F1tgd9w48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ruby+Hospital/@19.8467696,75.9052458,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e367031cdd:0x603b1b1a8af9184e!8m2!3d19.8467696!4d75.9052458!16s%2Fg%2F1tgd9w48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5170,7 +5213,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ruby+Hospital/@19.8467696,75.9052458,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59e367031cdd:0x603b1b1a8af9184e!8m2!3d19.8467696!4d75.9052458!16s%2Fg%2F1tgd9w48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ruikhedkar-piles-hospital-jalna",
@@ -5219,7 +5263,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Ruikhedkar+piles+hospital/@19.8399932,75.8830263,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda570203184f95:0xfba4c17081d6caa6!8m2!3d19.8399932!4d75.8830263!16s%2Fg%2F11lm618527?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ruikhedkar+piles+hospital/@19.8399932,75.8830263,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda570203184f95:0xfba4c17081d6caa6!8m2!3d19.8399932!4d75.8830263!16s%2Fg%2F11lm618527?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5285,10 +5329,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ruikhedkar+piles+hospital/@19.8399932,75.8830263,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda570203184f95:0xfba4c17081d6caa6!8m2!3d19.8399932!4d75.8830263!16s%2Fg%2F11lm618527?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "runwal-accident-and-maternity-hospital-jalna",
@@ -5337,7 +5382,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Runwal+Accident+%26+Maternity+Hospital/@19.850035,75.8894488,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57502ed2a2f7:0x28441c8e315e304c!8m2!3d19.850035!4d75.8894488!16s%2Fg%2F1tfc51sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Runwal+Accident+%26+Maternity+Hospital/@19.850035,75.8894488,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57502ed2a2f7:0x28441c8e315e304c!8m2!3d19.850035!4d75.8894488!16s%2Fg%2F1tfc51sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5406,7 +5451,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Runwal+Accident+%26+Maternity+Hospital/@19.850035,75.8894488,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57502ed2a2f7:0x28441c8e315e304c!8m2!3d19.850035!4d75.8894488!16s%2Fg%2F1tfc51sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sachdev-child-hospital-jalna",
@@ -5455,7 +5501,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Sachdev+Child+Hospital/@19.8386397,75.8827448,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5743d371791b:0x61d9b8004f6bd383!8m2!3d19.8386397!4d75.8827448!16s%2Fg%2F1hjh18wp6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sachdev+Child+Hospital/@19.8386397,75.8827448,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5743d371791b:0x61d9b8004f6bd383!8m2!3d19.8386397!4d75.8827448!16s%2Fg%2F1hjh18wp6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5524,7 +5570,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sachdev+Child+Hospital/@19.8386397,75.8827448,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5743d371791b:0x61d9b8004f6bd383!8m2!3d19.8386397!4d75.8827448!16s%2Fg%2F1hjh18wp6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sahyadri-hospital-dr-pratap-ghodke-jalna",
@@ -5573,7 +5620,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sahyadri+Hospital+(Dr+Pratap+Ghodke)/@19.8299713,75.8795673,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5748798f7ebd:0x9305c6ad01fb7c0d!8m2!3d19.8299713!4d75.8795673!16s%2Fg%2F11c2ksgl8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahyadri+Hospital+(Dr+Pratap+Ghodke)/@19.8299713,75.8795673,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5748798f7ebd:0x9305c6ad01fb7c0d!8m2!3d19.8299713!4d75.8795673!16s%2Fg%2F11c2ksgl8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5642,7 +5689,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sahyadri+Hospital+(Dr+Pratap+Ghodke)/@19.8299713,75.8795673,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5748798f7ebd:0x9305c6ad01fb7c0d!8m2!3d19.8299713!4d75.8795673!16s%2Fg%2F11c2ksgl8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samarth-ivf-fertility-center-best-ivf-center-in-jalna-jalna",
@@ -5691,7 +5739,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Jalna/@19.8452126,75.9069028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5901a9ca3e53:0x71a3bbbbdba7f6b4!8m2!3d19.8452126!4d75.9069028!16s%2Fg%2F11vwvfsvkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Jalna/@19.8452126,75.9069028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5901a9ca3e53:0x71a3bbbbdba7f6b4!8m2!3d19.8452126!4d75.9069028!16s%2Fg%2F11vwvfsvkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5757,10 +5805,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samarth+IVF+Fertility+Center+-+Best+IVF+Center+in+Jalna/@19.8452126,75.9069028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5901a9ca3e53:0x71a3bbbbdba7f6b4!8m2!3d19.8452126!4d75.9069028!16s%2Fg%2F11vwvfsvkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjeevani-children-s-hospital-chhatrapati-sambhajinagar",
@@ -5809,7 +5858,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeevani+Children's+Hospital/@19.8748525,75.336117,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdb9815a369bc63:0xdf3579c5f51ea17b!8m2!3d19.8748525!4d75.336117!16s%2Fg%2F1td7xjz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Children's+Hospital/@19.8748525,75.336117,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdb9815a369bc63:0xdf3579c5f51ea17b!8m2!3d19.8748525!4d75.336117!16s%2Fg%2F1td7xjz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5878,7 +5927,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeevani+Children's+Hospital/@19.8748525,75.336117,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdb9815a369bc63:0xdf3579c5f51ea17b!8m2!3d19.8748525!4d75.336117!16s%2Fg%2F1td7xjz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "santkrupa-hospital-jalna",
@@ -5926,7 +5976,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Santkrupa+Hospital/@19.8451734,75.9200416,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59ec5fd62307:0x42c1e99ec94e928c!8m2!3d19.8451734!4d75.9200416!16s%2Fg%2F11b6gfgxgb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Santkrupa+Hospital/@19.8451734,75.9200416,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59ec5fd62307:0x42c1e99ec94e928c!8m2!3d19.8451734!4d75.9200416!16s%2Fg%2F11b6gfgxgb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5995,7 +6045,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Santkrupa+Hospital/@19.8451734,75.9200416,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59ec5fd62307:0x42c1e99ec94e928c!8m2!3d19.8451734!4d75.9200416!16s%2Fg%2F11b6gfgxgb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "satyavee-hair-skin-clinic-and-rootex-hair-transplant-centre-jalna",
@@ -6044,7 +6095,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Satyavee+Hair,+Skin+Clinic+%26+Rootex+Hair+Transplant+Centre/@19.8435876,75.922753,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fefeeb43b5:0x9b68178749aeaba0!8m2!3d19.8435876!4d75.922753!16s%2Fg%2F11m5jr_vrw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satyavee+Hair,+Skin+Clinic+%26+Rootex+Hair+Transplant+Centre/@19.8435876,75.922753,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fefeeb43b5:0x9b68178749aeaba0!8m2!3d19.8435876!4d75.922753!16s%2Fg%2F11m5jr_vrw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6110,10 +6161,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Satyavee+Hair,+Skin+Clinic+%26+Rootex+Hair+Transplant+Centre/@19.8435876,75.922753,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fefeeb43b5:0x9b68178749aeaba0!8m2!3d19.8435876!4d75.922753!16s%2Fg%2F11m5jr_vrw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "seth-nandlal-dhoot-hospital-and-research-foundation-chhatrapati-sambhajinagar",
@@ -6162,7 +6214,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Seth+Nandlal+Dhoot+Hospital+%26+Research+Foundation/@19.8727658,75.3877216,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba3965667a7e3:0x5cfe273abe04be5a!8m2!3d19.8727658!4d75.3877216!16s%2Fg%2F1tj2ly37?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seth+Nandlal+Dhoot+Hospital+%26+Research+Foundation/@19.8727658,75.3877216,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba3965667a7e3:0x5cfe273abe04be5a!8m2!3d19.8727658!4d75.3877216!16s%2Fg%2F1tj2ly37?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6231,7 +6283,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seth+Nandlal+Dhoot+Hospital+%26+Research+Foundation/@19.8727658,75.3877216,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba3965667a7e3:0x5cfe273abe04be5a!8m2!3d19.8727658!4d75.3877216!16s%2Fg%2F1tj2ly37?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharayu-hospital-jalna",
@@ -6279,7 +6332,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SHARAYU+HOSPITAL/@19.8433292,75.9264587,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59999113adfd:0x1ad4e4b61fbe7fb9!8m2!3d19.8433292!4d75.9264587!16s%2Fg%2F11smrz21sn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHARAYU+HOSPITAL/@19.8433292,75.9264587,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59999113adfd:0x1ad4e4b61fbe7fb9!8m2!3d19.8433292!4d75.9264587!16s%2Fg%2F11smrz21sn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6345,10 +6398,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHARAYU+HOSPITAL/@19.8433292,75.9264587,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59999113adfd:0x1ad4e4b61fbe7fb9!8m2!3d19.8433292!4d75.9264587!16s%2Fg%2F11smrz21sn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shashwat-piles-hospital-jalna",
@@ -6396,7 +6450,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Shashwat+Piles+Hospital/@19.8395012,75.8753137,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574364782221:0xd9b8bdf29c4a5f9!8m2!3d19.8395012!4d75.8753137!16s%2Fg%2F11bw3z98d_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shashwat+Piles+Hospital/@19.8395012,75.8753137,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574364782221:0xd9b8bdf29c4a5f9!8m2!3d19.8395012!4d75.8753137!16s%2Fg%2F11bw3z98d_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6465,7 +6519,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shashwat+Piles+Hospital/@19.8395012,75.8753137,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda574364782221:0xd9b8bdf29c4a5f9!8m2!3d19.8395012!4d75.8753137!16s%2Fg%2F11bw3z98d_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-samarth-hospital-and-maternity-home-best-multispecilist-hospital-in-jalna-jalna",
@@ -6513,7 +6568,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Samarth+Hospital+%26+Maternity+Home+%7C+Best+Multispecilist+Hospital+in+Jalna/@19.8413823,75.8881303,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59cb820cfce5:0x2a54bb0ca931b42c!8m2!3d19.8413823!4d75.8881303!16s%2Fg%2F11qbhty67l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Samarth+Hospital+%26+Maternity+Home+%7C+Best+Multispecilist+Hospital+in+Jalna/@19.8413823,75.8881303,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59cb820cfce5:0x2a54bb0ca931b42c!8m2!3d19.8413823!4d75.8881303!16s%2Fg%2F11qbhty67l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6582,7 +6637,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Samarth+Hospital+%26+Maternity+Home+%7C+Best+Multispecilist+Hospital+in+Jalna/@19.8413823,75.8881303,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59cb820cfce5:0x2a54bb0ca931b42c!8m2!3d19.8413823!4d75.8881303!16s%2Fg%2F11qbhty67l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-krishna-netralaya-chhatrapati-sambhajinagar",
@@ -6632,7 +6688,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Krishna+Netralaya/@19.8770611,75.3467952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba29c6c6962ad:0xbb197a39de8de742!8m2!3d19.8770611!4d75.3467952!16s%2Fg%2F11bzs4knqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Krishna+Netralaya/@19.8770611,75.3467952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba29c6c6962ad:0xbb197a39de8de742!8m2!3d19.8770611!4d75.3467952!16s%2Fg%2F11bzs4knqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6701,7 +6757,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Krishna+Netralaya/@19.8770611,75.3467952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdba29c6c6962ad:0xbb197a39de8de742!8m2!3d19.8770611!4d75.3467952!16s%2Fg%2F11bzs4knqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smt-lalita-cancer-hospital-jalna",
@@ -6748,7 +6805,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Smt.+Lalita+Cancer+Hospital/@19.8346659,75.8816345,12z/data=!3m1!4b1!4m6!3m5!1s0x3bda576a08672d1f:0x27ebb14598d11640!8m2!3d19.8346659!4d75.8816345!16s%2Fg%2F11mxclzzn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smt.+Lalita+Cancer+Hospital/@19.8346659,75.8816345,12z/data=!3m1!4b1!4m6!3m5!1s0x3bda576a08672d1f:0x27ebb14598d11640!8m2!3d19.8346659!4d75.8816345!16s%2Fg%2F11mxclzzn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6814,10 +6871,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smt.+Lalita+Cancer+Hospital/@19.8346659,75.8816345,12z/data=!3m1!4b1!4m6!3m5!1s0x3bda576a08672d1f:0x27ebb14598d11640!8m2!3d19.8346659!4d75.8816345!16s%2Fg%2F11mxclzzn7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thatte-hospital-jalna",
@@ -6865,7 +6923,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Thatte+Hospital/@19.840969,75.8907307,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5700ef11970b:0xb85ef2da1a1414b0!8m2!3d19.840969!4d75.8907307!16s%2Fg%2F11fjnc3dyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thatte+Hospital/@19.840969,75.8907307,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5700ef11970b:0xb85ef2da1a1414b0!8m2!3d19.840969!4d75.8907307!16s%2Fg%2F11fjnc3dyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6934,7 +6992,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thatte+Hospital/@19.840969,75.8907307,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda5700ef11970b:0xb85ef2da1a1414b0!8m2!3d19.840969!4d75.8907307!16s%2Fg%2F11fjnc3dyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "transform-advanced-cosmetic-clinic-jalna",
@@ -6982,7 +7041,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Transform+Advanced+Cosmetic+Clinic/@19.8519808,75.9013731,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59567561f385:0x70c0bdec83036ea9!8m2!3d19.8519808!4d75.9013731!16s%2Fg%2F11mn6vbssv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Transform+Advanced+Cosmetic+Clinic/@19.8519808,75.9013731,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59567561f385:0x70c0bdec83036ea9!8m2!3d19.8519808!4d75.9013731!16s%2Fg%2F11mn6vbssv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7051,7 +7110,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Transform+Advanced+Cosmetic+Clinic/@19.8519808,75.9013731,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59567561f385:0x70c0bdec83036ea9!8m2!3d19.8519808!4d75.9013731!16s%2Fg%2F11mn6vbssv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "varad-hospital-and-criticare-jalna",
@@ -7099,7 +7159,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/VARAD+HOSPITAL+AND+CRITICARE/@19.8386397,75.8827448,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57435e167dff:0x4f73b23e599f7b1c!8m2!3d19.8386397!4d75.8827448!16s%2Fg%2F1hjgrx7y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VARAD+HOSPITAL+AND+CRITICARE/@19.8386397,75.8827448,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57435e167dff:0x4f73b23e599f7b1c!8m2!3d19.8386397!4d75.8827448!16s%2Fg%2F1hjgrx7y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7168,7 +7228,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VARAD+HOSPITAL+AND+CRITICARE/@19.8386397,75.8827448,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57435e167dff:0x4f73b23e599f7b1c!8m2!3d19.8386397!4d75.8827448!16s%2Fg%2F1hjgrx7y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "venkateshwara-hospital-jalna",
@@ -7217,7 +7278,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/VENKATESHWARA+HOSPITAL/@19.8296892,75.8800303,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57bf66f20aaf:0x4ec3e35c5983f1fe!8m2!3d19.8296892!4d75.8800303!16s%2Fg%2F11q4hfkm74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VENKATESHWARA+HOSPITAL/@19.8296892,75.8800303,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57bf66f20aaf:0x4ec3e35c5983f1fe!8m2!3d19.8296892!4d75.8800303!16s%2Fg%2F11q4hfkm74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7286,7 +7347,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VENKATESHWARA+HOSPITAL/@19.8296892,75.8800303,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57bf66f20aaf:0x4ec3e35c5983f1fe!8m2!3d19.8296892!4d75.8800303!16s%2Fg%2F11q4hfkm74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vighnaharta-hospital-jalna",
@@ -7334,7 +7396,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Vighnaharta+Hospital/@19.849642,75.86968,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57313ec52ceb:0xc16b553b5b37e074!8m2!3d19.849642!4d75.86968!16s%2Fg%2F11sbr08hbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vighnaharta+Hospital/@19.849642,75.86968,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57313ec52ceb:0xc16b553b5b37e074!8m2!3d19.849642!4d75.86968!16s%2Fg%2F11sbr08hbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7403,7 +7465,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vighnaharta+Hospital/@19.849642,75.86968,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57313ec52ceb:0xc16b553b5b37e074!8m2!3d19.849642!4d75.86968!16s%2Fg%2F11sbr08hbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vira-medicity-hospital-jalna-jalna",
@@ -7451,7 +7514,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/VIRA+MEDICITY+HOSPITAL,+JALNA/@19.8328994,75.9115352,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59001c89a78b:0x9586ca5e2542a953!8m2!3d19.8328994!4d75.9115352!16s%2Fg%2F11y417hx0z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIRA+MEDICITY+HOSPITAL,+JALNA/@19.8328994,75.9115352,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59001c89a78b:0x9586ca5e2542a953!8m2!3d19.8328994!4d75.9115352!16s%2Fg%2F11y417hx0z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7520,7 +7583,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VIRA+MEDICITY+HOSPITAL,+JALNA/@19.8328994,75.9115352,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59001c89a78b:0x9586ca5e2542a953!8m2!3d19.8328994!4d75.9115352!16s%2Fg%2F11y417hx0z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vivekanand-hospital-jalna",
@@ -7568,7 +7632,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Vivekanand+Hospital/@19.8527657,75.8977108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fa4518db6d:0xf6bc1a5f848989d4!8m2!3d19.8527657!4d75.8977108!16s%2Fg%2F11cly5g422?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vivekanand+Hospital/@19.8527657,75.8977108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fa4518db6d:0xf6bc1a5f848989d4!8m2!3d19.8527657!4d75.8977108!16s%2Fg%2F11cly5g422?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7637,7 +7701,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vivekanand+Hospital/@19.8527657,75.8977108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda59fa4518db6d:0xf6bc1a5f848989d4!8m2!3d19.8527657!4d75.8977108!16s%2Fg%2F11cly5g422?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wankhade-kidney-hospital-ahilyanagar",
@@ -7686,7 +7751,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Wankhade+Kidney+Hospital/@19.1074282,74.7418599,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdcb07961aac345:0x33fab37d3efca0a0!8m2!3d19.1074282!4d74.7418599!16s%2Fg%2F11c5ww_mwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wankhade+Kidney+Hospital/@19.1074282,74.7418599,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdcb07961aac345:0x33fab37d3efca0a0!8m2!3d19.1074282!4d74.7418599!16s%2Fg%2F11c5ww_mwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7755,7 +7820,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Wankhade+Kidney+Hospital/@19.1074282,74.7418599,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdcb07961aac345:0x33fab37d3efca0a0!8m2!3d19.1074282!4d74.7418599!16s%2Fg%2F11c5ww_mwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "warkad-hospital-jalna",
@@ -7803,7 +7869,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Warkad+Hospital/@19.8586661,75.8884397,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda50ad54e5932d:0x3952879cfa2c5891!8m2!3d19.8586661!4d75.8884397!16s%2Fg%2F1hg4t21j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Warkad+Hospital/@19.8586661,75.8884397,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda50ad54e5932d:0x3952879cfa2c5891!8m2!3d19.8586661!4d75.8884397!16s%2Fg%2F1hg4t21j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7872,7 +7938,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Warkad+Hospital/@19.8586661,75.8884397,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda50ad54e5932d:0x3952879cfa2c5891!8m2!3d19.8586661!4d75.8884397!16s%2Fg%2F1hg4t21j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jalna",
@@ -7920,7 +7987,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/@19.8412396,75.8884183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57b9df0cb021:0x89407a723279e701!8m2!3d19.8412396!4d75.8884183!16s%2Fg%2F11rvcs841c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/@19.8412396,75.8884183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57b9df0cb021:0x89407a723279e701!8m2!3d19.8412396!4d75.8884183!16s%2Fg%2F11rvcs841c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7989,6 +8056,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/@19.8412396,75.8884183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bda57b9df0cb021:0x89407a723279e701!8m2!3d19.8412396!4d75.8884183!16s%2Fg%2F11rvcs841c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

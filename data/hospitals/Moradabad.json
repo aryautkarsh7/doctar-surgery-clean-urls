@@ -46,7 +46,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/24%2F7+Emergency+%26+Ambulance+Services+in+Moradabad+-+Asian+Hospital/@28.8839393,78.7367441,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff2dadc27f73:0xd2982644fdd7e90e!8m2!3d28.8839393!4d78.7367441!16s%2Fg%2F11yx60xczp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/24%2F7+Emergency+%26+Ambulance+Services+in+Moradabad+-+Asian+Hospital/@28.8839393,78.7367441,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff2dadc27f73:0xd2982644fdd7e90e!8m2!3d28.8839393!4d78.7367441!16s%2Fg%2F11yx60xczp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -112,10 +112,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/24%2F7+Emergency+%26+Ambulance+Services+in+Moradabad+-+Asian+Hospital/@28.8839393,78.7367441,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff2dadc27f73:0xd2982644fdd7e90e!8m2!3d28.8839393!4d78.7367441!16s%2Fg%2F11yx60xczp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aarush-nursing-home-moradabad",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/AARUSH+NURSING+HOME/@28.833686,78.7234748,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc055bd31fcd:0xa725239347613cd2!8m2!3d28.833686!4d78.7234748!16s%2Fg%2F11g9jvymh2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AARUSH+NURSING+HOME/@28.833686,78.7234748,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc055bd31fcd:0xa725239347613cd2!8m2!3d28.833686!4d78.7234748!16s%2Fg%2F11g9jvymh2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -232,7 +233,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AARUSH+NURSING+HOME/@28.833686,78.7234748,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc055bd31fcd:0xa725239347613cd2!8m2!3d28.833686!4d78.7234748!16s%2Fg%2F11g9jvymh2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advance-iris-hair-and-laser-skin-clinic-moradabad",
@@ -282,7 +284,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Advance+Iris+Hair+%26+Laser+Skin+Clinic/@28.8683302,78.7488425,17z/data=!3m1!4b1!4m6!3m5!1s0x390af95f5713f2b7:0x658c3ad4a96e23d9!8m2!3d28.8683302!4d78.7488425!16s%2Fg%2F11vl6slb03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Iris+Hair+%26+Laser+Skin+Clinic/@28.8683302,78.7488425,17z/data=!3m1!4b1!4m6!3m5!1s0x390af95f5713f2b7:0x658c3ad4a96e23d9!8m2!3d28.8683302!4d78.7488425!16s%2Fg%2F11vl6slb03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -351,7 +353,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+Iris+Hair+%26+Laser+Skin+Clinic/@28.8683302,78.7488425,17z/data=!3m1!4b1!4m6!3m5!1s0x390af95f5713f2b7:0x658c3ad4a96e23d9!8m2!3d28.8683302!4d78.7488425!16s%2Fg%2F11vl6slb03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "afi-dental-care-moradabad",
@@ -399,7 +402,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Afi+Dental+Care/@28.8740049,78.7439656,17z/data=!3m1!4b1!4m6!3m5!1s0x390afeb59705f2ef:0xcb1f2d6afee15abf!8m2!3d28.8740049!4d78.7439656!16s%2Fg%2F11fd0__s6f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Afi+Dental+Care/@28.8740049,78.7439656,17z/data=!3m1!4b1!4m6!3m5!1s0x390afeb59705f2ef:0xcb1f2d6afee15abf!8m2!3d28.8740049!4d78.7439656!16s%2Fg%2F11fd0__s6f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -468,7 +471,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Afi+Dental+Care/@28.8740049,78.7439656,17z/data=!3m1!4b1!4m6!3m5!1s0x390afeb59705f2ef:0xcb1f2d6afee15abf!8m2!3d28.8740049!4d78.7439656!16s%2Fg%2F11fd0__s6f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "agarwal-hospital-kashipur",
@@ -516,7 +520,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/AGARWAL+HOSPITAL/@29.2038233,78.9475259,17z/data=!3m1!4b1!4m6!3m5!1s0x390a43faf5e947b3:0xb4a0ca050bef70a0!8m2!3d29.2038233!4d78.9475259!16s%2Fg%2F11v09538xg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AGARWAL+HOSPITAL/@29.2038233,78.9475259,17z/data=!3m1!4b1!4m6!3m5!1s0x390a43faf5e947b3:0xb4a0ca050bef70a0!8m2!3d29.2038233!4d78.9475259!16s%2Fg%2F11v09538xg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -585,7 +589,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AGARWAL+HOSPITAL/@29.2038233,78.9475259,17z/data=!3m1!4b1!4m6!3m5!1s0x390a43faf5e947b3:0xb4a0ca050bef70a0!8m2!3d29.2038233!4d78.9475259!16s%2Fg%2F11v09538xg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "agrawal-nursing-home-moradabad",
@@ -634,7 +639,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Agrawal+Nursing+Home/@28.837893,78.7410719,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc0f26f6fac5:0x6115d507f82a0d0b!8m2!3d28.837893!4d78.7410719!16s%2Fg%2F11dxb_7932?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agrawal+Nursing+Home/@28.837893,78.7410719,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc0f26f6fac5:0x6115d507f82a0d0b!8m2!3d28.837893!4d78.7410719!16s%2Fg%2F11dxb_7932?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -703,7 +708,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Agrawal+Nursing+Home/@28.837893,78.7410719,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc0f26f6fac5:0x6115d507f82a0d0b!8m2!3d28.837893!4d78.7410719!16s%2Fg%2F11dxb_7932?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ahmad-hospital-moradabad",
@@ -751,7 +757,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Ahmad+Hospital/@28.8442305,78.7749626,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbdc85555555:0xe362f43a170bccdf!8m2!3d28.8442305!4d78.7749626!16s%2Fg%2F11ggs439jr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahmad+Hospital/@28.8442305,78.7749626,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbdc85555555:0xe362f43a170bccdf!8m2!3d28.8442305!4d78.7749626!16s%2Fg%2F11ggs439jr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -820,7 +826,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ahmad+Hospital/@28.8442305,78.7749626,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbdc85555555:0xe362f43a170bccdf!8m2!3d28.8442305!4d78.7749626!16s%2Fg%2F11ggs439jr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "akansha-nursing-home-moradabad",
@@ -868,7 +875,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Akansha+Nursing+Home/data=!4m7!3m6!1s0x390afc3d00000001:0x6e2e44af6a12328f!8m2!3d28.8374571!4d78.738532!16s%2Fg%2F11cjqv1ztc!19sChIJAQAAAD38CjkRjzISaq9ELm4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akansha+Nursing+Home/data=!4m7!3m6!1s0x390afc3d00000001:0x6e2e44af6a12328f!8m2!3d28.8374571!4d78.738532!16s%2Fg%2F11cjqv1ztc!19sChIJAQAAAD38CjkRjzISaq9ELm4?authuser=0&hl=en&rclk=1"
@@ -937,7 +944,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Akansha+Nursing+Home/data=!4m7!3m6!1s0x390afc3d00000001:0x6e2e44af6a12328f!8m2!3d28.8374571!4d78.738532!16s%2Fg%2F11cjqv1ztc!19sChIJAQAAAD38CjkRjzISaq9ELm4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "anand-health-center-best-nicu-ventilator-and-phototheraphy-best-newborn-care-vaccination-emg-24-7-moradabad",
@@ -986,7 +994,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Anand+Health+Center+Best+Nicu+(Ventilator+and+phototheraphy)+,+Best+Newborn+Care+,+Vaccination+Emg+24%2F7/@28.8376771,78.7516705,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb9a4a33f81f:0xe93cec0558609377!8m2!3d28.8376771!4d78.7516705!16s%2Fg%2F11t7s6fzrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Health+Center+Best+Nicu+(Ventilator+and+phototheraphy)+,+Best+Newborn+Care+,+Vaccination+Emg+24%2F7/@28.8376771,78.7516705,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb9a4a33f81f:0xe93cec0558609377!8m2!3d28.8376771!4d78.7516705!16s%2Fg%2F11t7s6fzrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1055,7 +1063,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anand+Health+Center+Best+Nicu+(Ventilator+and+phototheraphy)+,+Best+Newborn+Care+,+Vaccination+Emg+24%2F7/@28.8376771,78.7516705,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb9a4a33f81f:0xe93cec0558609377!8m2!3d28.8376771!4d78.7516705!16s%2Fg%2F11t7s6fzrq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anand-hospital-moradabad",
@@ -1103,7 +1112,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Anand+Hospital/@28.8246719,78.7761022,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbb8ada0cf9:0x794201d6ac632e4c!8m2!3d28.8246719!4d78.7761022!16s%2Fg%2F11c1r71v4r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Hospital/@28.8246719,78.7761022,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbb8ada0cf9:0x794201d6ac632e4c!8m2!3d28.8246719!4d78.7761022!16s%2Fg%2F11c1r71v4r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1172,7 +1181,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anand+Hospital/@28.8246719,78.7761022,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbb8ada0cf9:0x794201d6ac632e4c!8m2!3d28.8246719!4d78.7761022!16s%2Fg%2F11c1r71v4r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "angel-heart-centre-moradabad",
@@ -1221,7 +1231,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Angel+Heart+Centre/@28.8709244,78.7539325,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9495960d51f:0x8e06c60ea5badae0!8m2!3d28.8709244!4d78.7539325!16s%2Fg%2F11bv1c8gr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Angel+Heart+Centre/@28.8709244,78.7539325,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9495960d51f:0x8e06c60ea5badae0!8m2!3d28.8709244!4d78.7539325!16s%2Fg%2F11bv1c8gr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1290,7 +1300,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Angel+Heart+Centre/@28.8709244,78.7539325,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9495960d51f:0x8e06c60ea5badae0!8m2!3d28.8709244!4d78.7539325!16s%2Fg%2F11bv1c8gr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apex-hospital-moradabad",
@@ -1339,7 +1350,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apex+Hospital/@28.833492,78.7456393,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc0ba202f737:0xf4253d8e4bc1dcc7!8m2!3d28.833492!4d78.7456393!16s%2Fg%2F11f4pm93n2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Hospital/@28.833492,78.7456393,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc0ba202f737:0xf4253d8e4bc1dcc7!8m2!3d28.833492!4d78.7456393!16s%2Fg%2F11f4pm93n2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1408,7 +1419,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+Hospital/@28.833492,78.7456393,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc0ba202f737:0xf4253d8e4bc1dcc7!8m2!3d28.833492!4d78.7456393!16s%2Fg%2F11f4pm93n2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-proton-therapy-in-moradabad-moradabad",
@@ -1457,7 +1469,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Moradabad/@28.832358,78.788124,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb5af4b49915:0xd67135f6cf73a8ae!8m2!3d28.832358!4d78.788124!16s%2Fg%2F11xtx018nq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Moradabad/@28.832358,78.788124,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb5af4b49915:0xd67135f6cf73a8ae!8m2!3d28.832358!4d78.788124!16s%2Fg%2F11xtx018nq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1523,10 +1535,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Moradabad/@28.832358,78.788124,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb5af4b49915:0xd67135f6cf73a8ae!8m2!3d28.832358!4d78.788124!16s%2Fg%2F11xtx018nq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashfaq-medicity-moradabad",
@@ -1575,7 +1588,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ashfaq+Medicity/@28.8242603,78.7823813,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbb08f745513:0x9cfcadc84d55bca8!8m2!3d28.8242603!4d78.7823813!16s%2Fg%2F11l6tmkf36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashfaq+Medicity/@28.8242603,78.7823813,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbb08f745513:0x9cfcadc84d55bca8!8m2!3d28.8242603!4d78.7823813!16s%2Fg%2F11l6tmkf36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1641,10 +1654,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashfaq+Medicity/@28.8242603,78.7823813,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbb08f745513:0x9cfcadc84d55bca8!8m2!3d28.8242603!4d78.7823813!16s%2Fg%2F11l6tmkf36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "asian-centre-for-advanced-imaging-top-radiology-and-diagnostic-imaging-centre-in-moradabad-moradabad",
@@ -1693,7 +1707,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Asian+Centre+for+Advanced+Imaging+-+Top+Radiology+%26+Diagnostic+Imaging+Centre+in+Moradabad/@28.8837569,78.736838,17z/data=!3m1!4b1!4m6!3m5!1s0x390affe3f06548a7:0x8f7d88db320dede3!8m2!3d28.8837569!4d78.736838!16s%2Fg%2F11yx5ydw4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Centre+for+Advanced+Imaging+-+Top+Radiology+%26+Diagnostic+Imaging+Centre+in+Moradabad/@28.8837569,78.736838,17z/data=!3m1!4b1!4m6!3m5!1s0x390affe3f06548a7:0x8f7d88db320dede3!8m2!3d28.8837569!4d78.736838!16s%2Fg%2F11yx5ydw4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1759,10 +1773,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asian+Centre+for+Advanced+Imaging+-+Top+Radiology+%26+Diagnostic+Imaging+Centre+in+Moradabad/@28.8837569,78.736838,17z/data=!3m1!4b1!4m6!3m5!1s0x390affe3f06548a7:0x8f7d88db320dede3!8m2!3d28.8837569!4d78.736838!16s%2Fg%2F11yx5ydw4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "asian-centre-for-renal-disease-and-urology-top-kidney-and-urology-specialists-in-moradabad-moradabad",
@@ -1812,7 +1827,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Asian+Centre+for+Renal+Disease+%26+Urology+-+Top+Kidney+%26+Urology+Specialists+in+Moradabad/@28.8837569,78.736838,17z/data=!3m1!4b1!4m6!3m5!1s0x390affce8d383f45:0x9b6b56fbf3eb0570!8m2!3d28.8837569!4d78.736838!16s%2Fg%2F11yw0rv4wk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Centre+for+Renal+Disease+%26+Urology+-+Top+Kidney+%26+Urology+Specialists+in+Moradabad/@28.8837569,78.736838,17z/data=!3m1!4b1!4m6!3m5!1s0x390affce8d383f45:0x9b6b56fbf3eb0570!8m2!3d28.8837569!4d78.736838!16s%2Fg%2F11yw0rv4wk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1878,10 +1893,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asian+Centre+for+Renal+Disease+%26+Urology+-+Top+Kidney+%26+Urology+Specialists+in+Moradabad/@28.8837569,78.736838,17z/data=!3m1!4b1!4m6!3m5!1s0x390affce8d383f45:0x9b6b56fbf3eb0570!8m2!3d28.8837569!4d78.736838!16s%2Fg%2F11yw0rv4wk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "avs-hospital-moradabad",
@@ -1929,7 +1945,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/AVS+Hospital/@28.8395397,78.8275491,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb07a02dd757:0x88f89dbf785e8c0f!8m2!3d28.8395397!4d78.8275491!16s%2Fg%2F11n0d9l1f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AVS+Hospital/@28.8395397,78.8275491,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb07a02dd757:0x88f89dbf785e8c0f!8m2!3d28.8395397!4d78.8275491!16s%2Fg%2F11n0d9l1f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1998,7 +2014,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AVS+Hospital/@28.8395397,78.8275491,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb07a02dd757:0x88f89dbf785e8c0f!8m2!3d28.8395397!4d78.8275491!16s%2Fg%2F11n0d9l1f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bansal-laproscopy-maternity-urology-and-infertility-centre-moradabad",
@@ -2047,7 +2064,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Bansal+Laproscopy+Maternity,+Urology+%26+Infertility+Centre/@28.8274456,78.7719066,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbe41bb8dc1:0x2dab40821650b60a!8m2!3d28.8274456!4d78.7719066!16s%2Fg%2F11g6yl4jxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal+Laproscopy+Maternity,+Urology+%26+Infertility+Centre/@28.8274456,78.7719066,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbe41bb8dc1:0x2dab40821650b60a!8m2!3d28.8274456!4d78.7719066!16s%2Fg%2F11g6yl4jxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2113,10 +2130,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bansal+Laproscopy+Maternity,+Urology+%26+Infertility+Centre/@28.8274456,78.7719066,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbe41bb8dc1:0x2dab40821650b60a!8m2!3d28.8274456!4d78.7719066!16s%2Fg%2F11g6yl4jxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bansal-nursing-home-and-leproscopy-center-moradabad",
@@ -2165,7 +2183,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Bansal+Nursing+Home+%26+Leproscopy+Center/@28.8273922,78.7719916,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbef9649d95:0x817d9b3e852193c2!8m2!3d28.8273922!4d78.7719916!16s%2Fg%2F11c31n3zns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal+Nursing+Home+%26+Leproscopy+Center/@28.8273922,78.7719916,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbef9649d95:0x817d9b3e852193c2!8m2!3d28.8273922!4d78.7719916!16s%2Fg%2F11c31n3zns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2234,7 +2252,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bansal+Nursing+Home+%26+Leproscopy+Center/@28.8273922,78.7719916,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbef9649d95:0x817d9b3e852193c2!8m2!3d28.8273922!4d78.7719916!16s%2Fg%2F11c31n3zns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "batra-nursing-home-maternity-centre-gynae-facility-laparoscopic-surgery-infertility-centre-in-moradabad-moradabad",
@@ -2284,7 +2303,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Batra+Nursing+Home+-+Maternity+Centre+%7C+Gynae+Facility+%7C+Laparoscopic+Surgery+%7C+Infertility+Centre+in+Moradabad/data=!4m7!3m6!1s0x390afbdcfea11ef7:0x972d1e16afa554f6!8m2!3d28.8458763!4d78.7736353!16s%2Fg%2F12qgh4p2y!19sChIJ9x6h_tz7CjkR9lSlrxYeLZc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Batra+Nursing+Home+-+Maternity+Centre+%7C+Gynae+Facility+%7C+Laparoscopic+Surgery+%7C+Infertility+Centre+in+Moradabad/data=!4m7!3m6!1s0x390afbdcfea11ef7:0x972d1e16afa554f6!8m2!3d28.8458763!4d78.7736353!16s%2Fg%2F12qgh4p2y!19sChIJ9x6h_tz7CjkR9lSlrxYeLZc?authuser=0&hl=en&rclk=1"
@@ -2353,7 +2372,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Batra+Nursing+Home+-+Maternity+Centre+%7C+Gynae+Facility+%7C+Laparoscopic+Surgery+%7C+Infertility+Centre+in+Moradabad/data=!4m7!3m6!1s0x390afbdcfea11ef7:0x972d1e16afa554f6!8m2!3d28.8458763!4d78.7736353!16s%2Fg%2F12qgh4p2y!19sChIJ9x6h_tz7CjkR9lSlrxYeLZc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bright-smile-dental-clinic-and-braces-centre-moradabad-opp-v-k-s-public-school",
@@ -2401,7 +2421,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/BRIGHT+SMILE+DENTAL+CLINIC+%26+BRACES+CENTRE/@28.8319833,78.7451716,17z/data=!3m1!4b1!4m6!3m5!1s0x3996b54192fb4607:0xeb6ccbf2aa86363f!8m2!3d28.8319833!4d78.7451716!16s%2Fg%2F11ggbrvzdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BRIGHT+SMILE+DENTAL+CLINIC+%26+BRACES+CENTRE/@28.8319833,78.7451716,17z/data=!3m1!4b1!4m6!3m5!1s0x3996b54192fb4607:0xeb6ccbf2aa86363f!8m2!3d28.8319833!4d78.7451716!16s%2Fg%2F11ggbrvzdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2470,7 +2490,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BRIGHT+SMILE+DENTAL+CLINIC+%26+BRACES+CENTRE/@28.8319833,78.7451716,17z/data=!3m1!4b1!4m6!3m5!1s0x3996b54192fb4607:0xeb6ccbf2aa86363f!8m2!3d28.8319833!4d78.7451716!16s%2Fg%2F11ggbrvzdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "central-medikare-hospital-moradabad",
@@ -2519,7 +2540,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CENTRAL+MEDIKARE+HOSPITAL/@28.8866724,78.73999,17z/data=!3m1!4b1!4m6!3m5!1s0x390afed1d7517727:0x86c1487f164ab81e!8m2!3d28.8866724!4d78.73999!16s%2Fg%2F11g68xlvlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CENTRAL+MEDIKARE+HOSPITAL/@28.8866724,78.73999,17z/data=!3m1!4b1!4m6!3m5!1s0x390afed1d7517727:0x86c1487f164ab81e!8m2!3d28.8866724!4d78.73999!16s%2Fg%2F11g68xlvlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2588,7 +2609,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CENTRAL+MEDIKARE+HOSPITAL/@28.8866724,78.73999,17z/data=!3m1!4b1!4m6!3m5!1s0x390afed1d7517727:0x86c1487f164ab81e!8m2!3d28.8866724!4d78.73999!16s%2Fg%2F11g68xlvlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chaman-hospital-moradabad",
@@ -2636,7 +2658,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Chaman+Hospital/@28.8352638,78.7860546,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc9992ffa2b:0x5f94b84adecd53cc!8m2!3d28.8352638!4d78.7860546!16s%2Fg%2F11ffvst1_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaman+Hospital/@28.8352638,78.7860546,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc9992ffa2b:0x5f94b84adecd53cc!8m2!3d28.8352638!4d78.7860546!16s%2Fg%2F11ffvst1_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2705,7 +2727,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chaman+Hospital/@28.8352638,78.7860546,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc9992ffa2b:0x5f94b84adecd53cc!8m2!3d28.8352638!4d78.7860546!16s%2Fg%2F11ffvst1_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chiranjeev-hospital-moradabad",
@@ -2753,7 +2776,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Chiranjeev+Hospital/@28.8509127,78.7690712,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe08c55493d:0xe696f468d846cd2f!8m2!3d28.8509127!4d78.7690712!16s%2Fg%2F1hc53s_gx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chiranjeev+Hospital/@28.8509127,78.7690712,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe08c55493d:0xe696f468d846cd2f!8m2!3d28.8509127!4d78.7690712!16s%2Fg%2F1hc53s_gx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2822,7 +2845,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chiranjeev+Hospital/@28.8509127,78.7690712,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe08c55493d:0xe696f468d846cd2f!8m2!3d28.8509127!4d78.7690712!16s%2Fg%2F1hc53s_gx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chugh-nursing-home-moradabad",
@@ -2870,7 +2894,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Chugh+Nursing+Home/@28.8809501,78.7422481,17z/data=!3m1!4b1!4m6!3m5!1s0x390afecbff5fe69f:0x7bda593c8cf8536a!8m2!3d28.8809501!4d78.7422481!16s%2Fg%2F11g9fp_mck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chugh+Nursing+Home/@28.8809501,78.7422481,17z/data=!3m1!4b1!4m6!3m5!1s0x390afecbff5fe69f:0x7bda593c8cf8536a!8m2!3d28.8809501!4d78.7422481!16s%2Fg%2F11g9fp_mck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2939,7 +2963,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chugh+Nursing+Home/@28.8809501,78.7422481,17z/data=!3m1!4b1!4m6!3m5!1s0x390afecbff5fe69f:0x7bda593c8cf8536a!8m2!3d28.8809501!4d78.7422481!16s%2Fg%2F11g9fp_mck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-dental-clinic-best-dental-clinic-clinic-for-implants-and-braces-best-dentist-moradabad",
@@ -2988,7 +3013,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CITY+DENTAL+CLINIC+-BEST+DENTAL+CLINIC+-CLINIC+FOR+IMPLANTS+AND+BRACES-BEST+DENTIST/@28.8287343,78.7781809,17z/data=!3m1!4b1!4m6!3m5!1s0x390afba59f2602eb:0x64382bebc054de1a!8m2!3d28.8287343!4d78.7781809!16s%2Fg%2F11vk6ljszm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CITY+DENTAL+CLINIC+-BEST+DENTAL+CLINIC+-CLINIC+FOR+IMPLANTS+AND+BRACES-BEST+DENTIST/@28.8287343,78.7781809,17z/data=!3m1!4b1!4m6!3m5!1s0x390afba59f2602eb:0x64382bebc054de1a!8m2!3d28.8287343!4d78.7781809!16s%2Fg%2F11vk6ljszm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3054,10 +3079,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CITY+DENTAL+CLINIC+-BEST+DENTAL+CLINIC+-CLINIC+FOR+IMPLANTS+AND+BRACES-BEST+DENTIST/@28.8287343,78.7781809,17z/data=!3m1!4b1!4m6!3m5!1s0x390afba59f2602eb:0x64382bebc054de1a!8m2!3d28.8287343!4d78.7781809!16s%2Fg%2F11vk6ljszm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cosmedicaa-aesthetic-and-cosmetic-medicine-centre-laser-skin-anti-aging-hair-moradabad",
@@ -3105,7 +3131,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Cosmedicaa+Aesthetic+and+cosmetic+medicine+centre+laser+skin+anti+aging+hair/@28.8474086,78.7663437,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb1b34eb9807:0x7a2f93e51d232685!8m2!3d28.8474086!4d78.7663437!16s%2Fg%2F11v01tzrs6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmedicaa+Aesthetic+and+cosmetic+medicine+centre+laser+skin+anti+aging+hair/@28.8474086,78.7663437,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb1b34eb9807:0x7a2f93e51d232685!8m2!3d28.8474086!4d78.7663437!16s%2Fg%2F11v01tzrs6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3171,10 +3197,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmedicaa+Aesthetic+and+cosmetic+medicine+centre+laser+skin+anti+aging+hair/@28.8474086,78.7663437,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb1b34eb9807:0x7a2f93e51d232685!8m2!3d28.8474086!4d78.7663437!16s%2Fg%2F11v01tzrs6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "crest-galaxy-cancer-institute-moradabad",
@@ -3223,7 +3250,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Crest+Galaxy+Cancer+Institute/@28.8907383,78.7307193,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff007ec70917:0x85abd09abe15498a!8m2!3d28.8907383!4d78.7307193!16s%2Fg%2F11y6m0wjg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Crest+Galaxy+Cancer+Institute/@28.8907383,78.7307193,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff007ec70917:0x85abd09abe15498a!8m2!3d28.8907383!4d78.7307193!16s%2Fg%2F11y6m0wjg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3289,10 +3316,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Crest+Galaxy+Cancer+Institute/@28.8907383,78.7307193,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff007ec70917:0x85abd09abe15498a!8m2!3d28.8907383!4d78.7307193!16s%2Fg%2F11y6m0wjg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "crest-hospital-moradabad",
@@ -3341,7 +3369,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Crest+Hospital/@28.8906301,78.7307222,17z/data=!3m1!4b1!4m6!3m5!1s0x390afedbf825cd21:0xbe300c4312e0ab10!8m2!3d28.8906301!4d78.7307222!16s%2Fg%2F11fyzfrxt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Crest+Hospital/@28.8906301,78.7307222,17z/data=!3m1!4b1!4m6!3m5!1s0x390afedbf825cd21:0xbe300c4312e0ab10!8m2!3d28.8906301!4d78.7307222!16s%2Fg%2F11fyzfrxt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3407,10 +3435,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Crest+Hospital/@28.8906301,78.7307222,17z/data=!3m1!4b1!4m6!3m5!1s0x390afedbf825cd21:0xbe300c4312e0ab10!8m2!3d28.8906301!4d78.7307222!16s%2Fg%2F11fyzfrxt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "d-l-nursing-home-moradabad",
@@ -3458,7 +3487,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/D.L.+Nursing+Home/@28.8488312,78.7721922,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbddd89f0a81:0x32b58bb792430574!8m2!3d28.8488312!4d78.7721922!16s%2Fg%2F1v75q8jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D.L.+Nursing+Home/@28.8488312,78.7721922,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbddd89f0a81:0x32b58bb792430574!8m2!3d28.8488312!4d78.7721922!16s%2Fg%2F1v75q8jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3527,7 +3556,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/D.L.+Nursing+Home/@28.8488312,78.7721922,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbddd89f0a81:0x32b58bb792430574!8m2!3d28.8488312!4d78.7721922!16s%2Fg%2F1v75q8jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "delight-health-care-and-diagnostic-centre-5d-ultrasound-centre-best-radiologist-in-moradabad-moradabad",
@@ -3576,7 +3606,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Delight+Health+Care+%26+Diagnostic+Centre+(5D+Ultrasound+centre)-+Best+radiologist+in+Moradabad/@28.8800652,78.7449515,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff4e9cb90a71:0xabc3cc64ae700799!8m2!3d28.8800652!4d78.7449515!16s%2Fg%2F11pznrr54q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Delight+Health+Care+%26+Diagnostic+Centre+(5D+Ultrasound+centre)-+Best+radiologist+in+Moradabad/@28.8800652,78.7449515,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff4e9cb90a71:0xabc3cc64ae700799!8m2!3d28.8800652!4d78.7449515!16s%2Fg%2F11pznrr54q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3642,10 +3672,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Delight+Health+Care+%26+Diagnostic+Centre+(5D+Ultrasound+centre)-+Best+radiologist+in+Moradabad/@28.8800652,78.7449515,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff4e9cb90a71:0xabc3cc64ae700799!8m2!3d28.8800652!4d78.7449515!16s%2Fg%2F11pznrr54q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-solutions-moradabad",
@@ -3693,7 +3724,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Solutions/@28.8449723,78.755355,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbfbb007e6a1:0xcfaf764a62f5edc2!8m2!3d28.8449723!4d78.755355!16s%2Fg%2F11b8z2f54k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Solutions/@28.8449723,78.755355,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbfbb007e6a1:0xcfaf764a62f5edc2!8m2!3d28.8449723!4d78.755355!16s%2Fg%2F11b8z2f54k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3762,7 +3793,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Solutions/@28.8449723,78.755355,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbfbb007e6a1:0xcfaf764a62f5edc2!8m2!3d28.8449723!4d78.755355!16s%2Fg%2F11b8z2f54k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dentistation-dental-care-implant-and-maxillofacial-centre-moradabad",
@@ -3811,7 +3843,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/DENTISTATION+DENTAL+CARE+IMPLANT+%26+MAXILLOFACIAL+CENTRE/@28.8668588,78.753403,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb2f4adb3ee3:0x6999c2e5b9979d4a!8m2!3d28.8668588!4d78.753403!16s%2Fg%2F11flybl6py?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTISTATION+DENTAL+CARE+IMPLANT+%26+MAXILLOFACIAL+CENTRE/@28.8668588,78.753403,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb2f4adb3ee3:0x6999c2e5b9979d4a!8m2!3d28.8668588!4d78.753403!16s%2Fg%2F11flybl6py?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3880,7 +3912,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENTISTATION+DENTAL+CARE+IMPLANT+%26+MAXILLOFACIAL+CENTRE/@28.8668588,78.753403,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb2f4adb3ee3:0x6999c2e5b9979d4a!8m2!3d28.8668588!4d78.753403!16s%2Fg%2F11flybl6py?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "devisha-plastic-surgery-centre-moradabad",
@@ -3928,7 +3961,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://www.google.com/maps/place/Devisha+Plastic+Surgery+Centre/@28.8272856,78.7730864,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc05a8519c9:0x92598be452bce943!8m2!3d28.8272856!4d78.7730864!16s%2Fg%2F11q8slqj8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devisha+Plastic+Surgery+Centre/@28.8272856,78.7730864,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc05a8519c9:0x92598be452bce943!8m2!3d28.8272856!4d78.7730864!16s%2Fg%2F11q8slqj8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3994,10 +4027,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Devisha+Plastic+Surgery+Centre/@28.8272856,78.7730864,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc05a8519c9:0x92598be452bce943!8m2!3d28.8272856!4d78.7730864!16s%2Fg%2F11q8slqj8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhanwantri-cancer-care-moradabad",
@@ -4045,7 +4079,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dhanwantri+Cancer+Care/@28.8428338,78.7707643,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb2f4eea2e91:0x2a057131a55e2fcc!8m2!3d28.8428338!4d78.7707643!16s%2Fg%2F11gpm7cbnr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhanwantri+Cancer+Care/@28.8428338,78.7707643,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb2f4eea2e91:0x2a057131a55e2fcc!8m2!3d28.8428338!4d78.7707643!16s%2Fg%2F11gpm7cbnr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4111,10 +4145,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhanwantri+Cancer+Care/@28.8428338,78.7707643,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb2f4eea2e91:0x2a057131a55e2fcc!8m2!3d28.8428338!4d78.7707643!16s%2Fg%2F11gpm7cbnr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhanwantri-clinic-evening-opd-cancer-surgery-gastro-surgery-pediatrics-and-pediatric-endocrinologist-moradabad",
@@ -4161,7 +4196,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Dhanwantri+Clinic+%7C+Evening+OPD+-+Cancer+Surgery+%7C+Gastro+Surgery+%7C+Pediatrics+%26+Pediatric+Endocrinologist/@28.8701018,78.7457808,17z/data=!3m1!4b1!4m6!3m5!1s0x390affe1ef03c2dd:0xe3318cfa779cf4f!8m2!3d28.8701018!4d78.7457808!16s%2Fg%2F11sjhsrmrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhanwantri+Clinic+%7C+Evening+OPD+-+Cancer+Surgery+%7C+Gastro+Surgery+%7C+Pediatrics+%26+Pediatric+Endocrinologist/@28.8701018,78.7457808,17z/data=!3m1!4b1!4m6!3m5!1s0x390affe1ef03c2dd:0xe3318cfa779cf4f!8m2!3d28.8701018!4d78.7457808!16s%2Fg%2F11sjhsrmrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4227,10 +4262,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhanwantri+Clinic+%7C+Evening+OPD+-+Cancer+Surgery+%7C+Gastro+Surgery+%7C+Pediatrics+%26+Pediatric+Endocrinologist/@28.8701018,78.7457808,17z/data=!3m1!4b1!4m6!3m5!1s0x390affe1ef03c2dd:0xe3318cfa779cf4f!8m2!3d28.8701018!4d78.7457808!16s%2Fg%2F11sjhsrmrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "diabetes-and-hormone-care-clinic-moradabad",
@@ -4280,7 +4316,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Diabetes+%26+Hormone+Care+Clinic/@28.8254594,78.7810314,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb28bc22429d:0x745f61214b978bb5!8m2!3d28.8254594!4d78.7810314!16s%2Fg%2F11q8kbv983?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diabetes+%26+Hormone+Care+Clinic/@28.8254594,78.7810314,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb28bc22429d:0x745f61214b978bb5!8m2!3d28.8254594!4d78.7810314!16s%2Fg%2F11q8kbv983?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4349,7 +4385,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Diabetes+%26+Hormone+Care+Clinic/@28.8254594,78.7810314,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb28bc22429d:0x745f61214b978bb5!8m2!3d28.8254594!4d78.7810314!16s%2Fg%2F11q8kbv983?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divyakriti-hospital-moradabad",
@@ -4398,7 +4435,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Divyakriti+Hospital/@28.8832773,78.7420599,17z/data=!3m1!4b1!4m6!3m5!1s0x390afecc29c1f331:0x637c7c6c9430f7e9!8m2!3d28.8832773!4d78.7420599!16s%2Fg%2F11bxjjfyr8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divyakriti+Hospital/@28.8832773,78.7420599,17z/data=!3m1!4b1!4m6!3m5!1s0x390afecc29c1f331:0x637c7c6c9430f7e9!8m2!3d28.8832773!4d78.7420599!16s%2Fg%2F11bxjjfyr8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4467,7 +4504,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divyakriti+Hospital/@28.8832773,78.7420599,17z/data=!3m1!4b1!4m6!3m5!1s0x390afecc29c1f331:0x637c7c6c9430f7e9!8m2!3d28.8832773!4d78.7420599!16s%2Fg%2F11bxjjfyr8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dmr-hospital-moradabad",
@@ -4516,7 +4554,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dmr+Hospital/@28.8450695,78.7593317,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbeee55f71a5:0x8b13f7d21857d93f!8m2!3d28.8450695!4d78.7593317!16s%2Fg%2F11fxd_svyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dmr+Hospital/@28.8450695,78.7593317,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbeee55f71a5:0x8b13f7d21857d93f!8m2!3d28.8450695!4d78.7593317!16s%2Fg%2F11fxd_svyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4585,7 +4623,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dmr+Hospital/@28.8450695,78.7593317,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbeee55f71a5:0x8b13f7d21857d93f!8m2!3d28.8450695!4d78.7593317!16s%2Fg%2F11fxd_svyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ellora-dental-care-moradabad",
@@ -4633,7 +4672,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Ellora+Dental+Care/@28.8697619,78.7547511,17z/data=!3m1!4b1!4m6!3m5!1s0x390af94ec8f15b6d:0x63c00431769ef007!8m2!3d28.8697619!4d78.7547511!16s%2Fg%2F11b6mp625p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ellora+Dental+Care/@28.8697619,78.7547511,17z/data=!3m1!4b1!4m6!3m5!1s0x390af94ec8f15b6d:0x63c00431769ef007!8m2!3d28.8697619!4d78.7547511!16s%2Fg%2F11b6mp625p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4702,7 +4741,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ellora+Dental+Care/@28.8697619,78.7547511,17z/data=!3m1!4b1!4m6!3m5!1s0x390af94ec8f15b6d:0x63c00431769ef007!8m2!3d28.8697619!4d78.7547511!16s%2Fg%2F11b6mp625p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "epitome-dental-suite-best-implant-centre-smile-makeover-painless-root-canal-treatment-in-moradabad-moradabad",
@@ -4751,7 +4791,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Epitome+Dental+Suite+-+Best+Implant+Centre+%7C+Smile+makeover+%7C+Painless+Root+Canal+Treatment+in+Moradabad/@28.8492224,78.772049,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb543b43c8a3:0xd5efb9a2caade2d0!8m2!3d28.8492224!4d78.772049!16s%2Fg%2F11yd2ylzv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Epitome+Dental+Suite+-+Best+Implant+Centre+%7C+Smile+makeover+%7C+Painless+Root+Canal+Treatment+in+Moradabad/@28.8492224,78.772049,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb543b43c8a3:0xd5efb9a2caade2d0!8m2!3d28.8492224!4d78.772049!16s%2Fg%2F11yd2ylzv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4817,10 +4857,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Epitome+Dental+Suite+-+Best+Implant+Centre+%7C+Smile+makeover+%7C+Painless+Root+Canal+Treatment+in+Moradabad/@28.8492224,78.772049,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb543b43c8a3:0xd5efb9a2caade2d0!8m2!3d28.8492224!4d78.772049!16s%2Fg%2F11yd2ylzv2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "family-dental-moradabad",
@@ -4868,7 +4909,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/FAMILY+DENTAL/@28.8686296,78.7323297,17z/data=!3m1!4b1!4m6!3m5!1s0x390afed1d7838603:0x4c78781c94be9278!8m2!3d28.8686296!4d78.7323297!16s%2Fg%2F11f5v6w3n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FAMILY+DENTAL/@28.8686296,78.7323297,17z/data=!3m1!4b1!4m6!3m5!1s0x390afed1d7838603:0x4c78781c94be9278!8m2!3d28.8686296!4d78.7323297!16s%2Fg%2F11f5v6w3n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4937,7 +4978,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/FAMILY+DENTAL/@28.8686296,78.7323297,17z/data=!3m1!4b1!4m6!3m5!1s0x390afed1d7838603:0x4c78781c94be9278!8m2!3d28.8686296!4d78.7323297!16s%2Fg%2F11f5v6w3n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "galaxy-hospital-moradabad",
@@ -4985,7 +5027,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Galaxy+Hospital/@28.92265,78.7062972,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff63be15992d:0xc56fa2b88fa5a416!8m2!3d28.92265!4d78.7062972!16s%2Fg%2F11rsfty6m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Galaxy+Hospital/@28.92265,78.7062972,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff63be15992d:0xc56fa2b88fa5a416!8m2!3d28.92265!4d78.7062972!16s%2Fg%2F11rsfty6m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5054,7 +5096,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Galaxy+Hospital/@28.92265,78.7062972,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff63be15992d:0xc56fa2b88fa5a416!8m2!3d28.92265!4d78.7062972!16s%2Fg%2F11rsfty6m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "galaxy-surgical-and-maternity-center-moradabad",
@@ -5102,7 +5145,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Galaxy+Surgical+and+Maternity+Center/@28.8759122,78.7488077,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9355ee72125:0x3025e22c3aae4bb9!8m2!3d28.8759122!4d78.7488077!16s%2Fg%2F11b6ln90l8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Galaxy+Surgical+and+Maternity+Center/@28.8759122,78.7488077,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9355ee72125:0x3025e22c3aae4bb9!8m2!3d28.8759122!4d78.7488077!16s%2Fg%2F11b6ln90l8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5171,7 +5214,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Galaxy+Surgical+and+Maternity+Center/@28.8759122,78.7488077,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9355ee72125:0x3025e22c3aae4bb9!8m2!3d28.8759122!4d78.7488077!16s%2Fg%2F11b6ln90l8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gastro-liver-clinic-moradabad",
@@ -5220,7 +5264,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Gastro+liver+clinic,/@28.8268625,78.7752476,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc88ae1f1a1:0xcdcbb2a0ede6985c!8m2!3d28.8268625!4d78.7752476!16s%2Fg%2F11tg9vprt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gastro+liver+clinic,/@28.8268625,78.7752476,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc88ae1f1a1:0xcdcbb2a0ede6985c!8m2!3d28.8268625!4d78.7752476!16s%2Fg%2F11tg9vprt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5286,10 +5330,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gastro+liver+clinic,/@28.8268625,78.7752476,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc88ae1f1a1:0xcdcbb2a0ede6985c!8m2!3d28.8268625!4d78.7752476!16s%2Fg%2F11tg9vprt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "general-hospital-moradabad",
@@ -5337,7 +5382,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/General+Hospital/@28.8961145,78.7292046,17z/data=!3m1!4b1!4m6!3m5!1s0x390afedf6829a70f:0x464f635cfbbece1e!8m2!3d28.8961145!4d78.7292046!16s%2Fg%2F11c1xdrnf7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/General+Hospital/@28.8961145,78.7292046,17z/data=!3m1!4b1!4m6!3m5!1s0x390afedf6829a70f:0x464f635cfbbece1e!8m2!3d28.8961145!4d78.7292046!16s%2Fg%2F11c1xdrnf7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5406,7 +5451,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/General+Hospital/@28.8961145,78.7292046,17z/data=!3m1!4b1!4m6!3m5!1s0x390afedf6829a70f:0x464f635cfbbece1e!8m2!3d28.8961145!4d78.7292046!16s%2Fg%2F11c1xdrnf7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "getwell-polyclinic-moradabad",
@@ -5454,7 +5500,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Getwell+Polyclinic/@28.837253,78.7484748,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc1722040827:0x6a93628862ecc9ff!8m2!3d28.837253!4d78.7484748!16s%2Fg%2F11c6mcqyyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Getwell+Polyclinic/@28.837253,78.7484748,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc1722040827:0x6a93628862ecc9ff!8m2!3d28.837253!4d78.7484748!16s%2Fg%2F11c6mcqyyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5523,7 +5569,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Getwell+Polyclinic/@28.837253,78.7484748,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc1722040827:0x6a93628862ecc9ff!8m2!3d28.837253!4d78.7484748!16s%2Fg%2F11c6mcqyyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gupta-and-goyal-heart-nursing-home-moradabad",
@@ -5572,7 +5619,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/GUPTA+%26+GOYAL+HEART+NURSING+HOME/@28.8392177,78.7715011,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb27aa1d0bf3:0x453045682b214351!8m2!3d28.8392177!4d78.7715011!16s%2Fg%2F11gsc2wb8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GUPTA+%26+GOYAL+HEART+NURSING+HOME/@28.8392177,78.7715011,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb27aa1d0bf3:0x453045682b214351!8m2!3d28.8392177!4d78.7715011!16s%2Fg%2F11gsc2wb8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5641,7 +5688,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GUPTA+%26+GOYAL+HEART+NURSING+HOME/@28.8392177,78.7715011,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb27aa1d0bf3:0x453045682b214351!8m2!3d28.8392177!4d78.7715011!16s%2Fg%2F11gsc2wb8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "health-care-moradabad",
@@ -5689,7 +5737,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/HEALTH+CARE/@28.8339804,78.7558364,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf3a5922c63:0x149c196689dcd589!8m2!3d28.8339804!4d78.7558364!16s%2Fg%2F1tnsq94d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HEALTH+CARE/@28.8339804,78.7558364,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf3a5922c63:0x149c196689dcd589!8m2!3d28.8339804!4d78.7558364!16s%2Fg%2F1tnsq94d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5758,7 +5806,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HEALTH+CARE/@28.8339804,78.7558364,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf3a5922c63:0x149c196689dcd589!8m2!3d28.8339804!4d78.7558364!16s%2Fg%2F1tnsq94d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hope-clinic-moradabad",
@@ -5806,7 +5855,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Hope+Clinic/@28.82852,78.7758122,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbed30e1067:0x1e78d76acb9c9233!8m2!3d28.82852!4d78.7758122!16s%2Fg%2F11hbn0sphr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+Clinic/@28.82852,78.7758122,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbed30e1067:0x1e78d76acb9c9233!8m2!3d28.82852!4d78.7758122!16s%2Fg%2F11hbn0sphr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5875,7 +5924,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hope+Clinic/@28.82852,78.7758122,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbed30e1067:0x1e78d76acb9c9233!8m2!3d28.82852!4d78.7758122!16s%2Fg%2F11hbn0sphr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "i-smile-dental-studio-moradabad",
@@ -5924,7 +5974,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/I-Smile+Dental+Studio/@28.8440828,78.7674598,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff3c09c6268f:0xac3dc3ce349aa62f!8m2!3d28.8440828!4d78.7674598!16s%2Fg%2F11lth_wx9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/I-Smile+Dental+Studio/@28.8440828,78.7674598,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff3c09c6268f:0xac3dc3ce349aa62f!8m2!3d28.8440828!4d78.7674598!16s%2Fg%2F11lth_wx9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5990,10 +6040,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/I-Smile+Dental+Studio/@28.8440828,78.7674598,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff3c09c6268f:0xac3dc3ce349aa62f!8m2!3d28.8440828!4d78.7674598!16s%2Fg%2F11lth_wx9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indira-ivf-fertility-centre-best-ivf-infertility-clinic-affordable-ivf-centre-ivf-success-rate-in-moradabad-moradabad",
@@ -6043,7 +6094,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+fertility+centre+%7C+Best+(+IVF+)+infertility+clinic+%7C+Affordable+IVF+centre+%7C+IVF+success+rate+in+Moradabad/@28.8290276,78.7320135,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd63ac6db4f9:0xf72399accfc68561!8m2!3d28.8290276!4d78.7320135!16s%2Fg%2F11t9wn1g4y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+fertility+centre+%7C+Best+(+IVF+)+infertility+clinic+%7C+Affordable+IVF+centre+%7C+IVF+success+rate+in+Moradabad/@28.8290276,78.7320135,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd63ac6db4f9:0xf72399accfc68561!8m2!3d28.8290276!4d78.7320135!16s%2Fg%2F11t9wn1g4y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6112,7 +6163,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+fertility+centre+%7C+Best+(+IVF+)+infertility+clinic+%7C+Affordable+IVF+centre+%7C+IVF+success+rate+in+Moradabad/@28.8290276,78.7320135,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd63ac6db4f9:0xf72399accfc68561!8m2!3d28.8290276!4d78.7320135!16s%2Fg%2F11t9wn1g4y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ivory-32-maxillofacial-imaging-and-diagnostics-moradabad",
@@ -6163,7 +6215,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ivory+32+maxillofacial+imaging+and+diagnostics/@28.8256321,78.7744664,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbc221a918f:0xb8b69f266076c143!8m2!3d28.8256321!4d78.7744664!16s%2Fg%2F11f3n2p5tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ivory+32+maxillofacial+imaging+and+diagnostics/@28.8256321,78.7744664,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbc221a918f:0xb8b69f266076c143!8m2!3d28.8256321!4d78.7744664!16s%2Fg%2F11f3n2p5tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6232,7 +6284,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ivory+32+maxillofacial+imaging+and+diagnostics/@28.8256321,78.7744664,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbc221a918f:0xb8b69f266076c143!8m2!3d28.8256321!4d78.7744664!16s%2Fg%2F11f3n2p5tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "j-p-stone-clinic-moradabad",
@@ -6280,7 +6333,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/J.P+Stone+Clinic/@28.8444018,78.7708891,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbd3ebead5ed:0x2059327aa57c7379!8m2!3d28.8444018!4d78.7708891!16s%2Fg%2F11rw_mwdd1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J.P+Stone+Clinic/@28.8444018,78.7708891,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbd3ebead5ed:0x2059327aa57c7379!8m2!3d28.8444018!4d78.7708891!16s%2Fg%2F11rw_mwdd1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6346,10 +6399,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/J.P+Stone+Clinic/@28.8444018,78.7708891,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbd3ebead5ed:0x2059327aa57c7379!8m2!3d28.8444018!4d78.7708891!16s%2Fg%2F11rw_mwdd1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jay-ayurveda-neuro-and-spine-panchkarma-clinic-moradabad",
@@ -6399,7 +6453,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Jay+Ayurveda+Neuro+%26+Spine+Panchkarma+Clinic/@28.8332106,78.7538903,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb0050f9deb1:0x4a21a7ca4388c7ce!8m2!3d28.8332106!4d78.7538903!16s%2Fg%2F11ml26dcps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jay+Ayurveda+Neuro+%26+Spine+Panchkarma+Clinic/@28.8332106,78.7538903,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb0050f9deb1:0x4a21a7ca4388c7ce!8m2!3d28.8332106!4d78.7538903!16s%2Fg%2F11ml26dcps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6465,10 +6519,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jay+Ayurveda+Neuro+%26+Spine+Panchkarma+Clinic/@28.8332106,78.7538903,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb0050f9deb1:0x4a21a7ca4388c7ce!8m2!3d28.8332106!4d78.7538903!16s%2Fg%2F11ml26dcps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevan-deep-nursing-home-moradabad",
@@ -6516,7 +6571,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Deep+Nursing+Home/@28.8285448,78.774844,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbedc128d1f:0xb4c5a5f612bfa834!8m2!3d28.8285448!4d78.774844!16s%2Fg%2F119vqmdwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Deep+Nursing+Home/@28.8285448,78.774844,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbedc128d1f:0xb4c5a5f612bfa834!8m2!3d28.8285448!4d78.774844!16s%2Fg%2F119vqmdwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6582,10 +6637,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Deep+Nursing+Home/@28.8285448,78.774844,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbedc128d1f:0xb4c5a5f612bfa834!8m2!3d28.8285448!4d78.774844!16s%2Fg%2F119vqmdwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jigyasa-hospital-moradabad",
@@ -6634,7 +6690,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jigyasa+Hospital/@28.8251647,78.7748928,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb63496961fb:0x45fda28dfc89afa5!8m2!3d28.8251647!4d78.7748928!16s%2Fg%2F11l_46vy44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jigyasa+Hospital/@28.8251647,78.7748928,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb63496961fb:0x45fda28dfc89afa5!8m2!3d28.8251647!4d78.7748928!16s%2Fg%2F11l_46vy44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6703,7 +6759,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jigyasa+Hospital/@28.8251647,78.7748928,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb63496961fb:0x45fda28dfc89afa5!8m2!3d28.8251647!4d78.7748928!16s%2Fg%2F11l_46vy44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalra-dental-and-facial-surgery-center-moradabad",
@@ -6752,7 +6809,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kalra+Dental+and+facial+surgery+center/@28.8288408,78.7711395,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb0e1f212d31:0x159a60cd558f3c2!8m2!3d28.8288408!4d78.7711395!16s%2Fg%2F11g0h1qtnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalra+Dental+and+facial+surgery+center/@28.8288408,78.7711395,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb0e1f212d31:0x159a60cd558f3c2!8m2!3d28.8288408!4d78.7711395!16s%2Fg%2F11g0h1qtnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6821,7 +6878,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalra+Dental+and+facial+surgery+center/@28.8288408,78.7711395,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb0e1f212d31:0x159a60cd558f3c2!8m2!3d28.8288408!4d78.7711395!16s%2Fg%2F11g0h1qtnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krishna-heart-centre-moradabad",
@@ -6870,7 +6928,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Krishna+Heart+Centre/@28.8461239,78.7634932,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe43a2c6091:0x504a5d03d1bdae2f!8m2!3d28.8461239!4d78.7634932!16s%2Fg%2F11gdknzkk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Heart+Centre/@28.8461239,78.7634932,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe43a2c6091:0x504a5d03d1bdae2f!8m2!3d28.8461239!4d78.7634932!16s%2Fg%2F11gdknzkk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6936,10 +6994,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishna+Heart+Centre/@28.8461239,78.7634932,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe43a2c6091:0x504a5d03d1bdae2f!8m2!3d28.8461239!4d78.7634932!16s%2Fg%2F11gdknzkk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kumar-nursing-home-moradabad",
@@ -6987,7 +7046,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Kumar+Nursing+Home/@28.8426023,78.7661707,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff8456aff875:0x55df4fc26a6576d5!8m2!3d28.8426023!4d78.7661707!16s%2Fg%2F11h4yms28x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kumar+Nursing+Home/@28.8426023,78.7661707,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff8456aff875:0x55df4fc26a6576d5!8m2!3d28.8426023!4d78.7661707!16s%2Fg%2F11h4yms28x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7056,7 +7115,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kumar+Nursing+Home/@28.8426023,78.7661707,17z/data=!3m1!4b1!4m6!3m5!1s0x390aff8456aff875:0x55df4fc26a6576d5!8m2!3d28.8426023!4d78.7661707!16s%2Fg%2F11h4yms28x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-hospital-bhojpur-bhojpur-dharampur",
@@ -7104,7 +7164,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/LIFE+HOSPITAL+BHOJPUR+(%E0%A4%B9%E0%A4%A1%E0%A5%8D%E0%A4%A1%E0%A5%80+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%A8)/@28.9436234,78.8289083,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb986abf667f:0x69a4bf455c1334f3!8m2!3d28.9436234!4d78.8289083!16s%2Fg%2F11pt_2hmyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LIFE+HOSPITAL+BHOJPUR+(%E0%A4%B9%E0%A4%A1%E0%A5%8D%E0%A4%A1%E0%A5%80+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%A8)/@28.9436234,78.8289083,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb986abf667f:0x69a4bf455c1334f3!8m2!3d28.9436234!4d78.8289083!16s%2Fg%2F11pt_2hmyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7170,10 +7230,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LIFE+HOSPITAL+BHOJPUR+(%E0%A4%B9%E0%A4%A1%E0%A5%8D%E0%A4%A1%E0%A5%80+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%A8)/@28.9436234,78.8289083,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb986abf667f:0x69a4bf455c1334f3!8m2!3d28.9436234!4d78.8289083!16s%2Fg%2F11pt_2hmyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "line-par-moradabad",
@@ -7219,7 +7280,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Line+Par,+Moradabad,+Uttar+Pradesh/@28.8314345,78.7600374,15z/data=!3m1!4b1!4m6!3m5!1s0x390afc0a6b3a5119:0xaa2728a8970ad249!8m2!3d28.8320833!4d78.7603726!16s%2Fg%2F1vnngsdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Line+Par,+Moradabad,+Uttar+Pradesh/@28.8314345,78.7600374,15z/data=!3m1!4b1!4m6!3m5!1s0x390afc0a6b3a5119:0xaa2728a8970ad249!8m2!3d28.8320833!4d78.7603726!16s%2Fg%2F1vnngsdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7285,10 +7346,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Line+Par,+Moradabad,+Uttar+Pradesh/@28.8314345,78.7600374,15z/data=!3m1!4b1!4m6!3m5!1s0x390afc0a6b3a5119:0xaa2728a8970ad249!8m2!3d28.8320833!4d78.7603726!16s%2Fg%2F1vnngsdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lochab-dental-and-orthodontic-centre-moradabad",
@@ -7337,7 +7399,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Lochab+Dental+%26+Orthodontic+Centre/@28.8344852,78.7540568,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf3ecd779a9:0x9a962bb4f33d6baf!8m2!3d28.8344852!4d78.7540568!16s%2Fg%2F11h2nf2zjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lochab+Dental+%26+Orthodontic+Centre/@28.8344852,78.7540568,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf3ecd779a9:0x9a962bb4f33d6baf!8m2!3d28.8344852!4d78.7540568!16s%2Fg%2F11h2nf2zjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7406,7 +7468,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lochab+Dental+%26+Orthodontic+Centre/@28.8344852,78.7540568,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf3ecd779a9:0x9a962bb4f33d6baf!8m2!3d28.8344852!4d78.7540568!16s%2Fg%2F11h2nf2zjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lokpriya-hospital-moradabad",
@@ -7454,7 +7517,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Lokpriya+Hospital/@28.8229841,78.7816068,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbba9d60e5dd:0xa56c5c4af58cbb76!8m2!3d28.8229841!4d78.7816068!16s%2Fg%2F11fhl3kmz6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lokpriya+Hospital/@28.8229841,78.7816068,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbba9d60e5dd:0xa56c5c4af58cbb76!8m2!3d28.8229841!4d78.7816068!16s%2Fg%2F11fhl3kmz6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7523,7 +7586,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lokpriya+Hospital/@28.8229841,78.7816068,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbba9d60e5dd:0xa56c5c4af58cbb76!8m2!3d28.8229841!4d78.7816068!16s%2Fg%2F11fhl3kmz6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lumina-aesthetics-moradabad",
@@ -7572,7 +7636,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lumina+Aesthetics/@28.8511214,78.7359397,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd0b4990fd97:0xf8f47ef08f0a35c3!8m2!3d28.8511214!4d78.7359397!16s%2Fg%2F11rv927x31?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lumina+Aesthetics/@28.8511214,78.7359397,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd0b4990fd97:0xf8f47ef08f0a35c3!8m2!3d28.8511214!4d78.7359397!16s%2Fg%2F11rv927x31?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7641,7 +7705,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lumina+Aesthetics/@28.8511214,78.7359397,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd0b4990fd97:0xf8f47ef08f0a35c3!8m2!3d28.8511214!4d78.7359397!16s%2Fg%2F11rv927x31?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "m-i-hospital-dr-mohammad-ali-sirswan-gaur",
@@ -7690,7 +7755,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/M.I.+Hospital+(Dr+Mohammad+Ali)/@28.9098776,78.8408784,17z/data=!3m1!4b1!4m6!3m5!1s0x390a57352c792445:0x31daa4827c8cc98f!8m2!3d28.9098776!4d78.8408784!16s%2Fg%2F11rx30f2g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.I.+Hospital+(Dr+Mohammad+Ali)/@28.9098776,78.8408784,17z/data=!3m1!4b1!4m6!3m5!1s0x390a57352c792445:0x31daa4827c8cc98f!8m2!3d28.9098776!4d78.8408784!16s%2Fg%2F11rx30f2g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7759,7 +7824,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M.I.+Hospital+(Dr+Mohammad+Ali)/@28.9098776,78.8408784,17z/data=!3m1!4b1!4m6!3m5!1s0x390a57352c792445:0x31daa4827c8cc98f!8m2!3d28.9098776!4d78.8408784!16s%2Fg%2F11rx30f2g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madan-maternity-and-laproscopic-surgery-centre-maternity-hospital-in-moradabad-moradabad",
@@ -7807,7 +7873,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Madan+Maternity+%26+Laproscopic+Surgery+Centre+-+Maternity+Hospital+in+Moradabad/@28.8713378,78.7534213,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9495a61b1ab:0xce0667069dff1c6a!8m2!3d28.8713378!4d78.7534213!16s%2Fg%2F11cn7tq599?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madan+Maternity+%26+Laproscopic+Surgery+Centre+-+Maternity+Hospital+in+Moradabad/@28.8713378,78.7534213,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9495a61b1ab:0xce0667069dff1c6a!8m2!3d28.8713378!4d78.7534213!16s%2Fg%2F11cn7tq599?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7876,7 +7942,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madan+Maternity+%26+Laproscopic+Surgery+Centre+-+Maternity+Hospital+in+Moradabad/@28.8713378,78.7534213,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9495a61b1ab:0xce0667069dff1c6a!8m2!3d28.8713378!4d78.7534213!16s%2Fg%2F11cn7tq599?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "malhotra-heart-care-moradabad",
@@ -7925,7 +7992,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Malhotra+Heart+Care/@28.846152,78.7615948,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe4f6eaae37:0xb4cc3925ba3b5c06!8m2!3d28.846152!4d78.7615948!16s%2Fg%2F11csb1s0mw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malhotra+Heart+Care/@28.846152,78.7615948,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe4f6eaae37:0xb4cc3925ba3b5c06!8m2!3d28.846152!4d78.7615948!16s%2Fg%2F11csb1s0mw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7994,7 +8061,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Malhotra+Heart+Care/@28.846152,78.7615948,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe4f6eaae37:0xb4cc3925ba3b5c06!8m2!3d28.846152!4d78.7615948!16s%2Fg%2F11csb1s0mw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mamta-nursing-home-moradabad",
@@ -8044,7 +8112,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mamta+Nursing+Home/@28.8321606,78.7305018,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd6b17f98de5:0x3973e5125b28034a!8m2!3d28.8321606!4d78.7305018!16s%2Fg%2F11h22rpn8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mamta+Nursing+Home/@28.8321606,78.7305018,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd6b17f98de5:0x3973e5125b28034a!8m2!3d28.8321606!4d78.7305018!16s%2Fg%2F11h22rpn8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8113,7 +8181,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mamta+Nursing+Home/@28.8321606,78.7305018,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd6b17f98de5:0x3973e5125b28034a!8m2!3d28.8321606!4d78.7305018!16s%2Fg%2F11h22rpn8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manasiivf-bareilly",
@@ -8163,7 +8232,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/manasiivf/@28.3489372,79.4249463,17z/data=!3m1!4b1!4m6!3m5!1s0x390af96b9b8e04bd:0x8b95e18a50bcc7f7!8m2!3d28.3489372!4d79.4249463!16s%2Fg%2F11xfb21zsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/manasiivf/@28.3489372,79.4249463,17z/data=!3m1!4b1!4m6!3m5!1s0x390af96b9b8e04bd:0x8b95e18a50bcc7f7!8m2!3d28.3489372!4d79.4249463!16s%2Fg%2F11xfb21zsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8229,10 +8298,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/manasiivf/@28.3489372,79.4249463,17z/data=!3m1!4b1!4m6!3m5!1s0x390af96b9b8e04bd:0x8b95e18a50bcc7f7!8m2!3d28.3489372!4d79.4249463!16s%2Fg%2F11xfb21zsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mannat-nursing-home-moradabad",
@@ -8280,7 +8350,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Mannat+Nursing+Home/@28.8282407,78.7754394,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbecfcb296b:0xf2a3c7381baa92!8m2!3d28.8282407!4d78.7754394!16s%2Fg%2F11gcq417sr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mannat+Nursing+Home/@28.8282407,78.7754394,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbecfcb296b:0xf2a3c7381baa92!8m2!3d28.8282407!4d78.7754394!16s%2Fg%2F11gcq417sr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8349,7 +8419,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mannat+Nursing+Home/@28.8282407,78.7754394,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbecfcb296b:0xf2a3c7381baa92!8m2!3d28.8282407!4d78.7754394!16s%2Fg%2F11gcq417sr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manoram-clinic-moradabad",
@@ -8397,7 +8468,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Manoram+Clinic/@28.8672188,78.7529156,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9261fc7b231:0xfb4d69de981abdfa!8m2!3d28.8672188!4d78.7529156!16s%2Fg%2F11ys2jkw5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manoram+Clinic/@28.8672188,78.7529156,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9261fc7b231:0xfb4d69de981abdfa!8m2!3d28.8672188!4d78.7529156!16s%2Fg%2F11ys2jkw5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8463,10 +8534,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manoram+Clinic/@28.8672188,78.7529156,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9261fc7b231:0xfb4d69de981abdfa!8m2!3d28.8672188!4d78.7529156!16s%2Fg%2F11ys2jkw5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mansarovar-dental-moradabad",
@@ -8514,7 +8586,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/MANSAROVAR+DENTAL/@28.836865,78.7524778,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf69f1e27f9:0xe4a0d087913e94c3!8m2!3d28.836865!4d78.7524778!16s%2Fg%2F11cn37471n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MANSAROVAR+DENTAL/@28.836865,78.7524778,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf69f1e27f9:0xe4a0d087913e94c3!8m2!3d28.836865!4d78.7524778!16s%2Fg%2F11cn37471n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8583,7 +8655,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MANSAROVAR+DENTAL/@28.836865,78.7524778,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf69f1e27f9:0xe4a0d087913e94c3!8m2!3d28.836865!4d78.7524778!16s%2Fg%2F11cn37471n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mansarover-colony-moradabad",
@@ -8629,7 +8702,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Mansarover+Colony,+Line+Par,+Moradabad,+Uttar+Pradesh/@28.8368826,78.752334,16z/data=!3m1!4b1!4m6!3m5!1s0x390afbf6b0ab388b:0x586b2bc2d56499c7!8m2!3d28.8371189!4d78.7518716!16s%2Fg%2F1td0r7vb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mansarover+Colony,+Line+Par,+Moradabad,+Uttar+Pradesh/@28.8368826,78.752334,16z/data=!3m1!4b1!4m6!3m5!1s0x390afbf6b0ab388b:0x586b2bc2d56499c7!8m2!3d28.8371189!4d78.7518716!16s%2Fg%2F1td0r7vb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8695,10 +8768,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mansarover+Colony,+Line+Par,+Moradabad,+Uttar+Pradesh/@28.8368826,78.752334,16z/data=!3m1!4b1!4m6!3m5!1s0x390afbf6b0ab388b:0x586b2bc2d56499c7!8m2!3d28.8371189!4d78.7518716!16s%2Fg%2F1td0r7vb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maryada-hospital-moradabad",
@@ -8746,7 +8820,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Maryada+Hospital/@28.8649581,78.7504083,17z/data=!3m1!4b1!4m6!3m5!1s0x390af94d780addc5:0xbf4cc6b4feaa51cb!8m2!3d28.8649581!4d78.7504083!16s%2Fg%2F1262dhwmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maryada+Hospital/@28.8649581,78.7504083,17z/data=!3m1!4b1!4m6!3m5!1s0x390af94d780addc5:0xbf4cc6b4feaa51cb!8m2!3d28.8649581!4d78.7504083!16s%2Fg%2F1262dhwmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8815,7 +8889,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maryada+Hospital/@28.8649581,78.7504083,17z/data=!3m1!4b1!4m6!3m5!1s0x390af94d780addc5:0xbf4cc6b4feaa51cb!8m2!3d28.8649581!4d78.7504083!16s%2Fg%2F1262dhwmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medasia-hospital-moradabad",
@@ -8864,7 +8939,7 @@
       "Google rating 2.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MedAsia+Hospital/@28.8902566,78.7317951,17z/data=!3m1!4b1!4m6!3m5!1s0x390affc8f56d244f:0x6f39a44fc09f0545!8m2!3d28.8902566!4d78.7317951!16s%2Fg%2F11tp9z93w3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MedAsia+Hospital/@28.8902566,78.7317951,17z/data=!3m1!4b1!4m6!3m5!1s0x390affc8f56d244f:0x6f39a44fc09f0545!8m2!3d28.8902566!4d78.7317951!16s%2Fg%2F11tp9z93w3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8933,7 +9008,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MedAsia+Hospital/@28.8902566,78.7317951,17z/data=!3m1!4b1!4m6!3m5!1s0x390affc8f56d244f:0x6f39a44fc09f0545!8m2!3d28.8902566!4d78.7317951!16s%2Fg%2F11tp9z93w3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "modern-hospital-moradabad",
@@ -8982,7 +9058,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Modern+Hospital/@28.8442043,78.7738029,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb49d7284877:0xa7011d3d39ecc2e2!8m2!3d28.8442043!4d78.7738029!16s%2Fg%2F11sjrcw63z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modern+Hospital/@28.8442043,78.7738029,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb49d7284877:0xa7011d3d39ecc2e2!8m2!3d28.8442043!4d78.7738029!16s%2Fg%2F11sjrcw63z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9051,7 +9127,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Modern+Hospital/@28.8442043,78.7738029,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb49d7284877:0xa7011d3d39ecc2e2!8m2!3d28.8442043!4d78.7738029!16s%2Fg%2F11sjrcw63z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "modern-nursing-home-moradabad",
@@ -9100,7 +9177,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Modern+Nursing+Home/@28.8395636,78.7689454,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe9b61c3641:0x133756c50a45e577!8m2!3d28.8395636!4d78.7689454!16s%2Fg%2F1hhhl178l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modern+Nursing+Home/@28.8395636,78.7689454,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe9b61c3641:0x133756c50a45e577!8m2!3d28.8395636!4d78.7689454!16s%2Fg%2F1hhhl178l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9169,7 +9246,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Modern+Nursing+Home/@28.8395636,78.7689454,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe9b61c3641:0x133756c50a45e577!8m2!3d28.8395636!4d78.7689454!16s%2Fg%2F1hhhl178l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "moradabad-medicity-hospital-moradabad",
@@ -9218,7 +9296,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MORADABAD+MEDICITY+HOSPITAL/@28.8290522,78.7722903,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbed422c52d5:0xbf054458cb512bb1!8m2!3d28.8290522!4d78.7722903!16s%2Fg%2F11hztc3km_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MORADABAD+MEDICITY+HOSPITAL/@28.8290522,78.7722903,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbed422c52d5:0xbf054458cb512bb1!8m2!3d28.8290522!4d78.7722903!16s%2Fg%2F11hztc3km_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9287,7 +9365,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MORADABAD+MEDICITY+HOSPITAL/@28.8290522,78.7722903,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbed422c52d5:0xbf054458cb512bb1!8m2!3d28.8290522!4d78.7722903!16s%2Fg%2F11hztc3km_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mr-lohia-hospital-lagpat-nager-moradabad",
@@ -9335,7 +9414,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Mr+Lohia+Hospital+lagpat+nager/@28.8222224,78.7813121,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbaa1b5baa7:0x616197c3fdb0ef87!8m2!3d28.8222224!4d78.7813121!16s%2Fg%2F11g7z7vjgp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mr+Lohia+Hospital+lagpat+nager/@28.8222224,78.7813121,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbaa1b5baa7:0x616197c3fdb0ef87!8m2!3d28.8222224!4d78.7813121!16s%2Fg%2F11g7z7vjgp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9404,7 +9483,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mr+Lohia+Hospital+lagpat+nager/@28.8222224,78.7813121,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbaa1b5baa7:0x616197c3fdb0ef87!8m2!3d28.8222224!4d78.7813121!16s%2Fg%2F11g7z7vjgp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "muskan-nursing-home-moradabad",
@@ -9453,7 +9533,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Muskan+Nursing+Home/@28.8765385,78.7419125,17z/data=!3m1!4b1!4m6!3m5!1s0x390afec98acd96ed:0xbc978e232888dd64!8m2!3d28.8765385!4d78.7419125!16s%2Fg%2F1hhx3b5jj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Muskan+Nursing+Home/@28.8765385,78.7419125,17z/data=!3m1!4b1!4m6!3m5!1s0x390afec98acd96ed:0xbc978e232888dd64!8m2!3d28.8765385!4d78.7419125!16s%2Fg%2F1hhx3b5jj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9522,7 +9602,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Muskan+Nursing+Home/@28.8765385,78.7419125,17z/data=!3m1!4b1!4m6!3m5!1s0x390afec98acd96ed:0xbc978e232888dd64!8m2!3d28.8765385!4d78.7419125!16s%2Fg%2F1hhx3b5jj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "n-r-health-care-centre-moradabad",
@@ -9570,7 +9651,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/N.R.Health+Care+Centre/@28.8463378,78.7792583,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbdb01ef52b7:0x8b4673e7aefc6b25!8m2!3d28.8463378!4d78.7792583!16s%2Fg%2F11f3zt_x36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/N.R.Health+Care+Centre/@28.8463378,78.7792583,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbdb01ef52b7:0x8b4673e7aefc6b25!8m2!3d28.8463378!4d78.7792583!16s%2Fg%2F11f3zt_x36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9639,7 +9720,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/N.R.Health+Care+Centre/@28.8463378,78.7792583,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbdb01ef52b7:0x8b4673e7aefc6b25!8m2!3d28.8463378!4d78.7792583!16s%2Fg%2F11f3zt_x36?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neo-surg-health-care-moradabad-moradabad",
@@ -9688,7 +9770,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/neo+surg+health+care+moradabad/@28.8281686,78.7753906,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc5276636e1:0xf763f34aa5ff8532!8m2!3d28.8281686!4d78.7753906!16s%2Fg%2F11wj6plwhn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/neo+surg+health+care+moradabad/@28.8281686,78.7753906,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc5276636e1:0xf763f34aa5ff8532!8m2!3d28.8281686!4d78.7753906!16s%2Fg%2F11wj6plwhn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9754,10 +9836,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/neo+surg+health+care+moradabad/@28.8281686,78.7753906,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc5276636e1:0xf763f34aa5ff8532!8m2!3d28.8281686!4d78.7753906!16s%2Fg%2F11wj6plwhn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephron-hospital-moradabad",
@@ -9805,7 +9888,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Nephron+Hospital/@28.8235685,78.7828237,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb95a34e1e81:0x7492c7aead8e84cd!8m2!3d28.8235685!4d78.7828237!16s%2Fg%2F11kh9w4910?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephron+Hospital/@28.8235685,78.7828237,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb95a34e1e81:0x7492c7aead8e84cd!8m2!3d28.8235685!4d78.7828237!16s%2Fg%2F11kh9w4910?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9871,10 +9954,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nephron+Hospital/@28.8235685,78.7828237,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb95a34e1e81:0x7492c7aead8e84cd!8m2!3d28.8235685!4d78.7828237!16s%2Fg%2F11kh9w4910?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-centre-moradabad",
@@ -9925,7 +10009,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@28.840397,78.7526316,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbdb65164105:0xbc8dcff0974d36e0!8m2!3d28.840397!4d78.7526316!16s%2Fg%2F11skgcvhzj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@28.840397,78.7526316,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbdb65164105:0xbc8dcff0974d36e0!8m2!3d28.840397!4d78.7526316!16s%2Fg%2F11skgcvhzj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9991,10 +10075,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@28.840397,78.7526316,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbdb65164105:0xbc8dcff0974d36e0!8m2!3d28.840397!4d78.7526316!16s%2Fg%2F11skgcvhzj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neuron-moradabad",
@@ -10044,7 +10129,7 @@
       "Google rating 2.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NEURON/@28.8775111,78.743391,17z/data=!3m1!4b1!4m6!3m5!1s0x390afeca1f779a05:0x3de28c10ddc2f1d1!8m2!3d28.8775111!4d78.743391!16s%2Fg%2F1260ft0wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEURON/@28.8775111,78.743391,17z/data=!3m1!4b1!4m6!3m5!1s0x390afeca1f779a05:0x3de28c10ddc2f1d1!8m2!3d28.8775111!4d78.743391!16s%2Fg%2F1260ft0wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10113,7 +10198,8 @@
     "rating": 2.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEURON/@28.8775111,78.743391,17z/data=!3m1!4b1!4m6!3m5!1s0x390afeca1f779a05:0x3de28c10ddc2f1d1!8m2!3d28.8775111!4d78.743391!16s%2Fg%2F1260ft0wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-moradabad-moradabad",
@@ -10159,7 +10245,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/New+Moradabad,+Moradabad,+Uttar+Pradesh+244102/@28.8331322,78.6983729,15z/data=!3m1!4b1!4m6!3m5!1s0x390afdceb16c80d5:0xb737205ac4281d70!8m2!3d28.8318505!4d78.6945195!16s%2Fm%2F0125kv91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Moradabad,+Moradabad,+Uttar+Pradesh+244102/@28.8331322,78.6983729,15z/data=!3m1!4b1!4m6!3m5!1s0x390afdceb16c80d5:0xb737205ac4281d70!8m2!3d28.8318505!4d78.6945195!16s%2Fm%2F0125kv91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10225,10 +10311,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Moradabad,+Moradabad,+Uttar+Pradesh+244102/@28.8331322,78.6983729,15z/data=!3m1!4b1!4m6!3m5!1s0x390afdceb16c80d5:0xb737205ac4281d70!8m2!3d28.8318505!4d78.6945195!16s%2Fm%2F0125kv91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-shekher-kidney-and-stone-hospital-moradabad",
@@ -10277,7 +10364,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/New+Shekher+Kidney+And+Stone+Hospital/@28.8909113,78.7307981,17z/data=!3m1!4b1!4m6!3m5!1s0x390afedbf91d9827:0xc92d978749ba8681!8m2!3d28.8909113!4d78.7307981!16s%2Fg%2F11f0wk10bt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Shekher+Kidney+And+Stone+Hospital/@28.8909113,78.7307981,17z/data=!3m1!4b1!4m6!3m5!1s0x390afedbf91d9827:0xc92d978749ba8681!8m2!3d28.8909113!4d78.7307981!16s%2Fg%2F11f0wk10bt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10346,7 +10433,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Shekher+Kidney+And+Stone+Hospital/@28.8909113,78.7307981,17z/data=!3m1!4b1!4m6!3m5!1s0x390afedbf91d9827:0xc92d978749ba8681!8m2!3d28.8909113!4d78.7307981!16s%2Fg%2F11f0wk10bt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "orthocare-clinic-dr-amit-ahluwalia-moradabad",
@@ -10395,7 +10483,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Orthocare+Clinic+(Dr+Amit+Ahluwalia)/@28.8444414,78.7573911,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbfa52b946c3:0xfd62c97d876fd14c!8m2!3d28.8444414!4d78.7573911!16s%2Fg%2F11g8x45vx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orthocare+Clinic+(Dr+Amit+Ahluwalia)/@28.8444414,78.7573911,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbfa52b946c3:0xfd62c97d876fd14c!8m2!3d28.8444414!4d78.7573911!16s%2Fg%2F11g8x45vx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10464,7 +10552,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Orthocare+Clinic+(Dr+Amit+Ahluwalia)/@28.8444414,78.7573911,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbfa52b946c3:0xfd62c97d876fd14c!8m2!3d28.8444414!4d78.7573911!16s%2Fg%2F11g8x45vx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pakwara-moradabad",
@@ -10510,7 +10599,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Pakwara,+Uttar+Pradesh+244102/@28.8214417,78.6762782,15z/data=!3m1!4b1!4m6!3m5!1s0x390afd94def1b235:0x28acee1a754b81df!8m2!3d28.826312!4d78.6720593!16s%2Fg%2F11c0t8zg_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pakwara,+Uttar+Pradesh+244102/@28.8214417,78.6762782,15z/data=!3m1!4b1!4m6!3m5!1s0x390afd94def1b235:0x28acee1a754b81df!8m2!3d28.826312!4d78.6720593!16s%2Fg%2F11c0t8zg_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10576,10 +10665,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pakwara,+Uttar+Pradesh+244102/@28.8214417,78.6762782,15z/data=!3m1!4b1!4m6!3m5!1s0x390afd94def1b235:0x28acee1a754b81df!8m2!3d28.826312!4d78.6720593!16s%2Fg%2F11c0t8zg_r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "paras-nursing-home-moradabad",
@@ -10628,7 +10718,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Paras+Nursing+Home/@28.8361005,78.7532515,17z/data=!3m1!4b1!4m6!3m5!1s0x390afba45115a167:0xca3d3aadcd0eb448!8m2!3d28.8361005!4d78.7532515!16s%2Fg%2F11grc2zt4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paras+Nursing+Home/@28.8361005,78.7532515,17z/data=!3m1!4b1!4m6!3m5!1s0x390afba45115a167:0xca3d3aadcd0eb448!8m2!3d28.8361005!4d78.7532515!16s%2Fg%2F11grc2zt4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10697,7 +10787,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Paras+Nursing+Home/@28.8361005,78.7532515,17z/data=!3m1!4b1!4m6!3m5!1s0x390afba45115a167:0xca3d3aadcd0eb448!8m2!3d28.8361005!4d78.7532515!16s%2Fg%2F11grc2zt4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pearl-dental-we-ensure-you-a-healthy-smile-moradabad",
@@ -10745,7 +10836,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/PEARL+DENTAL:+We+ensure+you+a+healthy+smile/@28.8292646,78.780432,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb91e38f380f:0x94cd003e1884327a!8m2!3d28.8292646!4d78.780432!16s%2Fg%2F11sqhdw4nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PEARL+DENTAL:+We+ensure+you+a+healthy+smile/@28.8292646,78.780432,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb91e38f380f:0x94cd003e1884327a!8m2!3d28.8292646!4d78.780432!16s%2Fg%2F11sqhdw4nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10814,7 +10905,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PEARL+DENTAL:+We+ensure+you+a+healthy+smile/@28.8292646,78.780432,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb91e38f380f:0x94cd003e1884327a!8m2!3d28.8292646!4d78.780432!16s%2Fg%2F11sqhdw4nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "phoenix-hospital-moradabad-moradabad",
@@ -10862,7 +10954,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Phoenix+hospital+Moradabad/@28.8725354,78.7466523,17z/data=!3m1!4b1!4m6!3m5!1s0x390af951ba912eef:0x3a5018a8cfc0b476!8m2!3d28.8725354!4d78.7466523!16s%2Fg%2F11pgy1140_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Phoenix+hospital+Moradabad/@28.8725354,78.7466523,17z/data=!3m1!4b1!4m6!3m5!1s0x390af951ba912eef:0x3a5018a8cfc0b476!8m2!3d28.8725354!4d78.7466523!16s%2Fg%2F11pgy1140_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10928,10 +11020,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Phoenix+hospital+Moradabad/@28.8725354,78.7466523,17z/data=!3m1!4b1!4m6!3m5!1s0x390af951ba912eef:0x3a5018a8cfc0b476!8m2!3d28.8725354!4d78.7466523!16s%2Fg%2F11pgy1140_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "photon-hospital-moradabad",
@@ -10980,7 +11073,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Photon+Hospital/@28.8966911,78.727279,17z/data=!3m1!4b1!4m6!3m5!1s0x390affb0ada36143:0x9ed449de3796518f!8m2!3d28.8966911!4d78.727279!16s%2Fg%2F11ndyv104t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Photon+Hospital/@28.8966911,78.727279,17z/data=!3m1!4b1!4m6!3m5!1s0x390affb0ada36143:0x9ed449de3796518f!8m2!3d28.8966911!4d78.727279!16s%2Fg%2F11ndyv104t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11049,7 +11142,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Photon+Hospital/@28.8966911,78.727279,17z/data=!3m1!4b1!4m6!3m5!1s0x390affb0ada36143:0x9ed449de3796518f!8m2!3d28.8966911!4d78.727279!16s%2Fg%2F11ndyv104t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "photon-hospital-moradabad",
@@ -11097,7 +11191,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Photon+Hospital/@28.8587148,78.8259145,17z/data=!3m1!4b1!4m6!3m5!1s0x390afa1d5d82d937:0xc62d684d2a48f5e9!8m2!3d28.8587148!4d78.8259145!16s%2Fg%2F11cn9f_7dn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Photon+Hospital/@28.8587148,78.8259145,17z/data=!3m1!4b1!4m6!3m5!1s0x390afa1d5d82d937:0xc62d684d2a48f5e9!8m2!3d28.8587148!4d78.8259145!16s%2Fg%2F11cn9f_7dn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11166,7 +11260,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Photon+Hospital/@28.8587148,78.8259145,17z/data=!3m1!4b1!4m6!3m5!1s0x390afa1d5d82d937:0xc62d684d2a48f5e9!8m2!3d28.8587148!4d78.8259145!16s%2Fg%2F11cn9f_7dn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "piles-care-clinic-moradabad",
@@ -11214,7 +11309,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Piles+care+clinic/@28.8386481,78.7733286,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb6aa40177ed:0xbdf1b582e8f9a7b3!8m2!3d28.8386481!4d78.7733286!16s%2Fg%2F11j7d5tdl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Piles+care+clinic/@28.8386481,78.7733286,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb6aa40177ed:0xbdf1b582e8f9a7b3!8m2!3d28.8386481!4d78.7733286!16s%2Fg%2F11j7d5tdl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11280,10 +11375,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Piles+care+clinic/@28.8386481,78.7733286,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb6aa40177ed:0xbdf1b582e8f9a7b3!8m2!3d28.8386481!4d78.7733286!16s%2Fg%2F11j7d5tdl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "r-prasad-ayurvedic-chikitsa-kendra-moradabad",
@@ -11332,7 +11428,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/R.+Prasad+Ayurvedic+Chikitsa+Kendra/@28.8345761,78.7534771,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf6b181bf8d:0xb0e50a049e5cffd3!8m2!3d28.8345761!4d78.7534771!16s%2Fg%2F11c37v7c0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.+Prasad+Ayurvedic+Chikitsa+Kendra/@28.8345761,78.7534771,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf6b181bf8d:0xb0e50a049e5cffd3!8m2!3d28.8345761!4d78.7534771!16s%2Fg%2F11c37v7c0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11401,7 +11497,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R.+Prasad+Ayurvedic+Chikitsa+Kendra/@28.8345761,78.7534771,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf6b181bf8d:0xb0e50a049e5cffd3!8m2!3d28.8345761!4d78.7534771!16s%2Fg%2F11c37v7c0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rakesh-khare-surgical-center-moradabad",
@@ -11449,7 +11546,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rakesh+khare+surgical+center/@28.8523486,78.7710069,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb908d3eae87:0xcb88a34637d9adec!8m2!3d28.8523486!4d78.7710069!16s%2Fg%2F11fn0cy136?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rakesh+khare+surgical+center/@28.8523486,78.7710069,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb908d3eae87:0xcb88a34637d9adec!8m2!3d28.8523486!4d78.7710069!16s%2Fg%2F11fn0cy136?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11515,10 +11612,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rakesh+khare+surgical+center/@28.8523486,78.7710069,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb908d3eae87:0xcb88a34637d9adec!8m2!3d28.8523486!4d78.7710069!16s%2Fg%2F11fn0cy136?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ramganga-health-moradabad",
@@ -11566,7 +11664,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Ramganga+Health/@28.8776494,78.7435204,17z/data=!3m1!4b1!4m6!3m5!1s0x390afeca49a68039:0xabad3619a9338c31!8m2!3d28.8776494!4d78.7435204!16s%2Fg%2F12qh5j157?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ramganga+Health/@28.8776494,78.7435204,17z/data=!3m1!4b1!4m6!3m5!1s0x390afeca49a68039:0xabad3619a9338c31!8m2!3d28.8776494!4d78.7435204!16s%2Fg%2F12qh5j157?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11635,7 +11733,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ramganga+Health/@28.8776494,78.7435204,17z/data=!3m1!4b1!4m6!3m5!1s0x390afeca49a68039:0xabad3619a9338c31!8m2!3d28.8776494!4d78.7435204!16s%2Fg%2F12qh5j157?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rashid-hospital-moradabad",
@@ -11683,7 +11782,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Rashid+Hospital/@28.8066779,78.7685008,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbf711971f3:0x210a19f195e334d4!8m2!3d28.8066779!4d78.7685008!16s%2Fg%2F11kk64glsw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rashid+Hospital/@28.8066779,78.7685008,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbf711971f3:0x210a19f195e334d4!8m2!3d28.8066779!4d78.7685008!16s%2Fg%2F11kk64glsw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11752,7 +11851,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rashid+Hospital/@28.8066779,78.7685008,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbf711971f3:0x210a19f195e334d4!8m2!3d28.8066779!4d78.7685008!16s%2Fg%2F11kk64glsw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rhc-laser-and-aesthetics-moradabad",
@@ -11801,7 +11901,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RHC+Laser+and+Aesthetics/@28.8589208,78.7545895,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9acfef68e0b:0xb98d5970ab6962ac!8m2!3d28.8589208!4d78.7545895!16s%2Fg%2F11wtkpb9_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RHC+Laser+and+Aesthetics/@28.8589208,78.7545895,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9acfef68e0b:0xb98d5970ab6962ac!8m2!3d28.8589208!4d78.7545895!16s%2Fg%2F11wtkpb9_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11870,7 +11970,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RHC+Laser+and+Aesthetics/@28.8589208,78.7545895,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9acfef68e0b:0xb98d5970ab6962ac!8m2!3d28.8589208!4d78.7545895!16s%2Fg%2F11wtkpb9_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rk-hospital-moradabad",
@@ -11918,7 +12019,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/RK+Hospital/@28.8222051,78.7814784,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb8002eb2ca5:0x692660c9a8399dba!8m2!3d28.8222051!4d78.7814784!16s%2Fg%2F11f7bj6lzr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RK+Hospital/@28.8222051,78.7814784,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb8002eb2ca5:0x692660c9a8399dba!8m2!3d28.8222051!4d78.7814784!16s%2Fg%2F11f7bj6lzr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11984,10 +12085,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RK+Hospital/@28.8222051,78.7814784,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb8002eb2ca5:0x692660c9a8399dba!8m2!3d28.8222051!4d78.7814784!16s%2Fg%2F11f7bj6lzr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "roms-neuro-and-spine-care-centre-moradabad",
@@ -12037,7 +12139,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ROMS+Neuro+and+spine+care+centre/@28.8273625,78.7744531,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb00547db967:0x7cd4d16988b84e42!8m2!3d28.8273625!4d78.7744531!16s%2Fg%2F11n3yt065d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ROMS+Neuro+and+spine+care+centre/@28.8273625,78.7744531,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb00547db967:0x7cd4d16988b84e42!8m2!3d28.8273625!4d78.7744531!16s%2Fg%2F11n3yt065d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12103,10 +12205,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ROMS+Neuro+and+spine+care+centre/@28.8273625,78.7744531,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb00547db967:0x7cd4d16988b84e42!8m2!3d28.8273625!4d78.7744531!16s%2Fg%2F11n3yt065d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saaol-heart-centre-moradabad-moradabad",
@@ -12156,7 +12259,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Saaol+Heart+Centre+Moradabad/@28.8683934,78.7496686,17z/data=!3m1!4b1!4m6!3m5!1s0x390af95f6570ade1:0xf26d40a7ad7a1415!8m2!3d28.8683934!4d78.7496686!16s%2Fg%2F11gx_yglmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+Heart+Centre+Moradabad/@28.8683934,78.7496686,17z/data=!3m1!4b1!4m6!3m5!1s0x390af95f6570ade1:0xf26d40a7ad7a1415!8m2!3d28.8683934!4d78.7496686!16s%2Fg%2F11gx_yglmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12222,10 +12325,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saaol+Heart+Centre+Moradabad/@28.8683934,78.7496686,17z/data=!3m1!4b1!4m6!3m5!1s0x390af95f6570ade1:0xf26d40a7ad7a1415!8m2!3d28.8683934!4d78.7496686!16s%2Fg%2F11gx_yglmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sachin-oral-and-dental-care-centre-moradabad",
@@ -12273,7 +12377,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Sachin+Oral+%26+Dental+Care+Centre/@28.8333625,78.7532483,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc3cb9899f3:0xfec969682a52eccc!8m2!3d28.8333625!4d78.7532483!16s%2Fg%2F11cp5s9tfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sachin+Oral+%26+Dental+Care+Centre/@28.8333625,78.7532483,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc3cb9899f3:0xfec969682a52eccc!8m2!3d28.8333625!4d78.7532483!16s%2Fg%2F11cp5s9tfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12342,7 +12446,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sachin+Oral+%26+Dental+Care+Centre/@28.8333625,78.7532483,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc3cb9899f3:0xfec969682a52eccc!8m2!3d28.8333625!4d78.7532483!16s%2Fg%2F11cp5s9tfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sahu-rameshwar-saran-kothiwal-hospital-heart-and-neuro-centre-moradabad",
@@ -12393,7 +12498,7 @@
       "Google rating 2.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sahu+Rameshwar+Saran+Kothiwal+Hospital+Heart+and+Neuro+centre/@28.8964537,78.7283648,17z/data=!3m1!4b1!4m6!3m5!1s0x390afff1638f37d5:0xbeec2e003bcff93d!8m2!3d28.8964537!4d78.7283648!16s%2Fg%2F11h3ws2qzv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahu+Rameshwar+Saran+Kothiwal+Hospital+Heart+and+Neuro+centre/@28.8964537,78.7283648,17z/data=!3m1!4b1!4m6!3m5!1s0x390afff1638f37d5:0xbeec2e003bcff93d!8m2!3d28.8964537!4d78.7283648!16s%2Fg%2F11h3ws2qzv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12462,7 +12567,8 @@
     "rating": 2.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sahu+Rameshwar+Saran+Kothiwal+Hospital+Heart+and+Neuro+centre/@28.8964537,78.7283648,17z/data=!3m1!4b1!4m6!3m5!1s0x390afff1638f37d5:0xbeec2e003bcff93d!8m2!3d28.8964537!4d78.7283648!16s%2Fg%2F11h3ws2qzv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saxena-dental-clinic-moradabad",
@@ -12510,7 +12616,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Saxena+Dental+Clinic/@28.8351633,78.7784382,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb61602b3393:0x649ad067df6fa3b9!8m2!3d28.8351633!4d78.7784382!16s%2Fg%2F11fkr0_d45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saxena+Dental+Clinic/@28.8351633,78.7784382,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb61602b3393:0x649ad067df6fa3b9!8m2!3d28.8351633!4d78.7784382!16s%2Fg%2F11fkr0_d45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12579,7 +12685,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saxena+Dental+Clinic/@28.8351633,78.7784382,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb61602b3393:0x649ad067df6fa3b9!8m2!3d28.8351633!4d78.7784382!16s%2Fg%2F11fkr0_d45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sehgals-point-skin-and-hair-care-moradabad",
@@ -12627,7 +12734,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sehgals+Point+Skin+%26+Hair+Care/@28.8367585,78.7667375,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb2114c829d9:0x69e786567b801c22!8m2!3d28.8367585!4d78.7667375!16s%2Fg%2F11fpgwrk40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sehgals+Point+Skin+%26+Hair+Care/@28.8367585,78.7667375,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb2114c829d9:0x69e786567b801c22!8m2!3d28.8367585!4d78.7667375!16s%2Fg%2F11fpgwrk40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12696,7 +12803,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sehgals+Point+Skin+%26+Hair+Care/@28.8367585,78.7667375,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb2114c829d9:0x69e786567b801c22!8m2!3d28.8367585!4d78.7667375!16s%2Fg%2F11fpgwrk40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sewa-hospital-clinic-ent-and-maternity-center-moradabad",
@@ -12745,7 +12853,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sewa+hospital+(Clinic)+(ENT+%26+Maternity+center)/@28.8765984,78.7486894,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9354476b819:0x6a05592fec5a950a!8m2!3d28.8765984!4d78.7486894!16s%2Fg%2F11cnsg84zg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sewa+hospital+(Clinic)+(ENT+%26+Maternity+center)/@28.8765984,78.7486894,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9354476b819:0x6a05592fec5a950a!8m2!3d28.8765984!4d78.7486894!16s%2Fg%2F11cnsg84zg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12814,7 +12922,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sewa+hospital+(Clinic)+(ENT+%26+Maternity+center)/@28.8765984,78.7486894,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9354476b819:0x6a05592fec5a950a!8m2!3d28.8765984!4d78.7486894!16s%2Fg%2F11cnsg84zg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shah-surgical-nursing-home-and-dental-clinic-moradabad",
@@ -12863,7 +12972,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Shah+Surgical+Nursing+home+%26+Dental+Clinic/@28.8497547,78.7702345,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe097a527ff:0xdf4580ea59e44d5b!8m2!3d28.8497547!4d78.7702345!16s%2Fg%2F11bxkwndfm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shah+Surgical+Nursing+home+%26+Dental+Clinic/@28.8497547,78.7702345,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe097a527ff:0xdf4580ea59e44d5b!8m2!3d28.8497547!4d78.7702345!16s%2Fg%2F11bxkwndfm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12932,7 +13041,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shah+Surgical+Nursing+home+%26+Dental+Clinic/@28.8497547,78.7702345,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe097a527ff:0xdf4580ea59e44d5b!8m2!3d28.8497547!4d78.7702345!16s%2Fg%2F11bxkwndfm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shashi-prabha-hospital-moradabad",
@@ -12981,7 +13091,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shashi+Prabha+hospital/@28.8495536,78.7713082,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe4f82ae769:0xd3cb11c79e47bb84!8m2!3d28.8495536!4d78.7713082!16s%2Fg%2F11dzthzvdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shashi+Prabha+hospital/@28.8495536,78.7713082,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe4f82ae769:0xd3cb11c79e47bb84!8m2!3d28.8495536!4d78.7713082!16s%2Fg%2F11dzthzvdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13050,7 +13160,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shashi+Prabha+hospital/@28.8495536,78.7713082,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe4f82ae769:0xd3cb11c79e47bb84!8m2!3d28.8495536!4d78.7713082!16s%2Fg%2F11dzthzvdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shekhar-kidney-and-stone-clinic-moradabad",
@@ -13099,7 +13210,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Shekhar+Kidney+And+Stone+Clinic/@28.8489287,78.770013,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe0ab978031:0x84e16c92f11a851a!8m2!3d28.8489287!4d78.770013!16s%2Fg%2F11c31091v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shekhar+Kidney+And+Stone+Clinic/@28.8489287,78.770013,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe0ab978031:0x84e16c92f11a851a!8m2!3d28.8489287!4d78.770013!16s%2Fg%2F11c31091v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13168,7 +13279,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shekhar+Kidney+And+Stone+Clinic/@28.8489287,78.770013,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe0ab978031:0x84e16c92f11a851a!8m2!3d28.8489287!4d78.770013!16s%2Fg%2F11c31091v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sherwani-pain-clinic-moradabad",
@@ -13217,7 +13329,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sherwani+Pain+Clinic/@28.8286669,78.7744409,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbee0c0e383:0x15574aedaf307b11!8m2!3d28.8286669!4d78.7744409!16s%2Fg%2F11grq3h5h0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sherwani+Pain+Clinic/@28.8286669,78.7744409,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbee0c0e383:0x15574aedaf307b11!8m2!3d28.8286669!4d78.7744409!16s%2Fg%2F11grq3h5h0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13283,10 +13395,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sherwani+Pain+Clinic/@28.8286669,78.7744409,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbee0c0e383:0x15574aedaf307b11!8m2!3d28.8286669!4d78.7744409!16s%2Fg%2F11grq3h5h0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-diagnostics-and-neurospine-centre-moradabad",
@@ -13337,7 +13450,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Diagnostics+%26+Neurospine+Centre/@28.8445756,78.7705123,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbb0ef35b563:0x470cb2e8bcd51087!8m2!3d28.8445756!4d78.7705123!16s%2Fg%2F11rtqs7fjt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Diagnostics+%26+Neurospine+Centre/@28.8445756,78.7705123,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbb0ef35b563:0x470cb2e8bcd51087!8m2!3d28.8445756!4d78.7705123!16s%2Fg%2F11rtqs7fjt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13403,10 +13516,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Diagnostics+%26+Neurospine+Centre/@28.8445756,78.7705123,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbb0ef35b563:0x470cb2e8bcd51087!8m2!3d28.8445756!4d78.7705123!16s%2Fg%2F11rtqs7fjt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shreya-neuro-care-moradabad",
@@ -13456,7 +13570,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shreya+Neuro+Care/@28.8281218,78.7727639,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbe5720dbfb:0x7f3573c3e251136e!8m2!3d28.8281218!4d78.7727639!16s%2Fg%2F11bxjj2sgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreya+Neuro+Care/@28.8281218,78.7727639,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbe5720dbfb:0x7f3573c3e251136e!8m2!3d28.8281218!4d78.7727639!16s%2Fg%2F11bxjj2sgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13525,7 +13639,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shreya+Neuro+Care/@28.8281218,78.7727639,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbe5720dbfb:0x7f3573c3e251136e!8m2!3d28.8281218!4d78.7727639!16s%2Fg%2F11bxjj2sgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shubham-nursing-home-moradabad",
@@ -13575,7 +13690,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shubham+Nursing+Home/@28.847367,78.7632528,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe415057787:0xe9e3227f3c417f0!8m2!3d28.847367!4d78.7632528!16s%2Fg%2F11xvlfr06?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubham+Nursing+Home/@28.847367,78.7632528,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe415057787:0xe9e3227f3c417f0!8m2!3d28.847367!4d78.7632528!16s%2Fg%2F11xvlfr06?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13644,7 +13759,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shubham+Nursing+Home/@28.847367,78.7632528,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe415057787:0xe9e3227f3c417f0!8m2!3d28.847367!4d78.7632528!16s%2Fg%2F11xvlfr06?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shuddhi-hiims-jeena-sikho-moradabad-ayurveda-clinic-moradabad",
@@ -13693,7 +13809,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shuddhi+Hiims+(Jeena+Sikho)+(Moradabad)+Ayurveda+Clinic/@28.8406847,78.7532074,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe1cd00c9ed:0x627f63655b4f7c4!8m2!3d28.8406847!4d78.7532074!16s%2Fg%2F11glv1jx3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shuddhi+Hiims+(Jeena+Sikho)+(Moradabad)+Ayurveda+Clinic/@28.8406847,78.7532074,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe1cd00c9ed:0x627f63655b4f7c4!8m2!3d28.8406847!4d78.7532074!16s%2Fg%2F11glv1jx3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13762,7 +13878,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shuddhi+Hiims+(Jeena+Sikho)+(Moradabad)+Ayurveda+Clinic/@28.8406847,78.7532074,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe1cd00c9ed:0x627f63655b4f7c4!8m2!3d28.8406847!4d78.7532074!16s%2Fg%2F11glv1jx3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "singh-hospital-moradabad",
@@ -13810,7 +13927,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Singh+Hospital/@28.8282325,78.7738398,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbefabbab7b:0x9361bf5c7cadd3e9!8m2!3d28.8282325!4d78.7738398!16s%2Fg%2F1tdlfnt4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singh+Hospital/@28.8282325,78.7738398,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbefabbab7b:0x9361bf5c7cadd3e9!8m2!3d28.8282325!4d78.7738398!16s%2Fg%2F1tdlfnt4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13879,7 +13996,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Singh+Hospital/@28.8282325,78.7738398,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbefabbab7b:0x9361bf5c7cadd3e9!8m2!3d28.8282325!4d78.7738398!16s%2Fg%2F1tdlfnt4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "singhal-dental-clinic-moradabad",
@@ -13927,7 +14045,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Singhal+Dental+Clinic/@28.8437734,78.7679315,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe7cb8aa56d:0xad068f8348bd5a91!8m2!3d28.8437734!4d78.7679315!16s%2Fg%2F11bc7qf1tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singhal+Dental+Clinic/@28.8437734,78.7679315,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe7cb8aa56d:0xad068f8348bd5a91!8m2!3d28.8437734!4d78.7679315!16s%2Fg%2F11bc7qf1tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13993,10 +14111,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Singhal+Dental+Clinic/@28.8437734,78.7679315,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbe7cb8aa56d:0xad068f8348bd5a91!8m2!3d28.8437734!4d78.7679315!16s%2Fg%2F11bc7qf1tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sparsh-ivf-clinic-moradabad",
@@ -14045,7 +14164,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Sparsh+IVF+Clinic/@28.8224844,78.7811792,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbba988aad97:0x6d77a796112b8b0a!8m2!3d28.8224844!4d78.7811792!16s%2Fg%2F11f3y05y3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsh+IVF+Clinic/@28.8224844,78.7811792,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbba988aad97:0x6d77a796112b8b0a!8m2!3d28.8224844!4d78.7811792!16s%2Fg%2F11f3y05y3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14114,7 +14233,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sparsh+IVF+Clinic/@28.8224844,78.7811792,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbba988aad97:0x6d77a796112b8b0a!8m2!3d28.8224844!4d78.7811792!16s%2Fg%2F11f3y05y3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ss-dental-clinic-and-implant-centre-moradabad-moradabad",
@@ -14162,7 +14282,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SS+Dental+Clinic+%26+Implant+Centre,+Moradabad./@28.8381001,78.7809244,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc5fd6cae59:0xb043317ae3e32468!8m2!3d28.8381001!4d78.7809244!16s%2Fg%2F11h1vh3m2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SS+Dental+Clinic+%26+Implant+Centre,+Moradabad./@28.8381001,78.7809244,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc5fd6cae59:0xb043317ae3e32468!8m2!3d28.8381001!4d78.7809244!16s%2Fg%2F11h1vh3m2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14228,10 +14348,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SS+Dental+Clinic+%26+Implant+Centre,+Moradabad./@28.8381001,78.7809244,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbc5fd6cae59:0xb043317ae3e32468!8m2!3d28.8381001!4d78.7809244!16s%2Fg%2F11h1vh3m2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sultan-hospital-moradabad",
@@ -14279,7 +14400,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/SULTAN+HOSPITAL/@28.809742,78.769875,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb9ff33e67a9:0xf09d5d8208dbdd9!8m2!3d28.809742!4d78.769875!16s%2Fg%2F11c56rfd8x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SULTAN+HOSPITAL/@28.809742,78.769875,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb9ff33e67a9:0xf09d5d8208dbdd9!8m2!3d28.809742!4d78.769875!16s%2Fg%2F11c56rfd8x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14348,7 +14469,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SULTAN+HOSPITAL/@28.809742,78.769875,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb9ff33e67a9:0xf09d5d8208dbdd9!8m2!3d28.809742!4d78.769875!16s%2Fg%2F11c56rfd8x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sultan-laparoscopy-hospital-moradabad",
@@ -14396,7 +14518,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sultan+Laparoscopy+Hospital/@28.8235446,78.7829101,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbd93484532b:0x65d4f027bf68fb96!8m2!3d28.8235446!4d78.7829101!16s%2Fg%2F11g2wvhnf_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sultan+Laparoscopy+Hospital/@28.8235446,78.7829101,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbd93484532b:0x65d4f027bf68fb96!8m2!3d28.8235446!4d78.7829101!16s%2Fg%2F11g2wvhnf_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -14462,10 +14584,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sultan+Laparoscopy+Hospital/@28.8235446,78.7829101,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbd93484532b:0x65d4f027bf68fb96!8m2!3d28.8235446!4d78.7829101!16s%2Fg%2F11g2wvhnf_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surabhi-ivf-centre-mother-and-child-care-moradabad",
@@ -14516,7 +14639,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Surabhi+IVF+Centre+(Mother+%26+Child+Care)/@28.8655894,78.7481532,17z/data=!3m1!4b1!4m6!3m5!1s0x390af94d378e2b6b:0xd132d5e0d7a570f3!8m2!3d28.8655894!4d78.7481532!16s%2Fg%2F12hk8xc96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surabhi+IVF+Centre+(Mother+%26+Child+Care)/@28.8655894,78.7481532,17z/data=!3m1!4b1!4m6!3m5!1s0x390af94d378e2b6b:0xd132d5e0d7a570f3!8m2!3d28.8655894!4d78.7481532!16s%2Fg%2F12hk8xc96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14585,7 +14708,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surabhi+IVF+Centre+(Mother+%26+Child+Care)/@28.8655894,78.7481532,17z/data=!3m1!4b1!4m6!3m5!1s0x390af94d378e2b6b:0xd132d5e0d7a570f3!8m2!3d28.8655894!4d78.7481532!16s%2Fg%2F12hk8xc96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tirupati-hospital-moradabad",
@@ -14633,7 +14757,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Tirupati+Hospital/@28.836826,78.7453246,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc09756b354b:0x6c36b66919afd01f!8m2!3d28.836826!4d78.7453246!16s%2Fg%2F11c318d8sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tirupati+Hospital/@28.836826,78.7453246,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc09756b354b:0x6c36b66919afd01f!8m2!3d28.836826!4d78.7453246!16s%2Fg%2F11c318d8sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14702,7 +14826,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tirupati+Hospital/@28.836826,78.7453246,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc09756b354b:0x6c36b66919afd01f!8m2!3d28.836826!4d78.7453246!16s%2Fg%2F11c318d8sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tmu-hospital-moradabad-uttar-pradesh-bagadpur",
@@ -14751,7 +14876,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/TMU+Hospital,+Moradabad,+Uttar+Pradesh/@28.8220898,78.6585617,17z/data=!3m1!4b1!4m6!3m5!1s0x390afdf54eb3683f:0x272419cbb2b959c!8m2!3d28.8220898!4d78.6585617!16s%2Fg%2F1hf00jlml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TMU+Hospital,+Moradabad,+Uttar+Pradesh/@28.8220898,78.6585617,17z/data=!3m1!4b1!4m6!3m5!1s0x390afdf54eb3683f:0x272419cbb2b959c!8m2!3d28.8220898!4d78.6585617!16s%2Fg%2F1hf00jlml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -14820,7 +14945,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TMU+Hospital,+Moradabad,+Uttar+Pradesh/@28.8220898,78.6585617,17z/data=!3m1!4b1!4m6!3m5!1s0x390afdf54eb3683f:0x272419cbb2b959c!8m2!3d28.8220898!4d78.6585617!16s%2Fg%2F1hf00jlml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tooth-and-gum-care-clinic-moradabad",
@@ -14868,7 +14994,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Tooth+and+Gum+Care+Clinic/@28.8272251,78.7741043,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbe93c471dd:0x1530c7e9d39a095b!8m2!3d28.8272251!4d78.7741043!16s%2Fg%2F11c1s0sjlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tooth+and+Gum+Care+Clinic/@28.8272251,78.7741043,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbe93c471dd:0x1530c7e9d39a095b!8m2!3d28.8272251!4d78.7741043!16s%2Fg%2F11c1s0sjlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14937,7 +15063,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tooth+and+Gum+Care+Clinic/@28.8272251,78.7741043,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbe93c471dd:0x1530c7e9d39a095b!8m2!3d28.8272251!4d78.7741043!16s%2Fg%2F11c1s0sjlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ttt-moradabad",
@@ -14985,7 +15112,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Ttt/@28.8842273,78.7409551,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9de19a841fd:0xdeaf0ada48236caa!8m2!3d28.8842273!4d78.7409551!16s%2Fg%2F11gpg_k87t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ttt/@28.8842273,78.7409551,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9de19a841fd:0xdeaf0ada48236caa!8m2!3d28.8842273!4d78.7409551!16s%2Fg%2F11gpg_k87t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -15054,7 +15181,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ttt/@28.8842273,78.7409551,17z/data=!3m1!4b1!4m6!3m5!1s0x390af9de19a841fd:0xdeaf0ada48236caa!8m2!3d28.8842273!4d78.7409551!16s%2Fg%2F11gpg_k87t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ujala-cygnus-bright-star-hospital-best-hospital-in-moradabad-moradabad",
@@ -15103,7 +15231,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ujala+Cygnus+Bright+Star+Hospital+%7C+Best+Hospital+in+Moradabad/@28.8297378,78.7056573,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc345af95c6d:0x55559bf341691e64!8m2!3d28.8297378!4d78.7056573!16s%2Fg%2F11byyqk9d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ujala+Cygnus+Bright+Star+Hospital+%7C+Best+Hospital+in+Moradabad/@28.8297378,78.7056573,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc345af95c6d:0x55559bf341691e64!8m2!3d28.8297378!4d78.7056573!16s%2Fg%2F11byyqk9d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -15172,7 +15300,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ujala+Cygnus+Bright+Star+Hospital+%7C+Best+Hospital+in+Moradabad/@28.8297378,78.7056573,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc345af95c6d:0x55559bf341691e64!8m2!3d28.8297378!4d78.7056573!16s%2Fg%2F11byyqk9d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "universal-eye-and-skin-care-moradabad",
@@ -15222,7 +15351,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/UNIVERSAL+EYE+%26+SKIN+CARE/@28.8838349,78.7413762,17z/data=!3m1!4b1!4m6!3m5!1s0x390afecbc2e95555:0x62e1a09c791ac3e9!8m2!3d28.8838349!4d78.7413762!16s%2Fg%2F11y1vx6h01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UNIVERSAL+EYE+%26+SKIN+CARE/@28.8838349,78.7413762,17z/data=!3m1!4b1!4m6!3m5!1s0x390afecbc2e95555:0x62e1a09c791ac3e9!8m2!3d28.8838349!4d78.7413762!16s%2Fg%2F11y1vx6h01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -15291,7 +15420,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/UNIVERSAL+EYE+%26+SKIN+CARE/@28.8838349,78.7413762,17z/data=!3m1!4b1!4m6!3m5!1s0x390afecbc2e95555:0x62e1a09c791ac3e9!8m2!3d28.8838349!4d78.7413762!16s%2Fg%2F11y1vx6h01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vaibhav-oral-and-maxillofacial-care-centre-moradabad",
@@ -15340,7 +15470,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Vaibhav+Oral+And+Maxillofacial+Care+Centre/@28.8638334,78.7518662,17z/data=!3m1!4b1!4m6!3m5!1s0x390af95272d17b75:0x256ad9effafd9802!8m2!3d28.8638334!4d78.7518662!16s%2Fg%2F11dyx8j80z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaibhav+Oral+And+Maxillofacial+Care+Centre/@28.8638334,78.7518662,17z/data=!3m1!4b1!4m6!3m5!1s0x390af95272d17b75:0x256ad9effafd9802!8m2!3d28.8638334!4d78.7518662!16s%2Fg%2F11dyx8j80z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15406,10 +15536,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vaibhav+Oral+And+Maxillofacial+Care+Centre/@28.8638334,78.7518662,17z/data=!3m1!4b1!4m6!3m5!1s0x390af95272d17b75:0x256ad9effafd9802!8m2!3d28.8638334!4d78.7518662!16s%2Fg%2F11dyx8j80z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vedanta-healthcare-moradabad",
@@ -15458,7 +15589,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VEDANTA+HEALTHCARE/@28.8272358,78.7233395,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd6e989f4439:0xfac141e16b23b9a8!8m2!3d28.8272358!4d78.7233395!16s%2Fg%2F11vz0m7f8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VEDANTA+HEALTHCARE/@28.8272358,78.7233395,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd6e989f4439:0xfac141e16b23b9a8!8m2!3d28.8272358!4d78.7233395!16s%2Fg%2F11vz0m7f8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -15527,7 +15658,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VEDANTA+HEALTHCARE/@28.8272358,78.7233395,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd6e989f4439:0xfac141e16b23b9a8!8m2!3d28.8272358!4d78.7233395!16s%2Fg%2F11vz0m7f8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vidisha-plactic-surgery-dr-ms-tiyagi-moradabad",
@@ -15573,7 +15705,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/vidisha+Plactic+Surgery-Dr+MS+Tiyagi/@28.8276683,78.7717706,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb4df5e67813:0x4b4a5dea4de583b5!8m2!3d28.8276683!4d78.7717706!16s%2Fg%2F11gmcydh2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/vidisha+Plactic+Surgery-Dr+MS+Tiyagi/@28.8276683,78.7717706,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb4df5e67813:0x4b4a5dea4de583b5!8m2!3d28.8276683!4d78.7717706!16s%2Fg%2F11gmcydh2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15639,10 +15771,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/vidisha+Plactic+Surgery-Dr+MS+Tiyagi/@28.8276683,78.7717706,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb4df5e67813:0x4b4a5dea4de583b5!8m2!3d28.8276683!4d78.7717706!16s%2Fg%2F11gmcydh2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vighnesh-healthcare-moradabad",
@@ -15690,7 +15823,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vighnesh+Healthcare/@28.8842682,78.7408435,17z/data=!3m1!4b1!4m6!3m5!1s0x390afff60bd4f507:0x4438cfc3e18e7952!8m2!3d28.8842682!4d78.7408435!16s%2Fg%2F11ynf9z15n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vighnesh+Healthcare/@28.8842682,78.7408435,17z/data=!3m1!4b1!4m6!3m5!1s0x390afff60bd4f507:0x4438cfc3e18e7952!8m2!3d28.8842682!4d78.7408435!16s%2Fg%2F11ynf9z15n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15756,10 +15889,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vighnesh+Healthcare/@28.8842682,78.7408435,17z/data=!3m1!4b1!4m6!3m5!1s0x390afff60bd4f507:0x4438cfc3e18e7952!8m2!3d28.8842682!4d78.7408435!16s%2Fg%2F11ynf9z15n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vimal-dental-clinic-moradabad",
@@ -15807,7 +15941,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/Vimal+Dental+Clinic/@28.8406411,78.7352367,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc1aa4993553:0xf8b7a607c358f5ea!8m2!3d28.8406411!4d78.7352367!16s%2Fg%2F11bc7rgjy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vimal+Dental+Clinic/@28.8406411,78.7352367,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc1aa4993553:0xf8b7a607c358f5ea!8m2!3d28.8406411!4d78.7352367!16s%2Fg%2F11bc7rgjy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15876,7 +16010,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vimal+Dental+Clinic/@28.8406411,78.7352367,17z/data=!3m1!4b1!4m6!3m5!1s0x390afc1aa4993553:0xf8b7a607c358f5ea!8m2!3d28.8406411!4d78.7352367!16s%2Fg%2F11bc7rgjy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vinayak-skin-clinic-moradabad",
@@ -15924,7 +16059,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Vinayak+Skin+Clinic/@28.827262,78.7742743,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbe95b6d53f:0xb217d05bd56e53a1!8m2!3d28.827262!4d78.7742743!16s%2Fg%2F11g6qyyv6c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vinayak+Skin+Clinic/@28.827262,78.7742743,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbe95b6d53f:0xb217d05bd56e53a1!8m2!3d28.827262!4d78.7742743!16s%2Fg%2F11g6qyyv6c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15993,7 +16128,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vinayak+Skin+Clinic/@28.827262,78.7742743,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbe95b6d53f:0xb217d05bd56e53a1!8m2!3d28.827262!4d78.7742743!16s%2Fg%2F11g6qyyv6c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "white-tooth-dental-care-and-implant-center-moradabad",
@@ -16041,7 +16177,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/White+Tooth+Dental+Care+and+Implant+Center/@28.8442293,78.7294818,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd8488fa0e79:0x860ba6042e20941e!8m2!3d28.8442293!4d78.7294818!16s%2Fg%2F11y7xfpwz0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/White+Tooth+Dental+Care+and+Implant+Center/@28.8442293,78.7294818,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd8488fa0e79:0x860ba6042e20941e!8m2!3d28.8442293!4d78.7294818!16s%2Fg%2F11y7xfpwz0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -16107,10 +16243,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/White+Tooth+Dental+Care+and+Implant+Center/@28.8442293,78.7294818,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd8488fa0e79:0x860ba6042e20941e!8m2!3d28.8442293!4d78.7294818!16s%2Fg%2F11y7xfpwz0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wisdom-dental-and-maxillofacial-centre-moradabad",
@@ -16159,7 +16296,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Wisdom+Dental+%26+Maxillofacial+Centre/@28.8292299,78.7713539,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbecfb449b1:0xf577df95cbdce089!8m2!3d28.8292299!4d78.7713539!16s%2Fg%2F11gw165n0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wisdom+Dental+%26+Maxillofacial+Centre/@28.8292299,78.7713539,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbecfb449b1:0xf577df95cbdce089!8m2!3d28.8292299!4d78.7713539!16s%2Fg%2F11gw165n0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -16225,10 +16362,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Wisdom+Dental+%26+Maxillofacial+Centre/@28.8292299,78.7713539,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbbecfb449b1:0xf577df95cbdce089!8m2!3d28.8292299!4d78.7713539!16s%2Fg%2F11gw165n0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yashoda-hospital-dr-pankaj-gupta-moradabad",
@@ -16276,7 +16414,7 @@
     "metrics": [
       "Google rating 2.6"
     ],
-    "image": "https://www.google.com/maps/place/Yashoda+hospital+%28Dr+Pankaj+Gupta%29/data=!4m7!3m6!1s0x390afb79af201e45:0xf60b842c20f2c7bb!8m2!3d28.8285322!4d78.7715731!16s%2Fg%2F11fl5tqy9m!19sChIJRR4gr3n7CjkRu8fyICyEC_Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashoda+hospital+%28Dr+Pankaj+Gupta%29/data=!4m7!3m6!1s0x390afb79af201e45:0xf60b842c20f2c7bb!8m2!3d28.8285322!4d78.7715731!16s%2Fg%2F11fl5tqy9m!19sChIJRR4gr3n7CjkRu8fyICyEC_Y?authuser=0&hl=en&rclk=1"
@@ -16345,7 +16483,8 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashoda+hospital+%28Dr+Pankaj+Gupta%29/data=!4m7!3m6!1s0x390afb79af201e45:0xf60b842c20f2c7bb!8m2!3d28.8285322!4d78.7715731!16s%2Fg%2F11fl5tqy9m!19sChIJRR4gr3n7CjkRu8fyICyEC_Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "zd-heart-care-and-maternity-centre-hospital-moradabad",
@@ -16394,7 +16533,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/ZD+Heart+Care+and+Maternity+Centre+Hospital/@28.8244461,78.7807328,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb61b52602c1:0x69222a2e5e0753a6!8m2!3d28.8244461!4d78.7807328!16s%2Fg%2F11y24cgc72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ZD+Heart+Care+and+Maternity+Centre+Hospital/@28.8244461,78.7807328,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb61b52602c1:0x69222a2e5e0753a6!8m2!3d28.8244461!4d78.7807328!16s%2Fg%2F11y24cgc72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -16463,7 +16602,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ZD+Heart+Care+and+Maternity+Centre+Hospital/@28.8244461,78.7807328,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb61b52602c1:0x69222a2e5e0753a6!8m2!3d28.8244461!4d78.7807328!16s%2Fg%2F11y24cgc72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "moradabad",
@@ -16511,7 +16651,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%AE%E0%A5%87%E0%A4%A1+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/@28.8396582,78.8278718,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb237dd79c0d:0x5d44c0268819f5df!8m2!3d28.8396582!4d78.8278718!16s%2Fg%2F11rpd9s21d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%AE%E0%A5%87%E0%A4%A1+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/@28.8396582,78.8278718,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb237dd79c0d:0x5d44c0268819f5df!8m2!3d28.8396582!4d78.8278718!16s%2Fg%2F11rpd9s21d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -16577,10 +16717,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%AE%E0%A5%87%E0%A4%A1+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/@28.8396582,78.8278718,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb237dd79c0d:0x5d44c0268819f5df!8m2!3d28.8396582!4d78.8278718!16s%2Fg%2F11rpd9s21d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cataract-retina-glaucoma-squint-oculoplasty-moradabad",
@@ -16629,7 +16770,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%B7%F0%9D%97%AE%F0%9D%97%B7+%F0%9D%97%98%F0%9D%98%86%F0%9D%97%B2+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+CATARACT+-+RETINA+-+GLAUCOMA+-+SQUINT+-+OCULOPLASTY/@28.8376974,78.7685179,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbb885ab9347:0xb6eb105d20730a38!8m2!3d28.8376974!4d78.7685179!16s%2Fg%2F12q4rwrgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%B7%F0%9D%97%AE%F0%9D%97%B7+%F0%9D%97%98%F0%9D%98%86%F0%9D%97%B2+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+CATARACT+-+RETINA+-+GLAUCOMA+-+SQUINT+-+OCULOPLASTY/@28.8376974,78.7685179,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbb885ab9347:0xb6eb105d20730a38!8m2!3d28.8376974!4d78.7685179!16s%2Fg%2F12q4rwrgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -16698,7 +16839,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%B7%F0%9D%97%AE%F0%9D%97%B7+%F0%9D%97%98%F0%9D%98%86%F0%9D%97%B2+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+CATARACT+-+RETINA+-+GLAUCOMA+-+SQUINT+-+OCULOPLASTY/@28.8376974,78.7685179,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbb885ab9347:0xb6eb105d20730a38!8m2!3d28.8376974!4d78.7685179!16s%2Fg%2F12q4rwrgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "laser-hair-reduction-in-moradabad-hair-transplant-in-moradabad-co2-laser-botox-fillers-moradabad",
@@ -16747,7 +16889,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%9A%F0%9D%97%BC%F0%9D%97%B2%F0%9D%97%B9+%F0%9D%97%A3%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE+-+Laser+Hair+Reduction+in+Moradabad+%7C+Hair+Transplant+in+moradabad+%7C+CO2+Laser+%7C+Botox+%7C+Fillers/@28.8365916,78.7676798,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbd211ee7eb5:0xba0c9240679978c0!8m2!3d28.8365916!4d78.7676798!16s%2Fg%2F11v0nr67jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%9A%F0%9D%97%BC%F0%9D%97%B2%F0%9D%97%B9+%F0%9D%97%A3%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE+-+Laser+Hair+Reduction+in+Moradabad+%7C+Hair+Transplant+in+moradabad+%7C+CO2+Laser+%7C+Botox+%7C+Fillers/@28.8365916,78.7676798,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbd211ee7eb5:0xba0c9240679978c0!8m2!3d28.8365916!4d78.7676798!16s%2Fg%2F11v0nr67jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -16813,10 +16955,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%9A%F0%9D%97%BC%F0%9D%97%B2%F0%9D%97%B9+%F0%9D%97%A3%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE+-+Laser+Hair+Reduction+in+Moradabad+%7C+Hair+Transplant+in+moradabad+%7C+CO2+Laser+%7C+Botox+%7C+Fillers/@28.8365916,78.7676798,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbd211ee7eb5:0xba0c9240679978c0!8m2!3d28.8365916!4d78.7676798!16s%2Fg%2F11v0nr67jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "orthodontist-in-moradabad-braces-specialist-orthodontic-treatment-moradabad",
@@ -16867,7 +17010,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%B5%F0%9D%97%BB%F0%9D%97%AE+%F0%9D%97%A0%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9E%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%84%F0%9D%97%AE%F0%9D%97%B9+-+Orthodontist+in+Moradabad+%7C+Braces+Specialist+%7C+Orthodontic+Treatment/@28.8427085,78.7618726,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb4dc8d3baa7:0xc5fa818668af316d!8m2!3d28.8427085!4d78.7618726!16s%2Fg%2F11kbt98c1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%B5%F0%9D%97%BB%F0%9D%97%AE+%F0%9D%97%A0%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9E%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%84%F0%9D%97%AE%F0%9D%97%B9+-+Orthodontist+in+Moradabad+%7C+Braces+Specialist+%7C+Orthodontic+Treatment/@28.8427085,78.7618726,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb4dc8d3baa7:0xc5fa818668af316d!8m2!3d28.8427085!4d78.7618726!16s%2Fg%2F11kbt98c1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -16933,10 +17076,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF+%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%B5%F0%9D%97%BB%F0%9D%97%AE+%F0%9D%97%A0%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9E%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%84%F0%9D%97%AE%F0%9D%97%B9+-+Orthodontist+in+Moradabad+%7C+Braces+Specialist+%7C+Orthodontic+Treatment/@28.8427085,78.7618726,17z/data=!3m1!4b1!4m6!3m5!1s0x390afb4dc8d3baa7:0xc5fa818668af316d!8m2!3d28.8427085!4d78.7618726!16s%2Fg%2F11kbt98c1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "and-moradabad",
@@ -16985,7 +17129,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B8%F0%9D%97%AE%F0%9D%97%BF+(+%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%BA+%F0%9D%97%94%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B4%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BA+-%F0%9D%97%95%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81+%F0%9D%97%94%F0%9D%98%86%F0%9D%98%82%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%AE+%26+%F0%9D%97%A3%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%B8%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%BC%F0%9D%97%B0%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF)+%F0%9D%97%B6%F0%9D%97%BB+%F0%9D%97%A0%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B1/@28.8312188,78.7505423,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf5c38d2525:0xcb8a6da0be215e35!8m2!3d28.8312188!4d78.7505423!16s%2Fg%2F11fv4jkf_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B8%F0%9D%97%AE%F0%9D%97%BF+(+%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%BA+%F0%9D%97%94%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B4%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BA+-%F0%9D%97%95%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81+%F0%9D%97%94%F0%9D%98%86%F0%9D%98%82%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%AE+%26+%F0%9D%97%A3%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%B8%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%BC%F0%9D%97%B0%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF)+%F0%9D%97%B6%F0%9D%97%BB+%F0%9D%97%A0%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B1/@28.8312188,78.7505423,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf5c38d2525:0xcb8a6da0be215e35!8m2!3d28.8312188!4d78.7505423!16s%2Fg%2F11fv4jkf_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -17054,7 +17198,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B8%F0%9D%97%AE%F0%9D%97%BF+(+%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%BA+%F0%9D%97%94%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B4%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%BA+-%F0%9D%97%95%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81+%F0%9D%97%94%F0%9D%98%86%F0%9D%98%82%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%AE+%26+%F0%9D%97%A3%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%B8%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%BC%F0%9D%97%B0%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF)+%F0%9D%97%B6%F0%9D%97%BB+%F0%9D%97%A0%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B1/@28.8312188,78.7505423,17z/data=!3m1!4b1!4m6!3m5!1s0x390afbf5c38d2525:0xcb8a6da0be215e35!8m2!3d28.8312188!4d78.7505423!16s%2Fg%2F11fv4jkf_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "moradabad",
@@ -17102,7 +17247,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2+%F0%9D%97%A6%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%86%F0%9D%97%AE+%F0%9D%97%96%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9/@28.8367878,78.7441515,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd25ce34783f:0x9ec1d7b5099de5d4!8m2!3d28.8367878!4d78.7441515!16s%2Fg%2F11g2343xn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2+%F0%9D%97%A6%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%86%F0%9D%97%AE+%F0%9D%97%96%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9/@28.8367878,78.7441515,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd25ce34783f:0x9ec1d7b5099de5d4!8m2!3d28.8367878!4d78.7441515!16s%2Fg%2F11g2343xn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -17171,6 +17316,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2+%F0%9D%97%A6%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%86%F0%9D%97%AE+%F0%9D%97%96%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9/@28.8367878,78.7441515,17z/data=!3m1!4b1!4m6!3m5!1s0x390afd25ce34783f:0x9ec1d7b5099de5d4!8m2!3d28.8367878!4d78.7441515!16s%2Fg%2F11g2343xn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

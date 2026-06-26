@@ -47,7 +47,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aalayam+Rehab+Care/@22.6726435,72.865954,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae4f40188f3:0x6b4006d399609325!8m2!3d22.6726435!4d72.865954!16s%2Fg%2F11bzs1cn1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aalayam+Rehab+Care/@22.6726435,72.865954,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae4f40188f3:0x6b4006d399609325!8m2!3d22.6726435!4d72.865954!16s%2Fg%2F11bzs1cn1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -113,10 +113,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aalayam+Rehab+Care/@22.6726435,72.865954,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae4f40188f3:0x6b4006d399609325!8m2!3d22.6726435!4d72.865954!16s%2Fg%2F11bzs1cn1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aaradhana-hospital-nadiad",
@@ -164,7 +165,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aaradhana+Hospital/@22.6877767,72.8686942,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1be70acce5:0xb981a39ab8a88567!8m2!3d22.6877767!4d72.8686942!16s%2Fg%2F1vljdqx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aaradhana+Hospital/@22.6877767,72.8686942,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1be70acce5:0xb981a39ab8a88567!8m2!3d22.6877767!4d72.8686942!16s%2Fg%2F1vljdqx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -230,10 +231,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aaradhana+Hospital/@22.6877767,72.8686942,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1be70acce5:0xb981a39ab8a88567!8m2!3d22.6877767!4d72.8686942!16s%2Fg%2F1vljdqx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aashirvad-dental-clinic-and-implant-center-nadiad",
@@ -281,7 +283,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/AASHIRVAD+Dental+Clinic+And+Implant+Center/@22.6901141,72.8462873,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ba60405787b:0x43e260e168ddac51!8m2!3d22.6901141!4d72.8462873!16s%2Fg%2F11ggdv495c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AASHIRVAD+Dental+Clinic+And+Implant+Center/@22.6901141,72.8462873,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ba60405787b:0x43e260e168ddac51!8m2!3d22.6901141!4d72.8462873!16s%2Fg%2F11ggdv495c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -350,7 +352,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AASHIRVAD+Dental+Clinic+And+Implant+Center/@22.6901141,72.8462873,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ba60405787b:0x43e260e168ddac51!8m2!3d22.6901141!4d72.8462873!16s%2Fg%2F11ggdv495c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aastha-icu-nadiad",
@@ -398,7 +401,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Aastha+icu/@22.6918095,72.8679005,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b25960b0963:0x78039c1db8d005b4!8m2!3d22.6918095!4d72.8679005!16s%2Fg%2F11m2sdvm9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+icu/@22.6918095,72.8679005,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b25960b0963:0x78039c1db8d005b4!8m2!3d22.6918095!4d72.8679005!16s%2Fg%2F11m2sdvm9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -467,7 +470,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aastha+icu/@22.6918095,72.8679005,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b25960b0963:0x78039c1db8d005b4!8m2!3d22.6918095!4d72.8679005!16s%2Fg%2F11m2sdvm9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aishwary-beauty-parlour-and-skin-care-nadiad",
@@ -516,7 +520,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aishwary+Beauty+Parlour+%26+Skin+Care/@22.679223,72.8713385,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae1b9a47f2b:0x6a5684dcaa61e909!8m2!3d22.679223!4d72.8713385!16s%2Fg%2F12jw0jkv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aishwary+Beauty+Parlour+%26+Skin+Care/@22.679223,72.8713385,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae1b9a47f2b:0x6a5684dcaa61e909!8m2!3d22.679223!4d72.8713385!16s%2Fg%2F12jw0jkv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -582,10 +586,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aishwary+Beauty+Parlour+%26+Skin+Care/@22.679223,72.8713385,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae1b9a47f2b:0x6a5684dcaa61e909!8m2!3d22.679223!4d72.8713385!16s%2Fg%2F12jw0jkv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "akshar-gastro-and-liver-hospital-ahmedabad",
@@ -636,7 +641,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Akshar+Gastro+%26+Liver+Hospital/@23.0505859,72.6453771,17z/data=!3m1!4b1!4m6!3m5!1s0x395e87afb9792a09:0xe09affb044e719ca!8m2!3d23.0505859!4d72.6453771!16s%2Fg%2F11l1ds1pl6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akshar+Gastro+%26+Liver+Hospital/@23.0505859,72.6453771,17z/data=!3m1!4b1!4m6!3m5!1s0x395e87afb9792a09:0xe09affb044e719ca!8m2!3d23.0505859!4d72.6453771!16s%2Fg%2F11l1ds1pl6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -705,7 +710,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Akshar+Gastro+%26+Liver+Hospital/@23.0505859,72.6453771,17z/data=!3m1!4b1!4m6!3m5!1s0x395e87afb9792a09:0xe09affb044e719ca!8m2!3d23.0505859!4d72.6453771!16s%2Fg%2F11l1ds1pl6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "akshar-gynec-hospital-nadiad",
@@ -753,7 +759,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Akshar+Gynec+Hospital/@22.6913731,72.8670037,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a856a5beb:0xa1a858f8f66c3421!8m2!3d22.6913731!4d72.8670037!16s%2Fg%2F1hm5q6frd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akshar+Gynec+Hospital/@22.6913731,72.8670037,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a856a5beb:0xa1a858f8f66c3421!8m2!3d22.6913731!4d72.8670037!16s%2Fg%2F1hm5q6frd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -822,7 +828,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Akshar+Gynec+Hospital/@22.6913731,72.8670037,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a856a5beb:0xa1a858f8f66c3421!8m2!3d22.6913731!4d72.8670037!16s%2Fg%2F1hm5q6frd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "alvura-cosmetic-clinic-plastic-surgery-clinic-liposuction-cosmetic-surgery-ahmedabad-ahmedabad",
@@ -871,7 +878,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Alvura+Cosmetic+Clinic+-+Plastic+Surgery+Clinic,+Liposuction,+Cosmetic+Surgery+Ahmedabad/@23.0571335,72.5288261,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85be2e4e8fb9:0x692039f17603ef4!8m2!3d23.0571335!4d72.5288261!16s%2Fg%2F11hyn8xdrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alvura+Cosmetic+Clinic+-+Plastic+Surgery+Clinic,+Liposuction,+Cosmetic+Surgery+Ahmedabad/@23.0571335,72.5288261,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85be2e4e8fb9:0x692039f17603ef4!8m2!3d23.0571335!4d72.5288261!16s%2Fg%2F11hyn8xdrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -940,7 +947,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Alvura+Cosmetic+Clinic+-+Plastic+Surgery+Clinic,+Liposuction,+Cosmetic+Surgery+Ahmedabad/@23.0571335,72.5288261,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85be2e4e8fb9:0x692039f17603ef4!8m2!3d23.0571335!4d72.5288261!16s%2Fg%2F11hyn8xdrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amish-hospital-best-plastic-surgery-hospital-in-vadodara-cosmetic-surgery-hair-transplant-in-vadodara-vadodara",
@@ -989,7 +997,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Amish+Hospital:+Best+Plastic+Surgery+Hospital+in+Vadodara+%7C+Cosmetic+Surgery,+Hair+Transplant+in+Vadodara/@22.2985239,73.1743457,17z/data=!3m1!4b1!4m6!3m5!1s0x395fc6039337045b:0xebb5160c0a29eccc!8m2!3d22.2985239!4d73.1743457!16s%2Fg%2F1tzvtz0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amish+Hospital:+Best+Plastic+Surgery+Hospital+in+Vadodara+%7C+Cosmetic+Surgery,+Hair+Transplant+in+Vadodara/@22.2985239,73.1743457,17z/data=!3m1!4b1!4m6!3m5!1s0x395fc6039337045b:0xebb5160c0a29eccc!8m2!3d22.2985239!4d73.1743457!16s%2Fg%2F1tzvtz0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1058,7 +1066,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amish+Hospital:+Best+Plastic+Surgery+Hospital+in+Vadodara+%7C+Cosmetic+Surgery,+Hair+Transplant+in+Vadodara/@22.2985239,73.1743457,17z/data=!3m1!4b1!4m6!3m5!1s0x395fc6039337045b:0xebb5160c0a29eccc!8m2!3d22.2985239!4d73.1743457!16s%2Fg%2F1tzvtz0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amrutam-ayurved-and-panchkarma-clinic-obesity-hyperacidity-psoriasis-constipation-hairfall-diabetes-skin-disease-nadiad",
@@ -1108,7 +1117,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Amrutam+Ayurved+%26+Panchkarma+clinic.+Obesity,+Hyperacidity,+Psoriasis,+Constipation,+Hairfall,+Diabetes,+Skin+disease/@22.6719208,72.8851172,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bd1db36b333:0xa00529d366bc05c2!8m2!3d22.6719208!4d72.8851172!16s%2Fg%2F11szdtdzvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrutam+Ayurved+%26+Panchkarma+clinic.+Obesity,+Hyperacidity,+Psoriasis,+Constipation,+Hairfall,+Diabetes,+Skin+disease/@22.6719208,72.8851172,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bd1db36b333:0xa00529d366bc05c2!8m2!3d22.6719208!4d72.8851172!16s%2Fg%2F11szdtdzvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1177,7 +1186,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrutam+Ayurved+%26+Panchkarma+clinic.+Obesity,+Hyperacidity,+Psoriasis,+Constipation,+Hairfall,+Diabetes,+Skin+disease/@22.6719208,72.8851172,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bd1db36b333:0xa00529d366bc05c2!8m2!3d22.6719208!4d72.8851172!16s%2Fg%2F11szdtdzvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amrutam-dental-clinic-nadiad",
@@ -1226,7 +1236,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AMRUTAM+DENTAL+CLINIC/@22.711783,72.8625036,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ba852c017bb:0xca4839dbb42da146!8m2!3d22.711783!4d72.8625036!16s%2Fg%2F11k1lbzlyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMRUTAM+DENTAL+CLINIC/@22.711783,72.8625036,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ba852c017bb:0xca4839dbb42da146!8m2!3d22.711783!4d72.8625036!16s%2Fg%2F11k1lbzlyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1292,10 +1302,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AMRUTAM+DENTAL+CLINIC/@22.711783,72.8625036,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ba852c017bb:0xca4839dbb42da146!8m2!3d22.711783!4d72.8625036!16s%2Fg%2F11k1lbzlyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-hospital-international-limited-ahmedabad-best-hospital-in-ahmedabad-ahmedabad",
@@ -1344,7 +1355,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Hospital+International+Limited+Ahmedabad+%7C+Best+Hospital+in+Ahmedabad/@23.1095502,72.6263885,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81d8dddba2cb:0xa74a50295d3eecb2!8m2!3d23.1095502!4d72.6263885!16s%2Fg%2F1td5k2c4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+International+Limited+Ahmedabad+%7C+Best+Hospital+in+Ahmedabad/@23.1095502,72.6263885,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81d8dddba2cb:0xa74a50295d3eecb2!8m2!3d23.1095502!4d72.6263885!16s%2Fg%2F1td5k2c4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1413,7 +1424,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+International+Limited+Ahmedabad+%7C+Best+Hospital+in+Ahmedabad/@23.1095502,72.6263885,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81d8dddba2cb:0xa74a50295d3eecb2!8m2!3d23.1095502!4d72.6263885!16s%2Fg%2F1td5k2c4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "avion-kidney-hospital-icu-and-dialysis-centre-ahmedabad",
@@ -1464,7 +1476,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Avion+Kidney+Hospital+ICU+%26+DIALYSIS+centre/@23.0580797,72.537952,17z/data=!3m1!4b1!4m6!3m5!1s0x395e839f28aeb7f3:0xd487773e36112988!8m2!3d23.0580797!4d72.537952!16s%2Fg%2F11hz5vhnt6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avion+Kidney+Hospital+ICU+%26+DIALYSIS+centre/@23.0580797,72.537952,17z/data=!3m1!4b1!4m6!3m5!1s0x395e839f28aeb7f3:0xd487773e36112988!8m2!3d23.0580797!4d72.537952!16s%2Fg%2F11hz5vhnt6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1533,7 +1545,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Avion+Kidney+Hospital+ICU+%26+DIALYSIS+centre/@23.0580797,72.537952,17z/data=!3m1!4b1!4m6!3m5!1s0x395e839f28aeb7f3:0xd487773e36112988!8m2!3d23.0580797!4d72.537952!16s%2Fg%2F11hz5vhnt6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "avron-hospitals-pvt-ltd-ahmedabad",
@@ -1582,7 +1595,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Avron+Hospitals+PVT.+LTD./@23.0479055,72.5595531,17z/data=!3m1!4b1!4m6!3m5!1s0x395e848f0dd1cc83:0xea8c77a5f4b57c5c!8m2!3d23.0479055!4d72.5595531!16s%2Fg%2F11d_d3m7f9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avron+Hospitals+PVT.+LTD./@23.0479055,72.5595531,17z/data=!3m1!4b1!4m6!3m5!1s0x395e848f0dd1cc83:0xea8c77a5f4b57c5c!8m2!3d23.0479055!4d72.5595531!16s%2Fg%2F11d_d3m7f9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1651,7 +1664,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Avron+Hospitals+PVT.+LTD./@23.0479055,72.5595531,17z/data=!3m1!4b1!4m6!3m5!1s0x395e848f0dd1cc83:0xea8c77a5f4b57c5c!8m2!3d23.0479055!4d72.5595531!16s%2Fg%2F11d_d3m7f9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bansal-s-dental-and-facial-aesthetics-nadiad",
@@ -1699,7 +1713,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bansal's+Dental+%26+Facial+Aesthetics/@22.6889715,72.8729406,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b77ee4250af:0xc70e7d63a9a18d5f!8m2!3d22.6889715!4d72.8729406!16s%2Fg%2F11x92db6zk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal's+Dental+%26+Facial+Aesthetics/@22.6889715,72.8729406,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b77ee4250af:0xc70e7d63a9a18d5f!8m2!3d22.6889715!4d72.8729406!16s%2Fg%2F11x92db6zk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1765,10 +1779,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bansal's+Dental+%26+Facial+Aesthetics/@22.6889715,72.8729406,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b77ee4250af:0xc70e7d63a9a18d5f!8m2!3d22.6889715!4d72.8729406!16s%2Fg%2F11x92db6zk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "beena-hospital-nadiad",
@@ -1816,7 +1831,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Beena+Hospital/@22.6795852,72.861716,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5baa6a868c27:0x3cf2832b00534101!8m2!3d22.6795852!4d72.861716!16s%2Fg%2F11jsgj9771?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Beena+Hospital/@22.6795852,72.861716,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5baa6a868c27:0x3cf2832b00534101!8m2!3d22.6795852!4d72.861716!16s%2Fg%2F11jsgj9771?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1885,7 +1900,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Beena+Hospital/@22.6795852,72.861716,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5baa6a868c27:0x3cf2832b00534101!8m2!3d22.6795852!4d72.861716!16s%2Fg%2F11jsgj9771?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "care-general-hospital-nadiad",
@@ -1935,7 +1951,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Care+General+Hospital/@22.7014208,72.8766817,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b3e4a0c8903:0x8abd5a4013b540b2!8m2!3d22.7014208!4d72.8766817!16s%2Fg%2F11c6dfcpv4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+General+Hospital/@22.7014208,72.8766817,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b3e4a0c8903:0x8abd5a4013b540b2!8m2!3d22.7014208!4d72.8766817!16s%2Fg%2F11c6dfcpv4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2004,7 +2020,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Care+General+Hospital/@22.7014208,72.8766817,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b3e4a0c8903:0x8abd5a4013b540b2!8m2!3d22.7014208!4d72.8766817!16s%2Fg%2F11c6dfcpv4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "centre-for-robotic-surgery-nadiad",
@@ -2053,7 +2070,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Centre+for+Robotic+Surgery/@22.6832874,72.8722163,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1e4dbaa9d5:0xbf5cd2ea415f38cd!8m2!3d22.6832874!4d72.8722163!16s%2Fg%2F1hc3gtrcv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Centre+for+Robotic+Surgery/@22.6832874,72.8722163,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1e4dbaa9d5:0xbf5cd2ea415f38cd!8m2!3d22.6832874!4d72.8722163!16s%2Fg%2F1hc3gtrcv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2122,7 +2139,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Centre+for+Robotic+Surgery/@22.6832874,72.8722163,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1e4dbaa9d5:0xbf5cd2ea415f38cd!8m2!3d22.6832874!4d72.8722163!16s%2Fg%2F1hc3gtrcv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "charusat-hospital-nadiad",
@@ -2168,7 +2186,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Charusat+hospital/@22.6977225,72.8484016,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b40fde3b35f:0x9c13d3d94926327!8m2!3d22.6977225!4d72.8484016!16s%2Fg%2F11x1q0cl40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Charusat+hospital/@22.6977225,72.8484016,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b40fde3b35f:0x9c13d3d94926327!8m2!3d22.6977225!4d72.8484016!16s%2Fg%2F11x1q0cl40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2234,10 +2252,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Charusat+hospital/@22.6977225,72.8484016,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b40fde3b35f:0x9c13d3d94926327!8m2!3d22.6977225!4d72.8484016!16s%2Fg%2F11x1q0cl40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "civil-hospital-nadiad-nadiad",
@@ -2285,7 +2304,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Civil+Hospital+Nadiad/@22.6800327,72.8723699,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae0477bbda5:0xa68b668ec5df3b0e!8m2!3d22.6800327!4d72.8723699!16s%2Fg%2F11c1d0jt02?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Civil+Hospital+Nadiad/@22.6800327,72.8723699,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae0477bbda5:0xa68b668ec5df3b0e!8m2!3d22.6800327!4d72.8723699!16s%2Fg%2F11c1d0jt02?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2354,7 +2373,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Civil+Hospital+Nadiad/@22.6800327,72.8723699,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae0477bbda5:0xa68b668ec5df3b0e!8m2!3d22.6800327!4d72.8723699!16s%2Fg%2F11c1d0jt02?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "d-z-patel-cardiology-center-nadiad",
@@ -2402,7 +2422,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/D+Z+Patel+Cardiology+Center/@22.6890494,72.8717636,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1906636773:0xfdb10242d86d4129!8m2!3d22.6890494!4d72.8717636!16s%2Fg%2F11pbrbn8km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D+Z+Patel+Cardiology+Center/@22.6890494,72.8717636,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1906636773:0xfdb10242d86d4129!8m2!3d22.6890494!4d72.8717636!16s%2Fg%2F11pbrbn8km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2468,10 +2488,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/D+Z+Patel+Cardiology+Center/@22.6890494,72.8717636,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1906636773:0xfdb10242d86d4129!8m2!3d22.6890494!4d72.8717636!16s%2Fg%2F11pbrbn8km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "daivam-dental-care-ddc-nadiad",
@@ -2519,7 +2540,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DAIVAM+DENTAL+CARE+(DDC)/@22.6913477,72.8477861,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bc3f41326a5:0x20c35f7b628b9193!8m2!3d22.6913477!4d72.8477861!16s%2Fg%2F11thhkgbx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DAIVAM+DENTAL+CARE+(DDC)/@22.6913477,72.8477861,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bc3f41326a5:0x20c35f7b628b9193!8m2!3d22.6913477!4d72.8477861!16s%2Fg%2F11thhkgbx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2585,10 +2606,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DAIVAM+DENTAL+CARE+(DDC)/@22.6913477,72.8477861,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bc3f41326a5:0x20c35f7b628b9193!8m2!3d22.6913477!4d72.8477861!16s%2Fg%2F11thhkgbx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ddmm-heart-institute-nadiad",
@@ -2638,7 +2660,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DDMM+Heart+Institute/@22.701205,72.844444,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ba20bf1f52b:0xe5c596aa7ee6028c!8m2!3d22.701205!4d72.844444!16s%2Fg%2F1tycv0vs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DDMM+Heart+Institute/@22.701205,72.844444,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ba20bf1f52b:0xe5c596aa7ee6028c!8m2!3d22.701205!4d72.844444!16s%2Fg%2F1tycv0vs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2707,7 +2729,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DDMM+Heart+Institute/@22.701205,72.844444,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ba20bf1f52b:0xe5c596aa7ee6028c!8m2!3d22.701205!4d72.844444!16s%2Fg%2F1tycv0vs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deep-dental-care-nadiad",
@@ -2755,7 +2778,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Deep+Dental+Care/@22.6772593,72.8648758,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ba40a594063:0x578f84c47e72d242!8m2!3d22.6772593!4d72.8648758!16s%2Fg%2F11vklfd785?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deep+Dental+Care/@22.6772593,72.8648758,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ba40a594063:0x578f84c47e72d242!8m2!3d22.6772593!4d72.8648758!16s%2Fg%2F11vklfd785?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2824,7 +2847,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deep+Dental+Care/@22.6772593,72.8648758,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ba40a594063:0x578f84c47e72d242!8m2!3d22.6772593!4d72.8648758!16s%2Fg%2F11vklfd785?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dharmsinh-desai-dental-hospital-nadiad",
@@ -2873,7 +2897,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dharmsinh+Desai+Dental+Hospital/@22.67951,72.88077,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ad92ae3746d:0x9b0ddcd370f3ec0a!8m2!3d22.67951!4d72.88077!16s%2Fg%2F124yg5w00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dharmsinh+Desai+Dental+Hospital/@22.67951,72.88077,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ad92ae3746d:0x9b0ddcd370f3ec0a!8m2!3d22.67951!4d72.88077!16s%2Fg%2F124yg5w00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2942,7 +2966,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dharmsinh+Desai+Dental+Hospital/@22.67951,72.88077,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ad92ae3746d:0x9b0ddcd370f3ec0a!8m2!3d22.67951!4d72.88077!16s%2Fg%2F124yg5w00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dialysis-center-civil-hospital-nadiad",
@@ -2990,7 +3015,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Dialysis+Center+Civil+Hospital/@22.6800375,72.8733594,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae03ea8cd4b:0x3b51b42aaf846551!8m2!3d22.6800375!4d72.8733594!16s%2Fg%2F11f15kfng8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dialysis+Center+Civil+Hospital/@22.6800375,72.8733594,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae03ea8cd4b:0x3b51b42aaf846551!8m2!3d22.6800375!4d72.8733594!16s%2Fg%2F11f15kfng8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3056,10 +3081,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dialysis+Center+Civil+Hospital/@22.6800375,72.8733594,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae03ea8cd4b:0x3b51b42aaf846551!8m2!3d22.6800375!4d72.8733594!16s%2Fg%2F11f15kfng8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divine-hair-transplant-and-cosmetics-ahmedabad",
@@ -3108,7 +3134,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Divine+Hair+Transplant+And+Cosmetics/@23.0867547,72.5906519,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83954ff5adab:0xf7538701a7095260!8m2!3d23.0867547!4d72.5906519!16s%2Fg%2F11tf41fgk3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divine+Hair+Transplant+And+Cosmetics/@23.0867547,72.5906519,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83954ff5adab:0xf7538701a7095260!8m2!3d23.0867547!4d72.5906519!16s%2Fg%2F11tf41fgk3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3177,7 +3203,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divine+Hair+Transplant+And+Cosmetics/@23.0867547,72.5906519,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83954ff5adab:0xf7538701a7095260!8m2!3d23.0867547!4d72.5906519!16s%2Fg%2F11tf41fgk3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divyam-dental-care-and-implant-center-nadiad",
@@ -3225,7 +3252,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Divyam+Dental+care+%26+Implant+center/@22.6856976,72.870217,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1ca2346b4f:0x1fba16e6c333e4d6!8m2!3d22.6856976!4d72.870217!16s%2Fg%2F11f6y5dh49?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divyam+Dental+care+%26+Implant+center/@22.6856976,72.870217,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1ca2346b4f:0x1fba16e6c333e4d6!8m2!3d22.6856976!4d72.870217!16s%2Fg%2F11f6y5dh49?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3294,7 +3321,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divyam+Dental+care+%26+Implant+center/@22.6856976,72.870217,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1ca2346b4f:0x1fba16e6c333e4d6!8m2!3d22.6856976!4d72.870217!16s%2Fg%2F11f6y5dh49?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "doshi-dental-care-and-faciomaxillary-centre-nadiad",
@@ -3343,7 +3371,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Doshi+Dental+Care+and+Faciomaxillary+Centre/@22.6858331,72.8704845,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b9b94a5c2ab:0x8982d6aba179843e!8m2!3d22.6858331!4d72.8704845!16s%2Fg%2F11fl7df1bk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Doshi+Dental+Care+and+Faciomaxillary+Centre/@22.6858331,72.8704845,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b9b94a5c2ab:0x8982d6aba179843e!8m2!3d22.6858331!4d72.8704845!16s%2Fg%2F11fl7df1bk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3412,7 +3440,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Doshi+Dental+Care+and+Faciomaxillary+Centre/@22.6858331,72.8704845,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b9b94a5c2ab:0x8982d6aba179843e!8m2!3d22.6858331!4d72.8704845!16s%2Fg%2F11fl7df1bk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fds-dental-college-nadiad",
@@ -3462,7 +3491,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/FDS+Dental+College/@22.67931,72.88127,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ad8d43f85e1:0x3461b9265eb85779!8m2!3d22.67931!4d72.88127!16s%2Fg%2F1thr5kw3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FDS+Dental+College/@22.67931,72.88127,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ad8d43f85e1:0x3461b9265eb85779!8m2!3d22.67931!4d72.88127!16s%2Fg%2F1thr5kw3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3531,7 +3560,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/FDS+Dental+College/@22.67931,72.88127,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ad8d43f85e1:0x3461b9265eb85779!8m2!3d22.67931!4d72.88127!16s%2Fg%2F1thr5kw3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fusion-kidney-hospital-ahmedabad",
@@ -3581,7 +3611,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Fusion+Kidney+HOSPITAL/@23.0297105,72.5469868,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84e99e39f4d5:0x6aa525703898f3f1!8m2!3d23.0297105!4d72.5469868!16s%2Fg%2F11b8_vc2ww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fusion+Kidney+HOSPITAL/@23.0297105,72.5469868,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84e99e39f4d5:0x6aa525703898f3f1!8m2!3d23.0297105!4d72.5469868!16s%2Fg%2F11b8_vc2ww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3650,7 +3680,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fusion+Kidney+HOSPITAL/@23.0297105,72.5469868,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84e99e39f4d5:0x6aa525703898f3f1!8m2!3d23.0297105!4d72.5469868!16s%2Fg%2F11b8_vc2ww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gdp-nadiad-nadiad",
@@ -3699,7 +3730,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/GDP+NADIAD/@22.6796557,72.8731788,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b8201f145fd:0x3c25042896bb19e1!8m2!3d22.6796557!4d72.8731788!16s%2Fg%2F11tcrzb1gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GDP+NADIAD/@22.6796557,72.8731788,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b8201f145fd:0x3c25042896bb19e1!8m2!3d22.6796557!4d72.8731788!16s%2Fg%2F11tcrzb1gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3765,10 +3796,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GDP+NADIAD/@22.6796557,72.8731788,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b8201f145fd:0x3c25042896bb19e1!8m2!3d22.6796557!4d72.8731788!16s%2Fg%2F11tcrzb1gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "giostar-hospital-ahmedabad-ahmedabad",
@@ -3817,7 +3849,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/GIOSTAR+Hospital+Ahmedabad/@23.0416773,72.5082382,17z/data=!3m1!4b1!4m6!3m5!1s0x395e848fb7f32209:0x8d05412d9582eb1f!8m2!3d23.0416773!4d72.5082382!16s%2Fg%2F11bysjm_jz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GIOSTAR+Hospital+Ahmedabad/@23.0416773,72.5082382,17z/data=!3m1!4b1!4m6!3m5!1s0x395e848fb7f32209:0x8d05412d9582eb1f!8m2!3d23.0416773!4d72.5082382!16s%2Fg%2F11bysjm_jz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3886,7 +3918,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GIOSTAR+Hospital+Ahmedabad/@23.0416773,72.5082382,17z/data=!3m1!4b1!4m6!3m5!1s0x395e848fb7f32209:0x8d05412d9582eb1f!8m2!3d23.0416773!4d72.5082382!16s%2Fg%2F11bysjm_jz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gujarat-foundation-ahmedabad",
@@ -3935,7 +3968,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gujarat+Foundation/@23.0463223,72.5624093,17z/data=!3m1!4b1!4m6!3m5!1s0x395e848931d1cb2b:0x31ef028d677e720e!8m2!3d23.0463223!4d72.5624093!16s%2Fg%2F11c5rszlhj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gujarat+Foundation/@23.0463223,72.5624093,17z/data=!3m1!4b1!4m6!3m5!1s0x395e848931d1cb2b:0x31ef028d677e720e!8m2!3d23.0463223!4d72.5624093!16s%2Fg%2F11c5rszlhj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4001,10 +4034,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gujarat+Foundation/@23.0463223,72.5624093,17z/data=!3m1!4b1!4m6!3m5!1s0x395e848931d1cb2b:0x31ef028d677e720e!8m2!3d23.0463223!4d72.5624093!16s%2Fg%2F11c5rszlhj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gujarat-university-of-transplantation-sciences-ahmedabad",
@@ -4053,7 +4087,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/GUJARAT+UNIVERSITY+OF+TRANSPLANTATION+SCIENCES/@23.0502549,72.6017822,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84195aebe2f9:0x7371a0f07f115869!8m2!3d23.0502549!4d72.6017822!16s%2Fg%2F11jrg4hp6t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GUJARAT+UNIVERSITY+OF+TRANSPLANTATION+SCIENCES/@23.0502549,72.6017822,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84195aebe2f9:0x7371a0f07f115869!8m2!3d23.0502549!4d72.6017822!16s%2Fg%2F11jrg4hp6t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4119,10 +4153,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GUJARAT+UNIVERSITY+OF+TRANSPLANTATION+SCIENCES/@23.0502549,72.6017822,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84195aebe2f9:0x7371a0f07f115869!8m2!3d23.0502549!4d72.6017822!16s%2Fg%2F11jrg4hp6t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "himalaya-cancer-hospital-nadiad",
@@ -4171,7 +4206,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Himalaya+Cancer+Hospital/@22.6835474,72.8418541,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0025c35bb9:0x4c3a68c385882ae8!8m2!3d22.6835474!4d72.8418541!16s%2Fg%2F11wvqf24ls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Himalaya+Cancer+Hospital/@22.6835474,72.8418541,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0025c35bb9:0x4c3a68c385882ae8!8m2!3d22.6835474!4d72.8418541!16s%2Fg%2F11wvqf24ls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4237,10 +4272,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Himalaya+Cancer+Hospital/@22.6835474,72.8418541,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0025c35bb9:0x4c3a68c385882ae8!8m2!3d22.6835474!4d72.8418541!16s%2Fg%2F11wvqf24ls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "institute-of-kidney-disease-and-research-centre-ahmedabad",
@@ -4290,7 +4326,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Institute+Of+Kidney+Disease+And+Research+Centre/@23.0502567,72.6015444,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84195aebe2f9:0x767623079c0b2a63!8m2!3d23.0502567!4d72.6015444!16s%2Fg%2F11jbpqkvyz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Institute+Of+Kidney+Disease+And+Research+Centre/@23.0502567,72.6015444,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84195aebe2f9:0x767623079c0b2a63!8m2!3d23.0502567!4d72.6015444!16s%2Fg%2F11jbpqkvyz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4359,7 +4395,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Institute+Of+Kidney+Disease+And+Research+Centre/@23.0502567,72.6015444,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84195aebe2f9:0x767623079c0b2a63!8m2!3d23.0502567!4d72.6015444!16s%2Fg%2F11jbpqkvyz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ivf-hospital-nadiad",
@@ -4408,7 +4445,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ivf+Hospital/@22.6915853,72.8633635,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0fffffffff:0xbc310664cf312601!8m2!3d22.6915853!4d72.8633635!16s%2Fg%2F11hbnkqgc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ivf+Hospital/@22.6915853,72.8633635,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0fffffffff:0xbc310664cf312601!8m2!3d22.6915853!4d72.8633635!16s%2Fg%2F11hbnkqgc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4474,10 +4511,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ivf+Hospital/@22.6915853,72.8633635,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0fffffffff:0xbc310664cf312601!8m2!3d22.6915853!4d72.8633635!16s%2Fg%2F11hbnkqgc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jay-surgicals-nadiad",
@@ -4525,7 +4563,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/JAY+SURGICALS/@22.6831032,72.8557724,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b4bc1f23d57:0x58fa8396bdf8c92a!8m2!3d22.6831032!4d72.8557724!16s%2Fg%2F11jwg7jkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JAY+SURGICALS/@22.6831032,72.8557724,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b4bc1f23d57:0x58fa8396bdf8c92a!8m2!3d22.6831032!4d72.8557724!16s%2Fg%2F11jwg7jkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4591,10 +4629,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JAY+SURGICALS/@22.6831032,72.8557724,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b4bc1f23d57:0x58fa8396bdf8c92a!8m2!3d22.6831032!4d72.8557724!16s%2Fg%2F11jwg7jkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jayant-shah-hospital-nadiad",
@@ -4642,7 +4681,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Jayant+Shah+Hospital/@22.6888112,72.8625186,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0561a5ffa5:0xc0d430ef24279ef8!8m2!3d22.6888112!4d72.8625186!16s%2Fg%2F1td_fms1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jayant+Shah+Hospital/@22.6888112,72.8625186,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0561a5ffa5:0xc0d430ef24279ef8!8m2!3d22.6888112!4d72.8625186!16s%2Fg%2F1td_fms1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4711,7 +4750,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jayant+Shah+Hospital/@22.6888112,72.8625186,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0561a5ffa5:0xc0d430ef24279ef8!8m2!3d22.6888112!4d72.8625186!16s%2Fg%2F1td_fms1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalrav-children-hospital-and-nicu-nadiad",
@@ -4760,7 +4800,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Kalrav+Children+Hospital+and+NICU/@22.6774484,72.8647367,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b3dd19e35bd:0x58868cae6bf52cc0!8m2!3d22.6774484!4d72.8647367!16s%2Fg%2F11t9tpfgb2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalrav+Children+Hospital+and+NICU/@22.6774484,72.8647367,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b3dd19e35bd:0x58868cae6bf52cc0!8m2!3d22.6774484!4d72.8647367!16s%2Fg%2F11t9tpfgb2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4829,7 +4869,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalrav+Children+Hospital+and+NICU/@22.6774484,72.8647367,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b3dd19e35bd:0x58868cae6bf52cc0!8m2!3d22.6774484!4d72.8647367!16s%2Fg%2F11t9tpfgb2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "karma-dental-care-nadiad",
@@ -4877,7 +4918,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Karma+Dental+Care/@22.6913863,72.8543342,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0862dec773:0x8a1522e54bcbf29d!8m2!3d22.6913863!4d72.8543342!16s%2Fg%2F11gbw9krlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karma+Dental+Care/@22.6913863,72.8543342,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0862dec773:0x8a1522e54bcbf29d!8m2!3d22.6913863!4d72.8543342!16s%2Fg%2F11gbw9krlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4946,7 +4987,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Karma+Dental+Care/@22.6913863,72.8543342,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0862dec773:0x8a1522e54bcbf29d!8m2!3d22.6913863!4d72.8543342!16s%2Fg%2F11gbw9krlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "keya-hospital-nadiad",
@@ -4994,7 +5036,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Keya+Hospital/@22.6925142,72.8552237,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b08ee00130f:0xb4cd5017876727d7!8m2!3d22.6925142!4d72.8552237!16s%2Fg%2F11g891f871?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Keya+Hospital/@22.6925142,72.8552237,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b08ee00130f:0xb4cd5017876727d7!8m2!3d22.6925142!4d72.8552237!16s%2Fg%2F11g891f871?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5063,7 +5105,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Keya+Hospital/@22.6925142,72.8552237,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b08ee00130f:0xb4cd5017876727d7!8m2!3d22.6925142!4d72.8552237!16s%2Fg%2F11g891f871?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kidney-hospital-road-nadiad",
@@ -5112,7 +5155,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Kidney+hospital+road/@22.6903318,72.8578979,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b00765333b5:0x7f2e1077da64490e!8m2!3d22.6903318!4d72.8578979!16s%2Fg%2F11vr3zlzdf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kidney+hospital+road/@22.6903318,72.8578979,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b00765333b5:0x7f2e1077da64490e!8m2!3d22.6903318!4d72.8578979!16s%2Fg%2F11vr3zlzdf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5181,7 +5224,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kidney+hospital+road/@22.6903318,72.8578979,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b00765333b5:0x7f2e1077da64490e!8m2!3d22.6903318!4d72.8578979!16s%2Fg%2F11vr3zlzdf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kidney-quaters-mpuh-nadiad",
@@ -5231,7 +5275,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kidney+Quaters+(MPUH)/@22.6811879,72.874766,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b702dc4904d:0x5f28f305b52fcecc!8m2!3d22.6811879!4d72.874766!16s%2Fg%2F11j344vk67?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kidney+Quaters+(MPUH)/@22.6811879,72.874766,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b702dc4904d:0x5f28f305b52fcecc!8m2!3d22.6811879!4d72.874766!16s%2Fg%2F11j344vk67?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5297,10 +5341,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kidney+Quaters+(MPUH)/@22.6811879,72.874766,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b702dc4904d:0x5f28f305b52fcecc!8m2!3d22.6811879!4d72.874766!16s%2Fg%2F11j344vk67?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kimaaya-kidz-liver-and-gastro-care-ahmedabad",
@@ -5352,7 +5397,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kimaaya+Kidz+Liver+%26+Gastro+Care/@23.0569635,72.5287177,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8542974271c7:0x511a417476b80607!8m2!3d23.0569635!4d72.5287177!16s%2Fg%2F11r9gj_x7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kimaaya+Kidz+Liver+%26+Gastro+Care/@23.0569635,72.5287177,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8542974271c7:0x511a417476b80607!8m2!3d23.0569635!4d72.5287177!16s%2Fg%2F11r9gj_x7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5418,10 +5463,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kimaaya+Kidz+Liver+%26+Gastro+Care/@23.0569635,72.5287177,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8542974271c7:0x511a417476b80607!8m2!3d23.0569635!4d72.5287177!16s%2Fg%2F11r9gj_x7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krishna-hospital-nadiad",
@@ -5470,7 +5516,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Krishna+Hospital/@22.6827423,72.8802141,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0f1d740a87:0x2418bae3234b4498!8m2!3d22.6827423!4d72.8802141!16s%2Fg%2F11rsrz64b2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Hospital/@22.6827423,72.8802141,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0f1d740a87:0x2418bae3234b4498!8m2!3d22.6827423!4d72.8802141!16s%2Fg%2F11rsrz64b2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5536,10 +5582,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishna+Hospital/@22.6827423,72.8802141,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0f1d740a87:0x2418bae3234b4498!8m2!3d22.6827423!4d72.8802141!16s%2Fg%2F11rsrz64b2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krishna-hospital-nadiad",
@@ -5588,7 +5635,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Krishna+Hospital/@22.691344,72.862602,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0559d31441:0xfe46d43822de179f!8m2!3d22.691344!4d72.862602!16s%2Fg%2F1hd_fw_r_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Hospital/@22.691344,72.862602,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0559d31441:0xfe46d43822de179f!8m2!3d22.691344!4d72.862602!16s%2Fg%2F1hd_fw_r_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5657,7 +5704,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishna+Hospital/@22.691344,72.862602,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0559d31441:0xfe46d43822de179f!8m2!3d22.691344!4d72.862602!16s%2Fg%2F1hd_fw_r_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krupa-hospital-nadiad",
@@ -5705,7 +5753,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Krupa+Hospital/@22.6924393,72.8562085,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b9d1e95ed07:0x2301aad467eb5009!8m2!3d22.6924393!4d72.8562085!16s%2Fg%2F11gnrln202?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krupa+Hospital/@22.6924393,72.8562085,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b9d1e95ed07:0x2301aad467eb5009!8m2!3d22.6924393!4d72.8562085!16s%2Fg%2F11gnrln202?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5774,7 +5822,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krupa+Hospital/@22.6924393,72.8562085,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b9d1e95ed07:0x2301aad467eb5009!8m2!3d22.6924393!4d72.8562085!16s%2Fg%2F11gnrln202?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krutarth-hospital-nadiad",
@@ -5822,7 +5871,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Krutarth+Hospital/@22.6920302,72.8659319,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b107f244c29:0xb2080e5eda7013bf!8m2!3d22.6920302!4d72.8659319!16s%2Fg%2F11bv5stk45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krutarth+Hospital/@22.6920302,72.8659319,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b107f244c29:0xb2080e5eda7013bf!8m2!3d22.6920302!4d72.8659319!16s%2Fg%2F11bv5stk45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5891,7 +5940,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krutarth+Hospital/@22.6920302,72.8659319,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b107f244c29:0xb2080e5eda7013bf!8m2!3d22.6920302!4d72.8659319!16s%2Fg%2F11bv5stk45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mahagujarat-medical-society-nadiad",
@@ -5939,7 +5989,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Mahagujarat+Medical+Society/@22.6888666,72.8715288,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b191aad7125:0x8403ad6083d7db10!8m2!3d22.6888666!4d72.8715288!16s%2Fg%2F11h_fg_khb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahagujarat+Medical+Society/@22.6888666,72.8715288,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b191aad7125:0x8403ad6083d7db10!8m2!3d22.6888666!4d72.8715288!16s%2Fg%2F11h_fg_khb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6008,7 +6058,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahagujarat+Medical+Society/@22.6888666,72.8715288,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b191aad7125:0x8403ad6083d7db10!8m2!3d22.6888666!4d72.8715288!16s%2Fg%2F11h_fg_khb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mahavir-hospital-ahmedabad",
@@ -6057,7 +6108,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MAHAVIR+HOSPITAL/@23.0323991,72.6598573,17z/data=!3m1!4b1!4m6!3m5!1s0x395e87a12eb5fcd5:0x13f16548c7e153f2!8m2!3d23.0323991!4d72.6598573!16s%2Fg%2F11j90y03z0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAHAVIR+HOSPITAL/@23.0323991,72.6598573,17z/data=!3m1!4b1!4m6!3m5!1s0x395e87a12eb5fcd5:0x13f16548c7e153f2!8m2!3d23.0323991!4d72.6598573!16s%2Fg%2F11j90y03z0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6126,7 +6177,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MAHAVIR+HOSPITAL/@23.0323991,72.6598573,17z/data=!3m1!4b1!4m6!3m5!1s0x395e87a12eb5fcd5:0x13f16548c7e153f2!8m2!3d23.0323991!4d72.6598573!16s%2Fg%2F11j90y03z0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manthan-dental-care-nadiad",
@@ -6175,7 +6227,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Manthan+Dental+Care/@22.6905836,72.8480496,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b577acddd8b:0xa1aa1b002b12e08!8m2!3d22.6905836!4d72.8480496!16s%2Fg%2F11stydh30q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manthan+Dental+Care/@22.6905836,72.8480496,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b577acddd8b:0xa1aa1b002b12e08!8m2!3d22.6905836!4d72.8480496!16s%2Fg%2F11stydh30q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6241,10 +6293,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manthan+Dental+Care/@22.6905836,72.8480496,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b577acddd8b:0xa1aa1b002b12e08!8m2!3d22.6905836!4d72.8480496!16s%2Fg%2F11stydh30q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "marengo-cims-hospital-ahmedabad",
@@ -6293,7 +6346,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Marengo+CIMS+Hospital/@23.0702006,72.5170141,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9cb250f37723:0x27de8effab4879ed!8m2!3d23.0702006!4d72.5170141!16s%2Fg%2F11c3wwk_d7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Marengo+CIMS+Hospital/@23.0702006,72.5170141,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9cb250f37723:0x27de8effab4879ed!8m2!3d23.0702006!4d72.5170141!16s%2Fg%2F11c3wwk_d7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6362,7 +6415,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Marengo+CIMS+Hospital/@23.0702006,72.5170141,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9cb250f37723:0x27de8effab4879ed!8m2!3d23.0702006!4d72.5170141!16s%2Fg%2F11c3wwk_d7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "monika-dental-clinic-and-implant-centre-nadiad",
@@ -6410,7 +6464,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Monika+Dental+Clinic+And+Implant+Centre/@22.6905321,72.868659,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1471d8dbb1:0xc1fe15913e7d6b6f!8m2!3d22.6905321!4d72.868659!16s%2Fg%2F1pwfcnl1r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Monika+Dental+Clinic+And+Implant+Centre/@22.6905321,72.868659,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1471d8dbb1:0xc1fe15913e7d6b6f!8m2!3d22.6905321!4d72.868659!16s%2Fg%2F1pwfcnl1r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6479,7 +6533,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Monika+Dental+Clinic+And+Implant+Centre/@22.6905321,72.868659,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1471d8dbb1:0xc1fe15913e7d6b6f!8m2!3d22.6905321!4d72.868659!16s%2Fg%2F1pwfcnl1r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nadiad-heart-hospital-nadiad",
@@ -6528,7 +6583,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Nadiad+Heart+Hospital/@22.6683543,72.8586836,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b2940cd6c01:0xcbfcc423ada6d368!8m2!3d22.6683543!4d72.8586836!16s%2Fg%2F11vpz0nlw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nadiad+Heart+Hospital/@22.6683543,72.8586836,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b2940cd6c01:0xcbfcc423ada6d368!8m2!3d22.6683543!4d72.8586836!16s%2Fg%2F11vpz0nlw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6597,7 +6652,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nadiad+Heart+Hospital/@22.6683543,72.8586836,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b2940cd6c01:0xcbfcc423ada6d368!8m2!3d22.6683543!4d72.8586836!16s%2Fg%2F11vpz0nlw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nalini-maternity-home-nadiad",
@@ -6645,7 +6701,7 @@
     "metrics": [
       "Google rating 2.2"
     ],
-    "image": "https://www.google.com/maps/place/Nalini+Maternity+Home/@22.69176,72.86663,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a7ed86375:0xe6718fd363713ebc!8m2!3d22.69176!4d72.86663!16s%2Fg%2F11pbrfc9tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nalini+Maternity+Home/@22.69176,72.86663,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a7ed86375:0xe6718fd363713ebc!8m2!3d22.69176!4d72.86663!16s%2Fg%2F11pbrfc9tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6714,7 +6770,8 @@
     "rating": 2.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nalini+Maternity+Home/@22.69176,72.86663,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a7ed86375:0xe6718fd363713ebc!8m2!3d22.69176!4d72.86663!16s%2Fg%2F11pbrfc9tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "navjyot-hospital-nadiad",
@@ -6762,7 +6819,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Navjyot+Hospital/@22.6885354,72.8687962,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b6e230a42c9:0xa19155272ddfd7b8!8m2!3d22.6885354!4d72.8687962!16s%2Fg%2F11h1kys6f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navjyot+Hospital/@22.6885354,72.8687962,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b6e230a42c9:0xa19155272ddfd7b8!8m2!3d22.6885354!4d72.8687962!16s%2Fg%2F11h1kys6f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6831,7 +6888,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Navjyot+Hospital/@22.6885354,72.8687962,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b6e230a42c9:0xa19155272ddfd7b8!8m2!3d22.6885354!4d72.8687962!16s%2Fg%2F11h1kys6f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "navkar-surgicare-hospital-nadiad",
@@ -6879,7 +6937,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Navkar+surgicare+hospital/@22.6912648,72.8654748,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a9ae1000f:0x64d9d35b9cc5b980!8m2!3d22.6912648!4d72.8654748!16s%2Fg%2F1hm38k2gb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navkar+surgicare+hospital/@22.6912648,72.8654748,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a9ae1000f:0x64d9d35b9cc5b980!8m2!3d22.6912648!4d72.8654748!16s%2Fg%2F1hm38k2gb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6948,7 +7006,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Navkar+surgicare+hospital/@22.6912648,72.8654748,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a9ae1000f:0x64d9d35b9cc5b980!8m2!3d22.6912648!4d72.8654748!16s%2Fg%2F1hm38k2gb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neelkanth-dental-care-nadiad",
@@ -6997,7 +7056,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Neelkanth+Dental+care/@22.7204572,72.8580721,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bb5f673cdbb:0x8a594f03d7752dd2!8m2!3d22.7204572!4d72.8580721!16s%2Fg%2F11q937blpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neelkanth+Dental+care/@22.7204572,72.8580721,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bb5f673cdbb:0x8a594f03d7752dd2!8m2!3d22.7204572!4d72.8580721!16s%2Fg%2F11q937blpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7063,10 +7122,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neelkanth+Dental+care/@22.7204572,72.8580721,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bb5f673cdbb:0x8a594f03d7752dd2!8m2!3d22.7204572!4d72.8580721!16s%2Fg%2F11q937blpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-centre-nadiad",
@@ -7117,7 +7177,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@22.6838741,72.8723479,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b98ccb47d6d:0x5e6b7a829dc4202!8m2!3d22.6838741!4d72.8723479!16s%2Fg%2F11rkx81k6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@22.6838741,72.8723479,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b98ccb47d6d:0x5e6b7a829dc4202!8m2!3d22.6838741!4d72.8723479!16s%2Fg%2F11rkx81k6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7183,10 +7243,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@22.6838741,72.8723479,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b98ccb47d6d:0x5e6b7a829dc4202!8m2!3d22.6838741!4d72.8723479!16s%2Fg%2F11rkx81k6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-life-icu-and-trauma-center-nadiad",
@@ -7235,7 +7296,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NEW+LIFE+ICU+AND+TRAUMA+CENTER/@22.6838733,72.8723795,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b2bfa0199dd:0xc09ec764fe059ac3!8m2!3d22.6838733!4d72.8723795!16s%2Fg%2F11ss532srn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEW+LIFE+ICU+AND+TRAUMA+CENTER/@22.6838733,72.8723795,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b2bfa0199dd:0xc09ec764fe059ac3!8m2!3d22.6838733!4d72.8723795!16s%2Fg%2F11ss532srn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7301,10 +7362,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEW+LIFE+ICU+AND+TRAUMA+CENTER/@22.6838733,72.8723795,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b2bfa0199dd:0xc09ec764fe059ac3!8m2!3d22.6838733!4d72.8723795!16s%2Fg%2F11ss532srn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nidhi-hospital-nadiad",
@@ -7352,7 +7414,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Nidhi+hospital/@22.6903764,72.8663231,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a5f8ab603:0x2cf4df5951201f9!8m2!3d22.6903764!4d72.8663231!16s%2Fg%2F11cnbk3mv0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nidhi+hospital/@22.6903764,72.8663231,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a5f8ab603:0x2cf4df5951201f9!8m2!3d22.6903764!4d72.8663231!16s%2Fg%2F11cnbk3mv0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7421,7 +7483,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nidhi+hospital/@22.6903764,72.8663231,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a5f8ab603:0x2cf4df5951201f9!8m2!3d22.6903764!4d72.8663231!16s%2Fg%2F11cnbk3mv0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nims-hospital-nadiad",
@@ -7469,7 +7532,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/NIMS+hospital/@22.6683766,72.8586905,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b902f7cf02d:0x2648b400463126d3!8m2!3d22.6683766!4d72.8586905!16s%2Fg%2F11kqm4r9y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIMS+hospital/@22.6683766,72.8586905,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b902f7cf02d:0x2648b400463126d3!8m2!3d22.6683766!4d72.8586905!16s%2Fg%2F11kqm4r9y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7538,7 +7601,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NIMS+hospital/@22.6683766,72.8586905,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b902f7cf02d:0x2648b400463126d3!8m2!3d22.6683766!4d72.8586905!16s%2Fg%2F11kqm4r9y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "old-ikdrc-its-transplation-tower-ahmedabad",
@@ -7587,7 +7651,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/OLD+IKDRC-ITS+TRANSPLATION+TOWER/@23.0501379,72.6023427,17z/data=!3m1!4b1!4m6!3m5!1s0x395e858f37bfde67:0x476c8f9914d54a75!8m2!3d23.0501379!4d72.6023427!16s%2Fg%2F11fr3wfts8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OLD+IKDRC-ITS+TRANSPLATION+TOWER/@23.0501379,72.6023427,17z/data=!3m1!4b1!4m6!3m5!1s0x395e858f37bfde67:0x476c8f9914d54a75!8m2!3d23.0501379!4d72.6023427!16s%2Fg%2F11fr3wfts8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7656,7 +7720,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OLD+IKDRC-ITS+TRANSPLATION+TOWER/@23.0501379,72.6023427,17z/data=!3m1!4b1!4m6!3m5!1s0x395e858f37bfde67:0x476c8f9914d54a75!8m2!3d23.0501379!4d72.6023427!16s%2Fg%2F11fr3wfts8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "omkar-hospital-nadiad",
@@ -7704,7 +7769,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Omkar+Hospital/@22.6923237,72.8714984,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b19d7859695:0xb18ab42e52ce6461!8m2!3d22.6923237!4d72.8714984!16s%2Fg%2F11b7xmxsnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Omkar+Hospital/@22.6923237,72.8714984,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b19d7859695:0xb18ab42e52ce6461!8m2!3d22.6923237!4d72.8714984!16s%2Fg%2F11b7xmxsnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7773,7 +7838,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Omkar+Hospital/@22.6923237,72.8714984,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b19d7859695:0xb18ab42e52ce6461!8m2!3d22.6923237!4d72.8714984!16s%2Fg%2F11b7xmxsnl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "omkara-dental-clinic-and-implant-centre-nadiad",
@@ -7821,7 +7887,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/Omkara+Dental+Clinic+%26+Implant+Centre/@22.691527,72.866628,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a7c260d87:0xd460dfd73a125b19!8m2!3d22.691527!4d72.866628!16s%2Fg%2F1thr5kw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Omkara+Dental+Clinic+%26+Implant+Centre/@22.691527,72.866628,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a7c260d87:0xd460dfd73a125b19!8m2!3d22.691527!4d72.866628!16s%2Fg%2F1thr5kw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7890,7 +7956,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Omkara+Dental+Clinic+%26+Implant+Centre/@22.691527,72.866628,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a7c260d87:0xd460dfd73a125b19!8m2!3d22.691527!4d72.866628!16s%2Fg%2F1thr5kw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "p-d-patel-ayurved-hospital-nadiad",
@@ -7938,7 +8005,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/P+D+Patel+Ayurved+Hospital/@22.6822117,72.8777562,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bd3ee3a6baf:0xd9aed84e393c720a!8m2!3d22.6822117!4d72.8777562!16s%2Fg%2F11h3m7qgkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/P+D+Patel+Ayurved+Hospital/@22.6822117,72.8777562,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bd3ee3a6baf:0xd9aed84e393c720a!8m2!3d22.6822117!4d72.8777562!16s%2Fg%2F11h3m7qgkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8007,7 +8074,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/P+D+Patel+Ayurved+Hospital/@22.6822117,72.8777562,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bd3ee3a6baf:0xd9aed84e393c720a!8m2!3d22.6822117!4d72.8777562!16s%2Fg%2F11h3m7qgkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "palana-harsh-vidya-spine-treatment-center-palana",
@@ -8056,7 +8124,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Palana+Harsh+Vidya+Spine+Treatment+Center/@22.687568,72.7596499,17z/data=!3m1!4b1!4m6!3m5!1s0x395e591e5e89099b:0xd7f8006524101514!8m2!3d22.687568!4d72.7596499!16s%2Fg%2F11b76drqbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Palana+Harsh+Vidya+Spine+Treatment+Center/@22.687568,72.7596499,17z/data=!3m1!4b1!4m6!3m5!1s0x395e591e5e89099b:0xd7f8006524101514!8m2!3d22.687568!4d72.7596499!16s%2Fg%2F11b76drqbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8125,7 +8193,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Palana+Harsh+Vidya+Spine+Treatment+Center/@22.687568,72.7596499,17z/data=!3m1!4b1!4m6!3m5!1s0x395e591e5e89099b:0xd7f8006524101514!8m2!3d22.687568!4d72.7596499!16s%2Fg%2F11b76drqbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pandhi-s-surgery-hospital-nadiad",
@@ -8173,7 +8242,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Pandhi's+Surgery+hospital/@22.6864117,72.8662168,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1b7f3fa7b9:0xd0abc05a1343c131!8m2!3d22.6864117!4d72.8662168!16s%2Fg%2F11cnb2391m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pandhi's+Surgery+hospital/@22.6864117,72.8662168,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1b7f3fa7b9:0xd0abc05a1343c131!8m2!3d22.6864117!4d72.8662168!16s%2Fg%2F11cnb2391m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8242,7 +8311,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pandhi's+Surgery+hospital/@22.6864117,72.8662168,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1b7f3fa7b9:0xd0abc05a1343c131!8m2!3d22.6864117!4d72.8662168!16s%2Fg%2F11cnb2391m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parekh-s-hospital-nadiad",
@@ -8290,7 +8360,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Parekh's+Hospital/@22.6808883,72.8686457,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b18e4e5226d:0x9cb0c4e086f5de97!8m2!3d22.6808883!4d72.8686457!16s%2Fg%2F11fyxc81sb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parekh's+Hospital/@22.6808883,72.8686457,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b18e4e5226d:0x9cb0c4e086f5de97!8m2!3d22.6808883!4d72.8686457!16s%2Fg%2F11fyxc81sb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8359,7 +8429,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parekh's+Hospital/@22.6808883,72.8686457,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b18e4e5226d:0x9cb0c4e086f5de97!8m2!3d22.6808883!4d72.8686457!16s%2Fg%2F11fyxc81sb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "polaris-dental-care-orthodontic-and-implant-centre-nadiad",
@@ -8408,7 +8479,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/POLARIS+DENTAL+CARE+ORTHODONTIC+%26+IMPLANT+CENTRE/@22.6885047,72.8732459,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5be0b43217b1:0x9df2ca0cd8cb9133!8m2!3d22.6885047!4d72.8732459!16s%2Fg%2F11pkh7qfd6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/POLARIS+DENTAL+CARE+ORTHODONTIC+%26+IMPLANT+CENTRE/@22.6885047,72.8732459,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5be0b43217b1:0x9df2ca0cd8cb9133!8m2!3d22.6885047!4d72.8732459!16s%2Fg%2F11pkh7qfd6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8474,10 +8545,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/POLARIS+DENTAL+CARE+ORTHODONTIC+%26+IMPLANT+CENTRE/@22.6885047,72.8732459,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5be0b43217b1:0x9df2ca0cd8cb9133!8m2!3d22.6885047!4d72.8732459!16s%2Fg%2F11pkh7qfd6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pratham-hospital-nadiad",
@@ -8525,7 +8597,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Pratham+Hospital/@22.6838771,72.8723654,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b84c702e6fb:0x126bb1a2a5276418!8m2!3d22.6838771!4d72.8723654!16s%2Fg%2F11swkdfpdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pratham+Hospital/@22.6838771,72.8723654,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b84c702e6fb:0x126bb1a2a5276418!8m2!3d22.6838771!4d72.8723654!16s%2Fg%2F11swkdfpdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8594,7 +8666,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pratham+Hospital/@22.6838771,72.8723654,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b84c702e6fb:0x126bb1a2a5276418!8m2!3d22.6838771!4d72.8723654!16s%2Fg%2F11swkdfpdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "punsvan-clinic-nadiad",
@@ -8642,7 +8715,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Punsvan+Clinic/@22.6849411,72.8710357,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1eebeaf4d5:0x7f73ea6f22a5d95e!8m2!3d22.6849411!4d72.8710357!16s%2Fg%2F11bxfy0v90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Punsvan+Clinic/@22.6849411,72.8710357,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1eebeaf4d5:0x7f73ea6f22a5d95e!8m2!3d22.6849411!4d72.8710357!16s%2Fg%2F11bxfy0v90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8711,7 +8784,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Punsvan+Clinic/@22.6849411,72.8710357,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1eebeaf4d5:0x7f73ea6f22a5d95e!8m2!3d22.6849411!4d72.8710357!16s%2Fg%2F11bxfy0v90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "reliver-clinic-ahmedabad",
@@ -8761,7 +8835,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Reliver+Clinic/@23.0251828,72.5232979,17z/data=!3m1!4b1!4m6!3m5!1s0x6abdf5d5d5445c5f:0x9306a4224b1b8e45!8m2!3d23.0251828!4d72.5232979!16s%2Fg%2F11kbxpg_lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Reliver+Clinic/@23.0251828,72.5232979,17z/data=!3m1!4b1!4m6!3m5!1s0x6abdf5d5d5445c5f:0x9306a4224b1b8e45!8m2!3d23.0251828!4d72.5232979!16s%2Fg%2F11kbxpg_lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8830,7 +8904,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Reliver+Clinic/@23.0251828,72.5232979,17z/data=!3m1!4b1!4m6!3m5!1s0x6abdf5d5d5445c5f:0x9306a4224b1b8e45!8m2!3d23.0251828!4d72.5232979!16s%2Fg%2F11kbxpg_lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rental-house-for-kidney-patients-nadiad",
@@ -8880,7 +8955,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Rental+House+For+Kidney+Patients/@22.6818043,72.8720649,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b7a4015e809:0x4c663dd8b42ece2c!8m2!3d22.6818043!4d72.8720649!16s%2Fg%2F11ssrcwtc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rental+House+For+Kidney+Patients/@22.6818043,72.8720649,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b7a4015e809:0x4c663dd8b42ece2c!8m2!3d22.6818043!4d72.8720649!16s%2Fg%2F11ssrcwtc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8949,7 +9024,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rental+House+For+Kidney+Patients/@22.6818043,72.8720649,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b7a4015e809:0x4c663dd8b42ece2c!8m2!3d22.6818043!4d72.8720649!16s%2Fg%2F11ssrcwtc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "renus-hospital-nadiad",
@@ -8997,7 +9073,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Renus+Hospital/@22.6838741,72.8723479,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b75a95d8255:0x2d09a31be37f2f14!8m2!3d22.6838741!4d72.8723479!16s%2Fg%2F11q264gn2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renus+Hospital/@22.6838741,72.8723479,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b75a95d8255:0x2d09a31be37f2f14!8m2!3d22.6838741!4d72.8723479!16s%2Fg%2F11q264gn2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9063,10 +9139,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Renus+Hospital/@22.6838741,72.8723479,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b75a95d8255:0x2d09a31be37f2f14!8m2!3d22.6838741!4d72.8723479!16s%2Fg%2F11q264gn2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-r-shah-hospital-nadiad",
@@ -9114,7 +9191,7 @@
     "metrics": [
       "Google rating 2.7"
     ],
-    "image": "https://www.google.com/maps/place/S+R+Shah+Hospital/@22.6913325,72.8614712,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b056206d067:0x68a981899826a376!8m2!3d22.6913325!4d72.8614712!16s%2Fg%2F1ptwtz8bd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+R+Shah+Hospital/@22.6913325,72.8614712,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b056206d067:0x68a981899826a376!8m2!3d22.6913325!4d72.8614712!16s%2Fg%2F1ptwtz8bd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9183,7 +9260,8 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+R+Shah+Hospital/@22.6913325,72.8614712,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b056206d067:0x68a981899826a376!8m2!3d22.6913325!4d72.8614712!16s%2Fg%2F1ptwtz8bd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-clinic-nadiad",
@@ -9231,7 +9309,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sai+clinic/@22.7252101,72.8521297,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5d42c8355ec9:0x6c92cdd8714366ce!8m2!3d22.7252101!4d72.8521297!16s%2Fg%2F11s_xr1nwj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+clinic/@22.7252101,72.8521297,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5d42c8355ec9:0x6c92cdd8714366ce!8m2!3d22.7252101!4d72.8521297!16s%2Fg%2F11s_xr1nwj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9297,10 +9375,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+clinic/@22.7252101,72.8521297,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5d42c8355ec9:0x6c92cdd8714366ce!8m2!3d22.7252101!4d72.8521297!16s%2Fg%2F11s_xr1nwj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-shradhdha-hospital-nadiad",
@@ -9348,7 +9427,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Shradhdha+Hospital/@22.701801,72.8558421,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0b37cc34a1:0x781abc303f574354!8m2!3d22.701801!4d72.8558421!16s%2Fg%2F11c38h9hc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Shradhdha+Hospital/@22.701801,72.8558421,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0b37cc34a1:0x781abc303f574354!8m2!3d22.701801!4d72.8558421!16s%2Fg%2F11c38h9hc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9417,7 +9496,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Shradhdha+Hospital/@22.701801,72.8558421,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0b37cc34a1:0x781abc303f574354!8m2!3d22.701801!4d72.8558421!16s%2Fg%2F11c38h9hc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sakhiya-skin-clinic-best-skin-and-hair-care-clinic-ahmedabad",
@@ -9466,7 +9546,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+And+Hair+Care+Clinic/@23.02495,72.5293988,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84cfb4a1e485:0x271b7473f3e19773!8m2!3d23.02495!4d72.5293988!16s%2Fg%2F1pv0bcw60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+And+Hair+Care+Clinic/@23.02495,72.5293988,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84cfb4a1e485:0x271b7473f3e19773!8m2!3d23.02495!4d72.5293988!16s%2Fg%2F1pv0bcw60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9535,7 +9615,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+And+Hair+Care+Clinic/@23.02495,72.5293988,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84cfb4a1e485:0x271b7473f3e19773!8m2!3d23.02495!4d72.5293988!16s%2Fg%2F1pv0bcw60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sakhiya-skin-clinic-india-s-no-1-skin-clinic-chain-anand",
@@ -9584,7 +9665,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+India's+No.1+Skin+Clinic+Chain/@22.5524211,72.9414184,17z/data=!3m1!4b1!4m6!3m5!1s0x395e4e7f22e42d35:0xa8ae626cc7cd8ead!8m2!3d22.5524211!4d72.9414184!16s%2Fg%2F11ggwc32p8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+India's+No.1+Skin+Clinic+Chain/@22.5524211,72.9414184,17z/data=!3m1!4b1!4m6!3m5!1s0x395e4e7f22e42d35:0xa8ae626cc7cd8ead!8m2!3d22.5524211!4d72.9414184!16s%2Fg%2F11ggwc32p8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9653,7 +9734,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+India's+No.1+Skin+Clinic+Chain/@22.5524211,72.9414184,17z/data=!3m1!4b1!4m6!3m5!1s0x395e4e7f22e42d35:0xa8ae626cc7cd8ead!8m2!3d22.5524211!4d72.9414184!16s%2Fg%2F11ggwc32p8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samjulakshmi-maternity-home-nadiad",
@@ -9701,7 +9783,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Samjulakshmi+Maternity+Home/@22.6931029,72.8613099,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0fa6a4a247:0x5729a7dd5648ee08!8m2!3d22.6931029!4d72.8613099!16s%2Fg%2F12ltpqht6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samjulakshmi+Maternity+Home/@22.6931029,72.8613099,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0fa6a4a247:0x5729a7dd5648ee08!8m2!3d22.6931029!4d72.8613099!16s%2Fg%2F12ltpqht6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9770,7 +9852,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samjulakshmi+Maternity+Home/@22.6931029,72.8613099,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0fa6a4a247:0x5729a7dd5648ee08!8m2!3d22.6931029!4d72.8613099!16s%2Fg%2F12ltpqht6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samruddhi-dental-care-and-implant-centre-nadiad",
@@ -9819,7 +9902,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Samruddhi+Dental+Care+%26+Implant+Centre/@22.6905592,72.8682037,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a3da8502b:0x323a340e71c9334a!8m2!3d22.6905592!4d72.8682037!16s%2Fg%2F11f0wg0tb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samruddhi+Dental+Care+%26+Implant+Centre/@22.6905592,72.8682037,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a3da8502b:0x323a340e71c9334a!8m2!3d22.6905592!4d72.8682037!16s%2Fg%2F11f0wg0tb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9888,7 +9971,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samruddhi+Dental+Care+%26+Implant+Centre/@22.6905592,72.8682037,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a3da8502b:0x323a340e71c9334a!8m2!3d22.6905592!4d72.8682037!16s%2Fg%2F11f0wg0tb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjivani-hospital-nadiad",
@@ -9934,7 +10018,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Sanjivani+Hospital/@22.6915817,72.8532403,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0011a2f467:0x87ae4df2a3d427a2!8m2!3d22.6915817!4d72.8532403!16s%2Fg%2F11vyj117v2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjivani+Hospital/@22.6915817,72.8532403,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0011a2f467:0x87ae4df2a3d427a2!8m2!3d22.6915817!4d72.8532403!16s%2Fg%2F11vyj117v2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10000,10 +10084,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjivani+Hospital/@22.6915817,72.8532403,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0011a2f467:0x87ae4df2a3d427a2!8m2!3d22.6915817!4d72.8532403!16s%2Fg%2F11vyj117v2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sashikant-c-vyas-ayurvedic-diabetes-kidney-nadiad",
@@ -10053,7 +10138,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Sashikant+C+Vyas+-+Ayurvedic+(Diabetes,Kidney)/@22.6925023,72.8704853,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b175f19d791:0x3bae47abc4441bd8!8m2!3d22.6925023!4d72.8704853!16s%2Fg%2F11d_1m_4cf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sashikant+C+Vyas+-+Ayurvedic+(Diabetes,Kidney)/@22.6925023,72.8704853,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b175f19d791:0x3bae47abc4441bd8!8m2!3d22.6925023!4d72.8704853!16s%2Fg%2F11d_1m_4cf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10122,7 +10207,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sashikant+C+Vyas+-+Ayurvedic+(Diabetes,Kidney)/@22.6925023,72.8704853,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b175f19d791:0x3bae47abc4441bd8!8m2!3d22.6925023!4d72.8704853!16s%2Fg%2F11d_1m_4cf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "satva-homeopathy-clinic-and-skin-hair-care-clinic-nadiad",
@@ -10171,7 +10257,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SATVA+HOMEOPATHY+CLINIC+%26+SKIN+-+HAIR+CARE+CLINIC/@22.6915092,72.8665712,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a2073799b:0x1f7de2169f821c20!8m2!3d22.6915092!4d72.8665712!16s%2Fg%2F11rgrxwjp1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SATVA+HOMEOPATHY+CLINIC+%26+SKIN+-+HAIR+CARE+CLINIC/@22.6915092,72.8665712,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a2073799b:0x1f7de2169f821c20!8m2!3d22.6915092!4d72.8665712!16s%2Fg%2F11rgrxwjp1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10240,7 +10326,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SATVA+HOMEOPATHY+CLINIC+%26+SKIN+-+HAIR+CARE+CLINIC/@22.6915092,72.8665712,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a2073799b:0x1f7de2169f821c20!8m2!3d22.6915092!4d72.8665712!16s%2Fg%2F11rgrxwjp1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shailya-hospital-ahmedabad-ahmedabad",
@@ -10289,7 +10376,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shailya+Hospital+Ahmedabad/@23.0461297,72.5620648,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84893295738b:0xe085e600da311c47!8m2!3d23.0461297!4d72.5620648!16s%2Fg%2F11dfpj1wgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shailya+Hospital+Ahmedabad/@23.0461297,72.5620648,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84893295738b:0xe085e600da311c47!8m2!3d23.0461297!4d72.5620648!16s%2Fg%2F11dfpj1wgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10358,7 +10445,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shailya+Hospital+Ahmedabad/@23.0461297,72.5620648,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84893295738b:0xe085e600da311c47!8m2!3d23.0461297!4d72.5620648!16s%2Fg%2F11dfpj1wgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sheth-h-j-mahagujarat-hospital-nadiad",
@@ -10407,7 +10495,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sheth+H+J+Mahagujarat+Hospital/@22.689076,72.8716908,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b191aad7125:0x1185d134c7131c07!8m2!3d22.689076!4d72.8716908!16s%2Fg%2F1v299dxc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sheth+H+J+Mahagujarat+Hospital/@22.689076,72.8716908,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b191aad7125:0x1185d134c7131c07!8m2!3d22.689076!4d72.8716908!16s%2Fg%2F1v299dxc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10476,7 +10564,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sheth+H+J+Mahagujarat+Hospital/@22.689076,72.8716908,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b191aad7125:0x1185d134c7131c07!8m2!3d22.689076!4d72.8716908!16s%2Fg%2F1v299dxc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shraddha-hospital-nadiad",
@@ -10524,7 +10613,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Shraddha+Hospital/@22.6903484,72.8663202,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a5f834657:0xa029f29a093f39b2!8m2!3d22.6903484!4d72.8663202!16s%2Fg%2F1hc2d6knq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shraddha+Hospital/@22.6903484,72.8663202,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a5f834657:0xa029f29a093f39b2!8m2!3d22.6903484!4d72.8663202!16s%2Fg%2F1hc2d6knq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10593,7 +10682,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shraddha+Hospital/@22.6903484,72.8663202,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a5f834657:0xa029f29a093f39b2!8m2!3d22.6903484!4d72.8663202!16s%2Fg%2F1hc2d6knq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-clinic-nadiad",
@@ -10639,7 +10729,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Shree+Clinic/@22.6841324,72.859421,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0396f66501:0xed7d41f94a11b6cd!8m2!3d22.6841324!4d72.859421!16s%2Fg%2F11cmm6pbn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Clinic/@22.6841324,72.859421,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0396f66501:0xed7d41f94a11b6cd!8m2!3d22.6841324!4d72.859421!16s%2Fg%2F11cmm6pbn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10705,10 +10795,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Clinic/@22.6841324,72.859421,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0396f66501:0xed7d41f94a11b6cd!8m2!3d22.6841324!4d72.859421!16s%2Fg%2F11cmm6pbn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-dental-care-and-facio-nadiad",
@@ -10756,7 +10847,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/SHREE+DENTAL+CARE+AND+FACIO/@22.6841685,72.8663214,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0b4ec90f9f:0xed40a3facdc1c75!8m2!3d22.6841685!4d72.8663214!16s%2Fg%2F11rb5vj23r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+DENTAL+CARE+AND+FACIO/@22.6841685,72.8663214,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0b4ec90f9f:0xed40a3facdc1c75!8m2!3d22.6841685!4d72.8663214!16s%2Fg%2F11rb5vj23r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10825,7 +10916,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHREE+DENTAL+CARE+AND+FACIO/@22.6841685,72.8663214,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0b4ec90f9f:0xed40a3facdc1c75!8m2!3d22.6841685!4d72.8663214!16s%2Fg%2F11rb5vj23r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-santram-eye-hospital-jp-nadiad",
@@ -10874,7 +10966,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Santram+Eye+Hospital+jp/@22.6873694,72.8663422,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1ad89ad30f:0x46f0fcd1ae488ffe!8m2!3d22.6873694!4d72.8663422!16s%2Fg%2F1tkslrqw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Santram+Eye+Hospital+jp/@22.6873694,72.8663422,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1ad89ad30f:0x46f0fcd1ae488ffe!8m2!3d22.6873694!4d72.8663422!16s%2Fg%2F1tkslrqw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10943,7 +11035,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Santram+Eye+Hospital+jp/@22.6873694,72.8663422,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1ad89ad30f:0x46f0fcd1ae488ffe!8m2!3d22.6873694!4d72.8663422!16s%2Fg%2F1tkslrqw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shreeji-dental-care-and-implant-centre-nadiad",
@@ -10991,7 +11084,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Shreeji+Dental+Care+%26+Implant+Centre/@22.6798626,72.8613729,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae2dcfd0db5:0x9d2e035ddb23e9b!8m2!3d22.6798626!4d72.8613729!16s%2Fg%2F11dyzd53ys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreeji+Dental+Care+%26+Implant+Centre/@22.6798626,72.8613729,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae2dcfd0db5:0x9d2e035ddb23e9b!8m2!3d22.6798626!4d72.8613729!16s%2Fg%2F11dyzd53ys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11060,7 +11153,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shreeji+Dental+Care+%26+Implant+Centre/@22.6798626,72.8613729,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5ae2dcfd0db5:0x9d2e035ddb23e9b!8m2!3d22.6798626!4d72.8613729!16s%2Fg%2F11dyzd53ys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shreeji-hospital-nadiad",
@@ -11108,7 +11202,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shreeji+Hospital/@22.691726,72.8670318,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a79ddd765:0x242756fa97ba468c!8m2!3d22.691726!4d72.8670318!16s%2Fg%2F11d_8gv3pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreeji+Hospital/@22.691726,72.8670318,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a79ddd765:0x242756fa97ba468c!8m2!3d22.691726!4d72.8670318!16s%2Fg%2F11d_8gv3pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11174,10 +11268,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shreeji+Hospital/@22.691726,72.8670318,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a79ddd765:0x242756fa97ba468c!8m2!3d22.691726!4d72.8670318!16s%2Fg%2F11d_8gv3pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shreeji-hospital-nadiad",
@@ -11225,7 +11320,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SHREEJI+HOSPITAL/@22.714192,72.855264,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b79da0eacfd:0x7308e74a30000000!8m2!3d22.714192!4d72.855264!16s%2Fg%2F11rdx2pvp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREEJI+HOSPITAL/@22.714192,72.855264,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b79da0eacfd:0x7308e74a30000000!8m2!3d22.714192!4d72.855264!16s%2Fg%2F11rdx2pvp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11291,10 +11386,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHREEJI+HOSPITAL/@22.714192,72.855264,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b79da0eacfd:0x7308e74a30000000!8m2!3d22.714192!4d72.855264!16s%2Fg%2F11rdx2pvp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shreenath-hospital-nadiad",
@@ -11342,7 +11438,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Shreenath+Hospital/@22.6914971,72.8627059,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0ff8764c85:0x7d6ed378df783f48!8m2!3d22.6914971!4d72.8627059!16s%2Fg%2F11fzf80df2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreenath+Hospital/@22.6914971,72.8627059,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0ff8764c85:0x7d6ed378df783f48!8m2!3d22.6914971!4d72.8627059!16s%2Fg%2F11fzf80df2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11411,7 +11507,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shreenath+Hospital/@22.6914971,72.8627059,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0ff8764c85:0x7d6ed378df783f48!8m2!3d22.6914971!4d72.8627059!16s%2Fg%2F11fzf80df2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-ayu-chikitsalay-and-panchakarma-center-nadiad-nadiad",
@@ -11460,7 +11557,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Ayu+Chikitsalay+%26+Panchakarma+Center+Nadiad/@22.6904413,72.8683461,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bf2431c0647:0x94a7ca16486db3c0!8m2!3d22.6904413!4d72.8683461!16s%2Fg%2F11qq1nm5j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Ayu+Chikitsalay+%26+Panchakarma+Center+Nadiad/@22.6904413,72.8683461,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bf2431c0647:0x94a7ca16486db3c0!8m2!3d22.6904413!4d72.8683461!16s%2Fg%2F11qq1nm5j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11529,7 +11626,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Ayu+Chikitsalay+%26+Panchakarma+Center+Nadiad/@22.6904413,72.8683461,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bf2431c0647:0x94a7ca16486db3c0!8m2!3d22.6904413!4d72.8683461!16s%2Fg%2F11qq1nm5j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shubham-hospital-and-ivf-center-nadiad",
@@ -11579,7 +11677,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shubham+Hospital+%26+IVF+Center/@22.6868373,72.8665733,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a775c8261:0x510f25a94c62c747!8m2!3d22.6868373!4d72.8665733!16s%2Fg%2F11dxfbk9qw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubham+Hospital+%26+IVF+Center/@22.6868373,72.8665733,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a775c8261:0x510f25a94c62c747!8m2!3d22.6868373!4d72.8665733!16s%2Fg%2F11dxfbk9qw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11648,7 +11746,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shubham+Hospital+%26+IVF+Center/@22.6868373,72.8665733,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a775c8261:0x510f25a94c62c747!8m2!3d22.6868373!4d72.8665733!16s%2Fg%2F11dxfbk9qw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skin-and-spine-clinic-nadiad",
@@ -11697,7 +11796,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Skin+And+Spine+Clinic/@22.69156,72.8634873,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0ffffffff9:0xdd215f09949c3b3b!8m2!3d22.69156!4d72.8634873!16s%2Fg%2F11f3m81q_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+And+Spine+Clinic/@22.69156,72.8634873,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0ffffffff9:0xdd215f09949c3b3b!8m2!3d22.69156!4d72.8634873!16s%2Fg%2F11f3m81q_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11766,7 +11865,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skin+And+Spine+Clinic/@22.69156,72.8634873,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0ffffffff9:0xdd215f09949c3b3b!8m2!3d22.69156!4d72.8634873!16s%2Fg%2F11f3m81q_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-dental-clinic-nadiad",
@@ -11816,7 +11916,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SMILE+DENTAL+CLINIC/@22.6862964,72.8661956,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bf47d91ef9b:0x8b63262edac4e060!8m2!3d22.6862964!4d72.8661956!16s%2Fg%2F11sbp_19yz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+DENTAL+CLINIC/@22.6862964,72.8661956,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bf47d91ef9b:0x8b63262edac4e060!8m2!3d22.6862964!4d72.8661956!16s%2Fg%2F11sbp_19yz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11885,7 +11985,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SMILE+DENTAL+CLINIC/@22.6862964,72.8661956,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bf47d91ef9b:0x8b63262edac4e060!8m2!3d22.6862964!4d72.8661956!16s%2Fg%2F11sbp_19yz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smit-hospital-nadiad",
@@ -11933,7 +12034,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Smit+Hospital/@22.6955584,72.8706152,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b16de6f4a87:0x45f67bac2ec4abdd!8m2!3d22.6955584!4d72.8706152!16s%2Fg%2F11gbw9kx_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smit+Hospital/@22.6955584,72.8706152,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b16de6f4a87:0x45f67bac2ec4abdd!8m2!3d22.6955584!4d72.8706152!16s%2Fg%2F11gbw9kx_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12002,7 +12103,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smit+Hospital/@22.6955584,72.8706152,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b16de6f4a87:0x45f67bac2ec4abdd!8m2!3d22.6955584!4d72.8706152!16s%2Fg%2F11gbw9kx_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sparsh-children-hospital-and-neonatal-care-unit-nadiad-nadiad",
@@ -12051,7 +12153,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sparsh+Children+Hospital+%26+Neonatal+care+Unit,+Nadiad/@22.690999,72.8659997,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bfe4cc76d81:0x44b913822aa7911d!8m2!3d22.690999!4d72.8659997!16s%2Fg%2F11j3wvrx03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsh+Children+Hospital+%26+Neonatal+care+Unit,+Nadiad/@22.690999,72.8659997,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bfe4cc76d81:0x44b913822aa7911d!8m2!3d22.690999!4d72.8659997!16s%2Fg%2F11j3wvrx03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12120,7 +12222,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sparsh+Children+Hospital+%26+Neonatal+care+Unit,+Nadiad/@22.690999,72.8659997,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bfe4cc76d81:0x44b913822aa7911d!8m2!3d22.690999!4d72.8659997!16s%2Fg%2F11j3wvrx03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sparsh-cosmetic-and-hair-transplant-clinic-nadiad",
@@ -12168,7 +12271,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sparsh+Cosmetic+%26+Hair+Transplant+Clinic/@22.6896795,72.8706069,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bc72cf56d5d:0xce1db5da0b85feac!8m2!3d22.6896795!4d72.8706069!16s%2Fg%2F11g0z7l6qc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsh+Cosmetic+%26+Hair+Transplant+Clinic/@22.6896795,72.8706069,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bc72cf56d5d:0xce1db5da0b85feac!8m2!3d22.6896795!4d72.8706069!16s%2Fg%2F11g0z7l6qc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12237,7 +12340,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sparsh+Cosmetic+%26+Hair+Transplant+Clinic/@22.6896795,72.8706069,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5bc72cf56d5d:0xce1db5da0b85feac!8m2!3d22.6896795!4d72.8706069!16s%2Fg%2F11g0z7l6qc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sparsh-orthocare-nadiad",
@@ -12287,7 +12391,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sparsh+Orthocare/@22.683801,72.866109,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1cf8565843:0x2e18eb2a1b39c08!8m2!3d22.683801!4d72.866109!16s%2Fg%2F11c7wdp7wh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsh+Orthocare/@22.683801,72.866109,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1cf8565843:0x2e18eb2a1b39c08!8m2!3d22.683801!4d72.866109!16s%2Fg%2F11c7wdp7wh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12356,7 +12460,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sparsh+Orthocare/@22.683801,72.866109,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1cf8565843:0x2e18eb2a1b39c08!8m2!3d22.683801!4d72.866109!16s%2Fg%2F11c7wdp7wh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surabhi-hospital-nadiad",
@@ -12404,7 +12509,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Surabhi+Hospital/@22.6856062,72.8706164,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1ec7aa2fab:0x3218dafcbd100970!8m2!3d22.6856062!4d72.8706164!16s%2Fg%2F11dxc1t9bz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surabhi+Hospital/@22.6856062,72.8706164,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1ec7aa2fab:0x3218dafcbd100970!8m2!3d22.6856062!4d72.8706164!16s%2Fg%2F11dxc1t9bz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12473,7 +12578,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surabhi+Hospital/@22.6856062,72.8706164,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1ec7aa2fab:0x3218dafcbd100970!8m2!3d22.6856062!4d72.8706164!16s%2Fg%2F11dxc1t9bz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "suruchi-hospital-nadiad",
@@ -12522,7 +12628,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Suruchi+Hospital/@22.683868,72.8660817,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a7f23814d:0xcddc6c9222e28ebe!8m2!3d22.683868!4d72.8660817!16s%2Fg%2F11c6056d7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suruchi+Hospital/@22.683868,72.8660817,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a7f23814d:0xcddc6c9222e28ebe!8m2!3d22.683868!4d72.8660817!16s%2Fg%2F11c6056d7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12591,7 +12697,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suruchi+Hospital/@22.683868,72.8660817,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1a7f23814d:0xcddc6c9222e28ebe!8m2!3d22.683868!4d72.8660817!16s%2Fg%2F11c6056d7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sushil-hospital-nadiad",
@@ -12639,7 +12746,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Sushil+Hospital/@22.6823662,72.8671354,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1dbd0bea8b:0xd31dce7a67704e7a!8m2!3d22.6823662!4d72.8671354!16s%2Fg%2F1ttdlcx0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sushil+Hospital/@22.6823662,72.8671354,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1dbd0bea8b:0xd31dce7a67704e7a!8m2!3d22.6823662!4d72.8671354!16s%2Fg%2F1ttdlcx0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12708,7 +12815,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sushil+Hospital/@22.6823662,72.8671354,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1dbd0bea8b:0xd31dce7a67704e7a!8m2!3d22.6823662!4d72.8671354!16s%2Fg%2F1ttdlcx0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sushrutniramay-hospital-nadiad",
@@ -12756,7 +12864,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SushrutNiramay+Hospital/@22.6894868,72.8710068,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1be73fa665:0xf6589f401cb4c0e9!8m2!3d22.6894868!4d72.8710068!16s%2Fg%2F11dxbp7_27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SushrutNiramay+Hospital/@22.6894868,72.8710068,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1be73fa665:0xf6589f401cb4c0e9!8m2!3d22.6894868!4d72.8710068!16s%2Fg%2F11dxbp7_27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12825,7 +12933,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SushrutNiramay+Hospital/@22.6894868,72.8710068,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1be73fa665:0xf6589f401cb4c0e9!8m2!3d22.6894868!4d72.8710068!16s%2Fg%2F11dxbp7_27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swasan-chest-hospital-and-i-c-u-best-chest-and-allergy-hospital-nadiad-nadiad",
@@ -12874,7 +12983,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Swasan+Chest+Hospital+%26+I.C.U+%E2%80%93+Best+Chest+%26+Allergy+Hospital,+Nadiad/@22.6857154,72.8702317,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5baeda28883b:0x4775c89dc61e221a!8m2!3d22.6857154!4d72.8702317!16s%2Fg%2F11q8w2x1dx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swasan+Chest+Hospital+%26+I.C.U+%E2%80%93+Best+Chest+%26+Allergy+Hospital,+Nadiad/@22.6857154,72.8702317,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5baeda28883b:0x4775c89dc61e221a!8m2!3d22.6857154!4d72.8702317!16s%2Fg%2F11q8w2x1dx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12943,7 +13052,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swasan+Chest+Hospital+%26+I.C.U+%E2%80%93+Best+Chest+%26+Allergy+Hospital,+Nadiad/@22.6857154,72.8702317,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5baeda28883b:0x4775c89dc61e221a!8m2!3d22.6857154!4d72.8702317!16s%2Fg%2F11q8w2x1dx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-big-boss-family-hair-salon-nadiad",
@@ -12993,7 +13103,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Big+Boss+Family+Hair+Salon/@22.6779872,72.8648006,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1dfd680bf7:0x6ff8d5e5d87c9ea6!8m2!3d22.6779872!4d72.8648006!16s%2Fg%2F11cs11ltnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Big+Boss+Family+Hair+Salon/@22.6779872,72.8648006,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1dfd680bf7:0x6ff8d5e5d87c9ea6!8m2!3d22.6779872!4d72.8648006!16s%2Fg%2F11cs11ltnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13062,7 +13172,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Big+Boss+Family+Hair+Salon/@22.6779872,72.8648006,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1dfd680bf7:0x6ff8d5e5d87c9ea6!8m2!3d22.6779872!4d72.8648006!16s%2Fg%2F11cs11ltnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "urvish-hospital-nadiad",
@@ -13110,7 +13221,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/URVISH+HOSPITAL/@22.6922086,72.8663291,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1080bccc9b:0x5494baa108fe1456!8m2!3d22.6922086!4d72.8663291!16s%2Fg%2F11c72kfxf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/URVISH+HOSPITAL/@22.6922086,72.8663291,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1080bccc9b:0x5494baa108fe1456!8m2!3d22.6922086!4d72.8663291!16s%2Fg%2F11c72kfxf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13176,10 +13287,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/URVISH+HOSPITAL/@22.6922086,72.8663291,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1080bccc9b:0x5494baa108fe1456!8m2!3d22.6922086!4d72.8663291!16s%2Fg%2F11c72kfxf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "utkarsh-hospital-nadiad",
@@ -13228,7 +13340,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Utkarsh+Hospital/@22.6851152,72.870904,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1eea63e949:0xc059bb19b38f9e09!8m2!3d22.6851152!4d72.870904!16s%2Fg%2F1tf5c423?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Utkarsh+Hospital/@22.6851152,72.870904,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1eea63e949:0xc059bb19b38f9e09!8m2!3d22.6851152!4d72.870904!16s%2Fg%2F1tf5c423?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13297,7 +13409,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Utkarsh+Hospital/@22.6851152,72.870904,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b1eea63e949:0xc059bb19b38f9e09!8m2!3d22.6851152!4d72.870904!16s%2Fg%2F1tf5c423?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ved-hospital-ahmedabad",
@@ -13346,7 +13459,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ved+Hospital/@23.0461082,72.5141719,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b52233ad8fd:0xffb55f763a8def52!8m2!3d23.0461082!4d72.5141719!16s%2Fg%2F11bvt3vv7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ved+Hospital/@23.0461082,72.5141719,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b52233ad8fd:0xffb55f763a8def52!8m2!3d23.0461082!4d72.5141719!16s%2Fg%2F11bvt3vv7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13415,7 +13528,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ved+Hospital/@23.0461082,72.5141719,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b52233ad8fd:0xffb55f763a8def52!8m2!3d23.0461082!4d72.5141719!16s%2Fg%2F11bvt3vv7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "zydus-hospitals-ahmedabad",
@@ -13464,7 +13578,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Zydus+Hospitals/@23.0585156,72.5175197,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b5e464673c1:0x4aa886904308b889!8m2!3d23.0585156!4d72.5175197!16s%2Fg%2F124yhkhzf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zydus+Hospitals/@23.0585156,72.5175197,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b5e464673c1:0x4aa886904308b889!8m2!3d23.0585156!4d72.5175197!16s%2Fg%2F124yhkhzf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13533,7 +13647,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zydus+Hospitals/@23.0585156,72.5175197,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b5e464673c1:0x4aa886904308b889!8m2!3d23.0585156!4d72.5175197!16s%2Fg%2F124yhkhzf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kidney-circle-nadiad",
@@ -13583,7 +13698,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/%E0%AA%95%E0%AA%BF%E0%AA%A1%E0%AA%A8%E0%AB%80+%E0%AA%B8%E0%AA%B0%E0%AB%8D%E0%AA%95%E0%AA%B2+Kidney+Circle/@22.6832831,72.8717431,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b7d76562503:0x88dca32d7f139390!8m2!3d22.6832831!4d72.8717431!16s%2Fg%2F11sqkqt4t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%AA%95%E0%AA%BF%E0%AA%A1%E0%AA%A8%E0%AB%80+%E0%AA%B8%E0%AA%B0%E0%AB%8D%E0%AA%95%E0%AA%B2+Kidney+Circle/@22.6832831,72.8717431,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b7d76562503:0x88dca32d7f139390!8m2!3d22.6832831!4d72.8717431!16s%2Fg%2F11sqkqt4t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13652,7 +13767,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%AA%95%E0%AA%BF%E0%AA%A1%E0%AA%A8%E0%AB%80+%E0%AA%B8%E0%AA%B0%E0%AB%8D%E0%AA%95%E0%AA%B2+Kidney+Circle/@22.6832831,72.8717431,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b7d76562503:0x88dca32d7f139390!8m2!3d22.6832831!4d72.8717431!16s%2Fg%2F11sqkqt4t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nadiad-nadiad",
@@ -13701,7 +13817,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%A3%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+,+Nadiad/@22.6711596,72.8607669,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0561aa428d:0xb3142e8bc93140a4!8m2!3d22.6711596!4d72.8607669!16s%2Fg%2F11dfgsv0wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A3%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+,+Nadiad/@22.6711596,72.8607669,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0561aa428d:0xb3142e8bc93140a4!8m2!3d22.6711596!4d72.8607669!16s%2Fg%2F11dfgsv0wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13770,6 +13886,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A3%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+,+Nadiad/@22.6711596,72.8607669,17z/data=!3m1!4b1!4m6!3m5!1s0x395e5b0561aa428d:0xb3142e8bc93140a4!8m2!3d22.6711596!4d72.8607669!16s%2Fg%2F11dfgsv0wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

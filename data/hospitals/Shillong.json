@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Acura+Diagnostics/data=!4m7!3m6!1s0x37507ebae12be5d1:0x66fa4b0a00a6dcba!8m2!3d25.569217!4d91.8987367!16s%2Fg%2F11fzf820d3!19sChIJ0eUr4bp-UDcRutymAApL-mY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Acura+Diagnostics/data=!4m7!3m6!1s0x37507ebae12be5d1:0x66fa4b0a00a6dcba!8m2!3d25.569217!4d91.8987367!16s%2Fg%2F11fzf820d3!19sChIJ0eUr4bp-UDcRutymAApL-mY?authuser=0&hl=en&rclk=1"
@@ -115,7 +115,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Acura+Diagnostics/data=!4m7!3m6!1s0x37507ebae12be5d1:0x66fa4b0a00a6dcba!8m2!3d25.569217!4d91.8987367!16s%2Fg%2F11fzf820d3!19sChIJ0eUr4bp-UDcRutymAApL-mY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "advanced-dental-clinic-giri-niwas-shillong",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Advanced+dental+Clinic,+Giri+Niwas+,/data=!4m7!3m6!1s0x37507f96d403d46d:0xae8d7d9004b9bb27!8m2!3d25.5797753!4d91.8859378!16s%2Fg%2F11h7d6y17j!19sChIJbdQD1JZ_UDcRJ7u5BJB9ja4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+dental+Clinic,+Giri+Niwas+,/data=!4m7!3m6!1s0x37507f96d403d46d:0xae8d7d9004b9bb27!8m2!3d25.5797753!4d91.8859378!16s%2Fg%2F11h7d6y17j!19sChIJbdQD1JZ_UDcRJ7u5BJB9ja4?authuser=0&hl=en&rclk=1"
@@ -232,7 +233,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advanced+dental+Clinic,+Giri+Niwas+,/data=!4m7!3m6!1s0x37507f96d403d46d:0xae8d7d9004b9bb27!8m2!3d25.5797753!4d91.8859378!16s%2Fg%2F11h7d6y17j!19sChIJbdQD1JZ_UDcRJ7u5BJB9ja4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aesthetica-dental-implant-clinics-shillong-shillong",
@@ -281,7 +283,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AESTHETICA-+Dental+Implant+Clinics+Shillong/data=!4m7!3m6!1s0x37507ebb0000001d:0x90b05b4b2c625f40!8m2!3d25.5707088!4d91.8976554!16s%2Fg%2F11f1028p9q!19sChIJHQAAALt-UDcRQF9iLEtbsJA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AESTHETICA-+Dental+Implant+Clinics+Shillong/data=!4m7!3m6!1s0x37507ebb0000001d:0x90b05b4b2c625f40!8m2!3d25.5707088!4d91.8976554!16s%2Fg%2F11f1028p9q!19sChIJHQAAALt-UDcRQF9iLEtbsJA?authuser=0&hl=en&rclk=1"
@@ -350,7 +352,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AESTHETICA-+Dental+Implant+Clinics+Shillong/data=!4m7!3m6!1s0x37507ebb0000001d:0x90b05b4b2c625f40!8m2!3d25.5707088!4d91.8976554!16s%2Fg%2F11f1028p9q!19sChIJHQAAALt-UDcRQF9iLEtbsJA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aijingtngen-dental-clinic-shillong",
@@ -398,7 +401,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aijingtngen+dental+clinic/data=!4m7!3m6!1s0x37507f236f68c29f:0xe3fe996726cea1d9!8m2!3d25.5789263!4d91.8932731!16s%2Fg%2F11j8sm2g8k!19sChIJn8JobyN_UDcR2aHOJmeZ_uM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aijingtngen+dental+clinic/data=!4m7!3m6!1s0x37507f236f68c29f:0xe3fe996726cea1d9!8m2!3d25.5789263!4d91.8932731!16s%2Fg%2F11j8sm2g8k!19sChIJn8JobyN_UDcR2aHOJmeZ_uM?authuser=0&hl=en&rclk=1"
@@ -464,10 +467,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aijingtngen+dental+clinic/data=!4m7!3m6!1s0x37507f236f68c29f:0xe3fe996726cea1d9!8m2!3d25.5789263!4d91.8932731!16s%2Fg%2F11j8sm2g8k!19sChIJn8JobyN_UDcR2aHOJmeZ_uM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "all-smiles-dental-clinic-shillong",
@@ -515,7 +519,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/All+Smiles+Dental+Clinic/data=!4m7!3m6!1s0x37507e8d8414cb83:0x5d7359214a758cea!8m2!3d25.576382!4d91.8802523!16s%2Fg%2F11fz1sbn7b!19sChIJg8sUhI1-UDcR6ox1SiFZc10?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/All+Smiles+Dental+Clinic/data=!4m7!3m6!1s0x37507e8d8414cb83:0x5d7359214a758cea!8m2!3d25.576382!4d91.8802523!16s%2Fg%2F11fz1sbn7b!19sChIJg8sUhI1-UDcR6ox1SiFZc10?authuser=0&hl=en&rclk=1"
@@ -584,7 +588,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/All+Smiles+Dental+Clinic/data=!4m7!3m6!1s0x37507e8d8414cb83:0x5d7359214a758cea!8m2!3d25.576382!4d91.8802523!16s%2Fg%2F11fz1sbn7b!19sChIJg8sUhI1-UDcR6ox1SiFZc10?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "all-smiles-dental-clinic-shillong",
@@ -632,7 +637,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/All+Smiles+Dental+Clinic/data=!4m7!3m6!1s0x37507ec636971711:0x1a9a0e09f8d2cf0c!8m2!3d25.5829044!4d91.8991748!16s%2Fg%2F11fyxdhgyg!19sChIJEReXNsZ-UDcRDM_S-AkOmho?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/All+Smiles+Dental+Clinic/data=!4m7!3m6!1s0x37507ec636971711:0x1a9a0e09f8d2cf0c!8m2!3d25.5829044!4d91.8991748!16s%2Fg%2F11fyxdhgyg!19sChIJEReXNsZ-UDcRDM_S-AkOmho?authuser=0&hl=en&rclk=1"
@@ -698,10 +703,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/All+Smiles+Dental+Clinic/data=!4m7!3m6!1s0x37507ec636971711:0x1a9a0e09f8d2cf0c!8m2!3d25.5829044!4d91.8991748!16s%2Fg%2F11fyxdhgyg!19sChIJEReXNsZ-UDcRDM_S-AkOmho?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apollo-trinity-medical-centre-shillong",
@@ -751,7 +757,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Trinity+Medical+Centre/data=!4m7!3m6!1s0x37507f001163aceb:0x37d43ab66e75279b!8m2!3d25.5716682!4d91.902999!16s%2Fg%2F11w9r3k0g0!19sChIJ66xjEQB_UDcRmyd1brY61Dc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Trinity+Medical+Centre/data=!4m7!3m6!1s0x37507f001163aceb:0x37d43ab66e75279b!8m2!3d25.5716682!4d91.902999!16s%2Fg%2F11w9r3k0g0!19sChIJ66xjEQB_UDcRmyd1brY61Dc?authuser=0&hl=en&rclk=1"
@@ -820,7 +826,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Trinity+Medical+Centre/data=!4m7!3m6!1s0x37507f001163aceb:0x37d43ab66e75279b!8m2!3d25.5716682!4d91.902999!16s%2Fg%2F11w9r3k0g0!19sChIJ66xjEQB_UDcRmyd1brY61Dc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aura-dental-and-aesthetics-shillong-shillong",
@@ -869,7 +876,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aura+Dental+%26+Aesthetics,+Shillong/data=!4m7!3m6!1s0x37507f839a982aa3:0xb9b40e2bbfbe7e90!8m2!3d25.5704346!4d91.8951417!16s%2Fg%2F11s4h7rstz!19sChIJoyqYmoN_UDcRkH6-vysOtLk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aura+Dental+%26+Aesthetics,+Shillong/data=!4m7!3m6!1s0x37507f839a982aa3:0xb9b40e2bbfbe7e90!8m2!3d25.5704346!4d91.8951417!16s%2Fg%2F11s4h7rstz!19sChIJoyqYmoN_UDcRkH6-vysOtLk?authuser=0&hl=en&rclk=1"
@@ -935,10 +942,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aura+Dental+%26+Aesthetics,+Shillong/data=!4m7!3m6!1s0x37507f839a982aa3:0xb9b40e2bbfbe7e90!8m2!3d25.5704346!4d91.8951417!16s%2Fg%2F11s4h7rstz!19sChIJoyqYmoN_UDcRkH6-vysOtLk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bansara-eye-care-centre-shillong",
@@ -987,7 +995,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bansara+Eye+Care+Centre/data=!4m7!3m6!1s0x37507ebb6d9b745d:0xa88094677e4de363!8m2!3d25.5698749!4d91.8963593!16s%2Fg%2F11hbg8g1q4!19sChIJXXSbbbt-UDcRY-NNfmeUgKg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansara+Eye+Care+Centre/data=!4m7!3m6!1s0x37507ebb6d9b745d:0xa88094677e4de363!8m2!3d25.5698749!4d91.8963593!16s%2Fg%2F11hbg8g1q4!19sChIJXXSbbbt-UDcRY-NNfmeUgKg?authuser=0&hl=en&rclk=1"
@@ -1056,7 +1064,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bansara+Eye+Care+Centre/data=!4m7!3m6!1s0x37507ebb6d9b745d:0xa88094677e4de363!8m2!3d25.5698749!4d91.8963593!16s%2Fg%2F11hbg8g1q4!19sChIJXXSbbbt-UDcRY-NNfmeUgKg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bethany-hospital-shillong-shillong",
@@ -1105,7 +1114,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bethany+Hospital,+Shillong/data=!4m7!3m6!1s0x37507eaf94a95f0f:0x34676a1af4509000!8m2!3d25.5662051!4d91.9011838!16s%2Fg%2F11q8g3gq6n!19sChIJD1-plK9-UDcRAJBQ9BpqZzQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bethany+Hospital,+Shillong/data=!4m7!3m6!1s0x37507eaf94a95f0f:0x34676a1af4509000!8m2!3d25.5662051!4d91.9011838!16s%2Fg%2F11q8g3gq6n!19sChIJD1-plK9-UDcRAJBQ9BpqZzQ?authuser=0&hl=en&rclk=1"
@@ -1174,7 +1183,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bethany+Hospital,+Shillong/data=!4m7!3m6!1s0x37507eaf94a95f0f:0x34676a1af4509000!8m2!3d25.5662051!4d91.9011838!16s%2Fg%2F11q8g3gq6n!19sChIJD1-plK9-UDcRAJBQ9BpqZzQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "brighter-smiles-dental-care-shillong",
@@ -1222,7 +1232,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Brighter+Smiles+Dental+Care/data=!4m7!3m6!1s0x375079b884a4a7f5:0xde4cde6e9f5d0ad6!8m2!3d25.5700354!4d91.9126555!16s%2Fg%2F11sjrqsw_g!19sChIJ9aekhLh5UDcR1gpdn27eTN4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brighter+Smiles+Dental+Care/data=!4m7!3m6!1s0x375079b884a4a7f5:0xde4cde6e9f5d0ad6!8m2!3d25.5700354!4d91.9126555!16s%2Fg%2F11sjrqsw_g!19sChIJ9aekhLh5UDcR1gpdn27eTN4?authuser=0&hl=en&rclk=1"
@@ -1291,7 +1301,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Brighter+Smiles+Dental+Care/data=!4m7!3m6!1s0x375079b884a4a7f5:0xde4cde6e9f5d0ad6!8m2!3d25.5700354!4d91.9126555!16s%2Fg%2F11sjrqsw_g!19sChIJ9aekhLh5UDcR1gpdn27eTN4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cardiology-ward-mawdiangdiang",
@@ -1339,7 +1350,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/cardiology+ward/data=!4m7!3m6!1s0x375079f1d5072e81:0xeff8da0056700b2d!8m2!3d25.5909842!4d91.9406297!16s%2Fg%2F11h1ywngrc!19sChIJgS4H1fF5UDcRLQtwVgDa-O8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/cardiology+ward/data=!4m7!3m6!1s0x375079f1d5072e81:0xeff8da0056700b2d!8m2!3d25.5909842!4d91.9406297!16s%2Fg%2F11h1ywngrc!19sChIJgS4H1fF5UDcRLQtwVgDa-O8?authuser=0&hl=en&rclk=1"
@@ -1405,10 +1416,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/cardiology+ward/data=!4m7!3m6!1s0x375079f1d5072e81:0xeff8da0056700b2d!8m2!3d25.5909842!4d91.9406297!16s%2Fg%2F11h1ywngrc!19sChIJgS4H1fF5UDcRLQtwVgDa-O8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "celebs-dental-clinic-and-aesthetic-center-dentist-in-shillong-shillong",
@@ -1456,7 +1468,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Celebs+Dental+Clinic+and+Aesthetic+Center+-+Dentist+in+Shillong/data=!4m7!3m6!1s0x37507e927fde41f5:0x8ea25df4588081f3!8m2!3d25.5767045!4d91.8807561!16s%2Fg%2F11gf9f2j9t!19sChIJ9UHef5J-UDcR84GAWPRdoo4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Celebs+Dental+Clinic+and+Aesthetic+Center+-+Dentist+in+Shillong/data=!4m7!3m6!1s0x37507e927fde41f5:0x8ea25df4588081f3!8m2!3d25.5767045!4d91.8807561!16s%2Fg%2F11gf9f2j9t!19sChIJ9UHef5J-UDcR84GAWPRdoo4?authuser=0&hl=en&rclk=1"
@@ -1522,10 +1534,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Celebs+Dental+Clinic+and+Aesthetic+Center+-+Dentist+in+Shillong/data=!4m7!3m6!1s0x37507e927fde41f5:0x8ea25df4588081f3!8m2!3d25.5767045!4d91.8807561!16s%2Fg%2F11gf9f2j9t!19sChIJ9UHef5J-UDcR84GAWPRdoo4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cghs-wellness-centre-2-shillong",
@@ -1571,7 +1584,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/CGHS+Wellness+Centre+2/data=!4m7!3m6!1s0x37507f8c43d67b79:0xfe2d511aa8b02295!8m2!3d25.5721819!4d91.8867915!16s%2Fg%2F11g0c8kt89!19sChIJeXvWQ4x_UDcRlSKwqBpRLf4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CGHS+Wellness+Centre+2/data=!4m7!3m6!1s0x37507f8c43d67b79:0xfe2d511aa8b02295!8m2!3d25.5721819!4d91.8867915!16s%2Fg%2F11g0c8kt89!19sChIJeXvWQ4x_UDcRlSKwqBpRLf4?authuser=0&hl=en&rclk=1"
@@ -1637,10 +1650,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CGHS+Wellness+Centre+2/data=!4m7!3m6!1s0x37507f8c43d67b79:0xfe2d511aa8b02295!8m2!3d25.5721819!4d91.8867915!16s%2Fg%2F11g0c8kt89!19sChIJeXvWQ4x_UDcRlSKwqBpRLf4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "civil-hospital-shillong-shillong",
@@ -1688,7 +1702,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Civil+Hospital,+Shillong/data=!4m7!3m6!1s0x37507e9aaa349c19:0xc17fab4baaf2b2c4!8m2!3d25.5677394!4d91.8810813!16s%2Fg%2F1tt1flbk!19sChIJGZw0qpp-UDcRxLLyqkurf8E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Civil+Hospital,+Shillong/data=!4m7!3m6!1s0x37507e9aaa349c19:0xc17fab4baaf2b2c4!8m2!3d25.5677394!4d91.8810813!16s%2Fg%2F1tt1flbk!19sChIJGZw0qpp-UDcRxLLyqkurf8E?authuser=0&hl=en&rclk=1"
@@ -1757,7 +1771,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Civil+Hospital,+Shillong/data=!4m7!3m6!1s0x37507e9aaa349c19:0xc17fab4baaf2b2c4!8m2!3d25.5677394!4d91.8810813!16s%2Fg%2F1tt1flbk!19sChIJGZw0qpp-UDcRxLLyqkurf8E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "core-dental-shillong",
@@ -1805,7 +1820,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Core+Dental/data=!4m7!3m6!1s0x37507f551ea90ee5:0x3c0641861ff8cabe!8m2!3d25.5708624!4d91.8956746!16s%2Fg%2F11x63q2fd0!19sChIJ5Q6pHlV_UDcRvsr4H4ZBBjw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Core+Dental/data=!4m7!3m6!1s0x37507f551ea90ee5:0x3c0641861ff8cabe!8m2!3d25.5708624!4d91.8956746!16s%2Fg%2F11x63q2fd0!19sChIJ5Q6pHlV_UDcRvsr4H4ZBBjw?authuser=0&hl=en&rclk=1"
@@ -1871,10 +1886,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Core+Dental/data=!4m7!3m6!1s0x37507f551ea90ee5:0x3c0641861ff8cabe!8m2!3d25.5708624!4d91.8956746!16s%2Fg%2F11x63q2fd0!19sChIJ5Q6pHlV_UDcRvsr4H4ZBBjw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "coredental-shillong",
@@ -1924,7 +1940,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/COREDENTAL/data=!4m7!3m6!1s0x37507fafad7909bf:0xf15f58221025f030!8m2!3d25.5635949!4d91.8772439!16s%2Fg%2F11p75lfxqj!19sChIJvwl5ra9_UDcRMPAlECJYX_E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/COREDENTAL/data=!4m7!3m6!1s0x37507fafad7909bf:0xf15f58221025f030!8m2!3d25.5635949!4d91.8772439!16s%2Fg%2F11p75lfxqj!19sChIJvwl5ra9_UDcRMPAlECJYX_E?authuser=0&hl=en&rclk=1"
@@ -1993,7 +2009,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/COREDENTAL/data=!4m7!3m6!1s0x37507fafad7909bf:0xf15f58221025f030!8m2!3d25.5635949!4d91.8772439!16s%2Fg%2F11p75lfxqj!19sChIJvwl5ra9_UDcRMPAlECJYX_E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dae-civil-hospital-cancer-wing-shillong",
@@ -2042,7 +2059,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DAE+Civil+Hospital,+Cancer+Wing/data=!4m7!3m6!1s0x37507f002b23c877:0xf78b737be7265174!8m2!3d25.5676801!4d91.8816769!16s%2Fg%2F11whgh7ntn!19sChIJd8gjKwB_UDcRdFEm53tzi_c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DAE+Civil+Hospital,+Cancer+Wing/data=!4m7!3m6!1s0x37507f002b23c877:0xf78b737be7265174!8m2!3d25.5676801!4d91.8816769!16s%2Fg%2F11whgh7ntn!19sChIJd8gjKwB_UDcRdFEm53tzi_c?authuser=0&hl=en&rclk=1"
@@ -2111,7 +2128,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DAE+Civil+Hospital,+Cancer+Wing/data=!4m7!3m6!1s0x37507f002b23c877:0xf78b737be7265174!8m2!3d25.5676801!4d91.8816769!16s%2Fg%2F11whgh7ntn!19sChIJd8gjKwB_UDcRdFEm53tzi_c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dei-na-me-dental-care-shillong",
@@ -2160,7 +2178,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dei+Na+Me+Dental+Care/data=!4m7!3m6!1s0x37507f66208f173d:0x8c260824640f2a8a!8m2!3d25.6084882!4d91.899847!16s%2Fg%2F11wbxln4w6!19sChIJPRePIGZ_UDcRiioPZCQIJow?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dei+Na+Me+Dental+Care/data=!4m7!3m6!1s0x37507f66208f173d:0x8c260824640f2a8a!8m2!3d25.6084882!4d91.899847!16s%2Fg%2F11wbxln4w6!19sChIJPRePIGZ_UDcRiioPZCQIJow?authuser=0&hl=en&rclk=1"
@@ -2226,10 +2244,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dei+Na+Me+Dental+Care/data=!4m7!3m6!1s0x37507f66208f173d:0x8c260824640f2a8a!8m2!3d25.6084882!4d91.899847!16s%2Fg%2F11wbxln4w6!19sChIJPRePIGZ_UDcRiioPZCQIJow?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dental-hub-shillong",
@@ -2278,7 +2297,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Hub/data=!4m7!3m6!1s0x37507ebab064ad35:0x485a15409af5c6a3!8m2!3d25.5683824!4d91.899413!16s%2Fg%2F11g6nbwyyx!19sChIJNa1ksLp-UDcRo8b1mkAVWkg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Hub/data=!4m7!3m6!1s0x37507ebab064ad35:0x485a15409af5c6a3!8m2!3d25.5683824!4d91.899413!16s%2Fg%2F11g6nbwyyx!19sChIJNa1ksLp-UDcRo8b1mkAVWkg?authuser=0&hl=en&rclk=1"
@@ -2347,7 +2366,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Hub/data=!4m7!3m6!1s0x37507ebab064ad35:0x485a15409af5c6a3!8m2!3d25.5683824!4d91.899413!16s%2Fg%2F11g6nbwyyx!19sChIJNa1ksLp-UDcRo8b1mkAVWkg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dental-solutions-shillong-shillong",
@@ -2396,7 +2416,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Solutions+Shillong/data=!4m7!3m6!1s0x37507f1892e00291:0x5b077c9a2db4298f!8m2!3d25.5638602!4d91.8736299!16s%2Fg%2F11spxm49kx!19sChIJkQLgkhh_UDcRjym0LZp8B1s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Solutions+Shillong/data=!4m7!3m6!1s0x37507f1892e00291:0x5b077c9a2db4298f!8m2!3d25.5638602!4d91.8736299!16s%2Fg%2F11spxm49kx!19sChIJkQLgkhh_UDcRjym0LZp8B1s?authuser=0&hl=en&rclk=1"
@@ -2465,7 +2485,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Solutions+Shillong/data=!4m7!3m6!1s0x37507f1892e00291:0x5b077c9a2db4298f!8m2!3d25.5638602!4d91.8736299!16s%2Fg%2F11spxm49kx!19sChIJkQLgkhh_UDcRjym0LZp8B1s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dentique-oral-care-shillong-shillong",
@@ -2513,7 +2534,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dentique+Oral+Care,+Shillong/data=!4m7!3m6!1s0x37507f7ac9073a65:0x491eda7e9438af6a!8m2!3d25.5717266!4d91.9049486!16s%2Fg%2F11xp6hcsmk!19sChIJZToHyXp_UDcRaq84lH7aHkk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentique+Oral+Care,+Shillong/data=!4m7!3m6!1s0x37507f7ac9073a65:0x491eda7e9438af6a!8m2!3d25.5717266!4d91.9049486!16s%2Fg%2F11xp6hcsmk!19sChIJZToHyXp_UDcRaq84lH7aHkk?authuser=0&hl=en&rclk=1"
@@ -2579,10 +2600,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dentique+Oral+Care,+Shillong/data=!4m7!3m6!1s0x37507f7ac9073a65:0x491eda7e9438af6a!8m2!3d25.5717266!4d91.9049486!16s%2Fg%2F11xp6hcsmk!19sChIJZToHyXp_UDcRaq84lH7aHkk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dong-kharmalki-uphc-shillong",
@@ -2631,7 +2653,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dong+Kharmalki+UPHC/data=!4m7!3m6!1s0x37507e9f57ed9541:0x6c18aad5e415588f!8m2!3d25.5611989!4d91.890326!16s%2Fg%2F11nxcftfcy!19sChIJQZXtV59-UDcRj1gV5NWqGGw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dong+Kharmalki+UPHC/data=!4m7!3m6!1s0x37507e9f57ed9541:0x6c18aad5e415588f!8m2!3d25.5611989!4d91.890326!16s%2Fg%2F11nxcftfcy!19sChIJQZXtV59-UDcRj1gV5NWqGGw?authuser=0&hl=en&rclk=1"
@@ -2697,10 +2719,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dong+Kharmalki+UPHC/data=!4m7!3m6!1s0x37507e9f57ed9541:0x6c18aad5e415588f!8m2!3d25.5611989!4d91.890326!16s%2Fg%2F11nxcftfcy!19sChIJQZXtV59-UDcRj1gV5NWqGGw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "echonomics-shillong",
@@ -2746,7 +2769,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Echonomics/data=!4m7!3m6!1s0x37507e9500000001:0xabee2e0982c01749!8m2!3d25.5767146!4d91.8879469!16s%2Fg%2F11gdsfd_mm!19sChIJAQAAAJV-UDcRSRfAggku7qs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Echonomics/data=!4m7!3m6!1s0x37507e9500000001:0xabee2e0982c01749!8m2!3d25.5767146!4d91.8879469!16s%2Fg%2F11gdsfd_mm!19sChIJAQAAAJV-UDcRSRfAggku7qs?authuser=0&hl=en&rclk=1"
@@ -2812,10 +2835,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Echonomics/data=!4m7!3m6!1s0x37507e9500000001:0xabee2e0982c01749!8m2!3d25.5767146!4d91.8879469!16s%2Fg%2F11gdsfd_mm!19sChIJAQAAAJV-UDcRSRfAggku7qs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "elite-physiotherapy-clinic-shillong",
@@ -2864,7 +2888,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Elite+Physiotherapy+Clinic/data=!4m7!3m6!1s0x37507ebabe54902b:0x45b30e8261f02fb1!8m2!3d25.5688086!4d91.8988816!16s%2Fg%2F11fzf8qcx9!19sChIJK5BUvrp-UDcRsS_wYYIOs0U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elite+Physiotherapy+Clinic/data=!4m7!3m6!1s0x37507ebabe54902b:0x45b30e8261f02fb1!8m2!3d25.5688086!4d91.8988816!16s%2Fg%2F11fzf8qcx9!19sChIJK5BUvrp-UDcRsS_wYYIOs0U?authuser=0&hl=en&rclk=1"
@@ -2933,7 +2957,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Elite+Physiotherapy+Clinic/data=!4m7!3m6!1s0x37507ebabe54902b:0x45b30e8261f02fb1!8m2!3d25.5688086!4d91.8988816!16s%2Fg%2F11fzf8qcx9!19sChIJK5BUvrp-UDcRsS_wYYIOs0U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "family-dental-care-shillong",
@@ -2981,7 +3006,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/FAMILY+DENTAL+CARE/data=!4m7!3m6!1s0x37507ff762ea08c3:0x7a6c29ff5c1ce124!8m2!3d25.5954827!4d91.884702!16s%2Fg%2F11f766qn3b!19sChIJwwjqYvd_UDcRJOEcXP8pbHo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FAMILY+DENTAL+CARE/data=!4m7!3m6!1s0x37507ff762ea08c3:0x7a6c29ff5c1ce124!8m2!3d25.5954827!4d91.884702!16s%2Fg%2F11f766qn3b!19sChIJwwjqYvd_UDcRJOEcXP8pbHo?authuser=0&hl=en&rclk=1"
@@ -3047,10 +3072,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/FAMILY+DENTAL+CARE/data=!4m7!3m6!1s0x37507ff762ea08c3:0x7a6c29ff5c1ce124!8m2!3d25.5954827!4d91.884702!16s%2Fg%2F11f766qn3b!19sChIJwwjqYvd_UDcRJOEcXP8pbHo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "first-care-clinic-shillong",
@@ -3097,7 +3123,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/First+Care+Clinic/data=!4m7!3m6!1s0x37507fdc42b6d183:0x9936a03db5f00f3f!8m2!3d25.5804941!4d91.8731309!16s%2Fg%2F11vqvhnltj!19sChIJg9G2Qtx_UDcRPw_wtT2gNpk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/First+Care+Clinic/data=!4m7!3m6!1s0x37507fdc42b6d183:0x9936a03db5f00f3f!8m2!3d25.5804941!4d91.8731309!16s%2Fg%2F11vqvhnltj!19sChIJg9G2Qtx_UDcRPw_wtT2gNpk?authuser=0&hl=en&rclk=1"
@@ -3163,10 +3189,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/First+Care+Clinic/data=!4m7!3m6!1s0x37507fdc42b6d183:0x9936a03db5f00f3f!8m2!3d25.5804941!4d91.8731309!16s%2Fg%2F11vqvhnltj!19sChIJg9G2Qtx_UDcRPw_wtT2gNpk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ganesh-das-hospital-shillong",
@@ -3214,7 +3241,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://www.google.com/maps/place/Ganesh+Das+Hospital/data=!4m7!3m6!1s0x37507eec1351104d:0x9073fa1b4ad27a48!8m2!3d25.5837298!4d91.8844084!16s%2Fg%2F11f541l12m!19sChIJTRBRE-x-UDcRSHrSShv6c5A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganesh+Das+Hospital/data=!4m7!3m6!1s0x37507eec1351104d:0x9073fa1b4ad27a48!8m2!3d25.5837298!4d91.8844084!16s%2Fg%2F11f541l12m!19sChIJTRBRE-x-UDcRSHrSShv6c5A?authuser=0&hl=en&rclk=1"
@@ -3283,7 +3310,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ganesh+Das+Hospital/data=!4m7!3m6!1s0x37507eec1351104d:0x9073fa1b4ad27a48!8m2!3d25.5837298!4d91.8844084!16s%2Fg%2F11f541l12m!19sChIJTRBRE-x-UDcRSHrSShv6c5A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "glareen-khyriem-shillong",
@@ -3329,7 +3357,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Glareen+khyriem/data=!4m7!3m6!1s0x37507944801fcb0d:0x6c7ff4bf52caf2a4!8m2!3d25.5682847!4d91.9105345!16s%2Fg%2F11hzyygf0_!19sChIJDcsfgER5UDcRpPLKUr_0f2w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Glareen+khyriem/data=!4m7!3m6!1s0x37507944801fcb0d:0x6c7ff4bf52caf2a4!8m2!3d25.5682847!4d91.9105345!16s%2Fg%2F11hzyygf0_!19sChIJDcsfgER5UDcRpPLKUr_0f2w?authuser=0&hl=en&rclk=1"
@@ -3395,10 +3423,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Glareen+khyriem/data=!4m7!3m6!1s0x37507944801fcb0d:0x6c7ff4bf52caf2a4!8m2!3d25.5682847!4d91.9105345!16s%2Fg%2F11hzyygf0_!19sChIJDcsfgER5UDcRpPLKUr_0f2w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "heal-and-smile-shillong",
@@ -3447,7 +3476,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Heal+and+Smile/data=!4m7!3m6!1s0x37507ebae19a4591:0xe3aa944146b70c19!8m2!3d25.5694381!4d91.8980069!16s%2Fg%2F12jh41h6r!19sChIJkUWa4bp-UDcRGQy3RkGUquM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heal+and+Smile/data=!4m7!3m6!1s0x37507ebae19a4591:0xe3aa944146b70c19!8m2!3d25.5694381!4d91.8980069!16s%2Fg%2F12jh41h6r!19sChIJkUWa4bp-UDcRGQy3RkGUquM?authuser=0&hl=en&rclk=1"
@@ -3516,7 +3545,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Heal+and+Smile/data=!4m7!3m6!1s0x37507ebae19a4591:0xe3aa944146b70c19!8m2!3d25.5694381!4d91.8980069!16s%2Fg%2F12jh41h6r!19sChIJkUWa4bp-UDcRGQy3RkGUquM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hope-clinic-shillong",
@@ -3565,7 +3595,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hope+Clinic/data=!4m7!3m6!1s0x37507e9b3551d11b:0x6756445f7a147ef!8m2!3d25.5635547!4d91.8806731!16s%2Fg%2F124t155q0!19sChIJG9FRNZt-UDcR70eh90VkdQY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+Clinic/data=!4m7!3m6!1s0x37507e9b3551d11b:0x6756445f7a147ef!8m2!3d25.5635547!4d91.8806731!16s%2Fg%2F124t155q0!19sChIJG9FRNZt-UDcR70eh90VkdQY?authuser=0&hl=en&rclk=1"
@@ -3634,7 +3664,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hope+Clinic/data=!4m7!3m6!1s0x37507e9b3551d11b:0x6756445f7a147ef!8m2!3d25.5635547!4d91.8806731!16s%2Fg%2F124t155q0!19sChIJG9FRNZt-UDcR70eh90VkdQY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jmp-dental-and-implant-centre-shillong",
@@ -3683,7 +3714,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/JMP+DENTAL+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x37507f83902764ef:0x8557ee2bd7d8a0ce!8m2!3d25.5811671!4d91.8790845!16s%2Fg%2F11q3728306!19sChIJ72QnkIN_UDcRzqDY1yvuV4U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JMP+DENTAL+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x37507f83902764ef:0x8557ee2bd7d8a0ce!8m2!3d25.5811671!4d91.8790845!16s%2Fg%2F11q3728306!19sChIJ72QnkIN_UDcRzqDY1yvuV4U?authuser=0&hl=en&rclk=1"
@@ -3752,7 +3783,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JMP+DENTAL+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x37507f83902764ef:0x8557ee2bd7d8a0ce!8m2!3d25.5811671!4d91.8790845!16s%2Fg%2F11q3728306!19sChIJ72QnkIN_UDcRzqDY1yvuV4U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "john-roberts-hospital-shillong-shillong",
@@ -3800,7 +3832,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/John+Roberts+Hospital+Shillong/data=!4m7!3m6!1s0x37507f7dc2c14471:0x1a49def869434dd3!8m2!3d25.5647028!4d91.9031008!16s%2Fg%2F11hzpcwdrx!19sChIJcUTBwn1_UDcR001DafjeSRo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/John+Roberts+Hospital+Shillong/data=!4m7!3m6!1s0x37507f7dc2c14471:0x1a49def869434dd3!8m2!3d25.5647028!4d91.9031008!16s%2Fg%2F11hzpcwdrx!19sChIJcUTBwn1_UDcR001DafjeSRo?authuser=0&hl=en&rclk=1"
@@ -3866,10 +3898,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/John+Roberts+Hospital+Shillong/data=!4m7!3m6!1s0x37507f7dc2c14471:0x1a49def869434dd3!8m2!3d25.5647028!4d91.9031008!16s%2Fg%2F11hzpcwdrx!19sChIJcUTBwn1_UDcR001DafjeSRo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "julian-chamber-shillong",
@@ -3915,7 +3948,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Julian+Chamber/data=!4m7!3m6!1s0x37507e8ce6a20531:0x52e9d7993726574f!8m2!3d25.5779684!4d91.8778245!16s%2Fg%2F1261z4x3c!19sChIJMQWi5ox-UDcRT1cmN5nX6VI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Julian+Chamber/data=!4m7!3m6!1s0x37507e8ce6a20531:0x52e9d7993726574f!8m2!3d25.5779684!4d91.8778245!16s%2Fg%2F1261z4x3c!19sChIJMQWi5ox-UDcRT1cmN5nX6VI?authuser=0&hl=en&rclk=1"
@@ -3981,10 +4014,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Julian+Chamber/data=!4m7!3m6!1s0x37507e8ce6a20531:0x52e9d7993726574f!8m2!3d25.5779684!4d91.8778245!16s%2Fg%2F1261z4x3c!19sChIJMQWi5ox-UDcRT1cmN5nX6VI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kamber-clinic-shillong",
@@ -4033,7 +4067,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Kamber+Clinic/data=!4m7!3m6!1s0x37507e910712782b:0x895353fbc57a542e!8m2!3d25.5714044!4d91.883254!16s%2Fg%2F11c2kc6mhy!19sChIJK3gSB5F-UDcRLlR6xftTU4k?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamber+Clinic/data=!4m7!3m6!1s0x37507e910712782b:0x895353fbc57a542e!8m2!3d25.5714044!4d91.883254!16s%2Fg%2F11c2kc6mhy!19sChIJK3gSB5F-UDcRLlR6xftTU4k?authuser=0&hl=en&rclk=1"
@@ -4102,7 +4136,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kamber+Clinic/data=!4m7!3m6!1s0x37507e910712782b:0x895353fbc57a542e!8m2!3d25.5714044!4d91.883254!16s%2Fg%2F11c2kc6mhy!19sChIJK3gSB5F-UDcRLlR6xftTU4k?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kamber-polyclinic-shillong",
@@ -4150,7 +4185,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Kamber+Polyclinic/data=!4m7!3m6!1s0x37507e8accd9b6a3:0x97e337d8d4f25e2a!8m2!3d25.5797401!4d91.8725365!16s%2Fg%2F11gbsz2gpf!19sChIJo7bZzIp-UDcRKl7y1Ng345c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamber+Polyclinic/data=!4m7!3m6!1s0x37507e8accd9b6a3:0x97e337d8d4f25e2a!8m2!3d25.5797401!4d91.8725365!16s%2Fg%2F11gbsz2gpf!19sChIJo7bZzIp-UDcRKl7y1Ng345c?authuser=0&hl=en&rclk=1"
@@ -4219,7 +4254,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kamber+Polyclinic/data=!4m7!3m6!1s0x37507e8accd9b6a3:0x97e337d8d4f25e2a!8m2!3d25.5797401!4d91.8725365!16s%2Fg%2F11gbsz2gpf!19sChIJo7bZzIp-UDcRKl7y1Ng345c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "krishna-chettri-shillong",
@@ -4265,7 +4301,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/krishna+chettri/data=!4m7!3m6!1s0x37507e92cce5d7cd:0x9ec8cd804cef1ae9!8m2!3d25.5796361!4d91.8822447!16s%2Fg%2F11ggr4r2cc!19sChIJzdflzJJ-UDcR6RrvTIDNyJ4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/krishna+chettri/data=!4m7!3m6!1s0x37507e92cce5d7cd:0x9ec8cd804cef1ae9!8m2!3d25.5796361!4d91.8822447!16s%2Fg%2F11ggr4r2cc!19sChIJzdflzJJ-UDcR6RrvTIDNyJ4?authuser=0&hl=en&rclk=1"
@@ -4331,10 +4367,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/krishna+chettri/data=!4m7!3m6!1s0x37507e92cce5d7cd:0x9ec8cd804cef1ae9!8m2!3d25.5796361!4d91.8822447!16s%2Fg%2F11ggr4r2cc!19sChIJzdflzJJ-UDcR6RrvTIDNyJ4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lumparing-urban-health-center-shillong",
@@ -4382,7 +4419,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://www.google.com/maps/place/Lumparing+Urban+Health+Center/data=!4m7!3m6!1s0x37507e82da88a839:0x4b39575e48f61939!8m2!3d25.5584973!4d91.8799694!16s%2Fg%2F11bxb82wjm!19sChIJOaiI2oJ-UDcRORn2SF5XOUs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lumparing+Urban+Health+Center/data=!4m7!3m6!1s0x37507e82da88a839:0x4b39575e48f61939!8m2!3d25.5584973!4d91.8799694!16s%2Fg%2F11bxb82wjm!19sChIJOaiI2oJ-UDcRORn2SF5XOUs?authuser=0&hl=en&rclk=1"
@@ -4451,7 +4488,8 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lumparing+Urban+Health+Center/data=!4m7!3m6!1s0x37507e82da88a839:0x4b39575e48f61939!8m2!3d25.5584973!4d91.8799694!16s%2Fg%2F11bxb82wjm!19sChIJOaiI2oJ-UDcRORn2SF5XOUs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mahari-and-sons-shillong",
@@ -4499,7 +4537,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Mahari+%26+Sons/data=!4m7!3m6!1s0x37507e8cea8135dd:0x231d805d8b8efa1e!8m2!3d25.5782093!4d91.8772099!16s%2Fg%2F124yj9gk2!19sChIJ3TWB6ox-UDcRHvqOi12AHSM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahari+%26+Sons/data=!4m7!3m6!1s0x37507e8cea8135dd:0x231d805d8b8efa1e!8m2!3d25.5782093!4d91.8772099!16s%2Fg%2F124yj9gk2!19sChIJ3TWB6ox-UDcRHvqOi12AHSM?authuser=0&hl=en&rclk=1"
@@ -4568,7 +4606,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahari+%26+Sons/data=!4m7!3m6!1s0x37507e8cea8135dd:0x231d805d8b8efa1e!8m2!3d25.5782093!4d91.8772099!16s%2Fg%2F124yj9gk2!19sChIJ3TWB6ox-UDcRHvqOi12AHSM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mebala-ai-dental-clinic-shillong",
@@ -4616,7 +4655,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Mebala-ai+Dental+Clinic/data=!4m7!3m6!1s0x37507f3b9776c7d7:0xf3ef23fe14638c1c!8m2!3d25.5789644!4d91.8771979!16s%2Fg%2F11rjyszvvc!19sChIJ18d2lzt_UDcRHIxjFP4j7_M?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mebala-ai+Dental+Clinic/data=!4m7!3m6!1s0x37507f3b9776c7d7:0xf3ef23fe14638c1c!8m2!3d25.5789644!4d91.8771979!16s%2Fg%2F11rjyszvvc!19sChIJ18d2lzt_UDcRHIxjFP4j7_M?authuser=0&hl=en&rclk=1"
@@ -4685,7 +4724,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mebala-ai+Dental+Clinic/data=!4m7!3m6!1s0x37507f3b9776c7d7:0xf3ef23fe14638c1c!8m2!3d25.5789644!4d91.8771979!16s%2Fg%2F11rjyszvvc!19sChIJ18d2lzt_UDcRHIxjFP4j7_M?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "medicare-diagnostic-centre-shillong-dieng-ong",
@@ -4734,7 +4774,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Medicare+Diagnostic+Centre+Shillong/data=!4m7!3m6!1s0x3750790056e40ecf:0xd06b1c20782b75fe!8m2!3d25.5958308!4d91.9404462!16s%2Fg%2F11y9y96jg6!19sChIJzw7kVgB5UDcR_nUreCAca9A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicare+Diagnostic+Centre+Shillong/data=!4m7!3m6!1s0x3750790056e40ecf:0xd06b1c20782b75fe!8m2!3d25.5958308!4d91.9404462!16s%2Fg%2F11y9y96jg6!19sChIJzw7kVgB5UDcR_nUreCAca9A?authuser=0&hl=en&rclk=1"
@@ -4800,10 +4840,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicare+Diagnostic+Centre+Shillong/data=!4m7!3m6!1s0x3750790056e40ecf:0xd06b1c20782b75fe!8m2!3d25.5958308!4d91.9404462!16s%2Fg%2F11y9y96jg6!19sChIJzw7kVgB5UDcR_nUreCAca9A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "medinova-dental-clinic-shillong",
@@ -4851,7 +4892,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Medinova+Dental+Clinic/data=!4m7!3m6!1s0x37507eeb46e80033:0x808cb10e71e9b646!8m2!3d25.5808224!4d91.8866556!16s%2Fg%2F11fzf2z82n!19sChIJMwDoRut-UDcRRrbpcQ6xjIA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medinova+Dental+Clinic/data=!4m7!3m6!1s0x37507eeb46e80033:0x808cb10e71e9b646!8m2!3d25.5808224!4d91.8866556!16s%2Fg%2F11fzf2z82n!19sChIJMwDoRut-UDcRRrbpcQ6xjIA?authuser=0&hl=en&rclk=1"
@@ -4917,10 +4958,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medinova+Dental+Clinic/data=!4m7!3m6!1s0x37507eeb46e80033:0x808cb10e71e9b646!8m2!3d25.5808224!4d91.8866556!16s%2Fg%2F11fzf2z82n!19sChIJMwDoRut-UDcRRrbpcQ6xjIA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mellow-dental-care-shillong",
@@ -4969,7 +5011,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mellow+Dental+Care/data=!4m7!3m6!1s0x37507900632a8889:0x2f486e7941532624!8m2!3d25.5692633!4d91.9128092!16s%2Fg%2F11lf4f6bzp!19sChIJiYgqYwB5UDcRJCZTQXluSC8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mellow+Dental+Care/data=!4m7!3m6!1s0x37507900632a8889:0x2f486e7941532624!8m2!3d25.5692633!4d91.9128092!16s%2Fg%2F11lf4f6bzp!19sChIJiYgqYwB5UDcRJCZTQXluSC8?authuser=0&hl=en&rclk=1"
@@ -5035,10 +5077,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mellow+Dental+Care/data=!4m7!3m6!1s0x37507900632a8889:0x2f486e7941532624!8m2!3d25.5692633!4d91.9128092!16s%2Fg%2F11lf4f6bzp!19sChIJiYgqYwB5UDcRJCZTQXluSC8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "memorial-clinic-shillong",
@@ -5086,7 +5129,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Memorial+Clinic/data=!4m7!3m6!1s0x37507e85748546e7:0x2080f412599f4575!8m2!3d25.5666702!4d91.8783734!16s%2Fg%2F11fyxdy4c7!19sChIJ50aFdIV-UDcRdUWfWRL0gCA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Memorial+Clinic/data=!4m7!3m6!1s0x37507e85748546e7:0x2080f412599f4575!8m2!3d25.5666702!4d91.8783734!16s%2Fg%2F11fyxdy4c7!19sChIJ50aFdIV-UDcRdUWfWRL0gCA?authuser=0&hl=en&rclk=1"
@@ -5155,7 +5198,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Memorial+Clinic/data=!4m7!3m6!1s0x37507e85748546e7:0x2080f412599f4575!8m2!3d25.5666702!4d91.8783734!16s%2Fg%2F11fyxdy4c7!19sChIJ50aFdIV-UDcRdUWfWRL0gCA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mia-eye-cure-clinic-shillong",
@@ -5204,7 +5248,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Mia+eye+cure+clinic/data=!4m7!3m6!1s0x37507e85139dbaed:0x2e815f16964c4756!8m2!3d25.5661396!4d91.8791093!16s%2Fg%2F11b7xvjltk!19sChIJ7bqdE4V-UDcRVkdMlhZfgS4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mia+eye+cure+clinic/data=!4m7!3m6!1s0x37507e85139dbaed:0x2e815f16964c4756!8m2!3d25.5661396!4d91.8791093!16s%2Fg%2F11b7xvjltk!19sChIJ7bqdE4V-UDcRVkdMlhZfgS4?authuser=0&hl=en&rclk=1"
@@ -5273,7 +5317,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mia+eye+cure+clinic/data=!4m7!3m6!1s0x37507e85139dbaed:0x2e815f16964c4756!8m2!3d25.5661396!4d91.8791093!16s%2Fg%2F11b7xvjltk!19sChIJ7bqdE4V-UDcRVkdMlhZfgS4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "midtown-clinic-and-diagnostic-center-shillong",
@@ -5321,7 +5366,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Midtown+Clinic+%26+Diagnostic+Center/data=!4m7!3m6!1s0x37507fad2e103b0b:0x4d199d0230fdd0c5!8m2!3d25.5661817!4d91.8878986!16s%2Fg%2F11t6yqp_lr!19sChIJCzsQLq1_UDcRxdD9MAKdGU0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Midtown+Clinic+%26+Diagnostic+Center/data=!4m7!3m6!1s0x37507fad2e103b0b:0x4d199d0230fdd0c5!8m2!3d25.5661817!4d91.8878986!16s%2Fg%2F11t6yqp_lr!19sChIJCzsQLq1_UDcRxdD9MAKdGU0?authuser=0&hl=en&rclk=1"
@@ -5390,7 +5435,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Midtown+Clinic+%26+Diagnostic+Center/data=!4m7!3m6!1s0x37507fad2e103b0b:0x4d199d0230fdd0c5!8m2!3d25.5661817!4d91.8878986!16s%2Fg%2F11t6yqp_lr!19sChIJCzsQLq1_UDcRxdD9MAKdGU0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "military-hospital-shillong",
@@ -5438,7 +5484,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Military+Hospital/data=!4m7!3m6!1s0x37507e89a94a1997:0x651275d3e2b104cd!8m2!3d25.5714287!4d91.8731566!16s%2Fg%2F1wc46bm3!19sChIJlxlKqYl-UDcRzQSx4tN1EmU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Military+Hospital/data=!4m7!3m6!1s0x37507e89a94a1997:0x651275d3e2b104cd!8m2!3d25.5714287!4d91.8731566!16s%2Fg%2F1wc46bm3!19sChIJlxlKqYl-UDcRzQSx4tN1EmU?authuser=0&hl=en&rclk=1"
@@ -5507,7 +5553,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Military+Hospital/data=!4m7!3m6!1s0x37507e89a94a1997:0x651275d3e2b104cd!8m2!3d25.5714287!4d91.8731566!16s%2Fg%2F1wc46bm3!19sChIJlxlKqYl-UDcRzQSx4tN1EmU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "milli-shillong",
@@ -5555,7 +5602,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Milli/data=!4m7!3m6!1s0x37507f964cb9a399:0x931ecd6b39d43c78!8m2!3d25.5656656!4d91.8882506!16s%2Fg%2F11fpgdw29c!19sChIJmaO5TJZ_UDcReDzUOWvNHpM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Milli/data=!4m7!3m6!1s0x37507f964cb9a399:0x931ecd6b39d43c78!8m2!3d25.5656656!4d91.8882506!16s%2Fg%2F11fpgdw29c!19sChIJmaO5TJZ_UDcReDzUOWvNHpM?authuser=0&hl=en&rclk=1"
@@ -5621,10 +5668,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Milli/data=!4m7!3m6!1s0x37507f964cb9a399:0x931ecd6b39d43c78!8m2!3d25.5656656!4d91.8882506!16s%2Fg%2F11fpgdw29c!19sChIJmaO5TJZ_UDcReDzUOWvNHpM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nawka-hearing-aid-centre-shillong",
@@ -5674,7 +5722,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nawka+Hearing+Aid+Centre/data=!4m7!3m6!1s0x37507f5477d0b579:0xecab715956c6a46c!8m2!3d25.5710286!4d91.8970284!16s%2Fg%2F11ft5kwzsw!19sChIJebXQd1R_UDcRbKTGVllxq-w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nawka+Hearing+Aid+Centre/data=!4m7!3m6!1s0x37507f5477d0b579:0xecab715956c6a46c!8m2!3d25.5710286!4d91.8970284!16s%2Fg%2F11ft5kwzsw!19sChIJebXQd1R_UDcRbKTGVllxq-w?authuser=0&hl=en&rclk=1"
@@ -5743,7 +5791,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nawka+Hearing+Aid+Centre/data=!4m7!3m6!1s0x37507f5477d0b579:0xecab715956c6a46c!8m2!3d25.5710286!4d91.8970284!16s%2Fg%2F11ft5kwzsw!19sChIJebXQd1R_UDcRbKTGVllxq-w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nazareth-hospital-shillong",
@@ -5792,7 +5841,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nazareth+Hospital/data=!4m7!3m6!1s0x37507eba5269ca75:0xeba93ef78cda465d!8m2!3d25.571382!4d91.8979556!16s%2Fg%2F1tvyk3cf!19sChIJdcppUrp-UDcRXUbajPc-qes?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nazareth+Hospital/data=!4m7!3m6!1s0x37507eba5269ca75:0xeba93ef78cda465d!8m2!3d25.571382!4d91.8979556!16s%2Fg%2F1tvyk3cf!19sChIJdcppUrp-UDcRXUbajPc-qes?authuser=0&hl=en&rclk=1"
@@ -5861,7 +5910,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nazareth+Hospital/data=!4m7!3m6!1s0x37507eba5269ca75:0xeba93ef78cda465d!8m2!3d25.571382!4d91.8979556!16s%2Fg%2F1tvyk3cf!19sChIJdcppUrp-UDcRXUbajPc-qes?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neigrihms-hospital-shillong",
@@ -5910,7 +5960,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Neigrihms+Hospital/data=!4m7!3m6!1s0x375079b725f753fd:0xe55b6a140bdbebc3!8m2!3d25.5911741!4d91.9398594!16s%2Fg%2F11g0spqy9s!19sChIJ_VP3Jbd5UDcRw-vbCxRqW-U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neigrihms+Hospital/data=!4m7!3m6!1s0x375079b725f753fd:0xe55b6a140bdbebc3!8m2!3d25.5911741!4d91.9398594!16s%2Fg%2F11g0spqy9s!19sChIJ_VP3Jbd5UDcRw-vbCxRqW-U?authuser=0&hl=en&rclk=1"
@@ -5979,7 +6029,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neigrihms+Hospital/data=!4m7!3m6!1s0x375079b725f753fd:0xe55b6a140bdbebc3!8m2!3d25.5911741!4d91.9398594!16s%2Fg%2F11g0spqy9s!19sChIJ_VP3Jbd5UDcRw-vbCxRqW-U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neuro-and-spine-clinic-shillong",
@@ -6027,7 +6078,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Neuro+and+Spine+Clinic/data=!4m7!3m6!1s0x37507f45f6bdb327:0x160762e5a5c86919!8m2!3d25.5623316!4d91.9051067!16s%2Fg%2F11hdrwxfsy!19sChIJJ7O99kV_UDcRGWnIpeViBxY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuro+and+Spine+Clinic/data=!4m7!3m6!1s0x37507f45f6bdb327:0x160762e5a5c86919!8m2!3d25.5623316!4d91.9051067!16s%2Fg%2F11hdrwxfsy!19sChIJJ7O99kV_UDcRGWnIpeViBxY?authuser=0&hl=en&rclk=1"
@@ -6093,10 +6144,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neuro+and+Spine+Clinic/data=!4m7!3m6!1s0x37507f45f6bdb327:0x160762e5a5c86919!8m2!3d25.5623316!4d91.9051067!16s%2Fg%2F11hdrwxfsy!19sChIJJ7O99kV_UDcRGWnIpeViBxY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nuv-align-and-dental-care-clinic-shillong",
@@ -6144,7 +6196,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Nuv%C3%A8+Align+%26+Dental+Care+Clinic/data=!4m7!3m6!1s0x375079e28ba46f95:0x2b01ffd9f16c1d07!8m2!3d25.5932811!4d91.9397689!16s%2Fg%2F11ykhlx_pd!19sChIJlW-ki-J5UDcRBx1s8dn_ASs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nuv%C3%A8+Align+%26+Dental+Care+Clinic/data=!4m7!3m6!1s0x375079e28ba46f95:0x2b01ffd9f16c1d07!8m2!3d25.5932811!4d91.9397689!16s%2Fg%2F11ykhlx_pd!19sChIJlW-ki-J5UDcRBx1s8dn_ASs?authuser=0&hl=en&rclk=1"
@@ -6210,10 +6262,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nuv%C3%A8+Align+%26+Dental+Care+Clinic/data=!4m7!3m6!1s0x375079e28ba46f95:0x2b01ffd9f16c1d07!8m2!3d25.5932811!4d91.9397689!16s%2Fg%2F11ykhlx_pd!19sChIJlW-ki-J5UDcRBx1s8dn_ASs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "oasis-clinic-and-diagnostic-center-shillong",
@@ -6261,7 +6314,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oasis+Clinic+and+Diagnostic+center/data=!4m7!3m6!1s0x375079000b28692f:0x105bccdc8b17ad85!8m2!3d25.590289!4d91.9234124!16s%2Fg%2F11m60dcv2w!19sChIJL2koCwB5UDcRha0Xi9zMWxA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oasis+Clinic+and+Diagnostic+center/data=!4m7!3m6!1s0x375079000b28692f:0x105bccdc8b17ad85!8m2!3d25.590289!4d91.9234124!16s%2Fg%2F11m60dcv2w!19sChIJL2koCwB5UDcRha0Xi9zMWxA?authuser=0&hl=en&rclk=1"
@@ -6327,10 +6380,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oasis+Clinic+and+Diagnostic+center/data=!4m7!3m6!1s0x375079000b28692f:0x105bccdc8b17ad85!8m2!3d25.590289!4d91.9234124!16s%2Fg%2F11m60dcv2w!19sChIJL2koCwB5UDcRha0Xi9zMWxA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "oral-health-centre-and-dental-clinic-shillong",
@@ -6378,7 +6432,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oral+Health+Centre+%26+Dental+Clinic/data=!4m7!3m6!1s0x37507e99ba6eb2e7:0x8695b46db02b2477!8m2!3d25.5658557!4d91.8872906!16s%2Fg%2F11gbnft9d4!19sChIJ57Juupl-UDcRdyQrsG20lYY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Health+Centre+%26+Dental+Clinic/data=!4m7!3m6!1s0x37507e99ba6eb2e7:0x8695b46db02b2477!8m2!3d25.5658557!4d91.8872906!16s%2Fg%2F11gbnft9d4!19sChIJ57Juupl-UDcRdyQrsG20lYY?authuser=0&hl=en&rclk=1"
@@ -6444,10 +6498,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oral+Health+Centre+%26+Dental+Clinic/data=!4m7!3m6!1s0x37507e99ba6eb2e7:0x8695b46db02b2477!8m2!3d25.5658557!4d91.8872906!16s%2Fg%2F11gbnft9d4!19sChIJ57Juupl-UDcRdyQrsG20lYY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "oro-jewel-dental-clinic-shillong",
@@ -6496,7 +6551,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oro-Jewel+Dental+Clinic/data=!4m7!3m6!1s0x37507c0171f3707d:0x2658159b33e1ad0e!8m2!3d25.5521504!4d91.9059334!16s%2Fg%2F11vwvlr38w!19sChIJfXDzcQF8UDcRDq3hM5sVWCY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oro-Jewel+Dental+Clinic/data=!4m7!3m6!1s0x37507c0171f3707d:0x2658159b33e1ad0e!8m2!3d25.5521504!4d91.9059334!16s%2Fg%2F11vwvlr38w!19sChIJfXDzcQF8UDcRDq3hM5sVWCY?authuser=0&hl=en&rclk=1"
@@ -6562,10 +6617,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oro-Jewel+Dental+Clinic/data=!4m7!3m6!1s0x37507c0171f3707d:0x2658159b33e1ad0e!8m2!3d25.5521504!4d91.9059334!16s%2Fg%2F11vwvlr38w!19sChIJfXDzcQF8UDcRDq3hM5sVWCY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "orocraft-dental-clinic-and-dental-implant-centre-speciality-dental-clinic-in-shillong-shillong",
@@ -6615,7 +6671,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Orocraft+Dental+clinic+and+Dental+Implant+Centre+-Speciality+Dental+Clinic+in+Shillong/data=!4m7!3m6!1s0x37507fec8675ba17:0xb0ee4f4ee67dc4ab!8m2!3d25.58064!4d91.9062615!16s%2Fg%2F11j4_rw0br!19sChIJF7p1hux_UDcRq8R95k5P7rA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orocraft+Dental+clinic+and+Dental+Implant+Centre+-Speciality+Dental+Clinic+in+Shillong/data=!4m7!3m6!1s0x37507fec8675ba17:0xb0ee4f4ee67dc4ab!8m2!3d25.58064!4d91.9062615!16s%2Fg%2F11j4_rw0br!19sChIJF7p1hux_UDcRq8R95k5P7rA?authuser=0&hl=en&rclk=1"
@@ -6684,7 +6740,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Orocraft+Dental+clinic+and+Dental+Implant+Centre+-Speciality+Dental+Clinic+in+Shillong/data=!4m7!3m6!1s0x37507fec8675ba17:0xb0ee4f4ee67dc4ab!8m2!3d25.58064!4d91.9062615!16s%2Fg%2F11j4_rw0br!19sChIJF7p1hux_UDcRq8R95k5P7rA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pearl-e-whites-dental-clinic-shillong-shillong",
@@ -6733,7 +6790,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pearl%C2%B7E%C2%B7Whites+Dental+Clinic+Shillong/data=!4m7!3m6!1s0x37507e8d3833137b:0xbbd38fc87639334a!8m2!3d25.5789782!4d91.8792557!16s%2Fg%2F1hd_gn_cb!19sChIJexMzOI1-UDcRSjM5dsiP07s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pearl%C2%B7E%C2%B7Whites+Dental+Clinic+Shillong/data=!4m7!3m6!1s0x37507e8d3833137b:0xbbd38fc87639334a!8m2!3d25.5789782!4d91.8792557!16s%2Fg%2F1hd_gn_cb!19sChIJexMzOI1-UDcRSjM5dsiP07s?authuser=0&hl=en&rclk=1"
@@ -6802,7 +6859,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pearl%C2%B7E%C2%B7Whites+Dental+Clinic+Shillong/data=!4m7!3m6!1s0x37507e8d3833137b:0xbbd38fc87639334a!8m2!3d25.5789782!4d91.8792557!16s%2Fg%2F1hd_gn_cb!19sChIJexMzOI1-UDcRSjM5dsiP07s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pearl-e-whites-medical-and-dental-centre-aka-pearl-pharmacy-shillong",
@@ -6852,7 +6910,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pearl%C2%B7E%C2%B7Whites+Medical+%26+Dental+Centre+%28aka+Pearl+Pharmacy%29/data=!4m7!3m6!1s0x37507e8b25b7c1f5:0x14fb96f3b2d91701!8m2!3d25.5788749!4d91.8738022!16s%2Fg%2F11b5yv33g4!19sChIJ9cG3JYt-UDcRARfZsvOW-xQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pearl%C2%B7E%C2%B7Whites+Medical+%26+Dental+Centre+%28aka+Pearl+Pharmacy%29/data=!4m7!3m6!1s0x37507e8b25b7c1f5:0x14fb96f3b2d91701!8m2!3d25.5788749!4d91.8738022!16s%2Fg%2F11b5yv33g4!19sChIJ9cG3JYt-UDcRARfZsvOW-xQ?authuser=0&hl=en&rclk=1"
@@ -6921,7 +6979,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pearl%C2%B7E%C2%B7Whites+Medical+%26+Dental+Centre+%28aka+Pearl+Pharmacy%29/data=!4m7!3m6!1s0x37507e8b25b7c1f5:0x14fb96f3b2d91701!8m2!3d25.5788749!4d91.8738022!16s%2Fg%2F11b5yv33g4!19sChIJ9cG3JYt-UDcRARfZsvOW-xQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "physio-care-clinic-shillong",
@@ -6970,7 +7029,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Physio+Care+Clinic/data=!4m7!3m6!1s0x37507ea55110469d:0x594ee63200213043!8m2!3d25.5671837!4d91.8997412!16s%2Fg%2F11fz1qv8f_!19sChIJnUYQUaV-UDcRQzAhADLmTlk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Physio+Care+Clinic/data=!4m7!3m6!1s0x37507ea55110469d:0x594ee63200213043!8m2!3d25.5671837!4d91.8997412!16s%2Fg%2F11fz1qv8f_!19sChIJnUYQUaV-UDcRQzAhADLmTlk?authuser=0&hl=en&rclk=1"
@@ -7036,10 +7095,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Physio+Care+Clinic/data=!4m7!3m6!1s0x37507ea55110469d:0x594ee63200213043!8m2!3d25.5671837!4d91.8997412!16s%2Fg%2F11fz1qv8f_!19sChIJnUYQUaV-UDcRQzAhADLmTlk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "regional-cancer-centre-mawdiangdiang",
@@ -7087,7 +7147,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Regional+Cancer+Centre/data=!4m7!3m6!1s0x3750794818d1d47f:0xaea17718ca0505b8!8m2!3d25.592802!4d91.9426846!16s%2Fg%2F11h4kc3th4!19sChIJf9TRGEh5UDcRuAUFyhh3oa4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Regional+Cancer+Centre/data=!4m7!3m6!1s0x3750794818d1d47f:0xaea17718ca0505b8!8m2!3d25.592802!4d91.9426846!16s%2Fg%2F11h4kc3th4!19sChIJf9TRGEh5UDcRuAUFyhh3oa4?authuser=0&hl=en&rclk=1"
@@ -7156,7 +7216,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Regional+Cancer+Centre/data=!4m7!3m6!1s0x3750794818d1d47f:0xaea17718ca0505b8!8m2!3d25.592802!4d91.9426846!16s%2Fg%2F11h4kc3th4!19sChIJf9TRGEh5UDcRuAUFyhh3oa4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rejuve-aesthetics-shillong-shillong",
@@ -7204,7 +7265,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rejuve+Aesthetics+-+Shillong/data=!4m7!3m6!1s0x37507fbbcc849fc1:0x9225dee4380b37f8!8m2!3d25.569424!4d91.89775!16s%2Fg%2F11l33wxkj1!19sChIJwZ-EzLt_UDcR-DcLOOTeJZI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rejuve+Aesthetics+-+Shillong/data=!4m7!3m6!1s0x37507fbbcc849fc1:0x9225dee4380b37f8!8m2!3d25.569424!4d91.89775!16s%2Fg%2F11l33wxkj1!19sChIJwZ-EzLt_UDcR-DcLOOTeJZI?authuser=0&hl=en&rclk=1"
@@ -7270,10 +7331,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rejuve+Aesthetics+-+Shillong/data=!4m7!3m6!1s0x37507fbbcc849fc1:0x9225dee4380b37f8!8m2!3d25.569424!4d91.89775!16s%2Fg%2F11l33wxkj1!19sChIJwZ-EzLt_UDcR-DcLOOTeJZI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "seeds-of-innocens-ivf-centre-shillong-meghalaya-shillong",
@@ -7322,7 +7384,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+Shillong,+Meghalaya/data=!4m7!3m6!1s0x3750793a0fa3f427:0xa45ce285fc9be381!8m2!3d25.5605169!4d91.9109785!16s%2Fg%2F11w98_k74m!19sChIJJ_SjDzp5UDcRgeOb_IXiXKQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+Shillong,+Meghalaya/data=!4m7!3m6!1s0x3750793a0fa3f427:0xa45ce285fc9be381!8m2!3d25.5605169!4d91.9109785!16s%2Fg%2F11w98_k74m!19sChIJJ_SjDzp5UDcRgeOb_IXiXKQ?authuser=0&hl=en&rclk=1"
@@ -7388,10 +7450,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+Shillong,+Meghalaya/data=!4m7!3m6!1s0x3750793a0fa3f427:0xa45ce285fc9be381!8m2!3d25.5605169!4d91.9109785!16s%2Fg%2F11w98_k74m!19sChIJJ_SjDzp5UDcRgeOb_IXiXKQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shillong-dental-care-braces-and-aesthetic-centre-shillong",
@@ -7441,7 +7504,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shillong+Dental+care%28Braces+and+Aesthetic+centre%29/data=!4m7!3m6!1s0x37507fdecc0a920d:0x5091973ab4016947!8m2!3d25.5772578!4d91.8807448!16s%2Fg%2F11vx2p80wf!19sChIJDZIKzN5_UDcRR2kBtDqXkVA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shillong+Dental+care%28Braces+and+Aesthetic+centre%29/data=!4m7!3m6!1s0x37507fdecc0a920d:0x5091973ab4016947!8m2!3d25.5772578!4d91.8807448!16s%2Fg%2F11vx2p80wf!19sChIJDZIKzN5_UDcRR2kBtDqXkVA?authuser=0&hl=en&rclk=1"
@@ -7507,10 +7570,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shillong+Dental+care%28Braces+and+Aesthetic+centre%29/data=!4m7!3m6!1s0x37507fdecc0a920d:0x5091973ab4016947!8m2!3d25.5772578!4d91.8807448!16s%2Fg%2F11vx2p80wf!19sChIJDZIKzN5_UDcRR2kBtDqXkVA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shillong-dental-care-orthodontic-centre-shillong",
@@ -7561,7 +7625,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shillong+Dental+Care%28Orthodontic+Centre%29/data=!4m7!3m6!1s0x37507fa567cba531:0xbc894805cfa19829!8m2!3d25.5758945!4d91.8810324!16s%2Fg%2F11f76xxz5x!19sChIJMaXLZ6V_UDcRKZihzwVIibw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shillong+Dental+Care%28Orthodontic+Centre%29/data=!4m7!3m6!1s0x37507fa567cba531:0xbc894805cfa19829!8m2!3d25.5758945!4d91.8810324!16s%2Fg%2F11f76xxz5x!19sChIJMaXLZ6V_UDcRKZihzwVIibw?authuser=0&hl=en&rclk=1"
@@ -7630,7 +7694,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shillong+Dental+Care%28Orthodontic+Centre%29/data=!4m7!3m6!1s0x37507fa567cba531:0xbc894805cfa19829!8m2!3d25.5758945!4d91.8810324!16s%2Fg%2F11f76xxz5x!19sChIJMaXLZ6V_UDcRKZihzwVIibw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shillong-dental-diagnostic-shillong",
@@ -7678,7 +7743,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Shillong+Dental+Diagnostic/data=!4m7!3m6!1s0x37507ebc8170ceb3:0x40bd889382d71b8b!8m2!3d25.5703788!4d91.895105!16s%2Fg%2F11gbm27nyz!19sChIJs85wgbx-UDcRixvXgpOIvUA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shillong+Dental+Diagnostic/data=!4m7!3m6!1s0x37507ebc8170ceb3:0x40bd889382d71b8b!8m2!3d25.5703788!4d91.895105!16s%2Fg%2F11gbm27nyz!19sChIJs85wgbx-UDcRixvXgpOIvUA?authuser=0&hl=en&rclk=1"
@@ -7744,10 +7809,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shillong+Dental+Diagnostic/data=!4m7!3m6!1s0x37507ebc8170ceb3:0x40bd889382d71b8b!8m2!3d25.5703788!4d91.895105!16s%2Fg%2F11gbm27nyz!19sChIJs85wgbx-UDcRixvXgpOIvUA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shillong-robbert-hospital-shillong",
@@ -7793,7 +7859,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/shillong+robbert+hospital/data=!4m7!3m6!1s0x37507ebf70f2b455:0x91608ae99c1f0919!8m2!3d25.5788588!4d91.8932589!16s%2Fg%2F11c5g40n6j!19sChIJVbTycL9-UDcRGQkfnOmKYJE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/shillong+robbert+hospital/data=!4m7!3m6!1s0x37507ebf70f2b455:0x91608ae99c1f0919!8m2!3d25.5788588!4d91.8932589!16s%2Fg%2F11c5g40n6j!19sChIJVbTycL9-UDcRGQkfnOmKYJE?authuser=0&hl=en&rclk=1"
@@ -7859,10 +7925,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/shillong+robbert+hospital/data=!4m7!3m6!1s0x37507ebf70f2b455:0x91608ae99c1f0919!8m2!3d25.5788588!4d91.8932589!16s%2Fg%2F11c5g40n6j!19sChIJVbTycL9-UDcRGQkfnOmKYJE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shillong-skin-and-laser-shillong",
@@ -7910,7 +7977,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shillong+skin+and+laser/data=!4m7!3m6!1s0x37507ffb75676ec3:0x1b3ccaa7e85fdb3!8m2!3d25.5706702!4d91.8968977!16s%2Fg%2F11x8__1q3v!19sChIJw25ndft_UDcRs_2FfqrMswE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shillong+skin+and+laser/data=!4m7!3m6!1s0x37507ffb75676ec3:0x1b3ccaa7e85fdb3!8m2!3d25.5706702!4d91.8968977!16s%2Fg%2F11x8__1q3v!19sChIJw25ndft_UDcRs_2FfqrMswE?authuser=0&hl=en&rclk=1"
@@ -7976,10 +8043,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shillong+skin+and+laser/data=!4m7!3m6!1s0x37507ffb75676ec3:0x1b3ccaa7e85fdb3!8m2!3d25.5706702!4d91.8968977!16s%2Fg%2F11x8__1q3v!19sChIJw25ndft_UDcRs_2FfqrMswE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "supercare-hospital-shillong",
@@ -8028,7 +8096,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Supercare+Hospital/data=!4m7!3m6!1s0x37507954709f871d:0x599b39213acda98e!8m2!3d25.5602129!4d91.9128232!16s%2Fg%2F11c70bc4c1!19sChIJHYefcFR5UDcRjqnNOiE5m1k?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Supercare+Hospital/data=!4m7!3m6!1s0x37507954709f871d:0x599b39213acda98e!8m2!3d25.5602129!4d91.9128232!16s%2Fg%2F11c70bc4c1!19sChIJHYefcFR5UDcRjqnNOiE5m1k?authuser=0&hl=en&rclk=1"
@@ -8097,7 +8165,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Supercare+Hospital/data=!4m7!3m6!1s0x37507954709f871d:0x599b39213acda98e!8m2!3d25.5602129!4d91.9128232!16s%2Fg%2F11c70bc4c1!19sChIJHYefcFR5UDcRjqnNOiE5m1k?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-children-s-hospital-shillong",
@@ -8147,7 +8216,7 @@
       "Google rating 2.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Children%E2%80%99s+Hospital/data=!4m7!3m6!1s0x37507952ea848dd9:0x2d30adafd45eecb5!8m2!3d25.5658307!4d91.9111941!16s%2Fg%2F1hjgs2pfm!19sChIJ2Y2E6lJ5UDcRtexe1K-tMC0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Children%E2%80%99s+Hospital/data=!4m7!3m6!1s0x37507952ea848dd9:0x2d30adafd45eecb5!8m2!3d25.5658307!4d91.9111941!16s%2Fg%2F1hjgs2pfm!19sChIJ2Y2E6lJ5UDcRtexe1K-tMC0?authuser=0&hl=en&rclk=1"
@@ -8216,7 +8285,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Children%E2%80%99s+Hospital/data=!4m7!3m6!1s0x37507952ea848dd9:0x2d30adafd45eecb5!8m2!3d25.5658307!4d91.9111941!16s%2Fg%2F1hjgs2pfm!19sChIJ2Y2E6lJ5UDcRtexe1K-tMC0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "titanium-dental-care-centre-dental-implants-and-aesthetic-specialist-laitumkhrah-branch-shillong",
@@ -8264,7 +8334,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Titanium+Dental+Care+Centre+%28Dental+Implants+%26+Aesthetic+Specialist%29+-+Laitumkhrah+Branch/data=!4m7!3m6!1s0x37507f138a3d86f9:0xd229f475b62ea7fe!8m2!3d25.5719707!4d91.8971744!16s%2Fg%2F11h6lswtk7!19sChIJ-YY9ihN_UDcR_qcutnX0KdI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Titanium+Dental+Care+Centre+%28Dental+Implants+%26+Aesthetic+Specialist%29+-+Laitumkhrah+Branch/data=!4m7!3m6!1s0x37507f138a3d86f9:0xd229f475b62ea7fe!8m2!3d25.5719707!4d91.8971744!16s%2Fg%2F11h6lswtk7!19sChIJ-YY9ihN_UDcR_qcutnX0KdI?authuser=0&hl=en&rclk=1"
@@ -8333,7 +8403,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Titanium+Dental+Care+Centre+%28Dental+Implants+%26+Aesthetic+Specialist%29+-+Laitumkhrah+Branch/data=!4m7!3m6!1s0x37507f138a3d86f9:0xd229f475b62ea7fe!8m2!3d25.5719707!4d91.8971744!16s%2Fg%2F11h6lswtk7!19sChIJ-YY9ihN_UDcR_qcutnX0KdI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "trinity-dental-shillong",
@@ -8381,7 +8452,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/TRINITY+DENTAL/data=!4m7!3m6!1s0x37507f00d80472f7:0x40b5f8b8a2d8634c!8m2!3d25.5833842!4d91.9084829!16s%2Fg%2F11l22m89wf!19sChIJ93IE2AB_UDcRTGPYorj4tUA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TRINITY+DENTAL/data=!4m7!3m6!1s0x37507f00d80472f7:0x40b5f8b8a2d8634c!8m2!3d25.5833842!4d91.9084829!16s%2Fg%2F11l22m89wf!19sChIJ93IE2AB_UDcRTGPYorj4tUA?authuser=0&hl=en&rclk=1"
@@ -8450,7 +8521,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TRINITY+DENTAL/data=!4m7!3m6!1s0x37507f00d80472f7:0x40b5f8b8a2d8634c!8m2!3d25.5833842!4d91.9084829!16s%2Fg%2F11l22m89wf!19sChIJ93IE2AB_UDcRTGPYorj4tUA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "urban-dental-shillong",
@@ -8498,7 +8570,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Urban+dental/data=!4m7!3m6!1s0x37507f34d0b18b43:0xdb597715f93d548b!8m2!3d25.5662189!4d91.8879623!16s%2Fg%2F11pd_h38n6!19sChIJQ4ux0DR_UDcRi1Q9-RV3Wds?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Urban+dental/data=!4m7!3m6!1s0x37507f34d0b18b43:0xdb597715f93d548b!8m2!3d25.5662189!4d91.8879623!16s%2Fg%2F11pd_h38n6!19sChIJQ4ux0DR_UDcRi1Q9-RV3Wds?authuser=0&hl=en&rclk=1"
@@ -8567,7 +8639,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Urban+dental/data=!4m7!3m6!1s0x37507f34d0b18b43:0xdb597715f93d548b!8m2!3d25.5662189!4d91.8879623!16s%2Fg%2F11pd_h38n6!19sChIJQ4ux0DR_UDcRi1Q9-RV3Wds?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "woodland-hospital-shillong",
@@ -8616,7 +8689,7 @@
       "Google rating 2.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Woodland+Hospital/data=!4m7!3m6!1s0x37507e986d90fc4d:0xfe2d6844b18b0384!8m2!3d25.5662852!4d91.8898463!16s%2Fg%2F1vvdskrc!19sChIJTfyQbZh-UDcRhAOLsURoLf4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Woodland+Hospital/data=!4m7!3m6!1s0x37507e986d90fc4d:0xfe2d6844b18b0384!8m2!3d25.5662852!4d91.8898463!16s%2Fg%2F1vvdskrc!19sChIJTfyQbZh-UDcRhAOLsURoLf4?authuser=0&hl=en&rclk=1"
@@ -8685,7 +8758,8 @@
     "rating": 2.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Woodland+Hospital/data=!4m7!3m6!1s0x37507e986d90fc4d:0xfe2d6844b18b0384!8m2!3d25.5662852!4d91.8898463!16s%2Fg%2F1vvdskrc!19sChIJTfyQbZh-UDcRhAOLsURoLf4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "woodland-hospital-block-d-shillong",
@@ -8733,7 +8807,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://www.google.com/maps/place/Woodland+Hospital+Block+D/data=!4m7!3m6!1s0x37507f006f3f14c3:0x4f0bb54b39d6459!8m2!3d25.5659501!4d91.8903026!16s%2Fg%2F11vypb23m7!19sChIJwxQ_bwB_UDcRWWSds1S78AQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Woodland+Hospital+Block+D/data=!4m7!3m6!1s0x37507f006f3f14c3:0x4f0bb54b39d6459!8m2!3d25.5659501!4d91.8903026!16s%2Fg%2F11vypb23m7!19sChIJwxQ_bwB_UDcRWWSds1S78AQ?authuser=0&hl=en&rclk=1"
@@ -8802,7 +8876,8 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Woodland+Hospital+Block+D/data=!4m7!3m6!1s0x37507f006f3f14c3:0x4f0bb54b39d6459!8m2!3d25.5659501!4d91.8903026!16s%2Fg%2F11vypb23m7!19sChIJwxQ_bwB_UDcRWWSds1S78AQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "woodland-infertility-clinic-shillong",
@@ -8851,7 +8926,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Woodland+Infertility+Clinic/data=!4m7!3m6!1s0x37507f975b946b6b:0xfaa5c89b432a2f18!8m2!3d25.565821!4d91.8902281!16s%2Fg%2F11rmwyfbns!19sChIJa2uUW5d_UDcRGC8qQ5vIpfo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Woodland+Infertility+Clinic/data=!4m7!3m6!1s0x37507f975b946b6b:0xfaa5c89b432a2f18!8m2!3d25.565821!4d91.8902281!16s%2Fg%2F11rmwyfbns!19sChIJa2uUW5d_UDcRGC8qQ5vIpfo?authuser=0&hl=en&rclk=1"
@@ -8917,10 +8992,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Woodland+Infertility+Clinic/data=!4m7!3m6!1s0x37507f975b946b6b:0xfaa5c89b432a2f18!8m2!3d25.565821!4d91.8902281!16s%2Fg%2F11rmwyfbns!19sChIJa2uUW5d_UDcRGC8qQ5vIpfo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "a-ki-shillong",
@@ -8968,7 +9044,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/%C3%8Fa-ki/data=!4m7!3m6!1s0x37507f006f979abb:0x3d93e277143ff0b0!8m2!3d25.570827!4d91.8956727!16s%2Fg%2F11x8fsk69g!19sChIJu5qXbwB_UDcRsPA_FHfikz0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%C3%8Fa-ki/data=!4m7!3m6!1s0x37507f006f979abb:0x3d93e277143ff0b0!8m2!3d25.570827!4d91.8956727!16s%2Fg%2F11x8fsk69g!19sChIJu5qXbwB_UDcRsPA_FHfikz0?authuser=0&hl=en&rclk=1"
@@ -9034,9 +9110,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%C3%8Fa-ki/data=!4m7!3m6!1s0x37507f006f979abb:0x3d93e277143ff0b0!8m2!3d25.570827!4d91.8956727!16s%2Fg%2F11x8fsk69g!19sChIJu5qXbwB_UDcRsPA_FHfikz0?authuser=0&hl=en&rclk=1"
   }
 ]

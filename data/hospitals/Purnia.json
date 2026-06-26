@@ -46,7 +46,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Abha+Oral+Care/@25.7843703,87.4901333,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9cf96d19b67:0x8fc7c4b9be7fe58a!8m2!3d25.7843703!4d87.4901333!16s%2Fg%2F11g2wm1q3t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Abha+Oral+Care/@25.7843703,87.4901333,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9cf96d19b67:0x8fc7c4b9be7fe58a!8m2!3d25.7843703!4d87.4901333!16s%2Fg%2F11g2wm1q3t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Abha+Oral+Care/@25.7843703,87.4901333,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9cf96d19b67:0x8fc7c4b9be7fe58a!8m2!3d25.7843703!4d87.4901333!16s%2Fg%2F11g2wm1q3t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advik-cancer-clinic-purnia",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Advik+cancer+clinic/@25.7847084,87.4951477,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9136bd92f37:0x74986cb33ab93726!8m2!3d25.7847084!4d87.4951477!16s%2Fg%2F11p_50_vr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advik+cancer+clinic/@25.7847084,87.4951477,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9136bd92f37:0x74986cb33ab93726!8m2!3d25.7847084!4d87.4951477!16s%2Fg%2F11p_50_vr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -232,7 +233,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advik+cancer+clinic/@25.7847084,87.4951477,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9136bd92f37:0x74986cb33ab93726!8m2!3d25.7847084!4d87.4951477!16s%2Fg%2F11p_50_vr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aks-hospital-purnia",
@@ -280,7 +282,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/AKS+Hospital/@25.7836192,87.4912252,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9ce5d3b0beb:0x34e8d237f76afc9e!8m2!3d25.7836192!4d87.4912252!16s%2Fg%2F11wfk0g5wq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AKS+Hospital/@25.7836192,87.4912252,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9ce5d3b0beb:0x34e8d237f76afc9e!8m2!3d25.7836192!4d87.4912252!16s%2Fg%2F11wfk0g5wq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -346,10 +348,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AKS+Hospital/@25.7836192,87.4912252,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9ce5d3b0beb:0x34e8d237f76afc9e!8m2!3d25.7836192!4d87.4912252!16s%2Fg%2F11wfk0g5wq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "alfa-hospital-of-bone-and-spine-purnia",
@@ -399,7 +402,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Alfa+Hospital+of+Bone+and+Spine/@25.7812125,87.4881406,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9007bc57bc9:0xa99c7ebe7f4093b!8m2!3d25.7812125!4d87.4881406!16s%2Fg%2F11vrg2vcj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alfa+Hospital+of+Bone+and+Spine/@25.7812125,87.4881406,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9007bc57bc9:0xa99c7ebe7f4093b!8m2!3d25.7812125!4d87.4881406!16s%2Fg%2F11vrg2vcj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -468,7 +471,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Alfa+Hospital+of+Bone+and+Spine/@25.7812125,87.4881406,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9007bc57bc9:0xa99c7ebe7f4093b!8m2!3d25.7812125!4d87.4881406!16s%2Fg%2F11vrg2vcj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ali-surgicare-hospital-purnia",
@@ -517,7 +521,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ali+Surgicare+Hospital/@25.7831761,87.4894231,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff988cec77a07:0x871ee0bb6194fb48!8m2!3d25.7831761!4d87.4894231!16s%2Fg%2F11q37grr7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ali+Surgicare+Hospital/@25.7831761,87.4894231,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff988cec77a07:0x871ee0bb6194fb48!8m2!3d25.7831761!4d87.4894231!16s%2Fg%2F11q37grr7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -583,10 +587,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ali+Surgicare+Hospital/@25.7831761,87.4894231,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff988cec77a07:0x871ee0bb6194fb48!8m2!3d25.7831761!4d87.4894231!16s%2Fg%2F11q37grr7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amar-dental-clinic-purnea-implant-and-ortho-care-purnia",
@@ -636,7 +641,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Amar+Dental+Clinic+Purnea+(+Implant+%26+Ortho+Care+)/@25.7846295,87.4899846,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff906fabf0ae9:0x506864bdd6cadaab!8m2!3d25.7846295!4d87.4899846!16s%2Fg%2F11x5v2nxrd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amar+Dental+Clinic+Purnea+(+Implant+%26+Ortho+Care+)/@25.7846295,87.4899846,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff906fabf0ae9:0x506864bdd6cadaab!8m2!3d25.7846295!4d87.4899846!16s%2Fg%2F11x5v2nxrd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -702,10 +707,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amar+Dental+Clinic+Purnea+(+Implant+%26+Ortho+Care+)/@25.7846295,87.4899846,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff906fabf0ae9:0x506864bdd6cadaab!8m2!3d25.7846295!4d87.4899846!16s%2Fg%2F11x5v2nxrd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amit-medical-and-surgical-agency-purnia",
@@ -751,7 +757,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Amit+Medical+%26+Surgical+Agency/@25.781785,87.4889423,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9086aaaaaab:0x287ba8bda282156f!8m2!3d25.781785!4d87.4889423!16s%2Fg%2F11csbc09k1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amit+Medical+%26+Surgical+Agency/@25.781785,87.4889423,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9086aaaaaab:0x287ba8bda282156f!8m2!3d25.781785!4d87.4889423!16s%2Fg%2F11csbc09k1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -817,10 +823,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amit+Medical+%26+Surgical+Agency/@25.781785,87.4889423,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9086aaaaaab:0x287ba8bda282156f!8m2!3d25.781785!4d87.4889423!16s%2Fg%2F11csbc09k1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anand-hospital-purnia",
@@ -869,7 +876,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Anand+Hospital/@25.7790987,87.486218,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9096c07aa4f:0xd2f6f0b6416036c9!8m2!3d25.7790987!4d87.486218!16s%2Fg%2F1tmpcbst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Hospital/@25.7790987,87.486218,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9096c07aa4f:0xd2f6f0b6416036c9!8m2!3d25.7790987!4d87.486218!16s%2Fg%2F1tmpcbst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -938,7 +945,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anand+Hospital/@25.7790987,87.486218,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9096c07aa4f:0xd2f6f0b6416036c9!8m2!3d25.7790987!4d87.486218!16s%2Fg%2F1tmpcbst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anupama-hospital-purnia",
@@ -987,7 +995,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Anupama+Hospital/@25.8108099,87.5153384,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff83ea212c329:0x67e67eab66bb077!8m2!3d25.8108099!4d87.5153384!16s%2Fg%2F11c2l8ss5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anupama+Hospital/@25.8108099,87.5153384,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff83ea212c329:0x67e67eab66bb077!8m2!3d25.8108099!4d87.5153384!16s%2Fg%2F11c2l8ss5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1056,7 +1064,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anupama+Hospital/@25.8108099,87.5153384,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff83ea212c329:0x67e67eab66bb077!8m2!3d25.8108099!4d87.5153384!16s%2Fg%2F11c2l8ss5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-dialysis-clinic-purnea-purnia",
@@ -1105,7 +1114,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Purnea/@25.781808,87.488871,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff915f871c529:0xd347aa93b534aa6d!8m2!3d25.781808!4d87.488871!16s%2Fg%2F11tfn0swzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Purnea/@25.781808,87.488871,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff915f871c529:0xd347aa93b534aa6d!8m2!3d25.781808!4d87.488871!16s%2Fg%2F11tfn0swzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1171,10 +1180,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Purnea/@25.781808,87.488871,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff915f871c529:0xd347aa93b534aa6d!8m2!3d25.781808!4d87.488871!16s%2Fg%2F11tfn0swzc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-dialysis-clinics-abdulla-nagar",
@@ -1223,7 +1233,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Dialysis+Clinics/@25.7822649,87.5160992,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff998fb4bbfad:0xcefb109b881ed77c!8m2!3d25.7822649!4d87.5160992!16s%2Fg%2F11n8lmhqqn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dialysis+Clinics/@25.7822649,87.5160992,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff998fb4bbfad:0xcefb109b881ed77c!8m2!3d25.7822649!4d87.5160992!16s%2Fg%2F11n8lmhqqn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1289,10 +1299,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Dialysis+Clinics/@25.7822649,87.5160992,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff998fb4bbfad:0xcefb109b881ed77c!8m2!3d25.7822649!4d87.5160992!16s%2Fg%2F11n8lmhqqn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-dialysis-clinics-purnea-katihar-more",
@@ -1341,7 +1352,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Dialysis+Clinics+-+Purnea/@25.7663266,87.5346402,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9c3196feda9:0x113015acd19612e!8m2!3d25.7663266!4d87.5346402!16s%2Fg%2F11xgw9jynz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dialysis+Clinics+-+Purnea/@25.7663266,87.5346402,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9c3196feda9:0x113015acd19612e!8m2!3d25.7663266!4d87.5346402!16s%2Fg%2F11xgw9jynz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1407,10 +1418,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Dialysis+Clinics+-+Purnea/@25.7663266,87.5346402,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9c3196feda9:0x113015acd19612e!8m2!3d25.7663266!4d87.5346402!16s%2Fg%2F11xgw9jynz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aryan-clinic-purnia",
@@ -1459,7 +1471,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Aryan+Clinic/@25.7839053,87.4927243,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff92f91e9979f:0x6ea1bc83f8667724!8m2!3d25.7839053!4d87.4927243!16s%2Fg%2F11ldqp3lyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aryan+Clinic/@25.7839053,87.4927243,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff92f91e9979f:0x6ea1bc83f8667724!8m2!3d25.7839053!4d87.4927243!16s%2Fg%2F11ldqp3lyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1525,10 +1537,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aryan+Clinic/@25.7839053,87.4927243,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff92f91e9979f:0x6ea1bc83f8667724!8m2!3d25.7839053!4d87.4927243!16s%2Fg%2F11ldqp3lyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "asha-singh-clinic-purnia",
@@ -1576,7 +1589,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Asha+Singh+Clinic/@25.785736,87.4899733,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9e12c878d89:0x76b90cdf33a6cdab!8m2!3d25.785736!4d87.4899733!16s%2Fg%2F11j2q8jzwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asha+Singh+Clinic/@25.785736,87.4899733,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9e12c878d89:0x76b90cdf33a6cdab!8m2!3d25.785736!4d87.4899733!16s%2Fg%2F11j2q8jzwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1642,10 +1655,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asha+Singh+Clinic/@25.785736,87.4899733,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9e12c878d89:0x76b90cdf33a6cdab!8m2!3d25.785736!4d87.4899733!16s%2Fg%2F11j2q8jzwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayachi-the-heart-beat-hospital-purnia",
@@ -1695,7 +1709,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/AYACHI+THE+HEART+BEAT+HOSPITAL/@25.7844388,87.4942959,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9fcd52069cf:0x17e571099e5ceab0!8m2!3d25.7844388!4d87.4942959!16s%2Fg%2F11x7sddxqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AYACHI+THE+HEART+BEAT+HOSPITAL/@25.7844388,87.4942959,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9fcd52069cf:0x17e571099e5ceab0!8m2!3d25.7844388!4d87.4942959!16s%2Fg%2F11x7sddxqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1761,10 +1775,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AYACHI+THE+HEART+BEAT+HOSPITAL/@25.7844388,87.4942959,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9fcd52069cf:0x17e571099e5ceab0!8m2!3d25.7844388!4d87.4942959!16s%2Fg%2F11x7sddxqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bdm-dental-clinic-purnia",
@@ -1812,7 +1827,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bdm+Dental+Clinic/@25.7858468,87.4931315,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9456a5c581b:0x989899eb40c70ecc!8m2!3d25.7858468!4d87.4931315!16s%2Fg%2F11h6s8s27w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bdm+Dental+Clinic/@25.7858468,87.4931315,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9456a5c581b:0x989899eb40c70ecc!8m2!3d25.7858468!4d87.4931315!16s%2Fg%2F11h6s8s27w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1878,10 +1893,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bdm+Dental+Clinic/@25.7858468,87.4931315,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9456a5c581b:0x989899eb40c70ecc!8m2!3d25.7858468!4d87.4931315!16s%2Fg%2F11h6s8s27w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhopal-oral-and-dental-care-clinic-purnia",
@@ -1929,7 +1945,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bhopal+Oral+And+Dental+Care+Clinic/@25.7853652,87.4922153,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a84e8a2b9f:0xc656973b7731bfca!8m2!3d25.7853652!4d87.4922153!16s%2Fg%2F11gfn95z1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhopal+Oral+And+Dental+Care+Clinic/@25.7853652,87.4922153,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a84e8a2b9f:0xc656973b7731bfca!8m2!3d25.7853652!4d87.4922153!16s%2Fg%2F11gfn95z1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1995,10 +2011,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhopal+Oral+And+Dental+Care+Clinic/@25.7853652,87.4922153,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a84e8a2b9f:0xc656973b7731bfca!8m2!3d25.7853652!4d87.4922153!16s%2Fg%2F11gfn95z1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bina-devi-surgicare-shiv-mandir-purnia",
@@ -2047,7 +2064,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bina+Devi+Surgicare+(Shiv+Mandir)/@25.779697,87.488225,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9186b84a1:0x2fdcd3fc29632985!8m2!3d25.779697!4d87.488225!16s%2Fg%2F11gfkjgryq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bina+Devi+Surgicare+(Shiv+Mandir)/@25.779697,87.488225,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9186b84a1:0x2fdcd3fc29632985!8m2!3d25.779697!4d87.488225!16s%2Fg%2F11gfkjgryq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2113,10 +2130,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bina+Devi+Surgicare+(Shiv+Mandir)/@25.779697,87.488225,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9186b84a1:0x2fdcd3fc29632985!8m2!3d25.779697!4d87.488225!16s%2Fg%2F11gfkjgryq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cancer-seva-dham-hospital-and-general-opd-baghmara",
@@ -2164,7 +2182,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Cancer+Seva+Dham+Hospital+and+General+OPD/@25.8071936,87.4798842,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90015b882a9:0xf68df8d3bcc48136!8m2!3d25.8071936!4d87.4798842!16s%2Fg%2F11vqp06mmv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cancer+Seva+Dham+Hospital+and+General+OPD/@25.8071936,87.4798842,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90015b882a9:0xf68df8d3bcc48136!8m2!3d25.8071936!4d87.4798842!16s%2Fg%2F11vqp06mmv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2230,10 +2248,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cancer+Seva+Dham+Hospital+and+General+OPD/@25.8071936,87.4798842,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90015b882a9:0xf68df8d3bcc48136!8m2!3d25.8071936!4d87.4798842!16s%2Fg%2F11vqp06mmv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "care-hospital-purnia",
@@ -2282,7 +2301,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Care+hospital/@25.7809198,87.4891844,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9fe07a15339:0x26971673f151cdff!8m2!3d25.7809198!4d87.4891844!16s%2Fg%2F11sm73sl2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+hospital/@25.7809198,87.4891844,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9fe07a15339:0x26971673f151cdff!8m2!3d25.7809198!4d87.4891844!16s%2Fg%2F11sm73sl2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2348,10 +2367,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Care+hospital/@25.7809198,87.4891844,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9fe07a15339:0x26971673f151cdff!8m2!3d25.7809198!4d87.4891844!16s%2Fg%2F11sm73sl2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-central-hospital-purnia",
@@ -2399,7 +2419,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/City+central+hospital/@25.7774895,87.4950542,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff917f60232d5:0x72dca4093c93d597!8m2!3d25.7774895!4d87.4950542!16s%2Fg%2F11rb4skhry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+central+hospital/@25.7774895,87.4950542,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff917f60232d5:0x72dca4093c93d597!8m2!3d25.7774895!4d87.4950542!16s%2Fg%2F11rb4skhry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2465,10 +2485,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+central+hospital/@25.7774895,87.4950542,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff917f60232d5:0x72dca4093c93d597!8m2!3d25.7774895!4d87.4950542!16s%2Fg%2F11rb4skhry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cityllife-dental-world-purnia",
@@ -2516,7 +2537,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/cityllife+DENTAL+WORLD/@25.7838325,87.4891453,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90616aaaaab:0xe7c36f54f60a1091!8m2!3d25.7838325!4d87.4891453!16s%2Fg%2F11dfh7dk03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/cityllife+DENTAL+WORLD/@25.7838325,87.4891453,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90616aaaaab:0xe7c36f54f60a1091!8m2!3d25.7838325!4d87.4891453!16s%2Fg%2F11dfh7dk03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2585,7 +2606,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/cityllife+DENTAL+WORLD/@25.7838325,87.4891453,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90616aaaaab:0xe7c36f54f60a1091!8m2!3d25.7838325!4d87.4891453!16s%2Fg%2F11dfh7dk03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "clinic-purnia",
@@ -2633,7 +2655,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Clinic/@25.7844232,87.4931308,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff959cd74c06b:0xb68bd8f652643d6a!8m2!3d25.7844232!4d87.4931308!16s%2Fg%2F11rv1hls1v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinic/@25.7844232,87.4931308,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff959cd74c06b:0xb68bd8f652643d6a!8m2!3d25.7844232!4d87.4931308!16s%2Fg%2F11rv1hls1v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2699,10 +2721,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Clinic/@25.7844232,87.4931308,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff959cd74c06b:0xb68bd8f652643d6a!8m2!3d25.7844232!4d87.4931308!16s%2Fg%2F11rv1hls1v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cosmo-era-dental-care-dental-clinic-dentist-in-purnia-purnia",
@@ -2751,7 +2774,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Cosmo+Era+Dental+Care-Dental+clinic%7CDentist+in+Purnia/@25.7839651,87.4901142,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9267c6bdd:0x680de7b7e961ec16!8m2!3d25.7839651!4d87.4901142!16s%2Fg%2F11hbr33ldn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmo+Era+Dental+Care-Dental+clinic%7CDentist+in+Purnia/@25.7839651,87.4901142,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9267c6bdd:0x680de7b7e961ec16!8m2!3d25.7839651!4d87.4901142!16s%2Fg%2F11hbr33ldn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2820,7 +2843,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmo+Era+Dental+Care-Dental+clinic%7CDentist+in+Purnia/@25.7839651,87.4901142,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9267c6bdd:0x680de7b7e961ec16!8m2!3d25.7839651!4d87.4901142!16s%2Fg%2F11hbr33ldn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "creation-the-fertility-centre-best-ivf-centre-infertility-male-infertility-test-tube-baby-centre-in-purnea-purnia",
@@ -2869,7 +2893,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Creation+The+Fertility+Centre+-+Best+IVF+Centre+%7C+Infertility+%7C+Male+Infertility+%7C+Test+Tube+Baby+Centre+in+Purnea/@25.7806078,87.4809386,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9740e76fb6f:0xe20f6681b0a93292!8m2!3d25.7806078!4d87.4809386!16s%2Fg%2F11h18ckg9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Creation+The+Fertility+Centre+-+Best+IVF+Centre+%7C+Infertility+%7C+Male+Infertility+%7C+Test+Tube+Baby+Centre+in+Purnea/@25.7806078,87.4809386,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9740e76fb6f:0xe20f6681b0a93292!8m2!3d25.7806078!4d87.4809386!16s%2Fg%2F11h18ckg9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2938,7 +2962,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Creation+The+Fertility+Centre+-+Best+IVF+Centre+%7C+Infertility+%7C+Male+Infertility+%7C+Test+Tube+Baby+Centre+in+Purnea/@25.7806078,87.4809386,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9740e76fb6f:0xe20f6681b0a93292!8m2!3d25.7806078!4d87.4809386!16s%2Fg%2F11h18ckg9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "das-dental-clinic-and-maxillofacial-centre-purnia",
@@ -2988,7 +3013,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Das+Dental+Clinic+and+Maxillofacial+Centre/@25.7808573,87.479826,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9fd0708cef1:0xb607b5c46ae30713!8m2!3d25.7808573!4d87.479826!16s%2Fg%2F11j137hw68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Das+Dental+Clinic+and+Maxillofacial+Centre/@25.7808573,87.479826,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9fd0708cef1:0xb607b5c46ae30713!8m2!3d25.7808573!4d87.479826!16s%2Fg%2F11j137hw68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3057,7 +3082,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Das+Dental+Clinic+and+Maxillofacial+Centre/@25.7808573,87.479826,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9fd0708cef1:0xb607b5c46ae30713!8m2!3d25.7808573!4d87.479826!16s%2Fg%2F11j137hw68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "daspatter-medical-purnia",
@@ -3104,7 +3130,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Daspatter+medical/@25.7862088,87.4921204,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a93e33df85:0x7abaf15d0673c125!8m2!3d25.7862088!4d87.4921204!16s%2Fg%2F11fkl9r_yz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Daspatter+medical/@25.7862088,87.4921204,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a93e33df85:0x7abaf15d0673c125!8m2!3d25.7862088!4d87.4921204!16s%2Fg%2F11fkl9r_yz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3170,10 +3196,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Daspatter+medical/@25.7862088,87.4921204,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a93e33df85:0x7abaf15d0673c125!8m2!3d25.7862088!4d87.4921204!16s%2Fg%2F11fkl9r_yz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "delhi-heart-and-diabetes-centre-purnea-purnia",
@@ -3223,7 +3250,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/DELHI+HEART+%26+DIABETES+CENTRE+PURNEA/@25.7844615,87.494218,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90045b2b7c7:0x79290cd03e2939ea!8m2!3d25.7844615!4d87.494218!16s%2Fg%2F11w9w0pmxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DELHI+HEART+%26+DIABETES+CENTRE+PURNEA/@25.7844615,87.494218,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90045b2b7c7:0x79290cd03e2939ea!8m2!3d25.7844615!4d87.494218!16s%2Fg%2F11w9w0pmxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3292,7 +3319,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DELHI+HEART+%26+DIABETES+CENTRE+PURNEA/@25.7844615,87.494218,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90045b2b7c7:0x79290cd03e2939ea!8m2!3d25.7844615!4d87.494218!16s%2Fg%2F11w9w0pmxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "delhi-heart-care-and-research-centre-purnia",
@@ -3341,7 +3369,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Delhi+heart+care+and+research+centre/@25.7844282,87.4939661,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9eaf34845:0xb215dab2a3a848e4!8m2!3d25.7844282!4d87.4939661!16s%2Fg%2F11f043kfpj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Delhi+heart+care+and+research+centre/@25.7844282,87.4939661,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9eaf34845:0xb215dab2a3a848e4!8m2!3d25.7844282!4d87.4939661!16s%2Fg%2F11f043kfpj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3410,7 +3438,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Delhi+heart+care+and+research+centre/@25.7844282,87.4939661,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9eaf34845:0xb215dab2a3a848e4!8m2!3d25.7844282!4d87.4939661!16s%2Fg%2F11f043kfpj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-wellness-clinic-purnia",
@@ -3458,7 +3487,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DENTAL+WELLNESS+CLINIC/@25.7726917,87.4775436,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff93afa92ceb1:0x853e1e531140a431!8m2!3d25.7726917!4d87.4775436!16s%2Fg%2F11t75kn0zh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTAL+WELLNESS+CLINIC/@25.7726917,87.4775436,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff93afa92ceb1:0x853e1e531140a431!8m2!3d25.7726917!4d87.4775436!16s%2Fg%2F11t75kn0zh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3524,10 +3553,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENTAL+WELLNESS+CLINIC/@25.7726917,87.4775436,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff93afa92ceb1:0x853e1e531140a431!8m2!3d25.7726917!4d87.4775436!16s%2Fg%2F11t75kn0zh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dialysis-centre-vasculo-kidney-care-hope-hospital-purnia",
@@ -3577,7 +3607,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dialysis+centre+-+VASCULO+KIDNEY+CARE+(Hope+Hospital)/@25.7881393,87.4923778,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94f75c2e797:0x8397a3bba3178530!8m2!3d25.7881393!4d87.4923778!16s%2Fg%2F11rwwf97jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dialysis+centre+-+VASCULO+KIDNEY+CARE+(Hope+Hospital)/@25.7881393,87.4923778,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94f75c2e797:0x8397a3bba3178530!8m2!3d25.7881393!4d87.4923778!16s%2Fg%2F11rwwf97jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3646,7 +3676,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dialysis+centre+-+VASCULO+KIDNEY+CARE+(Hope+Hospital)/@25.7881393,87.4923778,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94f75c2e797:0x8397a3bba3178530!8m2!3d25.7881393!4d87.4923778!16s%2Fg%2F11rwwf97jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "excel-heart-institute-purnia",
@@ -3695,7 +3726,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Excel+Heart+Institute/@25.7839393,87.5000893,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90de56394f7:0xa96d56f0f439780d!8m2!3d25.7839393!4d87.5000893!16s%2Fg%2F11z0y_bw3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Excel+Heart+Institute/@25.7839393,87.5000893,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90de56394f7:0xa96d56f0f439780d!8m2!3d25.7839393!4d87.5000893!16s%2Fg%2F11z0y_bw3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3761,10 +3792,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Excel+Heart+Institute/@25.7839393,87.5000893,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90de56394f7:0xa96d56f0f439780d!8m2!3d25.7839393!4d87.5000893!16s%2Fg%2F11z0y_bw3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fatma-hospital-purnia",
@@ -3813,7 +3845,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Fatma+Hospital/@25.786107,87.501542,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff8551bde0113:0x9d672be0383a2808!8m2!3d25.786107!4d87.501542!16s%2Fg%2F11gcx_pqp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fatma+Hospital/@25.786107,87.501542,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff8551bde0113:0x9d672be0383a2808!8m2!3d25.786107!4d87.501542!16s%2Fg%2F11gcx_pqp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3882,7 +3914,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fatma+Hospital/@25.786107,87.501542,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff8551bde0113:0x9d672be0383a2808!8m2!3d25.786107!4d87.501542!16s%2Fg%2F11gcx_pqp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "galaxy-hospital-and-heart-care-centre-purnia",
@@ -3931,7 +3964,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Galaxy+Hospital+%26+Heart+Care+Centre/@25.7844907,87.4995384,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aab6c633f5:0xd97da1ab2160dae5!8m2!3d25.7844907!4d87.4995384!16s%2Fg%2F11d_2tl30m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Galaxy+Hospital+%26+Heart+Care+Centre/@25.7844907,87.4995384,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aab6c633f5:0xd97da1ab2160dae5!8m2!3d25.7844907!4d87.4995384!16s%2Fg%2F11d_2tl30m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4000,7 +4033,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Galaxy+Hospital+%26+Heart+Care+Centre/@25.7844907,87.4995384,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aab6c633f5:0xd97da1ab2160dae5!8m2!3d25.7844907!4d87.4995384!16s%2Fg%2F11d_2tl30m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gayatri-dental-hospital-and-trauma-center-purnia",
@@ -4048,7 +4082,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gayatri+dental+hospital+and+trauma+center/@25.7807978,87.4885282,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9def4fe502f:0x7f39662a9bb7e596!8m2!3d25.7807978!4d87.4885282!16s%2Fg%2F11g2xr7yd4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayatri+dental+hospital+and+trauma+center/@25.7807978,87.4885282,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9def4fe502f:0x7f39662a9bb7e596!8m2!3d25.7807978!4d87.4885282!16s%2Fg%2F11g2xr7yd4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4114,10 +4148,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gayatri+dental+hospital+and+trauma+center/@25.7807978,87.4885282,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9def4fe502f:0x7f39662a9bb7e596!8m2!3d25.7807978!4d87.4885282!16s%2Fg%2F11g2xr7yd4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "govind-metabolic-hospital-purnea-purnia",
@@ -4167,7 +4202,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Govind+Metabolic+Hospital+purnea/@25.7584673,87.4671455,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff98084f4b56b:0xafb805603c296011!8m2!3d25.7584673!4d87.4671455!16s%2Fg%2F11y3srwklh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govind+Metabolic+Hospital+purnea/@25.7584673,87.4671455,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff98084f4b56b:0xafb805603c296011!8m2!3d25.7584673!4d87.4671455!16s%2Fg%2F11y3srwklh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4236,7 +4271,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govind+Metabolic+Hospital+purnea/@25.7584673,87.4671455,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff98084f4b56b:0xafb805603c296011!8m2!3d25.7584673!4d87.4671455!16s%2Fg%2F11y3srwklh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gurumaita-nursing-home-purnia",
@@ -4284,7 +4320,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Gurumaita+nursing+home/@25.7842714,87.4924946,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9caea2f67b5:0xf9cf21f7690ad6eb!8m2!3d25.7842714!4d87.4924946!16s%2Fg%2F11fls10fr0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurumaita+nursing+home/@25.7842714,87.4924946,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9caea2f67b5:0xf9cf21f7690ad6eb!8m2!3d25.7842714!4d87.4924946!16s%2Fg%2F11fls10fr0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4353,7 +4389,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gurumaita+nursing+home/@25.7842714,87.4924946,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9caea2f67b5:0xf9cf21f7690ad6eb!8m2!3d25.7842714!4d87.4924946!16s%2Fg%2F11fls10fr0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "happy-teeth-advance-lasers-dental-clinic-purnia",
@@ -4401,7 +4438,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Happy+Teeth+ADVANCE+LASERS+Dental+Clinic/@25.7855409,87.4916005,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a84bcef18b:0x735657fde4f211ae!8m2!3d25.7855409!4d87.4916005!16s%2Fg%2F11f2828s52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Happy+Teeth+ADVANCE+LASERS+Dental+Clinic/@25.7855409,87.4916005,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a84bcef18b:0x735657fde4f211ae!8m2!3d25.7855409!4d87.4916005!16s%2Fg%2F11f2828s52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4467,10 +4504,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Happy+Teeth+ADVANCE+LASERS+Dental+Clinic/@25.7855409,87.4916005,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a84bcef18b:0x735657fde4f211ae!8m2!3d25.7855409!4d87.4916005!16s%2Fg%2F11f2828s52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healing-touch-hospital-purnia",
@@ -4519,7 +4557,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healing+Touch+Hospital/@25.7888755,87.4933093,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90052a98551:0x4c8f3eaf163940d3!8m2!3d25.7888755!4d87.4933093!16s%2Fg%2F11x0hq3nyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healing+Touch+Hospital/@25.7888755,87.4933093,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90052a98551:0x4c8f3eaf163940d3!8m2!3d25.7888755!4d87.4933093!16s%2Fg%2F11x0hq3nyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4585,10 +4623,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healing+Touch+Hospital/@25.7888755,87.4933093,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90052a98551:0x4c8f3eaf163940d3!8m2!3d25.7888755!4d87.4933093!16s%2Fg%2F11x0hq3nyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "health-solution-purnea-purnia",
@@ -4637,7 +4676,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Health+Solution+Purnea/@25.7769982,87.4654066,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9e00889f715:0x38bdb8af6319c8c1!8m2!3d25.7769982!4d87.4654066!16s%2Fg%2F11mk__cxf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Health+Solution+Purnea/@25.7769982,87.4654066,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9e00889f715:0x38bdb8af6319c8c1!8m2!3d25.7769982!4d87.4654066!16s%2Fg%2F11mk__cxf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4703,10 +4742,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Health+Solution+Purnea/@25.7769982,87.4654066,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9e00889f715:0x38bdb8af6319c8c1!8m2!3d25.7769982!4d87.4654066!16s%2Fg%2F11mk__cxf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indira-ivf-and-harsh-hospital-best-ivf-centre-in-purnea-bihar-purnia",
@@ -4756,7 +4796,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+and+Harsh+Hospital-+Best+IVF+Centre+in+Purnea,+Bihar/@25.7851693,87.4931282,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9226494e1e9:0x6da19c4998e33524!8m2!3d25.7851693!4d87.4931282!16s%2Fg%2F11y5hp1rk5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+and+Harsh+Hospital-+Best+IVF+Centre+in+Purnea,+Bihar/@25.7851693,87.4931282,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9226494e1e9:0x6da19c4998e33524!8m2!3d25.7851693!4d87.4931282!16s%2Fg%2F11y5hp1rk5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4822,10 +4862,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+and+Harsh+Hospital-+Best+IVF+Centre+in+Purnea,+Bihar/@25.7851693,87.4931282,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9226494e1e9:0x6da19c4998e33524!8m2!3d25.7851693!4d87.4931282!16s%2Fg%2F11y5hp1rk5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "iq-spine-chiropractic-clinic-and-physiotherapy-purnia",
@@ -4876,7 +4917,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/IQ+Spine+Chiropractic+Clinic+%26+Physiotherapy/@25.7847523,87.4933044,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9de34cd4943:0xf69340d182e65f3e!8m2!3d25.7847523!4d87.4933044!16s%2Fg%2F11xz442d51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IQ+Spine+Chiropractic+Clinic+%26+Physiotherapy/@25.7847523,87.4933044,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9de34cd4943:0xf69340d182e65f3e!8m2!3d25.7847523!4d87.4933044!16s%2Fg%2F11xz442d51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4945,7 +4986,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/IQ+Spine+Chiropractic+Clinic+%26+Physiotherapy/@25.7847523,87.4933044,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9de34cd4943:0xf69340d182e65f3e!8m2!3d25.7847523!4d87.4933044!16s%2Fg%2F11xz442d51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevan-jyoti-nursing-home-purnia",
@@ -4993,7 +5035,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Jyoti+Nursing+Home/@25.7864905,87.4900663,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a62a5fdf43:0x161aaa23b6f3aacc!8m2!3d25.7864905!4d87.4900663!16s%2Fg%2F113hsysyz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Jyoti+Nursing+Home/@25.7864905,87.4900663,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a62a5fdf43:0x161aaa23b6f3aacc!8m2!3d25.7864905!4d87.4900663!16s%2Fg%2F113hsysyz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5062,7 +5104,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Jyoti+Nursing+Home/@25.7864905,87.4900663,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a62a5fdf43:0x161aaa23b6f3aacc!8m2!3d25.7864905!4d87.4900663!16s%2Fg%2F113hsysyz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jiva-hospital-purnia",
@@ -5110,7 +5153,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jiva+Hospital/@25.7847751,87.4954647,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94563a8055f:0x7f6e270263effacc!8m2!3d25.7847751!4d87.4954647!16s%2Fg%2F11yb8m6cr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jiva+Hospital/@25.7847751,87.4954647,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94563a8055f:0x7f6e270263effacc!8m2!3d25.7847751!4d87.4954647!16s%2Fg%2F11yb8m6cr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5176,10 +5219,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jiva+Hospital/@25.7847751,87.4954647,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94563a8055f:0x7f6e270263effacc!8m2!3d25.7847751!4d87.4954647!16s%2Fg%2F11yb8m6cr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kilkari-dental-care-and-digital-opg-centre-purnia",
@@ -5228,7 +5272,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kilkari+Dental+Care+%26+Digital+OPG+Centre/@25.78291,87.4899835,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9f31ce5a809:0x30025f56326c446d!8m2!3d25.78291!4d87.4899835!16s%2Fg%2F11fn0znzxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kilkari+Dental+Care+%26+Digital+OPG+Centre/@25.78291,87.4899835,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9f31ce5a809:0x30025f56326c446d!8m2!3d25.78291!4d87.4899835!16s%2Fg%2F11fn0znzxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5297,7 +5341,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kilkari+Dental+Care+%26+Digital+OPG+Centre/@25.78291,87.4899835,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9f31ce5a809:0x30025f56326c446d!8m2!3d25.78291!4d87.4899835!16s%2Fg%2F11fn0znzxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kk-hospital-purnia-comprehensive-healthcare-for-you-purnia",
@@ -5346,7 +5391,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KK+Hospital,+Purnia+%E2%80%93+Comprehensive+Healthcare+for+You/@25.782717,87.485359,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff909f90e8ab7:0xed7066f0b1388e97!8m2!3d25.782717!4d87.485359!16s%2Fg%2F11x9v2bp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KK+Hospital,+Purnia+%E2%80%93+Comprehensive+Healthcare+for+You/@25.782717,87.485359,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff909f90e8ab7:0xed7066f0b1388e97!8m2!3d25.782717!4d87.485359!16s%2Fg%2F11x9v2bp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5415,7 +5460,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KK+Hospital,+Purnia+%E2%80%93+Comprehensive+Healthcare+for+You/@25.782717,87.485359,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff909f90e8ab7:0xed7066f0b1388e97!8m2!3d25.782717!4d87.485359!16s%2Fg%2F11x9v2bp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kohinoor-emergency-and-trauma-hospital-purnia",
@@ -5463,7 +5509,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/KOHINOOR+EMERGENCY+%26+TRAUMA+HOSPITAL/@25.7853801,87.4944356,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff900087b3f87:0x6c9e3236026b8e6c!8m2!3d25.7853801!4d87.4944356!16s%2Fg%2F11xnhrzp6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KOHINOOR+EMERGENCY+%26+TRAUMA+HOSPITAL/@25.7853801,87.4944356,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff900087b3f87:0x6c9e3236026b8e6c!8m2!3d25.7853801!4d87.4944356!16s%2Fg%2F11xnhrzp6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5529,10 +5575,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KOHINOOR+EMERGENCY+%26+TRAUMA+HOSPITAL/@25.7853801,87.4944356,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff900087b3f87:0x6c9e3236026b8e6c!8m2!3d25.7853801!4d87.4944356!16s%2Fg%2F11xnhrzp6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "koshi-arogya-hospital-purnia",
@@ -5580,7 +5627,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Koshi+Arogya+Hospital/@25.7846429,87.4958779,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9dd62be0eed:0x5c1134a58ed5461f!8m2!3d25.7846429!4d87.4958779!16s%2Fg%2F11pkcnb4tf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Koshi+Arogya+Hospital/@25.7846429,87.4958779,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9dd62be0eed:0x5c1134a58ed5461f!8m2!3d25.7846429!4d87.4958779!16s%2Fg%2F11pkcnb4tf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5649,7 +5696,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Koshi+Arogya+Hospital/@25.7846429,87.4958779,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9dd62be0eed:0x5c1134a58ed5461f!8m2!3d25.7846429!4d87.4958779!16s%2Fg%2F11pkcnb4tf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krishna-hospital-purnia-purnia",
@@ -5697,7 +5745,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Krishna+Hospital+Purnia/@25.7844748,87.4909886,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff961cd106615:0xe0e25828dcc12bf3!8m2!3d25.7844748!4d87.4909886!16s%2Fg%2F11v9w1p9w7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Hospital+Purnia/@25.7844748,87.4909886,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff961cd106615:0xe0e25828dcc12bf3!8m2!3d25.7844748!4d87.4909886!16s%2Fg%2F11v9w1p9w7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5766,7 +5814,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishna+Hospital+Purnia/@25.7844748,87.4909886,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff961cd106615:0xe0e25828dcc12bf3!8m2!3d25.7844748!4d87.4909886!16s%2Fg%2F11v9w1p9w7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "laxhmi-seva-sadan-dialysis-center-purnia",
@@ -5814,7 +5863,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Laxhmi+seva+sadan+dialysis+center/@25.7841601,87.4921127,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a831cf7d27:0xd846d599d6fbcc06!8m2!3d25.7841601!4d87.4921127!16s%2Fg%2F11c5zjw_hy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxhmi+seva+sadan+dialysis+center/@25.7841601,87.4921127,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a831cf7d27:0xd846d599d6fbcc06!8m2!3d25.7841601!4d87.4921127!16s%2Fg%2F11c5zjw_hy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5883,7 +5932,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laxhmi+seva+sadan+dialysis+center/@25.7841601,87.4921127,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a831cf7d27:0xd846d599d6fbcc06!8m2!3d25.7841601!4d87.4921127!16s%2Fg%2F11c5zjw_hy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "line-bazar-the-medical-hub-of-seemanchal-purnia",
@@ -5932,7 +5982,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Line+Bazar+The+Medical+Hub+Of+Seemanchal/@25.7842522,87.490892,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94535d82c23:0x80f07cfc7657a05f!8m2!3d25.7842522!4d87.490892!16s%2Fg%2F11gxhch_lt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Line+Bazar+The+Medical+Hub+Of+Seemanchal/@25.7842522,87.490892,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94535d82c23:0x80f07cfc7657a05f!8m2!3d25.7842522!4d87.490892!16s%2Fg%2F11gxhch_lt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5998,10 +6048,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Line+Bazar+The+Medical+Hub+Of+Seemanchal/@25.7842522,87.490892,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94535d82c23:0x80f07cfc7657a05f!8m2!3d25.7842522!4d87.490892!16s%2Fg%2F11gxhch_lt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "line-bazar-bone-specialist-purnia",
@@ -6050,7 +6101,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Line+Bazar,+Bone+Specialist/@25.783383,87.4898154,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff991916eb61b:0x9c753451b50da3f0!8m2!3d25.783383!4d87.4898154!16s%2Fg%2F11h0j1l68c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Line+Bazar,+Bone+Specialist/@25.783383,87.4898154,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff991916eb61b:0x9c753451b50da3f0!8m2!3d25.783383!4d87.4898154!16s%2Fg%2F11h0j1l68c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6116,10 +6167,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Line+Bazar,+Bone+Specialist/@25.783383,87.4898154,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff991916eb61b:0x9c753451b50da3f0!8m2!3d25.783383!4d87.4898154!16s%2Fg%2F11h0j1l68c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maa-kama-dental-care-best-dentist-in-purnea-purnia",
@@ -6167,7 +6219,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Maa+Kama+Dental+Care+%7C%7C+Best+dentist+in+purnea+%7C%7C/@25.7880245,87.4932192,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a93b56a23f:0xe0943fc245fa048f!8m2!3d25.7880245!4d87.4932192!16s%2Fg%2F11gfryjbyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Kama+Dental+Care+%7C%7C+Best+dentist+in+purnea+%7C%7C/@25.7880245,87.4932192,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a93b56a23f:0xe0943fc245fa048f!8m2!3d25.7880245!4d87.4932192!16s%2Fg%2F11gfryjbyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6233,10 +6285,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maa+Kama+Dental+Care+%7C%7C+Best+dentist+in+purnea+%7C%7C/@25.7880245,87.4932192,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a93b56a23f:0xe0943fc245fa048f!8m2!3d25.7880245!4d87.4932192!16s%2Fg%2F11gfryjbyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maa-maternity-and-heart-center-purnia",
@@ -6285,7 +6338,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Maa+maternity+and+heart+center/@25.7850178,87.4940393,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff98e3abb407f:0x5bd43ac659523250!8m2!3d25.7850178!4d87.4940393!16s%2Fg%2F11v5t934cd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+maternity+and+heart+center/@25.7850178,87.4940393,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff98e3abb407f:0x5bd43ac659523250!8m2!3d25.7850178!4d87.4940393!16s%2Fg%2F11v5t934cd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6354,7 +6407,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maa+maternity+and+heart+center/@25.7850178,87.4940393,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff98e3abb407f:0x5bd43ac659523250!8m2!3d25.7850178!4d87.4940393!16s%2Fg%2F11v5t934cd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maa-panchadevi-stone-hospital-purnia",
@@ -6403,7 +6457,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Maa+Panchadevi+Stone+Hospital/@25.784446,87.4971402,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aa64398fbd:0xd9a5c16f234c906b!8m2!3d25.784446!4d87.4971402!16s%2Fg%2F1hm2t8hqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Panchadevi+Stone+Hospital/@25.784446,87.4971402,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aa64398fbd:0xd9a5c16f234c906b!8m2!3d25.784446!4d87.4971402!16s%2Fg%2F1hm2t8hqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6469,10 +6523,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maa+Panchadevi+Stone+Hospital/@25.784446,87.4971402,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aa64398fbd:0xd9a5c16f234c906b!8m2!3d25.784446!4d87.4971402!16s%2Fg%2F1hm2t8hqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maharshi-mehi-medical-and-surgical-agency-purnia",
@@ -6521,7 +6576,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Maharshi+mehi+medical+%26+surgical+agency/@25.787878,87.4932573,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff900518f1b89:0x8a6209e8fae88045!8m2!3d25.787878!4d87.4932573!16s%2Fg%2F11zk17ws86?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maharshi+mehi+medical+%26+surgical+agency/@25.787878,87.4932573,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff900518f1b89:0x8a6209e8fae88045!8m2!3d25.787878!4d87.4932573!16s%2Fg%2F11zk17ws86?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6587,10 +6642,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maharshi+mehi+medical+%26+surgical+agency/@25.787878,87.4932573,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff900518f1b89:0x8a6209e8fae88045!8m2!3d25.787878!4d87.4932573!16s%2Fg%2F11zk17ws86?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manganj-medical-and-surgical-agency-purnia",
@@ -6639,7 +6695,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Manganj+Medical+And+Surgical+Agency/@25.7819332,87.4881525,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9000da2e859:0x6badf968572d4aa9!8m2!3d25.7819332!4d87.4881525!16s%2Fg%2F11ybvld2n3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manganj+Medical+And+Surgical+Agency/@25.7819332,87.4881525,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9000da2e859:0x6badf968572d4aa9!8m2!3d25.7819332!4d87.4881525!16s%2Fg%2F11ybvld2n3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6705,10 +6761,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manganj+Medical+And+Surgical+Agency/@25.7819332,87.4881525,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9000da2e859:0x6badf968572d4aa9!8m2!3d25.7819332!4d87.4881525!16s%2Fg%2F11ybvld2n3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "max-clinic-and-hospital-purnea-purnia",
@@ -6756,7 +6813,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Max+Clinic+and+Hospital+,+Purnea/@25.7774395,87.4489072,17z/data=!3m1!4b1!4m6!3m5!1s0x39effb63cf6637a5:0x5723161db44ffc1b!8m2!3d25.7774395!4d87.4489072!16s%2Fg%2F11rg8dwp9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Max+Clinic+and+Hospital+,+Purnea/@25.7774395,87.4489072,17z/data=!3m1!4b1!4m6!3m5!1s0x39effb63cf6637a5:0x5723161db44ffc1b!8m2!3d25.7774395!4d87.4489072!16s%2Fg%2F11rg8dwp9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6825,7 +6882,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Max+Clinic+and+Hospital+,+Purnea/@25.7774395,87.4489072,17z/data=!3m1!4b1!4m6!3m5!1s0x39effb63cf6637a5:0x5723161db44ffc1b!8m2!3d25.7774395!4d87.4489072!16s%2Fg%2F11rg8dwp9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mayera-dental-clinic-and-mouth-cancer-prevention-centre-purnia",
@@ -6873,7 +6931,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mayera+Dental+Clinic+%26+Mouth+Cancer+Prevention+Centre/data=!4m7!3m6!1s0x39eff9f7cbe226d7:0x6299bf5a1ce68b9e!8m2!3d25.7833758!4d87.4895157!16s%2Fg%2F11rmvqdyqy!19sChIJ1ybiy_f57zkRnovmHFq_mWI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mayera+Dental+Clinic+%26+Mouth+Cancer+Prevention+Centre/data=!4m7!3m6!1s0x39eff9f7cbe226d7:0x6299bf5a1ce68b9e!8m2!3d25.7833758!4d87.4895157!16s%2Fg%2F11rmvqdyqy!19sChIJ1ybiy_f57zkRnovmHFq_mWI?authuser=0&hl=en&rclk=1"
@@ -6939,10 +6997,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mayera+Dental+Clinic+%26+Mouth+Cancer+Prevention+Centre/data=!4m7!3m6!1s0x39eff9f7cbe226d7:0x6299bf5a1ce68b9e!8m2!3d25.7833758!4d87.4895157!16s%2Fg%2F11rmvqdyqy!19sChIJ1ybiy_f57zkRnovmHFq_mWI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "md-aftab-alam-al-shifa-dental-clinic-purnia",
@@ -6990,7 +7049,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/MD+AFTAB+ALAM+(+AL-+SHIFA+DENTAL+CLINIC)/@25.7838039,87.4909455,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff900073ad959:0x954fa6933d72307d!8m2!3d25.7838039!4d87.4909455!16s%2Fg%2F11ylv3b9bh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MD+AFTAB+ALAM+(+AL-+SHIFA+DENTAL+CLINIC)/@25.7838039,87.4909455,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff900073ad959:0x954fa6933d72307d!8m2!3d25.7838039!4d87.4909455!16s%2Fg%2F11ylv3b9bh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7056,10 +7115,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MD+AFTAB+ALAM+(+AL-+SHIFA+DENTAL+CLINIC)/@25.7838039,87.4909455,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff900073ad959:0x954fa6933d72307d!8m2!3d25.7838039!4d87.4909455!16s%2Fg%2F11ylv3b9bh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medicity-neuro-hospital-purnia",
@@ -7109,7 +7169,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medicity+Neuro+Hospital/@25.7847621,87.4952673,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9b9d9f88085:0xd3c3bb8b213e6371!8m2!3d25.7847621!4d87.4952673!16s%2Fg%2F11xm4wwmh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicity+Neuro+Hospital/@25.7847621,87.4952673,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9b9d9f88085:0xd3c3bb8b213e6371!8m2!3d25.7847621!4d87.4952673!16s%2Fg%2F11xm4wwmh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7178,7 +7238,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicity+Neuro+Hospital/@25.7847621,87.4952673,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9b9d9f88085:0xd3c3bb8b213e6371!8m2!3d25.7847621!4d87.4952673!16s%2Fg%2F11xm4wwmh1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mfit-by-maurya-labs-purnia",
@@ -7228,7 +7289,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MFit+By+Maurya+Labs/@25.7838351,87.4891889,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a78c819731:0x71134cad44c829d8!8m2!3d25.7838351!4d87.4891889!16s%2Fg%2F11v3jdyfwm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MFit+By+Maurya+Labs/@25.7838351,87.4891889,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a78c819731:0x71134cad44c829d8!8m2!3d25.7838351!4d87.4891889!16s%2Fg%2F11v3jdyfwm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7294,10 +7355,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MFit+By+Maurya+Labs/@25.7838351,87.4891889,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a78c819731:0x71134cad44c829d8!8m2!3d25.7838351!4d87.4891889!16s%2Fg%2F11v3jdyfwm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "millenium-ivf-purnia",
@@ -7347,7 +7409,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Millenium+IVF/@25.780161,87.4818563,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff97c00000001:0xe1d50597b48070e4!8m2!3d25.780161!4d87.4818563!16s%2Fg%2F11jz4krcct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Millenium+IVF/@25.780161,87.4818563,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff97c00000001:0xe1d50597b48070e4!8m2!3d25.780161!4d87.4818563!16s%2Fg%2F11jz4krcct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7416,7 +7478,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Millenium+IVF/@25.780161,87.4818563,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff97c00000001:0xe1d50597b48070e4!8m2!3d25.780161!4d87.4818563!16s%2Fg%2F11jz4krcct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mimansa-maxillofacial-and-dental-care-purnia",
@@ -7465,7 +7528,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/MIMANSA+MAXILLOFACIAL+AND+DENTAL+CARE/@25.7852036,87.4880276,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff91fd4a497df:0xb2ea8910ba19cfa8!8m2!3d25.7852036!4d87.4880276!16s%2Fg%2F11m77kcb45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MIMANSA+MAXILLOFACIAL+AND+DENTAL+CARE/@25.7852036,87.4880276,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff91fd4a497df:0xb2ea8910ba19cfa8!8m2!3d25.7852036!4d87.4880276!16s%2Fg%2F11m77kcb45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7531,10 +7594,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MIMANSA+MAXILLOFACIAL+AND+DENTAL+CARE/@25.7852036,87.4880276,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff91fd4a497df:0xb2ea8910ba19cfa8!8m2!3d25.7852036!4d87.4880276!16s%2Fg%2F11m77kcb45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "msh-kasba-bariata",
@@ -7583,7 +7647,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MSH+Kasba/@25.8744425,87.537049,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a8d852acd9:0xe7f04c23ff65c7e8!8m2!3d25.8744425!4d87.537049!16s%2Fg%2F11c30qtj8c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MSH+Kasba/@25.8744425,87.537049,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a8d852acd9:0xe7f04c23ff65c7e8!8m2!3d25.8744425!4d87.537049!16s%2Fg%2F11c30qtj8c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7649,10 +7713,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MSH+Kasba/@25.8744425,87.537049,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a8d852acd9:0xe7f04c23ff65c7e8!8m2!3d25.8744425!4d87.537049!16s%2Fg%2F11c30qtj8c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "muskan-heart-and-maternity-hospital-purnia",
@@ -7701,7 +7766,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Muskan+Heart+%26+Maternity+Hospital/@25.7844684,87.4939839,17z/data=!3m1!4b1!4m6!3m5!1s0x39928f30ae7023eb:0x3f199930d3cb01c0!8m2!3d25.7844684!4d87.4939839!16s%2Fg%2F11rw_rgjyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Muskan+Heart+%26+Maternity+Hospital/@25.7844684,87.4939839,17z/data=!3m1!4b1!4m6!3m5!1s0x39928f30ae7023eb:0x3f199930d3cb01c0!8m2!3d25.7844684!4d87.4939839!16s%2Fg%2F11rw_rgjyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7770,7 +7835,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Muskan+Heart+%26+Maternity+Hospital/@25.7844684,87.4939839,17z/data=!3m1!4b1!4m6!3m5!1s0x39928f30ae7023eb:0x3f199930d3cb01c0!8m2!3d25.7844684!4d87.4939839!16s%2Fg%2F11rw_rgjyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neelam-nursing-home-purnia",
@@ -7819,7 +7885,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Neelam+Nursing+Home/@25.7845383,87.4906869,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a80d9c162d:0xf2ecc37ee3be3a87!8m2!3d25.7845383!4d87.4906869!16s%2Fg%2F11gfmr88f4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neelam+Nursing+Home/@25.7845383,87.4906869,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a80d9c162d:0xf2ecc37ee3be3a87!8m2!3d25.7845383!4d87.4906869!16s%2Fg%2F11gfmr88f4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7888,7 +7954,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neelam+Nursing+Home/@25.7845383,87.4906869,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a80d9c162d:0xf2ecc37ee3be3a87!8m2!3d25.7845383!4d87.4906869!16s%2Fg%2F11gfmr88f4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephro-health-care-services-pvt-ltd-purnia",
@@ -7937,7 +8004,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Nephro+Health+Care+Services+Pvt+Ltd/@25.7847819,87.4984391,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9f9e8e04803:0x8cd165ac0c67c941!8m2!3d25.7847819!4d87.4984391!16s%2Fg%2F11p0xg3ndr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephro+Health+Care+Services+Pvt+Ltd/@25.7847819,87.4984391,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9f9e8e04803:0x8cd165ac0c67c941!8m2!3d25.7847819!4d87.4984391!16s%2Fg%2F11p0xg3ndr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8003,10 +8070,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nephro+Health+Care+Services+Pvt+Ltd/@25.7847819,87.4984391,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9f9e8e04803:0x8cd165ac0c67c941!8m2!3d25.7847819!4d87.4984391!16s%2Fg%2F11p0xg3ndr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neuro-and-heart-care-hospital-purnia",
@@ -8057,7 +8125,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NEURO+%26+HEART+CARE+HOSPITAL/@25.7842094,87.4922656,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff96581a61093:0x8ecc5c7229b74a1a!8m2!3d25.7842094!4d87.4922656!16s%2Fg%2F11l36h49g3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEURO+%26+HEART+CARE+HOSPITAL/@25.7842094,87.4922656,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff96581a61093:0x8ecc5c7229b74a1a!8m2!3d25.7842094!4d87.4922656!16s%2Fg%2F11l36h49g3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8123,10 +8191,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEURO+%26+HEART+CARE+HOSPITAL/@25.7842094,87.4922656,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff96581a61093:0x8ecc5c7229b74a1a!8m2!3d25.7842094!4d87.4922656!16s%2Fg%2F11l36h49g3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neuro-brain-spine-neurosurgery-clinic-purnia",
@@ -8176,7 +8245,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Neuro+Brain+Spine+Neurosurgery+Clinic/@25.7849563,87.4938588,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9c757c586e5:0x6f279ee757b6bf47!8m2!3d25.7849563!4d87.4938588!16s%2Fg%2F11rfs0fc0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuro+Brain+Spine+Neurosurgery+Clinic/@25.7849563,87.4938588,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9c757c586e5:0x6f279ee757b6bf47!8m2!3d25.7849563!4d87.4938588!16s%2Fg%2F11rfs0fc0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8245,7 +8314,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neuro+Brain+Spine+Neurosurgery+Clinic/@25.7849563,87.4938588,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9c757c586e5:0x6f279ee757b6bf47!8m2!3d25.7849563!4d87.4938588!16s%2Fg%2F11rfs0fc0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-alpha-neuro-and-trauma-hospital-pvt-ltd-purnia",
@@ -8294,7 +8364,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/New+Alpha+Neuro+%26+Trauma+Hospital+Pvt+Ltd/@25.7847069,87.4983074,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff981cef8e01f:0x8543d3e4b782d67d!8m2!3d25.7847069!4d87.4983074!16s%2Fg%2F11qqcqfc0f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Alpha+Neuro+%26+Trauma+Hospital+Pvt+Ltd/@25.7847069,87.4983074,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff981cef8e01f:0x8543d3e4b782d67d!8m2!3d25.7847069!4d87.4983074!16s%2Fg%2F11qqcqfc0f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8363,7 +8433,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Alpha+Neuro+%26+Trauma+Hospital+Pvt+Ltd/@25.7847069,87.4983074,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff981cef8e01f:0x8543d3e4b782d67d!8m2!3d25.7847069!4d87.4983074!16s%2Fg%2F11qqcqfc0f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-hope-fertility-centre-ivf-centre-in-purnia-purnia",
@@ -8413,7 +8484,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/New+Hope+Fertility+Centre+(+Ivf+Centre+In+Purnia+)/@25.7832384,87.4872319,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff937c85d355b:0xdf4840fab20e99c2!8m2!3d25.7832384!4d87.4872319!16s%2Fg%2F11mb0nk2y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Hope+Fertility+Centre+(+Ivf+Centre+In+Purnia+)/@25.7832384,87.4872319,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff937c85d355b:0xdf4840fab20e99c2!8m2!3d25.7832384!4d87.4872319!16s%2Fg%2F11mb0nk2y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8482,7 +8553,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Hope+Fertility+Centre+(+Ivf+Centre+In+Purnia+)/@25.7832384,87.4872319,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff937c85d355b:0xdf4840fab20e99c2!8m2!3d25.7832384!4d87.4872319!16s%2Fg%2F11mb0nk2y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nex-ivf-and-fertility-centre-purnia",
@@ -8532,7 +8604,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NEX+IVF+AND+FERTILITY+CENTRE/@25.787566,87.4931276,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9e624f6426b:0x7740a98c12178c85!8m2!3d25.787566!4d87.4931276!16s%2Fg%2F11xvz9vstn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEX+IVF+AND+FERTILITY+CENTRE/@25.787566,87.4931276,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9e624f6426b:0x7740a98c12178c85!8m2!3d25.787566!4d87.4931276!16s%2Fg%2F11xvz9vstn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8601,7 +8673,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEX+IVF+AND+FERTILITY+CENTRE/@25.787566,87.4931276,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9e624f6426b:0x7740a98c12178c85!8m2!3d25.787566!4d87.4931276!16s%2Fg%2F11xvz9vstn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nidaan-hospital-purnia",
@@ -8649,7 +8722,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/NIDAAN+HOSPITAL/@25.7865394,87.4933888,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff900116163cb:0xcebf2ad16869f789!8m2!3d25.7865394!4d87.4933888!16s%2Fg%2F11yj9y_xgs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIDAAN+HOSPITAL/@25.7865394,87.4933888,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff900116163cb:0xcebf2ad16869f789!8m2!3d25.7865394!4d87.4933888!16s%2Fg%2F11yj9y_xgs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8718,7 +8791,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NIDAAN+HOSPITAL/@25.7865394,87.4933888,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff900116163cb:0xcebf2ad16869f789!8m2!3d25.7865394!4d87.4933888!16s%2Fg%2F11yj9y_xgs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "north-bengal-medical-and-surgical-agency-purnia",
@@ -8767,7 +8841,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/North+Bengal+Medical+%26+Surgical+Agency/@25.7855277,87.4972606,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90046069537:0xb07decff1526c514!8m2!3d25.7855277!4d87.4972606!16s%2Fg%2F11y880x127?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/North+Bengal+Medical+%26+Surgical+Agency/@25.7855277,87.4972606,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90046069537:0xb07decff1526c514!8m2!3d25.7855277!4d87.4972606!16s%2Fg%2F11y880x127?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8833,10 +8907,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/North+Bengal+Medical+%26+Surgical+Agency/@25.7855277,87.4972606,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90046069537:0xb07decff1526c514!8m2!3d25.7855277!4d87.4972606!16s%2Fg%2F11y880x127?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "olive-dental-purnia",
@@ -8884,7 +8959,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Olive+dental/@25.7852201,87.4975186,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9ad31d9842b:0xef1daac00eddcd56!8m2!3d25.7852201!4d87.4975186!16s%2Fg%2F11jlmtvg9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Olive+dental/@25.7852201,87.4975186,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9ad31d9842b:0xef1daac00eddcd56!8m2!3d25.7852201!4d87.4975186!16s%2Fg%2F11jlmtvg9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8953,7 +9028,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Olive+dental/@25.7852201,87.4975186,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9ad31d9842b:0xef1daac00eddcd56!8m2!3d25.7852201!4d87.4975186!16s%2Fg%2F11jlmtvg9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oral-and-dental-health-centre-purnia",
@@ -9001,7 +9077,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oral+%26+Dental+Health+Centre/@25.7838134,87.4895297,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a7fa7cab2d:0x5f47d710fa95e9fb!8m2!3d25.7838134!4d87.4895297!16s%2Fg%2F11hbr1tx8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+%26+Dental+Health+Centre/@25.7838134,87.4895297,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a7fa7cab2d:0x5f47d710fa95e9fb!8m2!3d25.7838134!4d87.4895297!16s%2Fg%2F11hbr1tx8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9067,10 +9143,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oral+%26+Dental+Health+Centre/@25.7838134,87.4895297,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a7fa7cab2d:0x5f47d710fa95e9fb!8m2!3d25.7838134!4d87.4895297!16s%2Fg%2F11hbr1tx8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pathak-seva-sadan-purnia",
@@ -9118,7 +9195,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/PATHAK+SEVA+SADAN/@25.7862084,87.4919826,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a855910bdf:0x4b9063f1be842af4!8m2!3d25.7862084!4d87.4919826!16s%2Fg%2F11f391d3v0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PATHAK+SEVA+SADAN/@25.7862084,87.4919826,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a855910bdf:0x4b9063f1be842af4!8m2!3d25.7862084!4d87.4919826!16s%2Fg%2F11f391d3v0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9187,7 +9264,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PATHAK+SEVA+SADAN/@25.7862084,87.4919826,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a855910bdf:0x4b9063f1be842af4!8m2!3d25.7862084!4d87.4919826!16s%2Fg%2F11f391d3v0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "poonam-dental-care-purnia",
@@ -9236,7 +9314,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Poonam+Dental+Care/@25.7586029,87.4735564,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9006ed0a5d1:0xad742fa7a9724306!8m2!3d25.7586029!4d87.4735564!16s%2Fg%2F11wvypdjkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Poonam+Dental+Care/@25.7586029,87.4735564,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9006ed0a5d1:0xad742fa7a9724306!8m2!3d25.7586029!4d87.4735564!16s%2Fg%2F11wvypdjkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9305,7 +9383,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Poonam+Dental+Care/@25.7586029,87.4735564,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9006ed0a5d1:0xad742fa7a9724306!8m2!3d25.7586029!4d87.4735564!16s%2Fg%2F11wvypdjkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prem-infertility-clinic-purnia",
@@ -9354,7 +9433,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Prem+Infertility+Clinic/@25.7886643,87.4782065,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff99edf5fbc39:0x857609d9be9f86be!8m2!3d25.7886643!4d87.4782065!16s%2Fg%2F11bw61xl8c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prem+Infertility+Clinic/@25.7886643,87.4782065,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff99edf5fbc39:0x857609d9be9f86be!8m2!3d25.7886643!4d87.4782065!16s%2Fg%2F11bw61xl8c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9420,10 +9499,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prem+Infertility+Clinic/@25.7886643,87.4782065,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff99edf5fbc39:0x857609d9be9f86be!8m2!3d25.7886643!4d87.4782065!16s%2Fg%2F11bw61xl8c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "premier-hospital-purnia",
@@ -9471,7 +9551,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Premier+hospital/@25.7818434,87.4890785,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9002060dda3:0xd878c9e283eb0286!8m2!3d25.7818434!4d87.4890785!16s%2Fg%2F11x6hxkl9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Premier+hospital/@25.7818434,87.4890785,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9002060dda3:0xd878c9e283eb0286!8m2!3d25.7818434!4d87.4890785!16s%2Fg%2F11x6hxkl9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9537,10 +9617,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Premier+hospital/@25.7818434,87.4890785,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9002060dda3:0xd878c9e283eb0286!8m2!3d25.7818434!4d87.4890785!16s%2Fg%2F11x6hxkl9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "public-med-and-surg-agency-purnia",
@@ -9586,7 +9667,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Public+Med+%26+Surg+Agency/@25.7819952,87.4887292,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9111add24ab:0x8094bc883dac3730!8m2!3d25.7819952!4d87.4887292!16s%2Fg%2F11fl5d3rr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Public+Med+%26+Surg+Agency/@25.7819952,87.4887292,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9111add24ab:0x8094bc883dac3730!8m2!3d25.7819952!4d87.4887292!16s%2Fg%2F11fl5d3rr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9652,10 +9733,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Public+Med+%26+Surg+Agency/@25.7819952,87.4887292,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9111add24ab:0x8094bc883dac3730!8m2!3d25.7819952!4d87.4887292!16s%2Fg%2F11fl5d3rr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "purnea-health-care-place-purnia",
@@ -9703,7 +9785,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Purnea+Health+Care+Place/@25.7844768,87.4904704,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff95d698333a1:0xfb50cee4a1acb9d3!8m2!3d25.7844768!4d87.4904704!16s%2Fg%2F11fm54vw69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Purnea+Health+Care+Place/@25.7844768,87.4904704,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff95d698333a1:0xfb50cee4a1acb9d3!8m2!3d25.7844768!4d87.4904704!16s%2Fg%2F11fm54vw69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9772,7 +9854,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Purnea+Health+Care+Place/@25.7844768,87.4904704,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff95d698333a1:0xfb50cee4a1acb9d3!8m2!3d25.7844768!4d87.4904704!16s%2Fg%2F11fm54vw69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "purnea-sai-neuro-care-hospital-purnia",
@@ -9821,7 +9904,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/PURNEA+SAI+NEURO+CARE+HOSPITAL/@25.7845467,87.4924251,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff997a935d6ed:0x343ff9f073bb11b2!8m2!3d25.7845467!4d87.4924251!16s%2Fg%2F11rb4sv35r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PURNEA+SAI+NEURO+CARE+HOSPITAL/@25.7845467,87.4924251,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff997a935d6ed:0x343ff9f073bb11b2!8m2!3d25.7845467!4d87.4924251!16s%2Fg%2F11rb4sv35r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9890,7 +9973,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PURNEA+SAI+NEURO+CARE+HOSPITAL/@25.7845467,87.4924251,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff997a935d6ed:0x343ff9f073bb11b2!8m2!3d25.7845467!4d87.4924251!16s%2Fg%2F11rb4sv35r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "purnia-hospital-and-research-centre-purnia",
@@ -9938,7 +10022,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Purnia+Hospital+%26+Research+Centre/@25.7860998,87.4978826,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9d9a9d33949:0xa1ba33810045e81a!8m2!3d25.7860998!4d87.4978826!16s%2Fg%2F11hzvxhldv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Purnia+Hospital+%26+Research+Centre/@25.7860998,87.4978826,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9d9a9d33949:0xa1ba33810045e81a!8m2!3d25.7860998!4d87.4978826!16s%2Fg%2F11hzvxhldv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10007,7 +10091,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Purnia+Hospital+%26+Research+Centre/@25.7860998,87.4978826,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9d9a9d33949:0xa1ba33810045e81a!8m2!3d25.7860998!4d87.4978826!16s%2Fg%2F11hzvxhldv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "r-k-and-aruna-dental-care-and-implant-centre-purnia",
@@ -10055,7 +10140,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/R.K+%26+ARUNA+DENTAL+CARE+AND+IMPLANT+CENTRE/@25.785382,87.4899562,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9024e7a64d1:0x65e9fc92d4e9f4d2!8m2!3d25.785382!4d87.4899562!16s%2Fg%2F11vb96yxmp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.K+%26+ARUNA+DENTAL+CARE+AND+IMPLANT+CENTRE/@25.785382,87.4899562,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9024e7a64d1:0x65e9fc92d4e9f4d2!8m2!3d25.785382!4d87.4899562!16s%2Fg%2F11vb96yxmp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10121,10 +10206,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R.K+%26+ARUNA+DENTAL+CARE+AND+IMPLANT+CENTRE/@25.785382,87.4899562,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9024e7a64d1:0x65e9fc92d4e9f4d2!8m2!3d25.785382!4d87.4899562!16s%2Fg%2F11vb96yxmp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radiant-dental-and-skin-care-clinic-purnia",
@@ -10173,7 +10259,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Radiant+Dental+%26+Skin+Care+Clinic/@25.7714285,87.4626641,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a848dd5703:0xa08953452692cf0c!8m2!3d25.7714285!4d87.4626641!16s%2Fg%2F11vhc18x85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiant+Dental+%26+Skin+Care+Clinic/@25.7714285,87.4626641,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a848dd5703:0xa08953452692cf0c!8m2!3d25.7714285!4d87.4626641!16s%2Fg%2F11vhc18x85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10239,10 +10325,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radiant+Dental+%26+Skin+Care+Clinic/@25.7714285,87.4626641,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a848dd5703:0xa08953452692cf0c!8m2!3d25.7714285!4d87.4626641!16s%2Fg%2F11vhc18x85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raghavan-naturopathy-purnia",
@@ -10291,7 +10378,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Raghavan+Naturopathy/@25.8107563,87.5153334,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94c30b0fe77:0x8456e1b5976459e0!8m2!3d25.8107563!4d87.5153334!16s%2Fg%2F11yhd01_y5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raghavan+Naturopathy/@25.8107563,87.5153334,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94c30b0fe77:0x8456e1b5976459e0!8m2!3d25.8107563!4d87.5153334!16s%2Fg%2F11yhd01_y5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10357,10 +10444,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raghavan+Naturopathy/@25.8107563,87.5153334,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94c30b0fe77:0x8456e1b5976459e0!8m2!3d25.8107563!4d87.5153334!16s%2Fg%2F11yhd01_y5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rahmani-clinic-purnea-purnia",
@@ -10408,7 +10496,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Rahmani+Clinic+Purnea/@25.7827438,87.4915369,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90793b47b4b:0xb7c02d2d3b783e9a!8m2!3d25.7827438!4d87.4915369!16s%2Fg%2F11cn3sdwt8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rahmani+Clinic+Purnea/@25.7827438,87.4915369,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90793b47b4b:0xb7c02d2d3b783e9a!8m2!3d25.7827438!4d87.4915369!16s%2Fg%2F11cn3sdwt8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10477,7 +10565,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rahmani+Clinic+Purnea/@25.7827438,87.4915369,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90793b47b4b:0xb7c02d2d3b783e9a!8m2!3d25.7827438!4d87.4915369!16s%2Fg%2F11cn3sdwt8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raza-hospital-purnia",
@@ -10525,7 +10614,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Raza+Hospital/@25.7831006,87.4898549,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90806e451a3:0xbd7bec6b4253c33d!8m2!3d25.7831006!4d87.4898549!16s%2Fg%2F11c59_kp75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raza+Hospital/@25.7831006,87.4898549,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90806e451a3:0xbd7bec6b4253c33d!8m2!3d25.7831006!4d87.4898549!16s%2Fg%2F11c59_kp75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10594,7 +10683,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raza+Hospital/@25.7831006,87.4898549,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90806e451a3:0xbd7bec6b4253c33d!8m2!3d25.7831006!4d87.4898549!16s%2Fg%2F11c59_kp75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rehana-nursing-home-purnia",
@@ -10642,7 +10732,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Rehana+Nursing+Home/@25.7815782,87.4888624,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9864ed91565:0xb19807acd63503e8!8m2!3d25.7815782!4d87.4888624!16s%2Fg%2F11sp94q1b3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rehana+Nursing+Home/@25.7815782,87.4888624,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9864ed91565:0xb19807acd63503e8!8m2!3d25.7815782!4d87.4888624!16s%2Fg%2F11sp94q1b3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10711,7 +10801,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rehana+Nursing+Home/@25.7815782,87.4888624,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9864ed91565:0xb19807acd63503e8!8m2!3d25.7815782!4d87.4888624!16s%2Fg%2F11sp94q1b3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rekha-dental-care-and-implant-centre-purnia",
@@ -10761,7 +10852,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rekha+Dental+Care+And+Implant+Centre/@25.7843221,87.4927271,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff932a9e9d1dd:0xd06e660467cb70fd!8m2!3d25.7843221!4d87.4927271!16s%2Fg%2F11qn95p3jx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rekha+Dental+Care+And+Implant+Centre/@25.7843221,87.4927271,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff932a9e9d1dd:0xd06e660467cb70fd!8m2!3d25.7843221!4d87.4927271!16s%2Fg%2F11qn95p3jx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10827,10 +10918,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rekha+Dental+Care+And+Implant+Centre/@25.7843221,87.4927271,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff932a9e9d1dd:0xd06e660467cb70fd!8m2!3d25.7843221!4d87.4927271!16s%2Fg%2F11qn95p3jx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "renephocare-dialysis-center-purnia",
@@ -10878,7 +10970,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Renephocare+Dialysis+center/@25.7844785,87.4995344,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff93b289abed1:0x8e5457efc823fa29!8m2!3d25.7844785!4d87.4995344!16s%2Fg%2F11rd3mdst4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renephocare+Dialysis+center/@25.7844785,87.4995344,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff93b289abed1:0x8e5457efc823fa29!8m2!3d25.7844785!4d87.4995344!16s%2Fg%2F11rd3mdst4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10944,10 +11036,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Renephocare+Dialysis+center/@25.7844785,87.4995344,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff93b289abed1:0x8e5457efc823fa29!8m2!3d25.7844785!4d87.4995344!16s%2Fg%2F11rd3mdst4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "renu-ortho-and-medical-centre-dr-k-k-keshav-purnia",
@@ -10996,7 +11089,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Renu+Ortho+and+medical+Centre+(Dr+K+K+Keshav)/@25.7850637,87.4946958,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94c6984a013:0xb86689fe12ee1c2c!8m2!3d25.7850637!4d87.4946958!16s%2Fg%2F11vlvbq7y6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renu+Ortho+and+medical+Centre+(Dr+K+K+Keshav)/@25.7850637,87.4946958,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94c6984a013:0xb86689fe12ee1c2c!8m2!3d25.7850637!4d87.4946958!16s%2Fg%2F11vlvbq7y6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11062,10 +11155,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Renu+Ortho+and+medical+Centre+(Dr+K+K+Keshav)/@25.7850637,87.4946958,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff94c6984a013:0xb86689fe12ee1c2c!8m2!3d25.7850637!4d87.4946958!16s%2Fg%2F11vlvbq7y6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rudrani-neuro-and-cardio-emergency-hospital-purnia",
@@ -11114,7 +11208,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/RUDRANI+NEURO+%26+CARDIO+EMERGENCY+HOSPITAL/@25.7846498,87.4937479,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9dec451b3f3:0x52cbe9276fd1f8cc!8m2!3d25.7846498!4d87.4937479!16s%2Fg%2F11y22_mgd2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RUDRANI+NEURO+%26+CARDIO+EMERGENCY+HOSPITAL/@25.7846498,87.4937479,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9dec451b3f3:0x52cbe9276fd1f8cc!8m2!3d25.7846498!4d87.4937479!16s%2Fg%2F11y22_mgd2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11183,7 +11277,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RUDRANI+NEURO+%26+CARDIO+EMERGENCY+HOSPITAL/@25.7846498,87.4937479,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9dec451b3f3:0x52cbe9276fd1f8cc!8m2!3d25.7846498!4d87.4937479!16s%2Fg%2F11y22_mgd2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saaol-heart-center-purnia-line-bazar",
@@ -11233,7 +11328,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Saaol+Heart+center+Purnia/@25.7853424,87.4995693,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a6dc542fdf:0x7530e3a689177900!8m2!3d25.7853424!4d87.4995693!16s%2Fg%2F11t3cxn25x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+Heart+center+Purnia/@25.7853424,87.4995693,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a6dc542fdf:0x7530e3a689177900!8m2!3d25.7853424!4d87.4995693!16s%2Fg%2F11t3cxn25x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11302,7 +11397,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saaol+Heart+center+Purnia/@25.7853424,87.4995693,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a6dc542fdf:0x7530e3a689177900!8m2!3d25.7853424!4d87.4995693!16s%2Fg%2F11t3cxn25x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sadbhawna-general-hospital-purnia",
@@ -11350,7 +11446,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Sadbhawna+General+Hospital/@25.7845338,87.4998737,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aa163fcc17:0x6edab53dbc5e4e4c!8m2!3d25.7845338!4d87.4998737!16s%2Fg%2F11g8nkvlr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadbhawna+General+Hospital/@25.7845338,87.4998737,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aa163fcc17:0x6edab53dbc5e4e4c!8m2!3d25.7845338!4d87.4998737!16s%2Fg%2F11g8nkvlr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11419,7 +11515,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sadbhawna+General+Hospital/@25.7845338,87.4998737,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aa163fcc17:0x6edab53dbc5e4e4c!8m2!3d25.7845338!4d87.4998737!16s%2Fg%2F11g8nkvlr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sahyog-nursing-home-purnia",
@@ -11468,7 +11565,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sahyog+Nursing+Home/@25.7893879,87.4933851,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aecc8fdf71:0x9c076c94dac8d63f!8m2!3d25.7893879!4d87.4933851!16s%2Fg%2F11g7_h32f1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahyog+Nursing+Home/@25.7893879,87.4933851,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aecc8fdf71:0x9c076c94dac8d63f!8m2!3d25.7893879!4d87.4933851!16s%2Fg%2F11g7_h32f1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11537,7 +11634,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sahyog+Nursing+Home/@25.7893879,87.4933851,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aecc8fdf71:0x9c076c94dac8d63f!8m2!3d25.7893879!4d87.4933851!16s%2Fg%2F11g7_h32f1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-dental-and-implant-clinic-purnia",
@@ -11585,7 +11683,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Dental+And+Implant+Clinic/@25.7836223,87.4886094,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a7895d2149:0xcad3027a9b83b6fb!8m2!3d25.7836223!4d87.4886094!16s%2Fg%2F11f3y1ldd1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Dental+And+Implant+Clinic/@25.7836223,87.4886094,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a7895d2149:0xcad3027a9b83b6fb!8m2!3d25.7836223!4d87.4886094!16s%2Fg%2F11f3y1ldd1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11654,7 +11752,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Dental+And+Implant+Clinic/@25.7836223,87.4886094,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a7895d2149:0xcad3027a9b83b6fb!8m2!3d25.7836223!4d87.4886094!16s%2Fg%2F11f3y1ldd1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saloni-nursing-home-best-nursing-home-in-purnia-purnia",
@@ -11703,7 +11802,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Saloni+Nursing+Home-+Best+Nursing+Home+in+Purnia/@25.7805512,87.4807841,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90ad0ac2653:0x39d20ac028c897fe!8m2!3d25.7805512!4d87.4807841!16s%2Fg%2F1hc1hhpfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saloni+Nursing+Home-+Best+Nursing+Home+in+Purnia/@25.7805512,87.4807841,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90ad0ac2653:0x39d20ac028c897fe!8m2!3d25.7805512!4d87.4807841!16s%2Fg%2F1hc1hhpfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11772,7 +11871,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saloni+Nursing+Home-+Best+Nursing+Home+in+Purnia/@25.7805512,87.4807841,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90ad0ac2653:0x39d20ac028c897fe!8m2!3d25.7805512!4d87.4807841!16s%2Fg%2F1hc1hhpfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shahnaj-hospital-purnia",
@@ -11820,7 +11920,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Shahnaj+Hospital/@25.7844365,87.4938092,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9ea02de79:0xc2102290d7d8cda4!8m2!3d25.7844365!4d87.4938092!16s%2Fg%2F11fzf8q90z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shahnaj+Hospital/@25.7844365,87.4938092,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9ea02de79:0xc2102290d7d8cda4!8m2!3d25.7844365!4d87.4938092!16s%2Fg%2F11fzf8q90z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11889,7 +11989,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shahnaj+Hospital/@25.7844365,87.4938092,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9ea02de79:0xc2102290d7d8cda4!8m2!3d25.7844365!4d87.4938092!16s%2Fg%2F11fzf8q90z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sonakshi-dental-clinic-purnia",
@@ -11938,7 +12039,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sonakshi+Dental+Clinic/@25.7848601,87.4899629,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a7e1ed26d7:0x5e5f4ef337caab06!8m2!3d25.7848601!4d87.4899629!16s%2Fg%2F11c2r16j_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sonakshi+Dental+Clinic/@25.7848601,87.4899629,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a7e1ed26d7:0x5e5f4ef337caab06!8m2!3d25.7848601!4d87.4899629!16s%2Fg%2F11c2r16j_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12007,7 +12108,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sonakshi+Dental+Clinic/@25.7848601,87.4899629,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a7e1ed26d7:0x5e5f4ef337caab06!8m2!3d25.7848601!4d87.4899629!16s%2Fg%2F11c2r16j_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "star-1-medical-and-surgical-agency-purnia",
@@ -12056,7 +12158,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Star+1+medical+and+surgical+agency/@25.7609575,87.4891033,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff95a196971d7:0xab366ad938b63126!8m2!3d25.7609575!4d87.4891033!16s%2Fg%2F11ww_4_39z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+1+medical+and+surgical+agency/@25.7609575,87.4891033,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff95a196971d7:0xab366ad938b63126!8m2!3d25.7609575!4d87.4891033!16s%2Fg%2F11ww_4_39z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12122,10 +12224,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Star+1+medical+and+surgical+agency/@25.7609575,87.4891033,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff95a196971d7:0xab366ad938b63126!8m2!3d25.7609575!4d87.4891033!16s%2Fg%2F11ww_4_39z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "star-hospital-best-hospital-in-purnea-purnia",
@@ -12174,7 +12277,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/STAR+HOSPITAL+-+BEST+HOSPITAL+IN+PURNEA/@25.7847819,87.4984391,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9001540e62f:0x8ba77f7e68cdbaad!8m2!3d25.7847819!4d87.4984391!16s%2Fg%2F11ybh18nf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STAR+HOSPITAL+-+BEST+HOSPITAL+IN+PURNEA/@25.7847819,87.4984391,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9001540e62f:0x8ba77f7e68cdbaad!8m2!3d25.7847819!4d87.4984391!16s%2Fg%2F11ybh18nf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12243,7 +12346,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/STAR+HOSPITAL+-+BEST+HOSPITAL+IN+PURNEA/@25.7847819,87.4984391,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9001540e62f:0x8ba77f7e68cdbaad!8m2!3d25.7847819!4d87.4984391!16s%2Fg%2F11ybh18nf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sunrise-hospital-purnia",
@@ -12291,7 +12395,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Sunrise+Hospital/@25.7853276,87.499633,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9830f64125d:0xf2dbc756e401fe98!8m2!3d25.7853276!4d87.499633!16s%2Fg%2F11p10fsywq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunrise+Hospital/@25.7853276,87.499633,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9830f64125d:0xf2dbc756e401fe98!8m2!3d25.7853276!4d87.499633!16s%2Fg%2F11p10fsywq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12360,7 +12464,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunrise+Hospital/@25.7853276,87.499633,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9830f64125d:0xf2dbc756e401fe98!8m2!3d25.7853276!4d87.499633!16s%2Fg%2F11p10fsywq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tapowan-health-hospital-purnia",
@@ -12409,7 +12514,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tapowan+Health+Hospital/@25.7826687,87.4852441,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90a1cc1f1ed:0x1250cbe5de472c43!8m2!3d25.7826687!4d87.4852441!16s%2Fg%2F11b86m_4hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tapowan+Health+Hospital/@25.7826687,87.4852441,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90a1cc1f1ed:0x1250cbe5de472c43!8m2!3d25.7826687!4d87.4852441!16s%2Fg%2F11b86m_4hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12478,7 +12583,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tapowan+Health+Hospital/@25.7826687,87.4852441,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90a1cc1f1ed:0x1250cbe5de472c43!8m2!3d25.7826687!4d87.4852441!16s%2Fg%2F11b86m_4hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-fortis-hospital-purnia",
@@ -12526,7 +12632,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/The+Fortis+Hospital/@25.7809905,87.4883631,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90c485b913f:0xb03984199c533878!8m2!3d25.7809905!4d87.4883631!16s%2Fg%2F11p5lx2snq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Fortis+Hospital/@25.7809905,87.4883631,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90c485b913f:0xb03984199c533878!8m2!3d25.7809905!4d87.4883631!16s%2Fg%2F11p5lx2snq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12595,7 +12701,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Fortis+Hospital/@25.7809905,87.4883631,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90c485b913f:0xb03984199c533878!8m2!3d25.7809905!4d87.4883631!16s%2Fg%2F11p5lx2snq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -12645,7 +12752,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12711,10 +12818,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "true-life-central-hospital-bt-road-line-bazar-purnea-purnia",
@@ -12762,7 +12870,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/TRUE+LIFE+CENTRAL+HOSPITAL+BT+ROAD+LINE+BAZAR+PURNEA/@25.7864601,87.4919594,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff95a5805afef:0xf84be375e2273545!8m2!3d25.7864601!4d87.4919594!16s%2Fg%2F11tdhtjwch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TRUE+LIFE+CENTRAL+HOSPITAL+BT+ROAD+LINE+BAZAR+PURNEA/@25.7864601,87.4919594,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff95a5805afef:0xf84be375e2273545!8m2!3d25.7864601!4d87.4919594!16s%2Fg%2F11tdhtjwch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12831,7 +12939,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TRUE+LIFE+CENTRAL+HOSPITAL+BT+ROAD+LINE+BAZAR+PURNEA/@25.7864601,87.4919594,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff95a5805afef:0xf84be375e2273545!8m2!3d25.7864601!4d87.4919594!16s%2Fg%2F11tdhtjwch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "umeed-hospital-purnia",
@@ -12880,7 +12989,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Umeed+Hospital/@25.78501,87.4936758,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90012f1b5d7:0x72d9b9028d6bc45d!8m2!3d25.78501!4d87.4936758!16s%2Fg%2F11w1dq99_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Umeed+Hospital/@25.78501,87.4936758,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90012f1b5d7:0x72d9b9028d6bc45d!8m2!3d25.78501!4d87.4936758!16s%2Fg%2F11w1dq99_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12949,7 +13058,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Umeed+Hospital/@25.78501,87.4936758,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff90012f1b5d7:0x72d9b9028d6bc45d!8m2!3d25.78501!4d87.4936758!16s%2Fg%2F11w1dq99_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "upkar-nursing-home-and-eye-hospital-purnia",
@@ -12998,7 +13108,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Upkar+Nursing+Home+and+Eye+Hospital/@25.7863456,87.4923179,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a8f8ec8ef1:0x3581fbb38a64126!8m2!3d25.7863456!4d87.4923179!16s%2Fg%2F11f3x8t8n8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Upkar+Nursing+Home+and+Eye+Hospital/@25.7863456,87.4923179,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a8f8ec8ef1:0x3581fbb38a64126!8m2!3d25.7863456!4d87.4923179!16s%2Fg%2F11f3x8t8n8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13067,7 +13177,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Upkar+Nursing+Home+and+Eye+Hospital/@25.7863456,87.4923179,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a8f8ec8ef1:0x3581fbb38a64126!8m2!3d25.7863456!4d87.4923179!16s%2Fg%2F11f3x8t8n8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vinayak-ortho-hospital-purnia",
@@ -13116,7 +13227,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Vinayak+Ortho+Hospital/@25.7846105,87.496366,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aa6b4067cf:0x60fbff86c72aa469!8m2!3d25.7846105!4d87.496366!16s%2Fg%2F11hbr2h65s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vinayak+Ortho+Hospital/@25.7846105,87.496366,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aa6b4067cf:0x60fbff86c72aa469!8m2!3d25.7846105!4d87.496366!16s%2Fg%2F11hbr2h65s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13185,7 +13296,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vinayak+Ortho+Hospital/@25.7846105,87.496366,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9aa6b4067cf:0x60fbff86c72aa469!8m2!3d25.7846105!4d87.496366!16s%2Fg%2F11hbr2h65s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vineet-dental-care-purnia",
@@ -13234,7 +13346,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vineet+Dental+Care/@25.7843942,87.493807,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9e9e7744b:0x3a2d9abf3f21ef51!8m2!3d25.7843942!4d87.493807!16s%2Fg%2F11gfngz3p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vineet+Dental+Care/@25.7843942,87.493807,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9e9e7744b:0x3a2d9abf3f21ef51!8m2!3d25.7843942!4d87.493807!16s%2Fg%2F11gfngz3p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13303,7 +13415,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vineet+Dental+Care/@25.7843942,87.493807,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9e9e7744b:0x3a2d9abf3f21ef51!8m2!3d25.7843942!4d87.493807!16s%2Fg%2F11gfngz3p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wasim-clinic-purnia",
@@ -13352,7 +13465,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Wasim+Clinic/@25.7833402,87.4894989,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a7f806750f:0xfeedecbefcab25d7!8m2!3d25.7833402!4d87.4894989!16s%2Fg%2F11c4b37k2b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wasim+Clinic/@25.7833402,87.4894989,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a7f806750f:0xfeedecbefcab25d7!8m2!3d25.7833402!4d87.4894989!16s%2Fg%2F11c4b37k2b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13418,10 +13531,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Wasim+Clinic/@25.7833402,87.4894989,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a7f806750f:0xfeedecbefcab25d7!8m2!3d25.7833402!4d87.4894989!16s%2Fg%2F11c4b37k2b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oral-and-dental-care-centre-purnia",
@@ -13469,7 +13583,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%BE+Oral+%26+Dental+care+Centre/@25.7879713,87.4922692,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9ea05f2b99b:0xe7f2b6f738f77075!8m2!3d25.7879713!4d87.4922692!16s%2Fg%2F11l47hrbhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%BE+Oral+%26+Dental+care+Centre/@25.7879713,87.4922692,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9ea05f2b99b:0xe7f2b6f738f77075!8m2!3d25.7879713!4d87.4922692!16s%2Fg%2F11l47hrbhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13538,7 +13652,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%BE+Oral+%26+Dental+care+Centre/@25.7879713,87.4922692,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9ea05f2b99b:0xe7f2b6f738f77075!8m2!3d25.7879713!4d87.4922692!16s%2Fg%2F11l47hrbhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "purnia",
@@ -13586,7 +13701,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%BF+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%AF%E0%A4%B0+%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%B0,+%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%AC%E0%A4%BE%E0%A4%97,+%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%BF%E0%A4%AF%E0%A4%BE,+%E0%A4%AC%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B0/@25.7994435,87.5067848,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9a00f3227:0x9a008b620ff7429!8m2!3d25.7994435!4d87.5067848!16s%2Fg%2F11c6050b01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%BF+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%AF%E0%A4%B0+%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%B0,+%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%AC%E0%A4%BE%E0%A4%97,+%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%BF%E0%A4%AF%E0%A4%BE,+%E0%A4%AC%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B0/@25.7994435,87.5067848,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9a00f3227:0x9a008b620ff7429!8m2!3d25.7994435!4d87.5067848!16s%2Fg%2F11c6050b01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13655,6 +13770,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%BF+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%AF%E0%A4%B0+%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%B0,+%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%AC%E0%A4%BE%E0%A4%97,+%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%BF%E0%A4%AF%E0%A4%BE,+%E0%A4%AC%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B0/@25.7994435,87.5067848,17z/data=!3m1!4b1!4m6!3m5!1s0x39eff9a9a00f3227:0x9a008b620ff7429!8m2!3d25.7994435!4d87.5067848!16s%2Fg%2F11c6050b01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

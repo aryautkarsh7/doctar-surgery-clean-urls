@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ABABIL+PHYSIO+%26+HEALTH+CLINIC/@28.2925364,74.9707262,17z/data=!3m1!4b1!4m6!3m5!1s0x3913614f8d51ab4b:0x4997cb865f61240!8m2!3d28.2925364!4d74.9707262!16s%2Fg%2F11x77rnz_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ABABIL+PHYSIO+%26+HEALTH+CLINIC/@28.2925364,74.9707262,17z/data=!3m1!4b1!4m6!3m5!1s0x3913614f8d51ab4b:0x4997cb865f61240!8m2!3d28.2925364!4d74.9707262!16s%2Fg%2F11x77rnz_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -111,10 +111,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ABABIL+PHYSIO+%26+HEALTH+CLINIC/@28.2925364,74.9707262,17z/data=!3m1!4b1!4m6!3m5!1s0x3913614f8d51ab4b:0x4997cb865f61240!8m2!3d28.2925364!4d74.9707262!16s%2Fg%2F11x77rnz_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amrit-homeos-churu",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Amrit+homeos/@28.2944376,74.9610584,17z/data=!3m1!4b1!4m6!3m5!1s0x391361004a6e93e1:0x4ef955fecd31435!8m2!3d28.2944376!4d74.9610584!16s%2Fg%2F11xfk67j4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrit+homeos/@28.2944376,74.9610584,17z/data=!3m1!4b1!4m6!3m5!1s0x391361004a6e93e1:0x4ef955fecd31435!8m2!3d28.2944376!4d74.9610584!16s%2Fg%2F11xfk67j4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -229,10 +230,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrit+homeos/@28.2944376,74.9610584,17z/data=!3m1!4b1!4m6!3m5!1s0x391361004a6e93e1:0x4ef955fecd31435!8m2!3d28.2944376!4d74.9610584!16s%2Fg%2F11xfk67j4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "balaji-kidney-care-dialysis-centre-churu-churu",
@@ -281,7 +283,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/BALAJI+KIDNEY+CARE+%7B+DIALYSIS+CENTRE+%7D+CHURU/@28.2937028,74.9555353,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fe4c7456e2d:0x69f6c5cec473a8e!8m2!3d28.2937028!4d74.9555353!16s%2Fg%2F11llwsnm82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BALAJI+KIDNEY+CARE+%7B+DIALYSIS+CENTRE+%7D+CHURU/@28.2937028,74.9555353,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fe4c7456e2d:0x69f6c5cec473a8e!8m2!3d28.2937028!4d74.9555353!16s%2Fg%2F11llwsnm82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -347,10 +349,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BALAJI+KIDNEY+CARE+%7B+DIALYSIS+CENTRE+%7D+CHURU/@28.2937028,74.9555353,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fe4c7456e2d:0x69f6c5cec473a8e!8m2!3d28.2937028!4d74.9555353!16s%2Fg%2F11llwsnm82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhardwaj-ayurved-bhawan-churu",
@@ -399,7 +402,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhardwaj+Ayurved+Bhawan/@28.2965518,74.9726401,17z/data=!3m1!4b1!4m6!3m5!1s0x391361c9f6dbbe8b:0xcb06e18139485b75!8m2!3d28.2965518!4d74.9726401!16s%2Fg%2F11vc2g4ptk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhardwaj+Ayurved+Bhawan/@28.2965518,74.9726401,17z/data=!3m1!4b1!4m6!3m5!1s0x391361c9f6dbbe8b:0xcb06e18139485b75!8m2!3d28.2965518!4d74.9726401!16s%2Fg%2F11vc2g4ptk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -468,7 +471,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhardwaj+Ayurved+Bhawan/@28.2965518,74.9726401,17z/data=!3m1!4b1!4m6!3m5!1s0x391361c9f6dbbe8b:0xcb06e18139485b75!8m2!3d28.2965518!4d74.9726401!16s%2Fg%2F11vc2g4ptk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhartiya-hospital-churu-churu",
@@ -516,7 +520,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Bhartiya+Hospital+Churu/@28.2902473,74.9586031,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e05b585133d:0x30e21ca82ddc492b!8m2!3d28.2902473!4d74.9586031!16s%2Fg%2F11hcyv7z63?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhartiya+Hospital+Churu/@28.2902473,74.9586031,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e05b585133d:0x30e21ca82ddc492b!8m2!3d28.2902473!4d74.9586031!16s%2Fg%2F11hcyv7z63?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -585,7 +589,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhartiya+Hospital+Churu/@28.2902473,74.9586031,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e05b585133d:0x30e21ca82ddc492b!8m2!3d28.2902473!4d74.9586031!16s%2Fg%2F11hcyv7z63?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "churu-cif-hospital-churu",
@@ -633,7 +638,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Churu+cif+hospital/@28.2944769,74.9652871,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e01a294622f:0xf52596dd2df039f8!8m2!3d28.2944769!4d74.9652871!16s%2Fg%2F11crzl5cn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Churu+cif+hospital/@28.2944769,74.9652871,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e01a294622f:0xf52596dd2df039f8!8m2!3d28.2944769!4d74.9652871!16s%2Fg%2F11crzl5cn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -702,7 +707,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Churu+cif+hospital/@28.2944769,74.9652871,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e01a294622f:0xf52596dd2df039f8!8m2!3d28.2944769!4d74.9652871!16s%2Fg%2F11crzl5cn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "churu-diagnostic-centre-churu",
@@ -750,7 +756,7 @@
     "metrics": [
       "Google rating 2.0"
     ],
-    "image": "https://www.google.com/maps/place/Churu+Diagnostic+Centre/@28.2905029,74.9579533,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e05c68809c9:0x863968dab19f025e!8m2!3d28.2905029!4d74.9579533!16s%2Fg%2F11ld5_5878?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Churu+Diagnostic+Centre/@28.2905029,74.9579533,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e05c68809c9:0x863968dab19f025e!8m2!3d28.2905029!4d74.9579533!16s%2Fg%2F11ld5_5878?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -816,10 +822,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 2.0,
+    "rating": 2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Churu+Diagnostic+Centre/@28.2905029,74.9579533,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e05c68809c9:0x863968dab19f025e!8m2!3d28.2905029!4d74.9579533!16s%2Fg%2F11ld5_5878?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "churu-medicose-churu",
@@ -866,7 +873,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Churu+medicose/@28.2925364,74.9707262,17z/data=!3m1!4b1!4m6!3m5!1s0x391361e61b6ab0ff:0xd94a9ef936b8474d!8m2!3d28.2925364!4d74.9707262!16s%2Fg%2F11tgbbffpb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Churu+medicose/@28.2925364,74.9707262,17z/data=!3m1!4b1!4m6!3m5!1s0x391361e61b6ab0ff:0xd94a9ef936b8474d!8m2!3d28.2925364!4d74.9707262!16s%2Fg%2F11tgbbffpb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -932,10 +939,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Churu+medicose/@28.2925364,74.9707262,17z/data=!3m1!4b1!4m6!3m5!1s0x391361e61b6ab0ff:0xd94a9ef936b8474d!8m2!3d28.2925364!4d74.9707262!16s%2Fg%2F11tgbbffpb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "churu-physio-and-fitness-center-churu",
@@ -984,7 +992,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Churu+physio+%26+fitness+center/@28.2943883,74.9552791,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f752170e733:0x70f4d89806ab6222!8m2!3d28.2943883!4d74.9552791!16s%2Fg%2F11kc1vv8px?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Churu+physio+%26+fitness+center/@28.2943883,74.9552791,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f752170e733:0x70f4d89806ab6222!8m2!3d28.2943883!4d74.9552791!16s%2Fg%2F11kc1vv8px?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1050,10 +1058,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Churu+physio+%26+fitness+center/@28.2943883,74.9552791,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f752170e733:0x70f4d89806ab6222!8m2!3d28.2943883!4d74.9552791!16s%2Fg%2F11kc1vv8px?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-hospital-churu-churu",
@@ -1099,7 +1108,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/City+Hospital,+Churu/@28.290902,74.9597707,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fafeb52f9d7:0x8bb7a0e7460ef253!8m2!3d28.290902!4d74.9597707!16s%2Fg%2F11vkbw8w9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Hospital,+Churu/@28.290902,74.9597707,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fafeb52f9d7:0x8bb7a0e7460ef253!8m2!3d28.290902!4d74.9597707!16s%2Fg%2F11vkbw8w9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1165,10 +1174,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Hospital,+Churu/@28.290902,74.9597707,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fafeb52f9d7:0x8bb7a0e7460ef253!8m2!3d28.290902!4d74.9597707!16s%2Fg%2F11vkbw8w9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "confirm-diagnostic-centre-churu",
@@ -1217,7 +1227,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/CONFIRM+DIAGNOSTIC+CENTRE/@28.2906582,74.9577159,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f15fde2e4a9:0x7b7a3751e020b889!8m2!3d28.2906582!4d74.9577159!16s%2Fg%2F11shnpk7yy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CONFIRM+DIAGNOSTIC+CENTRE/@28.2906582,74.9577159,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f15fde2e4a9:0x7b7a3751e020b889!8m2!3d28.2906582!4d74.9577159!16s%2Fg%2F11shnpk7yy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1283,10 +1293,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CONFIRM+DIAGNOSTIC+CENTRE/@28.2906582,74.9577159,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f15fde2e4a9:0x7b7a3751e020b889!8m2!3d28.2906582!4d74.9577159!16s%2Fg%2F11shnpk7yy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cosmo-dent-o-care-churu-churu",
@@ -1335,7 +1346,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/COSMO+DENT-O-CARE+CHURU/@28.28998,74.9659271,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fae7232b2cf:0xef56192f1d2774f5!8m2!3d28.28998!4d74.9659271!16s%2Fg%2F11jfrqlh9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/COSMO+DENT-O-CARE+CHURU/@28.28998,74.9659271,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fae7232b2cf:0xef56192f1d2774f5!8m2!3d28.28998!4d74.9659271!16s%2Fg%2F11jfrqlh9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1401,10 +1412,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/COSMO+DENT-O-CARE+CHURU/@28.28998,74.9659271,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fae7232b2cf:0xef56192f1d2774f5!8m2!3d28.28998!4d74.9659271!16s%2Fg%2F11jfrqlh9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dedraj-bhartia-janana-hospital-churu-churu",
@@ -1452,7 +1464,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Dedraj+Bhartia+Janana+Hospital+Churu/@28.290715,74.959827,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e05b5348fb3:0xf011656463fe960d!8m2!3d28.290715!4d74.959827!16s%2Fg%2F11c1pqy818?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dedraj+Bhartia+Janana+Hospital+Churu/@28.290715,74.959827,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e05b5348fb3:0xf011656463fe960d!8m2!3d28.290715!4d74.959827!16s%2Fg%2F11c1pqy818?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1521,7 +1533,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dedraj+Bhartia+Janana+Hospital+Churu/@28.290715,74.959827,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e05b5348fb3:0xf011656463fe960d!8m2!3d28.290715!4d74.959827!16s%2Fg%2F11c1pqy818?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "denta-care-dental-clinic-churu",
@@ -1570,7 +1583,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DENTA+CARE+DENTAL+CLINIC/@28.2940739,74.9649053,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f7d433273ad:0xe0e428aaa7fe8c47!8m2!3d28.2940739!4d74.9649053!16s%2Fg%2F11ghfpx_5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTA+CARE+DENTAL+CLINIC/@28.2940739,74.9649053,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f7d433273ad:0xe0e428aaa7fe8c47!8m2!3d28.2940739!4d74.9649053!16s%2Fg%2F11ghfpx_5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1639,7 +1652,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENTA+CARE+DENTAL+CLINIC/@28.2940739,74.9649053,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f7d433273ad:0xe0e428aaa7fe8c47!8m2!3d28.2940739!4d74.9649053!16s%2Fg%2F11ghfpx_5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "devra-eye-hospital-churu",
@@ -1688,7 +1702,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DEVRA+EYE+HOSPITAL/@28.289835,74.9623172,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f5eff4030ab:0xfc068bfbb595a5de!8m2!3d28.289835!4d74.9623172!16s%2Fg%2F11fqxxqw74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DEVRA+EYE+HOSPITAL/@28.289835,74.9623172,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f5eff4030ab:0xfc068bfbb595a5de!8m2!3d28.289835!4d74.9623172!16s%2Fg%2F11fqxxqw74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1754,10 +1768,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DEVRA+EYE+HOSPITAL/@28.289835,74.9623172,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f5eff4030ab:0xfc068bfbb595a5de!8m2!3d28.289835!4d74.9623172!16s%2Fg%2F11fqxxqw74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "drmubarik-ali-mughal-churu",
@@ -1805,7 +1820,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DrMubarik+Ali+Mughal/@28.2956164,74.9660099,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e004b7422c5:0xd4711f74953fa2d0!8m2!3d28.2956164!4d74.9660099!16s%2Fg%2F11h9z96wmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DrMubarik+Ali+Mughal/@28.2956164,74.9660099,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e004b7422c5:0xd4711f74953fa2d0!8m2!3d28.2956164!4d74.9660099!16s%2Fg%2F11h9z96wmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1871,10 +1886,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DrMubarik+Ali+Mughal/@28.2956164,74.9660099,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e004b7422c5:0xd4711f74953fa2d0!8m2!3d28.2956164!4d74.9660099!16s%2Fg%2F11h9z96wmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eye-hospital-churu",
@@ -1923,7 +1939,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/eye+hospital/@28.2953976,74.9542615,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e08408d4ffb:0xf8429f25ac5fc3c7!8m2!3d28.2953976!4d74.9542615!16s%2Fg%2F11clghxlvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/eye+hospital/@28.2953976,74.9542615,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e08408d4ffb:0xf8429f25ac5fc3c7!8m2!3d28.2953976!4d74.9542615!16s%2Fg%2F11clghxlvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1992,7 +2008,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/eye+hospital/@28.2953976,74.9542615,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e08408d4ffb:0xf8429f25ac5fc3c7!8m2!3d28.2953976!4d74.9542615!16s%2Fg%2F11clghxlvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fit-india-sankalp-physiotherapy-centre-churu",
@@ -2041,7 +2058,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/FIT+INDIA+Sankalp+physiotherapy+centre/@28.2974577,74.9628222,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f620460c805:0xc0e0c7cddfec207c!8m2!3d28.2974577!4d74.9628222!16s%2Fg%2F11qgh58t9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FIT+INDIA+Sankalp+physiotherapy+centre/@28.2974577,74.9628222,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f620460c805:0xc0e0c7cddfec207c!8m2!3d28.2974577!4d74.9628222!16s%2Fg%2F11qgh58t9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2107,10 +2124,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/FIT+INDIA+Sankalp+physiotherapy+centre/@28.2974577,74.9628222,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f620460c805:0xc0e0c7cddfec207c!8m2!3d28.2974577!4d74.9628222!16s%2Fg%2F11qgh58t9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fitt-flex-sports-rehab-centre-and-physiotherapy-hub-churu",
@@ -2159,7 +2177,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/FITT+FLEX+SPORTS+REHAB+CENTRE+AND+PHYSIOTHERAPY+HUB/@28.2981363,74.9539288,17z/data=!3m1!4b1!4m6!3m5!1s0x39149d726fc56b77:0x8fd9e697d466ba9a!8m2!3d28.2981363!4d74.9539288!16s%2Fg%2F11nc7p4gg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FITT+FLEX+SPORTS+REHAB+CENTRE+AND+PHYSIOTHERAPY+HUB/@28.2981363,74.9539288,17z/data=!3m1!4b1!4m6!3m5!1s0x39149d726fc56b77:0x8fd9e697d466ba9a!8m2!3d28.2981363!4d74.9539288!16s%2Fg%2F11nc7p4gg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2225,10 +2243,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/FITT+FLEX+SPORTS+REHAB+CENTRE+AND+PHYSIOTHERAPY+HUB/@28.2981363,74.9539288,17z/data=!3m1!4b1!4m6!3m5!1s0x39149d726fc56b77:0x8fd9e697d466ba9a!8m2!3d28.2981363!4d74.9539288!16s%2Fg%2F11nc7p4gg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gaur-surgical-and-general-hospital-churu",
@@ -2274,7 +2293,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/GAUR+SURGICAL+AND+GENERAL+HOSPITAL/@28.2962656,74.9623075,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f001c139191:0x84bd44ed430e54b8!8m2!3d28.2962656!4d74.9623075!16s%2Fg%2F11xd9l_5bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GAUR+SURGICAL+AND+GENERAL+HOSPITAL/@28.2962656,74.9623075,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f001c139191:0x84bd44ed430e54b8!8m2!3d28.2962656!4d74.9623075!16s%2Fg%2F11xd9l_5bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2340,10 +2359,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GAUR+SURGICAL+AND+GENERAL+HOSPITAL/@28.2962656,74.9623075,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f001c139191:0x84bd44ed430e54b8!8m2!3d28.2962656!4d74.9623075!16s%2Fg%2F11xd9l_5bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "govt-d-b-hospital-emergency-churu",
@@ -2391,7 +2411,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Govt+D.b+Hospital+Emergency/@28.2894567,74.958729,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e03ffffffff:0xb656c1e82ad83fba!8m2!3d28.2894567!4d74.958729!16s%2Fg%2F11csp8hv4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt+D.b+Hospital+Emergency/@28.2894567,74.958729,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e03ffffffff:0xb656c1e82ad83fba!8m2!3d28.2894567!4d74.958729!16s%2Fg%2F11csp8hv4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2460,7 +2480,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govt+D.b+Hospital+Emergency/@28.2894567,74.958729,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e03ffffffff:0xb656c1e82ad83fba!8m2!3d28.2894567!4d74.958729!16s%2Fg%2F11csp8hv4h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "govt-db-general-district-hospital-churu-churu",
@@ -2508,7 +2529,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Govt.+DB+General+District+Hospital,+Churu/@28.2896227,74.9591771,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e03ffffffff:0xc53f1f35d3f3b8d9!8m2!3d28.2896227!4d74.9591771!16s%2Fg%2F11g68w_vlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt.+DB+General+District+Hospital,+Churu/@28.2896227,74.9591771,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e03ffffffff:0xc53f1f35d3f3b8d9!8m2!3d28.2896227!4d74.9591771!16s%2Fg%2F11g68w_vlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2577,7 +2598,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govt.+DB+General+District+Hospital,+Churu/@28.2896227,74.9591771,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e03ffffffff:0xc53f1f35d3f3b8d9!8m2!3d28.2896227!4d74.9591771!16s%2Fg%2F11g68w_vlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "govt-eye-hospital-churu",
@@ -2625,7 +2647,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Govt.+Eye+Hospital/@28.2952253,74.9547387,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e0869457aed:0x123c845960e29886!8m2!3d28.2952253!4d74.9547387!16s%2Fg%2F11cr_63hn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt.+Eye+Hospital/@28.2952253,74.9547387,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e0869457aed:0x123c845960e29886!8m2!3d28.2952253!4d74.9547387!16s%2Fg%2F11cr_63hn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2694,7 +2716,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govt.+Eye+Hospital/@28.2952253,74.9547387,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e0869457aed:0x123c845960e29886!8m2!3d28.2952253!4d74.9547387!16s%2Fg%2F11cr_63hn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goyal-hospital-churu-churu",
@@ -2742,7 +2765,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/GOYAL+HOSPITAL+CHURU/@28.2969545,74.9714403,17z/data=!3m1!4b1!4m6!3m5!1s0x391361ff11a24df7:0x5c0f3dbca00a6ab5!8m2!3d28.2969545!4d74.9714403!16s%2Fg%2F11l6tmgslg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GOYAL+HOSPITAL+CHURU/@28.2969545,74.9714403,17z/data=!3m1!4b1!4m6!3m5!1s0x391361ff11a24df7:0x5c0f3dbca00a6ab5!8m2!3d28.2969545!4d74.9714403!16s%2Fg%2F11l6tmgslg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2811,7 +2834,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GOYAL+HOSPITAL+CHURU/@28.2969545,74.9714403,17z/data=!3m1!4b1!4m6!3m5!1s0x391361ff11a24df7:0x5c0f3dbca00a6ab5!8m2!3d28.2969545!4d74.9714403!16s%2Fg%2F11l6tmgslg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ham-labs-churu",
@@ -2861,7 +2885,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HAM+LABS/@28.2939162,74.9554569,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fefe8bf2947:0x3bb30cf9ccc28828!8m2!3d28.2939162!4d74.9554569!16s%2Fg%2F11fnqm6p89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HAM+LABS/@28.2939162,74.9554569,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fefe8bf2947:0x3bb30cf9ccc28828!8m2!3d28.2939162!4d74.9554569!16s%2Fg%2F11fnqm6p89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2930,7 +2954,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HAM+LABS/@28.2939162,74.9554569,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fefe8bf2947:0x3bb30cf9ccc28828!8m2!3d28.2939162!4d74.9554569!16s%2Fg%2F11fnqm6p89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "happy-dental-clinic-churu-churu",
@@ -2977,7 +3002,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Happy+dental+clinic+churu/@28.2906442,74.958383,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f007ae6b619:0xfc047eecc4b40055!8m2!3d28.2906442!4d74.958383!16s%2Fg%2F11z3bbcnjb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Happy+dental+clinic+churu/@28.2906442,74.958383,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f007ae6b619:0xfc047eecc4b40055!8m2!3d28.2906442!4d74.958383!16s%2Fg%2F11z3bbcnjb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3043,10 +3068,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Happy+dental+clinic+churu/@28.2906442,74.958383,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f007ae6b619:0xfc047eecc4b40055!8m2!3d28.2906442!4d74.958383!16s%2Fg%2F11z3bbcnjb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hospital-churu",
@@ -3094,7 +3120,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Hospital/@28.2930084,74.9721109,17z/data=!3m1!4b1!4m6!3m5!1s0x391361b2759dbaf5:0xe608272c3d149acb!8m2!3d28.2930084!4d74.9721109!16s%2Fg%2F11gnpj72x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital/@28.2930084,74.9721109,17z/data=!3m1!4b1!4m6!3m5!1s0x391361b2759dbaf5:0xe608272c3d149acb!8m2!3d28.2930084!4d74.9721109!16s%2Fg%2F11gnpj72x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3160,10 +3186,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hospital/@28.2930084,74.9721109,17z/data=!3m1!4b1!4m6!3m5!1s0x391361b2759dbaf5:0xe608272c3d149acb!8m2!3d28.2930084!4d74.9721109!16s%2Fg%2F11gnpj72x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevan-jyoti-health-care-churu",
@@ -3211,7 +3238,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+jyoti+health+care/@28.2959534,74.9549692,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fc9aee698d3:0x411802ba293a1397!8m2!3d28.2959534!4d74.9549692!16s%2Fg%2F11rkbngs0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+jyoti+health+care/@28.2959534,74.9549692,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fc9aee698d3:0x411802ba293a1397!8m2!3d28.2959534!4d74.9549692!16s%2Fg%2F11rkbngs0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3277,10 +3304,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+jyoti+health+care/@28.2959534,74.9549692,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fc9aee698d3:0x411802ba293a1397!8m2!3d28.2959534!4d74.9549692!16s%2Fg%2F11rkbngs0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevan-rekha-heart-care-hospital-churu-churu",
@@ -3330,7 +3358,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Rekha+Heart+Care+Hospital+churu/@28.3039814,74.9570948,17z/data=!3m1!4b1!4m6!3m5!1s0x39149d2b40215f97:0x7ccda6ceeb77ad56!8m2!3d28.3039814!4d74.9570948!16s%2Fg%2F11rxsbv5vp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Rekha+Heart+Care+Hospital+churu/@28.3039814,74.9570948,17z/data=!3m1!4b1!4m6!3m5!1s0x39149d2b40215f97:0x7ccda6ceeb77ad56!8m2!3d28.3039814!4d74.9570948!16s%2Fg%2F11rxsbv5vp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3399,7 +3427,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Rekha+Heart+Care+Hospital+churu/@28.3039814,74.9570948,17z/data=!3m1!4b1!4m6!3m5!1s0x39149d2b40215f97:0x7ccda6ceeb77ad56!8m2!3d28.3039814!4d74.9570948!16s%2Fg%2F11rxsbv5vp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jmb-eye-hospital-churu",
@@ -3447,7 +3476,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/JMB+EYE+HOSPITAL/@28.295252,74.954578,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e086a155551:0x2b2b2bff1bf3e14e!8m2!3d28.295252!4d74.954578!16s%2Fg%2F11g9ghy9jv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JMB+EYE+HOSPITAL/@28.295252,74.954578,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e086a155551:0x2b2b2bff1bf3e14e!8m2!3d28.295252!4d74.954578!16s%2Fg%2F11g9ghy9jv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3513,10 +3542,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JMB+EYE+HOSPITAL/@28.295252,74.954578,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e086a155551:0x2b2b2bff1bf3e14e!8m2!3d28.295252!4d74.954578!16s%2Fg%2F11g9ghy9jv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lakshya-medical-churu",
@@ -3565,7 +3595,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lakshya+Medical/@28.2912017,74.9591347,17z/data=!3m1!4b1!4m6!3m5!1s0x391361ccd14cf7f3:0x49563bfddf048345!8m2!3d28.2912017!4d74.9591347!16s%2Fg%2F11wnm_hr24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lakshya+Medical/@28.2912017,74.9591347,17z/data=!3m1!4b1!4m6!3m5!1s0x391361ccd14cf7f3:0x49563bfddf048345!8m2!3d28.2912017!4d74.9591347!16s%2Fg%2F11wnm_hr24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3631,10 +3661,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lakshya+Medical/@28.2912017,74.9591347,17z/data=!3m1!4b1!4m6!3m5!1s0x391361ccd14cf7f3:0x49563bfddf048345!8m2!3d28.2912017!4d74.9591347!16s%2Fg%2F11wnm_hr24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-care-hospital-churu-churu",
@@ -3683,7 +3714,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/LIFE+CARE+HOSPITAL+CHURU/@28.3012366,74.9517329,17z/data=!3m1!4b1!4m6!3m5!1s0x39149dc97c89ad33:0x6ad0ee3ae14d7ebb!8m2!3d28.3012366!4d74.9517329!16s%2Fg%2F11hnr61rsk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LIFE+CARE+HOSPITAL+CHURU/@28.3012366,74.9517329,17z/data=!3m1!4b1!4m6!3m5!1s0x39149dc97c89ad33:0x6ad0ee3ae14d7ebb!8m2!3d28.3012366!4d74.9517329!16s%2Fg%2F11hnr61rsk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3752,7 +3783,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LIFE+CARE+HOSPITAL+CHURU/@28.3012366,74.9517329,17z/data=!3m1!4b1!4m6!3m5!1s0x39149dc97c89ad33:0x6ad0ee3ae14d7ebb!8m2!3d28.3012366!4d74.9517329!16s%2Fg%2F11hnr61rsk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-care-medicose-churu",
@@ -3801,7 +3833,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Life+care+medicose/@28.3005113,74.9569146,17z/data=!3m1!4b1!4m6!3m5!1s0x39149dd5ca6688a9:0x96a399fdb5088336!8m2!3d28.3005113!4d74.9569146!16s%2Fg%2F11p10kx11m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+care+medicose/@28.3005113,74.9569146,17z/data=!3m1!4b1!4m6!3m5!1s0x39149dd5ca6688a9:0x96a399fdb5088336!8m2!3d28.3005113!4d74.9569146!16s%2Fg%2F11p10kx11m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3867,10 +3899,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+care+medicose/@28.3005113,74.9569146,17z/data=!3m1!4b1!4m6!3m5!1s0x39149dd5ca6688a9:0x96a399fdb5088336!8m2!3d28.3005113!4d74.9569146!16s%2Fg%2F11p10kx11m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "max-global-hospital-churu",
@@ -3918,7 +3951,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/MAX+GLOBAL+HOSPITAL/@28.29001,74.9592204,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f56ef69afc7:0x6fe97a42b23cc4f1!8m2!3d28.29001!4d74.9592204!16s%2Fg%2F11j7z194tw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAX+GLOBAL+HOSPITAL/@28.29001,74.9592204,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f56ef69afc7:0x6fe97a42b23cc4f1!8m2!3d28.29001!4d74.9592204!16s%2Fg%2F11j7z194tw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3987,7 +4020,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MAX+GLOBAL+HOSPITAL/@28.29001,74.9592204,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f56ef69afc7:0x6fe97a42b23cc4f1!8m2!3d28.29001!4d74.9592204!16s%2Fg%2F11j7z194tw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mrm-choudhary-hospital-churu",
@@ -4035,7 +4069,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/MRM+Choudhary+Hospital/@28.2937365,74.9555703,17z/data=!3m1!4b1!4m6!3m5!1s0x39149de04ca337f5:0xa09e6617e4533a35!8m2!3d28.2937365!4d74.9555703!16s%2Fg%2F11cn0l2g46?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MRM+Choudhary+Hospital/@28.2937365,74.9555703,17z/data=!3m1!4b1!4m6!3m5!1s0x39149de04ca337f5:0xa09e6617e4533a35!8m2!3d28.2937365!4d74.9555703!16s%2Fg%2F11cn0l2g46?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4104,7 +4138,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MRM+Choudhary+Hospital/@28.2937365,74.9555703,17z/data=!3m1!4b1!4m6!3m5!1s0x39149de04ca337f5:0xa09e6617e4533a35!8m2!3d28.2937365!4d74.9555703!16s%2Fg%2F11cn0l2g46?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mumtaj-hospital-churu",
@@ -4152,7 +4187,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Mumtaj+Hospital/@28.2998273,74.964817,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e03ffffffff:0xa94f4191b5b6d821!8m2!3d28.2998273!4d74.964817!16s%2Fg%2F11c1xq2dzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mumtaj+Hospital/@28.2998273,74.964817,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e03ffffffff:0xa94f4191b5b6d821!8m2!3d28.2998273!4d74.964817!16s%2Fg%2F11c1xq2dzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4221,7 +4256,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mumtaj+Hospital/@28.2998273,74.964817,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e03ffffffff:0xa94f4191b5b6d821!8m2!3d28.2998273!4d74.964817!16s%2Fg%2F11c1xq2dzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nangal-cancer-hospital-and-research-institute-bikaner",
@@ -4270,7 +4306,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nangal+Cancer+Hospital+and+Research+Institute/@28.0101404,73.324241,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6fffffffff:0xb58663cd0b325fd3!8m2!3d28.0101404!4d73.324241!16s%2Fg%2F11f5k170hc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nangal+Cancer+Hospital+and+Research+Institute/@28.0101404,73.324241,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6fffffffff:0xb58663cd0b325fd3!8m2!3d28.0101404!4d73.324241!16s%2Fg%2F11f5k170hc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4339,7 +4375,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nangal+Cancer+Hospital+and+Research+Institute/@28.0101404,73.324241,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6fffffffff:0xb58663cd0b325fd3!8m2!3d28.0101404!4d73.324241!16s%2Fg%2F11f5k170hc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nirogi-kaya-churu",
@@ -4389,7 +4426,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NIROGI+KAYA/@28.2898165,74.9616964,17z/data=!3m1!4b1!4m6!3m5!1s0x3913618e8e41d833:0xc6a186763192f10c!8m2!3d28.2898165!4d74.9616964!16s%2Fg%2F11wmwk5b88?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIROGI+KAYA/@28.2898165,74.9616964,17z/data=!3m1!4b1!4m6!3m5!1s0x3913618e8e41d833:0xc6a186763192f10c!8m2!3d28.2898165!4d74.9616964!16s%2Fg%2F11wmwk5b88?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4455,10 +4492,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NIROGI+KAYA/@28.2898165,74.9616964,17z/data=!3m1!4b1!4m6!3m5!1s0x3913618e8e41d833:0xc6a186763192f10c!8m2!3d28.2898165!4d74.9616964!16s%2Fg%2F11wmwk5b88?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "om-dental-clinic-churu",
@@ -4507,7 +4545,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Om+dental+clinic/@28.3004266,74.9709476,17z/data=!3m1!4b1!4m6!3m5!1s0x3913639eb495e723:0x4944d068b8cdc93f!8m2!3d28.3004266!4d74.9709476!16s%2Fg%2F11y5dk8ygr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+dental+clinic/@28.3004266,74.9709476,17z/data=!3m1!4b1!4m6!3m5!1s0x3913639eb495e723:0x4944d068b8cdc93f!8m2!3d28.3004266!4d74.9709476!16s%2Fg%2F11y5dk8ygr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4576,7 +4614,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Om+dental+clinic/@28.3004266,74.9709476,17z/data=!3m1!4b1!4m6!3m5!1s0x3913639eb495e723:0x4944d068b8cdc93f!8m2!3d28.3004266!4d74.9709476!16s%2Fg%2F11y5dk8ygr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "om-tea-centre-near-district-library",
@@ -4625,7 +4664,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Om+Tea+Centre/@28.2967312,74.9712857,17z/data=!3m1!4b1!4m6!3m5!1s0x391361ff16b20243:0x15d41eb4b573ef2c!8m2!3d28.2967312!4d74.9712857!16s%2Fg%2F1hf5zjmmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Tea+Centre/@28.2967312,74.9712857,17z/data=!3m1!4b1!4m6!3m5!1s0x391361ff16b20243:0x15d41eb4b573ef2c!8m2!3d28.2967312!4d74.9712857!16s%2Fg%2F1hf5zjmmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4694,7 +4733,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Om+Tea+Centre/@28.2967312,74.9712857,17z/data=!3m1!4b1!4m6!3m5!1s0x391361ff16b20243:0x15d41eb4b573ef2c!8m2!3d28.2967312!4d74.9712857!16s%2Fg%2F1hf5zjmmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pheyotherapy-clinic-churu-rajasthan-331001-near-babosa-mandir-w-no-24-churu-dr-neeraj-sharma-9887007731churu",
@@ -4742,7 +4782,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Pheyotherapy+Clinic+Churu+Rajasthan+331001/@28.292049,74.9617954,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e03ffffffff:0x8814c90c4bf6fec2!8m2!3d28.292049!4d74.9617954!16s%2Fg%2F11f4pp12tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pheyotherapy+Clinic+Churu+Rajasthan+331001/@28.292049,74.9617954,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e03ffffffff:0x8814c90c4bf6fec2!8m2!3d28.292049!4d74.9617954!16s%2Fg%2F11f4pp12tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4808,10 +4848,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pheyotherapy+Clinic+Churu+Rajasthan+331001/@28.292049,74.9617954,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e03ffffffff:0x8814c90c4bf6fec2!8m2!3d28.292049!4d74.9617954!16s%2Fg%2F11f4pp12tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "poonam-hair-wig-parlour-churu",
@@ -4860,7 +4901,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Poonam+Hair+wig+parlour/@28.2972808,74.9711212,17z/data=!3m1!4b1!4m6!3m5!1s0x391361d610960b75:0x5157f61e511dd70f!8m2!3d28.2972808!4d74.9711212!16s%2Fg%2F11s5nzr8fb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Poonam+Hair+wig+parlour/@28.2972808,74.9711212,17z/data=!3m1!4b1!4m6!3m5!1s0x391361d610960b75:0x5157f61e511dd70f!8m2!3d28.2972808!4d74.9711212!16s%2Fg%2F11s5nzr8fb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4929,7 +4970,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Poonam+Hair+wig+parlour/@28.2972808,74.9711212,17z/data=!3m1!4b1!4m6!3m5!1s0x391361d610960b75:0x5157f61e511dd70f!8m2!3d28.2972808!4d74.9711212!16s%2Fg%2F11s5nzr8fb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pulseoxy-lab-center-churu-churu",
@@ -4978,7 +5020,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Pulseoxy+lab+center+churu/@28.290927,74.956218,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f0016c1b887:0xbf65cb7b8b72e7a7!8m2!3d28.290927!4d74.956218!16s%2Fg%2F11xmd6g6mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pulseoxy+lab+center+churu/@28.290927,74.956218,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f0016c1b887:0xbf65cb7b8b72e7a7!8m2!3d28.290927!4d74.956218!16s%2Fg%2F11xmd6g6mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5044,10 +5086,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pulseoxy+lab+center+churu/@28.290927,74.956218,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f0016c1b887:0xbf65cb7b8b72e7a7!8m2!3d28.290927!4d74.956218!16s%2Fg%2F11xmd6g6mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajasthan-health-care-churu",
@@ -5093,7 +5136,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/RAJASTHAN+Health+Care/@28.2927138,74.9706626,17z/data=!3m1!4b1!4m6!3m5!1s0x391361fc2b66e0ab:0xfa96bfad361c108f!8m2!3d28.2927138!4d74.9706626!16s%2Fg%2F11vj3g_r7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RAJASTHAN+Health+Care/@28.2927138,74.9706626,17z/data=!3m1!4b1!4m6!3m5!1s0x391361fc2b66e0ab:0xfa96bfad361c108f!8m2!3d28.2927138!4d74.9706626!16s%2Fg%2F11vj3g_r7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5159,10 +5202,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RAJASTHAN+Health+Care/@28.2927138,74.9706626,17z/data=!3m1!4b1!4m6!3m5!1s0x391361fc2b66e0ab:0xfa96bfad361c108f!8m2!3d28.2927138!4d74.9706626!16s%2Fg%2F11vj3g_r7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajasthan-medical-agency-churu-churu",
@@ -5209,7 +5253,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Rajasthan+Medical+Agency+Churu/@28.288164,74.9645425,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f0048df7e9b:0xff768f129f19f859!8m2!3d28.288164!4d74.9645425!16s%2Fg%2F11y73lwmh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajasthan+Medical+Agency+Churu/@28.288164,74.9645425,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f0048df7e9b:0xff768f129f19f859!8m2!3d28.288164!4d74.9645425!16s%2Fg%2F11y73lwmh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5275,10 +5319,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajasthan+Medical+Agency+Churu/@28.288164,74.9645425,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f0048df7e9b:0xff768f129f19f859!8m2!3d28.288164!4d74.9645425!16s%2Fg%2F11y73lwmh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rishik-hospitals-best-gastro-and-bariatric-hospital-in-churu-churu",
@@ -5328,7 +5373,7 @@
       "Google rating 1.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rishik+Hospitals+-+Best+Gastro+%26+Bariatric+Hospital+in+Churu/@28.2961855,74.9552309,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f026c8d3055:0x16735438599d1ae4!8m2!3d28.2961855!4d74.9552309!16s%2Fg%2F11wx8krhwk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rishik+Hospitals+-+Best+Gastro+%26+Bariatric+Hospital+in+Churu/@28.2961855,74.9552309,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f026c8d3055:0x16735438599d1ae4!8m2!3d28.2961855!4d74.9552309!16s%2Fg%2F11wx8krhwk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5394,10 +5439,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rishik+Hospitals+-+Best+Gastro+%26+Bariatric+Hospital+in+Churu/@28.2961855,74.9552309,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f026c8d3055:0x16735438599d1ae4!8m2!3d28.2961855!4d74.9552309!16s%2Fg%2F11wx8krhwk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ritu-ivf-fertility-centre-churu",
@@ -5446,7 +5492,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ritu+IVF+Fertility+Centre/@28.2914922,74.956847,17z/data=!3m1!4b1!4m6!3m5!1s0x3914f58df400243f:0x82b0a845401d4ce5!8m2!3d28.2914922!4d74.956847!16s%2Fg%2F11z3zzl06w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ritu+IVF+Fertility+Centre/@28.2914922,74.956847,17z/data=!3m1!4b1!4m6!3m5!1s0x3914f58df400243f:0x82b0a845401d4ce5!8m2!3d28.2914922!4d74.956847!16s%2Fg%2F11z3zzl06w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5512,10 +5558,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ritu+IVF+Fertility+Centre/@28.2914922,74.956847,17z/data=!3m1!4b1!4m6!3m5!1s0x3914f58df400243f:0x82b0a845401d4ce5!8m2!3d28.2914922!4d74.956847!16s%2Fg%2F11z3zzl06w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-k-hair-transplant-and-dental-hospital-hair-transplant-and-dental-clinics-in-churu-churu",
@@ -5563,7 +5610,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/S.K.+Hair+Transplant+%26+Dental+Hospital+-+Hair+Transplant+%26+Dental+Clinics+in+Churu/@28.2946949,74.9550151,17z/data=!3m1!4b1!4m6!3m5!1s0x39149feda421ef17:0x242bf830171256f6!8m2!3d28.2946949!4d74.9550151!16s%2Fg%2F11gskq656h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.K.+Hair+Transplant+%26+Dental+Hospital+-+Hair+Transplant+%26+Dental+Clinics+in+Churu/@28.2946949,74.9550151,17z/data=!3m1!4b1!4m6!3m5!1s0x39149feda421ef17:0x242bf830171256f6!8m2!3d28.2946949!4d74.9550151!16s%2Fg%2F11gskq656h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5629,10 +5676,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S.K.+Hair+Transplant+%26+Dental+Hospital+-+Hair+Transplant+%26+Dental+Clinics+in+Churu/@28.2946949,74.9550151,17z/data=!3m1!4b1!4m6!3m5!1s0x39149feda421ef17:0x242bf830171256f6!8m2!3d28.2946949!4d74.9550151!16s%2Fg%2F11gskq656h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-clinic-churu-churu",
@@ -5680,7 +5728,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Clinic+Churu/@28.2898676,74.9656257,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fb467991d6d:0xbe0d4f21f4440932!8m2!3d28.2898676!4d74.9656257!16s%2Fg%2F11w_w6_d1v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Clinic+Churu/@28.2898676,74.9656257,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fb467991d6d:0xbe0d4f21f4440932!8m2!3d28.2898676!4d74.9656257!16s%2Fg%2F11w_w6_d1v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5746,10 +5794,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Clinic+Churu/@28.2898676,74.9656257,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fb467991d6d:0xbe0d4f21f4440932!8m2!3d28.2898676!4d74.9656257!16s%2Fg%2F11w_w6_d1v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sakoon-dental-care-churu",
@@ -5797,7 +5846,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sakoon+Dental+Care/@28.2906589,74.9581124,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fd9c455d249:0x18e7362e304f154a!8m2!3d28.2906589!4d74.9581124!16s%2Fg%2F11flbg3r2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakoon+Dental+Care/@28.2906589,74.9581124,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fd9c455d249:0x18e7362e304f154a!8m2!3d28.2906589!4d74.9581124!16s%2Fg%2F11flbg3r2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5863,10 +5912,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sakoon+Dental+Care/@28.2906589,74.9581124,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fd9c455d249:0x18e7362e304f154a!8m2!3d28.2906589!4d74.9581124!16s%2Fg%2F11flbg3r2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjeewani-hospital-churu",
@@ -5914,7 +5964,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeewani+Hospital/@28.3024634,74.9497676,17z/data=!3m1!4b1!4m6!3m5!1s0x39149de6abddc29b:0xecf8d55c7675e813!8m2!3d28.3024634!4d74.9497676!16s%2Fg%2F11gdkws_kx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeewani+Hospital/@28.3024634,74.9497676,17z/data=!3m1!4b1!4m6!3m5!1s0x39149de6abddc29b:0xecf8d55c7675e813!8m2!3d28.3024634!4d74.9497676!16s%2Fg%2F11gdkws_kx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5983,7 +6033,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeewani+Hospital/@28.3024634,74.9497676,17z/data=!3m1!4b1!4m6!3m5!1s0x39149de6abddc29b:0xecf8d55c7675e813!8m2!3d28.3024634!4d74.9497676!16s%2Fg%2F11gdkws_kx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharma-medicose-churu",
@@ -6032,7 +6083,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SHARMA+medicose/@28.2923688,74.957363,17z/data=!3m1!4b1!4m6!3m5!1s0x39149d099ab67833:0xb1461a7e0c422dc8!8m2!3d28.2923688!4d74.957363!16s%2Fg%2F11s6179zkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHARMA+medicose/@28.2923688,74.957363,17z/data=!3m1!4b1!4m6!3m5!1s0x39149d099ab67833:0xb1461a7e0c422dc8!8m2!3d28.2923688!4d74.957363!16s%2Fg%2F11s6179zkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6098,10 +6149,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHARMA+medicose/@28.2923688,74.957363,17z/data=!3m1!4b1!4m6!3m5!1s0x39149d099ab67833:0xb1461a7e0c422dc8!8m2!3d28.2923688!4d74.957363!16s%2Fg%2F11s6179zkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sheela-hospital-best-maternity-hospital-female-hospital-in-churu-churu",
@@ -6150,7 +6202,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sheela+Hospital+-+Best+Maternity+Hospital,+Female+Hospital+In+Churu/@28.2926729,74.9701476,17z/data=!3m1!4b1!4m6!3m5!1s0x391361fdd6aa2c5d:0xd7e6a1a216346ecc!8m2!3d28.2926729!4d74.9701476!16s%2Fg%2F1hdyzd6nj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sheela+Hospital+-+Best+Maternity+Hospital,+Female+Hospital+In+Churu/@28.2926729,74.9701476,17z/data=!3m1!4b1!4m6!3m5!1s0x391361fdd6aa2c5d:0xd7e6a1a216346ecc!8m2!3d28.2926729!4d74.9701476!16s%2Fg%2F1hdyzd6nj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6216,10 +6268,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sheela+Hospital+-+Best+Maternity+Hospital,+Female+Hospital+In+Churu/@28.2926729,74.9701476,17z/data=!3m1!4b1!4m6!3m5!1s0x391361fdd6aa2c5d:0xd7e6a1a216346ecc!8m2!3d28.2926729!4d74.9701476!16s%2Fg%2F1hdyzd6nj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivam-ortho-and-general-hospital-churu",
@@ -6269,7 +6322,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shivam+Ortho+%26+General+Hospital/@28.2947062,74.9556512,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fe254638ddf:0x7df0d55e8bd065a4!8m2!3d28.2947062!4d74.9556512!16s%2Fg%2F11b7bz2m8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivam+Ortho+%26+General+Hospital/@28.2947062,74.9556512,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fe254638ddf:0x7df0d55e8bd065a4!8m2!3d28.2947062!4d74.9556512!16s%2Fg%2F11b7bz2m8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6338,7 +6391,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivam+Ortho+%26+General+Hospital/@28.2947062,74.9556512,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fe254638ddf:0x7df0d55e8bd065a4!8m2!3d28.2947062!4d74.9556512!16s%2Fg%2F11b7bz2m8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivoham-healthcare-physiotherapy-hijama-cupping-therapy-yoga-churu-churu",
@@ -6387,7 +6441,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shivoham+Healthcare+-+Physiotherapy,+Hijama,+Cupping+Therapy,+Yoga+Churu/@28.2950176,74.9549149,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f9f5c284c1b:0xca386620e34f7213!8m2!3d28.2950176!4d74.9549149!16s%2Fg%2F11yh16rsc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivoham+Healthcare+-+Physiotherapy,+Hijama,+Cupping+Therapy,+Yoga+Churu/@28.2950176,74.9549149,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f9f5c284c1b:0xca386620e34f7213!8m2!3d28.2950176!4d74.9549149!16s%2Fg%2F11yh16rsc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6453,10 +6507,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivoham+Healthcare+-+Physiotherapy,+Hijama,+Cupping+Therapy,+Yoga+Churu/@28.2950176,74.9549149,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f9f5c284c1b:0xca386620e34f7213!8m2!3d28.2950176!4d74.9549149!16s%2Fg%2F11yh16rsc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-dharmnath-clinic-churu",
@@ -6504,7 +6559,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Dharmnath+Clinic/@28.2928885,74.9566166,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f003f50e3c5:0x5849f1642209ae3e!8m2!3d28.2928885!4d74.9566166!16s%2Fg%2F11ym_bgpl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Dharmnath+Clinic/@28.2928885,74.9566166,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f003f50e3c5:0x5849f1642209ae3e!8m2!3d28.2928885!4d74.9566166!16s%2Fg%2F11ym_bgpl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6570,10 +6625,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Dharmnath+Clinic/@28.2928885,74.9566166,17z/data=!3m1!4b1!4m6!3m5!1s0x39149f003f50e3c5:0x5849f1642209ae3e!8m2!3d28.2928885!4d74.9566166!16s%2Fg%2F11ym_bgpl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-ganpati-medicose-churu",
@@ -6622,7 +6678,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+ganpati+medicose/@28.2910674,74.9579243,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fd0d9bc3445:0x4d7735eda75f900d!8m2!3d28.2910674!4d74.9579243!16s%2Fg%2F11tsn4r3cg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+ganpati+medicose/@28.2910674,74.9579243,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fd0d9bc3445:0x4d7735eda75f900d!8m2!3d28.2910674!4d74.9579243!16s%2Fg%2F11tsn4r3cg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6688,10 +6744,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+ganpati+medicose/@28.2910674,74.9579243,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fd0d9bc3445:0x4d7735eda75f900d!8m2!3d28.2910674!4d74.9579243!16s%2Fg%2F11tsn4r3cg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-balaji-surgical-and-general-hospital-churu",
@@ -6739,7 +6796,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Balaji+Surgical+and+General+Hospital/@28.2943964,74.9655116,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e01bce1cd59:0xb6dc05e12248c045!8m2!3d28.2943964!4d74.9655116!16s%2Fg%2F11bztdzk8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Balaji+Surgical+and+General+Hospital/@28.2943964,74.9655116,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e01bce1cd59:0xb6dc05e12248c045!8m2!3d28.2943964!4d74.9655116!16s%2Fg%2F11bztdzk8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6808,7 +6865,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Balaji+Surgical+and+General+Hospital/@28.2943964,74.9655116,17z/data=!3m1!4b1!4m6!3m5!1s0x39149e01bce1cd59:0xb6dc05e12248c045!8m2!3d28.2943964!4d74.9655116!16s%2Fg%2F11bztdzk8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-shri-ganesh-medical-store-churu-churu",
@@ -6857,7 +6915,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Shri+shri+ganesh+medical+store+churu/@28.2901492,74.9594246,17z/data=!3m1!4b1!4m6!3m5!1s0x39149facd2179215:0x7f579cf0bb3177ff!8m2!3d28.2901492!4d74.9594246!16s%2Fg%2F11z3953__q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+shri+ganesh+medical+store+churu/@28.2901492,74.9594246,17z/data=!3m1!4b1!4m6!3m5!1s0x39149facd2179215:0x7f579cf0bb3177ff!8m2!3d28.2901492!4d74.9594246!16s%2Fg%2F11z3953__q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6926,7 +6984,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+shri+ganesh+medical+store+churu/@28.2901492,74.9594246,17z/data=!3m1!4b1!4m6!3m5!1s0x39149facd2179215:0x7f579cf0bb3177ff!8m2!3d28.2901492!4d74.9594246!16s%2Fg%2F11z3953__q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skin-care-pharma-churu-churu",
@@ -6974,7 +7033,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Skin+care+pharma+churu/@28.2939602,74.9661619,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fb2c1844a67:0x28f9d2ae1f624fdd!8m2!3d28.2939602!4d74.9661619!16s%2Fg%2F11svfc80jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+care+pharma+churu/@28.2939602,74.9661619,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fb2c1844a67:0x28f9d2ae1f624fdd!8m2!3d28.2939602!4d74.9661619!16s%2Fg%2F11svfc80jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7040,10 +7099,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skin+care+pharma+churu/@28.2939602,74.9661619,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fb2c1844a67:0x28f9d2ae1f624fdd!8m2!3d28.2939602!4d74.9661619!16s%2Fg%2F11svfc80jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-dental-and-skin-care-clinic-churu",
@@ -7091,7 +7151,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+dental+and+skin+care+clinic/@28.301809,74.9554809,17z/data=!3m1!4b1!4m6!3m5!1s0x39149ddfc22da375:0x4622ebe8c54684e!8m2!3d28.301809!4d74.9554809!16s%2Fg%2F11r_f79v2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+dental+and+skin+care+clinic/@28.301809,74.9554809,17z/data=!3m1!4b1!4m6!3m5!1s0x39149ddfc22da375:0x4622ebe8c54684e!8m2!3d28.301809!4d74.9554809!16s%2Fg%2F11r_f79v2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7157,10 +7217,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+dental+and+skin+care+clinic/@28.301809,74.9554809,17z/data=!3m1!4b1!4m6!3m5!1s0x39149ddfc22da375:0x4622ebe8c54684e!8m2!3d28.301809!4d74.9554809!16s%2Fg%2F11r_f79v2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sub-tb-clinic-db-hospital-churu-churu",
@@ -7208,7 +7269,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sub+TB+Clinic,+DB+Hospital,+Churu/@28.2900798,74.958116,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fd75cd73639:0x9a458c39f14d36d9!8m2!3d28.2900798!4d74.958116!16s%2Fg%2F11h1ybtbgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sub+TB+Clinic,+DB+Hospital,+Churu/@28.2900798,74.958116,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fd75cd73639:0x9a458c39f14d36d9!8m2!3d28.2900798!4d74.958116!16s%2Fg%2F11h1ybtbgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7277,7 +7338,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sub+TB+Clinic,+DB+Hospital,+Churu/@28.2900798,74.958116,17z/data=!3m1!4b1!4m6!3m5!1s0x39149fd75cd73639:0x9a458c39f14d36d9!8m2!3d28.2900798!4d74.958116!16s%2Fg%2F11h1ybtbgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "suniya-medical-churu-s-churu",
@@ -7323,7 +7385,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Suniya+medical+Churu%E2%80%99s/@28.2925364,74.9707262,17z/data=!3m1!4b1!4m6!3m5!1s0x39136100620a4d69:0x978bb864e2b14891!8m2!3d28.2925364!4d74.9707262!16s%2Fg%2F11xfscjlgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suniya+medical+Churu%E2%80%99s/@28.2925364,74.9707262,17z/data=!3m1!4b1!4m6!3m5!1s0x39136100620a4d69:0x978bb864e2b14891!8m2!3d28.2925364!4d74.9707262!16s%2Fg%2F11xfscjlgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7389,10 +7451,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suniya+medical+Churu%E2%80%99s/@28.2925364,74.9707262,17z/data=!3m1!4b1!4m6!3m5!1s0x39136100620a4d69:0x978bb864e2b14891!8m2!3d28.2925364!4d74.9707262!16s%2Fg%2F11xfscjlgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "suraj-homeopathic-clinic-churu",
@@ -7441,7 +7504,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Suraj+Homeopathic+Clinic/@28.2881663,74.9727137,17z/data=!3m1!4b1!4m6!3m5!1s0x39136197d60c7f3d:0xd9f8996f8a916600!8m2!3d28.2881663!4d74.9727137!16s%2Fg%2F11pxws73_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suraj+Homeopathic+Clinic/@28.2881663,74.9727137,17z/data=!3m1!4b1!4m6!3m5!1s0x39136197d60c7f3d:0xd9f8996f8a916600!8m2!3d28.2881663!4d74.9727137!16s%2Fg%2F11pxws73_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7510,7 +7573,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suraj+Homeopathic+Clinic/@28.2881663,74.9727137,17z/data=!3m1!4b1!4m6!3m5!1s0x39136197d60c7f3d:0xd9f8996f8a916600!8m2!3d28.2881663!4d74.9727137!16s%2Fg%2F11pxws73_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vinayal-medicose-churu",
@@ -7556,7 +7620,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/vinayal+medicose/@28.3049672,74.9621315,17z/data=!3m1!4b1!4m6!3m5!1s0x39149df960ae125f:0x4bc68479b5ffe75f!8m2!3d28.3049672!4d74.9621315!16s%2Fg%2F11hbgp8rq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/vinayal+medicose/@28.3049672,74.9621315,17z/data=!3m1!4b1!4m6!3m5!1s0x39149df960ae125f:0x4bc68479b5ffe75f!8m2!3d28.3049672!4d74.9621315!16s%2Fg%2F11hbgp8rq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7622,9 +7686,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/vinayal+medicose/@28.3049672,74.9621315,17z/data=!3m1!4b1!4m6!3m5!1s0x39149df960ae125f:0x4bc68479b5ffe75f!8m2!3d28.3049672!4d74.9621315!16s%2Fg%2F11hbgp8rq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

@@ -46,7 +46,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Acme+Hair+World/@27.1577305,78.3870625,17z/data=!3m1!4b1!4m6!3m5!1s0x47001c596ec3c78b:0x207b581387d77c1a!8m2!3d27.1577305!4d78.3870625!16s%2Fg%2F11k4l5g4t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Acme+Hair+World/@27.1577305,78.3870625,17z/data=!3m1!4b1!4m6!3m5!1s0x47001c596ec3c78b:0x207b581387d77c1a!8m2!3d27.1577305!4d78.3870625!16s%2Fg%2F11k4l5g4t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -112,10 +112,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Acme+Hair+World/@27.1577305,78.3870625,17z/data=!3m1!4b1!4m6!3m5!1s0x47001c596ec3c78b:0x207b581387d77c1a!8m2!3d27.1577305!4d78.3870625!16s%2Fg%2F11k4l5g4t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advance-hospital-firozabad",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Advance+Hospital/@27.1434625,78.4111281,17z/data=!3m1!4b1!4m6!3m5!1s0x3974478939b6ebab:0xd176b66d9df7c268!8m2!3d27.1434625!4d78.4111281!16s%2Fg%2F11g0l4xx2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Hospital/@27.1434625,78.4111281,17z/data=!3m1!4b1!4m6!3m5!1s0x3974478939b6ebab:0xd176b66d9df7c268!8m2!3d27.1434625!4d78.4111281!16s%2Fg%2F11g0l4xx2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -232,7 +233,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+Hospital/@27.1434625,78.4111281,17z/data=!3m1!4b1!4m6!3m5!1s0x3974478939b6ebab:0xd176b66d9df7c268!8m2!3d27.1434625!4d78.4111281!16s%2Fg%2F11g0l4xx2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advanced-diabetes-care-centre-diabetes-centre-in-firozabad-diabetes-centre-in-firozabad-firozabad",
@@ -282,7 +284,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Advanced+Diabetes+Care+Centre+(Diabetes+Centre+in+Firozabad)+-+Diabetes+Centre+in+Firozabad/@27.1594307,78.3941321,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a8189dc051:0x96484d27ddf7084!8m2!3d27.1594307!4d78.3941321!16s%2Fg%2F11b5yrh1kd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Diabetes+Care+Centre+(Diabetes+Centre+in+Firozabad)+-+Diabetes+Centre+in+Firozabad/@27.1594307,78.3941321,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a8189dc051:0x96484d27ddf7084!8m2!3d27.1594307!4d78.3941321!16s%2Fg%2F11b5yrh1kd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -348,10 +350,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advanced+Diabetes+Care+Centre+(Diabetes+Centre+in+Firozabad)+-+Diabetes+Centre+in+Firozabad/@27.1594307,78.3941321,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a8189dc051:0x96484d27ddf7084!8m2!3d27.1594307!4d78.3941321!16s%2Fg%2F11b5yrh1kd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anshin-pro-hair-transplant-clinic-premium-hair-science-clinic-firozabad",
@@ -399,7 +402,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Anshin+Pro+Hair+Transplant+Clinic+%7C%7C+Premium+Hair+Science+Clinic/@27.1329199,78.3892184,17z/data=!3m1!4b1!4m6!3m5!1s0x39744714503f345d:0xf09a49d316673a0a!8m2!3d27.1329199!4d78.3892184!16s%2Fg%2F11yp1fl2jk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anshin+Pro+Hair+Transplant+Clinic+%7C%7C+Premium+Hair+Science+Clinic/@27.1329199,78.3892184,17z/data=!3m1!4b1!4m6!3m5!1s0x39744714503f345d:0xf09a49d316673a0a!8m2!3d27.1329199!4d78.3892184!16s%2Fg%2F11yp1fl2jk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -468,7 +471,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anshin+Pro+Hair+Transplant+Clinic+%7C%7C+Premium+Hair+Science+Clinic/@27.1329199,78.3892184,17z/data=!3m1!4b1!4m6!3m5!1s0x39744714503f345d:0xf09a49d316673a0a!8m2!3d27.1329199!4d78.3892184!16s%2Fg%2F11yp1fl2jk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apna-hair-transplant-clinic-best-hair-transplant-clinic-firozabad",
@@ -516,7 +520,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Apna+Hair+Transplant+Clinic+%7C%7C+Best+hair+Transplant+Clinic/@27.1573951,78.3868111,17z/data=!3m1!4b1!4m6!3m5!1s0x39747785f6982717:0x74e321d230daccbe!8m2!3d27.1573951!4d78.3868111!16s%2Fg%2F11nntf8d21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apna+Hair+Transplant+Clinic+%7C%7C+Best+hair+Transplant+Clinic/@27.1573951,78.3868111,17z/data=!3m1!4b1!4m6!3m5!1s0x39747785f6982717:0x74e321d230daccbe!8m2!3d27.1573951!4d78.3868111!16s%2Fg%2F11nntf8d21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -585,7 +589,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apna+Hair+Transplant+Clinic+%7C%7C+Best+hair+Transplant+Clinic/@27.1573951,78.3868111,17z/data=!3m1!4b1!4m6!3m5!1s0x39747785f6982717:0x74e321d230daccbe!8m2!3d27.1573951!4d78.3868111!16s%2Fg%2F11nntf8d21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-proton-therapy-in-firozabad-firozabad",
@@ -634,7 +639,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Firozabad/@27.1603,78.395448,17z/data=!3m1!4b1!4m6!3m5!1s0x397445fd712e4333:0xf249c48440f5a316!8m2!3d27.1603!4d78.395448!16s%2Fg%2F11xtwv25r4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Firozabad/@27.1603,78.395448,17z/data=!3m1!4b1!4m6!3m5!1s0x397445fd712e4333:0xf249c48440f5a316!8m2!3d27.1603!4d78.395448!16s%2Fg%2F11xtwv25r4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -700,10 +705,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Firozabad/@27.1603,78.395448,17z/data=!3m1!4b1!4m6!3m5!1s0x397445fd712e4333:0xf249c48440f5a316!8m2!3d27.1603!4d78.395448!16s%2Fg%2F11xtwv25r4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ar-radiodiagnostic-centre-firozabad-opg-cbct-ceph-tmj-firozabad",
@@ -752,7 +758,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/AR+RADIODIAGNOSTIC+CENTRE+FIROZABAD+OPG+CBCT+CEPH+TMJ/@27.1598309,78.3831917,17z/data=!3m1!4b1!4m6!3m5!1s0x397443fb16bf9e43:0x74f81d8799b1bbd4!8m2!3d27.1598309!4d78.3831917!16s%2Fg%2F11xzzx4qsl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AR+RADIODIAGNOSTIC+CENTRE+FIROZABAD+OPG+CBCT+CEPH+TMJ/@27.1598309,78.3831917,17z/data=!3m1!4b1!4m6!3m5!1s0x397443fb16bf9e43:0x74f81d8799b1bbd4!8m2!3d27.1598309!4d78.3831917!16s%2Fg%2F11xzzx4qsl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -818,10 +824,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AR+RADIODIAGNOSTIC+CENTRE+FIROZABAD+OPG+CBCT+CEPH+TMJ/@27.1598309,78.3831917,17z/data=!3m1!4b1!4m6!3m5!1s0x397443fb16bf9e43:0x74f81d8799b1bbd4!8m2!3d27.1598309!4d78.3831917!16s%2Fg%2F11xzzx4qsl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arvind-raj-dental-clinic-firozabad",
@@ -869,7 +876,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Arvind+Raj+Dental+Clinic/@27.1572721,78.3896931,17z/data=!3m1!4b1!4m6!3m5!1s0x397446aa288d6bf3:0xdbe93bebf70ad4d2!8m2!3d27.1572721!4d78.3896931!16s%2Fg%2F11b5yvthd_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arvind+Raj+Dental+Clinic/@27.1572721,78.3896931,17z/data=!3m1!4b1!4m6!3m5!1s0x397446aa288d6bf3:0xdbe93bebf70ad4d2!8m2!3d27.1572721!4d78.3896931!16s%2Fg%2F11b5yvthd_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -935,10 +942,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arvind+Raj+Dental+Clinic/@27.1572721,78.3896931,17z/data=!3m1!4b1!4m6!3m5!1s0x397446aa288d6bf3:0xdbe93bebf70ad4d2!8m2!3d27.1572721!4d78.3896931!16s%2Fg%2F11b5yvthd_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayush-dental-and-cosmetic-skin-care-firozabad",
@@ -987,7 +995,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ayush+Dental+and+cosmetic+skin+care/@27.1598174,78.3839116,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a98f952651:0x6be2759789480812!8m2!3d27.1598174!4d78.3839116!16s%2Fg%2F11b5ylc7zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayush+Dental+and+cosmetic+skin+care/@27.1598174,78.3839116,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a98f952651:0x6be2759789480812!8m2!3d27.1598174!4d78.3839116!16s%2Fg%2F11b5ylc7zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1056,7 +1064,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayush+Dental+and+cosmetic+skin+care/@27.1598174,78.3839116,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a98f952651:0x6be2759789480812!8m2!3d27.1598174!4d78.3839116!16s%2Fg%2F11b5ylc7zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "b-d-g-hospital-and-research-center-firozabad",
@@ -1104,7 +1113,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/B.D.G.Hospital+And+Research+Center/@27.1605416,78.3986245,17z/data=!3m1!4b1!4m6!3m5!1s0x3974441d810abe65:0xff975e505cb4bffb!8m2!3d27.1605416!4d78.3986245!16s%2Fg%2F11b5ypybd6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B.D.G.Hospital+And+Research+Center/@27.1605416,78.3986245,17z/data=!3m1!4b1!4m6!3m5!1s0x3974441d810abe65:0xff975e505cb4bffb!8m2!3d27.1605416!4d78.3986245!16s%2Fg%2F11b5ypybd6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1173,7 +1182,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/B.D.G.Hospital+And+Research+Center/@27.1605416,78.3986245,17z/data=!3m1!4b1!4m6!3m5!1s0x3974441d810abe65:0xff975e505cb4bffb!8m2!3d27.1605416!4d78.3986245!16s%2Fg%2F11b5ypybd6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bansal-nursing-home-firozabad",
@@ -1222,7 +1232,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Bansal+Nursing+Home/@27.1539142,78.3928142,17z/data=!3m1!4b1!4m6!3m5!1s0x397446af2a9eb0c5:0x6811cd188cc26b77!8m2!3d27.1539142!4d78.3928142!16s%2Fg%2F11b5yry4h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal+Nursing+Home/@27.1539142,78.3928142,17z/data=!3m1!4b1!4m6!3m5!1s0x397446af2a9eb0c5:0x6811cd188cc26b77!8m2!3d27.1539142!4d78.3928142!16s%2Fg%2F11b5yry4h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1291,7 +1301,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bansal+Nursing+Home/@27.1539142,78.3928142,17z/data=!3m1!4b1!4m6!3m5!1s0x397446af2a9eb0c5:0x6811cd188cc26b77!8m2!3d27.1539142!4d78.3928142!16s%2Fg%2F11b5yry4h_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "best-dental-clinic-raj-dental-clinic-and-implant-centre-firozabad",
@@ -1339,7 +1350,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Best+dental+clinic+-Raj+dental+clinic+and+implant+centre/@27.1552969,78.3911154,17z/data=!3m1!4b1!4m6!3m5!1s0x3974478302a80421:0x21344010d2b5941b!8m2!3d27.1552969!4d78.3911154!16s%2Fg%2F11yf9q_mcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Best+dental+clinic+-Raj+dental+clinic+and+implant+centre/@27.1552969,78.3911154,17z/data=!3m1!4b1!4m6!3m5!1s0x3974478302a80421:0x21344010d2b5941b!8m2!3d27.1552969!4d78.3911154!16s%2Fg%2F11yf9q_mcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1405,10 +1416,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Best+dental+clinic+-Raj+dental+clinic+and+implant+centre/@27.1552969,78.3911154,17z/data=!3m1!4b1!4m6!3m5!1s0x3974478302a80421:0x21344010d2b5941b!8m2!3d27.1552969!4d78.3911154!16s%2Fg%2F11yf9q_mcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bharat-eye-clinic-firozabad",
@@ -1457,7 +1469,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bharat+Eye+Clinic/@27.1525116,78.3967546,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a596babcc1:0x34694e64c23d1dc5!8m2!3d27.1525116!4d78.3967546!16s%2Fg%2F11b5yw2tfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharat+Eye+Clinic/@27.1525116,78.3967546,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a596babcc1:0x34694e64c23d1dc5!8m2!3d27.1525116!4d78.3967546!16s%2Fg%2F11b5yw2tfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1523,10 +1535,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bharat+Eye+Clinic/@27.1525116,78.3967546,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a596babcc1:0x34694e64c23d1dc5!8m2!3d27.1525116!4d78.3967546!16s%2Fg%2F11b5yw2tfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-hospital-firozabad",
@@ -1574,7 +1587,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/City+Hospital/@27.1384631,78.4149311,17z/data=!3m1!4b1!4m6!3m5!1s0x397447f49d293a8b:0xdf95dbb5341e3a60!8m2!3d27.1384631!4d78.4149311!16s%2Fg%2F11tbx3_xqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Hospital/@27.1384631,78.4149311,17z/data=!3m1!4b1!4m6!3m5!1s0x397447f49d293a8b:0xdf95dbb5341e3a60!8m2!3d27.1384631!4d78.4149311!16s%2Fg%2F11tbx3_xqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1640,10 +1653,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Hospital/@27.1384631,78.4149311,17z/data=!3m1!4b1!4m6!3m5!1s0x397447f49d293a8b:0xdf95dbb5341e3a60!8m2!3d27.1384631!4d78.4149311!16s%2Fg%2F11tbx3_xqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cosmo-dental-speciality-clinic-firozabad",
@@ -1692,7 +1706,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/cosmo+dental+speciality+clinic/@27.1572936,78.3927388,17z/data=!3m1!4b1!4m6!3m5!1s0x397447ef45a617ed:0xa6637f1cb8b4eaf1!8m2!3d27.1572936!4d78.3927388!16s%2Fg%2F11g1vmjj2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/cosmo+dental+speciality+clinic/@27.1572936,78.3927388,17z/data=!3m1!4b1!4m6!3m5!1s0x397447ef45a617ed:0xa6637f1cb8b4eaf1!8m2!3d27.1572936!4d78.3927388!16s%2Fg%2F11g1vmjj2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1761,7 +1775,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/cosmo+dental+speciality+clinic/@27.1572936,78.3927388,17z/data=!3m1!4b1!4m6!3m5!1s0x397447ef45a617ed:0xa6637f1cb8b4eaf1!8m2!3d27.1572936!4d78.3927388!16s%2Fg%2F11g1vmjj2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "d-tipe-helth-sentar-firozabad",
@@ -1809,7 +1824,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/D+Tipe+Helth+Sentar/@27.15508,78.406233,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a21d5111fd:0x9a3fde448eb7e094!8m2!3d27.15508!4d78.406233!16s%2Fg%2F11f_knjypc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D+Tipe+Helth+Sentar/@27.15508,78.406233,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a21d5111fd:0x9a3fde448eb7e094!8m2!3d27.15508!4d78.406233!16s%2Fg%2F11f_knjypc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1875,10 +1890,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/D+Tipe+Helth+Sentar/@27.15508,78.406233,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a21d5111fd:0x9a3fde448eb7e094!8m2!3d27.15508!4d78.406233!16s%2Fg%2F11f_knjypc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-craft-skin-aesthetics-clinic-firozabad",
@@ -1926,7 +1942,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Craft+Skin+Aesthetics+Clinic/@27.1565916,78.3959306,17z/data=!3m1!4b1!4m6!3m5!1s0x397445e9f0d9ac71:0xe5e97f3b7e130711!8m2!3d27.1565916!4d78.3959306!16s%2Fg%2F11w4lnyz8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Craft+Skin+Aesthetics+Clinic/@27.1565916,78.3959306,17z/data=!3m1!4b1!4m6!3m5!1s0x397445e9f0d9ac71:0xe5e97f3b7e130711!8m2!3d27.1565916!4d78.3959306!16s%2Fg%2F11w4lnyz8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1992,10 +2008,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Craft+Skin+Aesthetics+Clinic/@27.1565916,78.3959306,17z/data=!3m1!4b1!4m6!3m5!1s0x397445e9f0d9ac71:0xe5e97f3b7e130711!8m2!3d27.1565916!4d78.3959306!16s%2Fg%2F11w4lnyz8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-health-care-center-firozabad",
@@ -2043,7 +2060,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Health+Care+Center/@27.1602721,78.3846744,17z/data=!3m1!4b1!4m6!3m5!1s0x397444000ea97785:0x52956218662a85e2!8m2!3d27.1602721!4d78.3846744!16s%2Fg%2F11b5ytc456?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Health+Care+Center/@27.1602721,78.3846744,17z/data=!3m1!4b1!4m6!3m5!1s0x397444000ea97785:0x52956218662a85e2!8m2!3d27.1602721!4d78.3846744!16s%2Fg%2F11b5ytc456?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2112,7 +2129,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Health+Care+Center/@27.1602721,78.3846744,17z/data=!3m1!4b1!4m6!3m5!1s0x397444000ea97785:0x52956218662a85e2!8m2!3d27.1602721!4d78.3846744!16s%2Fg%2F11b5ytc456?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-surgery-clinic-and-implant-center-firozabad",
@@ -2160,7 +2178,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/DENTAL+SURGERY+CLINIC+%26+IMPLANT+CENTER/@27.1580993,78.3925544,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a9b4747b93:0xe685a1b55c438dbc!8m2!3d27.1580993!4d78.3925544!16s%2Fg%2F11c380fnqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTAL+SURGERY+CLINIC+%26+IMPLANT+CENTER/@27.1580993,78.3925544,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a9b4747b93:0xe685a1b55c438dbc!8m2!3d27.1580993!4d78.3925544!16s%2Fg%2F11c380fnqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2229,7 +2247,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENTAL+SURGERY+CLINIC+%26+IMPLANT+CENTER/@27.1580993,78.3925544,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a9b4747b93:0xe685a1b55c438dbc!8m2!3d27.1580993!4d78.3925544!16s%2Fg%2F11c380fnqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhruv-eye-care-and-optical-center-firozabad",
@@ -2278,7 +2297,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Dhruv+Eye+Care+%26+Optical+Center/@27.1598174,78.3839116,17z/data=!3m1!4b1!4m6!3m5!1s0x3974439320255c63:0x1b0084052e9a8ac8!8m2!3d27.1598174!4d78.3839116!16s%2Fg%2F11v3_wcn27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhruv+Eye+Care+%26+Optical+Center/@27.1598174,78.3839116,17z/data=!3m1!4b1!4m6!3m5!1s0x3974439320255c63:0x1b0084052e9a8ac8!8m2!3d27.1598174!4d78.3839116!16s%2Fg%2F11v3_wcn27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2347,7 +2366,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhruv+Eye+Care+%26+Optical+Center/@27.1598174,78.3839116,17z/data=!3m1!4b1!4m6!3m5!1s0x3974439320255c63:0x1b0084052e9a8ac8!8m2!3d27.1598174!4d78.3839116!16s%2Fg%2F11v3_wcn27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "diagnum-healthcare-diagnostic-lab-and-blood-test-centre-in-firozabad-firozabad",
@@ -2397,7 +2417,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Diagnum+Healthcare+%E2%80%93+Diagnostic+Lab+%26+Blood+Test+Centre+in+Firozabad/@27.1606972,78.402014,17z/data=!3m1!4b1!4m6!3m5!1s0x39744530b92524b5:0x75d3979c44f4d7a8!8m2!3d27.1606972!4d78.402014!16s%2Fg%2F11mzd6t84g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diagnum+Healthcare+%E2%80%93+Diagnostic+Lab+%26+Blood+Test+Centre+in+Firozabad/@27.1606972,78.402014,17z/data=!3m1!4b1!4m6!3m5!1s0x39744530b92524b5:0x75d3979c44f4d7a8!8m2!3d27.1606972!4d78.402014!16s%2Fg%2F11mzd6t84g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2466,7 +2486,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Diagnum+Healthcare+%E2%80%93+Diagnostic+Lab+%26+Blood+Test+Centre+in+Firozabad/@27.1606972,78.402014,17z/data=!3m1!4b1!4m6!3m5!1s0x39744530b92524b5:0x75d3979c44f4d7a8!8m2!3d27.1606972!4d78.402014!16s%2Fg%2F11mzd6t84g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dolly-clinic-firozabad",
@@ -2514,7 +2535,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dolly+Clinic/@27.157567,78.3790092,17z/data=!3m1!4b1!4m6!3m5!1s0x39744155e4217787:0x5490f1c717d74c35!8m2!3d27.157567!4d78.3790092!16s%2Fg%2F11bbw_wf2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dolly+Clinic/@27.157567,78.3790092,17z/data=!3m1!4b1!4m6!3m5!1s0x39744155e4217787:0x5490f1c717d74c35!8m2!3d27.157567!4d78.3790092!16s%2Fg%2F11bbw_wf2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2580,10 +2601,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dolly+Clinic/@27.157567,78.3790092,17z/data=!3m1!4b1!4m6!3m5!1s0x39744155e4217787:0x5490f1c717d74c35!8m2!3d27.157567!4d78.3790092!16s%2Fg%2F11bbw_wf2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dr-amit-kumar-firozabad",
@@ -2629,7 +2651,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Dr'+Amit+Kumar/@27.1331008,78.3892141,17z/data=!3m1!4b1!4m6!3m5!1s0x3974476ce2243695:0x74c3f725776e14b5!8m2!3d27.1331008!4d78.3892141!16s%2Fg%2F11s74qwhcm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dr'+Amit+Kumar/@27.1331008,78.3892141,17z/data=!3m1!4b1!4m6!3m5!1s0x3974476ce2243695:0x74c3f725776e14b5!8m2!3d27.1331008!4d78.3892141!16s%2Fg%2F11s74qwhcm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2695,10 +2717,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dr'+Amit+Kumar/@27.1331008,78.3892141,17z/data=!3m1!4b1!4m6!3m5!1s0x3974476ce2243695:0x74c3f725776e14b5!8m2!3d27.1331008!4d78.3892141!16s%2Fg%2F11s74qwhcm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dristi-eye-care-centre-best-eye-care-centre-in-firozabad-firozabad",
@@ -2748,7 +2771,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dristi+Eye+Care+Centre+-+Best+Eye+Care+Centre+in+Firozabad/@27.1590172,78.383554,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a5dda21063:0x88960c6a78d13b8c!8m2!3d27.1590172!4d78.383554!16s%2Fg%2F11b5ysg1md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dristi+Eye+Care+Centre+-+Best+Eye+Care+Centre+in+Firozabad/@27.1590172,78.383554,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a5dda21063:0x88960c6a78d13b8c!8m2!3d27.1590172!4d78.383554!16s%2Fg%2F11b5ysg1md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2817,7 +2840,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dristi+Eye+Care+Centre+-+Best+Eye+Care+Centre+in+Firozabad/@27.1590172,78.383554,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a5dda21063:0x88960c6a78d13b8c!8m2!3d27.1590172!4d78.383554!16s%2Fg%2F11b5ysg1md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dudeja-eye-center-firozabad",
@@ -2866,7 +2890,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Dudeja+Eye+Center/data=!4m7!3m6!1s0x397446af2ae58365:0x70957fc9bc0370dd!8m2!3d27.1538618!4d78.3929276!16s%2Fg%2F11b5yvnwl8!19sChIJZYPlKq9GdDkR3XADvMl_lXA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dudeja+Eye+Center/data=!4m7!3m6!1s0x397446af2ae58365:0x70957fc9bc0370dd!8m2!3d27.1538618!4d78.3929276!16s%2Fg%2F11b5yvnwl8!19sChIJZYPlKq9GdDkR3XADvMl_lXA?authuser=0&hl=en&rclk=1"
@@ -2935,7 +2959,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dudeja+Eye+Center/data=!4m7!3m6!1s0x397446af2ae58365:0x70957fc9bc0370dd!8m2!3d27.1538618!4d78.3929276!16s%2Fg%2F11b5yvnwl8!19sChIJZYPlKq9GdDkR3XADvMl_lXA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "firozabad-firozabad",
@@ -2984,7 +3009,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://www.google.com/maps/place/Firozabad/@27.1514896,78.4062623,17z/data=!3m1!4b1!4m6!3m5!1s0x3974477b885ea7c7:0x752e3a9c52a54642!8m2!3d27.1514896!4d78.4062623!16s%2Fg%2F11ks2ndjjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Firozabad/@27.1514896,78.4062623,17z/data=!3m1!4b1!4m6!3m5!1s0x3974477b885ea7c7:0x752e3a9c52a54642!8m2!3d27.1514896!4d78.4062623!16s%2Fg%2F11ks2ndjjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3053,7 +3078,8 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Firozabad/@27.1514896,78.4062623,17z/data=!3m1!4b1!4m6!3m5!1s0x3974477b885ea7c7:0x752e3a9c52a54642!8m2!3d27.1514896!4d78.4062623!16s%2Fg%2F11ks2ndjjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "flora-eye-care-firozabad",
@@ -3102,7 +3128,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Flora+Eye+Care/@27.1607827,78.3826838,17z/data=!3m1!4b1!4m6!3m5!1s0x39744380f9642e27:0x6c5485a3fd6d6f08!8m2!3d27.1607827!4d78.3826838!16s%2Fg%2F11nnvttwgd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Flora+Eye+Care/@27.1607827,78.3826838,17z/data=!3m1!4b1!4m6!3m5!1s0x39744380f9642e27:0x6c5485a3fd6d6f08!8m2!3d27.1607827!4d78.3826838!16s%2Fg%2F11nnvttwgd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3171,7 +3197,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Flora+Eye+Care/@27.1607827,78.3826838,17z/data=!3m1!4b1!4m6!3m5!1s0x39744380f9642e27:0x6c5485a3fd6d6f08!8m2!3d27.1607827!4d78.3826838!16s%2Fg%2F11nnvttwgd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ganesh-diagnostic-and-imaging-centre-firozabad",
@@ -3221,7 +3248,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ganesh+Diagnostic+%26+Imaging+Centre/@27.15334,78.397501,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a5c42531f9:0x6eeefaf2383115d!8m2!3d27.15334!4d78.397501!16s%2Fg%2F11b5yw85mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganesh+Diagnostic+%26+Imaging+Centre/@27.15334,78.397501,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a5c42531f9:0x6eeefaf2383115d!8m2!3d27.15334!4d78.397501!16s%2Fg%2F11b5yw85mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3290,7 +3317,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ganesh+Diagnostic+%26+Imaging+Centre/@27.15334,78.397501,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a5c42531f9:0x6eeefaf2383115d!8m2!3d27.15334!4d78.397501!16s%2Fg%2F11b5yw85mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-hospital-firozabad-firozabad",
@@ -3338,7 +3366,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Government+Hospital+Firozabad/@27.1583264,78.3896391,17z/data=!3m1!4b1!4m6!3m5!1s0x397447ff0a9d33c5:0xb858e014a0c66a56!8m2!3d27.1583264!4d78.3896391!16s%2Fg%2F11h2cl6k96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Hospital+Firozabad/@27.1583264,78.3896391,17z/data=!3m1!4b1!4m6!3m5!1s0x397447ff0a9d33c5:0xb858e014a0c66a56!8m2!3d27.1583264!4d78.3896391!16s%2Fg%2F11h2cl6k96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3407,7 +3435,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Hospital+Firozabad/@27.1583264,78.3896391,17z/data=!3m1!4b1!4m6!3m5!1s0x397447ff0a9d33c5:0xb858e014a0c66a56!8m2!3d27.1583264!4d78.3896391!16s%2Fg%2F11h2cl6k96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-trauma-center-firozabad",
@@ -3455,7 +3484,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Government+trauma+center/@27.1598743,78.3864299,17z/data=!3m1!4b1!4m6!3m5!1s0x3974454cb974fc2b:0x8047095f75e2f037!8m2!3d27.1598743!4d78.3864299!16s%2Fg%2F11gj63w5n7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+trauma+center/@27.1598743,78.3864299,17z/data=!3m1!4b1!4m6!3m5!1s0x3974454cb974fc2b:0x8047095f75e2f037!8m2!3d27.1598743!4d78.3864299!16s%2Fg%2F11gj63w5n7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3524,7 +3553,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+trauma+center/@27.1598743,78.3864299,17z/data=!3m1!4b1!4m6!3m5!1s0x3974454cb974fc2b:0x8047095f75e2f037!8m2!3d27.1598743!4d78.3864299!16s%2Fg%2F11gj63w5n7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "international-eye-care-center-firozabad",
@@ -3573,7 +3603,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/International+Eye+Care+Center/@27.1605273,78.4008498,17z/data=!3m1!4b1!4m6!3m5!1s0x3974441df8bdd9e9:0x5b6e30cf83933752!8m2!3d27.1605273!4d78.4008498!16s%2Fg%2F11b5yqspbt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/International+Eye+Care+Center/@27.1605273,78.4008498,17z/data=!3m1!4b1!4m6!3m5!1s0x3974441df8bdd9e9:0x5b6e30cf83933752!8m2!3d27.1605273!4d78.4008498!16s%2Fg%2F11b5yqspbt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3642,7 +3672,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/International+Eye+Care+Center/@27.1605273,78.4008498,17z/data=!3m1!4b1!4m6!3m5!1s0x3974441df8bdd9e9:0x5b6e30cf83933752!8m2!3d27.1605273!4d78.4008498!16s%2Fg%2F11b5yqspbt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevan-dhara-hospital-firozabad",
@@ -3690,7 +3721,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Dhara+hospital/@27.1535888,78.3966645,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a5e5ffff89:0x7dbbe46fd4b0fd66!8m2!3d27.1535888!4d78.3966645!16s%2Fg%2F11b5yps0c0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Dhara+hospital/@27.1535888,78.3966645,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a5e5ffff89:0x7dbbe46fd4b0fd66!8m2!3d27.1535888!4d78.3966645!16s%2Fg%2F11b5yps0c0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3759,7 +3790,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Dhara+hospital/@27.1535888,78.3966645,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a5e5ffff89:0x7dbbe46fd4b0fd66!8m2!3d27.1535888!4d78.3966645!16s%2Fg%2F11b5yps0c0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevan-jyoti-hospital-firozabad",
@@ -3807,7 +3839,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/@27.1561045,78.3904203,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a97affdadd:0xa0578fca9bb26066!8m2!3d27.1561045!4d78.3904203!16s%2Fg%2F11b5yr5fp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/@27.1561045,78.3904203,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a97affdadd:0xa0578fca9bb26066!8m2!3d27.1561045!4d78.3904203!16s%2Fg%2F11b5yr5fp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3876,7 +3908,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/@27.1561045,78.3904203,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a97affdadd:0xa0578fca9bb26066!8m2!3d27.1561045!4d78.3904203!16s%2Fg%2F11b5yr5fp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khushi-dental-implant-and-orthodontic-clinic-best-dentist-in-firozabad-cheap-experienced-and-affordable-dentist-firozabad",
@@ -3927,7 +3960,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KHUSHI+DENTAL+,IMPLANT+AND+ORTHODONTIC+CLINIC+-+Best+Dentist+in+Firozabad+%7C+Cheap+%7C+Experienced+and+Affordable+Dentist/@27.157605,78.3874497,17z/data=!3m1!4b1!4m6!3m5!1s0x3974472ed4140a3b:0x66204c9693e92526!8m2!3d27.157605!4d78.3874497!16s%2Fg%2F11p74fbvyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KHUSHI+DENTAL+,IMPLANT+AND+ORTHODONTIC+CLINIC+-+Best+Dentist+in+Firozabad+%7C+Cheap+%7C+Experienced+and+Affordable+Dentist/@27.157605,78.3874497,17z/data=!3m1!4b1!4m6!3m5!1s0x3974472ed4140a3b:0x66204c9693e92526!8m2!3d27.157605!4d78.3874497!16s%2Fg%2F11p74fbvyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -3996,7 +4029,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KHUSHI+DENTAL+,IMPLANT+AND+ORTHODONTIC+CLINIC+-+Best+Dentist+in+Firozabad+%7C+Cheap+%7C+Experienced+and+Affordable+Dentist/@27.157605,78.3874497,17z/data=!3m1!4b1!4m6!3m5!1s0x3974472ed4140a3b:0x66204c9693e92526!8m2!3d27.157605!4d78.3874497!16s%2Fg%2F11p74fbvyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krsnaa-diagnostic-ltd-free-ct-scan-center-firozabad-government-trauma-centre-firozabad-s-n-m-district-hospital-and-tb-sanatorioum",
@@ -4046,7 +4080,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Krsnaa+Diagnostic+LTD+Free+CT+Scan+Center+Firozabad/@27.1591961,78.3957331,17z/data=!3m1!4b1!4m6!3m5!1s0x397447a928a9cbf1:0xc3f98577416c6942!8m2!3d27.1591961!4d78.3957331!16s%2Fg%2F11spzm7cqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krsnaa+Diagnostic+LTD+Free+CT+Scan+Center+Firozabad/@27.1591961,78.3957331,17z/data=!3m1!4b1!4m6!3m5!1s0x397447a928a9cbf1:0xc3f98577416c6942!8m2!3d27.1591961!4d78.3957331!16s%2Fg%2F11spzm7cqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4115,7 +4149,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krsnaa+Diagnostic+LTD+Free+CT+Scan+Center+Firozabad/@27.1591961,78.3957331,17z/data=!3m1!4b1!4m6!3m5!1s0x397447a928a9cbf1:0xc3f98577416c6942!8m2!3d27.1591961!4d78.3957331!16s%2Fg%2F11spzm7cqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "laser-dental-clinic-firozabad",
@@ -4163,7 +4198,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://www.google.com/maps/place/Laser+Dental+Clinic/@27.1577249,78.3996712,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a71ee02b63:0x1960e851c2207912!8m2!3d27.1577249!4d78.3996712!16s%2Fg%2F11g9ms9ljc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laser+Dental+Clinic/@27.1577249,78.3996712,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a71ee02b63:0x1960e851c2207912!8m2!3d27.1577249!4d78.3996712!16s%2Fg%2F11g9ms9ljc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4232,7 +4267,8 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laser+Dental+Clinic/@27.1577249,78.3996712,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a71ee02b63:0x1960e851c2207912!8m2!3d27.1577249!4d78.3996712!16s%2Fg%2F11g9ms9ljc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "laxmi-hospital-firozabad",
@@ -4280,7 +4316,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Laxmi+Hospital/@27.1554486,78.4061556,17z/data=!3m1!4b1!4m6!3m5!1s0x3974470005213211:0x4bd3bc460a01ffb4!8m2!3d27.1554486!4d78.4061556!16s%2Fg%2F11wq7m1q27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmi+Hospital/@27.1554486,78.4061556,17z/data=!3m1!4b1!4m6!3m5!1s0x3974470005213211:0x4bd3bc460a01ffb4!8m2!3d27.1554486!4d78.4061556!16s%2Fg%2F11wq7m1q27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4349,7 +4385,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laxmi+Hospital/@27.1554486,78.4061556,17z/data=!3m1!4b1!4m6!3m5!1s0x3974470005213211:0x4bd3bc460a01ffb4!8m2!3d27.1554486!4d78.4061556!16s%2Fg%2F11wq7m1q27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-line-hospital-firozabad",
@@ -4397,7 +4434,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Life+line+hospital/@27.1566475,78.386208,17z/data=!3m1!4b1!4m6!3m5!1s0x397447ed7e3329bf:0x9f856f890d638cb8!8m2!3d27.1566475!4d78.386208!16s%2Fg%2F11j2y8knx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+line+hospital/@27.1566475,78.386208,17z/data=!3m1!4b1!4m6!3m5!1s0x397447ed7e3329bf:0x9f856f890d638cb8!8m2!3d27.1566475!4d78.386208!16s%2Fg%2F11j2y8knx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4466,7 +4503,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+line+hospital/@27.1566475,78.386208,17z/data=!3m1!4b1!4m6!3m5!1s0x397447ed7e3329bf:0x9f856f890d638cb8!8m2!3d27.1566475!4d78.386208!16s%2Fg%2F11j2y8knx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manglam-dental-care-firozabad",
@@ -4514,7 +4552,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Manglam+Dental+Care/@27.1585797,78.3942887,17z/data=!3m1!4b1!4m6!3m5!1s0x3974477eec73b03b:0x1abef8256cab4b3e!8m2!3d27.1585797!4d78.3942887!16s%2Fg%2F11z2lp2c76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manglam+Dental+Care/@27.1585797,78.3942887,17z/data=!3m1!4b1!4m6!3m5!1s0x3974477eec73b03b:0x1abef8256cab4b3e!8m2!3d27.1585797!4d78.3942887!16s%2Fg%2F11z2lp2c76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4580,10 +4618,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manglam+Dental+Care/@27.1585797,78.3942887,17z/data=!3m1!4b1!4m6!3m5!1s0x3974477eec73b03b:0x1abef8256cab4b3e!8m2!3d27.1585797!4d78.3942887!16s%2Fg%2F11z2lp2c76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manglam-orthocare-centre-firozabad",
@@ -4632,7 +4671,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Manglam+Orthocare+Centre/@27.1535557,78.3969606,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a5e8110be5:0x7866f8262fdafc17!8m2!3d27.1535557!4d78.3969606!16s%2Fg%2F11b5yh18hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manglam+Orthocare+Centre/@27.1535557,78.3969606,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a5e8110be5:0x7866f8262fdafc17!8m2!3d27.1535557!4d78.3969606!16s%2Fg%2F11b5yh18hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4701,7 +4740,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manglam+Orthocare+Centre/@27.1535557,78.3969606,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a5e8110be5:0x7866f8262fdafc17!8m2!3d27.1535557!4d78.3969606!16s%2Fg%2F11b5yh18hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manjula-hospital-firozabad",
@@ -4747,7 +4787,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Manjula+Hospital/@27.1711855,78.4040691,17z/data=!3m1!4b1!4m6!3m5!1s0x39744419cb44eb05:0x5041694bea96f700!8m2!3d27.1711855!4d78.4040691!16s%2Fg%2F11bbw__dk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manjula+Hospital/@27.1711855,78.4040691,17z/data=!3m1!4b1!4m6!3m5!1s0x39744419cb44eb05:0x5041694bea96f700!8m2!3d27.1711855!4d78.4040691!16s%2Fg%2F11bbw__dk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4813,10 +4853,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manjula+Hospital/@27.1711855,78.4040691,17z/data=!3m1!4b1!4m6!3m5!1s0x39744419cb44eb05:0x5041694bea96f700!8m2!3d27.1711855!4d78.4040691!16s%2Fg%2F11bbw__dk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medicity-hospital-firozabad",
@@ -4862,7 +4903,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/MEDICITY+HOSPITAL/@27.1556691,78.4056685,17z/data=!3m1!4b1!4m6!3m5!1s0x39744700083bc415:0x4c5cfab3af6605b5!8m2!3d27.1556691!4d78.4056685!16s%2Fg%2F11ybrw3mr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEDICITY+HOSPITAL/@27.1556691,78.4056685,17z/data=!3m1!4b1!4m6!3m5!1s0x39744700083bc415:0x4c5cfab3af6605b5!8m2!3d27.1556691!4d78.4056685!16s%2Fg%2F11ybrw3mr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4928,10 +4969,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MEDICITY+HOSPITAL/@27.1556691,78.4056685,17z/data=!3m1!4b1!4m6!3m5!1s0x39744700083bc415:0x4c5cfab3af6605b5!8m2!3d27.1556691!4d78.4056685!16s%2Fg%2F11ybrw3mr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mini-care-hospital-firozabad",
@@ -4979,7 +5021,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mini_Care_Hospital/@27.174779,78.3992589,17z/data=!3m1!4b1!4m6!3m5!1s0x39744500453ce62b:0xd23fbc0ce6e5ab9a!8m2!3d27.174779!4d78.3992589!16s%2Fg%2F11ynsxq4b5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mini_Care_Hospital/@27.174779,78.3992589,17z/data=!3m1!4b1!4m6!3m5!1s0x39744500453ce62b:0xd23fbc0ce6e5ab9a!8m2!3d27.174779!4d78.3992589!16s%2Fg%2F11ynsxq4b5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5045,10 +5087,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mini_Care_Hospital/@27.174779,78.3992589,17z/data=!3m1!4b1!4m6!3m5!1s0x39744500453ce62b:0xd23fbc0ce6e5ab9a!8m2!3d27.174779!4d78.3992589!16s%2Fg%2F11ynsxq4b5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ms-cosmetic-dental-clinic-subash-chauraha-near-jain-temple",
@@ -5096,7 +5139,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/MS+Cosmetic+Dental+Clinic/@27.1580254,78.381029,17z/data=!3m1!4b1!4m6!3m5!1s0x397441559ca7a075:0x851637d7d995d453!8m2!3d27.1580254!4d78.381029!16s%2Fg%2F11bw5m99fx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MS+Cosmetic+Dental+Clinic/@27.1580254,78.381029,17z/data=!3m1!4b1!4m6!3m5!1s0x397441559ca7a075:0x851637d7d995d453!8m2!3d27.1580254!4d78.381029!16s%2Fg%2F11bw5m99fx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5165,7 +5208,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MS+Cosmetic+Dental+Clinic/@27.1580254,78.381029,17z/data=!3m1!4b1!4m6!3m5!1s0x397441559ca7a075:0x851637d7d995d453!8m2!3d27.1580254!4d78.381029!16s%2Fg%2F11bw5m99fx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "narayan-clinic-firozabad",
@@ -5213,7 +5257,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Narayan+Clinic/@27.1578102,78.3796142,17z/data=!3m1!4b1!4m6!3m5!1s0x39744108fd201e5b:0x31bfe60cf21c9938!8m2!3d27.1578102!4d78.3796142!16s%2Fg%2F11tj9lld8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narayan+Clinic/@27.1578102,78.3796142,17z/data=!3m1!4b1!4m6!3m5!1s0x39744108fd201e5b:0x31bfe60cf21c9938!8m2!3d27.1578102!4d78.3796142!16s%2Fg%2F11tj9lld8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5279,10 +5323,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Narayan+Clinic/@27.1578102,78.3796142,17z/data=!3m1!4b1!4m6!3m5!1s0x39744108fd201e5b:0x31bfe60cf21c9938!8m2!3d27.1578102!4d78.3796142!16s%2Fg%2F11tj9lld8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "naved-hospital-firozabad",
@@ -5330,7 +5375,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Naved+Hospital/@27.1463566,78.404049,17z/data=!3m1!4b1!4m6!3m5!1s0x397447ee49d7cfe1:0xdf05e733eafb5d14!8m2!3d27.1463566!4d78.404049!16s%2Fg%2F11f8h8r1xy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naved+Hospital/@27.1463566,78.404049,17z/data=!3m1!4b1!4m6!3m5!1s0x397447ee49d7cfe1:0xdf05e733eafb5d14!8m2!3d27.1463566!4d78.404049!16s%2Fg%2F11f8h8r1xy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5399,7 +5444,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Naved+Hospital/@27.1463566,78.404049,17z/data=!3m1!4b1!4m6!3m5!1s0x397447ee49d7cfe1:0xdf05e733eafb5d14!8m2!3d27.1463566!4d78.404049!16s%2Fg%2F11f8h8r1xy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-zafar-medical-firozabad",
@@ -5445,7 +5491,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/New+Zafar+Medical/@27.1522422,78.4108211,17z/data=!3m1!4b1!4m6!3m5!1s0x39744699754a838b:0x2d9b06311963da22!8m2!3d27.1522422!4d78.4108211!16s%2Fg%2F11f5btk6ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Zafar+Medical/@27.1522422,78.4108211,17z/data=!3m1!4b1!4m6!3m5!1s0x39744699754a838b:0x2d9b06311963da22!8m2!3d27.1522422!4d78.4108211!16s%2Fg%2F11f5btk6ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5511,10 +5557,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Zafar+Medical/@27.1522422,78.4108211,17z/data=!3m1!4b1!4m6!3m5!1s0x39744699754a838b:0x2d9b06311963da22!8m2!3d27.1522422!4d78.4108211!16s%2Fg%2F11f5btk6ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "om-hospital-and-research-centre-firozabad",
@@ -5562,7 +5609,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Om+Hospital+and+Research+Centre+%E0%A4%93%E0%A4%AE+%E0%A4%B9%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/@27.1492691,78.3874273,17z/data=!3m1!4b1!4m6!3m5!1s0x397446ad9fbb16fb:0xa8a09463a06c2943!8m2!3d27.1492691!4d78.3874273!16s%2Fg%2F1hhhq4s99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Hospital+and+Research+Centre+%E0%A4%93%E0%A4%AE+%E0%A4%B9%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/@27.1492691,78.3874273,17z/data=!3m1!4b1!4m6!3m5!1s0x397446ad9fbb16fb:0xa8a09463a06c2943!8m2!3d27.1492691!4d78.3874273!16s%2Fg%2F1hhhq4s99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5631,7 +5678,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Om+Hospital+and+Research+Centre+%E0%A4%93%E0%A4%AE+%E0%A4%B9%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/@27.1492691,78.3874273,17z/data=!3m1!4b1!4m6!3m5!1s0x397446ad9fbb16fb:0xa8a09463a06c2943!8m2!3d27.1492691!4d78.3874273!16s%2Fg%2F1hhhq4s99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "omma-healthcare-firozabad",
@@ -5680,7 +5728,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Omma+Healthcare/@27.1635687,78.3856676,17z/data=!3m1!4b1!4m6!3m5!1s0x3974458d5700ac8b:0xc77927e047cbe30c!8m2!3d27.1635687!4d78.3856676!16s%2Fg%2F11syr1yr1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Omma+Healthcare/@27.1635687,78.3856676,17z/data=!3m1!4b1!4m6!3m5!1s0x3974458d5700ac8b:0xc77927e047cbe30c!8m2!3d27.1635687!4d78.3856676!16s%2Fg%2F11syr1yr1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5749,7 +5797,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Omma+Healthcare/@27.1635687,78.3856676,17z/data=!3m1!4b1!4m6!3m5!1s0x3974458d5700ac8b:0xc77927e047cbe30c!8m2!3d27.1635687!4d78.3856676!16s%2Fg%2F11syr1yr1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pathkind-labs-firozabad",
@@ -5799,7 +5848,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pathkind+Labs/@27.1605888,78.4003979,17z/data=!3m1!4b1!4m6!3m5!1s0x397445e18369155d:0x1a739dc22ce445c8!8m2!3d27.1605888!4d78.4003979!16s%2Fg%2F11q581kbpg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pathkind+Labs/@27.1605888,78.4003979,17z/data=!3m1!4b1!4m6!3m5!1s0x397445e18369155d:0x1a739dc22ce445c8!8m2!3d27.1605888!4d78.4003979!16s%2Fg%2F11q581kbpg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5865,10 +5914,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pathkind+Labs/@27.1605888,78.4003979,17z/data=!3m1!4b1!4m6!3m5!1s0x397445e18369155d:0x1a739dc22ce445c8!8m2!3d27.1605888!4d78.4003979!16s%2Fg%2F11q581kbpg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "r-v-memorial-cardiac-care-firozabad-firozabad",
@@ -5917,7 +5967,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/R+V+memorial+Cardiac+Care+Firozabad/@27.1597238,78.3852545,17z/data=!3m1!4b1!4m6!3m5!1s0x3974436ca36ab1a9:0x7edb07da9df32950!8m2!3d27.1597238!4d78.3852545!16s%2Fg%2F11wj3kpx3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+V+memorial+Cardiac+Care+Firozabad/@27.1597238,78.3852545,17z/data=!3m1!4b1!4m6!3m5!1s0x3974436ca36ab1a9:0x7edb07da9df32950!8m2!3d27.1597238!4d78.3852545!16s%2Fg%2F11wj3kpx3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5983,10 +6033,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R+V+memorial+Cardiac+Care+Firozabad/@27.1597238,78.3852545,17z/data=!3m1!4b1!4m6!3m5!1s0x3974436ca36ab1a9:0x7edb07da9df32950!8m2!3d27.1597238!4d78.3852545!16s%2Fg%2F11wj3kpx3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raj-chest-clinic-firozabad",
@@ -6035,7 +6086,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Raj+Chest+Clinic/@27.155274,78.39169,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a93e64b89d:0x739271fbd6b2a335!8m2!3d27.155274!4d78.39169!16s%2Fg%2F11b5yx7p1q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raj+Chest+Clinic/@27.155274,78.39169,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a93e64b89d:0x739271fbd6b2a335!8m2!3d27.155274!4d78.39169!16s%2Fg%2F11b5yx7p1q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6101,10 +6152,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raj+Chest+Clinic/@27.155274,78.39169,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a93e64b89d:0x739271fbd6b2a335!8m2!3d27.155274!4d78.39169!16s%2Fg%2F11b5yx7p1q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raj-hospital-firozabad",
@@ -6152,7 +6204,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/raj+hospital/@27.141136,78.4186286,17z/data=!3m1!4b1!4m6!3m5!1s0x3974468d7c666077:0x5b000fa7bbc305ec!8m2!3d27.141136!4d78.4186286!16s%2Fg%2F11ggqz5vfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/raj+hospital/@27.141136,78.4186286,17z/data=!3m1!4b1!4m6!3m5!1s0x3974468d7c666077:0x5b000fa7bbc305ec!8m2!3d27.141136!4d78.4186286!16s%2Fg%2F11ggqz5vfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6218,10 +6270,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/raj+hospital/@27.141136,78.4186286,17z/data=!3m1!4b1!4m6!3m5!1s0x3974468d7c666077:0x5b000fa7bbc305ec!8m2!3d27.141136!4d78.4186286!16s%2Fg%2F11ggqz5vfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rama-darshan-nursing-and-maternity-home-firozabad",
@@ -6269,7 +6322,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rama+Darshan+Nursing+%26+Maternity+Home/@27.1602997,78.3826651,17z/data=!3m1!4b1!4m6!3m5!1s0x397443ffc04ce5b5:0xde62a70ec5415f11!8m2!3d27.1602997!4d78.3826651!16s%2Fg%2F11b5yjv_44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rama+Darshan+Nursing+%26+Maternity+Home/@27.1602997,78.3826651,17z/data=!3m1!4b1!4m6!3m5!1s0x397443ffc04ce5b5:0xde62a70ec5415f11!8m2!3d27.1602997!4d78.3826651!16s%2Fg%2F11b5yjv_44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6335,10 +6388,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rama+Darshan+Nursing+%26+Maternity+Home/@27.1602997,78.3826651,17z/data=!3m1!4b1!4m6!3m5!1s0x397443ffc04ce5b5:0xde62a70ec5415f11!8m2!3d27.1602997!4d78.3826651!16s%2Fg%2F11b5yjv_44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rdm-ent-centre-firozabad",
@@ -6386,7 +6440,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/RDM+ENT+Centre/@27.1575545,78.3959503,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a7d6ae167d:0x1e67a0774667e2ac!8m2!3d27.1575545!4d78.3959503!16s%2Fg%2F11b5yph59b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RDM+ENT+Centre/@27.1575545,78.3959503,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a7d6ae167d:0x1e67a0774667e2ac!8m2!3d27.1575545!4d78.3959503!16s%2Fg%2F11b5yph59b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6455,7 +6509,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RDM+ENT+Centre/@27.1575545,78.3959503,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a7d6ae167d:0x1e67a0774667e2ac!8m2!3d27.1575545!4d78.3959503!16s%2Fg%2F11b5yph59b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rotary-physiotherapy-centre-firozabad",
@@ -6504,7 +6559,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rotary+physiotherapy+centre/@27.1600727,78.3847695,17z/data=!3m1!4b1!4m6!3m5!1s0x3974438120ad63bd:0x28469ba623efece6!8m2!3d27.1600727!4d78.3847695!16s%2Fg%2F11sjrjchss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rotary+physiotherapy+centre/@27.1600727,78.3847695,17z/data=!3m1!4b1!4m6!3m5!1s0x3974438120ad63bd:0x28469ba623efece6!8m2!3d27.1600727!4d78.3847695!16s%2Fg%2F11sjrjchss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6570,10 +6625,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rotary+physiotherapy+centre/@27.1600727,78.3847695,17z/data=!3m1!4b1!4m6!3m5!1s0x3974438120ad63bd:0x28469ba623efece6!8m2!3d27.1600727!4d78.3847695!16s%2Fg%2F11sjrjchss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-n-m-hospital-and-t-b-sanatorium-firozabad",
@@ -6621,7 +6677,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/S+N+M+Hospital+%26+T+B+Sanatorium/@27.1582876,78.3895384,17z/data=!3m1!4b1!4m6!3m5!1s0x397446aa1c973193:0x4982d0a3f3577170!8m2!3d27.1582876!4d78.3895384!16s%2Fg%2F1tf_ftl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+N+M+Hospital+%26+T+B+Sanatorium/@27.1582876,78.3895384,17z/data=!3m1!4b1!4m6!3m5!1s0x397446aa1c973193:0x4982d0a3f3577170!8m2!3d27.1582876!4d78.3895384!16s%2Fg%2F1tf_ftl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -6690,7 +6746,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+N+M+Hospital+%26+T+B+Sanatorium/@27.1582876,78.3895384,17z/data=!3m1!4b1!4m6!3m5!1s0x397446aa1c973193:0x4982d0a3f3577170!8m2!3d27.1582876!4d78.3895384!16s%2Fg%2F1tf_ftl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-s-health-care-and-ano-rectal-clinic-firozabad",
@@ -6736,7 +6793,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/S+S+Health+Care+%26+Ano+Rectal+Clinic/@27.1439033,78.3874736,17z/data=!3m1!4b1!4m6!3m5!1s0x39744700129a627d:0xe7651f04c0e25a11!8m2!3d27.1439033!4d78.3874736!16s%2Fg%2F11vrg7r7l5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+S+Health+Care+%26+Ano+Rectal+Clinic/@27.1439033,78.3874736,17z/data=!3m1!4b1!4m6!3m5!1s0x39744700129a627d:0xe7651f04c0e25a11!8m2!3d27.1439033!4d78.3874736!16s%2Fg%2F11vrg7r7l5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6802,10 +6859,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+S+Health+Care+%26+Ano+Rectal+Clinic/@27.1439033,78.3874736,17z/data=!3m1!4b1!4m6!3m5!1s0x39744700129a627d:0xe7651f04c0e25a11!8m2!3d27.1439033!4d78.3874736!16s%2Fg%2F11vrg7r7l5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-s-health-care-and-ano-rectal-clinic-firozabad",
@@ -6853,7 +6911,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/S+S+Health+Care+%26+Ano-Rectal+Clinic/@27.1483722,78.3924139,17z/data=!3m1!4b1!4m6!3m5!1s0x397446ae2bc9ef4b:0x393f390bacb69cff!8m2!3d27.1483722!4d78.3924139!16s%2Fg%2F11tn5k72wx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+S+Health+Care+%26+Ano-Rectal+Clinic/@27.1483722,78.3924139,17z/data=!3m1!4b1!4m6!3m5!1s0x397446ae2bc9ef4b:0x393f390bacb69cff!8m2!3d27.1483722!4d78.3924139!16s%2Fg%2F11tn5k72wx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6919,10 +6977,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+S+Health+Care+%26+Ano-Rectal+Clinic/@27.1483722,78.3924139,17z/data=!3m1!4b1!4m6!3m5!1s0x397446ae2bc9ef4b:0x393f390bacb69cff!8m2!3d27.1483722!4d78.3924139!16s%2Fg%2F11tn5k72wx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-dental-clinic-and-implant-centre-sankatmochan-hanuman-mandir-ke-saamne",
@@ -6970,7 +7029,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Dental+Clinic+and+Implant+Centre/@27.1545118,78.3913544,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a937e0cb7b:0x2e96ef3984f71669!8m2!3d27.1545118!4d78.3913544!16s%2Fg%2F11bbw_s_bg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Dental+Clinic+and+Implant+Centre/@27.1545118,78.3913544,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a937e0cb7b:0x2e96ef3984f71669!8m2!3d27.1545118!4d78.3913544!16s%2Fg%2F11bbw_s_bg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7039,7 +7098,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Dental+Clinic+and+Implant+Centre/@27.1545118,78.3913544,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a937e0cb7b:0x2e96ef3984f71669!8m2!3d27.1545118!4d78.3913544!16s%2Fg%2F11bbw_s_bg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjeevani-hospital-firozabad",
@@ -7087,7 +7147,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeevani+hospital/@27.2993375,78.357484,17z/data=!3m1!4b1!4m6!3m5!1s0x39745de0ba9dc4e9:0xcdd1d1f07afa12c1!8m2!3d27.2993375!4d78.357484!16s%2Fg%2F11h5qpzl69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+hospital/@27.2993375,78.357484,17z/data=!3m1!4b1!4m6!3m5!1s0x39745de0ba9dc4e9:0xcdd1d1f07afa12c1!8m2!3d27.2993375!4d78.357484!16s%2Fg%2F11h5qpzl69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7156,7 +7216,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeevani+hospital/@27.2993375,78.357484,17z/data=!3m1!4b1!4m6!3m5!1s0x39745de0ba9dc4e9:0xcdd1d1f07afa12c1!8m2!3d27.2993375!4d78.357484!16s%2Fg%2F11h5qpzl69?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjeevni-hospital-thakur-teetu-singh-and-yogesh-kumar-firozabad",
@@ -7204,7 +7265,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeevni+Hospital+Thakur+Teetu+Singh+And+Yogesh+Kumar/@27.1651212,78.3949233,17z/data=!3m1!4b1!4m6!3m5!1s0x3974459e2da2dc57:0x314e133a39bdbad3!8m2!3d27.1651212!4d78.3949233!16s%2Fg%2F11g19q_d2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevni+Hospital+Thakur+Teetu+Singh+And+Yogesh+Kumar/@27.1651212,78.3949233,17z/data=!3m1!4b1!4m6!3m5!1s0x3974459e2da2dc57:0x314e133a39bdbad3!8m2!3d27.1651212!4d78.3949233!16s%2Fg%2F11g19q_d2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7270,10 +7331,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeevni+Hospital+Thakur+Teetu+Singh+And+Yogesh+Kumar/@27.1651212,78.3949233,17z/data=!3m1!4b1!4m6!3m5!1s0x3974459e2da2dc57:0x314e133a39bdbad3!8m2!3d27.1651212!4d78.3949233!16s%2Fg%2F11g19q_d2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saraswat-hospital-plastic-cosmetic-and-hair-transplant-surgery-centre-agra",
@@ -7322,7 +7384,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Saraswat+Hospital+-+Plastic,+Cosmetic+%26+Hair+Transplant+surgery+centre./@27.2056492,77.9453648,17z/data=!3m1!4b1!4m6!3m5!1s0x397477f22e436ab1:0x800327ccfbe2938!8m2!3d27.2056492!4d77.9453648!16s%2Fg%2F1thw0kvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saraswat+Hospital+-+Plastic,+Cosmetic+%26+Hair+Transplant+surgery+centre./@27.2056492,77.9453648,17z/data=!3m1!4b1!4m6!3m5!1s0x397477f22e436ab1:0x800327ccfbe2938!8m2!3d27.2056492!4d77.9453648!16s%2Fg%2F1thw0kvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7391,7 +7453,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saraswat+Hospital+-+Plastic,+Cosmetic+%26+Hair+Transplant+surgery+centre./@27.2056492,77.9453648,17z/data=!3m1!4b1!4m6!3m5!1s0x397477f22e436ab1:0x800327ccfbe2938!8m2!3d27.2056492!4d77.9453648!16s%2Fg%2F1thw0kvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "seeds-of-innocens-centre-ivf-centre-in-firozabad-firozabad",
@@ -7438,7 +7501,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Seeds+of+Innocens+Centre+%7C+IVF+Centre+In+Firozabad/@27.1603603,78.3832851,17z/data=!3m1!4b1!4m6!3m5!1s0x397443c5bb28f25d:0x21f562dc083136c5!8m2!3d27.1603603!4d78.3832851!16s%2Fg%2F11ycdj9j96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seeds+of+Innocens+Centre+%7C+IVF+Centre+In+Firozabad/@27.1603603,78.3832851,17z/data=!3m1!4b1!4m6!3m5!1s0x397443c5bb28f25d:0x21f562dc083136c5!8m2!3d27.1603603!4d78.3832851!16s%2Fg%2F11ycdj9j96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7504,10 +7567,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seeds+of+Innocens+Centre+%7C+IVF+Centre+In+Firozabad/@27.1603603,78.3832851,17z/data=!3m1!4b1!4m6!3m5!1s0x397443c5bb28f25d:0x21f562dc083136c5!8m2!3d27.1603603!4d78.3832851!16s%2Fg%2F11ycdj9j96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sevarth-sanstha-seth-bimal-kumar-jain-trauma-and-physiotherapy-dharmarth-samiti-firozabad",
@@ -7556,7 +7620,7 @@
       "Google rating 2.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sevarth+Sanstha+Seth+Bimal+Kumar+Jain+Trauma+%26+Physiotherapy+Dharmarth+Samiti/@27.1595235,78.3857493,17z/data=!3m1!4b1!4m6!3m5!1s0x39744400220771ed:0x2dc1a8acc13cd69d!8m2!3d27.1595235!4d78.3857493!16s%2Fg%2F1q62hznft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sevarth+Sanstha+Seth+Bimal+Kumar+Jain+Trauma+%26+Physiotherapy+Dharmarth+Samiti/@27.1595235,78.3857493,17z/data=!3m1!4b1!4m6!3m5!1s0x39744400220771ed:0x2dc1a8acc13cd69d!8m2!3d27.1595235!4d78.3857493!16s%2Fg%2F1q62hznft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7625,7 +7689,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sevarth+Sanstha+Seth+Bimal+Kumar+Jain+Trauma+%26+Physiotherapy+Dharmarth+Samiti/@27.1595235,78.3857493,17z/data=!3m1!4b1!4m6!3m5!1s0x39744400220771ed:0x2dc1a8acc13cd69d!8m2!3d27.1595235!4d78.3857493!16s%2Fg%2F1q62hznft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sevarth-sansthan-cancer-hospital-and-trauma-centre-tundla",
@@ -7674,7 +7739,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sevarth+Sansthan+Cancer+Hospital+and+Trauma+Centre/@27.2192617,78.2749637,17z/data=!3m1!4b1!4m6!3m5!1s0x397469000e114ffb:0x5e730f3bb50ae2c6!8m2!3d27.2192617!4d78.2749637!16s%2Fg%2F11lp1p3qvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sevarth+Sansthan+Cancer+Hospital+and+Trauma+Centre/@27.2192617,78.2749637,17z/data=!3m1!4b1!4m6!3m5!1s0x397469000e114ffb:0x5e730f3bb50ae2c6!8m2!3d27.2192617!4d78.2749637!16s%2Fg%2F11lp1p3qvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7743,7 +7808,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sevarth+Sansthan+Cancer+Hospital+and+Trauma+Centre/@27.2192617,78.2749637,17z/data=!3m1!4b1!4m6!3m5!1s0x397469000e114ffb:0x5e730f3bb50ae2c6!8m2!3d27.2192617!4d78.2749637!16s%2Fg%2F11lp1p3qvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shakun-dental-clinic-bada-bazar",
@@ -7791,7 +7857,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shakun+Dental+Clinic/@27.1052738,78.584842,17z/data=!3m1!4b1!4m6!3m5!1s0x39744b955c03fbad:0x448979785071431e!8m2!3d27.1052738!4d78.584842!16s%2Fg%2F11j0vyzn_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shakun+Dental+Clinic/@27.1052738,78.584842,17z/data=!3m1!4b1!4m6!3m5!1s0x39744b955c03fbad:0x448979785071431e!8m2!3d27.1052738!4d78.584842!16s%2Fg%2F11j0vyzn_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7857,10 +7923,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shakun+Dental+Clinic/@27.1052738,78.584842,17z/data=!3m1!4b1!4m6!3m5!1s0x39744b955c03fbad:0x448979785071431e!8m2!3d27.1052738!4d78.584842!16s%2Fg%2F11j0vyzn_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shanvi-ivf-center-firozabad",
@@ -7909,7 +7976,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shanvi+IVF+Center/@27.1985863,78.4178294,17z/data=!3m1!4b1!4m6!3m5!1s0x397445999e89640b:0x39376222bc88059c!8m2!3d27.1985863!4d78.4178294!16s%2Fg%2F11nc7g9p7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanvi+IVF+Center/@27.1985863,78.4178294,17z/data=!3m1!4b1!4m6!3m5!1s0x397445999e89640b:0x39376222bc88059c!8m2!3d27.1985863!4d78.4178294!16s%2Fg%2F11nc7g9p7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7975,10 +8042,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanvi+IVF+Center/@27.1985863,78.4178294,17z/data=!3m1!4b1!4m6!3m5!1s0x397445999e89640b:0x39376222bc88059c!8m2!3d27.1985863!4d78.4178294!16s%2Fg%2F11nc7g9p7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivi-chest-care-clinic-firozabad",
@@ -8026,7 +8094,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shivi+chest+care+clinic/@27.1588071,78.3857472,17z/data=!3m1!4b1!4m6!3m5!1s0x39744735c672e311:0xfeca9243824c4767!8m2!3d27.1588071!4d78.3857472!16s%2Fg%2F11sp94vkkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivi+chest+care+clinic/@27.1588071,78.3857472,17z/data=!3m1!4b1!4m6!3m5!1s0x39744735c672e311:0xfeca9243824c4767!8m2!3d27.1588071!4d78.3857472!16s%2Fg%2F11sp94vkkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8095,7 +8163,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivi+chest+care+clinic/@27.1588071,78.3857472,17z/data=!3m1!4b1!4m6!3m5!1s0x39744735c672e311:0xfeca9243824c4767!8m2!3d27.1588071!4d78.3857472!16s%2Fg%2F11sp94vkkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-r-v-s-pushpa-devi-hospital-firozabad",
@@ -8143,7 +8212,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shri+R.V.S.+PUSHPA+DEVI+HOSPITAL/@27.1591426,78.3857641,17z/data=!3m1!4b1!4m6!3m5!1s0x3974472b578092ab:0x3eab6e8c17322c30!8m2!3d27.1591426!4d78.3857641!16s%2Fg%2F11gr46_k3s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+R.V.S.+PUSHPA+DEVI+HOSPITAL/@27.1591426,78.3857641,17z/data=!3m1!4b1!4m6!3m5!1s0x3974472b578092ab:0x3eab6e8c17322c30!8m2!3d27.1591426!4d78.3857641!16s%2Fg%2F11gr46_k3s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8209,10 +8278,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+R.V.S.+PUSHPA+DEVI+HOSPITAL/@27.1591426,78.3857641,17z/data=!3m1!4b1!4m6!3m5!1s0x3974472b578092ab:0x3eab6e8c17322c30!8m2!3d27.1591426!4d78.3857641!16s%2Fg%2F11gr46_k3s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "singh-clinic-firozabad",
@@ -8260,7 +8330,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://www.google.com/maps/place/Singh+Clinic/@27.156205,78.3902762,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a97b8a2bc5:0x20f690c62fd4c31f!8m2!3d27.156205!4d78.3902762!16s%2Fg%2F11b5ymchtn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singh+Clinic/@27.156205,78.3902762,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a97b8a2bc5:0x20f690c62fd4c31f!8m2!3d27.156205!4d78.3902762!16s%2Fg%2F11b5ymchtn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8326,10 +8396,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Singh+Clinic/@27.156205,78.3902762,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a97b8a2bc5:0x20f690c62fd4c31f!8m2!3d27.156205!4d78.3902762!16s%2Fg%2F11b5ymchtn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spine-physiotherapy-clinic-firozabads-firozabad",
@@ -8379,7 +8450,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Spine+Physiotherapy+clinic,+Firozabads/@27.1589553,78.4114107,17z/data=!3m1!4b1!4m6!3m5!1s0x397447289932653d:0xd5efba2005005a72!8m2!3d27.1589553!4d78.4114107!16s%2Fg%2F11h53vyq7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spine+Physiotherapy+clinic,+Firozabads/@27.1589553,78.4114107,17z/data=!3m1!4b1!4m6!3m5!1s0x397447289932653d:0xd5efba2005005a72!8m2!3d27.1589553!4d78.4114107!16s%2Fg%2F11h53vyq7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8448,7 +8519,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spine+Physiotherapy+clinic,+Firozabads/@27.1589553,78.4114107,17z/data=!3m1!4b1!4m6!3m5!1s0x397447289932653d:0xd5efba2005005a72!8m2!3d27.1589553!4d78.4114107!16s%2Fg%2F11h53vyq7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ssb-cancer-centre-firozabad",
@@ -8496,7 +8568,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SSB+CANCER+CENTRE/@27.1591289,78.3862447,17z/data=!3m1!4b1!4m6!3m5!1s0x397446aa9d16aaab:0x61d01a1ef88ddf37!8m2!3d27.1591289!4d78.3862447!16s%2Fg%2F11kqzv70jl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SSB+CANCER+CENTRE/@27.1591289,78.3862447,17z/data=!3m1!4b1!4m6!3m5!1s0x397446aa9d16aaab:0x61d01a1ef88ddf37!8m2!3d27.1591289!4d78.3862447!16s%2Fg%2F11kqzv70jl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8562,10 +8634,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SSB+CANCER+CENTRE/@27.1591289,78.3862447,17z/data=!3m1!4b1!4m6!3m5!1s0x397446aa9d16aaab:0x61d01a1ef88ddf37!8m2!3d27.1591289!4d78.3862447!16s%2Fg%2F11kqzv70jl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tandon-dental-care-centre-between",
@@ -8613,7 +8686,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Tandon+Dental+Care+Centre/@27.1585266,78.3929522,17z/data=!3m1!4b1!4m6!3m5!1s0x397447f4ef55bb9b:0xb29f74b5a828ed39!8m2!3d27.1585266!4d78.3929522!16s%2Fg%2F11ry99420w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tandon+Dental+Care+Centre/@27.1585266,78.3929522,17z/data=!3m1!4b1!4m6!3m5!1s0x397447f4ef55bb9b:0xb29f74b5a828ed39!8m2!3d27.1585266!4d78.3929522!16s%2Fg%2F11ry99420w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8682,7 +8755,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tandon+Dental+Care+Centre/@27.1585266,78.3929522,17z/data=!3m1!4b1!4m6!3m5!1s0x397447f4ef55bb9b:0xb29f74b5a828ed39!8m2!3d27.1585266!4d78.3929522!16s%2Fg%2F11ry99420w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "touch-and-glow-best-makeup-artist-in-firozabad-best-parlour-in-firozabad-best-bridal-makeup-artist-in-firozabad-firozabad",
@@ -8732,7 +8806,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Touch+%26+Glow+-+Best+Makeup+Artist+in+Firozabad,+Best+Parlour+in+Firozabad,+Best+Bridal+Makeup+Artist+in+Firozabad/@27.1518449,78.3940682,17z/data=!3m1!4b1!4m6!3m5!1s0x397447dde390936f:0xedf31b555bb1fc67!8m2!3d27.1518449!4d78.3940682!16s%2Fg%2F11lmlw309y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Touch+%26+Glow+-+Best+Makeup+Artist+in+Firozabad,+Best+Parlour+in+Firozabad,+Best+Bridal+Makeup+Artist+in+Firozabad/@27.1518449,78.3940682,17z/data=!3m1!4b1!4m6!3m5!1s0x397447dde390936f:0xedf31b555bb1fc67!8m2!3d27.1518449!4d78.3940682!16s%2Fg%2F11lmlw309y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8801,7 +8875,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Touch+%26+Glow+-+Best+Makeup+Artist+in+Firozabad,+Best+Parlour+in+Firozabad,+Best+Bridal+Makeup+Artist+in+Firozabad/@27.1518449,78.3940682,17z/data=!3m1!4b1!4m6!3m5!1s0x397447dde390936f:0xedf31b555bb1fc67!8m2!3d27.1518449!4d78.3940682!16s%2Fg%2F11lmlw309y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "upadhyay-hospital-firozabad",
@@ -8849,7 +8924,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Upadhyay+Hospital/@27.1545288,78.3784312,17z/data=!3m1!4b1!4m6!3m5!1s0x397441569e6bbb5f:0x4316be9ba09ade07!8m2!3d27.1545288!4d78.3784312!16s%2Fg%2F11bbx0slbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Upadhyay+Hospital/@27.1545288,78.3784312,17z/data=!3m1!4b1!4m6!3m5!1s0x397441569e6bbb5f:0x4316be9ba09ade07!8m2!3d27.1545288!4d78.3784312!16s%2Fg%2F11bbx0slbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -8918,7 +8993,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Upadhyay+Hospital/@27.1545288,78.3784312,17z/data=!3m1!4b1!4m6!3m5!1s0x397441569e6bbb5f:0x4316be9ba09ade07!8m2!3d27.1545288!4d78.3784312!16s%2Fg%2F11bbx0slbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "usha-nursing-home-firozabad",
@@ -8967,7 +9043,7 @@
       "Google rating 2.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Usha+Nursing+Home/@27.1578683,78.4046072,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a1b208be25:0xecbf9790b4fd7e0f!8m2!3d27.1578683!4d78.4046072!16s%2Fg%2F11hyn8b2ml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Usha+Nursing+Home/@27.1578683,78.4046072,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a1b208be25:0xecbf9790b4fd7e0f!8m2!3d27.1578683!4d78.4046072!16s%2Fg%2F11hyn8b2ml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -9033,10 +9109,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 2.0,
+    "rating": 2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Usha+Nursing+Home/@27.1578683,78.4046072,17z/data=!3m1!4b1!4m6!3m5!1s0x397446a1b208be25:0xecbf9790b4fd7e0f!8m2!3d27.1578683!4d78.4046072!16s%2Fg%2F11hyn8b2ml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "v-k-dental-care-firozabad",
@@ -9085,7 +9162,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/V.+K.+Dental+Care/@27.1489068,78.3995174,17z/data=!3m1!4b1!4m6!3m5!1s0x397447dd1fb1b4c9:0xc94c1c9e6384ae4c!8m2!3d27.1489068!4d78.3995174!16s%2Fg%2F11g04d8981?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V.+K.+Dental+Care/@27.1489068,78.3995174,17z/data=!3m1!4b1!4m6!3m5!1s0x397447dd1fb1b4c9:0xc94c1c9e6384ae4c!8m2!3d27.1489068!4d78.3995174!16s%2Fg%2F11g04d8981?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -9151,10 +9228,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/V.+K.+Dental+Care/@27.1489068,78.3995174,17z/data=!3m1!4b1!4m6!3m5!1s0x397447dd1fb1b4c9:0xc94c1c9e6384ae4c!8m2!3d27.1489068!4d78.3995174!16s%2Fg%2F11g04d8981?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vaidya-sonpal-singh-clinic-established-since-1971-firozabad",
@@ -9202,7 +9280,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Vaidya+Sonpal+Singh+Clinic+Established+Since+1971/@27.1561305,78.3829788,17z/data=!3m1!4b1!4m6!3m5!1s0x3974412cd042b767:0xee4fa5116f3c859e!8m2!3d27.1561305!4d78.3829788!16s%2Fg%2F11fk8ysn1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaidya+Sonpal+Singh+Clinic+Established+Since+1971/@27.1561305,78.3829788,17z/data=!3m1!4b1!4m6!3m5!1s0x3974412cd042b767:0xee4fa5116f3c859e!8m2!3d27.1561305!4d78.3829788!16s%2Fg%2F11fk8ysn1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -9271,7 +9349,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vaidya+Sonpal+Singh+Clinic+Established+Since+1971/@27.1561305,78.3829788,17z/data=!3m1!4b1!4m6!3m5!1s0x3974412cd042b767:0xee4fa5116f3c859e!8m2!3d27.1561305!4d78.3829788!16s%2Fg%2F11fk8ysn1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "virendr-s-medical-firozabad",
@@ -9320,7 +9399,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Virendr's+Medical/@27.1683759,78.3977799,17z/data=!3m1!4b1!4m6!3m5!1s0x3974458402f10ce3:0x38af513c3f22c40e!8m2!3d27.1683759!4d78.3977799!16s%2Fg%2F11lszqb0c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Virendr's+Medical/@27.1683759,78.3977799,17z/data=!3m1!4b1!4m6!3m5!1s0x3974458402f10ce3:0x38af513c3f22c40e!8m2!3d27.1683759!4d78.3977799!16s%2Fg%2F11lszqb0c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9386,10 +9465,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Virendr's+Medical/@27.1683759,78.3977799,17z/data=!3m1!4b1!4m6!3m5!1s0x3974458402f10ce3:0x38af513c3f22c40e!8m2!3d27.1683759!4d78.3977799!16s%2Fg%2F11lszqb0c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "firozabad",
@@ -9435,7 +9515,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%86%E0%A4%AF%E0%A5%81%E0%A4%B7+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@27.1787838,78.4067531,17z/data=!3m1!4b1!4m6!3m5!1s0x39744415f924111f:0xbbaa2458f084f4d2!8m2!3d27.1787838!4d78.4067531!16s%2Fg%2F11wj9l0dr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%86%E0%A4%AF%E0%A5%81%E0%A4%B7+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@27.1787838,78.4067531,17z/data=!3m1!4b1!4m6!3m5!1s0x39744415f924111f:0xbbaa2458f084f4d2!8m2!3d27.1787838!4d78.4067531!16s%2Fg%2F11wj9l0dr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9501,9 +9581,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%86%E0%A4%AF%E0%A5%81%E0%A4%B7+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@27.1787838,78.4067531,17z/data=!3m1!4b1!4m6!3m5!1s0x39744415f924111f:0xbbaa2458f084f4d2!8m2!3d27.1787838!4d78.4067531!16s%2Fg%2F11wj9l0dr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMi4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

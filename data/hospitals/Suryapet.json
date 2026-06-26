@@ -46,7 +46,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/JK+Multicare+Hospital/@17.1465181,79.6236936,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db33e0892513:0xccfb7d78825d9c05!8m2!3d17.1465181!4d79.6236936!16s%2Fg%2F11rc7mkc6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JK+Multicare+Hospital/@17.1465181,79.6236936,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db33e0892513:0xccfb7d78825d9c05!8m2!3d17.1465181!4d79.6236936!16s%2Fg%2F11rc7mkc6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JK+Multicare+Hospital/@17.1465181,79.6236936,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db33e0892513:0xccfb7d78825d9c05!8m2!3d17.1465181!4d79.6236936!16s%2Fg%2F11rc7mkc6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "konnect-diagnostic-center-suryapet-suryapet",
@@ -165,7 +166,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Konnect+Diagnostic+Center,+Suryapet/@17.1485205,79.6230623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db429bc3c1eb:0xf9b8e6eac7286f40!8m2!3d17.1485205!4d79.6230623!16s%2Fg%2F11nmt52pd0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Konnect+Diagnostic+Center,+Suryapet/@17.1485205,79.6230623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db429bc3c1eb:0xf9b8e6eac7286f40!8m2!3d17.1485205!4d79.6230623!16s%2Fg%2F11nmt52pd0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -234,7 +235,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Konnect+Diagnostic+Center,+Suryapet/@17.1485205,79.6230623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db429bc3c1eb:0xf9b8e6eac7286f40!8m2!3d17.1485205!4d79.6230623!16s%2Fg%2F11nmt52pd0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "metro-hospital-suryapet",
@@ -282,7 +284,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Metro+Hospital/data=!4m7!3m6!1s0x3a34dbbcf860c923:0x6e88f016bb97a10e!8m2!3d17.1494262!4d79.6242825!16s%2Fg%2F11c1w131v1!19sChIJI8lg-LzbNDoRDqGXuxbwiG4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metro+Hospital/data=!4m7!3m6!1s0x3a34dbbcf860c923:0x6e88f016bb97a10e!8m2!3d17.1494262!4d79.6242825!16s%2Fg%2F11c1w131v1!19sChIJI8lg-LzbNDoRDqGXuxbwiG4?authuser=0&hl=en&rclk=1"
@@ -351,7 +353,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metro+Hospital/data=!4m7!3m6!1s0x3a34dbbcf860c923:0x6e88f016bb97a10e!8m2!3d17.1494262!4d79.6242825!16s%2Fg%2F11c1w131v1!19sChIJI8lg-LzbNDoRDqGXuxbwiG4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "om-hospitals-suryapet",
@@ -400,7 +403,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/OM+HOSPITALS/data=!4m7!3m6!1s0x3a34dbfb647c72df:0xeb959cf01511192b!8m2!3d17.1480628!4d79.6222651!16s%2Fg%2F11hzm9y1rs!19sChIJ33J8ZPvbNDoRKxkRFfCcles?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OM+HOSPITALS/data=!4m7!3m6!1s0x3a34dbfb647c72df:0xeb959cf01511192b!8m2!3d17.1480628!4d79.6222651!16s%2Fg%2F11hzm9y1rs!19sChIJ33J8ZPvbNDoRKxkRFfCcles?authuser=0&hl=en&rclk=1"
@@ -469,7 +472,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OM+HOSPITALS/data=!4m7!3m6!1s0x3a34dbfb647c72df:0xeb959cf01511192b!8m2!3d17.1480628!4d79.6222651!16s%2Fg%2F11hzm9y1rs!19sChIJ33J8ZPvbNDoRKxkRFfCcles?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-chest-hospital-general-and-surgical-care-centre-suryapet",
@@ -517,7 +521,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SHREE+chest+hospital%28+general+and+surgical+care+centre+%29/data=!4m7!3m6!1s0x3a34db0520ab03d3:0x84ca048f68e94ff4!8m2!3d17.1496818!4d79.6234063!16s%2Fg%2F11rtls6m3x!19sChIJ0wOrIAXbNDoR9E_paI8EyoQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+chest+hospital%28+general+and+surgical+care+centre+%29/data=!4m7!3m6!1s0x3a34db0520ab03d3:0x84ca048f68e94ff4!8m2!3d17.1496818!4d79.6234063!16s%2Fg%2F11rtls6m3x!19sChIJ0wOrIAXbNDoR9E_paI8EyoQ?authuser=0&hl=en&rclk=1"
@@ -586,7 +590,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHREE+chest+hospital%28+general+and+surgical+care+centre+%29/data=!4m7!3m6!1s0x3a34db0520ab03d3:0x84ca048f68e94ff4!8m2!3d17.1496818!4d79.6234063!16s%2Fg%2F11rtls6m3x!19sChIJ0wOrIAXbNDoR9E_paI8EyoQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "viswas-hospital-and-scans-suryapet",
@@ -634,7 +639,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Viswas+hospital+and+scans/data=!4m7!3m6!1s0x3a34dba9327f5269:0x1b59222b8e3f4e40!8m2!3d17.1467717!4d79.6208288!16s%2Fg%2F11g2wwvk2y!19sChIJaVJ_MqnbNDoRQE4_jisiWRs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Viswas+hospital+and+scans/data=!4m7!3m6!1s0x3a34dba9327f5269:0x1b59222b8e3f4e40!8m2!3d17.1467717!4d79.6208288!16s%2Fg%2F11g2wwvk2y!19sChIJaVJ_MqnbNDoRQE4_jisiWRs?authuser=0&hl=en&rclk=1"
@@ -703,6 +708,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Viswas+hospital+and+scans/data=!4m7!3m6!1s0x3a34dba9327f5269:0x1b59222b8e3f4e40!8m2!3d17.1467717!4d79.6208288!16s%2Fg%2F11g2wwvk2y!19sChIJaVJ_MqnbNDoRQE4_jisiWRs?authuser=0&hl=en&rclk=1"
   }
 ]

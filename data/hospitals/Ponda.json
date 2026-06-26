@@ -46,7 +46,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/32+pearls+Dental+clinic/@15.4011047,74.0033039,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb746bb2eee9:0xdccbc305ac04b4a4!8m2!3d15.4011047!4d74.0033039!16s%2Fg%2F11ry5h2gck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+pearls+Dental+clinic/@15.4011047,74.0033039,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb746bb2eee9:0xdccbc305ac04b4a4!8m2!3d15.4011047!4d74.0033039!16s%2Fg%2F11ry5h2gck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -112,10 +112,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/32+pearls+Dental+clinic/@15.4011047,74.0033039,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb746bb2eee9:0xdccbc305ac04b4a4!8m2!3d15.4011047!4d74.0033039!16s%2Fg%2F11ry5h2gck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "a-v-da-costa-memorial-clinic-madgaon",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/A.+V.+Da+Costa+Memorial+Clinic/@15.2906708,73.9610118,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb160f4ce1e57:0xd8eab723a7d359c6!8m2!3d15.2906708!4d73.9610118!16s%2Fg%2F1tg_vjpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A.+V.+Da+Costa+Memorial+Clinic/@15.2906708,73.9610118,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb160f4ce1e57:0xd8eab723a7d359c6!8m2!3d15.2906708!4d73.9610118!16s%2Fg%2F1tg_vjpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -232,7 +233,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A.+V.+Da+Costa+Memorial+Clinic/@15.2906708,73.9610118,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb160f4ce1e57:0xd8eab723a7d359c6!8m2!3d15.2906708!4d73.9610118!16s%2Fg%2F1tg_vjpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "abhayam-ayurved-ponda",
@@ -281,7 +283,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ABHAYAM+AYURVED/@15.3981141,74.0038241,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabc4e1f3ef9:0xadce6c56688f17a6!8m2!3d15.3981141!4d74.0038241!16s%2Fg%2F11gbxf8g95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ABHAYAM+AYURVED/@15.3981141,74.0038241,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabc4e1f3ef9:0xadce6c56688f17a6!8m2!3d15.3981141!4d74.0038241!16s%2Fg%2F11gbxf8g95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -350,7 +352,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ABHAYAM+AYURVED/@15.3981141,74.0038241,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabc4e1f3ef9:0xadce6c56688f17a6!8m2!3d15.3981141!4d74.0038241!16s%2Fg%2F11gbxf8g95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advance-dental-and-cosmetic-clinic-ponda",
@@ -398,7 +401,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Advance+Dental+and+Cosmetic+Clinic/@15.4032586,74.0092113,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb47d6c7c925:0x3655522000ed7651!8m2!3d15.4032586!4d74.0092113!16s%2Fg%2F11h269prcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Dental+and+Cosmetic+Clinic/@15.4032586,74.0092113,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb47d6c7c925:0x3655522000ed7651!8m2!3d15.4032586!4d74.0092113!16s%2Fg%2F11h269prcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -467,7 +470,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+Dental+and+Cosmetic+Clinic/@15.4032586,74.0092113,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb47d6c7c925:0x3655522000ed7651!8m2!3d15.4032586!4d74.0092113!16s%2Fg%2F11h269prcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anew-cosmetic-clinic-in-goa-skin-and-hair-laser-clinic-plastic-surgery-dental-clinic-anjuna",
@@ -516,7 +520,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Anew+Cosmetic+Clinic+In+Goa+-+Skin+%26+Hair+%7C+Laser+Clinic+%7C+Plastic+Surgery+%7C+Dental+Clinic/@15.5862827,73.7425515,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfe9ed31b5a52f:0xbb5212a657369795!8m2!3d15.5862827!4d73.7425515!16s%2Fg%2F11hzw5qy6b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anew+Cosmetic+Clinic+In+Goa+-+Skin+%26+Hair+%7C+Laser+Clinic+%7C+Plastic+Surgery+%7C+Dental+Clinic/@15.5862827,73.7425515,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfe9ed31b5a52f:0xbb5212a657369795!8m2!3d15.5862827!4d73.7425515!16s%2Fg%2F11hzw5qy6b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -585,7 +589,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anew+Cosmetic+Clinic+In+Goa+-+Skin+%26+Hair+%7C+Laser+Clinic+%7C+Plastic+Surgery+%7C+Dental+Clinic/@15.5862827,73.7425515,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfe9ed31b5a52f:0xbb5212a657369795!8m2!3d15.5862827!4d73.7425515!16s%2Fg%2F11hzw5qy6b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ann-dental-clinic-ponda",
@@ -634,7 +639,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/ANN+DENTAL+CLINIC/@15.4015147,74.0115198,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabeda25143f:0xb088be1aa618cb92!8m2!3d15.4015147!4d74.0115198!16s%2Fg%2F11kbbsfv9r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANN+DENTAL+CLINIC/@15.4015147,74.0115198,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabeda25143f:0xb088be1aa618cb92!8m2!3d15.4015147!4d74.0115198!16s%2Fg%2F11kbbsfv9r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -703,7 +708,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ANN+DENTAL+CLINIC/@15.4015147,74.0115198,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabeda25143f:0xb088be1aa618cb92!8m2!3d15.4015147!4d74.0115198!16s%2Fg%2F11kbbsfv9r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-dialysis-clinic-chicalim-goa-chicalim",
@@ -753,7 +759,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Chicalim,+Goa/@15.3948628,73.8369744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc78db9bbda47:0xfe52fd0bfb069f14!8m2!3d15.3948628!4d73.8369744!16s%2Fg%2F11xdk5_3tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Chicalim,+Goa/@15.3948628,73.8369744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc78db9bbda47:0xfe52fd0bfb069f14!8m2!3d15.3948628!4d73.8369744!16s%2Fg%2F11xdk5_3tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -819,10 +825,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Dialysis+Clinic+-+Chicalim,+Goa/@15.3948628,73.8369744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc78db9bbda47:0xfe52fd0bfb069f14!8m2!3d15.3948628!4d73.8369744!16s%2Fg%2F11xdk5_3tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "asg-eye-hospital-panaji-panaji",
@@ -871,7 +878,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Panaji/@15.467003,73.80651,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18eb9e8da21:0xa614340b72124073!8m2!3d15.467003!4d73.80651!16s%2Fg%2F11nx17mvws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Panaji/@15.467003,73.80651,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18eb9e8da21:0xa614340b72124073!8m2!3d15.467003!4d73.80651!16s%2Fg%2F11nx17mvws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -940,7 +947,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Panaji/@15.467003,73.80651,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18eb9e8da21:0xa614340b72124073!8m2!3d15.467003!4d73.80651!16s%2Fg%2F11nx17mvws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashirwad-urology-and-laparoscopy-hospital-best-urology-hospital-in-margao-madgaon",
@@ -989,7 +997,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ashirwad+Urology+and+Laparoscopy+hospital-+best+urology+hospital+in+margao/@15.2706106,73.964545,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c1579ebe27:0xae8062ac3553ca47!8m2!3d15.2706106!4d73.964545!16s%2Fg%2F11cmg6gnyr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashirwad+Urology+and+Laparoscopy+hospital-+best+urology+hospital+in+margao/@15.2706106,73.964545,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c1579ebe27:0xae8062ac3553ca47!8m2!3d15.2706106!4d73.964545!16s%2Fg%2F11cmg6gnyr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1058,7 +1066,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashirwad+Urology+and+Laparoscopy+hospital-+best+urology+hospital+in+margao/@15.2706106,73.964545,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c1579ebe27:0xae8062ac3553ca47!8m2!3d15.2706106!4d73.964545!16s%2Fg%2F11cmg6gnyr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aster-hospital-madgaon",
@@ -1107,7 +1116,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aster+Hospital/data=!4m7!3m6!1s0x3bbfb3ddc6a66fc3:0x76fae81493bff940!8m2!3d15.2807455!4d73.9615317!16s%2Fg%2F11cp7p9wkt!19sChIJw2-mxt2zvzsRQPm_kxTo-nY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aster+Hospital/data=!4m7!3m6!1s0x3bbfb3ddc6a66fc3:0x76fae81493bff940!8m2!3d15.2807455!4d73.9615317!16s%2Fg%2F11cp7p9wkt!19sChIJw2-mxt2zvzsRQPm_kxTo-nY?authuser=0&hl=en&rclk=1"
@@ -1176,7 +1185,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aster+Hospital/data=!4m7!3m6!1s0x3bbfb3ddc6a66fc3:0x76fae81493bff940!8m2!3d15.2807455!4d73.9615317!16s%2Fg%2F11cp7p9wkt!19sChIJw2-mxt2zvzsRQPm_kxTo-nY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ayurveda-clinic-ponda",
@@ -1224,7 +1234,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Ayurveda+clinic/@15.4010009,74.0056779,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbcbdd10c58f:0x4267cf35395e5bea!8m2!3d15.4010009!4d74.0056779!16s%2Fg%2F11frjh1wph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayurveda+clinic/@15.4010009,74.0056779,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbcbdd10c58f:0x4267cf35395e5bea!8m2!3d15.4010009!4d74.0056779!16s%2Fg%2F11frjh1wph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1290,10 +1300,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayurveda+clinic/@15.4010009,74.0056779,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbcbdd10c58f:0x4267cf35395e5bea!8m2!3d15.4010009!4d74.0056779!16s%2Fg%2F11frjh1wph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayurvedic-clinic-and-panchakarma-centre-ponda",
@@ -1342,7 +1353,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ayurvedic+Clinic+%26+Panchakarma+Centre/@15.400829,74.0128751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbab93667b5d1:0x1056e5d288f68ddc!8m2!3d15.400829!4d74.0128751!16s%2Fg%2F1thkvqg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayurvedic+Clinic+%26+Panchakarma+Centre/@15.400829,74.0128751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbab93667b5d1:0x1056e5d288f68ddc!8m2!3d15.400829!4d74.0128751!16s%2Fg%2F1thkvqg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1408,10 +1419,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayurvedic+Clinic+%26+Panchakarma+Centre/@15.400829,74.0128751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbab93667b5d1:0x1056e5d288f68ddc!8m2!3d15.400829!4d74.0128751!16s%2Fg%2F1thkvqg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayusiddhi-ayurvedic-clinic-and-panchakarma-centre-ponda",
@@ -1460,7 +1472,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Ayusiddhi+Ayurvedic+Clinic+And+Panchakarma+Centre/@15.4018498,74.0053991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba9576b14ff5:0xa61cfa8acd92bf21!8m2!3d15.4018498!4d74.0053991!16s%2Fg%2F11c5_6t0jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayusiddhi+Ayurvedic+Clinic+And+Panchakarma+Centre/@15.4018498,74.0053991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba9576b14ff5:0xa61cfa8acd92bf21!8m2!3d15.4018498!4d74.0053991!16s%2Fg%2F11c5_6t0jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1529,7 +1541,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayusiddhi+Ayurvedic+Clinic+And+Panchakarma+Centre/@15.4018498,74.0053991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba9576b14ff5:0xa61cfa8acd92bf21!8m2!3d15.4018498!4d74.0053991!16s%2Fg%2F11c5_6t0jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chaitanya-dental-clinic-ponda",
@@ -1577,7 +1590,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Chaitanya+dental+clinic/@15.3944693,74.0018744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb96942bf23b:0x40cf29d7abaec124!8m2!3d15.3944693!4d74.0018744!16s%2Fg%2F11g0vzckmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaitanya+dental+clinic/@15.3944693,74.0018744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb96942bf23b:0x40cf29d7abaec124!8m2!3d15.3944693!4d74.0018744!16s%2Fg%2F11g0vzckmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1646,7 +1659,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chaitanya+dental+clinic/@15.3944693,74.0018744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb96942bf23b:0x40cf29d7abaec124!8m2!3d15.3944693!4d74.0018744!16s%2Fg%2F11g0vzckmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chodankar-ortho-care-ponda",
@@ -1695,7 +1709,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Chodankar+Ortho+Care/@15.3992837,74.0085787,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb6660937cef:0x90bfef0cb42f8c58!8m2!3d15.3992837!4d74.0085787!16s%2Fg%2F11gq_yspgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chodankar+Ortho+Care/@15.3992837,74.0085787,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb6660937cef:0x90bfef0cb42f8c58!8m2!3d15.3992837!4d74.0085787!16s%2Fg%2F11gq_yspgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1761,10 +1775,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chodankar+Ortho+Care/@15.3992837,74.0085787,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb6660937cef:0x90bfef0cb42f8c58!8m2!3d15.3992837!4d74.0085787!16s%2Fg%2F11gq_yspgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "classic-hospital-madgaon",
@@ -1813,7 +1828,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Classic+Hospital/@15.269592,73.965776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6b6f12adb:0xfa0d0e4c8d9e7ff6!8m2!3d15.269592!4d73.965776!16s%2Fg%2F12hlm65hw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Classic+Hospital/@15.269592,73.965776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6b6f12adb:0xfa0d0e4c8d9e7ff6!8m2!3d15.269592!4d73.965776!16s%2Fg%2F12hlm65hw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1882,7 +1897,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Classic+Hospital/@15.269592,73.965776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6b6f12adb:0xfa0d0e4c8d9e7ff6!8m2!3d15.269592!4d73.965776!16s%2Fg%2F12hlm65hw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-home-ponda",
@@ -1930,7 +1946,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Home/@15.397479,74.0032169,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba96894a7b6d:0xf6a2656fe375f2ae!8m2!3d15.397479!4d74.0032169!16s%2Fg%2F11b6t7cr2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Home/@15.397479,74.0032169,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba96894a7b6d:0xf6a2656fe375f2ae!8m2!3d15.397479!4d74.0032169!16s%2Fg%2F11b6t7cr2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1999,7 +2015,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Home/@15.397479,74.0032169,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba96894a7b6d:0xf6a2656fe375f2ae!8m2!3d15.397479!4d74.0032169!16s%2Fg%2F11b6t7cr2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-square-ponda",
@@ -2047,7 +2064,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Square/@15.4013226,74.0109095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb2e29048c1d:0x1d868047c825253b!8m2!3d15.4013226!4d74.0109095!16s%2Fg%2F11h5s2sw6c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Square/@15.4013226,74.0109095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb2e29048c1d:0x1d868047c825253b!8m2!3d15.4013226!4d74.0109095!16s%2Fg%2F11h5s2sw6c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2113,10 +2130,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Square/@15.4013226,74.0109095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb2e29048c1d:0x1d868047c825253b!8m2!3d15.4013226!4d74.0109095!16s%2Fg%2F11h5s2sw6c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dilasa-palliative-care-centre-bandiwada",
@@ -2164,7 +2182,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/DILASA+Palliative+Care+Centre/@15.4109965,73.9916817,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb7cbee53051:0xeffdc1ff32170276!8m2!3d15.4109965!4d73.9916817!16s%2Fg%2F11fl8_j871?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DILASA+Palliative+Care+Centre/@15.4109965,73.9916817,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb7cbee53051:0xeffdc1ff32170276!8m2!3d15.4109965!4d73.9916817!16s%2Fg%2F11fl8_j871?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2233,7 +2251,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DILASA+Palliative+Care+Centre/@15.4109965,73.9916817,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb7cbee53051:0xeffdc1ff32170276!8m2!3d15.4109965!4d73.9916817!16s%2Fg%2F11fl8_j871?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "diya-skin-care-clinic-ponda",
@@ -2281,7 +2300,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Diya+Skin+Care+Clinic/@15.4010582,74.0035851,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba95ab4d12db:0x318d1c8c3ddf1bc4!8m2!3d15.4010582!4d74.0035851!16s%2Fg%2F1hm4vlzdl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diya+Skin+Care+Clinic/@15.4010582,74.0035851,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba95ab4d12db:0x318d1c8c3ddf1bc4!8m2!3d15.4010582!4d74.0035851!16s%2Fg%2F1hm4vlzdl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2350,7 +2369,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Diya+Skin+Care+Clinic/@15.4010582,74.0035851,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba95ab4d12db:0x318d1c8c3ddf1bc4!8m2!3d15.4010582!4d74.0035851!16s%2Fg%2F1hm4vlzdl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dncc-hair-transplant-skin-and-obesity-centre-panjim-panaji",
@@ -2399,7 +2419,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DNCC+Hair+Transplant,+Skin+%26+Obesity+Centre+-+Panjim/@15.4949581,73.8207821,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc08ea46efc69:0x2496ee8c9719efd9!8m2!3d15.4949581!4d73.8207821!16s%2Fg%2F11dxd2cn9k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DNCC+Hair+Transplant,+Skin+%26+Obesity+Centre+-+Panjim/@15.4949581,73.8207821,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc08ea46efc69:0x2496ee8c9719efd9!8m2!3d15.4949581!4d73.8207821!16s%2Fg%2F11dxd2cn9k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2468,7 +2488,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DNCC+Hair+Transplant,+Skin+%26+Obesity+Centre+-+Panjim/@15.4949581,73.8207821,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc08ea46efc69:0x2496ee8c9719efd9!8m2!3d15.4949581!4d73.8207821!16s%2Fg%2F11dxd2cn9k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "e3-dental-care-ponda",
@@ -2516,7 +2537,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/E3+DENTAL+CARE/@15.4047361,74.0062106,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbc08c6ada15:0xea93a7aa0c65dfc0!8m2!3d15.4047361!4d74.0062106!16s%2Fg%2F11t0rdd917?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/E3+DENTAL+CARE/@15.4047361,74.0062106,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbc08c6ada15:0xea93a7aa0c65dfc0!8m2!3d15.4047361!4d74.0062106!16s%2Fg%2F11t0rdd917?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2585,7 +2606,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/E3+DENTAL+CARE/@15.4047361,74.0062106,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbc08c6ada15:0xea93a7aa0c65dfc0!8m2!3d15.4047361!4d74.0062106!16s%2Fg%2F11t0rdd917?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "explore-dental-ct-scan-ponda",
@@ -2634,7 +2656,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Explore+Dental+CT+Scan/@15.3956501,74.0026864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb8bfe77c3ad:0x39d3f5eeef0ea79b!8m2!3d15.3956501!4d74.0026864!16s%2Fg%2F11vl0k77fc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Explore+Dental+CT+Scan/@15.3956501,74.0026864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb8bfe77c3ad:0x39d3f5eeef0ea79b!8m2!3d15.3956501!4d74.0026864!16s%2Fg%2F11vl0k77fc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2703,7 +2725,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Explore+Dental+CT+Scan/@15.3956501,74.0026864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb8bfe77c3ad:0x39d3f5eeef0ea79b!8m2!3d15.3956501!4d74.0026864!16s%2Fg%2F11vl0k77fc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "face-360-sangolda",
@@ -2752,7 +2775,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Face+360/@15.5190664,73.8290214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18a1e63225b:0xe5229b1b98553c07!8m2!3d15.5190664!4d73.8290214!16s%2Fg%2F11svsbk5cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Face+360/@15.5190664,73.8290214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18a1e63225b:0xe5229b1b98553c07!8m2!3d15.5190664!4d73.8290214!16s%2Fg%2F11svsbk5cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2821,7 +2844,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Face+360/@15.5190664,73.8290214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18a1e63225b:0xe5229b1b98553c07!8m2!3d15.5190664!4d73.8290214!16s%2Fg%2F11svsbk5cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "galaxy-hospital-mapusa-goa-mapusa",
@@ -2870,7 +2894,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Galaxy+Hospital+Mapusa+Goa/@15.6059159,73.8131328,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb19fda362a9:0xded12d6f905c6f2!8m2!3d15.6059159!4d73.8131328!16s%2Fg%2F11c60j5bpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Galaxy+Hospital+Mapusa+Goa/@15.6059159,73.8131328,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb19fda362a9:0xded12d6f905c6f2!8m2!3d15.6059159!4d73.8131328!16s%2Fg%2F11c60j5bpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2939,7 +2963,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Galaxy+Hospital+Mapusa+Goa/@15.6059159,73.8131328,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb19fda362a9:0xded12d6f905c6f2!8m2!3d15.6059159!4d73.8131328!16s%2Fg%2F11c60j5bpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goa-america-heart-foundation-trust-panaji",
@@ -2989,7 +3014,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Goa+America+Heart+Foundation+Trust/@15.4932133,73.8258383,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc091df925ce5:0x6b3cf2d1ccfe9853!8m2!3d15.4932133!4d73.8258383!16s%2Fg%2F11b6nhltcl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goa+America+Heart+Foundation+Trust/@15.4932133,73.8258383,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc091df925ce5:0x6b3cf2d1ccfe9853!8m2!3d15.4932133!4d73.8258383!16s%2Fg%2F11b6nhltcl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3055,10 +3080,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goa+America+Heart+Foundation+Trust/@15.4932133,73.8258383,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc091df925ce5:0x6b3cf2d1ccfe9853!8m2!3d15.4932133!4d73.8258383!16s%2Fg%2F11b6nhltcl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goa-medical-college-bambolim",
@@ -3107,7 +3133,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Goa+Medical+College/@15.4643263,73.8584025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbf57b548f663:0x50785c06ee0da5fc!8m2!3d15.4643263!4d73.8584025!16s%2Fm%2F04f29xp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goa+Medical+College/@15.4643263,73.8584025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbf57b548f663:0x50785c06ee0da5fc!8m2!3d15.4643263!4d73.8584025!16s%2Fm%2F04f29xp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3173,10 +3199,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goa+Medical+College/@15.4643263,73.8584025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbf57b548f663:0x50785c06ee0da5fc!8m2!3d15.4643263!4d73.8584025!16s%2Fm%2F04f29xp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goa-robotic-surgery-centre-panaji",
@@ -3225,7 +3252,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Goa+Robotic+Surgery+Centre/@15.4967374,73.8236188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1f846857447:0xb624c7b13d48d455!8m2!3d15.4967374!4d73.8236188!16s%2Fg%2F11p47sm9z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goa+Robotic+Surgery+Centre/@15.4967374,73.8236188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1f846857447:0xb624c7b13d48d455!8m2!3d15.4967374!4d73.8236188!16s%2Fg%2F11p47sm9z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3291,10 +3318,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goa+Robotic+Surgery+Centre/@15.4967374,73.8236188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1f846857447:0xb624c7b13d48d455!8m2!3d15.4967374!4d73.8236188!16s%2Fg%2F11p47sm9z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gynae-clinic-ponda",
@@ -3343,7 +3371,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Gynae+clinic/@15.4016255,74.019249,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba9454f2a857:0xfb96bbeb41ce03a4!8m2!3d15.4016255!4d74.019249!16s%2Fg%2F11bt_jtbpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gynae+clinic/@15.4016255,74.019249,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba9454f2a857:0xfb96bbeb41ce03a4!8m2!3d15.4016255!4d74.019249!16s%2Fg%2F11bt_jtbpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3412,7 +3440,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gynae+clinic/@15.4016255,74.019249,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba9454f2a857:0xfb96bbeb41ce03a4!8m2!3d15.4016255!4d74.019249!16s%2Fg%2F11bt_jtbpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hair-transplant-and-cosmetic-clinic-my-looks-care-looks-cosmetic-clinic-best-aesthetic-clinic-in-panjim-skin-clinic-panaji",
@@ -3461,7 +3490,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hair+Transplant+and+Cosmetic+Clinic+%7C+My+Looks+Care+(Looks+Cosmetic+Clinic)+%7C+Best+Aesthetic+Clinic+in+Panjim%7C+Skin+Clinic/@15.4985645,73.8240516,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc08c00f7acd1:0x1285c87c62a3b748!8m2!3d15.4985645!4d73.8240516!16s%2Fg%2F11f2rskkt6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hair+Transplant+and+Cosmetic+Clinic+%7C+My+Looks+Care+(Looks+Cosmetic+Clinic)+%7C+Best+Aesthetic+Clinic+in+Panjim%7C+Skin+Clinic/@15.4985645,73.8240516,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc08c00f7acd1:0x1285c87c62a3b748!8m2!3d15.4985645!4d73.8240516!16s%2Fg%2F11f2rskkt6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3530,7 +3559,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hair+Transplant+and+Cosmetic+Clinic+%7C+My+Looks+Care+(Looks+Cosmetic+Clinic)+%7C+Best+Aesthetic+Clinic+in+Panjim%7C+Skin+Clinic/@15.4985645,73.8240516,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc08c00f7acd1:0x1285c87c62a3b748!8m2!3d15.4985645!4d73.8240516!16s%2Fg%2F11f2rskkt6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healthway-hospital-old-goa-ella",
@@ -3579,7 +3609,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healthway+Hospital+Old+Goa/@15.4859655,73.9110423,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbec0603bc0cb:0xf20292b81bd11b89!8m2!3d15.4859655!4d73.9110423!16s%2Fg%2F11bwl0g0wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthway+Hospital+Old+Goa/@15.4859655,73.9110423,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbec0603bc0cb:0xf20292b81bd11b89!8m2!3d15.4859655!4d73.9110423!16s%2Fg%2F11bwl0g0wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3648,7 +3678,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healthway+Hospital+Old+Goa/@15.4859655,73.9110423,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbec0603bc0cb:0xf20292b81bd11b89!8m2!3d15.4859655!4d73.9110423!16s%2Fg%2F11bwl0g0wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "homeofaith-health-and-cosmetology-clinic-ponda",
@@ -3696,7 +3727,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/HOMEOFAITH+health+and+cosmetology+clinic/@15.4066865,73.9983132,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbe5df95e123:0x7aea58605d7824f7!8m2!3d15.4066865!4d73.9983132!16s%2Fg%2F11vd40c4w4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HOMEOFAITH+health+and+cosmetology+clinic/@15.4066865,73.9983132,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbe5df95e123:0x7aea58605d7824f7!8m2!3d15.4066865!4d73.9983132!16s%2Fg%2F11vd40c4w4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3765,7 +3796,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HOMEOFAITH+health+and+cosmetology+clinic/@15.4066865,73.9983132,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbe5df95e123:0x7aea58605d7824f7!8m2!3d15.4066865!4d73.9983132!16s%2Fg%2F11vd40c4w4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "horizon-icu-and-hospital-madgaon",
@@ -3814,7 +3846,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Horizon+ICU+%26+Hospital/@15.2736257,73.9629778,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c307ab23c1:0xaeea6cc1fc84ad16!8m2!3d15.2736257!4d73.9629778!16s%2Fg%2F1vfp6ndq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Horizon+ICU+%26+Hospital/@15.2736257,73.9629778,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c307ab23c1:0xaeea6cc1fc84ad16!8m2!3d15.2736257!4d73.9629778!16s%2Fg%2F1vfp6ndq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3883,7 +3915,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Horizon+ICU+%26+Hospital/@15.2736257,73.9629778,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c307ab23c1:0xaeea6cc1fc84ad16!8m2!3d15.2736257!4d73.9629778!16s%2Fg%2F1vfp6ndq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "imperial-plus-hospital-llp-madgaon",
@@ -3932,7 +3965,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/IMPERIAL+PLUS+HOSPITAL+LLP/@15.283011,73.9702344,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3cc95f6dd4f:0x319fbde9c28c0060!8m2!3d15.283011!4d73.9702344!16s%2Fg%2F11nn3vw6yh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IMPERIAL+PLUS+HOSPITAL+LLP/@15.283011,73.9702344,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3cc95f6dd4f:0x319fbde9c28c0060!8m2!3d15.283011!4d73.9702344!16s%2Fg%2F11nn3vw6yh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4001,7 +4034,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/IMPERIAL+PLUS+HOSPITAL+LLP/@15.283011,73.9702344,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3cc95f6dd4f:0x319fbde9c28c0060!8m2!3d15.283011!4d73.9702344!16s%2Fg%2F11nn3vw6yh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ivf-angels-goa-fertility-clinic-mapusa",
@@ -4051,7 +4085,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/IVF+Angels+Goa+-+Fertility+Clinic/@15.5920063,73.8121656,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb15bc9686cf:0x3d9fba43c7926b71!8m2!3d15.5920063!4d73.8121656!16s%2Fg%2F11gy3mghhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IVF+Angels+Goa+-+Fertility+Clinic/@15.5920063,73.8121656,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb15bc9686cf:0x3d9fba43c7926b71!8m2!3d15.5920063!4d73.8121656!16s%2Fg%2F11gy3mghhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4120,7 +4154,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/IVF+Angels+Goa+-+Fertility+Clinic/@15.5920063,73.8121656,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb15bc9686cf:0x3d9fba43c7926b71!8m2!3d15.5920063!4d73.8121656!16s%2Fg%2F11gy3mghhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kakodkar-hospital-ponda",
@@ -4166,7 +4201,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Kakodkar+Hospital/@15.400829,74.0128751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbab93667b5d1:0x277cc058fa48939a!8m2!3d15.400829!4d74.0128751!16s%2Fg%2F1td_x0y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kakodkar+Hospital/@15.400829,74.0128751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbab93667b5d1:0x277cc058fa48939a!8m2!3d15.400829!4d74.0128751!16s%2Fg%2F1td_x0y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4232,10 +4267,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kakodkar+Hospital/@15.400829,74.0128751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbab93667b5d1:0x277cc058fa48939a!8m2!3d15.400829!4d74.0128751!16s%2Fg%2F1td_x0y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kamakshi-dental-clinic-ponda",
@@ -4282,7 +4318,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Kamakshi+Dental+Clinic/@15.4023106,74.0052535,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb4be643374f:0xb993d18f947b0b6f!8m2!3d15.4023106!4d74.0052535!16s%2Fg%2F11y_whrkd0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamakshi+Dental+Clinic/@15.4023106,74.0052535,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb4be643374f:0xb993d18f947b0b6f!8m2!3d15.4023106!4d74.0052535!16s%2Fg%2F11y_whrkd0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4348,10 +4384,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kamakshi+Dental+Clinic/@15.4023106,74.0052535,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb4be643374f:0xb993d18f947b0b6f!8m2!3d15.4023106!4d74.0052535!16s%2Fg%2F11y_whrkd0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kamakshi-pediatric-dental-care-ponda",
@@ -4399,7 +4436,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Kamakshi+Pediatric+Dental+Care/@15.4007615,74.0045486,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbd2fc463a11:0xe42f5e320809810!8m2!3d15.4007615!4d74.0045486!16s%2Fg%2F11sc96z83v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamakshi+Pediatric+Dental+Care/@15.4007615,74.0045486,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbd2fc463a11:0xe42f5e320809810!8m2!3d15.4007615!4d74.0045486!16s%2Fg%2F11sc96z83v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4465,10 +4502,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kamakshi+Pediatric+Dental+Care/@15.4007615,74.0045486,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbd2fc463a11:0xe42f5e320809810!8m2!3d15.4007615!4d74.0045486!16s%2Fg%2F11sc96z83v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kamala-scans-ponda",
@@ -4517,7 +4555,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Kamala+Scans/@15.3974389,74.003165,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbb0cb3dcf01:0x168e09fa4db0d4db!8m2!3d15.3974389!4d74.003165!16s%2Fg%2F11h_bvrty5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamala+Scans/@15.3974389,74.003165,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbb0cb3dcf01:0x168e09fa4db0d4db!8m2!3d15.3974389!4d74.003165!16s%2Fg%2F11h_bvrty5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4586,7 +4624,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kamala+Scans/@15.3974389,74.003165,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbb0cb3dcf01:0x168e09fa4db0d4db!8m2!3d15.3974389!4d74.003165!16s%2Fg%2F11h_bvrty5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ks-cosmetic-centre-sangolda",
@@ -4635,7 +4674,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KS+Cosmetic+Centre/@15.5286762,73.8254581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc01341926985:0x5fae91bc6263aef1!8m2!3d15.5286762!4d73.8254581!16s%2Fg%2F11g690py3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KS+Cosmetic+Centre/@15.5286762,73.8254581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc01341926985:0x5fae91bc6263aef1!8m2!3d15.5286762!4d73.8254581!16s%2Fg%2F11g690py3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4704,7 +4743,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KS+Cosmetic+Centre/@15.5286762,73.8254581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc01341926985:0x5fae91bc6263aef1!8m2!3d15.5286762!4d73.8254581!16s%2Fg%2F11g690py3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lifecure-clinic-ponda",
@@ -4750,7 +4790,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/LifeCure+clinic/@15.4107769,74.0090247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb001eb7f49d:0x6879d1a61d93ef1e!8m2!3d15.4107769!4d74.0090247!16s%2Fg%2F11wqyc70mt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LifeCure+clinic/@15.4107769,74.0090247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb001eb7f49d:0x6879d1a61d93ef1e!8m2!3d15.4107769!4d74.0090247!16s%2Fg%2F11wqyc70mt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4816,10 +4856,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LifeCure+clinic/@15.4107769,74.0090247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb001eb7f49d:0x6879d1a61d93ef1e!8m2!3d15.4107769!4d74.0090247!16s%2Fg%2F11wqyc70mt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "livom-clinic-panaji",
@@ -4868,7 +4909,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Livom+Clinic/@15.4860771,73.818024,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc11353c6a1e7:0x21485faa4a16316a!8m2!3d15.4860771!4d73.818024!16s%2Fg%2F11sw_2s_33?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Livom+Clinic/@15.4860771,73.818024,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc11353c6a1e7:0x21485faa4a16316a!8m2!3d15.4860771!4d73.818024!16s%2Fg%2F11sw_2s_33?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4937,7 +4978,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Livom+Clinic/@15.4860771,73.818024,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc11353c6a1e7:0x21485faa4a16316a!8m2!3d15.4860771!4d73.818024!16s%2Fg%2F11sw_2s_33?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lord-s-pathology-home-collection-for-blood-test-cbc-test-and-full-body-checkup-ponda",
@@ -4986,7 +5028,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lord's+Pathology+-+Home+Collection+for+Blood+Test,+CBC+Test+%26+Full+Body+Checkup/@15.4037,74.015,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbd93d87f017:0xfb28d359a294fabc!8m2!3d15.4037!4d74.015!16s%2Fg%2F11yxmd3w5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lord's+Pathology+-+Home+Collection+for+Blood+Test,+CBC+Test+%26+Full+Body+Checkup/@15.4037,74.015,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbd93d87f017:0xfb28d359a294fabc!8m2!3d15.4037!4d74.015!16s%2Fg%2F11yxmd3w5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5052,10 +5094,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lord's+Pathology+-+Home+Collection+for+Blood+Test,+CBC+Test+%26+Full+Body+Checkup/@15.4037,74.015,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbd93d87f017:0xfb28d359a294fabc!8m2!3d15.4037!4d74.015!16s%2Fg%2F11yxmd3w5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhavbaug-clinic-ponda-goa-ponda",
@@ -5105,7 +5148,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Madhavbaug+Clinic+-+Ponda,+Goa/data=!4m7!3m6!1s0x3bbfbb66b1b487a3:0xd012d7c71b372972!8m2!3d15.3875616!4d74.0039529!16s%2Fg%2F11qmz1ddl6!19sChIJo4e0sWa7vzsRcik3G8fXEtA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+Clinic+-+Ponda,+Goa/data=!4m7!3m6!1s0x3bbfbb66b1b487a3:0xd012d7c71b372972!8m2!3d15.3875616!4d74.0039529!16s%2Fg%2F11qmz1ddl6!19sChIJo4e0sWa7vzsRcik3G8fXEtA?authuser=0&hl=en&rclk=1"
@@ -5174,7 +5217,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+Clinic+-+Ponda,+Goa/data=!4m7!3m6!1s0x3bbfbb66b1b487a3:0xd012d7c71b372972!8m2!3d15.3875616!4d74.0039529!16s%2Fg%2F11qmz1ddl6!19sChIJo4e0sWa7vzsRcik3G8fXEtA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "madhavbaug-goa-margao-clinic-madgaon",
@@ -5224,7 +5268,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Madhavbaug+Goa+Margao+Clinic/@15.2908684,73.9639977,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e822ccd07b:0x627a06c6ad575bc1!8m2!3d15.2908684!4d73.9639977!16s%2Fg%2F11c4ww84nj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+Goa+Margao+Clinic/@15.2908684,73.9639977,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e822ccd07b:0x627a06c6ad575bc1!8m2!3d15.2908684!4d73.9639977!16s%2Fg%2F11c4ww84nj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5293,7 +5337,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+Goa+Margao+Clinic/@15.2908684,73.9639977,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e822ccd07b:0x627a06c6ad575bc1!8m2!3d15.2908684!4d73.9639977!16s%2Fg%2F11c4ww84nj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-and-panchakarma-center-panjim-goa-panaji",
@@ -5343,7 +5388,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Panjim,+Goa)/@15.4878226,73.8215918,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0937a6376f1:0x7bc4f5a6d1f2bbfd!8m2!3d15.4878226!4d73.8215918!16s%2Fg%2F11c1kww1ny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Panjim,+Goa)/@15.4878226,73.8215918,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0937a6376f1:0x7bc4f5a6d1f2bbfd!8m2!3d15.4878226!4d73.8215918!16s%2Fg%2F11c1kww1ny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5412,7 +5457,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Panjim,+Goa)/@15.4878226,73.8215918,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0937a6376f1:0x7bc4f5a6d1f2bbfd!8m2!3d15.4878226!4d73.8215918!16s%2Fg%2F11c1kww1ny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manipal-hospitals-goa-dr-e-borges-rd",
@@ -5461,7 +5507,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Manipal+Hospitals+Goa/@15.4600884,73.8132224,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0cb6f59b763:0x5fef15ef316a7759!8m2!3d15.4600884!4d73.8132224!16s%2Fg%2F1tgz8t96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manipal+Hospitals+Goa/@15.4600884,73.8132224,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0cb6f59b763:0x5fef15ef316a7759!8m2!3d15.4600884!4d73.8132224!16s%2Fg%2F1tgz8t96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5530,7 +5576,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manipal+Hospitals+Goa/@15.4600884,73.8132224,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0cb6f59b763:0x5fef15ef316a7759!8m2!3d15.4600884!4d73.8132224!16s%2Fg%2F1tgz8t96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medicare-polyclnic-ponda",
@@ -5578,7 +5625,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/MEDICARE+POLYCLNIC/@15.4198323,74.0814082,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfa5289ebb9239:0xfe3027428a4bf15!8m2!3d15.4198323!4d74.0814082!16s%2Fg%2F11sq1l1fq5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEDICARE+POLYCLNIC/@15.4198323,74.0814082,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfa5289ebb9239:0xfe3027428a4bf15!8m2!3d15.4198323!4d74.0814082!16s%2Fg%2F11sq1l1fq5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5644,10 +5691,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MEDICARE+POLYCLNIC/@15.4198323,74.0814082,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfa5289ebb9239:0xfe3027428a4bf15!8m2!3d15.4198323!4d74.0814082!16s%2Fg%2F11sq1l1fq5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "menezes-polyclinic-and-hospital-panaji",
@@ -5696,7 +5744,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/menezes+polyclinic+and+hospital/@15.4934264,73.8263135,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1c1c25a0e49:0xb81362e72657e9c8!8m2!3d15.4934264!4d73.8263135!16s%2Fg%2F11rzgj38sf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/menezes+polyclinic+and+hospital/@15.4934264,73.8263135,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1c1c25a0e49:0xb81362e72657e9c8!8m2!3d15.4934264!4d73.8263135!16s%2Fg%2F11rzgj38sf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5765,7 +5813,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/menezes+polyclinic+and+hospital/@15.4934264,73.8263135,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1c1c25a0e49:0xb81362e72657e9c8!8m2!3d15.4934264!4d73.8263135!16s%2Fg%2F11rzgj38sf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "my-eye-hospital-verna",
@@ -5815,7 +5864,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/My+Eye+Hospital/@15.3246685,73.9392248,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb72eab12ffcf:0xb0fa89c820af61e9!8m2!3d15.3246685!4d73.9392248!16s%2Fg%2F11c1xjc4r5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/My+Eye+Hospital/@15.3246685,73.9392248,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb72eab12ffcf:0xb0fa89c820af61e9!8m2!3d15.3246685!4d73.9392248!16s%2Fg%2F11c1xjc4r5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5884,7 +5933,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/My+Eye+Hospital/@15.3246685,73.9392248,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb72eab12ffcf:0xb0fa89c820af61e9!8m2!3d15.3246685!4d73.9392248!16s%2Fg%2F11c1xjc4r5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "narmada-medicals-shanti-nagar",
@@ -5933,7 +5983,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Narmada+Medicals/@15.4003509,74.010241,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabe8dc91e49:0x12d42f0f6de51491!8m2!3d15.4003509!4d74.010241!16s%2Fg%2F1td6qp3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narmada+Medicals/@15.4003509,74.010241,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabe8dc91e49:0x12d42f0f6de51491!8m2!3d15.4003509!4d74.010241!16s%2Fg%2F1td6qp3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6002,7 +6052,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Narmada+Medicals/@15.4003509,74.010241,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabe8dc91e49:0x12d42f0f6de51491!8m2!3d15.4003509!4d74.010241!16s%2Fg%2F1td6qp3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nimai-nitai-acupressure-center-upper-bazar-ponda-ponda",
@@ -6050,7 +6101,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Nimai+Nitai+Acupressure+Center+-+Upper+Bazar,+Ponda/@15.4005077,74.0101255,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb555f473d39:0xdf11c4d9f05a6f79!8m2!3d15.4005077!4d74.0101255!16s%2Fg%2F11yttx8mxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nimai+Nitai+Acupressure+Center+-+Upper+Bazar,+Ponda/@15.4005077,74.0101255,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb555f473d39:0xdf11c4d9f05a6f79!8m2!3d15.4005077!4d74.0101255!16s%2Fg%2F11yttx8mxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6116,10 +6167,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nimai+Nitai+Acupressure+Center+-+Upper+Bazar,+Ponda/@15.4005077,74.0101255,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb555f473d39:0xdf11c4d9f05a6f79!8m2!3d15.4005077!4d74.0101255!16s%2Fg%2F11yttx8mxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "omkaar-cardio-diabetic-centre-mapusa",
@@ -6168,7 +6220,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/OMKAAR+Cardio+Diabetic+Centre/@15.6015369,73.8154432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebd755358c45:0x3fbc59a9c6d0d882!8m2!3d15.6015369!4d73.8154432!16s%2Fg%2F11h6mcdh2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OMKAAR+Cardio+Diabetic+Centre/@15.6015369,73.8154432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebd755358c45:0x3fbc59a9c6d0d882!8m2!3d15.6015369!4d73.8154432!16s%2Fg%2F11h6mcdh2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6237,7 +6289,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OMKAAR+Cardio+Diabetic+Centre/@15.6015369,73.8154432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebd755358c45:0x3fbc59a9c6d0d882!8m2!3d15.6015369!4d73.8154432!16s%2Fg%2F11h6mcdh2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oracare-dental-clinic-ponda",
@@ -6285,7 +6338,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oracare+Dental+Clinic/data=!4m7!3m6!1s0x3bbfbb003cf9d3a1:0xabef748fe8abe407!8m2!3d15.4017582!4d74.0067615!16s%2Fg%2F11y3rg0zwn!19sChIJodP5PAC7vzsRB-Sr6I9076s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oracare+Dental+Clinic/data=!4m7!3m6!1s0x3bbfbb003cf9d3a1:0xabef748fe8abe407!8m2!3d15.4017582!4d74.0067615!16s%2Fg%2F11y3rg0zwn!19sChIJodP5PAC7vzsRB-Sr6I9076s?authuser=0&hl=en&rclk=1"
@@ -6351,10 +6404,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oracare+Dental+Clinic/data=!4m7!3m6!1s0x3bbfbb003cf9d3a1:0xabef748fe8abe407!8m2!3d15.4017582!4d74.0067615!16s%2Fg%2F11y3rg0zwn!19sChIJodP5PAC7vzsRB-Sr6I9076s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "oraspace-dental-care-and-implant-centre-raia",
@@ -6402,7 +6456,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oraspace+Dental+Care+and+Implant+Centre/@15.2953434,73.9910464,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1efbcdb5303:0x35e31cd60a4a1d4d!8m2!3d15.2953434!4d73.9910464!16s%2Fg%2F11ty22yz53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oraspace+Dental+Care+and+Implant+Centre/@15.2953434,73.9910464,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1efbcdb5303:0x35e31cd60a4a1d4d!8m2!3d15.2953434!4d73.9910464!16s%2Fg%2F11ty22yz53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6468,10 +6522,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oraspace+Dental+Care+and+Implant+Centre/@15.2953434,73.9910464,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1efbcdb5303:0x35e31cd60a4a1d4d!8m2!3d15.2953434!4d73.9910464!16s%2Fg%2F11ty22yz53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pai-hospital-new-vaddem",
@@ -6521,7 +6576,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pai+Hospital/@15.3974905,73.8294358,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc791fa1643e5:0xc6fbe85cb7ff3642!8m2!3d15.3974905!4d73.8294358!16s%2Fg%2F1v75qbtq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pai+Hospital/@15.3974905,73.8294358,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc791fa1643e5:0xc6fbe85cb7ff3642!8m2!3d15.3974905!4d73.8294358!16s%2Fg%2F1v75qbtq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6590,7 +6645,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pai+Hospital/@15.3974905,73.8294358,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc791fa1643e5:0xc6fbe85cb7ff3642!8m2!3d15.3974905!4d73.8294358!16s%2Fg%2F1v75qbtq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "perfect-32-dental-clinic-madgaon",
@@ -6639,7 +6695,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Perfect+32+Dental+Clinic/@15.2997511,73.9648376,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb12eaa5f3471:0x8372566a9f9b6545!8m2!3d15.2997511!4d73.9648376!16s%2Fg%2F11rmfv_pjs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Perfect+32+Dental+Clinic/@15.2997511,73.9648376,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb12eaa5f3471:0x8372566a9f9b6545!8m2!3d15.2997511!4d73.9648376!16s%2Fg%2F11rmfv_pjs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6708,7 +6764,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Perfect+32+Dental+Clinic/@15.2997511,73.9648376,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb12eaa5f3471:0x8372566a9f9b6545!8m2!3d15.2997511!4d73.9648376!16s%2Fg%2F11rmfv_pjs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "piles-clinic-shiroda-ponda-goa-shiroda",
@@ -6756,7 +6813,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Piles+Clinic+Shiroda+Ponda+goa/@15.3200944,74.0280568,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb128de1406a3:0x2e2715fff07d2520!8m2!3d15.3200944!4d74.0280568!16s%2Fg%2F11lttlknzn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Piles+Clinic+Shiroda+Ponda+goa/@15.3200944,74.0280568,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb128de1406a3:0x2e2715fff07d2520!8m2!3d15.3200944!4d74.0280568!16s%2Fg%2F11lttlknzn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6822,10 +6879,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Piles+Clinic+Shiroda+Ponda+goa/@15.3200944,74.0280568,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb128de1406a3:0x2e2715fff07d2520!8m2!3d15.3200944!4d74.0280568!16s%2Fg%2F11lttlknzn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "platicare-hospital-ponda",
@@ -6874,7 +6932,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Platicare+Hospital/@15.3921919,74.0051511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba9817f8ac8b:0x89bc7f1933d29bf7!8m2!3d15.3921919!4d74.0051511!16s%2Fg%2F11ckqrbt6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Platicare+Hospital/@15.3921919,74.0051511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba9817f8ac8b:0x89bc7f1933d29bf7!8m2!3d15.3921919!4d74.0051511!16s%2Fg%2F11ckqrbt6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6943,7 +7001,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Platicare+Hospital/@15.3921919,74.0051511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba9817f8ac8b:0x89bc7f1933d29bf7!8m2!3d15.3921919!4d74.0051511!16s%2Fg%2F11ckqrbt6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "platinum-dental-clinic-madgaon",
@@ -6991,7 +7050,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Platinum+Dental+Clinic/@15.2816401,73.9812842,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d3144e1a41:0x9969f50f88298ac6!8m2!3d15.2816401!4d73.9812842!16s%2Fg%2F11c75rkx99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Platinum+Dental+Clinic/@15.2816401,73.9812842,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d3144e1a41:0x9969f50f88298ac6!8m2!3d15.2816401!4d73.9812842!16s%2Fg%2F11c75rkx99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7060,7 +7119,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Platinum+Dental+Clinic/@15.2816401,73.9812842,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d3144e1a41:0x9969f50f88298ac6!8m2!3d15.2816401!4d73.9812842!16s%2Fg%2F11c75rkx99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ponda-clinic-corlim",
@@ -7106,7 +7166,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Ponda+Clinic/data=!4m7!3m6!1s0x3bbfbe8300000001:0xc46d07ae317a1fa3!8m2!3d15.5040835!4d73.9330429!16s%2Fg%2F1tmphz5p!19sChIJAQAAAIO-vzsRox96Ma4HbcQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ponda+Clinic/data=!4m7!3m6!1s0x3bbfbe8300000001:0xc46d07ae317a1fa3!8m2!3d15.5040835!4d73.9330429!16s%2Fg%2F1tmphz5p!19sChIJAQAAAIO-vzsRox96Ma4HbcQ?authuser=0&hl=en&rclk=1"
@@ -7172,10 +7232,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ponda+Clinic/data=!4m7!3m6!1s0x3bbfbe8300000001:0xc46d07ae317a1fa3!8m2!3d15.5040835!4d73.9330429!16s%2Fg%2F1tmphz5p!19sChIJAQAAAIO-vzsRox96Ma4HbcQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ponda-dental-studio-ponda",
@@ -7223,7 +7284,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Ponda+Dental+Studio/@15.3983297,74.022795,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb001df81589:0x18ea5aefb98b75f3!8m2!3d15.3983297!4d74.022795!16s%2Fg%2F11vslf_hdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ponda+Dental+Studio/@15.3983297,74.022795,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb001df81589:0x18ea5aefb98b75f3!8m2!3d15.3983297!4d74.022795!16s%2Fg%2F11vslf_hdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7292,7 +7353,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ponda+Dental+Studio/@15.3983297,74.022795,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb001df81589:0x18ea5aefb98b75f3!8m2!3d15.3983297!4d74.022795!16s%2Fg%2F11vslf_hdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ponda-ivf-clinic-and-laproscopy-center-ponda",
@@ -7341,7 +7403,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ponda+IVF+Clinic+and+Laproscopy+Center/@15.4000936,74.0098359,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabe62a76d7f:0x40f440444880678c!8m2!3d15.4000936!4d74.0098359!16s%2Fg%2F1tf3xtzy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ponda+IVF+Clinic+and+Laproscopy+Center/@15.4000936,74.0098359,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabe62a76d7f:0x40f440444880678c!8m2!3d15.4000936!4d74.0098359!16s%2Fg%2F1tf3xtzy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7407,10 +7469,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ponda+IVF+Clinic+and+Laproscopy+Center/@15.4000936,74.0098359,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabe62a76d7f:0x40f440444880678c!8m2!3d15.4000936!4d74.0098359!16s%2Fg%2F1tf3xtzy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prerna-dental-care-and-implant-centre-ponda",
@@ -7458,7 +7521,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Prerna+Dental+Care+and+Implant+Centre/@15.3993673,74.0048665,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb00753bec05:0x4d25bbbe2546fc35!8m2!3d15.3993673!4d74.0048665!16s%2Fg%2F11lykvsc2t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prerna+Dental+Care+and+Implant+Centre/@15.3993673,74.0048665,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb00753bec05:0x4d25bbbe2546fc35!8m2!3d15.3993673!4d74.0048665!16s%2Fg%2F11lykvsc2t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7524,10 +7587,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prerna+Dental+Care+and+Implant+Centre/@15.3993673,74.0048665,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb00753bec05:0x4d25bbbe2546fc35!8m2!3d15.3993673!4d74.0048665!16s%2Fg%2F11lykvsc2t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "preserve-dental-hair-transplant-and-facial-aesthetic-centre-seraulim",
@@ -7576,7 +7640,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Preserve+Dental,+Hair+Transplant+and+Facial+Aesthetic+Centre/@15.2915473,73.93843,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1ed01a1539d:0xc7ada672fab4d62e!8m2!3d15.2915473!4d73.93843!16s%2Fg%2F11s65ydz1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Preserve+Dental,+Hair+Transplant+and+Facial+Aesthetic+Centre/@15.2915473,73.93843,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1ed01a1539d:0xc7ada672fab4d62e!8m2!3d15.2915473!4d73.93843!16s%2Fg%2F11s65ydz1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7645,7 +7709,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Preserve+Dental,+Hair+Transplant+and+Facial+Aesthetic+Centre/@15.2915473,73.93843,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1ed01a1539d:0xc7ada672fab4d62e!8m2!3d15.2915473!4d73.93843!16s%2Fg%2F11s65ydz1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "priolkar-nursing-home-ponda",
@@ -7693,7 +7758,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Priolkar+Nursing+Home/@15.4052071,74.0061993,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba9540183b1f:0xadf7e8fd9b6c4f00!8m2!3d15.4052071!4d74.0061993!16s%2Fg%2F11cm184y54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Priolkar+Nursing+Home/@15.4052071,74.0061993,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba9540183b1f:0xadf7e8fd9b6c4f00!8m2!3d15.4052071!4d74.0061993!16s%2Fg%2F11cm184y54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7762,7 +7827,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Priolkar+Nursing+Home/@15.4052071,74.0061993,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba9540183b1f:0xadf7e8fd9b6c4f00!8m2!3d15.4052071!4d74.0061993!16s%2Fg%2F11cm184y54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "proform-hq-pain-management-advanced-physiotherapy-and-recovery-centre-ponda",
@@ -7811,7 +7877,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Proform+HQ+%7C+Pain+Management,+Advanced+Physiotherapy+%26+Recovery+Centre/@15.3945205,74.0019217,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb639587149f:0xabaaebd54c37fc49!8m2!3d15.3945205!4d74.0019217!16s%2Fg%2F11x8rnzkyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Proform+HQ+%7C+Pain+Management,+Advanced+Physiotherapy+%26+Recovery+Centre/@15.3945205,74.0019217,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb639587149f:0xabaaebd54c37fc49!8m2!3d15.3945205!4d74.0019217!16s%2Fg%2F11x8rnzkyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7877,10 +7943,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Proform+HQ+%7C+Pain+Management,+Advanced+Physiotherapy+%26+Recovery+Centre/@15.3945205,74.0019217,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb639587149f:0xabaaebd54c37fc49!8m2!3d15.3945205!4d74.0019217!16s%2Fg%2F11x8rnzkyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radiance-diagnostics-dona-paula-dr-e-borges-rd-bella-vista-colony",
@@ -7930,7 +7997,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Radiance+Diagnostics,+Dona+Paula/@15.4594901,73.8119417,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0cca2856417:0x49a9ea764db9191f!8m2!3d15.4594901!4d73.8119417!16s%2Fg%2F1hhwgm_lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiance+Diagnostics,+Dona+Paula/@15.4594901,73.8119417,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0cca2856417:0x49a9ea764db9191f!8m2!3d15.4594901!4d73.8119417!16s%2Fg%2F1hhwgm_lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7999,7 +8066,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radiance+Diagnostics,+Dona+Paula/@15.4594901,73.8119417,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0cca2856417:0x49a9ea764db9191f!8m2!3d15.4594901!4d73.8119417!16s%2Fg%2F1hhwgm_lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raghusmriti-dental-clinic-ponda",
@@ -8047,7 +8115,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Raghusmriti+Dental+Clinic/@15.4004836,74.0032864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbba7a4c3a671:0x609b176b47c81acf!8m2!3d15.4004836!4d74.0032864!16s%2Fg%2F11h51k0lss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raghusmriti+Dental+Clinic/@15.4004836,74.0032864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbba7a4c3a671:0x609b176b47c81acf!8m2!3d15.4004836!4d74.0032864!16s%2Fg%2F11h51k0lss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8116,7 +8184,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raghusmriti+Dental+Clinic/@15.4004836,74.0032864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbba7a4c3a671:0x609b176b47c81acf!8m2!3d15.4004836!4d74.0032864!16s%2Fg%2F11h51k0lss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "reborn-skin-and-hair-clinic-h-no-533-2",
@@ -8165,7 +8234,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Reborn+Skin+%26+Hair+Clinic/@15.5252097,73.826586,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1a3d52346ad:0xa2324f350fc1863f!8m2!3d15.5252097!4d73.826586!16s%2Fg%2F11w3h5_szc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Reborn+Skin+%26+Hair+Clinic/@15.5252097,73.826586,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1a3d52346ad:0xa2324f350fc1863f!8m2!3d15.5252097!4d73.826586!16s%2Fg%2F11w3h5_szc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8234,7 +8303,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Reborn+Skin+%26+Hair+Clinic/@15.5252097,73.826586,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1a3d52346ad:0xa2324f350fc1863f!8m2!3d15.5252097!4d73.826586!16s%2Fg%2F11w3h5_szc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "redkar-hospital-and-research-center-oshalbag",
@@ -8283,7 +8353,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Redkar+Hospital+and+Research+Center./@15.6875609,73.8307542,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfed280370578f:0xb871c8ef5656c90a!8m2!3d15.6875609!4d73.8307542!16s%2Fg%2F11cn5dc2tn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Redkar+Hospital+and+Research+Center./@15.6875609,73.8307542,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfed280370578f:0xb871c8ef5656c90a!8m2!3d15.6875609!4d73.8307542!16s%2Fg%2F11cn5dc2tn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8352,7 +8422,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Redkar+Hospital+and+Research+Center./@15.6875609,73.8307542,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfed280370578f:0xb871c8ef5656c90a!8m2!3d15.6875609!4d73.8307542!16s%2Fg%2F11cn5dc2tn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "redymed-cosmetic-surgery-and-hair-transplant-centre-best-hair-transplant-in-goa-porvorim",
@@ -8400,7 +8471,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/REDYMED+Cosmetic+Surgery+%26+hair+transplant+centre,+Best+hair+transplant+in+Goa/@15.5084466,73.8389657,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1170da91cd9:0x184bcfad9654d47c!8m2!3d15.5084466!4d73.8389657!16s%2Fg%2F11j4ss30z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/REDYMED+Cosmetic+Surgery+%26+hair+transplant+centre,+Best+hair+transplant+in+Goa/@15.5084466,73.8389657,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1170da91cd9:0x184bcfad9654d47c!8m2!3d15.5084466!4d73.8389657!16s%2Fg%2F11j4ss30z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8469,7 +8540,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/REDYMED+Cosmetic+Surgery+%26+hair+transplant+centre,+Best+hair+transplant+in+Goa/@15.5084466,73.8389657,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1170da91cd9:0x184bcfad9654d47c!8m2!3d15.5084466!4d73.8389657!16s%2Fg%2F11j4ss30z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "relive-healthcare-physiotherapist-and-rehabilitation-center-in-goa-nuvem",
@@ -8519,7 +8591,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Relive+Healthcare+%7C+Physiotherapist+and+Rehabilitation+center+in+Goa/@15.3244266,73.9392588,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1bd36a029d7:0x9c34111c0e722475!8m2!3d15.3244266!4d73.9392588!16s%2Fg%2F11fpkxv696?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Relive+Healthcare+%7C+Physiotherapist+and+Rehabilitation+center+in+Goa/@15.3244266,73.9392588,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1bd36a029d7:0x9c34111c0e722475!8m2!3d15.3244266!4d73.9392588!16s%2Fg%2F11fpkxv696?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8588,7 +8660,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Relive+Healthcare+%7C+Physiotherapist+and+Rehabilitation+center+in+Goa/@15.3244266,73.9392588,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1bd36a029d7:0x9c34111c0e722475!8m2!3d15.3244266!4d73.9392588!16s%2Fg%2F11fpkxv696?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rg-stone-urology-and-laparoscopy-hospital-pilern",
@@ -8637,7 +8710,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/@15.526834,73.825984,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06cc8a80dab:0xa72466447e5868e7!8m2!3d15.526834!4d73.825984!16s%2Fg%2F11clq2cs0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/@15.526834,73.825984,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06cc8a80dab:0xa72466447e5868e7!8m2!3d15.526834!4d73.825984!16s%2Fg%2F11clq2cs0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8706,7 +8779,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/@15.526834,73.825984,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06cc8a80dab:0xa72466447e5868e7!8m2!3d15.526834!4d73.825984!16s%2Fg%2F11clq2cs0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "royal-hospital-madgaon",
@@ -8755,7 +8829,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Royal+Hospital/@15.2708414,73.9720919,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c8b21a84a1:0xbcabb344e6f8eaf9!8m2!3d15.2708414!4d73.9720919!16s%2Fg%2F11c2ng737p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+Hospital/@15.2708414,73.9720919,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c8b21a84a1:0xbcabb344e6f8eaf9!8m2!3d15.2708414!4d73.9720919!16s%2Fg%2F11c2ng737p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8824,7 +8898,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Royal+Hospital/@15.2708414,73.9720919,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c8b21a84a1:0xbcabb344e6f8eaf9!8m2!3d15.2708414!4d73.9720919!16s%2Fg%2F11c2ng737p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sachira-wellness-centre-ponda",
@@ -8873,7 +8948,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sachira+Wellness+Centre/@15.4013387,74.0109584,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb5032e6e0c3:0xf4f4789eafcc883b!8m2!3d15.4013387!4d74.0109584!16s%2Fg%2F11q8w4pdvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sachira+Wellness+Centre/@15.4013387,74.0109584,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb5032e6e0c3:0xf4f4789eafcc883b!8m2!3d15.4013387!4d74.0109584!16s%2Fg%2F11q8w4pdvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8942,7 +9017,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sachira+Wellness+Centre/@15.4013387,74.0109584,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb5032e6e0c3:0xf4f4789eafcc883b!8m2!3d15.4013387!4d74.0109584!16s%2Fg%2F11q8w4pdvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sahakari-dental-clinic-ponda",
@@ -8990,7 +9066,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SAHAKARI+DENTAL+CLINIC/@15.3991743,74.0124783,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabbffffffff:0xd13061be8bb49fe7!8m2!3d15.3991743!4d74.0124783!16s%2Fg%2F11bztgrbkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAHAKARI+DENTAL+CLINIC/@15.3991743,74.0124783,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabbffffffff:0xd13061be8bb49fe7!8m2!3d15.3991743!4d74.0124783!16s%2Fg%2F11bztgrbkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9056,10 +9132,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAHAKARI+DENTAL+CLINIC/@15.3991743,74.0124783,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbabbffffffff:0xd13061be8bb49fe7!8m2!3d15.3991743!4d74.0124783!16s%2Fg%2F11bztgrbkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-ayurveda-clinic-and-massage-centre-colva",
@@ -9108,7 +9185,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Ayurveda+Clinic+%26+Massage+Centre/@15.2887003,73.9181554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb79d216dc671:0x78a654b9b71dcc45!8m2!3d15.2887003!4d73.9181554!16s%2Fg%2F11x_mfm8jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Ayurveda+Clinic+%26+Massage+Centre/@15.2887003,73.9181554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb79d216dc671:0x78a654b9b71dcc45!8m2!3d15.2887003!4d73.9181554!16s%2Fg%2F11x_mfm8jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9177,7 +9254,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Ayurveda+Clinic+%26+Massage+Centre/@15.2887003,73.9181554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb79d216dc671:0x78a654b9b71dcc45!8m2!3d15.2887003!4d73.9181554!16s%2Fg%2F11x_mfm8jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "savaikar-hospital-ponda",
@@ -9226,7 +9304,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Savaikar+Hospital/@15.4032181,74.0049443,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbaead6555551:0xc70de1e127d52949!8m2!3d15.4032181!4d74.0049443!16s%2Fg%2F1trcdwft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Savaikar+Hospital/@15.4032181,74.0049443,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbaead6555551:0xc70de1e127d52949!8m2!3d15.4032181!4d74.0049443!16s%2Fg%2F1trcdwft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9295,7 +9373,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Savaikar+Hospital/@15.4032181,74.0049443,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbaead6555551:0xc70de1e127d52949!8m2!3d15.4032181!4d74.0049443!16s%2Fg%2F1trcdwft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-ayurveda-ponda",
@@ -9343,7 +9422,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Ayurveda/@15.4010891,74.0036007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb8969a37959:0x7d4020d4b53e21ab!8m2!3d15.4010891!4d74.0036007!16s%2Fg%2F11pzs5tzct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Ayurveda/@15.4010891,74.0036007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb8969a37959:0x7d4020d4b53e21ab!8m2!3d15.4010891!4d74.0036007!16s%2Fg%2F11pzs5tzct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9409,10 +9488,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Ayurveda/@15.4010891,74.0036007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb8969a37959:0x7d4020d4b53e21ab!8m2!3d15.4010891!4d74.0036007!16s%2Fg%2F11pzs5tzct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-clinic-ponda",
@@ -9461,7 +9541,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Clinic/data=!4m7!3m6!1s0x3bbfba939aaaaaab:0x2d3e0d8f0d432bee!8m2!3d15.4003446!4d73.9998982!16s%2Fg%2F1tj4fhfw!19sChIJq6qqmpO6vzsR7itDDY8NPi0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Clinic/data=!4m7!3m6!1s0x3bbfba939aaaaaab:0x2d3e0d8f0d432bee!8m2!3d15.4003446!4d73.9998982!16s%2Fg%2F1tj4fhfw!19sChIJq6qqmpO6vzsR7itDDY8NPi0?authuser=0&hl=en&rclk=1"
@@ -9527,10 +9607,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Clinic/data=!4m7!3m6!1s0x3bbfba939aaaaaab:0x2d3e0d8f0d432bee!8m2!3d15.4003446!4d73.9998982!16s%2Fg%2F1tj4fhfw!19sChIJq6qqmpO6vzsR7itDDY8NPi0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-mangirish-dental-clinic-priol",
@@ -9578,7 +9659,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Mangirish+Dental+Clinic/@15.4471242,73.9704602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb5bae7cc07b:0x27f491a3d4c2ae27!8m2!3d15.4471242!4d73.9704602!16s%2Fg%2F11qbxw5wzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Mangirish+Dental+Clinic/@15.4471242,73.9704602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb5bae7cc07b:0x27f491a3d4c2ae27!8m2!3d15.4471242!4d73.9704602!16s%2Fg%2F11qbxw5wzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9647,7 +9728,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Mangirish+Dental+Clinic/@15.4471242,73.9704602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb5bae7cc07b:0x27f491a3d4c2ae27!8m2!3d15.4471242!4d73.9704602!16s%2Fg%2F11qbxw5wzp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shriprasad-diagnostic-laboratory-opc-private-limited-ponda",
@@ -9696,7 +9778,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Shriprasad+Diagnostic+Laboratory(OPC)+Private+Limited/@15.4001082,74.0047823,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba95c747921d:0xaccbbeec1f702871!8m2!3d15.4001082!4d74.0047823!16s%2Fg%2F12hl55wtd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shriprasad+Diagnostic+Laboratory(OPC)+Private+Limited/@15.4001082,74.0047823,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba95c747921d:0xaccbbeec1f702871!8m2!3d15.4001082!4d74.0047823!16s%2Fg%2F12hl55wtd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9765,7 +9847,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shriprasad+Diagnostic+Laboratory(OPC)+Private+Limited/@15.4001082,74.0047823,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba95c747921d:0xaccbbeec1f702871!8m2!3d15.4001082!4d74.0047823!16s%2Fg%2F12hl55wtd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shwet-dental-care-madgaon",
@@ -9813,7 +9896,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shwet+Dental+Care/@15.2907153,73.9605075,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb11bd4869c19:0x521d6b524c2de42a!8m2!3d15.2907153!4d73.9605075!16s%2Fg%2F11rqpvz25z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shwet+Dental+Care/@15.2907153,73.9605075,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb11bd4869c19:0x521d6b524c2de42a!8m2!3d15.2907153!4d73.9605075!16s%2Fg%2F11rqpvz25z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9879,10 +9962,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shwet+Dental+Care/@15.2907153,73.9605075,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb11bd4869c19:0x521d6b524c2de42a!8m2!3d15.2907153!4d73.9605075!16s%2Fg%2F11rqpvz25z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "siddhivinayak-occupational-health-services-goa-ponda",
@@ -9932,7 +10016,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Siddhivinayak+Occupational+Health+Services+Goa/@15.4007003,74.004897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba95c1afc481:0x750d6da237f2fa36!8m2!3d15.4007003!4d74.004897!16s%2Fg%2F11g86nyjhl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddhivinayak+Occupational+Health+Services+Goa/@15.4007003,74.004897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba95c1afc481:0x750d6da237f2fa36!8m2!3d15.4007003!4d74.004897!16s%2Fg%2F11g86nyjhl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10001,7 +10085,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Siddhivinayak+Occupational+Health+Services+Goa/@15.4007003,74.004897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba95c1afc481:0x750d6da237f2fa36!8m2!3d15.4007003!4d74.004897!16s%2Fg%2F11g86nyjhl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "singbal-hospital-ponda",
@@ -10049,7 +10134,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Singbal+Hospital/@15.4005408,74.0023891,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba945cb445df:0x42a0848cb98e8d13!8m2!3d15.4005408!4d74.0023891!16s%2Fg%2F12hm7645j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singbal+Hospital/@15.4005408,74.0023891,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba945cb445df:0x42a0848cb98e8d13!8m2!3d15.4005408!4d74.0023891!16s%2Fg%2F12hm7645j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10118,7 +10203,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Singbal+Hospital/@15.4005408,74.0023891,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba945cb445df:0x42a0848cb98e8d13!8m2!3d15.4005408!4d74.0023891!16s%2Fg%2F12hm7645j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-care-goa-best-dentist-in-goa-ponda",
@@ -10167,7 +10253,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Care+Goa+-+Best+Dentist+in+Goa/@15.3866211,74.0193538,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbc74ecf455b:0xfdaee6bac9b6f65b!8m2!3d15.3866211!4d74.0193538!16s%2Fg%2F11jgknp8vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Care+Goa+-+Best+Dentist+in+Goa/@15.3866211,74.0193538,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbc74ecf455b:0xfdaee6bac9b6f65b!8m2!3d15.3866211!4d74.0193538!16s%2Fg%2F11jgknp8vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10236,7 +10322,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Care+Goa+-+Best+Dentist+in+Goa/@15.3866211,74.0193538,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbc74ecf455b:0xfdaee6bac9b6f65b!8m2!3d15.3866211!4d74.0193538!16s%2Fg%2F11jgknp8vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-openly-dental-care-benaulim",
@@ -10285,7 +10372,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Openly+Dental+Care/@15.2585997,73.9312025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d3be53df6f:0x3238ec0bd5012465!8m2!3d15.2585997!4d73.9312025!16s%2Fg%2F11tc_c7fjc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Openly+Dental+Care/@15.2585997,73.9312025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d3be53df6f:0x3238ec0bd5012465!8m2!3d15.2585997!4d73.9312025!16s%2Fg%2F11tc_c7fjc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10354,7 +10441,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Openly+Dental+Care/@15.2585997,73.9312025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3d3be53df6f:0x3238ec0bd5012465!8m2!3d15.2585997!4d73.9312025!16s%2Fg%2F11tc_c7fjc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smilink-dental-clinic-zuarinagar",
@@ -10402,7 +10490,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Smilink+Dental+Clinic/@15.3884015,73.8640888,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb9aeeed06ca1:0xda464e07dc52f318!8m2!3d15.3884015!4d73.8640888!16s%2Fg%2F11hswfl_9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smilink+Dental+Clinic/@15.3884015,73.8640888,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb9aeeed06ca1:0xda464e07dc52f318!8m2!3d15.3884015!4d73.8640888!16s%2Fg%2F11hswfl_9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10471,7 +10559,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smilink+Dental+Clinic/@15.3884015,73.8640888,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb9aeeed06ca1:0xda464e07dc52f318!8m2!3d15.3884015!4d73.8640888!16s%2Fg%2F11hswfl_9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ss-hair-transplant-clinic-panaji",
@@ -10519,7 +10608,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SS+Hair+Transplant+Clinic/@15.4937066,73.8360534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1180b308423:0x73124da2ccb13764!8m2!3d15.4937066!4d73.8360534!16s%2Fg%2F11s19cpm80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SS+Hair+Transplant+Clinic/@15.4937066,73.8360534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1180b308423:0x73124da2ccb13764!8m2!3d15.4937066!4d73.8360534!16s%2Fg%2F11s19cpm80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10588,7 +10677,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SS+Hair+Transplant+Clinic/@15.4937066,73.8360534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1180b308423:0x73124da2ccb13764!8m2!3d15.4937066!4d73.8360534!16s%2Fg%2F11s19cpm80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "studio32-dental-clinic-ponda-ponda",
@@ -10637,7 +10727,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/STUDIO32+Dental+Clinic+-+Ponda/@15.4017912,74.0067508,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba957f4190cd:0xd4667bde6c047204!8m2!3d15.4017912!4d74.0067508!16s%2Fg%2F11f4prv1rk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STUDIO32+Dental+Clinic+-+Ponda/@15.4017912,74.0067508,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba957f4190cd:0xd4667bde6c047204!8m2!3d15.4017912!4d74.0067508!16s%2Fg%2F11f4prv1rk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10706,7 +10796,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/STUDIO32+Dental+Clinic+-+Ponda/@15.4017912,74.0067508,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba957f4190cd:0xd4667bde6c047204!8m2!3d15.4017912!4d74.0067508!16s%2Fg%2F11f4prv1rk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "studio32-dental-clinic-orthodontist-best-dentist-in-margao-madgaon",
@@ -10756,7 +10847,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/STUDIO32+Dental+Clinic+%E2%80%93+Orthodontist,+Best+Dentist+in+Margao/@15.2895751,73.9635246,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb161bb871c0f:0x4c59a5a4201facc5!8m2!3d15.2895751!4d73.9635246!16s%2Fg%2F11d_8_0zt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STUDIO32+Dental+Clinic+%E2%80%93+Orthodontist,+Best+Dentist+in+Margao/@15.2895751,73.9635246,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb161bb871c0f:0x4c59a5a4201facc5!8m2!3d15.2895751!4d73.9635246!16s%2Fg%2F11d_8_0zt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10825,7 +10916,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/STUDIO32+Dental+Clinic+%E2%80%93+Orthodontist,+Best+Dentist+in+Margao/@15.2895751,73.9635246,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb161bb871c0f:0x4c59a5a4201facc5!8m2!3d15.2895751!4d73.9635246!16s%2Fg%2F11d_8_0zt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sub-district-hospital-id-hospital-goa-ponda",
@@ -10874,7 +10966,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sub+District+Hospital+(ID+Hospital),+Goa/@15.3930308,74.0054847,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbed9076e32f:0x6029ce8192ed363d!8m2!3d15.3930308!4d74.0054847!16s%2Fg%2F11sxr2vt1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sub+District+Hospital+(ID+Hospital),+Goa/@15.3930308,74.0054847,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbed9076e32f:0x6029ce8192ed363d!8m2!3d15.3930308!4d74.0054847!16s%2Fg%2F11sxr2vt1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10940,10 +11032,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sub+District+Hospital+(ID+Hospital),+Goa/@15.3930308,74.0054847,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbed9076e32f:0x6029ce8192ed363d!8m2!3d15.3930308!4d74.0054847!16s%2Fg%2F11sxr2vt1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sudip-s-dental-clinic-ponda",
@@ -10991,7 +11084,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SUDIP'S+DENTAL+CLINIC/@15.4010753,74.0124585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbab9330f4d45:0x6e991b2dcc21702d!8m2!3d15.4010753!4d74.0124585!16s%2Fg%2F11c2nhppyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUDIP'S+DENTAL+CLINIC/@15.4010753,74.0124585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbab9330f4d45:0x6e991b2dcc21702d!8m2!3d15.4010753!4d74.0124585!16s%2Fg%2F11c2nhppyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11057,10 +11150,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SUDIP'S+DENTAL+CLINIC/@15.4010753,74.0124585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbab9330f4d45:0x6e991b2dcc21702d!8m2!3d15.4010753!4d74.0124585!16s%2Fg%2F11c2nhppyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sukhatankar-clinic-ponda",
@@ -11108,7 +11202,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sukhatankar+Clinic/@15.400829,74.0128751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbab93667b5d1:0xb1f4b3d36491cb5e!8m2!3d15.400829!4d74.0128751!16s%2Fg%2F1td6qp3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sukhatankar+Clinic/@15.400829,74.0128751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbab93667b5d1:0xb1f4b3d36491cb5e!8m2!3d15.400829!4d74.0128751!16s%2Fg%2F1td6qp3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11174,10 +11268,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sukhatankar+Clinic/@15.400829,74.0128751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbab93667b5d1:0xb1f4b3d36491cb5e!8m2!3d15.400829!4d74.0128751!16s%2Fg%2F1td6qp3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sunshine-hospital-madgaon",
@@ -11226,7 +11321,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sunshine+Hospital/@15.290448,73.9772588,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1f807717f41:0x2bc39a5176464cf8!8m2!3d15.290448!4d73.9772588!16s%2Fg%2F11jk4s2fj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunshine+Hospital/@15.290448,73.9772588,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1f807717f41:0x2bc39a5176464cf8!8m2!3d15.290448!4d73.9772588!16s%2Fg%2F11jk4s2fj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11295,7 +11390,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunshine+Hospital/@15.290448,73.9772588,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb1f807717f41:0x2bc39a5176464cf8!8m2!3d15.290448!4d73.9772588!16s%2Fg%2F11jk4s2fj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "suvidha-homoeopathy-clinic-ponda",
@@ -11343,7 +11439,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Suvidha+Homoeopathy+Clinic/@15.3863227,74.0033217,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbc36a618b0f:0x2fb71fca454f1a12!8m2!3d15.3863227!4d74.0033217!16s%2Fg%2F11s47dbgsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suvidha+Homoeopathy+Clinic/@15.3863227,74.0033217,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbc36a618b0f:0x2fb71fca454f1a12!8m2!3d15.3863227!4d74.0033217!16s%2Fg%2F11s47dbgsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11409,10 +11505,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suvidha+Homoeopathy+Clinic/@15.3863227,74.0033217,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbc36a618b0f:0x2fb71fca454f1a12!8m2!3d15.3863227!4d74.0033217!16s%2Fg%2F11s47dbgsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "suvina-s-divine-angels-hospital-seraulim",
@@ -11461,7 +11558,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Suvina%27s+Divine+Angels+Hospital/data=!4m7!3m6!1s0x3bbfb5044be2c3e3:0x19c7f52a914c422e!8m2!3d15.2790044!4d73.9334725!16s%2Fg%2F11kqmrq_sq!19sChIJ48PiSwS1vzsRLkJMkSr1xxk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suvina%27s+Divine+Angels+Hospital/data=!4m7!3m6!1s0x3bbfb5044be2c3e3:0x19c7f52a914c422e!8m2!3d15.2790044!4d73.9334725!16s%2Fg%2F11kqmrq_sq!19sChIJ48PiSwS1vzsRLkJMkSr1xxk?authuser=0&hl=en&rclk=1"
@@ -11530,7 +11627,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suvina%27s+Divine+Angels+Hospital/data=!4m7!3m6!1s0x3bbfb5044be2c3e3:0x19c7f52a914c422e!8m2!3d15.2790044!4d73.9334725!16s%2Fg%2F11kqmrq_sq!19sChIJ48PiSwS1vzsRLkJMkSr1xxk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tari-dental-clinic-ponda",
@@ -11579,7 +11677,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tari+Dental+Clinic/@15.4082714,74.0152745,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb2cef542a5b:0x15278807692e77db!8m2!3d15.4082714!4d74.0152745!16s%2Fg%2F11jydy4j2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tari+Dental+Clinic/@15.4082714,74.0152745,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb2cef542a5b:0x15278807692e77db!8m2!3d15.4082714!4d74.0152745!16s%2Fg%2F11jydy4j2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11648,7 +11746,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tari+Dental+Clinic/@15.4082714,74.0152745,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb2cef542a5b:0x15278807692e77db!8m2!3d15.4082714!4d74.0152745!16s%2Fg%2F11jydy4j2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-kidney-stone-moide",
@@ -11697,7 +11796,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Kidney+Stone/@15.6004621,73.8554835,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf9511fc026c69:0xb9242055bd2c3e81!8m2!3d15.6004621!4d73.8554835!16s%2Fg%2F11n__843cl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Kidney+Stone/@15.6004621,73.8554835,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf9511fc026c69:0xb9242055bd2c3e81!8m2!3d15.6004621!4d73.8554835!16s%2Fg%2F11n__843cl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11763,10 +11862,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Kidney+Stone/@15.6004621,73.8554835,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf9511fc026c69:0xb9242055bd2c3e81!8m2!3d15.6004621!4d73.8554835!16s%2Fg%2F11n__843cl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thyrocare-aarogyam-ponda-ponda",
@@ -11815,7 +11915,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Thyrocare+Aarogyam+Ponda/@15.4048479,74.0059288,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbb6b873fe69:0xcd3130c47b3aaea2!8m2!3d15.4048479!4d74.0059288!16s%2Fg%2F11sj9578bw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thyrocare+Aarogyam+Ponda/@15.4048479,74.0059288,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbb6b873fe69:0xcd3130c47b3aaea2!8m2!3d15.4048479!4d74.0059288!16s%2Fg%2F11sj9578bw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11884,7 +11984,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thyrocare+Aarogyam+Ponda/@15.4048479,74.0059288,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbb6b873fe69:0xcd3130c47b3aaea2!8m2!3d15.4048479!4d74.0059288!16s%2Fg%2F11sj9578bw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "trimurti-general-hospital-madgaon",
@@ -11933,7 +12034,7 @@
       "Google rating 2.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Trimurti+General+Hospital/@15.2866729,73.9773655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0x72724dc8b9767266!8m2!3d15.2866729!4d73.9773655!16s%2Fg%2F1vn_xdwc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trimurti+General+Hospital/@15.2866729,73.9773655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0x72724dc8b9767266!8m2!3d15.2866729!4d73.9773655!16s%2Fg%2F1vn_xdwc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12002,7 +12103,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Trimurti+General+Hospital/@15.2866729,73.9773655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3e9c143a8a7:0x72724dc8b9767266!8m2!3d15.2866729!4d73.9773655!16s%2Fg%2F1vn_xdwc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "urology-clinic-ponda",
@@ -12048,7 +12150,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Urology+Clinic/@15.3975654,74.0026835,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb0bb848b29f:0x74b07742ccf027f5!8m2!3d15.3975654!4d74.0026835!16s%2Fg%2F11y5br97yr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Urology+Clinic/@15.3975654,74.0026835,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb0bb848b29f:0x74b07742ccf027f5!8m2!3d15.3975654!4d74.0026835!16s%2Fg%2F11y5br97yr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12114,10 +12216,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Urology+Clinic/@15.3975654,74.0026835,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb0bb848b29f:0x74b07742ccf027f5!8m2!3d15.3975654!4d74.0026835!16s%2Fg%2F11y5br97yr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "usgaonkers-children-hospital-ponda",
@@ -12166,7 +12269,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Usgaonkers+Children+Hospital/@15.3974884,74.0030929,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba968fd31293:0xe7dcdc5734873fb!8m2!3d15.3974884!4d74.0030929!16s%2Fg%2F1td08cq6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Usgaonkers+Children+Hospital/@15.3974884,74.0030929,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba968fd31293:0xe7dcdc5734873fb!8m2!3d15.3974884!4d74.0030929!16s%2Fg%2F1td08cq6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12235,7 +12338,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Usgaonkers+Children+Hospital/@15.3974884,74.0030929,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfba968fd31293:0xe7dcdc5734873fb!8m2!3d15.3974884!4d74.0030929!16s%2Fg%2F1td08cq6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "v-m-salgaocar-hospital-bogmalo",
@@ -12284,7 +12388,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/V.+M.+Salgaocar+Hospital/@15.394733,73.8368418,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc749e2781321:0xb3ec11b1f42b97c8!8m2!3d15.394733!4d73.8368418!16s%2Fg%2F11h5w7wyg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V.+M.+Salgaocar+Hospital/@15.394733,73.8368418,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc749e2781321:0xb3ec11b1f42b97c8!8m2!3d15.394733!4d73.8368418!16s%2Fg%2F11h5w7wyg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12353,7 +12457,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/V.+M.+Salgaocar+Hospital/@15.394733,73.8368418,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc749e2781321:0xb3ec11b1f42b97c8!8m2!3d15.394733!4d73.8368418!16s%2Fg%2F11h5w7wyg0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vcare-hair-and-skin-clinic-goa-porvorim-skin-treatment-hair-treatment-hair-transplant-laser-hair-removal-plot-no-135-1",
@@ -12402,7 +12507,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+GOA+-+Porvorim+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal/@15.5348192,73.8234771,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc11389518d77:0x2d90fa9ec6fc465f!8m2!3d15.5348192!4d73.8234771!16s%2Fg%2F11wwmzs2ny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+GOA+-+Porvorim+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal/@15.5348192,73.8234771,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc11389518d77:0x2d90fa9ec6fc465f!8m2!3d15.5348192!4d73.8234771!16s%2Fg%2F11wwmzs2ny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12471,7 +12576,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+GOA+-+Porvorim+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal/@15.5348192,73.8234771,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc11389518d77:0x2d90fa9ec6fc465f!8m2!3d15.5348192!4d73.8234771!16s%2Fg%2F11wwmzs2ny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ved-ayurved-bhavan-ayurvedic-clinic-and-panchakarma-center-goa-india-penha-de-franc",
@@ -12519,7 +12625,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Ved+Ayurved+Bhavan+Ayurvedic+Clinic+And+Panchakarma+Center+Goa+India/@15.5195571,73.828935,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06e75ec71ad:0x7f38b7cf60afd7fe!8m2!3d15.5195571!4d73.828935!16s%2Fg%2F1hhkq5d_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ved+Ayurved+Bhavan+Ayurvedic+Clinic+And+Panchakarma+Center+Goa+India/@15.5195571,73.828935,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06e75ec71ad:0x7f38b7cf60afd7fe!8m2!3d15.5195571!4d73.828935!16s%2Fg%2F1hhkq5d_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12588,7 +12694,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ved+Ayurved+Bhavan+Ayurvedic+Clinic+And+Panchakarma+Center+Goa+India/@15.5195571,73.828935,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06e75ec71ad:0x7f38b7cf60afd7fe!8m2!3d15.5195571!4d73.828935!16s%2Fg%2F1hhkq5d_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ved-clinic-ponda",
@@ -12636,7 +12743,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/VED+Clinic/@15.3982891,74.0235957,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb6f6b7a6b01:0x83b60128d898e381!8m2!3d15.3982891!4d74.0235957!16s%2Fg%2F11kpfy0tkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VED+Clinic/@15.3982891,74.0235957,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb6f6b7a6b01:0x83b60128d898e381!8m2!3d15.3982891!4d74.0235957!16s%2Fg%2F11kpfy0tkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12705,7 +12812,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VED+Clinic/@15.3982891,74.0235957,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbb6f6b7a6b01:0x83b60128d898e381!8m2!3d15.3982891!4d74.0235957!16s%2Fg%2F11kpfy0tkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vedic-delight-ayurveda-and-panchakarma-clinic-ponda",
@@ -12753,7 +12861,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Vedic+Delight+Ayurveda+%26+Panchakarma+Clinic/@15.3875254,74.0039682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbece096620b:0x37f5b70cebebe45e!8m2!3d15.3875254!4d74.0039682!16s%2Fg%2F11ll9vwwkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vedic+Delight+Ayurveda+%26+Panchakarma+Clinic/@15.3875254,74.0039682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbece096620b:0x37f5b70cebebe45e!8m2!3d15.3875254!4d74.0039682!16s%2Fg%2F11ll9vwwkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12822,7 +12930,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vedic+Delight+Ayurveda+%26+Panchakarma+Clinic/@15.3875254,74.0039682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbece096620b:0x37f5b70cebebe45e!8m2!3d15.3875254!4d74.0039682!16s%2Fg%2F11ll9vwwkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "victor-hospital-madgaon",
@@ -12871,7 +12980,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Victor+Hospital/@15.2689598,73.9663188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6c5c4520d:0xa4045e195fdd67b3!8m2!3d15.2689598!4d73.9663188!16s%2Fg%2F1tdl4l90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Victor+Hospital/@15.2689598,73.9663188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6c5c4520d:0xa4045e195fdd67b3!8m2!3d15.2689598!4d73.9663188!16s%2Fg%2F1tdl4l90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12940,7 +13049,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Victor+Hospital/@15.2689598,73.9663188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6c5c4520d:0xa4045e195fdd67b3!8m2!3d15.2689598!4d73.9663188!16s%2Fg%2F1tdl4l90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vida-clinics-sancoale",
@@ -12990,7 +13100,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vida+Clinics/data=!4m7!3m6!1s0x3bbfb91c54ef1d41:0xf46d9a140d60b65!8m2!3d15.3838012!4d73.8695232!16s%2Fg%2F11rvg4n284!19sChIJQR3vVBy5vzsRZQvWQKHZRg8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vida+Clinics/data=!4m7!3m6!1s0x3bbfb91c54ef1d41:0xf46d9a140d60b65!8m2!3d15.3838012!4d73.8695232!16s%2Fg%2F11rvg4n284!19sChIJQR3vVBy5vzsRZQvWQKHZRg8?authuser=0&hl=en&rclk=1"
@@ -13059,7 +13169,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vida+Clinics/data=!4m7!3m6!1s0x3bbfb91c54ef1d41:0xf46d9a140d60b65!8m2!3d15.3838012!4d73.8695232!16s%2Fg%2F11rvg4n284!19sChIJQR3vVBy5vzsRZQvWQKHZRg8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vision-hospital-goa-mapusa",
@@ -13108,7 +13219,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vision+Hospital+Goa/@15.6041085,73.8200155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb22e915b243:0xe169c686ad111a19!8m2!3d15.6041085!4d73.8200155!16s%2Fg%2F11dfwyb40x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vision+Hospital+Goa/@15.6041085,73.8200155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb22e915b243:0xe169c686ad111a19!8m2!3d15.6041085!4d73.8200155!16s%2Fg%2F11dfwyb40x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13177,7 +13288,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vision+Hospital+Goa/@15.6041085,73.8200155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb22e915b243:0xe169c686ad111a19!8m2!3d15.6041085!4d73.8200155!16s%2Fg%2F11dfwyb40x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wellness-forever-pharmacy-qazi-building-ponda-goa-ponda",
@@ -13227,7 +13339,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Wellness+Forever+Pharmacy+-+Qazi+Building,+Ponda,+Goa/@15.4021756,74.0066351,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbcc964d0449:0x2c31e7586ef90dec!8m2!3d15.4021756!4d74.0066351!16s%2Fg%2F11r7mq6_fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wellness+Forever+Pharmacy+-+Qazi+Building,+Ponda,+Goa/@15.4021756,74.0066351,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbcc964d0449:0x2c31e7586ef90dec!8m2!3d15.4021756!4d74.0066351!16s%2Fg%2F11r7mq6_fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13296,7 +13408,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Wellness+Forever+Pharmacy+-+Qazi+Building,+Ponda,+Goa/@15.4021756,74.0066351,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbcc964d0449:0x2c31e7586ef90dec!8m2!3d15.4021756!4d74.0066351!16s%2Fg%2F11r7mq6_fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yashraj-clinic-calangute",
@@ -13345,7 +13458,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yashraj+Clinic/@15.5452524,73.7633311,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1e27583c261:0xe24f2217845a9e8d!8m2!3d15.5452524!4d73.7633311!16s%2Fg%2F11c53clxs_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashraj+Clinic/@15.5452524,73.7633311,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1e27583c261:0xe24f2217845a9e8d!8m2!3d15.5452524!4d73.7633311!16s%2Fg%2F11c53clxs_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13414,7 +13527,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashraj+Clinic/@15.5452524,73.7633311,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1e27583c261:0xe24f2217845a9e8d!8m2!3d15.5452524!4d73.7633311!16s%2Fg%2F11c53clxs_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yatharth-ayurveda-clinic-and-pharmacy-ponda",
@@ -13462,7 +13576,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Yatharth+Ayurveda+Clinic+and+Pharmacy/@15.3962026,74.0001062,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbafa4803603:0x3ef2c460455140b0!8m2!3d15.3962026!4d74.0001062!16s%2Fg%2F11kj0yzq88?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yatharth+Ayurveda+Clinic+and+Pharmacy/@15.3962026,74.0001062,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbafa4803603:0x3ef2c460455140b0!8m2!3d15.3962026!4d74.0001062!16s%2Fg%2F11kj0yzq88?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13528,9 +13642,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yatharth+Ayurveda+Clinic+and+Pharmacy/@15.3962026,74.0001062,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfbbafa4803603:0x3ef2c460455140b0!8m2!3d15.3962026!4d74.0001062!16s%2Fg%2F11kj0yzq88?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

@@ -47,7 +47,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aadinath+Medicity+Ajmer/data=!4m7!3m6!1s0x396be996d31815e5:0x4feb413d42dd32c0!8m2!3d26.5639693!4d74.6824104!16s%2Fg%2F11vxx916yn!19sChIJ5RUY05bpazkRwDLdQj1B608?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aadinath+Medicity+Ajmer/data=!4m7!3m6!1s0x396be996d31815e5:0x4feb413d42dd32c0!8m2!3d26.5639693!4d74.6824104!16s%2Fg%2F11vxx916yn!19sChIJ5RUY05bpazkRwDLdQj1B608?authuser=0&hl=en&rclk=1"
@@ -116,7 +116,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aadinath+Medicity+Ajmer/data=!4m7!3m6!1s0x396be996d31815e5:0x4feb413d42dd32c0!8m2!3d26.5639693!4d74.6824104!16s%2Fg%2F11vxx916yn!19sChIJ5RUY05bpazkRwDLdQj1B608?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "advance-dental-speciality-clinic-prosthodontist-best-dental-clinic-painless-rct-drsurbhi-porwal-drrohit-mundra-implants-ajmer",
@@ -165,7 +166,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Advance+dental+speciality+clinic%23+prosthodontist%23+best+dental+clinic%23+painless+rct+%23DrSurbhi+porwal%23DrRohit+mundra%23implants/data=!4m7!3m6!1s0x396be7e57eb85701:0x3b23a14e0f337edb!8m2!3d26.4838143!4d74.6469029!16s%2Fg%2F11gm70tvd6!19sChIJAVe4fuXnazkR234zD06hIzs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+dental+speciality+clinic%23+prosthodontist%23+best+dental+clinic%23+painless+rct+%23DrSurbhi+porwal%23DrRohit+mundra%23implants/data=!4m7!3m6!1s0x396be7e57eb85701:0x3b23a14e0f337edb!8m2!3d26.4838143!4d74.6469029!16s%2Fg%2F11gm70tvd6!19sChIJAVe4fuXnazkR234zD06hIzs?authuser=0&hl=en&rclk=1"
@@ -231,10 +232,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+dental+speciality+clinic%23+prosthodontist%23+best+dental+clinic%23+painless+rct+%23DrSurbhi+porwal%23DrRohit+mundra%23implants/data=!4m7!3m6!1s0x396be7e57eb85701:0x3b23a14e0f337edb!8m2!3d26.4838143!4d74.6469029!16s%2Fg%2F11gm70tvd6!19sChIJAVe4fuXnazkR234zD06hIzs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ajmer-e-n-t-hospital-ajmer",
@@ -283,7 +285,7 @@
       "Google rating 4.8",
       "177+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Ajmer+E.N.T.+Hospital/data=!4m7!3m6!1s0x396be79e82019cfd:0xff124b86b0a97a06!8m2!3d26.4741016!4d74.6103903!16s%2Fg%2F11fxb5dwb3!19sChIJ_ZwBgp7nazkRBnqpsIZLEv8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ajmer+E.N.T.+Hospital/data=!4m7!3m6!1s0x396be79e82019cfd:0xff124b86b0a97a06!8m2!3d26.4741016!4d74.6103903!16s%2Fg%2F11fxb5dwb3!19sChIJ_ZwBgp7nazkRBnqpsIZLEv8?authuser=0&hl=en&rclk=1"
@@ -352,7 +354,8 @@
     "rating": 4.8,
     "reviews": 177,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ajmer+E.N.T.+Hospital/data=!4m7!3m6!1s0x396be79e82019cfd:0xff124b86b0a97a06!8m2!3d26.4741016!4d74.6103903!16s%2Fg%2F11fxb5dwb3!19sChIJ_ZwBgp7nazkRBnqpsIZLEv8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apollo-proton-therapy-in-ajmer-ajmer",
@@ -401,7 +404,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Ajmer/data=!4m7!3m6!1s0x396be71f0c2873d5:0xc1e3c8a43a6db978!8m2!3d26.448806!4d74.634474!16s%2Fg%2F11xtw_n44z!19sChIJ1XMoDB_nazkReLltOqTI48E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Ajmer/data=!4m7!3m6!1s0x396be71f0c2873d5:0xc1e3c8a43a6db978!8m2!3d26.448806!4d74.634474!16s%2Fg%2F11xtw_n44z!19sChIJ1XMoDB_nazkReLltOqTI48E?authuser=0&hl=en&rclk=1"
@@ -467,10 +470,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Ajmer/data=!4m7!3m6!1s0x396be71f0c2873d5:0xc1e3c8a43a6db978!8m2!3d26.448806!4d74.634474!16s%2Fg%2F11xtw_n44z!19sChIJ1XMoDB_nazkReLltOqTI48E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "b-r-shastri-hospital-ajmer-ajmer",
@@ -519,7 +523,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/B+R+shastri+Hospital+Ajmer/data=!4m7!3m6!1s0x396be94284b0ffdd:0x805a8605f127f74d!8m2!3d26.5635912!4d74.6832183!16s%2Fg%2F11sc_l9ndv!19sChIJ3f-whELpazkRTfcn8QWGWoA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B+R+shastri+Hospital+Ajmer/data=!4m7!3m6!1s0x396be94284b0ffdd:0x805a8605f127f74d!8m2!3d26.5635912!4d74.6832183!16s%2Fg%2F11sc_l9ndv!19sChIJ3f-whELpazkRTfcn8QWGWoA?authuser=0&hl=en&rclk=1"
@@ -588,7 +592,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/B+R+shastri+Hospital+Ajmer/data=!4m7!3m6!1s0x396be94284b0ffdd:0x805a8605f127f74d!8m2!3d26.5635912!4d74.6832183!16s%2Fg%2F11sc_l9ndv!19sChIJ3f-whELpazkRTfcn8QWGWoA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bharat-hospital-ajmer",
@@ -638,7 +643,7 @@
       "11+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bharat+Hospital/data=!4m7!3m6!1s0x396be653e64a4809:0xc81f8929b6b0e7ff!8m2!3d26.4809848!4d74.6449001!16s%2Fg%2F1tglxcw7!19sChIJCUhK5lPmazkR_-ewtimJH8g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharat+Hospital/data=!4m7!3m6!1s0x396be653e64a4809:0xc81f8929b6b0e7ff!8m2!3d26.4809848!4d74.6449001!16s%2Fg%2F1tglxcw7!19sChIJCUhK5lPmazkR_-ewtimJH8g?authuser=0&hl=en&rclk=1"
@@ -707,7 +712,8 @@
     "rating": 3.7,
     "reviews": 11,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bharat+Hospital/data=!4m7!3m6!1s0x396be653e64a4809:0xc81f8929b6b0e7ff!8m2!3d26.4809848!4d74.6449001!16s%2Fg%2F1tglxcw7!19sChIJCUhK5lPmazkR_-ewtimJH8g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "brave-tooth-dental-clinic-ajmer",
@@ -756,7 +762,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Brave+Tooth+Dental+Clinic/data=!4m7!3m6!1s0x396be1b0eeb1ed57:0xfe422d6d4a5d4735!8m2!3d26.4235752!4d74.6528805!16s%2Fg%2F11hdjf652w!19sChIJV-2x7rDhazkRNUddSm0tQv4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brave+Tooth+Dental+Clinic/data=!4m7!3m6!1s0x396be1b0eeb1ed57:0xfe422d6d4a5d4735!8m2!3d26.4235752!4d74.6528805!16s%2Fg%2F11hdjf652w!19sChIJV-2x7rDhazkRNUddSm0tQv4?authuser=0&hl=en&rclk=1"
@@ -822,10 +828,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Brave+Tooth+Dental+Clinic/data=!4m7!3m6!1s0x396be1b0eeb1ed57:0xfe422d6d4a5d4735!8m2!3d26.4235752!4d74.6528805!16s%2Fg%2F11hdjf652w!19sChIJV-2x7rDhazkRNUddSm0tQv4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "city-health-care-and-diagnostic-centre-ajmer",
@@ -874,7 +881,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/City+health+care+and+diagnostic+centre/data=!4m7!3m6!1s0x396be724651bcedf:0x12abc6f1c4ae4add!8m2!3d26.4696665!4d74.6353835!16s%2Fg%2F11rpdgl52g!19sChIJ384bZSTnazkR3UquxPHGqxI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+health+care+and+diagnostic+centre/data=!4m7!3m6!1s0x396be724651bcedf:0x12abc6f1c4ae4add!8m2!3d26.4696665!4d74.6353835!16s%2Fg%2F11rpdgl52g!19sChIJ384bZSTnazkR3UquxPHGqxI?authuser=0&hl=en&rclk=1"
@@ -943,7 +950,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+health+care+and+diagnostic+centre/data=!4m7!3m6!1s0x396be724651bcedf:0x12abc6f1c4ae4add!8m2!3d26.4696665!4d74.6353835!16s%2Fg%2F11rpdgl52g!19sChIJ384bZSTnazkR3UquxPHGqxI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "city-smile-dental-clinic-best-dental-clinic-in-ajmer-ajmer",
@@ -991,7 +999,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/City+smile+dental+clinic+%7C+Best+dental+clinic+in+Ajmer/data=!4m7!3m6!1s0x396be70005798157:0x314e327a8e4236bb!8m2!3d26.4761267!4d74.6335032!16s%2Fg%2F11mzc6h55t!19sChIJV4F5BQDnazkRuzZCjnoyTjE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+smile+dental+clinic+%7C+Best+dental+clinic+in+Ajmer/data=!4m7!3m6!1s0x396be70005798157:0x314e327a8e4236bb!8m2!3d26.4761267!4d74.6335032!16s%2Fg%2F11mzc6h55t!19sChIJV4F5BQDnazkRuzZCjnoyTjE?authuser=0&hl=en&rclk=1"
@@ -1057,10 +1065,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+smile+dental+clinic+%7C+Best+dental+clinic+in+Ajmer/data=!4m7!3m6!1s0x396be70005798157:0x314e327a8e4236bb!8m2!3d26.4761267!4d74.6335032!16s%2Fg%2F11mzc6h55t!19sChIJV4F5BQDnazkRuzZCjnoyTjE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "deepmala-pagarani-hospital-ajmer-ajmer",
@@ -1109,7 +1118,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Deepmala+Pagarani+Hospital,Ajmer/data=!4m7!3m6!1s0x396be13227e09345:0xe5379db56e2e2036!8m2!3d26.4237929!4d74.6539342!16s%2Fg%2F1q64fdjyr!19sChIJRZPgJzLhazkRNiAubrWdN-U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deepmala+Pagarani+Hospital,Ajmer/data=!4m7!3m6!1s0x396be13227e09345:0xe5379db56e2e2036!8m2!3d26.4237929!4d74.6539342!16s%2Fg%2F1q64fdjyr!19sChIJRZPgJzLhazkRNiAubrWdN-U?authuser=0&hl=en&rclk=1"
@@ -1178,7 +1187,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deepmala+Pagarani+Hospital,Ajmer/data=!4m7!3m6!1s0x396be13227e09345:0xe5379db56e2e2036!8m2!3d26.4237929!4d74.6539342!16s%2Fg%2F1q64fdjyr!19sChIJRZPgJzLhazkRNiAubrWdN-U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dental-care-world-ajmer",
@@ -1227,7 +1237,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Care+World/data=!4m7!3m6!1s0x396be19074a6a80b:0xfd33531460785dcc!8m2!3d26.4196464!4d74.6349207!16s%2Fg%2F11jwsk6gzx!19sChIJC6imdJDhazkRzF14YBRTM_0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Care+World/data=!4m7!3m6!1s0x396be19074a6a80b:0xfd33531460785dcc!8m2!3d26.4196464!4d74.6349207!16s%2Fg%2F11jwsk6gzx!19sChIJC6imdJDhazkRzF14YBRTM_0?authuser=0&hl=en&rclk=1"
@@ -1296,7 +1306,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Care+World/data=!4m7!3m6!1s0x396be19074a6a80b:0xfd33531460785dcc!8m2!3d26.4196464!4d74.6349207!16s%2Fg%2F11jwsk6gzx!19sChIJC6imdJDhazkRzF14YBRTM_0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "derma-magnetica-ajmer",
@@ -1346,7 +1357,7 @@
       "188+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Derma+Magnetica/data=!4m7!3m6!1s0x396be7425f902911:0x648a07c5416b3668!8m2!3d26.4761329!4d74.6333325!16s%2Fg%2F11mr1zvbsh!19sChIJESmQX0LnazkRaDZrQcUHimQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Derma+Magnetica/data=!4m7!3m6!1s0x396be7425f902911:0x648a07c5416b3668!8m2!3d26.4761329!4d74.6333325!16s%2Fg%2F11mr1zvbsh!19sChIJESmQX0LnazkRaDZrQcUHimQ?authuser=0&hl=en&rclk=1"
@@ -1415,7 +1426,8 @@
     "rating": 4.7,
     "reviews": 188,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Derma+Magnetica/data=!4m7!3m6!1s0x396be7425f902911:0x648a07c5416b3668!8m2!3d26.4761329!4d74.6333325!16s%2Fg%2F11mr1zvbsh!19sChIJESmQX0LnazkRaDZrQcUHimQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "elara-infertility-ajmer-ajmer",
@@ -1465,7 +1477,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Elara+Infertility+Ajmer/data=!4m7!3m6!1s0x396be70e4e196d2f:0xad55095b9f6bc8b7!8m2!3d26.4660917!4d74.6376976!16s%2Fg%2F11xmc4mpxm!19sChIJL20ZTg7nazkRt8hrn1sJVa0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elara+Infertility+Ajmer/data=!4m7!3m6!1s0x396be70e4e196d2f:0xad55095b9f6bc8b7!8m2!3d26.4660917!4d74.6376976!16s%2Fg%2F11xmc4mpxm!19sChIJL20ZTg7nazkRt8hrn1sJVa0?authuser=0&hl=en&rclk=1"
@@ -1531,10 +1543,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Elara+Infertility+Ajmer/data=!4m7!3m6!1s0x396be70e4e196d2f:0xad55095b9f6bc8b7!8m2!3d26.4660917!4d74.6376976!16s%2Fg%2F11xmc4mpxm!19sChIJL20ZTg7nazkRt8hrn1sJVa0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "eskag-sanjeevani-dialysis-center-ajmer-ajmer",
@@ -1585,7 +1598,7 @@
       "117+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Ajmer/data=!4m7!3m6!1s0x396be149210e900b:0x481af700679dc26d!8m2!3d26.418606!4d74.65512!16s%2Fg%2F11sfdb5zv8!19sChIJC5AOIUnhazkRbcKdZwD3Gkg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Ajmer/data=!4m7!3m6!1s0x396be149210e900b:0x481af700679dc26d!8m2!3d26.418606!4d74.65512!16s%2Fg%2F11sfdb5zv8!19sChIJC5AOIUnhazkRbcKdZwD3Gkg?authuser=0&hl=en&rclk=1"
@@ -1651,10 +1664,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 117,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eskag+Sanjeevani+Dialysis+Center+Ajmer/data=!4m7!3m6!1s0x396be149210e900b:0x481af700679dc26d!8m2!3d26.418606!4d74.65512!16s%2Fg%2F11sfdb5zv8!19sChIJC5AOIUnhazkRbcKdZwD3Gkg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gaurav-heart-care-center-dr-gaurav-chauhan-ajmer",
@@ -1704,7 +1718,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gaurav+Heart+Care+Center+%28Dr+Gaurav+Chauhan%29/data=!4m7!3m6!1s0x396be75003e5cc2b:0xa62b175bc1c3a69a!8m2!3d26.4821941!4d74.6088348!16s%2Fg%2F11v0rxwh_n!19sChIJK8zlA1DnazkRmqbDwVsXK6Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gaurav+Heart+Care+Center+%28Dr+Gaurav+Chauhan%29/data=!4m7!3m6!1s0x396be75003e5cc2b:0xa62b175bc1c3a69a!8m2!3d26.4821941!4d74.6088348!16s%2Fg%2F11v0rxwh_n!19sChIJK8zlA1DnazkRmqbDwVsXK6Y?authuser=0&hl=en&rclk=1"
@@ -1770,10 +1784,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gaurav+Heart+Care+Center+%28Dr+Gaurav+Chauhan%29/data=!4m7!3m6!1s0x396be75003e5cc2b:0xa62b175bc1c3a69a!8m2!3d26.4821941!4d74.6088348!16s%2Fg%2F11v0rxwh_n!19sChIJK8zlA1DnazkRmqbDwVsXK6Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gheesibai-memorial-mittal-hospital-and-research-centre-ajmer-ajmer",
@@ -1823,7 +1838,7 @@
       "12+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gheesibai+Memorial+Mittal+Hospital+%26+Research+Centre+-+Ajmer/data=!4m7!3m6!1s0x396be79e8d7cb179:0xe67d03dbef12f955!8m2!3d26.4746676!4d74.6118762!16s%2Fg%2F124yp9fjr!19sChIJebF8jZ7nazkRVfkS79sDfeY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gheesibai+Memorial+Mittal+Hospital+%26+Research+Centre+-+Ajmer/data=!4m7!3m6!1s0x396be79e8d7cb179:0xe67d03dbef12f955!8m2!3d26.4746676!4d74.6118762!16s%2Fg%2F124yp9fjr!19sChIJebF8jZ7nazkRVfkS79sDfeY?authuser=0&hl=en&rclk=1"
@@ -1892,7 +1907,8 @@
     "rating": 3.6,
     "reviews": 12,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gheesibai+Memorial+Mittal+Hospital+%26+Research+Centre+-+Ajmer/data=!4m7!3m6!1s0x396be79e8d7cb179:0xe67d03dbef12f955!8m2!3d26.4746676!4d74.6118762!16s%2Fg%2F124yp9fjr!19sChIJebF8jZ7nazkRVfkS79sDfeY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "greevanchal-breast-thyroid-and-endocrine-surgery-clinic-ajmer",
@@ -1941,7 +1957,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Greevanchal+-+Breast+Thyroid+%26+Endocrine+Surgery+Clinic/data=!4m7!3m6!1s0x396be7e32e5117f3:0xf6bbcec3ef25b9e3!8m2!3d26.4872998!4d74.6276616!16s%2Fg%2F11vzfrfy4t!19sChIJ8xdRLuPnazkR47kl78POu_Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Greevanchal+-+Breast+Thyroid+%26+Endocrine+Surgery+Clinic/data=!4m7!3m6!1s0x396be7e32e5117f3:0xf6bbcec3ef25b9e3!8m2!3d26.4872998!4d74.6276616!16s%2Fg%2F11vzfrfy4t!19sChIJ8xdRLuPnazkR47kl78POu_Y?authuser=0&hl=en&rclk=1"
@@ -2007,10 +2023,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Greevanchal+-+Breast+Thyroid+%26+Endocrine+Surgery+Clinic/data=!4m7!3m6!1s0x396be7e32e5117f3:0xf6bbcec3ef25b9e3!8m2!3d26.4872998!4d74.6276616!16s%2Fg%2F11vzfrfy4t!19sChIJ8xdRLuPnazkR47kl78POu_Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hope-international-fertility-ajmer",
@@ -2061,7 +2078,7 @@
       "257+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hope+International+Fertility/data=!4m7!3m6!1s0x396be7024f0006c5:0x18b948d949bf3f70!8m2!3d26.4660611!4d74.6377755!16s%2Fg%2F11fylqb9nw!19sChIJxQYATwLnazkRcD-_SdlIuRg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+International+Fertility/data=!4m7!3m6!1s0x396be7024f0006c5:0x18b948d949bf3f70!8m2!3d26.4660611!4d74.6377755!16s%2Fg%2F11fylqb9nw!19sChIJxQYATwLnazkRcD-_SdlIuRg?authuser=0&hl=en&rclk=1"
@@ -2127,10 +2144,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 257,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hope+International+Fertility/data=!4m7!3m6!1s0x396be7024f0006c5:0x18b948d949bf3f70!8m2!3d26.4660611!4d74.6377755!16s%2Fg%2F11fylqb9nw!19sChIJxQYATwLnazkRcD-_SdlIuRg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "i-cure-clinic-and-optical-ajmer",
@@ -2179,7 +2197,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/I-CURE+CLINIC+%26+OPTICAL/data=!4m7!3m6!1s0x396be144a12b5645:0x3149a64035a73ee2!8m2!3d26.4194751!4d74.634889!16s%2Fg%2F11xrkzcbtc!19sChIJRVYroUThazkR4j6nNUCmSTE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/I-CURE+CLINIC+%26+OPTICAL/data=!4m7!3m6!1s0x396be144a12b5645:0x3149a64035a73ee2!8m2!3d26.4194751!4d74.634889!16s%2Fg%2F11xrkzcbtc!19sChIJRVYroUThazkR4j6nNUCmSTE?authuser=0&hl=en&rclk=1"
@@ -2245,10 +2263,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/I-CURE+CLINIC+%26+OPTICAL/data=!4m7!3m6!1s0x396be144a12b5645:0x3149a64035a73ee2!8m2!3d26.4194751!4d74.634889!16s%2Fg%2F11xrkzcbtc!19sChIJRVYroUThazkR4j6nNUCmSTE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "indian-health-care-services-ajmer",
@@ -2296,7 +2315,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Indian+Health+Care+Services/@26.4536473,74.6319038,17z/data=!3m1!4b1!4m6!3m5!1s0x396be7e119603231:0xd4384ce5c9f394ae!8m2!3d26.4536473!4d74.6319038!16s%2Fg%2F11ly_61kts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indian+Health+Care+Services/@26.4536473,74.6319038,17z/data=!3m1!4b1!4m6!3m5!1s0x396be7e119603231:0xd4384ce5c9f394ae!8m2!3d26.4536473!4d74.6319038!16s%2Fg%2F11ly_61kts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -2362,10 +2381,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indian+Health+Care+Services/@26.4536473,74.6319038,17z/data=!3m1!4b1!4m6!3m5!1s0x396be7e119603231:0xd4384ce5c9f394ae!8m2!3d26.4536473!4d74.6319038!16s%2Fg%2F11ly_61kts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-ajmer-best-ivf-centre-ajmer",
@@ -2415,7 +2435,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Ajmer+-+Best+IVF+Centre/data=!4m7!3m6!1s0x396be776777a0563:0x4a51d5e7b80c77e1!8m2!3d26.4781904!4d74.6572484!16s%2Fg%2F11nnqtsbn4!19sChIJYwV6d3bnazkR4XcMuOfVUUo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Ajmer+-+Best+IVF+Centre/data=!4m7!3m6!1s0x396be776777a0563:0x4a51d5e7b80c77e1!8m2!3d26.4781904!4d74.6572484!16s%2Fg%2F11nnqtsbn4!19sChIJYwV6d3bnazkR4XcMuOfVUUo?authuser=0&hl=en&rclk=1"
@@ -2484,7 +2504,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Ajmer+-+Best+IVF+Centre/data=!4m7!3m6!1s0x396be776777a0563:0x4a51d5e7b80c77e1!8m2!3d26.4781904!4d74.6572484!16s%2Fg%2F11nnqtsbn4!19sChIJYwV6d3bnazkR4XcMuOfVUUo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jeevan-jyoti-hospital-ajmer",
@@ -2533,7 +2554,7 @@
       "Google rating 4.0",
       "5+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/data=!4m7!3m6!1s0x396be72009dac815:0x3098dc603f5d0942!8m2!3d26.4282654!4d74.6361163!16s%2Fg%2F1vxfykpp!19sChIJFcjaCSDnazkRQgldP2DcmDA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/data=!4m7!3m6!1s0x396be72009dac815:0x3098dc603f5d0942!8m2!3d26.4282654!4d74.6361163!16s%2Fg%2F1vxfykpp!19sChIJFcjaCSDnazkRQgldP2DcmDA?authuser=0&hl=en&rclk=1"
@@ -2599,10 +2620,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 5,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Jyoti+Hospital/data=!4m7!3m6!1s0x396be72009dac815:0x3098dc603f5d0942!8m2!3d26.4282654!4d74.6361163!16s%2Fg%2F1vxfykpp!19sChIJFcjaCSDnazkRQgldP2DcmDA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jln-cardiology-hospital-ajmer",
@@ -2651,7 +2673,7 @@
       "Google rating 4.1",
       "30+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/JLN+Cardiology+Hospital/data=!4m7!3m6!1s0x396be703e47e824f:0x95d59009e2ab1e82!8m2!3d26.4671569!4d74.6353512!16s%2Fg%2F11r8zdlsm!19sChIJT4J-5APnazkRgh6r4gmQ1ZU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JLN+Cardiology+Hospital/data=!4m7!3m6!1s0x396be703e47e824f:0x95d59009e2ab1e82!8m2!3d26.4671569!4d74.6353512!16s%2Fg%2F11r8zdlsm!19sChIJT4J-5APnazkRgh6r4gmQ1ZU?authuser=0&hl=en&rclk=1"
@@ -2720,7 +2742,8 @@
     "rating": 4.1,
     "reviews": 30,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JLN+Cardiology+Hospital/data=!4m7!3m6!1s0x396be703e47e824f:0x95d59009e2ab1e82!8m2!3d26.4671569!4d74.6353512!16s%2Fg%2F11r8zdlsm!19sChIJT4J-5APnazkRgh6r4gmQ1ZU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kanha-dental-and-maxillofacial-clinic-ajmer",
@@ -2769,7 +2792,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kanha+DENTAL+%26+Maxillofacial+Clinic/data=!4m7!3m6!1s0x396be743dd9caa3d:0xc3604187271984c5!8m2!3d26.5154817!4d74.6320265!16s%2Fg%2F11ptylfj7v!19sChIJPaqc3UPnazkRxYQZJ4dBYMM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kanha+DENTAL+%26+Maxillofacial+Clinic/data=!4m7!3m6!1s0x396be743dd9caa3d:0xc3604187271984c5!8m2!3d26.5154817!4d74.6320265!16s%2Fg%2F11ptylfj7v!19sChIJPaqc3UPnazkRxYQZJ4dBYMM?authuser=0&hl=en&rclk=1"
@@ -2835,10 +2858,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kanha+DENTAL+%26+Maxillofacial+Clinic/data=!4m7!3m6!1s0x396be743dd9caa3d:0xc3604187271984c5!8m2!3d26.5154817!4d74.6320265!16s%2Fg%2F11ptylfj7v!19sChIJPaqc3UPnazkRxYQZJ4dBYMM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kelvin-hospital-and-research-centre-ajmer-best-hospital-best-sexologist-in-ajmer-ajmer",
@@ -2886,7 +2910,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Kelvin+Hospital+%26+Research+Centre+Ajmer+:+Best+hospital,+best+sexologist+in+ajmer/@26.4834802,74.647326,17z/data=!3m1!4b1!4m6!3m5!1s0x396be74b9ba10cb5:0xd788af7e07f92ad7!8m2!3d26.4834802!4d74.647326!16s%2Fg%2F11l5xmnxcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kelvin+Hospital+%26+Research+Centre+Ajmer+:+Best+hospital,+best+sexologist+in+ajmer/@26.4834802,74.647326,17z/data=!3m1!4b1!4m6!3m5!1s0x396be74b9ba10cb5:0xd788af7e07f92ad7!8m2!3d26.4834802!4d74.647326!16s%2Fg%2F11l5xmnxcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -2955,7 +2979,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kelvin+Hospital+%26+Research+Centre+Ajmer+:+Best+hospital,+best+sexologist+in+ajmer/@26.4834802,74.647326,17z/data=!3m1!4b1!4m6!3m5!1s0x396be74b9ba10cb5:0xd788af7e07f92ad7!8m2!3d26.4834802!4d74.647326!16s%2Fg%2F11l5xmnxcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kg-stone-hospital-ajmer",
@@ -3004,7 +3029,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KG+Stone+Hospital/data=!4m7!3m6!1s0x396be7c25c9effcf:0x65a553f74b8991f6!8m2!3d26.479849!4d74.6322174!16s%2Fg%2F11h55wj__q!19sChIJz_-eXMLnazkR9pGJS_dTpWU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KG+Stone+Hospital/data=!4m7!3m6!1s0x396be7c25c9effcf:0x65a553f74b8991f6!8m2!3d26.479849!4d74.6322174!16s%2Fg%2F11h55wj__q!19sChIJz_-eXMLnazkR9pGJS_dTpWU?authuser=0&hl=en&rclk=1"
@@ -3073,7 +3098,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KG+Stone+Hospital/data=!4m7!3m6!1s0x396be7c25c9effcf:0x65a553f74b8991f6!8m2!3d26.479849!4d74.6322174!16s%2Fg%2F11h55wj__q!19sChIJz_-eXMLnazkR9pGJS_dTpWU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lifecare-hospital-and-research-centre-ajmer",
@@ -3121,7 +3147,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lifecare+Hospital+%26+Research+centre/data=!4m7!3m6!1s0x396be758fe912189:0xb1e63e8c6062deff!8m2!3d26.5007419!4d74.6274303!16s%2Fg%2F11lh4_lpy8!19sChIJiSGR_ljnazkR_95iYIw-5rE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lifecare+Hospital+%26+Research+centre/data=!4m7!3m6!1s0x396be758fe912189:0xb1e63e8c6062deff!8m2!3d26.5007419!4d74.6274303!16s%2Fg%2F11lh4_lpy8!19sChIJiSGR_ljnazkR_95iYIw-5rE?authuser=0&hl=en&rclk=1"
@@ -3187,10 +3213,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lifecare+Hospital+%26+Research+centre/data=!4m7!3m6!1s0x396be758fe912189:0xb1e63e8c6062deff!8m2!3d26.5007419!4d74.6274303!16s%2Fg%2F11lh4_lpy8!19sChIJiSGR_ljnazkR_95iYIw-5rE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mittal-hospital-and-research-centre-blood-bank-ajmer",
@@ -3240,7 +3267,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mittal+Hospital+And+Research+Centre+Blood+Bank/data=!4m7!3m6!1s0x396be79ef2c44a6f:0x205f8433e201673e!8m2!3d26.4743993!4d74.6122692!16s%2Fg%2F11jdz_3zcl!19sChIJb0rE8p7nazkRPmcB4jOEXyA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mittal+Hospital+And+Research+Centre+Blood+Bank/data=!4m7!3m6!1s0x396be79ef2c44a6f:0x205f8433e201673e!8m2!3d26.4743993!4d74.6122692!16s%2Fg%2F11jdz_3zcl!19sChIJb0rE8p7nazkRPmcB4jOEXyA?authuser=0&hl=en&rclk=1"
@@ -3309,7 +3336,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mittal+Hospital+And+Research+Centre+Blood+Bank/data=!4m7!3m6!1s0x396be79ef2c44a6f:0x205f8433e201673e!8m2!3d26.4743993!4d74.6122692!16s%2Fg%2F11jdz_3zcl!19sChIJb0rE8p7nazkRPmcB4jOEXyA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neelkanth-ivf-and-fertility-center-best-iui-icsi-and-ivf-treatment-in-ajmer-ajmer",
@@ -3359,7 +3387,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Neelkanth+IVF+And+Fertility+Center+%7C+Best+IUI,+ICSI+%26+IVF+Treatment+in+Ajmer/data=!4m7!3m6!1s0x396be7b7f96bbb47:0xefdcf87c0bed650a!8m2!3d26.4760972!4d74.6463621!16s%2Fg%2F11tww873ls!19sChIJR7tr-bfnazkRCmXtC3z43O8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neelkanth+IVF+And+Fertility+Center+%7C+Best+IUI,+ICSI+%26+IVF+Treatment+in+Ajmer/data=!4m7!3m6!1s0x396be7b7f96bbb47:0xefdcf87c0bed650a!8m2!3d26.4760972!4d74.6463621!16s%2Fg%2F11tww873ls!19sChIJR7tr-bfnazkRCmXtC3z43O8?authuser=0&hl=en&rclk=1"
@@ -3428,7 +3456,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neelkanth+IVF+And+Fertility+Center+%7C+Best+IUI,+ICSI+%26+IVF+Treatment+in+Ajmer/data=!4m7!3m6!1s0x396be7b7f96bbb47:0xefdcf87c0bed650a!8m2!3d26.4760972!4d74.6463621!16s%2Fg%2F11tww873ls!19sChIJR7tr-bfnazkRCmXtC3z43O8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neuro-surgery-vibhag-ajmer",
@@ -3477,7 +3506,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Neuro+Surgery+Vibhag/data=!4m7!3m6!1s0x396be701068771ef:0x848b9d99346ae83e!8m2!3d26.4701957!4d74.6367811!16s%2Fg%2F11c57p8gtg!19sChIJ73GHBgHnazkRPuhqNJmdi4Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuro+Surgery+Vibhag/data=!4m7!3m6!1s0x396be701068771ef:0x848b9d99346ae83e!8m2!3d26.4701957!4d74.6367811!16s%2Fg%2F11c57p8gtg!19sChIJ73GHBgHnazkRPuhqNJmdi4Q?authuser=0&hl=en&rclk=1"
@@ -3546,7 +3575,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neuro+Surgery+Vibhag/data=!4m7!3m6!1s0x396be701068771ef:0x848b9d99346ae83e!8m2!3d26.4701957!4d74.6367811!16s%2Fg%2F11c57p8gtg!19sChIJ73GHBgHnazkRPuhqNJmdi4Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "oral-solutions-ajmer",
@@ -3596,7 +3626,7 @@
       "Google rating 5.0",
       "2+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Oral+Solutions/data=!4m7!3m6!1s0x396be7d04dfdd597:0xc9954c3f28cce6e9!8m2!3d26.4857262!4d74.6322512!16s%2Fg%2F11f40nl8vn!19sChIJl9X9TdDnazkR6ebMKD9Mlck?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Solutions/data=!4m7!3m6!1s0x396be7d04dfdd597:0xc9954c3f28cce6e9!8m2!3d26.4857262!4d74.6322512!16s%2Fg%2F11f40nl8vn!19sChIJl9X9TdDnazkR6ebMKD9Mlck?authuser=0&hl=en&rclk=1"
@@ -3662,10 +3692,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 2,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oral+Solutions/data=!4m7!3m6!1s0x396be7d04dfdd597:0xc9954c3f28cce6e9!8m2!3d26.4857262!4d74.6322512!16s%2Fg%2F11f40nl8vn!19sChIJl9X9TdDnazkR6ebMKD9Mlck?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "parihar-ivf-and-fertility-center-ajmer-ajmer",
@@ -3715,7 +3746,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Parihar+IVF+%26+Fertility+Center+-+Ajmer/data=!4m7!3m6!1s0x396be77176c83117:0x367dea0111966c42!8m2!3d26.46327!4d74.6126475!16s%2Fg%2F11b6dgjtpn!19sChIJFzHIdnHnazkRQmyWEQHqfTY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parihar+IVF+%26+Fertility+Center+-+Ajmer/data=!4m7!3m6!1s0x396be77176c83117:0x367dea0111966c42!8m2!3d26.46327!4d74.6126475!16s%2Fg%2F11b6dgjtpn!19sChIJFzHIdnHnazkRQmyWEQHqfTY?authuser=0&hl=en&rclk=1"
@@ -3784,7 +3815,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parihar+IVF+%26+Fertility+Center+-+Ajmer/data=!4m7!3m6!1s0x396be77176c83117:0x367dea0111966c42!8m2!3d26.46327!4d74.6126475!16s%2Fg%2F11b6dgjtpn!19sChIJFzHIdnHnazkRQmyWEQHqfTY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "premier-dental-care-and-implant-centre-ajmer",
@@ -3833,7 +3865,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Premier+Dental+Care+%26+Implant+Centre/data=!4m7!3m6!1s0x396be793dfb1139b:0xfcb96847e7a51fcb!8m2!3d26.5005462!4d74.6312647!16s%2Fg%2F11mbqhxzk4!19sChIJmxOx35PnazkRyx-l50doufw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Premier+Dental+Care+%26+Implant+Centre/data=!4m7!3m6!1s0x396be793dfb1139b:0xfcb96847e7a51fcb!8m2!3d26.5005462!4d74.6312647!16s%2Fg%2F11mbqhxzk4!19sChIJmxOx35PnazkRyx-l50doufw?authuser=0&hl=en&rclk=1"
@@ -3902,7 +3934,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Premier+Dental+Care+%26+Implant+Centre/data=!4m7!3m6!1s0x396be793dfb1139b:0xfcb96847e7a51fcb!8m2!3d26.5005462!4d74.6312647!16s%2Fg%2F11mbqhxzk4!19sChIJmxOx35PnazkRyx-l50doufw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "r-s-hospital-ajmer-ajmer",
@@ -3951,7 +3984,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/R+S+hospital+Ajmer/data=!4m7!3m6!1s0x396be70581fd6b19:0x4644a0d40a68e1cd!8m2!3d26.4743592!4d74.6028371!16s%2Fg%2F11fn0nkk07!19sChIJGWv9gQXnazkRzeFoCtSgREY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+S+hospital+Ajmer/data=!4m7!3m6!1s0x396be70581fd6b19:0x4644a0d40a68e1cd!8m2!3d26.4743592!4d74.6028371!16s%2Fg%2F11fn0nkk07!19sChIJGWv9gQXnazkRzeFoCtSgREY?authuser=0&hl=en&rclk=1"
@@ -4020,7 +4053,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R+S+hospital+Ajmer/data=!4m7!3m6!1s0x396be70581fd6b19:0x4644a0d40a68e1cd!8m2!3d26.4743592!4d74.6028371!16s%2Fg%2F11fn0nkk07!19sChIJGWv9gQXnazkRzeFoCtSgREY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "r-k-hospital-ajmer-fertility-and-laparoscopy-centre-ajmer",
@@ -4069,7 +4103,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/R.+K.+Hospital,+Ajmer+-+Fertility+and+Laparoscopy+Centre/data=!4m7!3m6!1s0x396be7b9ad300001:0xe7d9895034fd8b8f!8m2!3d26.4926922!4d74.6269682!16s%2Fg%2F11clwl5j9_!19sChIJAQAwrbnnazkRj4v9NFCJ2ec?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.+K.+Hospital,+Ajmer+-+Fertility+and+Laparoscopy+Centre/data=!4m7!3m6!1s0x396be7b9ad300001:0xe7d9895034fd8b8f!8m2!3d26.4926922!4d74.6269682!16s%2Fg%2F11clwl5j9_!19sChIJAQAwrbnnazkRj4v9NFCJ2ec?authuser=0&hl=en&rclk=1"
@@ -4138,7 +4172,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R.+K.+Hospital,+Ajmer+-+Fertility+and+Laparoscopy+Centre/data=!4m7!3m6!1s0x396be7b9ad300001:0xe7d9895034fd8b8f!8m2!3d26.4926922!4d74.6269682!16s%2Fg%2F11clwl5j9_!19sChIJAQAwrbnnazkRj4v9NFCJ2ec?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "saaol-heart-center-ajmer-ajmer",
@@ -4189,7 +4224,7 @@
       "15+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SAAOL+HEART+CENTER,+AJMER/data=!4m7!3m6!1s0x396be77b86e079fd:0xb49e091dd0d69858!8m2!3d26.4751772!4d74.6338586!16s%2Fg%2F11h0_b2ybn!19sChIJ_XnghnvnazkRWJjW0B0JnrQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAAOL+HEART+CENTER,+AJMER/data=!4m7!3m6!1s0x396be77b86e079fd:0xb49e091dd0d69858!8m2!3d26.4751772!4d74.6338586!16s%2Fg%2F11h0_b2ybn!19sChIJ_XnghnvnazkRWJjW0B0JnrQ?authuser=0&hl=en&rclk=1"
@@ -4258,7 +4293,8 @@
     "rating": 4.6,
     "reviews": 15,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAAOL+HEART+CENTER,+AJMER/data=!4m7!3m6!1s0x396be77b86e079fd:0xb49e091dd0d69858!8m2!3d26.4751772!4d74.6338586!16s%2Fg%2F11h0_b2ybn!19sChIJ_XnghnvnazkRWJjW0B0JnrQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "samarpit-breast-and-cancer-hospital-ajmer",
@@ -4307,7 +4343,7 @@
       "Google rating 4.8",
       "2+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Samarpit+Breast+and+Cancer+Hospital/data=!4m7!3m6!1s0x396be70ca2598a03:0x4f362682ceff0544!8m2!3d26.4892655!4d74.6192159!16s%2Fg%2F11lzs23g81!19sChIJA4pZogznazkRRAX_zoImNk8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarpit+Breast+and+Cancer+Hospital/data=!4m7!3m6!1s0x396be70ca2598a03:0x4f362682ceff0544!8m2!3d26.4892655!4d74.6192159!16s%2Fg%2F11lzs23g81!19sChIJA4pZogznazkRRAX_zoImNk8?authuser=0&hl=en&rclk=1"
@@ -4376,7 +4412,8 @@
     "rating": 4.8,
     "reviews": 2,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samarpit+Breast+and+Cancer+Hospital/data=!4m7!3m6!1s0x396be70ca2598a03:0x4f362682ceff0544!8m2!3d26.4892655!4d74.6192159!16s%2Fg%2F11lzs23g81!19sChIJA4pZogznazkRRAX_zoImNk8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "saran-hospital-ajmer-ajmer",
@@ -4425,7 +4462,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Saran+Hospital+Ajmer/@26.4849406,74.6058112,17z/data=!3m1!4b1!4m6!3m5!1s0x396be7b09e7d3d6f:0x7a6f98f3298c0ec!8m2!3d26.4849406!4d74.6058112!16s%2Fg%2F11cncs_9wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saran+Hospital+Ajmer/@26.4849406,74.6058112,17z/data=!3m1!4b1!4m6!3m5!1s0x396be7b09e7d3d6f:0x7a6f98f3298c0ec!8m2!3d26.4849406!4d74.6058112!16s%2Fg%2F11cncs_9wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -4494,7 +4531,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saran+Hospital+Ajmer/@26.4849406,74.6058112,17z/data=!3m1!4b1!4m6!3m5!1s0x396be7b09e7d3d6f:0x7a6f98f3298c0ec!8m2!3d26.4849406!4d74.6058112!16s%2Fg%2F11cncs_9wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "seeking-smiles-ajmer",
@@ -4542,7 +4580,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Seeking+smiles/data=!4m7!3m6!1s0x396be7585f99113b:0x90d2626be16e1da3!8m2!3d26.4880005!4d74.6248298!16s%2Fg%2F11nmzmh56p!19sChIJOxGZX1jnazkRox1u4Wti0pA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seeking+smiles/data=!4m7!3m6!1s0x396be7585f99113b:0x90d2626be16e1da3!8m2!3d26.4880005!4d74.6248298!16s%2Fg%2F11nmzmh56p!19sChIJOxGZX1jnazkRox1u4Wti0pA?authuser=0&hl=en&rclk=1"
@@ -4611,7 +4649,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seeking+smiles/data=!4m7!3m6!1s0x396be7585f99113b:0x90d2626be16e1da3!8m2!3d26.4880005!4d74.6248298!16s%2Fg%2F11nmzmh56p!19sChIJOxGZX1jnazkRox1u4Wti0pA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sharma-dental-hospital-and-research-centre-ajmer",
@@ -4659,7 +4698,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sharma+Dental+Hospital+And+Research+Centre/data=!4m7!3m6!1s0x396be700b7a3d167:0xdf72ad340043f71e!8m2!3d26.4716456!4d74.6352855!16s%2Fg%2F12q4x99qv!19sChIJZ9GjtwDnazkRHvdDADStct8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+Dental+Hospital+And+Research+Centre/data=!4m7!3m6!1s0x396be700b7a3d167:0xdf72ad340043f71e!8m2!3d26.4716456!4d74.6352855!16s%2Fg%2F12q4x99qv!19sChIJZ9GjtwDnazkRHvdDADStct8?authuser=0&hl=en&rclk=1"
@@ -4728,7 +4767,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sharma+Dental+Hospital+And+Research+Centre/data=!4m7!3m6!1s0x396be700b7a3d167:0xdf72ad340043f71e!8m2!3d26.4716456!4d74.6352855!16s%2Fg%2F12q4x99qv!19sChIJZ9GjtwDnazkRHvdDADStct8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-balaji-hospital-ajmer",
@@ -4776,7 +4816,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Balaji+Hospital/data=!4m7!3m6!1s0x396be16d30712379:0x4f30887c2711e590!8m2!3d26.3980926!4d74.6641685!16s%2Fg%2F11cs325rty!19sChIJeSNxMG3hazkRkOURJ3yIME8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Balaji+Hospital/data=!4m7!3m6!1s0x396be16d30712379:0x4f30887c2711e590!8m2!3d26.3980926!4d74.6641685!16s%2Fg%2F11cs325rty!19sChIJeSNxMG3hazkRkOURJ3yIME8?authuser=0&hl=en&rclk=1"
@@ -4845,7 +4885,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Balaji+Hospital/data=!4m7!3m6!1s0x396be16d30712379:0x4f30887c2711e590!8m2!3d26.3980926!4d74.6641685!16s%2Fg%2F11cs325rty!19sChIJeSNxMG3hazkRkOURJ3yIME8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-charbhuja-hospital-ajmer",
@@ -4893,7 +4934,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Charbhuja+Hospital/data=!4m7!3m6!1s0x396be79013ba5e09:0x6702f9d455d12141!8m2!3d26.4825112!4d74.6061357!16s%2Fg%2F11x6w53yl2!19sChIJCV66E5DnazkRQSHRVdT5Amc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Charbhuja+Hospital/data=!4m7!3m6!1s0x396be79013ba5e09:0x6702f9d455d12141!8m2!3d26.4825112!4d74.6061357!16s%2Fg%2F11x6w53yl2!19sChIJCV66E5DnazkRQSHRVdT5Amc?authuser=0&hl=en&rclk=1"
@@ -4962,7 +5003,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Charbhuja+Hospital/data=!4m7!3m6!1s0x396be79013ba5e09:0x6702f9d455d12141!8m2!3d26.4825112!4d74.6061357!16s%2Fg%2F11x6w53yl2!19sChIJCV66E5DnazkRQSHRVdT5Amc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-kanak-hospital-ajmer",
@@ -5010,7 +5052,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Shree+kanak+hospital/@26.4917475,74.62176,17z/data=!3m1!4b1!4m6!3m5!1s0x396be7bed746b189:0x1cfb2e0349d3a56b!8m2!3d26.4917475!4d74.62176!16s%2Fg%2F11gfngyf7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+kanak+hospital/@26.4917475,74.62176,17z/data=!3m1!4b1!4m6!3m5!1s0x396be7bed746b189:0x1cfb2e0349d3a56b!8m2!3d26.4917475!4d74.62176!16s%2Fg%2F11gfngyf7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -5079,7 +5121,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+kanak+hospital/@26.4917475,74.62176,17z/data=!3m1!4b1!4m6!3m5!1s0x396be7bed746b189:0x1cfb2e0349d3a56b!8m2!3d26.4917475!4d74.62176!16s%2Fg%2F11gfngyf7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-dangawas-ent-hospital-and-research-centre-ajmer-ajmer",
@@ -5129,7 +5172,7 @@
       "9+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Dangawas+ENT+Hospital+%26+Research+Centre,+Ajmer/data=!4m7!3m6!1s0x396be7c8b41b5909:0xedd5ec51efd3bdd5!8m2!3d26.4865807!4d74.6045575!16s%2Fg%2F11l6cdk995!19sChIJCVkbtMjnazkR1b3T71Hs1e0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Dangawas+ENT+Hospital+%26+Research+Centre,+Ajmer/data=!4m7!3m6!1s0x396be7c8b41b5909:0xedd5ec51efd3bdd5!8m2!3d26.4865807!4d74.6045575!16s%2Fg%2F11l6cdk995!19sChIJCVkbtMjnazkR1b3T71Hs1e0?authuser=0&hl=en&rclk=1"
@@ -5198,7 +5241,8 @@
     "rating": 4.9,
     "reviews": 9,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Dangawas+ENT+Hospital+%26+Research+Centre,+Ajmer/data=!4m7!3m6!1s0x396be7c8b41b5909:0xedd5ec51efd3bdd5!8m2!3d26.4865807!4d74.6045575!16s%2Fg%2F11l6cdk995!19sChIJCVkbtMjnazkR1b3T71Hs1e0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-rana-hospital-and-charitable-medical-institute-ajmer",
@@ -5247,7 +5291,7 @@
       "Google rating 4.8",
       "107+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Rana+Hospital+%26+Charitable+Medical+Institute/data=!4m7!3m6!1s0x396be7beed779a57:0xbad2706daeec959!8m2!3d26.4907012!4d74.6201808!16s%2Fg%2F11ddx74t24!19sChIJV5p37b7nazkRWcnu2gYnrQs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Rana+Hospital+%26+Charitable+Medical+Institute/data=!4m7!3m6!1s0x396be7beed779a57:0xbad2706daeec959!8m2!3d26.4907012!4d74.6201808!16s%2Fg%2F11ddx74t24!19sChIJV5p37b7nazkRWcnu2gYnrQs?authuser=0&hl=en&rclk=1"
@@ -5316,7 +5360,8 @@
     "rating": 4.8,
     "reviews": 107,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Rana+Hospital+%26+Charitable+Medical+Institute/data=!4m7!3m6!1s0x396be7beed779a57:0xbad2706daeec959!8m2!3d26.4907012!4d74.6201808!16s%2Fg%2F11ddx74t24!19sChIJV5p37b7nazkRWcnu2gYnrQs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "skin-day-clinic-ajmer",
@@ -5365,7 +5410,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Skin+Day+Clinic/data=!4m7!3m6!1s0x396be7b535ffe70f:0x5c60b4f2f4034563!8m2!3d26.5048283!4d74.6335589!16s%2Fg%2F11m5q_p0tq!19sChIJD-f_NbXnazkRY0UD9PK0YFw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+Day+Clinic/data=!4m7!3m6!1s0x396be7b535ffe70f:0x5c60b4f2f4034563!8m2!3d26.5048283!4d74.6335589!16s%2Fg%2F11m5q_p0tq!19sChIJD-f_NbXnazkRY0UD9PK0YFw?authuser=0&hl=en&rclk=1"
@@ -5431,10 +5476,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skin+Day+Clinic/data=!4m7!3m6!1s0x396be7b535ffe70f:0x5c60b4f2f4034563!8m2!3d26.5048283!4d74.6335589!16s%2Fg%2F11m5q_p0tq!19sChIJD-f_NbXnazkRY0UD9PK0YFw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smiledent-dental-hospital-ajmer",
@@ -5482,7 +5528,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SmileDent+Dental+Hospital/data=!4m7!3m6!1s0x80a385ae82ecfb8f:0xaedd5faae3668af4!8m2!3d26.4185999!4d74.6450113!16s%2Fg%2F11twfnr9jh!19sChIJj_vsgq6Fo4AR9Ipm46pf3a4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SmileDent+Dental+Hospital/data=!4m7!3m6!1s0x80a385ae82ecfb8f:0xaedd5faae3668af4!8m2!3d26.4185999!4d74.6450113!16s%2Fg%2F11twfnr9jh!19sChIJj_vsgq6Fo4AR9Ipm46pf3a4?authuser=0&hl=en&rclk=1"
@@ -5551,7 +5597,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SmileDent+Dental+Hospital/data=!4m7!3m6!1s0x80a385ae82ecfb8f:0xaedd5faae3668af4!8m2!3d26.4185999!4d74.6450113!16s%2Fg%2F11twfnr9jh!19sChIJj_vsgq6Fo4AR9Ipm46pf3a4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "st-francis-hospital-ajmer",
@@ -5599,7 +5646,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/St.+Francis+Hospital/data=!4m7!3m6!1s0x396be0d6bb737997:0x3d93a6bfb6aa270!8m2!3d26.4490481!4d74.6389563!16s%2Fg%2F1tf5c49f!19sChIJl3lzu9bgazkRcKJq-2s62QM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/St.+Francis+Hospital/data=!4m7!3m6!1s0x396be0d6bb737997:0x3d93a6bfb6aa270!8m2!3d26.4490481!4d74.6389563!16s%2Fg%2F1tf5c49f!19sChIJl3lzu9bgazkRcKJq-2s62QM?authuser=0&hl=en&rclk=1"
@@ -5668,7 +5715,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/St.+Francis+Hospital/data=!4m7!3m6!1s0x396be0d6bb737997:0x3d93a6bfb6aa270!8m2!3d26.4490481!4d74.6389563!16s%2Fg%2F1tf5c49f!19sChIJl3lzu9bgazkRcKJq-2s62QM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "texas-dental-center-best-dentist-dental-clinic-dental-implant-in-lohagal-road-ajmer-ajmer",
@@ -5718,7 +5766,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Texas+Dental+Center+-Best+Dentist+%7CDental+Clinic+%7CDental+Implant+in+Lohagal+Road+Ajmer/data=!4m7!3m6!1s0x396be79d66635f05:0xeea367b08037cd6c!8m2!3d26.4788786!4d74.6391489!16s%2Fg%2F11y8vfpbtz!19sChIJBV9jZp3nazkRbM03gLBno-4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Texas+Dental+Center+-Best+Dentist+%7CDental+Clinic+%7CDental+Implant+in+Lohagal+Road+Ajmer/data=!4m7!3m6!1s0x396be79d66635f05:0xeea367b08037cd6c!8m2!3d26.4788786!4d74.6391489!16s%2Fg%2F11y8vfpbtz!19sChIJBV9jZp3nazkRbM03gLBno-4?authuser=0&hl=en&rclk=1"
@@ -5784,10 +5832,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Texas+Dental+Center+-Best+Dentist+%7CDental+Clinic+%7CDental+Implant+in+Lohagal+Road+Ajmer/data=!4m7!3m6!1s0x396be79d66635f05:0xeea367b08037cd6c!8m2!3d26.4788786!4d74.6391489!16s%2Fg%2F11y8vfpbtz!19sChIJBV9jZp3nazkRbM03gLBno-4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "trust-and-care-dental-clinic-ajmer",
@@ -5835,7 +5884,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Trust+%26+Care+Dental+clinic/data=!4m7!3m6!1s0x396be792557761fd:0x540432661d9cb097!8m2!3d26.4693303!4d74.6346127!16s%2Fg%2F11wjnxyl2p!19sChIJ_WF3VZLnazkRl7CcHWYyBFQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trust+%26+Care+Dental+clinic/data=!4m7!3m6!1s0x396be792557761fd:0x540432661d9cb097!8m2!3d26.4693303!4d74.6346127!16s%2Fg%2F11wjnxyl2p!19sChIJ_WF3VZLnazkRl7CcHWYyBFQ?authuser=0&hl=en&rclk=1"
@@ -5904,7 +5953,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Trust+%26+Care+Dental+clinic/data=!4m7!3m6!1s0x396be792557761fd:0x540432661d9cb097!8m2!3d26.4693303!4d74.6346127!16s%2Fg%2F11wjnxyl2p!19sChIJ_WF3VZLnazkRl7CcHWYyBFQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tulsi-dental-clinic-ajmer",
@@ -5954,7 +6004,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tulsi+Dental+Clinic/data=!4m7!3m6!1s0x396be7299b689bbb:0xf4c4415b045f8296!8m2!3d26.4324023!4d74.6371745!16s%2Fg%2F1tf41c00!19sChIJu5tomynnazkRloJfBFtBxPQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tulsi+Dental+Clinic/data=!4m7!3m6!1s0x396be7299b689bbb:0xf4c4415b045f8296!8m2!3d26.4324023!4d74.6371745!16s%2Fg%2F1tf41c00!19sChIJu5tomynnazkRloJfBFtBxPQ?authuser=0&hl=en&rclk=1"
@@ -6023,7 +6073,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tulsi+Dental+Clinic/data=!4m7!3m6!1s0x396be7299b689bbb:0xf4c4415b045f8296!8m2!3d26.4324023!4d74.6371745!16s%2Fg%2F1tf41c00!19sChIJu5tomynnazkRloJfBFtBxPQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "us-hair-clinic-ajmer-ajmer",
@@ -6073,7 +6124,7 @@
       "Google rating 4.9",
       "325+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/US+hair+clinic+Ajmer/data=!4m7!3m6!1s0x396be789933f8dbf:0x9bbab272ede38562!8m2!3d26.5109952!4d74.6309474!16s%2Fg%2F11fqc7znpy!19sChIJv40_k4nnazkRYoXj7XKyups?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/US+hair+clinic+Ajmer/data=!4m7!3m6!1s0x396be789933f8dbf:0x9bbab272ede38562!8m2!3d26.5109952!4d74.6309474!16s%2Fg%2F11fqc7znpy!19sChIJv40_k4nnazkRYoXj7XKyups?authuser=0&hl=en&rclk=1"
@@ -6142,7 +6193,8 @@
     "rating": 4.9,
     "reviews": 325,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/US+hair+clinic+Ajmer/data=!4m7!3m6!1s0x396be789933f8dbf:0x9bbab272ede38562!8m2!3d26.5109952!4d74.6309474!16s%2Fg%2F11fqc7znpy!19sChIJv40_k4nnazkRYoXj7XKyups?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vaishali-hospital-and-welno-health-care-services-ajmer",
@@ -6190,7 +6242,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vaishali+Hospital+%26+Welno+Health+Care+Services/data=!4m7!3m6!1s0x396be7095316f8e9:0xc57c0fdd77611115!8m2!3d26.4879708!4d74.6298284!16s%2Fg%2F11y2mpggz8!19sChIJ6fgWUwnnazkRFRFhd90PfMU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaishali+Hospital+%26+Welno+Health+Care+Services/data=!4m7!3m6!1s0x396be7095316f8e9:0xc57c0fdd77611115!8m2!3d26.4879708!4d74.6298284!16s%2Fg%2F11y2mpggz8!19sChIJ6fgWUwnnazkRFRFhd90PfMU?authuser=0&hl=en&rclk=1"
@@ -6256,10 +6308,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vaishali+Hospital+%26+Welno+Health+Care+Services/data=!4m7!3m6!1s0x396be7095316f8e9:0xc57c0fdd77611115!8m2!3d26.4879708!4d74.6298284!16s%2Fg%2F11y2mpggz8!19sChIJ6fgWUwnnazkRFRFhd90PfMU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "zahra-medical-clinic-ajmer",
@@ -6309,7 +6362,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Zahra+Medical+Clinic/data=!4m7!3m6!1s0x396be0c335e565b9:0x9325af89ee0393de!8m2!3d26.4079738!4d74.6280474!16s%2Fg%2F11c32nwn_c!19sChIJuWXlNcPgazkR3pMD7omvJZM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zahra+Medical+Clinic/data=!4m7!3m6!1s0x396be0c335e565b9:0x9325af89ee0393de!8m2!3d26.4079738!4d74.6280474!16s%2Fg%2F11c32nwn_c!19sChIJuWXlNcPgazkR3pMD7omvJZM?authuser=0&hl=en&rclk=1"
@@ -6378,6 +6431,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zahra+Medical+Clinic/data=!4m7!3m6!1s0x396be0c335e565b9:0x9325af89ee0393de!8m2!3d26.4079738!4d74.6280474!16s%2Fg%2F11c32nwn_c!19sChIJuWXlNcPgazkR3pMD7omvJZM?authuser=0&hl=en&rclk=1"
   }
 ]

@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Ankur+Hospital/@23.3292482,75.0332626,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe996d19a6f3:0x1aae180462b77e65!8m2!3d23.3292482!4d75.0332626!16s%2Fg%2F11c6000q9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ankur+Hospital/@23.3292482,75.0332626,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe996d19a6f3:0x1aae180462b77e65!8m2!3d23.3292482!4d75.0332626!16s%2Fg%2F11c6000q9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ankur+Hospital/@23.3292482,75.0332626,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe996d19a6f3:0x1aae180462b77e65!8m2!3d23.3292482!4d75.0332626!16s%2Fg%2F11c6000q9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anmol-dental-art-ratlam",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Anmol+Dental+art/@23.3222175,75.0252229,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd011428c97:0x631bf52f232190fe!8m2!3d23.3222175!4d75.0252229!16s%2Fg%2F11l1n2786j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anmol+Dental+art/@23.3222175,75.0252229,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd011428c97:0x631bf52f232190fe!8m2!3d23.3222175!4d75.0252229!16s%2Fg%2F11l1n2786j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -229,10 +230,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anmol+Dental+art/@23.3222175,75.0252229,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd011428c97:0x631bf52f232190fe!8m2!3d23.3222175!4d75.0252229!16s%2Fg%2F11l1n2786j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arogyam-ambulance-cardiac-ambulance-ratlam",
@@ -281,7 +283,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Arogyam+Ambulance%2FCardiac+Ambulance/@23.3265921,75.0404998,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa1fabee55b:0x96d4224e0c4f9246!8m2!3d23.3265921!4d75.0404998!16s%2Fg%2F11vpgf21d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arogyam+Ambulance%2FCardiac+Ambulance/@23.3265921,75.0404998,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa1fabee55b:0x96d4224e0c4f9246!8m2!3d23.3265921!4d75.0404998!16s%2Fg%2F11vpgf21d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -347,10 +349,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arogyam+Ambulance%2FCardiac+Ambulance/@23.3265921,75.0404998,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa1fabee55b:0x96d4224e0c4f9246!8m2!3d23.3265921!4d75.0404998!16s%2Fg%2F11vpgf21d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arogyam-hospital-ratlam-ratlam",
@@ -398,7 +401,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Arogyam+Hospital+Ratlam/@23.326596,75.0405283,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff92349510eb:0xf73445eb3023c265!8m2!3d23.326596!4d75.0405283!16s%2Fg%2F11c75j391q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arogyam+Hospital+Ratlam/@23.326596,75.0405283,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff92349510eb:0xf73445eb3023c265!8m2!3d23.326596!4d75.0405283!16s%2Fg%2F11c75j391q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -467,7 +470,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arogyam+Hospital+Ratlam/@23.326596,75.0405283,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff92349510eb:0xf73445eb3023c265!8m2!3d23.326596!4d75.0405283!16s%2Fg%2F11c75j391q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "basant-medical-healthcare-ratlam",
@@ -515,7 +519,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Basant+Medical+Healthcare/@23.324227,75.0374825,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff001ca5f9eb:0x913cd727ca497f49!8m2!3d23.324227!4d75.0374825!16s%2Fg%2F11z3plrxzd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Basant+Medical+Healthcare/@23.324227,75.0374825,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff001ca5f9eb:0x913cd727ca497f49!8m2!3d23.324227!4d75.0374825!16s%2Fg%2F11z3plrxzd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -581,10 +585,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Basant+Medical+Healthcare/@23.324227,75.0374825,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff001ca5f9eb:0x913cd727ca497f49!8m2!3d23.324227!4d75.0374825!16s%2Fg%2F11z3plrxzd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "batra-dental-clinic-ratlam",
@@ -632,7 +637,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Batra+Dental+Clinic/@23.3244251,75.0419262,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea0f1137139:0x4381cac1e759616f!8m2!3d23.3244251!4d75.0419262!16s%2Fg%2F1hf5y9wtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Batra+Dental+Clinic/@23.3244251,75.0419262,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea0f1137139:0x4381cac1e759616f!8m2!3d23.3244251!4d75.0419262!16s%2Fg%2F1hf5y9wtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -701,7 +706,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Batra+Dental+Clinic/@23.3244251,75.0419262,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea0f1137139:0x4381cac1e759616f!8m2!3d23.3244251!4d75.0419262!16s%2Fg%2F1hf5y9wtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhadoriya-diagnostic-center-ratlam",
@@ -751,7 +757,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhadoriya+Diagnostic+Center/@23.3300896,75.0376445,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0ca089446b:0x6ffa356927b38c6d!8m2!3d23.3300896!4d75.0376445!16s%2Fg%2F11l67wdpnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhadoriya+Diagnostic+Center/@23.3300896,75.0376445,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0ca089446b:0x6ffa356927b38c6d!8m2!3d23.3300896!4d75.0376445!16s%2Fg%2F11l67wdpnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -820,7 +826,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhadoriya+Diagnostic+Center/@23.3300896,75.0376445,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0ca089446b:0x6ffa356927b38c6d!8m2!3d23.3300896!4d75.0376445!16s%2Fg%2F11l67wdpnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bharat-dental-ratlam",
@@ -866,7 +873,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/bharat+Dental/@23.3311356,75.0408044,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffe90a6a3d11:0x66a3a0ed77d2eafd!8m2!3d23.3311356!4d75.0408044!16s%2Fg%2F11khmflvtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/bharat+Dental/@23.3311356,75.0408044,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffe90a6a3d11:0x66a3a0ed77d2eafd!8m2!3d23.3311356!4d75.0408044!16s%2Fg%2F11khmflvtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -932,10 +939,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/bharat+Dental/@23.3311356,75.0408044,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffe90a6a3d11:0x66a3a0ed77d2eafd!8m2!3d23.3311356!4d75.0408044!16s%2Fg%2F11khmflvtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "breast-cancer-clinic-ratlam",
@@ -981,7 +989,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Breast+Cancer+Clinic/@23.3292584,75.0368935,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff963a856fa3:0x35c8e2607b89f1ef!8m2!3d23.3292584!4d75.0368935!16s%2Fg%2F11vsnv598t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Breast+Cancer+Clinic/@23.3292584,75.0368935,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff963a856fa3:0x35c8e2607b89f1ef!8m2!3d23.3292584!4d75.0368935!16s%2Fg%2F11vsnv598t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1047,10 +1055,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Breast+Cancer+Clinic/@23.3292584,75.0368935,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff963a856fa3:0x35c8e2607b89f1ef!8m2!3d23.3292584!4d75.0368935!16s%2Fg%2F11vsnv598t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "burhani-hospital-ratlam-ratlam",
@@ -1098,7 +1107,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Burhani+Hospital+Ratlam/@23.3226337,75.0327972,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9d2991c287:0x93fb86f6b301cd28!8m2!3d23.3226337!4d75.0327972!16s%2Fg%2F11g6bvx6y7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Burhani+Hospital+Ratlam/@23.3226337,75.0327972,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9d2991c287:0x93fb86f6b301cd28!8m2!3d23.3226337!4d75.0327972!16s%2Fg%2F11g6bvx6y7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1167,7 +1176,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Burhani+Hospital+Ratlam/@23.3226337,75.0327972,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9d2991c287:0x93fb86f6b301cd28!8m2!3d23.3226337!4d75.0327972!16s%2Fg%2F11g6bvx6y7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "care-32-dental-hospital-and-implant-centre-ratlam",
@@ -1215,7 +1225,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/CARE+32+Dental+Hospital+%26+Implant+Centre+%F0%9F%A6%B7/@23.4729659,74.9313052,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9a39bac461:0x2fb85ea4e2561fa2!8m2!3d23.4729659!4d74.9313052!16s%2Fg%2F11h7cnvnlz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CARE+32+Dental+Hospital+%26+Implant+Centre+%F0%9F%A6%B7/@23.4729659,74.9313052,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9a39bac461:0x2fb85ea4e2561fa2!8m2!3d23.4729659!4d74.9313052!16s%2Fg%2F11h7cnvnlz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1281,10 +1291,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CARE+32+Dental+Hospital+%26+Implant+Centre+%F0%9F%A6%B7/@23.4729659,74.9313052,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9a39bac461:0x2fb85ea4e2561fa2!8m2!3d23.4729659!4d74.9313052!16s%2Fg%2F11h7cnvnlz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chahar-trauma-center-ratlam",
@@ -1332,7 +1343,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Chahar+Trauma+Center/@23.3300961,75.0383711,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea46b2dfc8b:0xa0a39f643304e7d7!8m2!3d23.3300961!4d75.0383711!16s%2Fg%2F1tdcpyby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chahar+Trauma+Center/@23.3300961,75.0383711,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea46b2dfc8b:0xa0a39f643304e7d7!8m2!3d23.3300961!4d75.0383711!16s%2Fg%2F1tdcpyby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1401,7 +1412,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chahar+Trauma+Center/@23.3300961,75.0383711,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea46b2dfc8b:0xa0a39f643304e7d7!8m2!3d23.3300961!4d75.0383711!16s%2Fg%2F1tdcpyby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "civil-hospital-ratlam-ratlam",
@@ -1449,7 +1461,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Civil+Hospital+Ratlam/@23.3273111,75.0392406,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff41e6095f8b:0x92f6ec4fbe201081!8m2!3d23.3273111!4d75.0392406!16s%2Fg%2F11ls_1rvbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Civil+Hospital+Ratlam/@23.3273111,75.0392406,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff41e6095f8b:0x92f6ec4fbe201081!8m2!3d23.3273111!4d75.0392406!16s%2Fg%2F11ls_1rvbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1518,7 +1530,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Civil+Hospital+Ratlam/@23.3273111,75.0392406,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff41e6095f8b:0x92f6ec4fbe201081!8m2!3d23.3273111!4d75.0392406!16s%2Fg%2F11ls_1rvbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "clinic-ratlam",
@@ -1564,7 +1577,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Clinic/@23.3423276,75.0357835,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa71dba6c07:0xf045c2a55f151a2d!8m2!3d23.3423276!4d75.0357835!16s%2Fg%2F11lnkh3bnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinic/@23.3423276,75.0357835,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa71dba6c07:0xf045c2a55f151a2d!8m2!3d23.3423276!4d75.0357835!16s%2Fg%2F11lnkh3bnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1630,10 +1643,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Clinic/@23.3423276,75.0357835,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa71dba6c07:0xf045c2a55f151a2d!8m2!3d23.3423276!4d75.0357835!16s%2Fg%2F11lnkh3bnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "clinic-ratlam",
@@ -1682,7 +1696,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Clinic/@23.3290388,75.0390178,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffe8078e1b8d:0x51f6707402ff94b!8m2!3d23.3290388!4d75.0390178!16s%2Fg%2F11yd7_72dl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinic/@23.3290388,75.0390178,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffe8078e1b8d:0x51f6707402ff94b!8m2!3d23.3290388!4d75.0390178!16s%2Fg%2F11yd7_72dl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1748,10 +1762,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Clinic/@23.3290388,75.0390178,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffe8078e1b8d:0x51f6707402ff94b!8m2!3d23.3290388!4d75.0390178!16s%2Fg%2F11yd7_72dl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "devarsh-mother-and-child-clinic-ratlam-ratlam",
@@ -1800,7 +1815,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Devarsh+mother+and+child+clinic+Ratlam/@23.3235299,75.0269256,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0079bc9c73:0x57767f2330146ac0!8m2!3d23.3235299!4d75.0269256!16s%2Fg%2F11xcjthwdr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devarsh+mother+and+child+clinic+Ratlam/@23.3235299,75.0269256,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0079bc9c73:0x57767f2330146ac0!8m2!3d23.3235299!4d75.0269256!16s%2Fg%2F11xcjthwdr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1866,10 +1881,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Devarsh+mother+and+child+clinic+Ratlam/@23.3235299,75.0269256,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0079bc9c73:0x57767f2330146ac0!8m2!3d23.3235299!4d75.0269256!16s%2Fg%2F11xcjthwdr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "diamond-dental-clinic-e-3-alkapuri-auto-stand",
@@ -1918,7 +1934,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Diamond+dental+clinic/@23.3441547,75.0303283,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff79a10c709b:0x4dd12ac196d5cc22!8m2!3d23.3441547!4d75.0303283!16s%2Fg%2F11f9yy4cs5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diamond+dental+clinic/@23.3441547,75.0303283,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff79a10c709b:0x4dd12ac196d5cc22!8m2!3d23.3441547!4d75.0303283!16s%2Fg%2F11f9yy4cs5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1987,7 +2003,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Diamond+dental+clinic/@23.3441547,75.0303283,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff79a10c709b:0x4dd12ac196d5cc22!8m2!3d23.3441547!4d75.0303283!16s%2Fg%2F11f9yy4cs5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "district-hospital-ratlam-ratlam",
@@ -2035,7 +2052,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/District+hospital+ratlam/@23.3271792,75.0390936,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0000b48f93:0x5531b5029aaa821a!8m2!3d23.3271792!4d75.0390936!16s%2Fg%2F11xdfpx73b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+hospital+ratlam/@23.3271792,75.0390936,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0000b48f93:0x5531b5029aaa821a!8m2!3d23.3271792!4d75.0390936!16s%2Fg%2F11xdfpx73b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2101,10 +2118,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+hospital+ratlam/@23.3271792,75.0390936,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0000b48f93:0x5531b5029aaa821a!8m2!3d23.3271792!4d75.0390936!16s%2Fg%2F11xdfpx73b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divya-jyoti-netralaya-ratlam",
@@ -2153,7 +2171,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Divya+Jyoti+Netralaya/@23.3423269,75.0259519,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe8d5e156b6d:0x6e674867db75392c!8m2!3d23.3423269!4d75.0259519!16s%2Fg%2F11bxg2_gq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divya+Jyoti+Netralaya/@23.3423269,75.0259519,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe8d5e156b6d:0x6e674867db75392c!8m2!3d23.3423269!4d75.0259519!16s%2Fg%2F11bxg2_gq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2222,7 +2240,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divya+Jyoti+Netralaya/@23.3423269,75.0259519,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe8d5e156b6d:0x6e674867db75392c!8m2!3d23.3423269!4d75.0259519!16s%2Fg%2F11bxg2_gq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dua-dental-clinic-ratlam",
@@ -2270,7 +2289,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Dua+Dental+Clinic/@23.3288125,75.0335625,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff7ef835eff1:0x3807e8fcc9860b28!8m2!3d23.3288125!4d75.0335625!16s%2Fg%2F11gnplbpcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dua+Dental+Clinic/@23.3288125,75.0335625,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff7ef835eff1:0x3807e8fcc9860b28!8m2!3d23.3288125!4d75.0335625!16s%2Fg%2F11gnplbpcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2339,7 +2358,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dua+Dental+Clinic/@23.3288125,75.0335625,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff7ef835eff1:0x3807e8fcc9860b28!8m2!3d23.3288125!4d75.0335625!16s%2Fg%2F11gnplbpcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ekdant-absolute-dental-solutions-best-dentist-in-ratlam-dental-clinic-in-ratlam-root-canal-treatment-in-ratlam-ratlam",
@@ -2387,7 +2407,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ekdant+Absolute+Dental+Solutions+%7C%7C+Best+Dentist+In+Ratlam+%7C+Dental+Clinic+In+Ratlam+%7C+Root+Canal+Treatment+In+Ratlam/@23.344382,75.029474,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffc8ae0dcd7b:0x31880485ddd5d6ae!8m2!3d23.344382!4d75.029474!16s%2Fg%2F11nngv903c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ekdant+Absolute+Dental+Solutions+%7C%7C+Best+Dentist+In+Ratlam+%7C+Dental+Clinic+In+Ratlam+%7C+Root+Canal+Treatment+In+Ratlam/@23.344382,75.029474,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffc8ae0dcd7b:0x31880485ddd5d6ae!8m2!3d23.344382!4d75.029474!16s%2Fg%2F11nngv903c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2453,10 +2473,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ekdant+Absolute+Dental+Solutions+%7C%7C+Best+Dentist+In+Ratlam+%7C+Dental+Clinic+In+Ratlam+%7C+Root+Canal+Treatment+In+Ratlam/@23.344382,75.029474,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffc8ae0dcd7b:0x31880485ddd5d6ae!8m2!3d23.344382!4d75.029474!16s%2Fg%2F11nngv903c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eklavya-hospital-ratlam",
@@ -2504,7 +2525,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Eklavya+Hospital/@23.3482874,75.0286838,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007961c66b:0x6fb3537d407c6b6e!8m2!3d23.3482874!4d75.0286838!16s%2Fg%2F11x0jg_yhy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eklavya+Hospital/@23.3482874,75.0286838,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007961c66b:0x6fb3537d407c6b6e!8m2!3d23.3482874!4d75.0286838!16s%2Fg%2F11x0jg_yhy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2573,7 +2594,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eklavya+Hospital/@23.3482874,75.0286838,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007961c66b:0x6fb3537d407c6b6e!8m2!3d23.3482874!4d75.0286838!16s%2Fg%2F11x0jg_yhy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "evana-beauty-salon-only-for-females-best-beauty-salon-in-ratlam-best-beauty-parlour-bridal-makeup-hairtreatment-ratlam",
@@ -2623,7 +2645,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Evana+beauty+salon(only+for+females)+-+Best+Beauty+Salon+in+Ratlam,+Best+Beauty+Parlour,+Bridal+Makeup,+HairTreatment/@23.334911,75.0375855,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff2fcf82bd5f:0x30346f2cfd464371!8m2!3d23.334911!4d75.0375855!16s%2Fg%2F11f7r5t_cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Evana+beauty+salon(only+for+females)+-+Best+Beauty+Salon+in+Ratlam,+Best+Beauty+Parlour,+Bridal+Makeup,+HairTreatment/@23.334911,75.0375855,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff2fcf82bd5f:0x30346f2cfd464371!8m2!3d23.334911!4d75.0375855!16s%2Fg%2F11f7r5t_cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2692,7 +2714,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Evana+beauty+salon(only+for+females)+-+Best+Beauty+Salon+in+Ratlam,+Best+Beauty+Parlour,+Bridal+Makeup,+HairTreatment/@23.334911,75.0375855,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff2fcf82bd5f:0x30346f2cfd464371!8m2!3d23.334911!4d75.0375855!16s%2Fg%2F11f7r5t_cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "first-choice-dental-clinic-best-dental-clinic-implant-centre-dentist-in-ratlam-ratlam",
@@ -2741,7 +2764,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/First+Choice+Dental+Clinic+%7C%7C+Best+Dental+Clinic+%7C+Implant+Centre+%7C+Dentist+In+Ratlam/@23.3325009,75.0249071,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff49e881201:0x9a15c74fafb1b5fe!8m2!3d23.3325009!4d75.0249071!16s%2Fg%2F11y12jq5y1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/First+Choice+Dental+Clinic+%7C%7C+Best+Dental+Clinic+%7C+Implant+Centre+%7C+Dentist+In+Ratlam/@23.3325009,75.0249071,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff49e881201:0x9a15c74fafb1b5fe!8m2!3d23.3325009!4d75.0249071!16s%2Fg%2F11y12jq5y1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2807,10 +2830,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/First+Choice+Dental+Clinic+%7C%7C+Best+Dental+Clinic+%7C+Implant+Centre+%7C+Dentist+In+Ratlam/@23.3325009,75.0249071,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff49e881201:0x9a15c74fafb1b5fe!8m2!3d23.3325009!4d75.0249071!16s%2Fg%2F11y12jq5y1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gastrologist-ratlam",
@@ -2857,7 +2881,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Gastrologist/@23.3315103,75.0366677,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0f159d5da1:0xbb71dbd62f182706!8m2!3d23.3315103!4d75.0366677!16s%2Fg%2F11j4k55v5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gastrologist/@23.3315103,75.0366677,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0f159d5da1:0xbb71dbd62f182706!8m2!3d23.3315103!4d75.0366677!16s%2Fg%2F11j4k55v5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2923,10 +2947,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gastrologist/@23.3315103,75.0366677,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0f159d5da1:0xbb71dbd62f182706!8m2!3d23.3315103!4d75.0366677!16s%2Fg%2F11j4k55v5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gd-hospital-ratlam-ratlam",
@@ -2975,7 +3000,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/GD+Hospital+,Ratlam/@23.3395722,75.0280951,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe97fd336861:0xa13b346d1b1968dd!8m2!3d23.3395722!4d75.0280951!16s%2Fg%2F11g9hf_10y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GD+Hospital+,Ratlam/@23.3395722,75.0280951,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe97fd336861:0xa13b346d1b1968dd!8m2!3d23.3395722!4d75.0280951!16s%2Fg%2F11g9hf_10y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3044,7 +3069,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GD+Hospital+,Ratlam/@23.3395722,75.0280951,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe97fd336861:0xa13b346d1b1968dd!8m2!3d23.3395722!4d75.0280951!16s%2Fg%2F11g9hf_10y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "getwell-hospital-and-research-center-ratlam",
@@ -3093,7 +3119,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Getwell+Hospital+and+Research+Center/@23.3297448,75.0381714,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea270c50309:0x715be478d4c5faf9!8m2!3d23.3297448!4d75.0381714!16s%2Fg%2F124sx8md5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Getwell+Hospital+and+Research+Center/@23.3297448,75.0381714,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea270c50309:0x715be478d4c5faf9!8m2!3d23.3297448!4d75.0381714!16s%2Fg%2F124sx8md5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3162,7 +3188,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Getwell+Hospital+and+Research+Center/@23.3297448,75.0381714,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea270c50309:0x715be478d4c5faf9!8m2!3d23.3297448!4d75.0381714!16s%2Fg%2F124sx8md5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goverment-district-hospital-ratlam-ratlam",
@@ -3210,7 +3237,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Goverment+District+Hospital+Ratlam/@23.3269888,75.038212,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea201870f43:0x22d7ecca98e3d86d!8m2!3d23.3269888!4d75.038212!16s%2Fg%2F11f15hqnh7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goverment+District+Hospital+Ratlam/@23.3269888,75.038212,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea201870f43:0x22d7ecca98e3d86d!8m2!3d23.3269888!4d75.038212!16s%2Fg%2F11f15hqnh7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3276,10 +3303,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goverment+District+Hospital+Ratlam/@23.3269888,75.038212,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea201870f43:0x22d7ecca98e3d86d!8m2!3d23.3269888!4d75.038212!16s%2Fg%2F11f15hqnh7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hcg-cancer-clinic-ratlam",
@@ -3327,7 +3355,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/HCG+CANCER+CLINIC/@23.3394946,75.0328464,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe941a7bfa81:0xc10892cfbb03132!8m2!3d23.3394946!4d75.0328464!16s%2Fg%2F11l223knsn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HCG+CANCER+CLINIC/@23.3394946,75.0328464,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe941a7bfa81:0xc10892cfbb03132!8m2!3d23.3394946!4d75.0328464!16s%2Fg%2F11l223knsn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3393,10 +3421,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HCG+CANCER+CLINIC/@23.3394946,75.0328464,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe941a7bfa81:0xc10892cfbb03132!8m2!3d23.3394946!4d75.0328464!16s%2Fg%2F11l223knsn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "homeo-clinic-ratlam",
@@ -3446,7 +3475,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Homeo+Clinic/@23.3426461,75.0235957,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff3ab89ec455:0x324e61b5d1439f6b!8m2!3d23.3426461!4d75.0235957!16s%2Fg%2F11rpdgjhvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Homeo+Clinic/@23.3426461,75.0235957,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff3ab89ec455:0x324e61b5d1439f6b!8m2!3d23.3426461!4d75.0235957!16s%2Fg%2F11rpdgjhvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3512,10 +3541,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Homeo+Clinic/@23.3426461,75.0235957,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff3ab89ec455:0x324e61b5d1439f6b!8m2!3d23.3426461!4d75.0235957!16s%2Fg%2F11rpdgjhvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indira-ivf-fertility-and-ivf-center-in-ratlam-best-iui-icsi-and-ivf-treatment-ratlam",
@@ -3565,7 +3595,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Ratlam+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/@23.3302129,75.0370945,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff560da6a593:0xb4e6e8a9177c7c22!8m2!3d23.3302129!4d75.0370945!16s%2Fg%2F11j4mjyrll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Ratlam+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/@23.3302129,75.0370945,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff560da6a593:0xb4e6e8a9177c7c22!8m2!3d23.3302129!4d75.0370945!16s%2Fg%2F11j4mjyrll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3634,7 +3664,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Ratlam+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/@23.3302129,75.0370945,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff560da6a593:0xb4e6e8a9177c7c22!8m2!3d23.3302129!4d75.0370945!16s%2Fg%2F11j4mjyrll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jain-chest-clinic-ratlam",
@@ -3683,7 +3714,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Jain+Chest+Clinic/@23.33262,75.036644,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff4c36f2a89:0x1833d36aabb7717e!8m2!3d23.33262!4d75.036644!16s%2Fg%2F11fmzk30gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jain+Chest+Clinic/@23.33262,75.036644,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff4c36f2a89:0x1833d36aabb7717e!8m2!3d23.33262!4d75.036644!16s%2Fg%2F11fmzk30gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3752,7 +3783,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jain+Chest+Clinic/@23.33262,75.036644,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff4c36f2a89:0x1833d36aabb7717e!8m2!3d23.33262!4d75.036644!16s%2Fg%2F11fmzk30gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jain-diwakar-sri-aurobindo-hospital-ratlam",
@@ -3801,7 +3833,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jain+Diwakar+Sri+Aurobindo+Hospital/@23.3268383,75.0200421,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe86a65a7043:0xee16cd243899da16!8m2!3d23.3268383!4d75.0200421!16s%2Fg%2F1tgx0f42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jain+Diwakar+Sri+Aurobindo+Hospital/@23.3268383,75.0200421,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe86a65a7043:0xee16cd243899da16!8m2!3d23.3268383!4d75.0200421!16s%2Fg%2F1tgx0f42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3870,7 +3902,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jain+Diwakar+Sri+Aurobindo+Hospital/@23.3268383,75.0200421,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe86a65a7043:0xee16cd243899da16!8m2!3d23.3268383!4d75.0200421!16s%2Fg%2F1tgx0f42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jain-tara-dental-clinic-ratlam",
@@ -3919,7 +3952,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jain+Tara+Dental+Clinic/@23.3186816,75.0350324,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc204f400001:0x520df0e3f0a6e25f!8m2!3d23.3186816!4d75.0350324!16s%2Fg%2F11dz5qfk4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jain+Tara+Dental+Clinic/@23.3186816,75.0350324,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc204f400001:0x520df0e3f0a6e25f!8m2!3d23.3186816!4d75.0350324!16s%2Fg%2F11dz5qfk4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3985,10 +4018,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jain+Tara+Dental+Clinic/@23.3186816,75.0350324,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc204f400001:0x520df0e3f0a6e25f!8m2!3d23.3186816!4d75.0350324!16s%2Fg%2F11dz5qfk4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jaipur-ortho-care-ratlam",
@@ -4037,7 +4071,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/jaipur+ortho+care/@23.3231859,75.0569891,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc020b5eb6bb:0x111b675f0d1f077a!8m2!3d23.3231859!4d75.0569891!16s%2Fg%2F11cp7mp3vs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/jaipur+ortho+care/@23.3231859,75.0569891,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc020b5eb6bb:0x111b675f0d1f077a!8m2!3d23.3231859!4d75.0569891!16s%2Fg%2F11cp7mp3vs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4106,7 +4140,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/jaipur+ortho+care/@23.3231859,75.0569891,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc020b5eb6bb:0x111b675f0d1f077a!8m2!3d23.3231859!4d75.0569891!16s%2Fg%2F11cp7mp3vs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevansh-hospital-ratlam",
@@ -4154,7 +4189,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Jeevansh+Hospital/@23.338651,75.0293731,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe926961e70b:0x294f9bed0ad7b83d!8m2!3d23.338651!4d75.0293731!16s%2Fg%2F1tcxy6pw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevansh+Hospital/@23.338651,75.0293731,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe926961e70b:0x294f9bed0ad7b83d!8m2!3d23.338651!4d75.0293731!16s%2Fg%2F1tcxy6pw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4223,7 +4258,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevansh+Hospital/@23.338651,75.0293731,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe926961e70b:0x294f9bed0ad7b83d!8m2!3d23.338651!4d75.0293731!16s%2Fg%2F1tcxy6pw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kamla-eye-day-care-centre-ratlam",
@@ -4272,7 +4308,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kamla+Eye+Day+Care+Centre/@23.3259759,75.0385392,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea1dccf1ff7:0xf971bf3bd1920532!8m2!3d23.3259759!4d75.0385392!16s%2Fg%2F11dzwcf09w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kamla+Eye+Day+Care+Centre/@23.3259759,75.0385392,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea1dccf1ff7:0xf971bf3bd1920532!8m2!3d23.3259759!4d75.0385392!16s%2Fg%2F11dzwcf09w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4341,7 +4377,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kamla+Eye+Day+Care+Centre/@23.3259759,75.0385392,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea1dccf1ff7:0xf971bf3bd1920532!8m2!3d23.3259759!4d75.0385392!16s%2Fg%2F11dzwcf09w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kayakalp-clinic-ratlam",
@@ -4390,7 +4427,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/KAYAKALP+CLINIC/@23.3287849,75.0374657,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd5c55dfd77:0xe8823c26990f9481!8m2!3d23.3287849!4d75.0374657!16s%2Fg%2F11wjmg0wf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KAYAKALP+CLINIC/@23.3287849,75.0374657,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd5c55dfd77:0xe8823c26990f9481!8m2!3d23.3287849!4d75.0374657!16s%2Fg%2F11wjmg0wf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4456,10 +4493,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KAYAKALP+CLINIC/@23.3287849,75.0374657,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd5c55dfd77:0xe8823c26990f9481!8m2!3d23.3287849!4d75.0374657!16s%2Fg%2F11wjmg0wf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khandelwal-clinic-ratlam",
@@ -4508,7 +4546,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Khandelwal+clinic/@23.330659,75.0438076,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffdad10c815b:0xba622e3727128104!8m2!3d23.330659!4d75.0438076!16s%2Fg%2F11j2fmzwz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khandelwal+clinic/@23.330659,75.0438076,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffdad10c815b:0xba622e3727128104!8m2!3d23.330659!4d75.0438076!16s%2Fg%2F11j2fmzwz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4577,7 +4615,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khandelwal+clinic/@23.330659,75.0438076,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffdad10c815b:0xba622e3727128104!8m2!3d23.330659!4d75.0438076!16s%2Fg%2F11j2fmzwz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khandelwal-fracture-hospital-and-physiotherapy-clinic-ratlam",
@@ -4625,7 +4664,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Khandelwal+Fracture+Hospital+%26+Physiotherapy+Clinic/@23.331272,75.0403092,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff86779e4355:0x974d706cc9316245!8m2!3d23.331272!4d75.0403092!16s%2Fg%2F11h196sgkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khandelwal+Fracture+Hospital+%26+Physiotherapy+Clinic/@23.331272,75.0403092,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff86779e4355:0x974d706cc9316245!8m2!3d23.331272!4d75.0403092!16s%2Fg%2F11h196sgkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4694,7 +4733,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khandelwal+Fracture+Hospital+%26+Physiotherapy+Clinic/@23.331272,75.0403092,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff86779e4355:0x974d706cc9316245!8m2!3d23.331272!4d75.0403092!16s%2Fg%2F11h196sgkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kk-shah-hospital-ratlam-ratlam",
@@ -4743,7 +4783,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KK+Shah+Hospital+Ratlam/@23.3316049,75.0304959,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98982d4435:0x71819f30290b4bd5!8m2!3d23.3316049!4d75.0304959!16s%2Fg%2F11pd1r948t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KK+Shah+Hospital+Ratlam/@23.3316049,75.0304959,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98982d4435:0x71819f30290b4bd5!8m2!3d23.3316049!4d75.0304959!16s%2Fg%2F11pd1r948t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4812,7 +4852,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KK+Shah+Hospital+Ratlam/@23.3316049,75.0304959,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98982d4435:0x71819f30290b4bd5!8m2!3d23.3316049!4d75.0304959!16s%2Fg%2F11pd1r948t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kumawat-clinic-ratlam-pash",
@@ -4860,7 +4901,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kumawat+Clinic+Ratlam/@23.3174057,75.0206492,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fd0067ead607:0x99029d4f2dd91af7!8m2!3d23.3174057!4d75.0206492!16s%2Fg%2F11z3xzh20b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kumawat+Clinic+Ratlam/@23.3174057,75.0206492,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fd0067ead607:0x99029d4f2dd91af7!8m2!3d23.3174057!4d75.0206492!16s%2Fg%2F11z3xzh20b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4926,10 +4967,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kumawat+Clinic+Ratlam/@23.3174057,75.0206492,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fd0067ead607:0x99029d4f2dd91af7!8m2!3d23.3174057!4d75.0206492!16s%2Fg%2F11z3xzh20b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maa-gayatri-hospital-ratlam",
@@ -4978,7 +5020,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Maa+Gayatri+Hospital/@23.3398818,75.0279307,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe924730cca3:0xbe9f05a2df18741d!8m2!3d23.3398818!4d75.0279307!16s%2Fg%2F1thcl53t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Gayatri+Hospital/@23.3398818,75.0279307,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe924730cca3:0xbe9f05a2df18741d!8m2!3d23.3398818!4d75.0279307!16s%2Fg%2F1thcl53t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5047,7 +5089,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maa+Gayatri+Hospital/@23.3398818,75.0279307,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe924730cca3:0xbe9f05a2df18741d!8m2!3d23.3398818!4d75.0279307!16s%2Fg%2F1thcl53t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maa-health-care-clinic-ratlam",
@@ -5095,7 +5138,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Maa+Health+Care+Clinic/@23.3422827,75.0355806,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff310485364f:0x29d9a993726a62d2!8m2!3d23.3422827!4d75.0355806!16s%2Fg%2F11tc_k60ry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Health+Care+Clinic/@23.3422827,75.0355806,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff310485364f:0x29d9a993726a62d2!8m2!3d23.3422827!4d75.0355806!16s%2Fg%2F11tc_k60ry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5161,10 +5204,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maa+Health+Care+Clinic/@23.3422827,75.0355806,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff310485364f:0x29d9a993726a62d2!8m2!3d23.3422827!4d75.0355806!16s%2Fg%2F11tc_k60ry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maheshwari-hospital-ratlam",
@@ -5212,7 +5256,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Maheshwari+Hospital/@23.3339312,75.0332526,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe975d556c8b:0xe8b5be6e1241beca!8m2!3d23.3339312!4d75.0332526!16s%2Fg%2F1tkv84w8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maheshwari+Hospital/@23.3339312,75.0332526,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe975d556c8b:0xe8b5be6e1241beca!8m2!3d23.3339312!4d75.0332526!16s%2Fg%2F1tkv84w8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5281,7 +5325,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maheshwari+Hospital/@23.3339312,75.0332526,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe975d556c8b:0xe8b5be6e1241beca!8m2!3d23.3339312!4d75.0332526!16s%2Fg%2F1tkv84w8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medanta-labs-bohra-baakhal-ratlam-ratlam",
@@ -5331,7 +5376,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medanta+Labs+-+Bohra+Baakhal,+Ratlam/@23.3263106,75.0403026,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff6258f0aa01:0x856ce5b55f7f0365!8m2!3d23.3263106!4d75.0403026!16s%2Fg%2F11vststzcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medanta+Labs+-+Bohra+Baakhal,+Ratlam/@23.3263106,75.0403026,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff6258f0aa01:0x856ce5b55f7f0365!8m2!3d23.3263106!4d75.0403026!16s%2Fg%2F11vststzcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5397,10 +5442,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medanta+Labs+-+Bohra+Baakhal,+Ratlam/@23.3263106,75.0403026,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff6258f0aa01:0x856ce5b55f7f0365!8m2!3d23.3263106!4d75.0403026!16s%2Fg%2F11vststzcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medical-ratlam",
@@ -5447,7 +5493,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/medical/@23.321694,75.0218356,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff18bf25b2f1:0xab4449839f7f20f2!8m2!3d23.321694!4d75.0218356!16s%2Fg%2F11wwy_c5j0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/medical/@23.321694,75.0218356,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff18bf25b2f1:0xab4449839f7f20f2!8m2!3d23.321694!4d75.0218356!16s%2Fg%2F11wwy_c5j0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5513,10 +5559,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/medical/@23.321694,75.0218356,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff18bf25b2f1:0xab4449839f7f20f2!8m2!3d23.321694!4d75.0218356!16s%2Fg%2F11wwy_c5j0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mehra-nursing-home-ratlam",
@@ -5565,7 +5612,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mehra+Nursing+Home/@23.3316595,75.0309043,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9a16b74361:0x806b1e45577b306d!8m2!3d23.3316595!4d75.0309043!16s%2Fg%2F1hc3ygt76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mehra+Nursing+Home/@23.3316595,75.0309043,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9a16b74361:0x806b1e45577b306d!8m2!3d23.3316595!4d75.0309043!16s%2Fg%2F1hc3ygt76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5634,7 +5681,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mehra+Nursing+Home/@23.3316595,75.0309043,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9a16b74361:0x806b1e45577b306d!8m2!3d23.3316595!4d75.0309043!16s%2Fg%2F1hc3ygt76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "metropolis-labs-diagnostic-centre-and-blood-test-in-plywood-ratlam-ratlam",
@@ -5684,7 +5732,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Metropolis+Labs+-+Diagnostic+Centre+%26+Blood+Test+in+Plywood,+Ratlam/@23.3223501,75.0296593,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffae77ce8115:0x6038eef9f6b84203!8m2!3d23.3223501!4d75.0296593!16s%2Fg%2F11nhfwmk5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metropolis+Labs+-+Diagnostic+Centre+%26+Blood+Test+in+Plywood,+Ratlam/@23.3223501,75.0296593,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffae77ce8115:0x6038eef9f6b84203!8m2!3d23.3223501!4d75.0296593!16s%2Fg%2F11nhfwmk5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5750,10 +5798,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metropolis+Labs+-+Diagnostic+Centre+%26+Blood+Test+in+Plywood,+Ratlam/@23.3223501,75.0296593,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffae77ce8115:0x6038eef9f6b84203!8m2!3d23.3223501!4d75.0296593!16s%2Fg%2F11nhfwmk5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-ratlam-ratlam",
@@ -5803,7 +5852,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Ratlam/@23.344127,75.032195,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff294ef821b5:0x40cc75467a584f49!8m2!3d23.344127!4d75.032195!16s%2Fg%2F11ml05lsw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Ratlam/@23.344127,75.032195,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff294ef821b5:0x40cc75467a584f49!8m2!3d23.344127!4d75.032195!16s%2Fg%2F11ml05lsw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5869,10 +5918,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Ratlam/@23.344127,75.032195,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff294ef821b5:0x40cc75467a584f49!8m2!3d23.344127!4d75.032195!16s%2Fg%2F11ml05lsw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-ratlam-ratlam",
@@ -5922,7 +5972,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Ratlam/@23.330481,75.0427401,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9322f96855:0x8cec1d091ef212a6!8m2!3d23.330481!4d75.0427401!16s%2Fg%2F11vpyq95cr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Ratlam/@23.330481,75.0427401,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9322f96855:0x8cec1d091ef212a6!8m2!3d23.330481!4d75.0427401!16s%2Fg%2F11vpyq95cr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5991,7 +6041,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Ratlam/@23.330481,75.0427401,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9322f96855:0x8cec1d091ef212a6!8m2!3d23.330481!4d75.0427401!16s%2Fg%2F11vpyq95cr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nemo-homeoderm-clinic-skin-hair-laser-homoeopathy-ratlam",
@@ -6039,7 +6090,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Nemo+Homeoderm+clinic+skin+%7C+Hair+%7C+Laser%7C+Homoeopathy/@23.3347541,75.048547,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0455e9323d:0x7aa810b5b94c0fd1!8m2!3d23.3347541!4d75.048547!16s%2Fg%2F11x5ch2ysd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nemo+Homeoderm+clinic+skin+%7C+Hair+%7C+Laser%7C+Homoeopathy/@23.3347541,75.048547,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0455e9323d:0x7aa810b5b94c0fd1!8m2!3d23.3347541!4d75.048547!16s%2Fg%2F11x5ch2ysd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6105,10 +6156,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nemo+Homeoderm+clinic+skin+%7C+Hair+%7C+Laser%7C+Homoeopathy/@23.3347541,75.048547,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0455e9323d:0x7aa810b5b94c0fd1!8m2!3d23.3347541!4d75.048547!16s%2Fg%2F11x5ch2ysd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nemohomeoderm-best-skin-hair-laser-and-homeopathy-clinic-in-ratlam-ratlam",
@@ -6156,7 +6208,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/NEMOHOMEODERM+%7C+BEST+SKIN,+HAIR,+LASER+AND+HOMEOPATHY+CLINIC+IN+RATLAM/@23.3351726,75.0480473,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff07ad8b0ad:0x4391b4b6fe02f996!8m2!3d23.3351726!4d75.0480473!16s%2Fg%2F11x28lrdcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEMOHOMEODERM+%7C+BEST+SKIN,+HAIR,+LASER+AND+HOMEOPATHY+CLINIC+IN+RATLAM/@23.3351726,75.0480473,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff07ad8b0ad:0x4391b4b6fe02f996!8m2!3d23.3351726!4d75.0480473!16s%2Fg%2F11x28lrdcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6225,7 +6277,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEMOHOMEODERM+%7C+BEST+SKIN,+HAIR,+LASER+AND+HOMEOPATHY+CLINIC+IN+RATLAM/@23.3351726,75.0480473,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff07ad8b0ad:0x4391b4b6fe02f996!8m2!3d23.3351726!4d75.0480473!16s%2Fg%2F11x28lrdcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-life-poly-clinic-ratlam",
@@ -6271,7 +6324,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/New+Life+Poly+Clinic/@23.3266018,75.0414121,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea114ae79cf:0xb14dc139c06ff070!8m2!3d23.3266018!4d75.0414121!16s%2Fg%2F11g9r2z641?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Life+Poly+Clinic/@23.3266018,75.0414121,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea114ae79cf:0xb14dc139c06ff070!8m2!3d23.3266018!4d75.0414121!16s%2Fg%2F11g9r2z641?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6337,10 +6390,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Life+Poly+Clinic/@23.3266018,75.0414121,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea114ae79cf:0xb14dc139c06ff070!8m2!3d23.3266018!4d75.0414121!16s%2Fg%2F11g9r2z641?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "niraamay-clinic-of-homeopathy-dr-yogendra-patidar-ratlam",
@@ -6389,7 +6443,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Niraamay+Clinic+of+Homeopathy+(Dr+Yogendra+Patidar)/@23.3316555,75.0405543,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2399257d1:0x63684690f32135c7!8m2!3d23.3316555!4d75.0405543!16s%2Fg%2F11s82yztvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Niraamay+Clinic+of+Homeopathy+(Dr+Yogendra+Patidar)/@23.3316555,75.0405543,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2399257d1:0x63684690f32135c7!8m2!3d23.3316555!4d75.0405543!16s%2Fg%2F11s82yztvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6455,10 +6509,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Niraamay+Clinic+of+Homeopathy+(Dr+Yogendra+Patidar)/@23.3316555,75.0405543,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2399257d1:0x63684690f32135c7!8m2!3d23.3316555!4d75.0405543!16s%2Fg%2F11s82yztvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nirmal-clinic-dr-nirmala-dangi-ratlam",
@@ -6507,7 +6562,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nirmal+Clinic+(Dr+Nirmala+Dangi)/@23.3280806,75.0322097,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe995b083ecf:0x64850c14dbbed4f!8m2!3d23.3280806!4d75.0322097!16s%2Fg%2F11fxd_h4fm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirmal+Clinic+(Dr+Nirmala+Dangi)/@23.3280806,75.0322097,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe995b083ecf:0x64850c14dbbed4f!8m2!3d23.3280806!4d75.0322097!16s%2Fg%2F11fxd_h4fm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6576,7 +6631,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nirmal+Clinic+(Dr+Nirmala+Dangi)/@23.3280806,75.0322097,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe995b083ecf:0x64850c14dbbed4f!8m2!3d23.3280806!4d75.0322097!16s%2Fg%2F11fxd_h4fm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ojas-eye-hospital-dr-rinku-randa-baghel-ratlam",
@@ -6625,7 +6681,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/OJAS+EYE+HOSPITAL+(Dr+Rinku+Randa+Baghel)/@23.3245413,75.0380903,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff94c123f057:0x8d2527dbc83c73f!8m2!3d23.3245413!4d75.0380903!16s%2Fg%2F11sqkdtwms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OJAS+EYE+HOSPITAL+(Dr+Rinku+Randa+Baghel)/@23.3245413,75.0380903,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff94c123f057:0x8d2527dbc83c73f!8m2!3d23.3245413!4d75.0380903!16s%2Fg%2F11sqkdtwms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6694,7 +6750,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OJAS+EYE+HOSPITAL+(Dr+Rinku+Randa+Baghel)/@23.3245413,75.0380903,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff94c123f057:0x8d2527dbc83c73f!8m2!3d23.3245413!4d75.0380903!16s%2Fg%2F11sqkdtwms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "padiyar-medical-hall-ratlam-ratlam",
@@ -6740,7 +6797,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Padiyar+Medical+Hall+Ratlam/@23.327977,75.029759,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa8a5027739:0xe05f14b05c53f602!8m2!3d23.327977!4d75.029759!16s%2Fg%2F11rpdbng8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Padiyar+Medical+Hall+Ratlam/@23.327977,75.029759,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa8a5027739:0xe05f14b05c53f602!8m2!3d23.327977!4d75.029759!16s%2Fg%2F11rpdbng8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6806,10 +6863,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Padiyar+Medical+Hall+Ratlam/@23.327977,75.029759,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa8a5027739:0xe05f14b05c53f602!8m2!3d23.327977!4d75.029759!16s%2Fg%2F11rpdbng8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patidar-clinic-ratlam",
@@ -6857,7 +6915,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Patidar+clinic/@23.3339126,75.0352802,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff84d4301c3:0x4b8f7fe72d03294b!8m2!3d23.3339126!4d75.0352802!16s%2Fg%2F11h7bvhmr7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patidar+clinic/@23.3339126,75.0352802,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff84d4301c3:0x4b8f7fe72d03294b!8m2!3d23.3339126!4d75.0352802!16s%2Fg%2F11h7bvhmr7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6926,7 +6984,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patidar+clinic/@23.3339126,75.0352802,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff84d4301c3:0x4b8f7fe72d03294b!8m2!3d23.3339126!4d75.0352802!16s%2Fg%2F11h7bvhmr7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "railway-hospital-ratlam-ratlam",
@@ -6974,7 +7033,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Railway+Hospital+Ratlam/@23.3461009,75.0460551,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fec7846a1197:0xb27a5b8144c62363!8m2!3d23.3461009!4d75.0460551!16s%2Fg%2F11c31pnm1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Railway+Hospital+Ratlam/@23.3461009,75.0460551,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fec7846a1197:0xb27a5b8144c62363!8m2!3d23.3461009!4d75.0460551!16s%2Fg%2F11c31pnm1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7043,7 +7102,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Railway+Hospital+Ratlam/@23.3461009,75.0460551,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fec7846a1197:0xb27a5b8144c62363!8m2!3d23.3461009!4d75.0460551!16s%2Fg%2F11c31pnm1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ratlam-hospital-and-research-centre-ratlam",
@@ -7091,7 +7151,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Ratlam+Hospital+%26+Research+Centre/@23.3326704,75.041498,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea324fe42f1:0xeba73e5542450166!8m2!3d23.3326704!4d75.041498!16s%2Fg%2F11g8lpqf8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ratlam+Hospital+%26+Research+Centre/@23.3326704,75.041498,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea324fe42f1:0xeba73e5542450166!8m2!3d23.3326704!4d75.041498!16s%2Fg%2F11g8lpqf8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7157,10 +7217,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ratlam+Hospital+%26+Research+Centre/@23.3326704,75.041498,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea324fe42f1:0xeba73e5542450166!8m2!3d23.3326704!4d75.041498!16s%2Fg%2F11g8lpqf8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "redcliffe-labs-collection-center-ratlam",
@@ -7210,7 +7271,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Center/@23.3222545,75.0490152,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fd8c09946d8d:0xb53b4e191f79d764!8m2!3d23.3222545!4d75.0490152!16s%2Fg%2F11vjwb8wv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Center/@23.3222545,75.0490152,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fd8c09946d8d:0xb53b4e191f79d764!8m2!3d23.3222545!4d75.0490152!16s%2Fg%2F11vjwb8wv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7279,7 +7340,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Center/@23.3222545,75.0490152,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fd8c09946d8d:0xb53b4e191f79d764!8m2!3d23.3222545!4d75.0490152!16s%2Fg%2F11vjwb8wv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rhythm-heart-institute-ratlam",
@@ -7326,7 +7388,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Rhythm+Heart+Institute/@23.3306488,75.0410699,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007c7a609f:0xd5a8b3a549ddd170!8m2!3d23.3306488!4d75.0410699!16s%2Fg%2F11wq__gts9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rhythm+Heart+Institute/@23.3306488,75.0410699,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007c7a609f:0xd5a8b3a549ddd170!8m2!3d23.3306488!4d75.0410699!16s%2Fg%2F11wq__gts9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7392,10 +7454,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rhythm+Heart+Institute/@23.3306488,75.0410699,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007c7a609f:0xd5a8b3a549ddd170!8m2!3d23.3306488!4d75.0410699!16s%2Fg%2F11wq__gts9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ridhaan-hospital-ratlam",
@@ -7443,7 +7506,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Ridhaan+Hospital/@23.3409757,75.0257748,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe8d7f175bdf:0xeffbc0af3e27ba08!8m2!3d23.3409757!4d75.0257748!16s%2Fg%2F11c20cvhbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ridhaan+Hospital/@23.3409757,75.0257748,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe8d7f175bdf:0xeffbc0af3e27ba08!8m2!3d23.3409757!4d75.0257748!16s%2Fg%2F11c20cvhbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7512,7 +7575,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ridhaan+Hospital/@23.3409757,75.0257748,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe8d7f175bdf:0xeffbc0af3e27ba08!8m2!3d23.3409757!4d75.0257748!16s%2Fg%2F11c20cvhbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rishabh-diagnostics-sonography-centre-ratlam",
@@ -7561,7 +7625,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Rishabh+Diagnostics+(+sonography+centre)/@23.3308934,75.0405486,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2fe60294d:0x80326d1a8e1d693d!8m2!3d23.3308934!4d75.0405486!16s%2Fg%2F11f03sl45t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rishabh+Diagnostics+(+sonography+centre)/@23.3308934,75.0405486,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2fe60294d:0x80326d1a8e1d693d!8m2!3d23.3308934!4d75.0405486!16s%2Fg%2F11f03sl45t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7630,7 +7694,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rishabh+Diagnostics+(+sonography+centre)/@23.3308934,75.0405486,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2fe60294d:0x80326d1a8e1d693d!8m2!3d23.3308934!4d75.0405486!16s%2Fg%2F11f03sl45t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samarpan-hospital-and-research-center-near-rotary-hall",
@@ -7678,7 +7743,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Samarpan+Hospital+and+research+center/@23.3303221,75.0439556,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2f454947f:0xb5a8bf696db1cda6!8m2!3d23.3303221!4d75.0439556!16s%2Fg%2F1tjf8ny7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarpan+Hospital+and+research+center/@23.3303221,75.0439556,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2f454947f:0xb5a8bf696db1cda6!8m2!3d23.3303221!4d75.0439556!16s%2Fg%2F1tjf8ny7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7747,7 +7812,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samarpan+Hospital+and+research+center/@23.3303221,75.0439556,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2f454947f:0xb5a8bf696db1cda6!8m2!3d23.3303221!4d75.0439556!16s%2Fg%2F1tjf8ny7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sameer-medicals-and-polyclinic-ratlam",
@@ -7795,7 +7861,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sameer+Medicals+And+Polyclinic/@23.3247608,75.0286569,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9d33ab0323:0xa1a8b934660b4a72!8m2!3d23.3247608!4d75.0286569!16s%2Fg%2F11hdwgs9bb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sameer+Medicals+And+Polyclinic/@23.3247608,75.0286569,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9d33ab0323:0xa1a8b934660b4a72!8m2!3d23.3247608!4d75.0286569!16s%2Fg%2F11hdwgs9bb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7864,7 +7930,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sameer+Medicals+And+Polyclinic/@23.3247608,75.0286569,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9d33ab0323:0xa1a8b934660b4a72!8m2!3d23.3247608!4d75.0286569!16s%2Fg%2F11hdwgs9bb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samyak-hospital-ratlam",
@@ -7912,7 +7979,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Samyak+Hospital/@23.33905,75.0327608,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa8767b7777:0x5ddc002c06802a7c!8m2!3d23.33905!4d75.0327608!16s%2Fg%2F11tn45ylpd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samyak+Hospital/@23.33905,75.0327608,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa8767b7777:0x5ddc002c06802a7c!8m2!3d23.33905!4d75.0327608!16s%2Fg%2F11tn45ylpd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7978,10 +8045,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samyak+Hospital/@23.33905,75.0327608,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa8767b7777:0x5ddc002c06802a7c!8m2!3d23.33905!4d75.0327608!16s%2Fg%2F11tn45ylpd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shankus-hospitals-ratlam",
@@ -8030,7 +8098,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shankus+Hospitals/@23.2945857,75.0710642,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fbd5d74c8af7:0xf35ae20c7003a405!8m2!3d23.2945857!4d75.0710642!16s%2Fg%2F11y42jspwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shankus+Hospitals/@23.2945857,75.0710642,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fbd5d74c8af7:0xf35ae20c7003a405!8m2!3d23.2945857!4d75.0710642!16s%2Fg%2F11y42jspwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8099,7 +8167,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shankus+Hospitals/@23.2945857,75.0710642,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fbd5d74c8af7:0xf35ae20c7003a405!8m2!3d23.2945857!4d75.0710642!16s%2Fg%2F11y42jspwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shine-skin-care-clinic-ratlam",
@@ -8147,7 +8216,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shine+Skin+Care+Clinic/@23.3396398,75.0370723,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd7bc29017d:0x4a42107eb043b104!8m2!3d23.3396398!4d75.0370723!16s%2Fg%2F11vrjpvbkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shine+Skin+Care+Clinic/@23.3396398,75.0370723,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd7bc29017d:0x4a42107eb043b104!8m2!3d23.3396398!4d75.0370723!16s%2Fg%2F11vrjpvbkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8213,10 +8282,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shine+Skin+Care+Clinic/@23.3396398,75.0370723,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd7bc29017d:0x4a42107eb043b104!8m2!3d23.3396398!4d75.0370723!16s%2Fg%2F11vrjpvbkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shraddha-dental-clinic-ratlam",
@@ -8264,7 +8334,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Shraddha+dental+clinic/@23.3327008,75.0318796,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff6c112ce90f:0x1014c7c46886c1be!8m2!3d23.3327008!4d75.0318796!16s%2Fg%2F11sbgsjpqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shraddha+dental+clinic/@23.3327008,75.0318796,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff6c112ce90f:0x1014c7c46886c1be!8m2!3d23.3327008!4d75.0318796!16s%2Fg%2F11sbgsjpqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8333,7 +8403,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shraddha+dental+clinic/@23.3327008,75.0318796,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff6c112ce90f:0x1014c7c46886c1be!8m2!3d23.3327008!4d75.0318796!16s%2Fg%2F11sbgsjpqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shraddha-hospital-ratlam",
@@ -8381,7 +8452,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Shraddha+Hospital/@23.3335107,75.0352354,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe99fdb03e15:0x260967e8b5ce3bb0!8m2!3d23.3335107!4d75.0352354!16s%2Fg%2F11hbghg4lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shraddha+Hospital/@23.3335107,75.0352354,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe99fdb03e15:0x260967e8b5ce3bb0!8m2!3d23.3335107!4d75.0352354!16s%2Fg%2F11hbghg4lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8450,7 +8521,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shraddha+Hospital/@23.3335107,75.0352354,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe99fdb03e15:0x260967e8b5ce3bb0!8m2!3d23.3335107!4d75.0352354!16s%2Fg%2F11hbghg4lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shraddhashree-clinic-ratlam",
@@ -8496,7 +8568,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Shraddhashree+Clinic/@23.3408375,75.0353362,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe95e3efc359:0xdd2c1f76373d633!8m2!3d23.3408375!4d75.0353362!16s%2Fg%2F11y412t9x3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shraddhashree+Clinic/@23.3408375,75.0353362,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe95e3efc359:0xdd2c1f76373d633!8m2!3d23.3408375!4d75.0353362!16s%2Fg%2F11y412t9x3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8562,10 +8634,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shraddhashree+Clinic/@23.3408375,75.0353362,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe95e3efc359:0xdd2c1f76373d633!8m2!3d23.3408375!4d75.0353362!16s%2Fg%2F11y412t9x3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-patidar-dental-clinic-and-implant-center-best-dental-clinic-and-implant-centre-dentist-root-canal-specialist-ratlam",
@@ -8613,7 +8686,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Patidar+dental+clinic+and+implant+center+%7C%7C+Best+Dental+Clinic+And+Implant+Centre+%7C+Dentist+%7C+Root+Canal+Specialist/@23.3293919,75.0382089,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff88f13698f5:0x6bb3d85c681de095!8m2!3d23.3293919!4d75.0382089!16s%2Fg%2F11gkbl1yk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Patidar+dental+clinic+and+implant+center+%7C%7C+Best+Dental+Clinic+And+Implant+Centre+%7C+Dentist+%7C+Root+Canal+Specialist/@23.3293919,75.0382089,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff88f13698f5:0x6bb3d85c681de095!8m2!3d23.3293919!4d75.0382089!16s%2Fg%2F11gkbl1yk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8682,7 +8755,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Patidar+dental+clinic+and+implant+center+%7C%7C+Best+Dental+Clinic+And+Implant+Centre+%7C+Dentist+%7C+Root+Canal+Specialist/@23.3293919,75.0382089,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff88f13698f5:0x6bb3d85c681de095!8m2!3d23.3293919!4d75.0382089!16s%2Fg%2F11gkbl1yk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shreeji-ent-and-eye-clinic-ratlam",
@@ -8730,7 +8804,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SHREEJI+ENT+AND+EYE+CLINIC/@23.3418979,75.0266352,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fffafd62aabb:0xacea597322b9c6e9!8m2!3d23.3418979!4d75.0266352!16s%2Fg%2F11xtwxzphk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREEJI+ENT+AND+EYE+CLINIC/@23.3418979,75.0266352,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fffafd62aabb:0xacea597322b9c6e9!8m2!3d23.3418979!4d75.0266352!16s%2Fg%2F11xtwxzphk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8796,10 +8870,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHREEJI+ENT+AND+EYE+CLINIC/@23.3418979,75.0266352,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fffafd62aabb:0xacea597322b9c6e9!8m2!3d23.3418979!4d75.0266352!16s%2Fg%2F11xtwxzphk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sobhagya-ayurveda-nadi-shodhan-panchkarma-ratlam-mp-ratlam",
@@ -8847,7 +8922,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sobhagya+Ayurveda+Nadi+shodhan+panchkarma+Ratlam+mp/@23.3368227,75.0291914,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff28b0365707:0xc55c214a269d9450!8m2!3d23.3368227!4d75.0291914!16s%2Fg%2F11gy7xv2x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sobhagya+Ayurveda+Nadi+shodhan+panchkarma+Ratlam+mp/@23.3368227,75.0291914,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff28b0365707:0xc55c214a269d9450!8m2!3d23.3368227!4d75.0291914!16s%2Fg%2F11gy7xv2x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8916,7 +8991,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sobhagya+Ayurveda+Nadi+shodhan+panchkarma+Ratlam+mp/@23.3368227,75.0291914,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff28b0365707:0xc55c214a269d9450!8m2!3d23.3368227!4d75.0291914!16s%2Fg%2F11gy7xv2x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "songara-dental-clinic-best-dentist-dental-clinic-and-implant-centre-orthodontist-ratlam",
@@ -8966,7 +9042,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Songara+Dental+Clinic+%7C%7C+Best+Dentist+%7C+Dental+Clinic+And+Implant+Centre+%7C+Orthodontist/@23.3248345,75.0344671,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9efc19282f:0x7e3f3b714aa4f57c!8m2!3d23.3248345!4d75.0344671!16s%2Fg%2F11h_xh5hhr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Songara+Dental+Clinic+%7C%7C+Best+Dentist+%7C+Dental+Clinic+And+Implant+Centre+%7C+Orthodontist/@23.3248345,75.0344671,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9efc19282f:0x7e3f3b714aa4f57c!8m2!3d23.3248345!4d75.0344671!16s%2Fg%2F11h_xh5hhr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9032,10 +9108,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Songara+Dental+Clinic+%7C%7C+Best+Dentist+%7C+Dental+Clinic+And+Implant+Centre+%7C+Orthodontist/@23.3248345,75.0344671,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9efc19282f:0x7e3f3b714aa4f57c!8m2!3d23.3248345!4d75.0344671!16s%2Fg%2F11h_xh5hhr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "soni-dental-clinic-and-implant-centre-ratlam",
@@ -9084,7 +9161,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SONI+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@23.3395875,75.0369061,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007994a57d:0x14957731d4896ec9!8m2!3d23.3395875!4d75.0369061!16s%2Fg%2F11vq8zkhyw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SONI+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@23.3395875,75.0369061,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007994a57d:0x14957731d4896ec9!8m2!3d23.3395875!4d75.0369061!16s%2Fg%2F11vq8zkhyw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9150,10 +9227,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SONI+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@23.3395875,75.0369061,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007994a57d:0x14957731d4896ec9!8m2!3d23.3395875!4d75.0369061!16s%2Fg%2F11vq8zkhyw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sonography-ultrasound-ratlam-ratlam",
@@ -9202,7 +9280,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sonography+ultrasound+ratlam/@23.3302707,75.0439696,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff42a7cc4fc3:0xd58c406dff70f149!8m2!3d23.3302707!4d75.0439696!16s%2Fg%2F11gsmmzdh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sonography+ultrasound+ratlam/@23.3302707,75.0439696,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff42a7cc4fc3:0xd58c406dff70f149!8m2!3d23.3302707!4d75.0439696!16s%2Fg%2F11gsmmzdh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9271,7 +9349,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sonography+ultrasound+ratlam/@23.3302707,75.0439696,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff42a7cc4fc3:0xd58c406dff70f149!8m2!3d23.3302707!4d75.0439696!16s%2Fg%2F11gsmmzdh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srs-ayurhomyo-clinic-and-panchakarma-centre-sailana-ratlam",
@@ -9319,7 +9398,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SRS+Ayurhomyo+clinic+and+panchakarma+centre+Sailana/@23.3478392,75.0282548,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffc34fe215f1:0x98c5661ac97a36b6!8m2!3d23.3478392!4d75.0282548!16s%2Fg%2F11svx95ck3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRS+Ayurhomyo+clinic+and+panchakarma+centre+Sailana/@23.3478392,75.0282548,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffc34fe215f1:0x98c5661ac97a36b6!8m2!3d23.3478392!4d75.0282548!16s%2Fg%2F11svx95ck3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9385,10 +9464,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRS+Ayurhomyo+clinic+and+panchakarma+centre+Sailana/@23.3478392,75.0282548,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffc34fe215f1:0x98c5661ac97a36b6!8m2!3d23.3478392!4d75.0282548!16s%2Fg%2F11svx95ck3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sterlling-dental-clinic-ratlam",
@@ -9436,7 +9516,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sterlling+Dental+Clinic/@23.3301392,75.0415418,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea3bac586d3:0x544cb5a5989806f1!8m2!3d23.3301392!4d75.0415418!16s%2Fg%2F11g6912rf_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sterlling+Dental+Clinic/@23.3301392,75.0415418,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea3bac586d3:0x544cb5a5989806f1!8m2!3d23.3301392!4d75.0415418!16s%2Fg%2F11g6912rf_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9502,10 +9582,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sterlling+Dental+Clinic/@23.3301392,75.0415418,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea3bac586d3:0x544cb5a5989806f1!8m2!3d23.3301392!4d75.0415418!16s%2Fg%2F11g6912rf_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vedaant-hospital-ratlam",
@@ -9553,7 +9634,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Vedaant+Hospital/@23.3462926,75.0286714,17z/data=!3m1!4b1!4m6!3m5!1s0x3963feed1c4ee335:0x5f8c33915144f6a!8m2!3d23.3462926!4d75.0286714!16s%2Fg%2F11bwhb189y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vedaant+Hospital/@23.3462926,75.0286714,17z/data=!3m1!4b1!4m6!3m5!1s0x3963feed1c4ee335:0x5f8c33915144f6a!8m2!3d23.3462926!4d75.0286714!16s%2Fg%2F11bwhb189y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9622,7 +9703,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vedaant+Hospital/@23.3462926,75.0286714,17z/data=!3m1!4b1!4m6!3m5!1s0x3963feed1c4ee335:0x5f8c33915144f6a!8m2!3d23.3462926!4d75.0286714!16s%2Fg%2F11bwhb189y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vighna-vinayak-clinic-ratlam",
@@ -9668,7 +9750,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Vighna+vinayak+clinic/data=!4m7!3m6!1s0x3963fd005db7e577:0x7f39e2244655b852!8m2!3d23.320252!4d75.0223088!16s%2Fg%2F11y4q9k52c!19sChIJd-W3XQD9YzkRUrhVRiTiOX8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vighna+vinayak+clinic/data=!4m7!3m6!1s0x3963fd005db7e577:0x7f39e2244655b852!8m2!3d23.320252!4d75.0223088!16s%2Fg%2F11y4q9k52c!19sChIJd-W3XQD9YzkRUrhVRiTiOX8?authuser=0&hl=en&rclk=1"
@@ -9734,10 +9816,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vighna+vinayak+clinic/data=!4m7!3m6!1s0x3963fd005db7e577:0x7f39e2244655b852!8m2!3d23.320252!4d75.0223088!16s%2Fg%2F11y4q9k52c!19sChIJd-W3XQD9YzkRUrhVRiTiOX8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vikas-clinic-ratlam",
@@ -9783,7 +9866,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Vikas+Clinic/@23.3170993,75.0377923,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc21e1e57d3f:0xbb0085751ed0e09c!8m2!3d23.3170993!4d75.0377923!16s%2Fg%2F11tfs_pbtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vikas+Clinic/@23.3170993,75.0377923,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc21e1e57d3f:0xbb0085751ed0e09c!8m2!3d23.3170993!4d75.0377923!16s%2Fg%2F11tfs_pbtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9849,10 +9932,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vikas+Clinic/@23.3170993,75.0377923,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc21e1e57d3f:0xbb0085751ed0e09c!8m2!3d23.3170993!4d75.0377923!16s%2Fg%2F11tfs_pbtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vishwash-clinic-ratlam",
@@ -9898,7 +9982,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Vishwash+Clinic/@23.3172799,75.0381351,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc1f5c215871:0x5916a3aa73e52cd3!8m2!3d23.3172799!4d75.0381351!16s%2Fg%2F11td8cr1mk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishwash+Clinic/@23.3172799,75.0381351,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc1f5c215871:0x5916a3aa73e52cd3!8m2!3d23.3172799!4d75.0381351!16s%2Fg%2F11td8cr1mk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9964,10 +10048,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vishwash+Clinic/@23.3172799,75.0381351,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc1f5c215871:0x5916a3aa73e52cd3!8m2!3d23.3172799!4d75.0381351!16s%2Fg%2F11td8cr1mk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yarday-nursing-home-ratlam",
@@ -10015,7 +10100,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Yarday+Nursing+Home/@23.3288099,75.0377216,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98a0aecd2d:0x57c41a4ab461a837!8m2!3d23.3288099!4d75.0377216!16s%2Fg%2F11c5gvz1mv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yarday+Nursing+Home/@23.3288099,75.0377216,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98a0aecd2d:0x57c41a4ab461a837!8m2!3d23.3288099!4d75.0377216!16s%2Fg%2F11c5gvz1mv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10084,7 +10169,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yarday+Nursing+Home/@23.3288099,75.0377216,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98a0aecd2d:0x57c41a4ab461a837!8m2!3d23.3288099!4d75.0377216!16s%2Fg%2F11c5gvz1mv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ratlam",
@@ -10130,7 +10216,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89+%E0%A4%9A%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B6%E0%A5%87%E0%A4%96%E0%A4%B0+%E0%A4%B0%E0%A4%BE%E0%A4%AF/@23.3248632,75.0380236,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff006b5a1827:0xf9feb5a29b2e5c1f!8m2!3d23.3248632!4d75.0380236!16s%2Fg%2F11xf_k778d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89+%E0%A4%9A%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B6%E0%A5%87%E0%A4%96%E0%A4%B0+%E0%A4%B0%E0%A4%BE%E0%A4%AF/@23.3248632,75.0380236,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff006b5a1827:0xf9feb5a29b2e5c1f!8m2!3d23.3248632!4d75.0380236!16s%2Fg%2F11xf_k778d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10196,10 +10282,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89+%E0%A4%9A%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B6%E0%A5%87%E0%A4%96%E0%A4%B0+%E0%A4%B0%E0%A4%BE%E0%A4%AF/@23.3248632,75.0380236,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff006b5a1827:0xf9feb5a29b2e5c1f!8m2!3d23.3248632!4d75.0380236!16s%2Fg%2F11xf_k778d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ratlam",
@@ -10245,7 +10332,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%AE%E0%A5%8C%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@23.3492513,75.031053,17z/data=!3m1!4b1!4m6!3m5!1s0x3963feec11bc558d:0x7df4db8662ebbb3c!8m2!3d23.3492513!4d75.031053!16s%2Fg%2F11l6tmdd1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%AE%E0%A5%8C%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@23.3492513,75.031053,17z/data=!3m1!4b1!4m6!3m5!1s0x3963feec11bc558d:0x7df4db8662ebbb3c!8m2!3d23.3492513!4d75.031053!16s%2Fg%2F11l6tmdd1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10311,10 +10398,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%AE%E0%A5%8C%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@23.3492513,75.031053,17z/data=!3m1!4b1!4m6!3m5!1s0x3963feec11bc558d:0x7df4db8662ebbb3c!8m2!3d23.3492513!4d75.031053!16s%2Fg%2F11l6tmdd1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ratlam",
@@ -10360,7 +10448,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95+(%E0%A4%A1%E0%A5%89.+%E0%A4%9C%E0%A4%BF%E0%A4%A4%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE)/@23.322882,75.0219487,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff005c8f7839:0xa1484a987c2faa0b!8m2!3d23.322882!4d75.0219487!16s%2Fg%2F11lm9vpr0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95+(%E0%A4%A1%E0%A5%89.+%E0%A4%9C%E0%A4%BF%E0%A4%A4%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE)/@23.322882,75.0219487,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff005c8f7839:0xa1484a987c2faa0b!8m2!3d23.322882!4d75.0219487!16s%2Fg%2F11lm9vpr0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10426,10 +10514,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95+(%E0%A4%A1%E0%A5%89.+%E0%A4%9C%E0%A4%BF%E0%A4%A4%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE)/@23.322882,75.0219487,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff005c8f7839:0xa1484a987c2faa0b!8m2!3d23.322882!4d75.0219487!16s%2Fg%2F11lm9vpr0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ratlam",
@@ -10475,7 +10564,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%88+%E0%A4%A1%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@23.3288142,75.0374897,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98a115a477:0x5f9af54f3b93ebc7!8m2!3d23.3288142!4d75.0374897!16s%2Fg%2F11lchlsv3t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%88+%E0%A4%A1%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@23.3288142,75.0374897,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98a115a477:0x5f9af54f3b93ebc7!8m2!3d23.3288142!4d75.0374897!16s%2Fg%2F11lchlsv3t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10541,9 +10630,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%88+%E0%A4%A1%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@23.3288142,75.0374897,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98a115a477:0x5f9af54f3b93ebc7!8m2!3d23.3288142!4d75.0374897!16s%2Fg%2F11lchlsv3t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

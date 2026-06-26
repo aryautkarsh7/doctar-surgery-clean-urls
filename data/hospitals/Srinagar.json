@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/24%2F7+Emergency+%26+Ambulance+Services+-+Paras+Hospital/data=!4m7!3m6!1s0x38e18faf0373af9f:0xef6d88a1dd598c16!8m2!3d34.0751642!4d74.8318743!16s%2Fg%2F11ygggflds!19sChIJn69zA6-P4TgRFoxZ3aGIbe8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/24%2F7+Emergency+%26+Ambulance+Services+-+Paras+Hospital/data=!4m7!3m6!1s0x38e18faf0373af9f:0xef6d88a1dd598c16!8m2!3d34.0751642!4d74.8318743!16s%2Fg%2F11ygggflds!19sChIJn69zA6-P4TgRFoxZ3aGIbe8?authuser=0&hl=en&rclk=1"
@@ -112,10 +112,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/24%2F7+Emergency+%26+Ambulance+Services+-+Paras+Hospital/data=!4m7!3m6!1s0x38e18faf0373af9f:0xef6d88a1dd598c16!8m2!3d34.0751642!4d74.8318743!16s%2Fg%2F11ygggflds!19sChIJn69zA6-P4TgRFoxZ3aGIbe8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "92-base-hospital-srinagar-srinagar",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/92+Base+Hospital,+Srinagar/data=!4m7!3m6!1s0x38e18f3eabe6ec35:0xac7d7732faedc4d5!8m2!3d34.0658392!4d74.8562264!16s%2Fg%2F11jcvlwj_c!19sChIJNezmqz6P4TgR1cTt-jJ3faw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/92+Base+Hospital,+Srinagar/data=!4m7!3m6!1s0x38e18f3eabe6ec35:0xac7d7732faedc4d5!8m2!3d34.0658392!4d74.8562264!16s%2Fg%2F11jcvlwj_c!19sChIJNezmqz6P4TgR1cTt-jJ3faw?authuser=0&hl=en&rclk=1"
@@ -232,7 +233,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/92+Base+Hospital,+Srinagar/data=!4m7!3m6!1s0x38e18f3eabe6ec35:0xac7d7732faedc4d5!8m2!3d34.0658392!4d74.8562264!16s%2Fg%2F11jcvlwj_c!19sChIJNezmqz6P4TgR1cTt-jJ3faw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "access-dental-care-and-orthodontics-srinagar",
@@ -283,7 +285,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Access+Dental+care+and+Orthodontics/data=!4m7!3m6!1s0x38e185deb1223b01:0x52139ae3c73c1024!8m2!3d34.093501!4d74.8150755!16s%2Fg%2F11px9vdn15!19sChIJATsisd6F4TgRJBA8x-OaE1I?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Access+Dental+care+and+Orthodontics/data=!4m7!3m6!1s0x38e185deb1223b01:0x52139ae3c73c1024!8m2!3d34.093501!4d74.8150755!16s%2Fg%2F11px9vdn15!19sChIJATsisd6F4TgRJBA8x-OaE1I?authuser=0&hl=en&rclk=1"
@@ -352,7 +354,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Access+Dental+care+and+Orthodontics/data=!4m7!3m6!1s0x38e185deb1223b01:0x52139ae3c73c1024!8m2!3d34.093501!4d74.8150755!16s%2Fg%2F11px9vdn15!19sChIJATsisd6F4TgRJBA8x-OaE1I?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "advanced-dental-care-srinagar",
@@ -400,7 +403,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Advanced+Dental+Care/data=!4m7!3m6!1s0x38e185e40ed5ada1:0xf807f950eb79b4fb!8m2!3d34.0845828!4d74.79542!16s%2Fg%2F11w26fsb1q!19sChIJoa3VDuSF4TgR-7R561D5B_g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Dental+Care/data=!4m7!3m6!1s0x38e185e40ed5ada1:0xf807f950eb79b4fb!8m2!3d34.0845828!4d74.79542!16s%2Fg%2F11w26fsb1q!19sChIJoa3VDuSF4TgR-7R561D5B_g?authuser=0&hl=en&rclk=1"
@@ -466,10 +469,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advanced+Dental+Care/data=!4m7!3m6!1s0x38e185e40ed5ada1:0xf807f950eb79b4fb!8m2!3d34.0845828!4d74.79542!16s%2Fg%2F11w26fsb1q!19sChIJoa3VDuSF4TgR-7R561D5B_g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ah-health-care-diagnostics-and-sleep-study-services-srinagar",
@@ -517,7 +521,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/AH+Health+Care+%7C+Diagnostics+%26+Sleep+study+services+%7C/data=!4m7!3m6!1s0x38e185be9e21923b:0xa0dfb4fc9595cf88!8m2!3d34.0861028!4d74.7954819!16s%2Fg%2F11z9p113_r!19sChIJO5Ihnr6F4TgRiM-Vlfy036A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AH+Health+Care+%7C+Diagnostics+%26+Sleep+study+services+%7C/data=!4m7!3m6!1s0x38e185be9e21923b:0xa0dfb4fc9595cf88!8m2!3d34.0861028!4d74.7954819!16s%2Fg%2F11z9p113_r!19sChIJO5Ihnr6F4TgRiM-Vlfy036A?authuser=0&hl=en&rclk=1"
@@ -583,10 +587,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AH+Health+Care+%7C+Diagnostics+%26+Sleep+study+services+%7C/data=!4m7!3m6!1s0x38e185be9e21923b:0xa0dfb4fc9595cf88!8m2!3d34.0861028!4d74.7954819!16s%2Fg%2F11z9p113_r!19sChIJO5Ihnr6F4TgRiM-Vlfy036A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "alamdar-dental-wellness-and-aesthetic-clinic-srinagar",
@@ -635,7 +640,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ALAMDAR+Dental+wellness+%26+Aesthetic+clinic/data=!4m7!3m6!1s0x38e18996a680dca7:0x8eef647d8c381e8!8m2!3d34.0389326!4d74.8859103!16s%2Fg%2F11rk6xwmfy!19sChIJp9yAppaJ4TgR6IHD2Ef27gg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ALAMDAR+Dental+wellness+%26+Aesthetic+clinic/data=!4m7!3m6!1s0x38e18996a680dca7:0x8eef647d8c381e8!8m2!3d34.0389326!4d74.8859103!16s%2Fg%2F11rk6xwmfy!19sChIJp9yAppaJ4TgR6IHD2Ef27gg?authuser=0&hl=en&rclk=1"
@@ -701,10 +706,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ALAMDAR+Dental+wellness+%26+Aesthetic+clinic/data=!4m7!3m6!1s0x38e18996a680dca7:0x8eef647d8c381e8!8m2!3d34.0389326!4d74.8859103!16s%2Fg%2F11rk6xwmfy!19sChIJp9yAppaJ4TgR6IHD2Ef27gg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "amandeep-br-medicity-hospital-srinagar",
@@ -753,7 +759,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AMANDEEP+BR+MEDICITY+HOSPITAL/data=!4m7!3m6!1s0x38e191a27f41a59f:0x23239deee61376eb!8m2!3d34.0663299!4d74.7775598!16s%2Fg%2F11snyvym7v!19sChIJn6VBf6KR4TgR63YT5u6dIyM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AMANDEEP+BR+MEDICITY+HOSPITAL/data=!4m7!3m6!1s0x38e191a27f41a59f:0x23239deee61376eb!8m2!3d34.0663299!4d74.7775598!16s%2Fg%2F11snyvym7v!19sChIJn6VBf6KR4TgR63YT5u6dIyM?authuser=0&hl=en&rclk=1"
@@ -822,7 +828,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AMANDEEP+BR+MEDICITY+HOSPITAL/data=!4m7!3m6!1s0x38e191a27f41a59f:0x23239deee61376eb!8m2!3d34.0663299!4d74.7775598!16s%2Fg%2F11snyvym7v!19sChIJn6VBf6KR4TgR63YT5u6dIyM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "asa-dental-clinic-srinagar",
@@ -871,7 +878,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ASA+Dental+Clinic/data=!4m7!3m6!1s0x38e18fc6140c2d0b:0xc4ae06bc40db0d69!8m2!3d34.0629445!4d74.8097766!16s%2Fg%2F11r3j7jrbq!19sChIJCy0MFMaP4TgRaQ3bQLwGrsQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASA+Dental+Clinic/data=!4m7!3m6!1s0x38e18fc6140c2d0b:0xc4ae06bc40db0d69!8m2!3d34.0629445!4d74.8097766!16s%2Fg%2F11r3j7jrbq!19sChIJCy0MFMaP4TgRaQ3bQLwGrsQ?authuser=0&hl=en&rclk=1"
@@ -940,7 +947,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ASA+Dental+Clinic/data=!4m7!3m6!1s0x38e18fc6140c2d0b:0xc4ae06bc40db0d69!8m2!3d34.0629445!4d74.8097766!16s%2Fg%2F11r3j7jrbq!19sChIJCy0MFMaP4TgRaQ3bQLwGrsQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "atulaya-healthcare-srinagar-srinagar",
@@ -990,7 +998,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Atulaya+Healthcare+Srinagar/data=!4m7!3m6!1s0x38e18f824fb0c469:0x40c53482ad27060f!8m2!3d34.0840728!4d74.7964218!16s%2Fg%2F11qb5s516f!19sChIJacSwT4KP4TgRDwYnrYI0xUA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Atulaya+Healthcare+Srinagar/data=!4m7!3m6!1s0x38e18f824fb0c469:0x40c53482ad27060f!8m2!3d34.0840728!4d74.7964218!16s%2Fg%2F11qb5s516f!19sChIJacSwT4KP4TgRDwYnrYI0xUA?authuser=0&hl=en&rclk=1"
@@ -1059,7 +1067,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Atulaya+Healthcare+Srinagar/data=!4m7!3m6!1s0x38e18f824fb0c469:0x40c53482ad27060f!8m2!3d34.0840728!4d74.7964218!16s%2Fg%2F11qb5s516f!19sChIJacSwT4KP4TgRDwYnrYI0xUA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "center-for-oral-surgery-and-dental-implants-srinagar",
@@ -1108,7 +1117,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Center+for+oral+surgery+and+dental+implants/data=!4m7!3m6!1s0x38e187b1bb758cb1:0x8d18158604935123!8m2!3d34.10982!4d74.8824639!16s%2Fg%2F11pdqtvmvk!19sChIJsYx1u7GH4TgRI1GTBIYVGI0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Center+for+oral+surgery+and+dental+implants/data=!4m7!3m6!1s0x38e187b1bb758cb1:0x8d18158604935123!8m2!3d34.10982!4d74.8824639!16s%2Fg%2F11pdqtvmvk!19sChIJsYx1u7GH4TgRI1GTBIYVGI0?authuser=0&hl=en&rclk=1"
@@ -1174,10 +1183,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Center+for+oral+surgery+and+dental+implants/data=!4m7!3m6!1s0x38e187b1bb758cb1:0x8d18158604935123!8m2!3d34.10982!4d74.8824639!16s%2Fg%2F11pdqtvmvk!19sChIJsYx1u7GH4TgRI1GTBIYVGI0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "citi-dental-clinic-srinagar",
@@ -1226,7 +1236,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Citi+Dental+Clinic/data=!4m7!3m6!1s0x38e18f45b5b7ab21:0x2955370558611e49!8m2!3d34.0622879!4d74.8170783!16s%2Fg%2F11fklbp31c!19sChIJIau3tUWP4TgRSR5hWAU3VSk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Citi+Dental+Clinic/data=!4m7!3m6!1s0x38e18f45b5b7ab21:0x2955370558611e49!8m2!3d34.0622879!4d74.8170783!16s%2Fg%2F11fklbp31c!19sChIJIau3tUWP4TgRSR5hWAU3VSk?authuser=0&hl=en&rclk=1"
@@ -1295,7 +1305,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Citi+Dental+Clinic/data=!4m7!3m6!1s0x38e18f45b5b7ab21:0x2955370558611e49!8m2!3d34.0622879!4d74.8170783!16s%2Fg%2F11fklbp31c!19sChIJIau3tUWP4TgRSR5hWAU3VSk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "city-heart-centre-srinagar",
@@ -1345,7 +1356,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/City+heart+centre/data=!4m7!3m6!1s0x38e1910014a99ce3:0x5fe47bdad46af5b8!8m2!3d34.0276005!4d74.7775741!16s%2Fg%2F11w3zspvq7!19sChIJ45ypFACR4TgRuPVq1Np75F8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+heart+centre/data=!4m7!3m6!1s0x38e1910014a99ce3:0x5fe47bdad46af5b8!8m2!3d34.0276005!4d74.7775741!16s%2Fg%2F11w3zspvq7!19sChIJ45ypFACR4TgRuPVq1Np75F8?authuser=0&hl=en&rclk=1"
@@ -1414,7 +1425,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+heart+centre/data=!4m7!3m6!1s0x38e1910014a99ce3:0x5fe47bdad46af5b8!8m2!3d34.0276005!4d74.7775741!16s%2Fg%2F11w3zspvq7!19sChIJ45ypFACR4TgRuPVq1Np75F8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cosmo-hair-clinic-srinagar-best-hair-transplant-in-srinagar-srinagar",
@@ -1463,7 +1475,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Cosmo+Hair+Clinic+Srinagar+-+Best+Hair+transplant+in+Srinagar/data=!4m7!3m6!1s0x38e18f1e6d308fa3:0x6b2e1e3947691e8f!8m2!3d34.0810906!4d74.8001266!16s%2Fg%2F11wb6j7mny!19sChIJo48wbR6P4TgRjx5pRzkeLms?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmo+Hair+Clinic+Srinagar+-+Best+Hair+transplant+in+Srinagar/data=!4m7!3m6!1s0x38e18f1e6d308fa3:0x6b2e1e3947691e8f!8m2!3d34.0810906!4d74.8001266!16s%2Fg%2F11wb6j7mny!19sChIJo48wbR6P4TgRjx5pRzkeLms?authuser=0&hl=en&rclk=1"
@@ -1532,7 +1544,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmo+Hair+Clinic+Srinagar+-+Best+Hair+transplant+in+Srinagar/data=!4m7!3m6!1s0x38e18f1e6d308fa3:0x6b2e1e3947691e8f!8m2!3d34.0810906!4d74.8001266!16s%2Fg%2F11wb6j7mny!19sChIJo48wbR6P4TgRjx5pRzkeLms?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cosmos-dental-clinic-and-tmj-centre-srinagar",
@@ -1580,7 +1593,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Cosmos+Dental+Clinic+%26+TMJ+Centre/data=!4m7!3m6!1s0x38e18f993bbd3a5f:0x6c69182ae5b5cbf0!8m2!3d34.0644861!4d74.8197022!16s%2Fg%2F11ynf5cj8m!19sChIJXzq9O5mP4TgR8Mu15SoYaWw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmos+Dental+Clinic+%26+TMJ+Centre/data=!4m7!3m6!1s0x38e18f993bbd3a5f:0x6c69182ae5b5cbf0!8m2!3d34.0644861!4d74.8197022!16s%2Fg%2F11ynf5cj8m!19sChIJXzq9O5mP4TgR8Mu15SoYaWw?authuser=0&hl=en&rclk=1"
@@ -1646,10 +1659,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmos+Dental+Clinic+%26+TMJ+Centre/data=!4m7!3m6!1s0x38e18f993bbd3a5f:0x6c69182ae5b5cbf0!8m2!3d34.0644861!4d74.8197022!16s%2Fg%2F11ynf5cj8m!19sChIJXzq9O5mP4TgR8Mu15SoYaWw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cosmoskin-srinagar",
@@ -1698,7 +1712,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Cosmoskin/data=!4m7!3m6!1s0x38e185d51e4d4be7:0x5ca5975bfd31337a!8m2!3d34.1027919!4d74.8088347!16s%2Fg%2F11vkbd9f56!19sChIJ50tNHtWF4TgRejMx_VuXpVw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmoskin/data=!4m7!3m6!1s0x38e185d51e4d4be7:0x5ca5975bfd31337a!8m2!3d34.1027919!4d74.8088347!16s%2Fg%2F11vkbd9f56!19sChIJ50tNHtWF4TgRejMx_VuXpVw?authuser=0&hl=en&rclk=1"
@@ -1767,7 +1781,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmoskin/data=!4m7!3m6!1s0x38e185d51e4d4be7:0x5ca5975bfd31337a!8m2!3d34.1027919!4d74.8088347!16s%2Fg%2F11vkbd9f56!19sChIJ50tNHtWF4TgRejMx_VuXpVw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dent-o-care-dental-clinic-and-braces-centre-srinagar",
@@ -1816,7 +1831,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DENT-O-CARE,+DENTAL+CLINIC+AND+BRACES+CENTRE/data=!4m7!3m6!1s0x38e18f826782a105:0xe14c162f87824639!8m2!3d34.0233363!4d74.8092387!16s%2Fg%2F11p5jzc4q_!19sChIJBaGCZ4KP4TgROUaChy8WTOE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENT-O-CARE,+DENTAL+CLINIC+AND+BRACES+CENTRE/data=!4m7!3m6!1s0x38e18f826782a105:0xe14c162f87824639!8m2!3d34.0233363!4d74.8092387!16s%2Fg%2F11p5jzc4q_!19sChIJBaGCZ4KP4TgROUaChy8WTOE?authuser=0&hl=en&rclk=1"
@@ -1885,7 +1900,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENT-O-CARE,+DENTAL+CLINIC+AND+BRACES+CENTRE/data=!4m7!3m6!1s0x38e18f826782a105:0xe14c162f87824639!8m2!3d34.0233363!4d74.8092387!16s%2Fg%2F11p5jzc4q_!19sChIJBaGCZ4KP4TgROUaChy8WTOE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dental-glaze-srinagar",
@@ -1934,7 +1950,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Glaze/data=!4m7!3m6!1s0x38e19129dee0650b:0xe37bb8fdb6f69aa5!8m2!3d34.075381!4d74.7740661!16s%2Fg%2F11qnfd2hhn!19sChIJC2Xg3imR4TgRpZr2tv24e-M?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Glaze/data=!4m7!3m6!1s0x38e19129dee0650b:0xe37bb8fdb6f69aa5!8m2!3d34.075381!4d74.7740661!16s%2Fg%2F11qnfd2hhn!19sChIJC2Xg3imR4TgRpZr2tv24e-M?authuser=0&hl=en&rclk=1"
@@ -2000,10 +2016,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Glaze/data=!4m7!3m6!1s0x38e19129dee0650b:0xe37bb8fdb6f69aa5!8m2!3d34.075381!4d74.7740661!16s%2Fg%2F11qnfd2hhn!19sChIJC2Xg3imR4TgRpZr2tv24e-M?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dentalarena-srinagar",
@@ -2051,7 +2068,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/DentalArena/data=!4m7!3m6!1s0x38e18fd44641b9c1:0x35f6aead00c21fac!8m2!3d34.0818487!4d74.7929619!16s%2Fg%2F11q93tj0kk!19sChIJwblBRtSP4TgRrB_CAK2u9jU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DentalArena/data=!4m7!3m6!1s0x38e18fd44641b9c1:0x35f6aead00c21fac!8m2!3d34.0818487!4d74.7929619!16s%2Fg%2F11q93tj0kk!19sChIJwblBRtSP4TgRrB_CAK2u9jU?authuser=0&hl=en&rclk=1"
@@ -2120,7 +2137,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DentalArena/data=!4m7!3m6!1s0x38e18fd44641b9c1:0x35f6aead00c21fac!8m2!3d34.0818487!4d74.7929619!16s%2Fg%2F11q93tj0kk!19sChIJwblBRtSP4TgRrB_CAK2u9jU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dentocare-clinic-and-implant-centre-srinagar",
@@ -2168,7 +2186,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Dentocare+clinic+and+implant+centre/data=!4m7!3m6!1s0x38e185750a16e471:0x9ccc76dfa8f22a3c!8m2!3d34.1017607!4d74.8089921!16s%2Fg%2F11flqkjd98!19sChIJceQWCnWF4TgRPCryqN92zJw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentocare+clinic+and+implant+centre/data=!4m7!3m6!1s0x38e185750a16e471:0x9ccc76dfa8f22a3c!8m2!3d34.1017607!4d74.8089921!16s%2Fg%2F11flqkjd98!19sChIJceQWCnWF4TgRPCryqN92zJw?authuser=0&hl=en&rclk=1"
@@ -2237,7 +2255,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dentocare+clinic+and+implant+centre/data=!4m7!3m6!1s0x38e185750a16e471:0x9ccc76dfa8f22a3c!8m2!3d34.1017607!4d74.8089921!16s%2Fg%2F11flqkjd98!19sChIJceQWCnWF4TgRPCryqN92zJw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dentz-srinagar",
@@ -2285,7 +2304,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Dentz/data=!4m7!3m6!1s0x38e1859af07705df:0xada90c12f84ddb68!8m2!3d34.1153453!4d74.8065577!16s%2Fg%2F11s5gs7lq4!19sChIJ3wV38JqF4TgRaNtN-BIMqa0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentz/data=!4m7!3m6!1s0x38e1859af07705df:0xada90c12f84ddb68!8m2!3d34.1153453!4d74.8065577!16s%2Fg%2F11s5gs7lq4!19sChIJ3wV38JqF4TgRaNtN-BIMqa0?authuser=0&hl=en&rclk=1"
@@ -2354,7 +2373,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dentz/data=!4m7!3m6!1s0x38e1859af07705df:0xada90c12f84ddb68!8m2!3d34.1153453!4d74.8065577!16s%2Fg%2F11s5gs7lq4!19sChIJ3wV38JqF4TgRaNtN-BIMqa0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "florence-hospital-channapora-sgr-kashmir-srinagar",
@@ -2404,7 +2424,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Florence+hospital+channapora+sgr+Kashmir/data=!4m7!3m6!1s0x38e18e4bf1899809:0x3debe878bb381ef1!8m2!3d34.0389437!4d74.8087769!16s%2Fg%2F1v3_116s!19sChIJCZiJ8UuO4TgR8R44u3jo6z0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Florence+hospital+channapora+sgr+Kashmir/data=!4m7!3m6!1s0x38e18e4bf1899809:0x3debe878bb381ef1!8m2!3d34.0389437!4d74.8087769!16s%2Fg%2F1v3_116s!19sChIJCZiJ8UuO4TgR8R44u3jo6z0?authuser=0&hl=en&rclk=1"
@@ -2470,10 +2490,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Florence+hospital+channapora+sgr+Kashmir/data=!4m7!3m6!1s0x38e18e4bf1899809:0x3debe878bb381ef1!8m2!3d34.0389437!4d74.8087769!16s%2Fg%2F1v3_116s!19sChIJCZiJ8UuO4TgR8R44u3jo6z0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "follicle-skin-laser-clinic-srinagar",
@@ -2521,7 +2542,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/FOLLICLE+Skin,+Laser+Clinic/data=!4m7!3m6!1s0x38e19b5f94e8bbeb:0x3bfdca54c67f6008!8m2!3d34.0975753!4d74.772137!16s%2Fg%2F11p3d8kjh_!19sChIJ67volF-b4TgRCGB_xlTK_Ts?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FOLLICLE+Skin,+Laser+Clinic/data=!4m7!3m6!1s0x38e19b5f94e8bbeb:0x3bfdca54c67f6008!8m2!3d34.0975753!4d74.772137!16s%2Fg%2F11p3d8kjh_!19sChIJ67volF-b4TgRCGB_xlTK_Ts?authuser=0&hl=en&rclk=1"
@@ -2590,7 +2611,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/FOLLICLE+Skin,+Laser+Clinic/data=!4m7!3m6!1s0x38e19b5f94e8bbeb:0x3bfdca54c67f6008!8m2!3d34.0975753!4d74.772137!16s%2Fg%2F11p3d8kjh_!19sChIJ67volF-b4TgRCGB_xlTK_Ts?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "fortis-medical-centre-srinagar-srinagar",
@@ -2639,7 +2661,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Fortis+Medical+Centre,+Srinagar/data=!4m7!3m6!1s0x38e18f4e6f371cbb:0xa2a5e767cfa871dc!8m2!3d34.0840504!4d74.7964395!16s%2Fg%2F11tf8ykgcb!19sChIJuxw3b06P4TgR3HGoz2fnpaI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fortis+Medical+Centre,+Srinagar/data=!4m7!3m6!1s0x38e18f4e6f371cbb:0xa2a5e767cfa871dc!8m2!3d34.0840504!4d74.7964395!16s%2Fg%2F11tf8ykgcb!19sChIJuxw3b06P4TgR3HGoz2fnpaI?authuser=0&hl=en&rclk=1"
@@ -2708,7 +2730,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fortis+Medical+Centre,+Srinagar/data=!4m7!3m6!1s0x38e18f4e6f371cbb:0xa2a5e767cfa871dc!8m2!3d34.0840504!4d74.7964395!16s%2Fg%2F11tf8ykgcb!19sChIJuxw3b06P4TgR3HGoz2fnpaI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "friends-hospital-and-diagnostic-center-srinagar",
@@ -2756,7 +2779,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Friends+Hospital+and+diagnostic+center/data=!4m7!3m6!1s0x38e18f55c7035f2d:0x43fbe0734c011c6a!8m2!3d34.0582219!4d74.786888!16s%2Fg%2F11sx4q23y1!19sChIJLV8Dx1WP4TgRahwBTHPg-0M?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Friends+Hospital+and+diagnostic+center/data=!4m7!3m6!1s0x38e18f55c7035f2d:0x43fbe0734c011c6a!8m2!3d34.0582219!4d74.786888!16s%2Fg%2F11sx4q23y1!19sChIJLV8Dx1WP4TgRahwBTHPg-0M?authuser=0&hl=en&rclk=1"
@@ -2825,7 +2848,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Friends+Hospital+and+diagnostic+center/data=!4m7!3m6!1s0x38e18f55c7035f2d:0x43fbe0734c011c6a!8m2!3d34.0582219!4d74.786888!16s%2Fg%2F11sx4q23y1!19sChIJLV8Dx1WP4TgRahwBTHPg-0M?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "fusion-dental-implant-and-facial-aesthetic-centre-srinagar",
@@ -2873,7 +2897,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Fusion+dental+implant+and+facial+aesthetic+centre/data=!4m7!3m6!1s0x38e18f718dc7fe6b:0xbe1c4e93554d599!8m2!3d34.0313393!4d74.7812421!16s%2Fg%2F11wv0z5mf1!19sChIJa_7HjXGP4TgRmdVUNenE4Qs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fusion+dental+implant+and+facial+aesthetic+centre/data=!4m7!3m6!1s0x38e18f718dc7fe6b:0xbe1c4e93554d599!8m2!3d34.0313393!4d74.7812421!16s%2Fg%2F11wv0z5mf1!19sChIJa_7HjXGP4TgRmdVUNenE4Qs?authuser=0&hl=en&rclk=1"
@@ -2939,10 +2963,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fusion+dental+implant+and+facial+aesthetic+centre/data=!4m7!3m6!1s0x38e18f718dc7fe6b:0xbe1c4e93554d599!8m2!3d34.0313393!4d74.7812421!16s%2Fg%2F11wv0z5mf1!19sChIJa_7HjXGP4TgRmdVUNenE4Qs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gauri-heart-centre-srinagar",
@@ -2992,7 +3017,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gauri+Heart+Centre/data=!4m7!3m6!1s0x38e18f103a374911:0x3ac2a66403fe23f6!8m2!3d34.0300239!4d74.8082362!16s%2Fg%2F11n8xfz7_f!19sChIJEUk3OhCP4TgR9iP-A2Smwjo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gauri+Heart+Centre/data=!4m7!3m6!1s0x38e18f103a374911:0x3ac2a66403fe23f6!8m2!3d34.0300239!4d74.8082362!16s%2Fg%2F11n8xfz7_f!19sChIJEUk3OhCP4TgR9iP-A2Smwjo?authuser=0&hl=en&rclk=1"
@@ -3061,7 +3086,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gauri+Heart+Centre/data=!4m7!3m6!1s0x38e18f103a374911:0x3ac2a66403fe23f6!8m2!3d34.0300239!4d74.8082362!16s%2Fg%2F11n8xfz7_f!19sChIJEUk3OhCP4TgR9iP-A2Smwjo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "government-chest-disease-hospital-srinagar",
@@ -3109,7 +3135,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Government+Chest+Disease+Hospital/data=!4m7!3m6!1s0x38e18f76d58bf033:0x2c77dd5022c3dc3b!8m2!3d34.0778065!4d74.8304119!16s%2Fg%2F11f15jm4q9!19sChIJM_CL1XaP4TgRO9zDIlDddyw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Chest+Disease+Hospital/data=!4m7!3m6!1s0x38e18f76d58bf033:0x2c77dd5022c3dc3b!8m2!3d34.0778065!4d74.8304119!16s%2Fg%2F11f15jm4q9!19sChIJM_CL1XaP4TgRO9zDIlDddyw?authuser=0&hl=en&rclk=1"
@@ -3178,7 +3204,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Chest+Disease+Hospital/data=!4m7!3m6!1s0x38e18f76d58bf033:0x2c77dd5022c3dc3b!8m2!3d34.0778065!4d74.8304119!16s%2Fg%2F11f15jm4q9!19sChIJM_CL1XaP4TgRO9zDIlDddyw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "illaaj-healthcare-medicine-home-delivery-srinagar",
@@ -3229,7 +3256,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/illaaj+Healthcare+-+Medicine+Home+Delivery/data=!4m7!3m6!1s0x38e18f05761af627:0x78316a64a41f79f4!8m2!3d34.0912636!4d74.8139943!16s%2Fg%2F11gxmvyg4g!19sChIJJ_YadgWP4TgR9HkfpGRqMXg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/illaaj+Healthcare+-+Medicine+Home+Delivery/data=!4m7!3m6!1s0x38e18f05761af627:0x78316a64a41f79f4!8m2!3d34.0912636!4d74.8139943!16s%2Fg%2F11gxmvyg4g!19sChIJJ_YadgWP4TgR9HkfpGRqMXg?authuser=0&hl=en&rclk=1"
@@ -3298,7 +3325,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/illaaj+Healthcare+-+Medicine+Home+Delivery/data=!4m7!3m6!1s0x38e18f05761af627:0x78316a64a41f79f4!8m2!3d34.0912636!4d74.8139943!16s%2Fg%2F11gxmvyg4g!19sChIJJ_YadgWP4TgR9HkfpGRqMXg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-srinagar-best-ivf-centre-srinagar",
@@ -3348,7 +3376,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Srinagar+-+Best+IVF+Centre/data=!4m7!3m6!1s0x38e185533faa756d:0xd322badc6e2c637!8m2!3d34.0836693!4d74.7967071!16s%2Fg%2F11xtgzv39f!19sChIJbXWqP1OF4TgRN8bixq0rMg0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Srinagar+-+Best+IVF+Centre/data=!4m7!3m6!1s0x38e185533faa756d:0xd322badc6e2c637!8m2!3d34.0836693!4d74.7967071!16s%2Fg%2F11xtgzv39f!19sChIJbXWqP1OF4TgRN8bixq0rMg0?authuser=0&hl=en&rclk=1"
@@ -3417,7 +3445,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Srinagar+-+Best+IVF+Centre/data=!4m7!3m6!1s0x38e185533faa756d:0xd322badc6e2c637!8m2!3d34.0836693!4d74.7967071!16s%2Fg%2F11xtgzv39f!19sChIJbXWqP1OF4TgRN8bixq0rMg0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jaiyans-hospital-srinagar",
@@ -3466,7 +3495,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jaiyans+Hospital/data=!4m7!3m6!1s0x38e18f3b371c6471:0x7d3fc3c0bc1377a5!8m2!3d34.1166077!4d74.7531144!16s%2Fg%2F11nxr1vq78!19sChIJcWQcNzuP4TgRpXcTvMDDP30?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaiyans+Hospital/data=!4m7!3m6!1s0x38e18f3b371c6471:0x7d3fc3c0bc1377a5!8m2!3d34.1166077!4d74.7531144!16s%2Fg%2F11nxr1vq78!19sChIJcWQcNzuP4TgRpXcTvMDDP30?authuser=0&hl=en&rclk=1"
@@ -3535,7 +3564,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jaiyans+Hospital/data=!4m7!3m6!1s0x38e18f3b371c6471:0x7d3fc3c0bc1377a5!8m2!3d34.1166077!4d74.7531144!16s%2Fg%2F11nxr1vq78!19sChIJcWQcNzuP4TgRpXcTvMDDP30?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "life-imaging-centre-srinagar",
@@ -3584,7 +3614,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Life+Imaging+Centre/data=!4m7!3m6!1s0x38e18f3c2d9e39d7:0x5c437b2525e6a77c!8m2!3d34.0694509!4d74.8004335!16s%2Fg%2F11qnk_p3d5!19sChIJ1zmeLTyP4TgRfKfmJSV7Q1w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Imaging+Centre/data=!4m7!3m6!1s0x38e18f3c2d9e39d7:0x5c437b2525e6a77c!8m2!3d34.0694509!4d74.8004335!16s%2Fg%2F11qnk_p3d5!19sChIJ1zmeLTyP4TgRfKfmJSV7Q1w?authuser=0&hl=en&rclk=1"
@@ -3653,7 +3683,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+Imaging+Centre/data=!4m7!3m6!1s0x38e18f3c2d9e39d7:0x5c437b2525e6a77c!8m2!3d34.0694509!4d74.8004335!16s%2Fg%2F11qnk_p3d5!19sChIJ1zmeLTyP4TgRfKfmJSV7Q1w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "make-u-smile-srinagar",
@@ -3702,7 +3733,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Make+U+Smile/data=!4m7!3m6!1s0x38e18f9ed54dd7f7:0x48cfd67473b14012!8m2!3d34.0340554!4d74.7907755!16s%2Fg%2F11svq9x1_c!19sChIJ99dN1Z6P4TgREkCxc3TWz0g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Make+U+Smile/data=!4m7!3m6!1s0x38e18f9ed54dd7f7:0x48cfd67473b14012!8m2!3d34.0340554!4d74.7907755!16s%2Fg%2F11svq9x1_c!19sChIJ99dN1Z6P4TgREkCxc3TWz0g?authuser=0&hl=en&rclk=1"
@@ -3768,10 +3799,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Make+U+Smile/data=!4m7!3m6!1s0x38e18f9ed54dd7f7:0x48cfd67473b14012!8m2!3d34.0340554!4d74.7907755!16s%2Fg%2F11svq9x1_c!19sChIJ99dN1Z6P4TgREkCxc3TWz0g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maverick-smiles-dental-clinic-srinagar",
@@ -3820,7 +3852,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Maverick+Smiles+Dental+Clinic/data=!4m7!3m6!1s0x38e18f5a5c177df9:0x6f632ac5be1682e5!8m2!3d34.0624656!4d74.8266441!16s%2Fg%2F11rgfw59h9!19sChIJ-X0XXFqP4TgR5YIWvsUqY28?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maverick+Smiles+Dental+Clinic/data=!4m7!3m6!1s0x38e18f5a5c177df9:0x6f632ac5be1682e5!8m2!3d34.0624656!4d74.8266441!16s%2Fg%2F11rgfw59h9!19sChIJ-X0XXFqP4TgR5YIWvsUqY28?authuser=0&hl=en&rclk=1"
@@ -3886,10 +3918,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maverick+Smiles+Dental+Clinic/data=!4m7!3m6!1s0x38e18f5a5c177df9:0x6f632ac5be1682e5!8m2!3d34.0624656!4d74.8266441!16s%2Fg%2F11rgfw59h9!19sChIJ-X0XXFqP4TgR5YIWvsUqY28?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "med-11-srinagar",
@@ -3938,7 +3971,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/MED+11/data=!4m7!3m6!1s0x38e1871f18902a79:0x839cecfb5e6f73cf!8m2!3d34.1335429!4d74.8773896!16s%2Fg%2F11r_tgcytf!19sChIJeSqQGB-H4TgRz3NvXvvsnIM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MED+11/data=!4m7!3m6!1s0x38e1871f18902a79:0x839cecfb5e6f73cf!8m2!3d34.1335429!4d74.8773896!16s%2Fg%2F11r_tgcytf!19sChIJeSqQGB-H4TgRz3NvXvvsnIM?authuser=0&hl=en&rclk=1"
@@ -4007,7 +4040,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MED+11/data=!4m7!3m6!1s0x38e1871f18902a79:0x839cecfb5e6f73cf!8m2!3d34.1335429!4d74.8773896!16s%2Fg%2F11r_tgcytf!19sChIJeSqQGB-H4TgRz3NvXvvsnIM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "medicare-health-services-srinagar",
@@ -4057,7 +4091,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medicare+Health+Services/data=!4m7!3m6!1s0x38e18ff474e92e29:0xa737f83ab3e3653c!8m2!3d34.0871908!4d74.7942541!16s%2Fg%2F1td1hc5b!19sChIJKS7pdPSP4TgRPGXjszr4N6c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicare+Health+Services/data=!4m7!3m6!1s0x38e18ff474e92e29:0xa737f83ab3e3653c!8m2!3d34.0871908!4d74.7942541!16s%2Fg%2F1td1hc5b!19sChIJKS7pdPSP4TgRPGXjszr4N6c?authuser=0&hl=en&rclk=1"
@@ -4126,7 +4160,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicare+Health+Services/data=!4m7!3m6!1s0x38e18ff474e92e29:0xa737f83ab3e3653c!8m2!3d34.0871908!4d74.7942541!16s%2Fg%2F1td1hc5b!19sChIJKS7pdPSP4TgRPGXjszr4N6c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "medikonet-srinagar",
@@ -4176,7 +4211,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MedikoNet/data=!4m7!3m6!1s0x38e18531b8006cbb:0x36154c56355bb475!8m2!3d34.113106!4d74.806305!16s%2Fg%2F11sth8t502!19sChIJu2wAuDGF4TgRdbRbNVZMFTY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MedikoNet/data=!4m7!3m6!1s0x38e18531b8006cbb:0x36154c56355bb475!8m2!3d34.113106!4d74.806305!16s%2Fg%2F11sth8t502!19sChIJu2wAuDGF4TgRdbRbNVZMFTY?authuser=0&hl=en&rclk=1"
@@ -4245,7 +4280,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MedikoNet/data=!4m7!3m6!1s0x38e18531b8006cbb:0x36154c56355bb475!8m2!3d34.113106!4d74.806305!16s%2Fg%2F11sth8t502!19sChIJu2wAuDGF4TgRdbRbNVZMFTY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "meta-smiles-dental-clinic-and-implant-centre-srinagar",
@@ -4294,7 +4330,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/META+SMILES+%28DENTAL+CLINIC+AND+IMPLANT+CENTRE%29/data=!4m7!3m6!1s0x38e18f5cd9ed88b3:0x618c84b7da3362a5!8m2!3d34.0312015!4d74.799577!16s%2Fg%2F11vj_llhl5!19sChIJs4jt2VyP4TgRpWIz2reEjGE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/META+SMILES+%28DENTAL+CLINIC+AND+IMPLANT+CENTRE%29/data=!4m7!3m6!1s0x38e18f5cd9ed88b3:0x618c84b7da3362a5!8m2!3d34.0312015!4d74.799577!16s%2Fg%2F11vj_llhl5!19sChIJs4jt2VyP4TgRpWIz2reEjGE?authuser=0&hl=en&rclk=1"
@@ -4363,7 +4399,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/META+SMILES+%28DENTAL+CLINIC+AND+IMPLANT+CENTRE%29/data=!4m7!3m6!1s0x38e18f5cd9ed88b3:0x618c84b7da3362a5!8m2!3d34.0312015!4d74.799577!16s%2Fg%2F11vj_llhl5!19sChIJs4jt2VyP4TgRpWIz2reEjGE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "modern-hospital-srinagar",
@@ -4411,7 +4448,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Modern+Hospital/data=!4m7!3m6!1s0x38e18f74cc5fc3f5:0xe1f1636bd5efbe7a!8m2!3d34.0681451!4d74.8315325!16s%2Fg%2F1tfrkqg2!19sChIJ9cNfzHSP4TgRer7v1Wtj8eE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modern+Hospital/data=!4m7!3m6!1s0x38e18f74cc5fc3f5:0xe1f1636bd5efbe7a!8m2!3d34.0681451!4d74.8315325!16s%2Fg%2F1tfrkqg2!19sChIJ9cNfzHSP4TgRer7v1Wtj8eE?authuser=0&hl=en&rclk=1"
@@ -4477,10 +4514,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Modern+Hospital/data=!4m7!3m6!1s0x38e18f74cc5fc3f5:0xe1f1636bd5efbe7a!8m2!3d34.0681451!4d74.8315325!16s%2Fg%2F1tfrkqg2!19sChIJ9cNfzHSP4TgRer7v1Wtj8eE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mswak-dental-care-srinagar",
@@ -4529,7 +4567,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MSWAK+DENTAL+CARE/data=!4m7!3m6!1s0x38e19001f48b645b:0xb544b55679809f62!8m2!3d34.0778877!4d74.7792184!16s%2Fg%2F11hblkqrdh!19sChIJW2SL9AGQ4TgRYp-AeVa1RLU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MSWAK+DENTAL+CARE/data=!4m7!3m6!1s0x38e19001f48b645b:0xb544b55679809f62!8m2!3d34.0778877!4d74.7792184!16s%2Fg%2F11hblkqrdh!19sChIJW2SL9AGQ4TgRYp-AeVa1RLU?authuser=0&hl=en&rclk=1"
@@ -4598,7 +4636,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MSWAK+DENTAL+CARE/data=!4m7!3m6!1s0x38e19001f48b645b:0xb544b55679809f62!8m2!3d34.0778877!4d74.7792184!16s%2Fg%2F11hblkqrdh!19sChIJW2SL9AGQ4TgRYp-AeVa1RLU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "new-city-hospital-and-nursing-home-srinagar",
@@ -4647,7 +4686,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/New+City+hospital+and+Nursing+Home/data=!4m7!3m6!1s0x38e18fde300d183b:0x56caf19767f316b6!8m2!3d34.0612272!4d74.7841837!16s%2Fg%2F1td0wvsz!19sChIJOxgNMN6P4TgRthbzZ5fxylY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+City+hospital+and+Nursing+Home/data=!4m7!3m6!1s0x38e18fde300d183b:0x56caf19767f316b6!8m2!3d34.0612272!4d74.7841837!16s%2Fg%2F1td0wvsz!19sChIJOxgNMN6P4TgRthbzZ5fxylY?authuser=0&hl=en&rclk=1"
@@ -4716,7 +4755,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+City+hospital+and+Nursing+Home/data=!4m7!3m6!1s0x38e18fde300d183b:0x56caf19767f316b6!8m2!3d34.0612272!4d74.7841837!16s%2Fg%2F1td0wvsz!19sChIJOxgNMN6P4TgRthbzZ5fxylY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "noora-hospital-srinagar-srinagar",
@@ -4765,7 +4805,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Noora+Hospital+Srinagar/data=!4m7!3m6!1s0x38e185544da68b53:0xbe116c11c865347f!8m2!3d34.112191!4d74.7255271!16s%2Fg%2F1hf5cbx8r!19sChIJU4umTVSF4TgRfzRlyBFsEb4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Noora+Hospital+Srinagar/data=!4m7!3m6!1s0x38e185544da68b53:0xbe116c11c865347f!8m2!3d34.112191!4d74.7255271!16s%2Fg%2F1hf5cbx8r!19sChIJU4umTVSF4TgRfzRlyBFsEb4?authuser=0&hl=en&rclk=1"
@@ -4834,7 +4874,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Noora+Hospital+Srinagar/data=!4m7!3m6!1s0x38e185544da68b53:0xbe116c11c865347f!8m2!3d34.112191!4d74.7255271!16s%2Fg%2F1hf5cbx8r!19sChIJU4umTVSF4TgRfzRlyBFsEb4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "occlusion-maxillofacial-and-dental-care-centre-srinagar",
@@ -4883,7 +4924,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/OCCLUSION+Maxillofacial+And+Dental+Care+Centre/data=!4m7!3m6!1s0x38e18f0002bcacd9:0x25be0773f2db1fe6!8m2!3d34.0326354!4d74.7826135!16s%2Fg%2F11wq55wvtj!19sChIJ2ay8AgCP4TgR5h_b8nMHviU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OCCLUSION+Maxillofacial+And+Dental+Care+Centre/data=!4m7!3m6!1s0x38e18f0002bcacd9:0x25be0773f2db1fe6!8m2!3d34.0326354!4d74.7826135!16s%2Fg%2F11wq55wvtj!19sChIJ2ay8AgCP4TgR5h_b8nMHviU?authuser=0&hl=en&rclk=1"
@@ -4949,10 +4990,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OCCLUSION+Maxillofacial+And+Dental+Care+Centre/data=!4m7!3m6!1s0x38e18f0002bcacd9:0x25be0773f2db1fe6!8m2!3d34.0326354!4d74.7826135!16s%2Fg%2F11wq55wvtj!19sChIJ2ay8AgCP4TgR5h_b8nMHviU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "opd-tahira-khanam-hospital-srinagar",
@@ -5000,7 +5042,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/OPD+Tahira+Khanam+Hospital/data=!4m7!3m6!1s0x38e18fd5df86c121:0x4eaab79bbc8d9705!8m2!3d34.0673565!4d74.8028426!16s%2Fg%2F11m450wtf7!19sChIJIcGG39WP4TgRBZeNvJu3qk4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OPD+Tahira+Khanam+Hospital/data=!4m7!3m6!1s0x38e18fd5df86c121:0x4eaab79bbc8d9705!8m2!3d34.0673565!4d74.8028426!16s%2Fg%2F11m450wtf7!19sChIJIcGG39WP4TgRBZeNvJu3qk4?authuser=0&hl=en&rclk=1"
@@ -5069,7 +5111,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OPD+Tahira+Khanam+Hospital/data=!4m7!3m6!1s0x38e18fd5df86c121:0x4eaab79bbc8d9705!8m2!3d34.0673565!4d74.8028426!16s%2Fg%2F11m450wtf7!19sChIJIcGG39WP4TgRBZeNvJu3qk4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "orr-jaan-healthcare-and-diagnostics-srinagar",
@@ -5119,7 +5162,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Orr+Jaan+Healthcare+%26+Diagnostics/data=!4m7!3m6!1s0x38e19b62a14f931f:0x77eab60d3fb1e5bc!8m2!3d34.0992152!4d74.7580696!16s%2Fg%2F11rq2pnwxb!19sChIJH5NPoWKb4TgRvOWxPw226nc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orr+Jaan+Healthcare+%26+Diagnostics/data=!4m7!3m6!1s0x38e19b62a14f931f:0x77eab60d3fb1e5bc!8m2!3d34.0992152!4d74.7580696!16s%2Fg%2F11rq2pnwxb!19sChIJH5NPoWKb4TgRvOWxPw226nc?authuser=0&hl=en&rclk=1"
@@ -5185,10 +5228,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Orr+Jaan+Healthcare+%26+Diagnostics/data=!4m7!3m6!1s0x38e19b62a14f931f:0x77eab60d3fb1e5bc!8m2!3d34.0992152!4d74.7580696!16s%2Fg%2F11rq2pnwxb!19sChIJH5NPoWKb4TgRvOWxPw226nc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "paras-hospital-best-hospital-in-sri-nagar-srinagar",
@@ -5237,7 +5281,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Paras+Hospital+%7C+Best+Hospital+in+Sri+Nagar/data=!4m7!3m6!1s0x38e18fb9a552e0c9:0x755a6e88e2a455e2!8m2!3d34.0751625!4d74.8318587!16s%2Fg%2F11khs2m7xk!19sChIJyeBSpbmP4TgR4lWk4ohuWnU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paras+Hospital+%7C+Best+Hospital+in+Sri+Nagar/data=!4m7!3m6!1s0x38e18fb9a552e0c9:0x755a6e88e2a455e2!8m2!3d34.0751625!4d74.8318587!16s%2Fg%2F11khs2m7xk!19sChIJyeBSpbmP4TgR4lWk4ohuWnU?authuser=0&hl=en&rclk=1"
@@ -5306,7 +5350,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Paras+Hospital+%7C+Best+Hospital+in+Sri+Nagar/data=!4m7!3m6!1s0x38e18fb9a552e0c9:0x755a6e88e2a455e2!8m2!3d34.0751625!4d74.8318587!16s%2Fg%2F11khs2m7xk!19sChIJyeBSpbmP4TgR4lWk4ohuWnU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "restore-32-a-complete-oral-healthcare-solution-srinagar",
@@ -5354,7 +5399,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Restore+32.+A+Complete+Oral+Healthcare+Solution./data=!4m7!3m6!1s0x38e18fcd429def15:0x8663b97113626e6a!8m2!3d34.0704925!4d74.7855975!16s%2Fg%2F11llwrnnyn!19sChIJFe-dQs2P4TgRam5iE3G5Y4Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Restore+32.+A+Complete+Oral+Healthcare+Solution./data=!4m7!3m6!1s0x38e18fcd429def15:0x8663b97113626e6a!8m2!3d34.0704925!4d74.7855975!16s%2Fg%2F11llwrnnyn!19sChIJFe-dQs2P4TgRam5iE3G5Y4Y?authuser=0&hl=en&rclk=1"
@@ -5420,10 +5465,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Restore+32.+A+Complete+Oral+Healthcare+Solution./data=!4m7!3m6!1s0x38e18fcd429def15:0x8663b97113626e6a!8m2!3d34.0704925!4d74.7855975!16s%2Fg%2F11llwrnnyn!19sChIJFe-dQs2P4TgRam5iE3G5Y4Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "safa-marwah-hospital-srinagar",
@@ -5471,7 +5517,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Safa+Marwah+Hospital/data=!4m7!3m6!1s0x38e184e8d8a40681:0xfd01ca7bbf256cde!8m2!3d34.1437794!4d74.8086957!16s%2Fg%2F1hm3hql0v!19sChIJgQak2OiE4TgR3mwlv3vKAf0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Safa+Marwah+Hospital/data=!4m7!3m6!1s0x38e184e8d8a40681:0xfd01ca7bbf256cde!8m2!3d34.1437794!4d74.8086957!16s%2Fg%2F1hm3hql0v!19sChIJgQak2OiE4TgR3mwlv3vKAf0?authuser=0&hl=en&rclk=1"
@@ -5540,7 +5586,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Safa+Marwah+Hospital/data=!4m7!3m6!1s0x38e184e8d8a40681:0xfd01ca7bbf256cde!8m2!3d34.1437794!4d74.8086957!16s%2Fg%2F1hm3hql0v!19sChIJgQak2OiE4TgR3mwlv3vKAf0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "safe-hands-dental-health-and-awareness-center-srinagar",
@@ -5589,7 +5636,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Safe+Hands+Dental+Health+And+Awareness+center/data=!4m7!3m6!1s0x38e18fca91df8307:0x95696a358b24a48!8m2!3d34.0446933!4d74.8028689!16s%2Fg%2F11r9tt0ky!19sChIJB4PfkcqP4TgRSEqyWKOWVgk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Safe+Hands+Dental+Health+And+Awareness+center/data=!4m7!3m6!1s0x38e18fca91df8307:0x95696a358b24a48!8m2!3d34.0446933!4d74.8028689!16s%2Fg%2F11r9tt0ky!19sChIJB4PfkcqP4TgRSEqyWKOWVgk?authuser=0&hl=en&rclk=1"
@@ -5658,7 +5705,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Safe+Hands+Dental+Health+And+Awareness+center/data=!4m7!3m6!1s0x38e18fca91df8307:0x95696a358b24a48!8m2!3d34.0446933!4d74.8028689!16s%2Fg%2F11r9tt0ky!19sChIJB4PfkcqP4TgRSEqyWKOWVgk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shah-dental-clinic-srinagar",
@@ -5706,7 +5754,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shah+Dental+Clinic/data=!4m7!3m6!1s0x38e185da6a9d4925:0x3210dbc773fd21ab!8m2!3d34.1442792!4d74.8086501!16s%2Fg%2F11q83ylw2z!19sChIJJUmdatqF4TgRqyH9c8fbEDI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shah+Dental+Clinic/data=!4m7!3m6!1s0x38e185da6a9d4925:0x3210dbc773fd21ab!8m2!3d34.1442792!4d74.8086501!16s%2Fg%2F11q83ylw2z!19sChIJJUmdatqF4TgRqyH9c8fbEDI?authuser=0&hl=en&rclk=1"
@@ -5775,7 +5823,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shah+Dental+Clinic/data=!4m7!3m6!1s0x38e185da6a9d4925:0x3210dbc773fd21ab!8m2!3d34.1442792!4d74.8086501!16s%2Fg%2F11q83ylw2z!19sChIJJUmdatqF4TgRqyH9c8fbEDI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sheikh-ul-alam-hospital-srinagar",
@@ -5823,7 +5872,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Sheikh+Ul+Alam+Hospital/data=!4m7!3m6!1s0x38e18ff37d45387d:0x1c8b397e4fbfed82!8m2!3d34.0805494!4d74.8014773!16s%2Fg%2F1tgf64q9!19sChIJfThFffOP4TgRgu2_T345ixw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sheikh+Ul+Alam+Hospital/data=!4m7!3m6!1s0x38e18ff37d45387d:0x1c8b397e4fbfed82!8m2!3d34.0805494!4d74.8014773!16s%2Fg%2F1tgf64q9!19sChIJfThFffOP4TgRgu2_T345ixw?authuser=0&hl=en&rclk=1"
@@ -5892,7 +5941,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sheikh+Ul+Alam+Hospital/data=!4m7!3m6!1s0x38e18ff37d45387d:0x1c8b397e4fbfed82!8m2!3d34.0805494!4d74.8014773!16s%2Fg%2F1tgf64q9!19sChIJfThFffOP4TgRgu2_T345ixw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sher-i-kashmir-institute-of-medical-sciences-srinagar",
@@ -5941,7 +5991,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sher-i-Kashmir+Institute+of+Medical+Sciences/data=!4m7!3m6!1s0x38e1900855555555:0xb81ae8b776707791!8m2!3d34.1358291!4d74.8003973!16s%2Fm%2F0cr4_gv!19sChIJVVVVVQiQ4TgRkXdwdrfoGrg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sher-i-Kashmir+Institute+of+Medical+Sciences/data=!4m7!3m6!1s0x38e1900855555555:0xb81ae8b776707791!8m2!3d34.1358291!4d74.8003973!16s%2Fm%2F0cr4_gv!19sChIJVVVVVQiQ4TgRkXdwdrfoGrg?authuser=0&hl=en&rclk=1"
@@ -6010,7 +6060,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sher-i-Kashmir+Institute+of+Medical+Sciences/data=!4m7!3m6!1s0x38e1900855555555:0xb81ae8b776707791!8m2!3d34.1358291!4d74.8003973!16s%2Fm%2F0cr4_gv!19sChIJVVVVVQiQ4TgRkXdwdrfoGrg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shifa-medical-centre-srinagar",
@@ -6059,7 +6110,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shifa+Medical+Centre/data=!4m7!3m6!1s0x38e18fec7d7813dd:0x3337082680432c86!8m2!3d34.069983!4d74.8009599!16s%2Fg%2F11crz_15_w!19sChIJ3RN4feyP4TgRhixDgCYINzM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shifa+Medical+Centre/data=!4m7!3m6!1s0x38e18fec7d7813dd:0x3337082680432c86!8m2!3d34.069983!4d74.8009599!16s%2Fg%2F11crz_15_w!19sChIJ3RN4feyP4TgRhixDgCYINzM?authuser=0&hl=en&rclk=1"
@@ -6125,10 +6176,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shifa+Medical+Centre/data=!4m7!3m6!1s0x38e18fec7d7813dd:0x3337082680432c86!8m2!3d34.069983!4d74.8009599!16s%2Fg%2F11crz_15_w!19sChIJ3RN4feyP4TgRhixDgCYINzM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-maharaja-hari-singh-hospital-srinagar",
@@ -6177,7 +6229,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Maharaja+Hari+Singh+Hospital/data=!4m7!3m6!1s0x38e18558b22508dd:0x3f60891d2f07a97f!8m2!3d34.086208!4d74.7977382!16s%2Fm%2F012vx_tt!19sChIJ3QglsliF4TgRf6kHLx2JYD8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Maharaja+Hari+Singh+Hospital/data=!4m7!3m6!1s0x38e18558b22508dd:0x3f60891d2f07a97f!8m2!3d34.086208!4d74.7977382!16s%2Fm%2F012vx_tt!19sChIJ3QglsliF4TgRf6kHLx2JYD8?authuser=0&hl=en&rclk=1"
@@ -6246,7 +6298,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Maharaja+Hari+Singh+Hospital/data=!4m7!3m6!1s0x38e18558b22508dd:0x3f60891d2f07a97f!8m2!3d34.086208!4d74.7977382!16s%2Fm%2F012vx_tt!19sChIJ3QglsliF4TgRf6kHLx2JYD8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "skims-medical-college-and-hospital-srinagar",
@@ -6296,7 +6349,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SKIMS+Medical+College+%26+Hospital/data=!4m7!3m6!1s0x38e19aa3ca5cb219:0x3231de155ea6ccc4!8m2!3d34.0874961!4d74.7603244!16s%2Fg%2F1tkc0h5v!19sChIJGbJcyqOa4TgRxMymXhXeMTI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SKIMS+Medical+College+%26+Hospital/data=!4m7!3m6!1s0x38e19aa3ca5cb219:0x3231de155ea6ccc4!8m2!3d34.0874961!4d74.7603244!16s%2Fg%2F1tkc0h5v!19sChIJGbJcyqOa4TgRxMymXhXeMTI?authuser=0&hl=en&rclk=1"
@@ -6362,10 +6415,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SKIMS+Medical+College+%26+Hospital/data=!4m7!3m6!1s0x38e19aa3ca5cb219:0x3231de155ea6ccc4!8m2!3d34.0874961!4d74.7603244!16s%2Fg%2F1tkc0h5v!19sChIJGbJcyqOa4TgRxMymXhXeMTI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smile-kashmir-dental-care-srinagar",
@@ -6414,7 +6468,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Kashmir+Dental+Care/data=!4m7!3m6!1s0x38e1845073cc0e01:0x82fa07d8ecdaa387!8m2!3d34.144217!4d74.8372828!16s%2Fg%2F11bwc9nptp!19sChIJAQ7Mc1CE4TgRh6Pa7NgH-oI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Kashmir+Dental+Care/data=!4m7!3m6!1s0x38e1845073cc0e01:0x82fa07d8ecdaa387!8m2!3d34.144217!4d74.8372828!16s%2Fg%2F11bwc9nptp!19sChIJAQ7Mc1CE4TgRh6Pa7NgH-oI?authuser=0&hl=en&rclk=1"
@@ -6480,10 +6534,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Kashmir+Dental+Care/data=!4m7!3m6!1s0x38e1845073cc0e01:0x82fa07d8ecdaa387!8m2!3d34.144217!4d74.8372828!16s%2Fg%2F11bwc9nptp!19sChIJAQ7Mc1CE4TgRh6Pa7NgH-oI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smile-signature-dental-clinic-dentist-in-hyderpora-srinagar-srinagar",
@@ -6531,7 +6586,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Signature+Dental+Clinic,+Dentist+in+Hyderpora+Srinagar/data=!4m7!3m6!1s0x38e18fe9ff1c144d:0x9e36ab6cb07a5ff5!8m2!3d34.0354655!4d74.7843883!16s%2Fg%2F11pk9p2xh0!19sChIJTRQc_-mP4TgR9V96sGyrNp4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Signature+Dental+Clinic,+Dentist+in+Hyderpora+Srinagar/data=!4m7!3m6!1s0x38e18fe9ff1c144d:0x9e36ab6cb07a5ff5!8m2!3d34.0354655!4d74.7843883!16s%2Fg%2F11pk9p2xh0!19sChIJTRQc_-mP4TgR9V96sGyrNp4?authuser=0&hl=en&rclk=1"
@@ -6600,7 +6655,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Signature+Dental+Clinic,+Dentist+in+Hyderpora+Srinagar/data=!4m7!3m6!1s0x38e18fe9ff1c144d:0x9e36ab6cb07a5ff5!8m2!3d34.0354655!4d74.7843883!16s%2Fg%2F11pk9p2xh0!19sChIJTRQc_-mP4TgR9V96sGyrNp4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srinagar-medcity-heart-institute-srinagar",
@@ -6649,7 +6705,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SRINAGAR+MEDCITY+HEART+INSTITUTE/data=!4m7!3m6!1s0x38e18f48bde640cf:0x4a78ef9bd7950500!8m2!3d34.0267554!4d74.8264989!16s%2Fg%2F11s81jwwd4!19sChIJz0DmvUiP4TgRAAWV15vveEo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRINAGAR+MEDCITY+HEART+INSTITUTE/data=!4m7!3m6!1s0x38e18f48bde640cf:0x4a78ef9bd7950500!8m2!3d34.0267554!4d74.8264989!16s%2Fg%2F11s81jwwd4!19sChIJz0DmvUiP4TgRAAWV15vveEo?authuser=0&hl=en&rclk=1"
@@ -6715,10 +6771,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRINAGAR+MEDCITY+HEART+INSTITUTE/data=!4m7!3m6!1s0x38e18f48bde640cf:0x4a78ef9bd7950500!8m2!3d34.0267554!4d74.8264989!16s%2Fg%2F11s81jwwd4!19sChIJz0DmvUiP4TgRAAWV15vveEo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "star-hospital-sanat-nagar-rawalpora-srinagar-kashmir-srinagar",
@@ -6766,7 +6823,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Star+Hospital,+Sanat+nagar,+rawalpora,+srinagar+kashmir/data=!4m7!3m6!1s0x38e18fa6c14fa641:0x34f020ac70891925!8m2!3d34.0286365!4d74.8000779!16s%2Fg%2F11v9vpfgry!19sChIJQaZPwaaP4TgRJRmJcKwg8DQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+Hospital,+Sanat+nagar,+rawalpora,+srinagar+kashmir/data=!4m7!3m6!1s0x38e18fa6c14fa641:0x34f020ac70891925!8m2!3d34.0286365!4d74.8000779!16s%2Fg%2F11v9vpfgry!19sChIJQaZPwaaP4TgRJRmJcKwg8DQ?authuser=0&hl=en&rclk=1"
@@ -6835,7 +6892,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Star+Hospital,+Sanat+nagar,+rawalpora,+srinagar+kashmir/data=!4m7!3m6!1s0x38e18fa6c14fa641:0x34f020ac70891925!8m2!3d34.0286365!4d74.8000779!16s%2Fg%2F11v9vpfgry!19sChIJQaZPwaaP4TgRJRmJcKwg8DQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sweet-smile-dental-clinic-srinagar",
@@ -6883,7 +6941,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sweet+Smile+Dental+Clinic/data=!4m7!3m6!1s0x38e18f3f1057ebfb:0x1602f5bf19a64ddf!8m2!3d34.0800289!4d74.8076354!16s%2Fg%2F11pv2y1rzz!19sChIJ--tXED-P4TgR302mGb_1AhY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sweet+Smile+Dental+Clinic/data=!4m7!3m6!1s0x38e18f3f1057ebfb:0x1602f5bf19a64ddf!8m2!3d34.0800289!4d74.8076354!16s%2Fg%2F11pv2y1rzz!19sChIJ--tXED-P4TgR302mGb_1AhY?authuser=0&hl=en&rclk=1"
@@ -6952,7 +7010,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sweet+Smile+Dental+Clinic/data=!4m7!3m6!1s0x38e18f3f1057ebfb:0x1602f5bf19a64ddf!8m2!3d34.0800289!4d74.8076354!16s%2Fg%2F11pv2y1rzz!19sChIJ--tXED-P4TgR302mGb_1AhY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ujala-cygnus-kashmir-srinagar",
@@ -7001,7 +7060,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ujala+Cygnus+Kashmir/data=!4m7!3m6!1s0x38e18f40e79da54f:0x41b4bd7a55c32a46!8m2!3d34.0291258!4d74.8312095!16s%2Fg%2F11t9kd2tkc!19sChIJT6Wd50CP4TgRRirDVXq9tEE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ujala+Cygnus+Kashmir/data=!4m7!3m6!1s0x38e18f40e79da54f:0x41b4bd7a55c32a46!8m2!3d34.0291258!4d74.8312095!16s%2Fg%2F11t9kd2tkc!19sChIJT6Wd50CP4TgRRirDVXq9tEE?authuser=0&hl=en&rclk=1"
@@ -7070,7 +7129,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ujala+Cygnus+Kashmir/data=!4m7!3m6!1s0x38e18f40e79da54f:0x41b4bd7a55c32a46!8m2!3d34.0291258!4d74.8312095!16s%2Fg%2F11t9kd2tkc!19sChIJT6Wd50CP4TgRRirDVXq9tEE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "well-care-medical-institute-srinagar",
@@ -7118,7 +7178,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Well+Care+Medical+Institute/data=!4m7!3m6!1s0x38e185ecd335d335:0x8ccdb0310592aa50!8m2!3d34.1677213!4d74.8089393!16s%2Fg%2F11t_hznwj5!19sChIJNdM10-yF4TgRUKqSBTGwzYw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Well+Care+Medical+Institute/data=!4m7!3m6!1s0x38e185ecd335d335:0x8ccdb0310592aa50!8m2!3d34.1677213!4d74.8089393!16s%2Fg%2F11t_hznwj5!19sChIJNdM10-yF4TgRUKqSBTGwzYw?authuser=0&hl=en&rclk=1"
@@ -7187,7 +7247,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Well+Care+Medical+Institute/data=!4m7!3m6!1s0x38e185ecd335d335:0x8ccdb0310592aa50!8m2!3d34.1677213!4d74.8089393!16s%2Fg%2F11t_hznwj5!19sChIJNdM10-yF4TgRUKqSBTGwzYw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "zarmeen-aesthetics-srinagar",
@@ -7235,7 +7296,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Zarmeen+Aesthetics/data=!4m7!3m6!1s0x38e191deb22c70a5:0xb93635cad6d8a43f!8m2!3d34.0758282!4d74.7751547!16s%2Fg%2F11tncnpnlw!19sChIJpXAsst6R4TgRP6TY1so1Nrk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zarmeen+Aesthetics/data=!4m7!3m6!1s0x38e191deb22c70a5:0xb93635cad6d8a43f!8m2!3d34.0758282!4d74.7751547!16s%2Fg%2F11tncnpnlw!19sChIJpXAsst6R4TgRP6TY1so1Nrk?authuser=0&hl=en&rclk=1"
@@ -7304,7 +7365,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zarmeen+Aesthetics/data=!4m7!3m6!1s0x38e191deb22c70a5:0xb93635cad6d8a43f!8m2!3d34.0758282!4d74.7751547!16s%2Fg%2F11tncnpnlw!19sChIJpXAsst6R4TgRP6TY1so1Nrk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "zaytoun-clinics-srinagar",
@@ -7353,7 +7415,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Zaytoun+Clinics/data=!4m7!3m6!1s0x38e18f0b0846256d:0x2fb1d24b5c9a047a!8m2!3d34.0743085!4d74.7878122!16s%2Fg%2F11sc_h11bh!19sChIJbSVGCAuP4TgRegSaXEvSsS8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zaytoun+Clinics/data=!4m7!3m6!1s0x38e18f0b0846256d:0x2fb1d24b5c9a047a!8m2!3d34.0743085!4d74.7878122!16s%2Fg%2F11sc_h11bh!19sChIJbSVGCAuP4TgRegSaXEvSsS8?authuser=0&hl=en&rclk=1"
@@ -7422,7 +7484,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zaytoun+Clinics/data=!4m7!3m6!1s0x38e18f0b0846256d:0x2fb1d24b5c9a047a!8m2!3d34.0743085!4d74.7878122!16s%2Fg%2F11sc_h11bh!19sChIJbSVGCAuP4TgRegSaXEvSsS8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rheumatologist-in-srinagar-srinagar",
@@ -7472,7 +7535,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%94%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BE+%F0%9D%97%9B%F0%9D%98%82%F0%9D%98%80%F0%9D%98%80%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%BB+%F0%9D%97%A3%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%86-+Rheumatologist+in+Srinagar/data=!4m7!3m6!1s0x38e1856327d5d74f:0x2fde768ebcabbd35!8m2!3d34.0663792!4d74.8033186!16s%2Fg%2F11nh9by7rn!19sChIJT9fVJ2OF4TgRNb2rvI523i8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%94%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BE+%F0%9D%97%9B%F0%9D%98%82%F0%9D%98%80%F0%9D%98%80%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%BB+%F0%9D%97%A3%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%86-+Rheumatologist+in+Srinagar/data=!4m7!3m6!1s0x38e1856327d5d74f:0x2fde768ebcabbd35!8m2!3d34.0663792!4d74.8033186!16s%2Fg%2F11nh9by7rn!19sChIJT9fVJ2OF4TgRNb2rvI523i8?authuser=0&hl=en&rclk=1"
@@ -7541,7 +7604,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%94%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BE+%F0%9D%97%9B%F0%9D%98%82%F0%9D%98%80%F0%9D%98%80%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%BB+%F0%9D%97%A3%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%86-+Rheumatologist+in+Srinagar/data=!4m7!3m6!1s0x38e1856327d5d74f:0x2fde768ebcabbd35!8m2!3d34.0663792!4d74.8033186!16s%2Fg%2F11nh9by7rn!19sChIJT9fVJ2OF4TgRNb2rvI523i8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "and-best-dental-clinic-best-implant-centre-best-braces-centre-in-srinagar-srinagar",
@@ -7590,7 +7654,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%B2%27%F0%9D%98%80+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%26+%F0%9D%97%94%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+-+Best+Dental+Clinic+%7CBest+Implant+Centre+%7CBest+Braces+Centre+in+Srinagar/data=!4m7!3m6!1s0x38e1917598c7fe27:0xb65ac3f217fb0c99!8m2!3d34.0841817!4d74.8219927!16s%2Fg%2F11s180hp27!19sChIJJ_7HmHWR4TgRmQz7F_LDWrY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%B2%27%F0%9D%98%80+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%26+%F0%9D%97%94%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+-+Best+Dental+Clinic+%7CBest+Implant+Centre+%7CBest+Braces+Centre+in+Srinagar/data=!4m7!3m6!1s0x38e1917598c7fe27:0xb65ac3f217fb0c99!8m2!3d34.0841817!4d74.8219927!16s%2Fg%2F11s180hp27!19sChIJJ_7HmHWR4TgRmQz7F_LDWrY?authuser=0&hl=en&rclk=1"
@@ -7659,6 +7723,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%B2%27%F0%9D%98%80+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%26+%F0%9D%97%94%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+-+Best+Dental+Clinic+%7CBest+Implant+Centre+%7CBest+Braces+Centre+in+Srinagar/data=!4m7!3m6!1s0x38e1917598c7fe27:0xb65ac3f217fb0c99!8m2!3d34.0841817!4d74.8219927!16s%2Fg%2F11s180hp27!19sChIJJ_7HmHWR4TgRmQz7F_LDWrY?authuser=0&hl=en&rclk=1"
   }
 ]

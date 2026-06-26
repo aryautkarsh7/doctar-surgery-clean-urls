@@ -46,7 +46,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aadhaar+Hospital/@20.902637,74.7837821,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5fa72c365f:0x80f99cc5c3309ca!8m2!3d20.902637!4d74.7837821!16s%2Fg%2F11dxbkjvcw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aadhaar+Hospital/@20.902637,74.7837821,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5fa72c365f:0x80f99cc5c3309ca!8m2!3d20.902637!4d74.7837821!16s%2Fg%2F11dxbkjvcw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aadhaar+Hospital/@20.902637,74.7837821,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5fa72c365f:0x80f99cc5c3309ca!8m2!3d20.902637!4d74.7837821!16s%2Fg%2F11dxbkjvcw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aayesha-clinic-dhule",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aayesha+Clinic/@20.8863178,74.7841126,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf48189876e7:0x2d9a1355f54f2c22!8m2!3d20.8863178!4d74.7841126!16s%2Fg%2F11g4lm2k0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aayesha+Clinic/@20.8863178,74.7841126,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf48189876e7:0x2d9a1355f54f2c22!8m2!3d20.8863178!4d74.7841126!16s%2Fg%2F11g4lm2k0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -229,10 +230,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aayesha+Clinic/@20.8863178,74.7841126,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf48189876e7:0x2d9a1355f54f2c22!8m2!3d20.8863178!4d74.7841126!16s%2Fg%2F11g4lm2k0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "alka-maternity-laparoscopy-and-fertility-center-dhule",
@@ -281,7 +283,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Alka+Maternity,+Laparoscopy+and+Fertility+Center/@20.8829449,74.7686102,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5fa39fd9363:0x85cc358062cb3d04!8m2!3d20.8829449!4d74.7686102!16s%2Fg%2F11gfn5hvl6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alka+Maternity,+Laparoscopy+and+Fertility+Center/@20.8829449,74.7686102,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5fa39fd9363:0x85cc358062cb3d04!8m2!3d20.8829449!4d74.7686102!16s%2Fg%2F11gfn5hvl6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -350,7 +352,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Alka+Maternity,+Laparoscopy+and+Fertility+Center/@20.8829449,74.7686102,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5fa39fd9363:0x85cc358062cb3d04!8m2!3d20.8829449!4d74.7686102!16s%2Fg%2F11gfn5hvl6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anjana-heart-hospital-dhule-a-comprehensive-cardiac-care-with-world-class-amenities-at-dhule-district-dhule",
@@ -400,7 +403,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Anjana+Heart+Hospital,+Dhule+A+Comprehensive+Cardiac+Care+with+World-class+amenities+at+Dhule+District./@20.9030842,74.7430276,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5278b6193ed:0xe87ee3b03ad21cd2!8m2!3d20.9030842!4d74.7430276!16s%2Fg%2F11jdvrf_3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anjana+Heart+Hospital,+Dhule+A+Comprehensive+Cardiac+Care+with+World-class+amenities+at+Dhule+District./@20.9030842,74.7430276,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5278b6193ed:0xe87ee3b03ad21cd2!8m2!3d20.9030842!4d74.7430276!16s%2Fg%2F11jdvrf_3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -469,7 +472,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anjana+Heart+Hospital,+Dhule+A+Comprehensive+Cardiac+Care+with+World-class+amenities+at+Dhule+District./@20.9030842,74.7430276,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5278b6193ed:0xe87ee3b03ad21cd2!8m2!3d20.9030842!4d74.7430276!16s%2Fg%2F11jdvrf_3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arpan-maternity-hospital-dhule",
@@ -518,7 +522,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Arpan+Maternity+Hospital/@20.9116587,74.7759905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58921a34653:0x5e1462441c6be6ac!8m2!3d20.9116587!4d74.7759905!16s%2Fg%2F11f1r8j7d7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arpan+Maternity+Hospital/@20.9116587,74.7759905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58921a34653:0x5e1462441c6be6ac!8m2!3d20.9116587!4d74.7759905!16s%2Fg%2F11f1r8j7d7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -584,10 +588,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arpan+Maternity+Hospital/@20.9116587,74.7759905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58921a34653:0x5e1462441c6be6ac!8m2!3d20.9116587!4d74.7759905!16s%2Fg%2F11f1r8j7d7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashwini-hospital-dhule",
@@ -635,7 +640,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Ashwini+Hospital/@20.9022748,74.7828293,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5fb7cda877:0x524810a572d849bc!8m2!3d20.9022748!4d74.7828293!16s%2Fg%2F1thpv8_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashwini+Hospital/@20.9022748,74.7828293,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5fb7cda877:0x524810a572d849bc!8m2!3d20.9022748!4d74.7828293!16s%2Fg%2F1thpv8_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -704,7 +709,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashwini+Hospital/@20.9022748,74.7828293,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5fb7cda877:0x524810a572d849bc!8m2!3d20.9022748!4d74.7828293!16s%2Fg%2F1thpv8_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bafna-hospital-and-maternity-home-dhule",
@@ -752,7 +758,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Bafna+Hospital+And+Maternity+Home/@20.9027714,74.7647011,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5933717e455:0xf1fa494eed0e61b4!8m2!3d20.9027714!4d74.7647011!16s%2Fg%2F11f_34r8r_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bafna+Hospital+And+Maternity+Home/@20.9027714,74.7647011,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5933717e455:0xf1fa494eed0e61b4!8m2!3d20.9027714!4d74.7647011!16s%2Fg%2F11f_34r8r_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -821,7 +827,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bafna+Hospital+And+Maternity+Home/@20.9027714,74.7647011,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5933717e455:0xf1fa494eed0e61b4!8m2!3d20.9027714!4d74.7647011!16s%2Fg%2F11f_34r8r_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhatwal-hospital-dhule",
@@ -870,7 +877,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhatwal+Hospital/@20.8880417,74.7738307,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec604e3c042d7:0x54e8b1339218336!8m2!3d20.8880417!4d74.7738307!16s%2Fg%2F11t1ldb1zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhatwal+Hospital/@20.8880417,74.7738307,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec604e3c042d7:0x54e8b1339218336!8m2!3d20.8880417!4d74.7738307!16s%2Fg%2F11t1ldb1zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -939,7 +946,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhatwal+Hospital/@20.8880417,74.7738307,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec604e3c042d7:0x54e8b1339218336!8m2!3d20.8880417!4d74.7738307!16s%2Fg%2F11t1ldb1zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhatwal-surgical-and-maternity-hospital-manipal-trutest-lab-partner-dhule",
@@ -988,7 +996,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhatwal+Surgical+%26+Maternity+Hospital+(Manipal+TRUtest+Lab+Partner)/@20.8880419,74.7738302,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5c5335e7f8f:0xf81c1cb24c4b1c61!8m2!3d20.8880419!4d74.7738302!16s%2Fg%2F11mckny650?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhatwal+Surgical+%26+Maternity+Hospital+(Manipal+TRUtest+Lab+Partner)/@20.8880419,74.7738302,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5c5335e7f8f:0xf81c1cb24c4b1c61!8m2!3d20.8880419!4d74.7738302!16s%2Fg%2F11mckny650?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1054,10 +1062,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhatwal+Surgical+%26+Maternity+Hospital+(Manipal+TRUtest+Lab+Partner)/@20.8880419,74.7738302,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5c5335e7f8f:0xf81c1cb24c4b1c61!8m2!3d20.8880419!4d74.7738302!16s%2Fg%2F11mckny650?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cancer-research-hospital-dhule",
@@ -1105,7 +1114,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Cancer+research+Hospital/@20.8735605,74.7619455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec792738a8f71:0x9c9eec17cac64df0!8m2!3d20.8735605!4d74.7619455!16s%2Fg%2F11g233f5gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cancer+research+Hospital/@20.8735605,74.7619455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec792738a8f71:0x9c9eec17cac64df0!8m2!3d20.8735605!4d74.7619455!16s%2Fg%2F11g233f5gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1174,7 +1183,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cancer+research+Hospital/@20.8735605,74.7619455,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec792738a8f71:0x9c9eec17cac64df0!8m2!3d20.8735605!4d74.7619455!16s%2Fg%2F11g233f5gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chaitanya-hospital-dhule",
@@ -1223,7 +1233,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chaitanya+Hospital/@20.923694,74.7772867,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec581aa7de245:0xb670464aea2d10c2!8m2!3d20.923694!4d74.7772867!16s%2Fg%2F1tdw6hx5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaitanya+Hospital/@20.923694,74.7772867,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec581aa7de245:0xb670464aea2d10c2!8m2!3d20.923694!4d74.7772867!16s%2Fg%2F1tdw6hx5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1292,7 +1302,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chaitanya+Hospital/@20.923694,74.7772867,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec581aa7de245:0xb670464aea2d10c2!8m2!3d20.923694!4d74.7772867!16s%2Fg%2F1tdw6hx5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chaudhari-hospital-dhule",
@@ -1341,7 +1352,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chaudhari+Hospital/@20.9057127,74.778177,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58afab1997b:0xee4e6155d80bee1a!8m2!3d20.9057127!4d74.778177!16s%2Fg%2F11xpssfwj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaudhari+Hospital/@20.9057127,74.778177,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58afab1997b:0xee4e6155d80bee1a!8m2!3d20.9057127!4d74.778177!16s%2Fg%2F11xpssfwj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1410,7 +1421,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chaudhari+Hospital/@20.9057127,74.778177,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58afab1997b:0xee4e6155d80bee1a!8m2!3d20.9057127!4d74.778177!16s%2Fg%2F11xpssfwj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chirag-hospital-maternity-and-children-hospital-dhule",
@@ -1459,7 +1471,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Chirag+Hospital+(Maternity+and+Children+hospital)/@20.9038127,74.762808,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5551d7c76af:0x78cfe699eb626a24!8m2!3d20.9038127!4d74.762808!16s%2Fg%2F11t1s9n2db?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chirag+Hospital+(Maternity+and+Children+hospital)/@20.9038127,74.762808,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5551d7c76af:0x78cfe699eb626a24!8m2!3d20.9038127!4d74.762808!16s%2Fg%2F11t1s9n2db?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1528,7 +1540,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chirag+Hospital+(Maternity+and+Children+hospital)/@20.9038127,74.762808,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5551d7c76af:0x78cfe699eb626a24!8m2!3d20.9038127!4d74.762808!16s%2Fg%2F11t1s9n2db?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chirantan-hospital-dhule",
@@ -1576,7 +1589,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Chirantan+Hospital/@20.9143369,74.7709091,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58f88219dc3:0x8102d8f9d538a924!8m2!3d20.9143369!4d74.7709091!16s%2Fg%2F11b7q1kdtm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chirantan+Hospital/@20.9143369,74.7709091,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58f88219dc3:0x8102d8f9d538a924!8m2!3d20.9143369!4d74.7709091!16s%2Fg%2F11b7q1kdtm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1645,7 +1658,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chirantan+Hospital/@20.9143369,74.7709091,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58f88219dc3:0x8102d8f9d538a924!8m2!3d20.9143369!4d74.7709091!16s%2Fg%2F11b7q1kdtm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chudaman-patil-hospital-s-2",
@@ -1693,7 +1707,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Chudaman+Patil+Hospital/@20.9166144,74.7705101,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58519ba094d:0x1770bc7cc4edc854!8m2!3d20.9166144!4d74.7705101!16s%2Fg%2F11f01thm8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chudaman+Patil+Hospital/@20.9166144,74.7705101,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58519ba094d:0x1770bc7cc4edc854!8m2!3d20.9166144!4d74.7705101!16s%2Fg%2F11f01thm8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1762,7 +1776,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chudaman+Patil+Hospital/@20.9166144,74.7705101,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58519ba094d:0x1770bc7cc4edc854!8m2!3d20.9166144!4d74.7705101!16s%2Fg%2F11f01thm8t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "clinic-dhule",
@@ -1808,7 +1823,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/clinic/@20.8806351,74.7843292,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec9011d361195:0x7b0ed1b9632690d2!8m2!3d20.8806351!4d74.7843292!16s%2Fg%2F11gk8txxbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/clinic/@20.8806351,74.7843292,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec9011d361195:0x7b0ed1b9632690d2!8m2!3d20.8806351!4d74.7843292!16s%2Fg%2F11gk8txxbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1874,10 +1889,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/clinic/@20.8806351,74.7843292,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec9011d361195:0x7b0ed1b9632690d2!8m2!3d20.8806351!4d74.7843292!16s%2Fg%2F11gk8txxbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dashak-hospital-dhule",
@@ -1925,7 +1941,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Dashak+Hospital/@20.8948441,74.7654514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5eef3990721:0x41a8b5c975b22f35!8m2!3d20.8948441!4d74.7654514!16s%2Fg%2F11bzrlbj5m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dashak+Hospital/@20.8948441,74.7654514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5eef3990721:0x41a8b5c975b22f35!8m2!3d20.8948441!4d74.7654514!16s%2Fg%2F11bzrlbj5m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1994,7 +2010,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dashak+Hospital/@20.8948441,74.7654514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5eef3990721:0x41a8b5c975b22f35!8m2!3d20.8948441!4d74.7654514!16s%2Fg%2F11bzrlbj5m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deopur-healthcare-dhule",
@@ -2041,7 +2058,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Deopur+Healthcare/@20.9112974,74.777963,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec59f5ff2d32d:0xe59a301787351430!8m2!3d20.9112974!4d74.777963!16s%2Fg%2F11sj531vh4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deopur+Healthcare/@20.9112974,74.777963,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec59f5ff2d32d:0xe59a301787351430!8m2!3d20.9112974!4d74.777963!16s%2Fg%2F11sj531vh4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -2107,10 +2124,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deopur+Healthcare/@20.9112974,74.777963,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec59f5ff2d32d:0xe59a301787351430!8m2!3d20.9112974!4d74.777963!16s%2Fg%2F11sj531vh4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deopur-hospital-dhule",
@@ -2158,7 +2176,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Deopur+Hospital/@20.9172563,74.781752,14z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf7d6c42d5ff:0x8e642f2ef02d7c7d!8m2!3d20.9172563!4d74.781752!16s%2Fg%2F11khrr7zx9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deopur+Hospital/@20.9172563,74.781752,14z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf7d6c42d5ff:0x8e642f2ef02d7c7d!8m2!3d20.9172563!4d74.781752!16s%2Fg%2F11khrr7zx9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2224,10 +2242,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deopur+Hospital/@20.9172563,74.781752,14z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf7d6c42d5ff:0x8e642f2ef02d7c7d!8m2!3d20.9172563!4d74.781752!16s%2Fg%2F11khrr7zx9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deore-accidental-hospital-dhule",
@@ -2275,7 +2294,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Deore+Accidental+Hospital/@20.9223033,74.7772007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58118e9cee9:0x9ef236fc2fd7d6e7!8m2!3d20.9223033!4d74.7772007!16s%2Fg%2F11b7q9s_4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deore+Accidental+Hospital/@20.9223033,74.7772007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58118e9cee9:0x9ef236fc2fd7d6e7!8m2!3d20.9223033!4d74.7772007!16s%2Fg%2F11b7q9s_4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2344,7 +2363,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deore+Accidental+Hospital/@20.9223033,74.7772007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58118e9cee9:0x9ef236fc2fd7d6e7!8m2!3d20.9223033!4d74.7772007!16s%2Fg%2F11b7q9s_4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deshmukh-ano-rectal-hospital-dhule",
@@ -2392,7 +2412,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Deshmukh+Ano+Rectal+Hospital/@20.8968826,74.7760891,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec520588c0a4d:0xec14059b0d88a83e!8m2!3d20.8968826!4d74.7760891!16s%2Fg%2F11g03rcgxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deshmukh+Ano+Rectal+Hospital/@20.8968826,74.7760891,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec520588c0a4d:0xec14059b0d88a83e!8m2!3d20.8968826!4d74.7760891!16s%2Fg%2F11g03rcgxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2461,7 +2481,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deshmukh+Ano+Rectal+Hospital/@20.8968826,74.7760891,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec520588c0a4d:0xec14059b0d88a83e!8m2!3d20.8968826!4d74.7760891!16s%2Fg%2F11g03rcgxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhandai-hospital-dhule",
@@ -2509,7 +2530,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Dhandai+Hospital/@20.9137242,74.7707203,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58f8e6ecb9f:0x71e8638dd4906928!8m2!3d20.9137242!4d74.7707203!16s%2Fg%2F11c6db8ms2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhandai+Hospital/@20.9137242,74.7707203,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58f8e6ecb9f:0x71e8638dd4906928!8m2!3d20.9137242!4d74.7707203!16s%2Fg%2F11c6db8ms2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2578,7 +2599,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhandai+Hospital/@20.9137242,74.7707203,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58f8e6ecb9f:0x71e8638dd4906928!8m2!3d20.9137242!4d74.7707203!16s%2Fg%2F11c6db8ms2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhiraj-vansh-fertility-centre-dhule",
@@ -2628,7 +2650,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dhiraj+Vansh+Fertility+Centre/@20.9028044,74.7647163,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5dce99591ff:0x2b2858e414f529d!8m2!3d20.9028044!4d74.7647163!16s%2Fg%2F11w9pvcz1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhiraj+Vansh+Fertility+Centre/@20.9028044,74.7647163,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5dce99591ff:0x2b2858e414f529d!8m2!3d20.9028044!4d74.7647163!16s%2Fg%2F11w9pvcz1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2697,7 +2719,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhiraj+Vansh+Fertility+Centre/@20.9028044,74.7647163,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5dce99591ff:0x2b2858e414f529d!8m2!3d20.9028044!4d74.7647163!16s%2Fg%2F11w9pvcz1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "district-hospital-dhule-dhule",
@@ -2745,7 +2768,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/District+Hospital,+Dhule/@20.901677,74.770965,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f2c7853d09:0xa52c5dc835eda0f1!8m2!3d20.901677!4d74.770965!16s%2Fg%2F1tk4pm5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital,+Dhule/@20.901677,74.770965,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f2c7853d09:0xa52c5dc835eda0f1!8m2!3d20.901677!4d74.770965!16s%2Fg%2F1tk4pm5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2814,7 +2837,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+Hospital,+Dhule/@20.901677,74.770965,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f2c7853d09:0xa52c5dc835eda0f1!8m2!3d20.901677!4d74.770965!16s%2Fg%2F1tk4pm5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dr-u-m-taneja-dhule",
@@ -2860,7 +2884,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/dr:u+m+taneja/@20.9061968,74.7576973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec595f2312bad:0xade9172fe8ffdec4!8m2!3d20.9061968!4d74.7576973!16s%2Fg%2F11dfjyb__s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/dr:u+m+taneja/@20.9061968,74.7576973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec595f2312bad:0xade9172fe8ffdec4!8m2!3d20.9061968!4d74.7576973!16s%2Fg%2F11dfjyb__s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2926,10 +2950,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/dr:u+m+taneja/@20.9061968,74.7576973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec595f2312bad:0xade9172fe8ffdec4!8m2!3d20.9061968!4d74.7576973!16s%2Fg%2F11dfjyb__s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gajanan-test-tube-baby-centre-dhule",
@@ -2977,7 +3002,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Gajanan+Test+Tube+Baby+Centre/@20.911654,74.7678419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec59036163583:0x665eaf0f6d842fe8!8m2!3d20.911654!4d74.7678419!16s%2Fg%2F1pyqv6372?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gajanan+Test+Tube+Baby+Centre/@20.911654,74.7678419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec59036163583:0x665eaf0f6d842fe8!8m2!3d20.911654!4d74.7678419!16s%2Fg%2F1pyqv6372?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3046,7 +3071,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gajanan+Test+Tube+Baby+Centre/@20.911654,74.7678419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec59036163583:0x665eaf0f6d842fe8!8m2!3d20.911654!4d74.7678419!16s%2Fg%2F1pyqv6372?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "geeta-hospital-dhule",
@@ -3095,7 +3121,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Geeta+Hospital/@20.8966115,74.7646113,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec57d5d3a2619:0x8c550bba7f9cd556!8m2!3d20.8966115!4d74.7646113!16s%2Fg%2F11tckqlyk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Geeta+Hospital/@20.8966115,74.7646113,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec57d5d3a2619:0x8c550bba7f9cd556!8m2!3d20.8966115!4d74.7646113!16s%2Fg%2F11tckqlyk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3164,7 +3190,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Geeta+Hospital/@20.8966115,74.7646113,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec57d5d3a2619:0x8c550bba7f9cd556!8m2!3d20.8966115!4d74.7646113!16s%2Fg%2F11tckqlyk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gindodia-hospital-dhule",
@@ -3213,7 +3240,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gindodia+Hospital/@20.9235533,74.778332,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec580f780e483:0x9b380b8ea6da6911!8m2!3d20.9235533!4d74.778332!16s%2Fg%2F1pt_482xh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gindodia+Hospital/@20.9235533,74.778332,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec580f780e483:0x9b380b8ea6da6911!8m2!3d20.9235533!4d74.778332!16s%2Fg%2F1pt_482xh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3279,10 +3306,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gindodia+Hospital/@20.9235533,74.778332,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec580f780e483:0x9b380b8ea6da6911!8m2!3d20.9235533!4d74.778332!16s%2Fg%2F1pt_482xh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gokul-children-s-hospital-pediatrics-and-neonatology-center-dhule",
@@ -3331,7 +3359,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/GOKUL+CHILDREN'S+HOSPITAL+PEDIATRICS+AND+NEONATOLOGY+CENTER/@20.8856003,74.7721158,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5fb86d33abd:0x25d59f7a3ae0165c!8m2!3d20.8856003!4d74.7721158!16s%2Fg%2F11dxs14sw9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GOKUL+CHILDREN'S+HOSPITAL+PEDIATRICS+AND+NEONATOLOGY+CENTER/@20.8856003,74.7721158,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5fb86d33abd:0x25d59f7a3ae0165c!8m2!3d20.8856003!4d74.7721158!16s%2Fg%2F11dxs14sw9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3400,7 +3428,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GOKUL+CHILDREN'S+HOSPITAL+PEDIATRICS+AND+NEONATOLOGY+CENTER/@20.8856003,74.7721158,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5fb86d33abd:0x25d59f7a3ae0165c!8m2!3d20.8856003!4d74.7721158!16s%2Fg%2F11dxs14sw9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hapy-dentl-clinic-dhule",
@@ -3448,7 +3477,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/hapy+dentl+clinic/@20.9235597,74.7783306,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec52099ff9bdb:0xbf01e59b56c1a88f!8m2!3d20.9235597!4d74.7783306!16s%2Fg%2F11xmz9nv1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/hapy+dentl+clinic/@20.9235597,74.7783306,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec52099ff9bdb:0xbf01e59b56c1a88f!8m2!3d20.9235597!4d74.7783306!16s%2Fg%2F11xmz9nv1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3514,10 +3543,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/hapy+dentl+clinic/@20.9235597,74.7783306,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec52099ff9bdb:0xbf01e59b56c1a88f!8m2!3d20.9235597!4d74.7783306!16s%2Fg%2F11xmz9nv1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hayat-hospital-dhule",
@@ -3565,7 +3595,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Hayat+Hospital/@20.8904814,74.7777698,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f9cbaa2051:0x20fa7793e7e8d615!8m2!3d20.8904814!4d74.7777698!16s%2Fg%2F11clybhtn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hayat+Hospital/@20.8904814,74.7777698,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f9cbaa2051:0x20fa7793e7e8d615!8m2!3d20.8904814!4d74.7777698!16s%2Fg%2F11clybhtn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3634,7 +3664,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hayat+Hospital/@20.8904814,74.7777698,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f9cbaa2051:0x20fa7793e7e8d615!8m2!3d20.8904814!4d74.7777698!16s%2Fg%2F11clybhtn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healthy-smile-dental-clinic-and-implant-center-dhule",
@@ -3683,7 +3714,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic+and+Implant+Center./@20.9028347,74.7762286,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5549c912bed:0x9e30789c2bce25de!8m2!3d20.9028347!4d74.7762286!16s%2Fg%2F11v41df8z_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic+and+Implant+Center./@20.9028347,74.7762286,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5549c912bed:0x9e30789c2bce25de!8m2!3d20.9028347!4d74.7762286!16s%2Fg%2F11v41df8z_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3749,10 +3780,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic+and+Implant+Center./@20.9028347,74.7762286,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5549c912bed:0x9e30789c2bce25de!8m2!3d20.9028347!4d74.7762286!16s%2Fg%2F11v41df8z_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hospital-dhule",
@@ -3798,7 +3830,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Hospital/@20.9195258,74.7672495,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5438ccdce01:0xe574064491093445!8m2!3d20.9195258!4d74.7672495!16s%2Fg%2F11w3syfxtt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital/@20.9195258,74.7672495,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5438ccdce01:0xe574064491093445!8m2!3d20.9195258!4d74.7672495!16s%2Fg%2F11w3syfxtt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3864,10 +3896,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hospital/@20.9195258,74.7672495,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5438ccdce01:0xe574064491093445!8m2!3d20.9195258!4d74.7672495!16s%2Fg%2F11w3syfxtt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indira-ivf-dhule-and-bhatwal-hospital-best-fertility-clinic-in-dhule-maharashtra-dhule",
@@ -3917,7 +3950,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Dhule+And+Bhatwal+Hospital+-+Best+Fertility+Clinic+in+Dhule,+Maharashtra/@20.8880501,74.7738254,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5821ba735e9:0x5acb912d49c7db7d!8m2!3d20.8880501!4d74.7738254!16s%2Fg%2F11vzfp6770?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Dhule+And+Bhatwal+Hospital+-+Best+Fertility+Clinic+in+Dhule,+Maharashtra/@20.8880501,74.7738254,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5821ba735e9:0x5acb912d49c7db7d!8m2!3d20.8880501!4d74.7738254!16s%2Fg%2F11vzfp6770?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3986,7 +4019,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Dhule+And+Bhatwal+Hospital+-+Best+Fertility+Clinic+in+Dhule,+Maharashtra/@20.8880501,74.7738254,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5821ba735e9:0x5acb912d49c7db7d!8m2!3d20.8880501!4d74.7738254!16s%2Fg%2F11vzfp6770?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jaware-hospital-dhule",
@@ -4034,7 +4068,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Jaware+Hospital/@20.9057346,74.77856,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f2c571bb47:0x2c8715accd09e417!8m2!3d20.9057346!4d74.77856!16s%2Fg%2F1tgjjrj_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaware+Hospital/@20.9057346,74.77856,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f2c571bb47:0x2c8715accd09e417!8m2!3d20.9057346!4d74.77856!16s%2Fg%2F1tgjjrj_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4103,7 +4137,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jaware+Hospital/@20.9057346,74.77856,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f2c571bb47:0x2c8715accd09e417!8m2!3d20.9057346!4d74.77856!16s%2Fg%2F1tgjjrj_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jiwanprabha-clinic-dhule",
@@ -4149,7 +4184,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Jiwanprabha+Clinic/@20.9149784,74.7583786,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec598698fc93f:0x613e8a0c75e6ac4d!8m2!3d20.9149784!4d74.7583786!16s%2Fg%2F11y435t_zy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jiwanprabha+Clinic/@20.9149784,74.7583786,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec598698fc93f:0x613e8a0c75e6ac4d!8m2!3d20.9149784!4d74.7583786!16s%2Fg%2F11y435t_zy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4215,10 +4250,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jiwanprabha+Clinic/@20.9149784,74.7583786,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec598698fc93f:0x613e8a0c75e6ac4d!8m2!3d20.9149784!4d74.7583786!16s%2Fg%2F11y435t_zy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kaderi-dental-clinic-dhule",
@@ -4266,7 +4302,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kaderi+Dental+Clinic/@20.8921899,74.7737848,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec55b549e0299:0x934f76b8bd616a5a!8m2!3d20.8921899!4d74.7737848!16s%2Fg%2F11y32h5wqt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kaderi+Dental+Clinic/@20.8921899,74.7737848,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec55b549e0299:0x934f76b8bd616a5a!8m2!3d20.8921899!4d74.7737848!16s%2Fg%2F11y32h5wqt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4332,10 +4368,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kaderi+Dental+Clinic/@20.8921899,74.7737848,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec55b549e0299:0x934f76b8bd616a5a!8m2!3d20.8921899!4d74.7737848!16s%2Fg%2F11y32h5wqt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kaderi-hospital-dhule",
@@ -4383,7 +4420,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Kaderi+Hospital/@20.8911183,74.7689148,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f0004b31dd:0x7a9dc2ffb2c04d48!8m2!3d20.8911183!4d74.7689148!16s%2Fg%2F11c6t_2d28?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kaderi+Hospital/@20.8911183,74.7689148,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f0004b31dd:0x7a9dc2ffb2c04d48!8m2!3d20.8911183!4d74.7689148!16s%2Fg%2F11c6t_2d28?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4452,7 +4489,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kaderi+Hospital/@20.8911183,74.7689148,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f0004b31dd:0x7a9dc2ffb2c04d48!8m2!3d20.8911183!4d74.7689148!16s%2Fg%2F11c6t_2d28?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kaushalya-hospital-dhule",
@@ -4500,7 +4538,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kaushalya+Hospital/@20.8891886,74.7734618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5a157134caf:0x113575741b6bf9b3!8m2!3d20.8891886!4d74.7734618!16s%2Fg%2F11y580n___?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kaushalya+Hospital/@20.8891886,74.7734618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5a157134caf:0x113575741b6bf9b3!8m2!3d20.8891886!4d74.7734618!16s%2Fg%2F11y580n___?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4566,10 +4604,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kaushalya+Hospital/@20.8891886,74.7734618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5a157134caf:0x113575741b6bf9b3!8m2!3d20.8891886!4d74.7734618!16s%2Fg%2F11y580n___?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khandesh-cancer-centre-dhule",
@@ -4617,7 +4656,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Khandesh+Cancer+Centre/@20.8736408,74.7620066,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec7e62e5d6969:0xb9c04299fe722f82!8m2!3d20.8736408!4d74.7620066!16s%2Fg%2F11h0t6kql_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khandesh+Cancer+Centre/@20.8736408,74.7620066,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec7e62e5d6969:0xb9c04299fe722f82!8m2!3d20.8736408!4d74.7620066!16s%2Fg%2F11h0t6kql_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4686,7 +4725,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khandesh+Cancer+Centre/@20.8736408,74.7620066,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec7e62e5d6969:0xb9c04299fe722f82!8m2!3d20.8736408!4d74.7620066!16s%2Fg%2F11h0t6kql_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kulkarni-maternity-hospital-dhule",
@@ -4734,7 +4774,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Kulkarni+Maternity+Hospital/@20.9027217,74.7679872,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec592b2d385e5:0x9ad592f8fefbd45d!8m2!3d20.9027217!4d74.7679872!16s%2Fg%2F11dfhwjk2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kulkarni+Maternity+Hospital/@20.9027217,74.7679872,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec592b2d385e5:0x9ad592f8fefbd45d!8m2!3d20.9027217!4d74.7679872!16s%2Fg%2F11dfhwjk2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4800,10 +4840,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kulkarni+Maternity+Hospital/@20.9027217,74.7679872,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec592b2d385e5:0x9ad592f8fefbd45d!8m2!3d20.9027217!4d74.7679872!16s%2Fg%2F11dfhwjk2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "labbaik-hospital-dhule",
@@ -4851,7 +4892,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Labbaik+Hospital/@20.8864958,74.7939827,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5fff636fd13:0xb8a77f1f557d6982!8m2!3d20.8864958!4d74.7939827!16s%2Fg%2F11n8n6ywpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Labbaik+Hospital/@20.8864958,74.7939827,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5fff636fd13:0xb8a77f1f557d6982!8m2!3d20.8864958!4d74.7939827!16s%2Fg%2F11n8n6ywpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4920,7 +4961,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Labbaik+Hospital/@20.8864958,74.7939827,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5fff636fd13:0xb8a77f1f557d6982!8m2!3d20.8864958!4d74.7939827!16s%2Fg%2F11n8n6ywpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-care-clinic-and-multitheraphy-centre-dhule",
@@ -4968,7 +5010,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/LIFE+CARE+CLINIC+AND+MULTITHERAPHY+CENTRE/@20.8921925,74.7806324,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf004069f267:0x8cc0a2e5c4a347d5!8m2!3d20.8921925!4d74.7806324!16s%2Fg%2F11wr0r15sy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LIFE+CARE+CLINIC+AND+MULTITHERAPHY+CENTRE/@20.8921925,74.7806324,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf004069f267:0x8cc0a2e5c4a347d5!8m2!3d20.8921925!4d74.7806324!16s%2Fg%2F11wr0r15sy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5034,10 +5076,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LIFE+CARE+CLINIC+AND+MULTITHERAPHY+CENTRE/@20.8921925,74.7806324,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf004069f267:0x8cc0a2e5c4a347d5!8m2!3d20.8921925!4d74.7806324!16s%2Fg%2F11wr0r15sy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-care-hospital-dhule",
@@ -5086,7 +5129,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Life+Care+Hospital/@20.9000551,74.7744917,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec528b093caed:0x92e06ee1f572d859!8m2!3d20.9000551!4d74.7744917!16s%2Fg%2F11j395g5gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Care+Hospital/@20.9000551,74.7744917,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec528b093caed:0x92e06ee1f572d859!8m2!3d20.9000551!4d74.7744917!16s%2Fg%2F11j395g5gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5152,10 +5195,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+Care+Hospital/@20.9000551,74.7744917,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec528b093caed:0x92e06ee1f572d859!8m2!3d20.9000551!4d74.7744917!16s%2Fg%2F11j395g5gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "life-surgical-and-maternity-home-dhule",
@@ -5204,7 +5248,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Life+surgical+and+maternity+home/@20.91505,74.770723,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf000b40effd:0x1809d3cc0964931!8m2!3d20.91505!4d74.770723!16s%2Fg%2F11x18hk7hy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+surgical+and+maternity+home/@20.91505,74.770723,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf000b40effd:0x1809d3cc0964931!8m2!3d20.91505!4d74.770723!16s%2Fg%2F11x18hk7hy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5273,7 +5317,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+surgical+and+maternity+home/@20.91505,74.770723,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf000b40effd:0x1809d3cc0964931!8m2!3d20.91505!4d74.770723!16s%2Fg%2F11x18hk7hy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lokmanya-hospital-dhule",
@@ -5322,7 +5367,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lokmanya+Hospital/@20.8918299,74.7765692,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f9d8734f17:0xf1e2f9fcd9082270!8m2!3d20.8918299!4d74.7765692!16s%2Fg%2F1tg9f_vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lokmanya+Hospital/@20.8918299,74.7765692,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f9d8734f17:0xf1e2f9fcd9082270!8m2!3d20.8918299!4d74.7765692!16s%2Fg%2F1tg9f_vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5388,10 +5433,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lokmanya+Hospital/@20.8918299,74.7765692,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f9d8734f17:0xf1e2f9fcd9082270!8m2!3d20.8918299!4d74.7765692!16s%2Fg%2F1tg9f_vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maher-hospital-dhule",
@@ -5439,7 +5485,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Maher+Hospital/@20.9255683,74.7770376,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec581ce2528bd:0x45d4526af45de6cb!8m2!3d20.9255683!4d74.7770376!16s%2Fg%2F1thk7602?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maher+Hospital/@20.9255683,74.7770376,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec581ce2528bd:0x45d4526af45de6cb!8m2!3d20.9255683!4d74.7770376!16s%2Fg%2F1thk7602?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5508,7 +5554,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maher+Hospital/@20.9255683,74.7770376,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec581ce2528bd:0x45d4526af45de6cb!8m2!3d20.9255683!4d74.7770376!16s%2Fg%2F1thk7602?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangal-hospital-dhule",
@@ -5556,7 +5603,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Mangal+Hospital/@20.9106372,74.7704345,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5c0d780f737:0x53a4df4f3331c496!8m2!3d20.9106372!4d74.7704345!16s%2Fg%2F11ll4584pl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangal+Hospital/@20.9106372,74.7704345,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5c0d780f737:0x53a4df4f3331c496!8m2!3d20.9106372!4d74.7704345!16s%2Fg%2F11ll4584pl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5625,7 +5672,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangal+Hospital/@20.9106372,74.7704345,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5c0d780f737:0x53a4df4f3331c496!8m2!3d20.9106372!4d74.7704345!16s%2Fg%2F11ll4584pl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangalmurti-surgical-hospital-dhule",
@@ -5673,7 +5721,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mangalmurti+Surgical+Hospital/@20.9235089,74.777334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58100e639e7:0xc6357c8dbdd19b4a!8m2!3d20.9235089!4d74.777334!16s%2Fg%2F11hb5q7cf7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangalmurti+Surgical+Hospital/@20.9235089,74.777334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58100e639e7:0xc6357c8dbdd19b4a!8m2!3d20.9235089!4d74.777334!16s%2Fg%2F11hb5q7cf7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5739,10 +5787,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangalmurti+Surgical+Hospital/@20.9235089,74.777334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58100e639e7:0xc6357c8dbdd19b4a!8m2!3d20.9235089!4d74.777334!16s%2Fg%2F11hb5q7cf7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangalya-hospital-dhule",
@@ -5790,7 +5839,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Mangalya+Hospital+(+%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%8D%E0%A4%AF+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2+)/@20.9141145,74.7719454,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58f7c249483:0xa2af454ab1e25551!8m2!3d20.9141145!4d74.7719454!16s%2Fg%2F11c76mhg_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangalya+Hospital+(+%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%8D%E0%A4%AF+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2+)/@20.9141145,74.7719454,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58f7c249483:0xa2af454ab1e25551!8m2!3d20.9141145!4d74.7719454!16s%2Fg%2F11c76mhg_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5859,7 +5908,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangalya+Hospital+(+%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%8D%E0%A4%AF+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2+)/@20.9141145,74.7719454,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58f7c249483:0xa2af454ab1e25551!8m2!3d20.9141145!4d74.7719454!16s%2Fg%2F11c76mhg_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manjushree-surgical-hospital-and-laser-centre-dhule",
@@ -5907,7 +5957,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Manjushree+Surgical+Hospital+And+Laser+Centre/@20.9286789,74.775515,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5e739d29733:0x330cf31f1a537dbf!8m2!3d20.9286789!4d74.775515!16s%2Fg%2F11hxz44ymt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manjushree+Surgical+Hospital+And+Laser+Centre/@20.9286789,74.775515,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5e739d29733:0x330cf31f1a537dbf!8m2!3d20.9286789!4d74.775515!16s%2Fg%2F11hxz44ymt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5973,10 +6023,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manjushree+Surgical+Hospital+And+Laser+Centre/@20.9286789,74.775515,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5e739d29733:0x330cf31f1a537dbf!8m2!3d20.9286789!4d74.775515!16s%2Fg%2F11hxz44ymt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "matruseva-maternity-hospital-dhule",
@@ -6025,7 +6076,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Matruseva+Maternity+Hospital/@20.9159231,74.7715581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5850a4d09ad:0x2bbbb0a921189956!8m2!3d20.9159231!4d74.7715581!16s%2Fg%2F11csq9cl34?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matruseva+Maternity+Hospital/@20.9159231,74.7715581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5850a4d09ad:0x2bbbb0a921189956!8m2!3d20.9159231!4d74.7715581!16s%2Fg%2F11csq9cl34?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6094,7 +6145,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Matruseva+Maternity+Hospital/@20.9159231,74.7715581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5850a4d09ad:0x2bbbb0a921189956!8m2!3d20.9159231!4d74.7715581!16s%2Fg%2F11csq9cl34?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mauli-dental-care-dhule",
@@ -6142,7 +6194,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mauli+Dental+Care/@20.9301404,74.7764803,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5dd21bf1ae1:0x8d730ef15d342b5c!8m2!3d20.9301404!4d74.7764803!16s%2Fg%2F11k4h1mmn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mauli+Dental+Care/@20.9301404,74.7764803,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5dd21bf1ae1:0x8d730ef15d342b5c!8m2!3d20.9301404!4d74.7764803!16s%2Fg%2F11k4h1mmn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6208,10 +6260,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mauli+Dental+Care/@20.9301404,74.7764803,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5dd21bf1ae1:0x8d730ef15d342b5c!8m2!3d20.9301404!4d74.7764803!16s%2Fg%2F11k4h1mmn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "meenakshi-accident-hospital-dhule",
@@ -6259,7 +6312,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Meenakshi+Accident+Hospital/@20.9027354,74.7485202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5c4184bdd15:0xf9af7792d398326a!8m2!3d20.9027354!4d74.7485202!16s%2Fg%2F11mvrl56wh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meenakshi+Accident+Hospital/@20.9027354,74.7485202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5c4184bdd15:0xf9af7792d398326a!8m2!3d20.9027354!4d74.7485202!16s%2Fg%2F11mvrl56wh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6328,7 +6381,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meenakshi+Accident+Hospital/@20.9027354,74.7485202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5c4184bdd15:0xf9af7792d398326a!8m2!3d20.9027354!4d74.7485202!16s%2Fg%2F11mvrl56wh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "navinya-hospital-dhule",
@@ -6376,7 +6430,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Navinya+Hospital/@20.9007702,74.7827503,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5f07d6776b:0xacc6f419dfc7473d!8m2!3d20.9007702!4d74.7827503!16s%2Fg%2F11g7nr081l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navinya+Hospital/@20.9007702,74.7827503,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5f07d6776b:0xacc6f419dfc7473d!8m2!3d20.9007702!4d74.7827503!16s%2Fg%2F11g7nr081l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6445,7 +6499,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Navinya+Hospital/@20.9007702,74.7827503,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5f07d6776b:0xacc6f419dfc7473d!8m2!3d20.9007702!4d74.7827503!16s%2Fg%2F11g7nr081l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-life-clinic-dhule",
@@ -6491,7 +6546,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/NEW+LIFE+CLINIC/@20.8813693,74.7860039,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf54a9328d85:0x5c11549b70bbab60!8m2!3d20.8813693!4d74.7860039!16s%2Fg%2F11vj3gw74y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEW+LIFE+CLINIC/@20.8813693,74.7860039,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf54a9328d85:0x5c11549b70bbab60!8m2!3d20.8813693!4d74.7860039!16s%2Fg%2F11vj3gw74y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6557,10 +6612,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEW+LIFE+CLINIC/@20.8813693,74.7860039,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf54a9328d85:0x5c11549b70bbab60!8m2!3d20.8813693!4d74.7860039!16s%2Fg%2F11vj3gw74y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "niramaya-hospital-and-shwaas-criti-care-center-dhule",
@@ -6609,7 +6665,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Niramaya+Hospital+%26+Shwaas+Criti+Care+Center/@20.8995062,74.7827589,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5f17f3b26d:0x257b04b5a5e291e4!8m2!3d20.8995062!4d74.7827589!16s%2Fg%2F12xpkkrht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Niramaya+Hospital+%26+Shwaas+Criti+Care+Center/@20.8995062,74.7827589,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5f17f3b26d:0x257b04b5a5e291e4!8m2!3d20.8995062!4d74.7827589!16s%2Fg%2F12xpkkrht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6678,7 +6734,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Niramaya+Hospital+%26+Shwaas+Criti+Care+Center/@20.8995062,74.7827589,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5f17f3b26d:0x257b04b5a5e291e4!8m2!3d20.8995062!4d74.7827589!16s%2Fg%2F12xpkkrht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "om-sai-hospital-dhule",
@@ -6726,7 +6783,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Om+Sai+Hospital/@20.8938922,74.7665414,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5ee52615409:0x5841f1b49bec8bc!8m2!3d20.8938922!4d74.7665414!16s%2Fg%2F11dxmbh9sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Sai+Hospital/@20.8938922,74.7665414,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5ee52615409:0x5841f1b49bec8bc!8m2!3d20.8938922!4d74.7665414!16s%2Fg%2F11dxmbh9sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6795,7 +6852,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Om+Sai+Hospital/@20.8938922,74.7665414,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5ee52615409:0x5841f1b49bec8bc!8m2!3d20.8938922!4d74.7665414!16s%2Fg%2F11dxmbh9sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parmarth-dental-clinic-dhule",
@@ -6843,7 +6901,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Parmarth+Dental+Clinic/@20.9034392,74.767804,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5a55a64c601:0x41030e5b260c2e0c!8m2!3d20.9034392!4d74.767804!16s%2Fg%2F11g2r7_vy5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parmarth+Dental+Clinic/@20.9034392,74.767804,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5a55a64c601:0x41030e5b260c2e0c!8m2!3d20.9034392!4d74.767804!16s%2Fg%2F11g2r7_vy5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6912,7 +6970,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parmarth+Dental+Clinic/@20.9034392,74.767804,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5a55a64c601:0x41030e5b260c2e0c!8m2!3d20.9034392!4d74.767804!16s%2Fg%2F11g2r7_vy5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patel-childrens-and-general-hospital-dhule",
@@ -6961,7 +7020,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Patel+Childrens'+and+General+Hospital/@20.9196074,74.766764,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec59b63003bad:0x37cff1bdc21822f3!8m2!3d20.9196074!4d74.766764!16s%2Fg%2F11f15cd1pv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patel+Childrens'+and+General+Hospital/@20.9196074,74.766764,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec59b63003bad:0x37cff1bdc21822f3!8m2!3d20.9196074!4d74.766764!16s%2Fg%2F11f15cd1pv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7030,7 +7089,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patel+Childrens'+and+General+Hospital/@20.9196074,74.766764,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec59b63003bad:0x37cff1bdc21822f3!8m2!3d20.9196074!4d74.766764!16s%2Fg%2F11f15cd1pv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patel-clinic-dhule",
@@ -7078,7 +7138,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Patel+clinic+%F0%9F%8F%A5/@20.8876061,74.7850369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf0f84b79f85:0x7fb776a82e7a427f!8m2!3d20.8876061!4d74.7850369!16s%2Fg%2F11y8hmtdlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patel+clinic+%F0%9F%8F%A5/@20.8876061,74.7850369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf0f84b79f85:0x7fb776a82e7a427f!8m2!3d20.8876061!4d74.7850369!16s%2Fg%2F11y8hmtdlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7144,10 +7204,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patel+clinic+%F0%9F%8F%A5/@20.8876061,74.7850369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf0f84b79f85:0x7fb776a82e7a427f!8m2!3d20.8876061!4d74.7850369!16s%2Fg%2F11y8hmtdlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patil-accident-hospital-dhule",
@@ -7195,7 +7256,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Patil+Accident+Hospital/@20.902067,74.7902062,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf004c300b05:0x3fc4d49d4b9507c3!8m2!3d20.902067!4d74.7902062!16s%2Fg%2F11mczczxtn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patil+Accident+Hospital/@20.902067,74.7902062,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf004c300b05:0x3fc4d49d4b9507c3!8m2!3d20.902067!4d74.7902062!16s%2Fg%2F11mczczxtn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7261,10 +7322,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patil+Accident+Hospital/@20.902067,74.7902062,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf004c300b05:0x3fc4d49d4b9507c3!8m2!3d20.902067!4d74.7902062!16s%2Fg%2F11mczczxtn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prachiti-physiotherapy-and-neurotherapy-clinic-dhule-dhule",
@@ -7314,7 +7376,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Prachiti+Physiotherapy+%26+Neurotherapy+Clinic,+Dhule/@20.9037777,74.7677976,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec592bf32e879:0xd2e6d26da18a72b5!8m2!3d20.9037777!4d74.7677976!16s%2Fg%2F11g8x45brj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prachiti+Physiotherapy+%26+Neurotherapy+Clinic,+Dhule/@20.9037777,74.7677976,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec592bf32e879:0xd2e6d26da18a72b5!8m2!3d20.9037777!4d74.7677976!16s%2Fg%2F11g8x45brj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7380,10 +7442,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prachiti+Physiotherapy+%26+Neurotherapy+Clinic,+Dhule/@20.9037777,74.7677976,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec592bf32e879:0xd2e6d26da18a72b5!8m2!3d20.9037777!4d74.7677976!16s%2Fg%2F11g8x45brj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prayag-hospital-dhule",
@@ -7431,7 +7494,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Prayag+Hospital/@20.9032728,74.7476087,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5b8356883b9:0x6d5cc0e2f3feec2b!8m2!3d20.9032728!4d74.7476087!16s%2Fg%2F11b7fvb19q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prayag+Hospital/@20.9032728,74.7476087,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5b8356883b9:0x6d5cc0e2f3feec2b!8m2!3d20.9032728!4d74.7476087!16s%2Fg%2F11b7fvb19q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7500,7 +7563,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prayag+Hospital/@20.9032728,74.7476087,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5b8356883b9:0x6d5cc0e2f3feec2b!8m2!3d20.9032728!4d74.7476087!16s%2Fg%2F11b7fvb19q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "progenesis-fertility-center-best-ivf-center-in-dhule-dhule",
@@ -7550,7 +7614,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Dhule/@20.9248414,74.7767421,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58956b54adf:0x351b8469e876f024!8m2!3d20.9248414!4d74.7767421!16s%2Fg%2F11yhkc6cn5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Dhule/@20.9248414,74.7767421,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58956b54adf:0x351b8469e876f024!8m2!3d20.9248414!4d74.7767421!16s%2Fg%2F11yhkc6cn5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7619,7 +7683,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Dhule/@20.9248414,74.7767421,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58956b54adf:0x351b8469e876f024!8m2!3d20.9248414!4d74.7767421!16s%2Fg%2F11yhkc6cn5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ranade-maternity-hospital-lane-number-4",
@@ -7668,7 +7733,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Ranade+Maternity+Hospital/@20.9052448,74.7781017,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58ae622ec65:0xdc6ecaceff4831cf!8m2!3d20.9052448!4d74.7781017!16s%2Fg%2F1td5_5jz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ranade+Maternity+Hospital/@20.9052448,74.7781017,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58ae622ec65:0xdc6ecaceff4831cf!8m2!3d20.9052448!4d74.7781017!16s%2Fg%2F1td5_5jz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7737,7 +7802,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ranade+Maternity+Hospital/@20.9052448,74.7781017,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58ae622ec65:0xdc6ecaceff4831cf!8m2!3d20.9052448!4d74.7781017!16s%2Fg%2F1td5_5jz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sadashiv-hospital-dhule",
@@ -7785,7 +7851,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sadashiv+hospital/@20.92626,74.7905116,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5a4ee66f81:0x6684694c7385494c!8m2!3d20.92626!4d74.7905116!16s%2Fg%2F11rlskmw_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadashiv+hospital/@20.92626,74.7905116,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5a4ee66f81:0x6684694c7385494c!8m2!3d20.92626!4d74.7905116!16s%2Fg%2F11rlskmw_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7851,10 +7917,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sadashiv+hospital/@20.92626,74.7905116,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5a4ee66f81:0x6684694c7385494c!8m2!3d20.92626!4d74.7905116!16s%2Fg%2F11rlskmw_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-diabetes-hospital-dhule",
@@ -7903,7 +7970,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Diabetes+Hospital/@20.9238321,74.7772823,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5a835cef9a5:0x5ad74be470cc6879!8m2!3d20.9238321!4d74.7772823!16s%2Fg%2F11fl9d4ln4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Diabetes+Hospital/@20.9238321,74.7772823,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5a835cef9a5:0x5ad74be470cc6879!8m2!3d20.9238321!4d74.7772823!16s%2Fg%2F11fl9d4ln4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -7969,10 +8036,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Diabetes+Hospital/@20.9238321,74.7772823,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5a835cef9a5:0x5ad74be470cc6879!8m2!3d20.9238321!4d74.7772823!16s%2Fg%2F11fl9d4ln4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-sunder-hospital-dhule",
@@ -8020,7 +8088,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Sunder+Hospital/@20.8945121,74.7681176,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5ee3a92064b:0x72ebb452d14f51d7!8m2!3d20.8945121!4d74.7681176!16s%2Fg%2F11c2j2r30g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Sunder+Hospital/@20.8945121,74.7681176,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5ee3a92064b:0x72ebb452d14f51d7!8m2!3d20.8945121!4d74.7681176!16s%2Fg%2F11c2j2r30g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8089,7 +8157,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Sunder+Hospital/@20.8945121,74.7681176,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5ee3a92064b:0x72ebb452d14f51d7!8m2!3d20.8945121!4d74.7681176!16s%2Fg%2F11c2j2r30g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samarth-surgical-and-maternity-hospital-dhule",
@@ -8138,7 +8207,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Samarth+Surgical+%26+Maternity+Hospital/@20.9095582,74.7736654,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58ebb54c637:0x2da03268dba427da!8m2!3d20.9095582!4d74.7736654!16s%2Fg%2F1hhjxr6dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarth+Surgical+%26+Maternity+Hospital/@20.9095582,74.7736654,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58ebb54c637:0x2da03268dba427da!8m2!3d20.9095582!4d74.7736654!16s%2Fg%2F1hhjxr6dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8207,7 +8276,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samarth+Surgical+%26+Maternity+Hospital/@20.9095582,74.7736654,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58ebb54c637:0x2da03268dba427da!8m2!3d20.9095582!4d74.7736654!16s%2Fg%2F1hhjxr6dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sangopan-children-hospital-dhule",
@@ -8256,7 +8326,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sangopan+children+hospital/@20.8944757,74.7653528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec531c53c2371:0x4b686a91daf1e72e!8m2!3d20.8944757!4d74.7653528!16s%2Fg%2F11qp4ttk8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sangopan+children+hospital/@20.8944757,74.7653528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec531c53c2371:0x4b686a91daf1e72e!8m2!3d20.8944757!4d74.7653528!16s%2Fg%2F11qp4ttk8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8325,7 +8395,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sangopan+children+hospital/@20.8944757,74.7653528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec531c53c2371:0x4b686a91daf1e72e!8m2!3d20.8944757!4d74.7653528!16s%2Fg%2F11qp4ttk8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sankalp-dental-clinic-dhule-dhule",
@@ -8373,7 +8444,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sankalp+Dental+Clinic,Dhule/@20.881835,74.7712268,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec548bf03a25b:0xc0b55cd381e2066b!8m2!3d20.881835!4d74.7712268!16s%2Fg%2F11qq4g21g3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sankalp+Dental+Clinic,Dhule/@20.881835,74.7712268,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec548bf03a25b:0xc0b55cd381e2066b!8m2!3d20.881835!4d74.7712268!16s%2Fg%2F11qq4g21g3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8439,10 +8510,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sankalp+Dental+Clinic,Dhule/@20.881835,74.7712268,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec548bf03a25b:0xc0b55cd381e2066b!8m2!3d20.881835!4d74.7712268!16s%2Fg%2F11qq4g21g3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sardar-unani-clinic-dhule",
@@ -8490,7 +8562,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sardar+Unani+Clinic/@20.8914008,74.783608,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf3ac3815769:0xe3c9909f8550f633!8m2!3d20.8914008!4d74.783608!16s%2Fg%2F11f66390yy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sardar+Unani+Clinic/@20.8914008,74.783608,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf3ac3815769:0xe3c9909f8550f633!8m2!3d20.8914008!4d74.783608!16s%2Fg%2F11f66390yy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8559,7 +8631,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sardar+Unani+Clinic/@20.8914008,74.783608,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf3ac3815769:0xe3c9909f8550f633!8m2!3d20.8914008!4d74.783608!16s%2Fg%2F11f66390yy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saroj-maternity-hospital-dhule",
@@ -8607,7 +8680,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Saroj+Maternity+Hospital/@20.9222151,74.7786254,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec580c24060f9:0x82e14c27bfeef379!8m2!3d20.9222151!4d74.7786254!16s%2Fg%2F1hf8bqr9m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saroj+Maternity+Hospital/@20.9222151,74.7786254,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec580c24060f9:0x82e14c27bfeef379!8m2!3d20.9222151!4d74.7786254!16s%2Fg%2F1hf8bqr9m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8676,7 +8749,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saroj+Maternity+Hospital/@20.9222151,74.7786254,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec580c24060f9:0x82e14c27bfeef379!8m2!3d20.9222151!4d74.7786254!16s%2Fg%2F1hf8bqr9m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "seema-maternity-hospital-dhule",
@@ -8725,7 +8799,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Seema+Maternity+Hospital/@20.8927386,74.7788269,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5361a2892ef:0x16898e263a017897!8m2!3d20.8927386!4d74.7788269!16s%2Fg%2F11q97lfydv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seema+Maternity+Hospital/@20.8927386,74.7788269,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5361a2892ef:0x16898e263a017897!8m2!3d20.8927386!4d74.7788269!16s%2Fg%2F11q97lfydv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8791,10 +8865,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seema+Maternity+Hospital/@20.8927386,74.7788269,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5361a2892ef:0x16898e263a017897!8m2!3d20.8927386!4d74.7788269!16s%2Fg%2F11q97lfydv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharada-hospital-dhule",
@@ -8842,7 +8917,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sharada+Hospital/@20.886252,74.7726922,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5fb91e4352f:0x627649d40ffe16e2!8m2!3d20.886252!4d74.7726922!16s%2Fg%2F11cmcgrc9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharada+Hospital/@20.886252,74.7726922,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5fb91e4352f:0x627649d40ffe16e2!8m2!3d20.886252!4d74.7726922!16s%2Fg%2F11cmcgrc9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8908,10 +8983,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sharada+Hospital/@20.886252,74.7726922,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5fb91e4352f:0x627649d40ffe16e2!8m2!3d20.886252!4d74.7726922!16s%2Fg%2F11cmcgrc9z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shiv-spine-and-trauma-care-clinic-dhule",
@@ -8960,7 +9036,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shiv+Spine+and+Trauma+Care+Clinic/@20.8864479,74.7726954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5d550f11a07:0xbc3e36aa92a6c787!8m2!3d20.8864479!4d74.7726954!16s%2Fg%2F11wpbdv7gk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiv+Spine+and+Trauma+Care+Clinic/@20.8864479,74.7726954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5d550f11a07:0xbc3e36aa92a6c787!8m2!3d20.8864479!4d74.7726954!16s%2Fg%2F11wpbdv7gk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9026,10 +9102,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shiv+Spine+and+Trauma+Care+Clinic/@20.8864479,74.7726954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5d550f11a07:0xbc3e36aa92a6c787!8m2!3d20.8864479!4d74.7726954!16s%2Fg%2F11wpbdv7gk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivaji-surgical-dhule",
@@ -9075,7 +9152,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Shivaji+Surgical/@20.9046779,74.7786516,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5ab81b16ecb:0xe548ec0fff5ecc3a!8m2!3d20.9046779!4d74.7786516!16s%2Fg%2F11rmr3l442?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivaji+Surgical/@20.9046779,74.7786516,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5ab81b16ecb:0xe548ec0fff5ecc3a!8m2!3d20.9046779!4d74.7786516!16s%2Fg%2F11rmr3l442?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9141,10 +9218,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivaji+Surgical/@20.9046779,74.7786516,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5ab81b16ecb:0xe548ec0fff5ecc3a!8m2!3d20.9046779!4d74.7786516!16s%2Fg%2F11rmr3l442?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shobha-gastrocare-dr-rohan-gayakwad-patil-dm-gastro-dhule",
@@ -9194,7 +9272,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shobha+Gastrocare+(Dr+Rohan+Gayakwad+Patil,+DM+Gastro)/@20.903142,74.7702314,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5209b207791:0x24fe2c78aec1d403!8m2!3d20.903142!4d74.7702314!16s%2Fg%2F11vwtg2bf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shobha+Gastrocare+(Dr+Rohan+Gayakwad+Patil,+DM+Gastro)/@20.903142,74.7702314,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5209b207791:0x24fe2c78aec1d403!8m2!3d20.903142!4d74.7702314!16s%2Fg%2F11vwtg2bf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9260,10 +9338,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shobha+Gastrocare+(Dr+Rohan+Gayakwad+Patil,+DM+Gastro)/@20.903142,74.7702314,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5209b207791:0x24fe2c78aec1d403!8m2!3d20.903142!4d74.7702314!16s%2Fg%2F11vwtg2bf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-bhausaheb-hire-govt-hospital-dhule-dhule",
@@ -9312,7 +9391,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Bhausaheb+Hire+Govt+Hospital,+Dhule/@20.8647731,74.7633096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec611868785ed:0x350c538867fa2ab5!8m2!3d20.8647731!4d74.7633096!16s%2Fg%2F11bzzxrpf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Bhausaheb+Hire+Govt+Hospital,+Dhule/@20.8647731,74.7633096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec611868785ed:0x350c538867fa2ab5!8m2!3d20.8647731!4d74.7633096!16s%2Fg%2F11bzzxrpf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9381,7 +9460,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Bhausaheb+Hire+Govt+Hospital,+Dhule/@20.8647731,74.7633096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec611868785ed:0x350c538867fa2ab5!8m2!3d20.8647731!4d74.7633096!16s%2Fg%2F11bzzxrpf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-dhanwantari-hospital-for-piles-and-fistula-dhule",
@@ -9429,7 +9509,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/SHREE+DHANWANTARI+HOSPITAL+FOR+PILES+AND+FISTULA/@20.9000719,74.7769589,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f457266d29:0x7897fc5da388b9f8!8m2!3d20.9000719!4d74.7769589!16s%2Fg%2F12hvqqmyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+DHANWANTARI+HOSPITAL+FOR+PILES+AND+FISTULA/@20.9000719,74.7769589,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f457266d29:0x7897fc5da388b9f8!8m2!3d20.9000719!4d74.7769589!16s%2Fg%2F12hvqqmyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9498,7 +9578,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHREE+DHANWANTARI+HOSPITAL+FOR+PILES+AND+FISTULA/@20.9000719,74.7769589,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f457266d29:0x7897fc5da388b9f8!8m2!3d20.9000719!4d74.7769589!16s%2Fg%2F12hvqqmyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-hospital-dhule",
@@ -9546,7 +9627,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Hospital/@20.9059714,74.7783823,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58af0b2a413:0xb4ab22d40afba6df!8m2!3d20.9059714!4d74.7783823!16s%2Fg%2F1tlbh0dn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Hospital/@20.9059714,74.7783823,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58af0b2a413:0xb4ab22d40afba6df!8m2!3d20.9059714!4d74.7783823!16s%2Fg%2F1tlbh0dn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9612,10 +9693,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Hospital/@20.9059714,74.7783823,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58af0b2a413:0xb4ab22d40afba6df!8m2!3d20.9059714!4d74.7783823!16s%2Fg%2F1tlbh0dn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-saibaba-hospital-dhule",
@@ -9663,7 +9745,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+SaiBaba+Hospital/@20.9025192,74.7833781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf4d14cdc85d:0x1071aa6c717cd725!8m2!3d20.9025192!4d74.7833781!16s%2Fg%2F11jmx_wbtd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+SaiBaba+Hospital/@20.9025192,74.7833781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf4d14cdc85d:0x1071aa6c717cd725!8m2!3d20.9025192!4d74.7833781!16s%2Fg%2F11jmx_wbtd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9729,10 +9811,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+SaiBaba+Hospital/@20.9025192,74.7833781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf4d14cdc85d:0x1071aa6c717cd725!8m2!3d20.9025192!4d74.7833781!16s%2Fg%2F11jmx_wbtd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-vinayak-spine-care-center-dhule",
@@ -9782,7 +9865,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Vinayak+spine+care+center/@20.8989829,74.7483,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f538de02b1:0x7e6b022e2cf8b2ce!8m2!3d20.8989829!4d74.7483!16s%2Fg%2F11xz5rbs2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Vinayak+spine+care+center/@20.8989829,74.7483,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f538de02b1:0x7e6b022e2cf8b2ce!8m2!3d20.8989829!4d74.7483!16s%2Fg%2F11xz5rbs2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9848,10 +9931,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Vinayak+spine+care+center/@20.8989829,74.7483,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f538de02b1:0x7e6b022e2cf8b2ce!8m2!3d20.8989829!4d74.7483!16s%2Fg%2F11xz5rbs2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "siddhi-maternity-hospital-dhule",
@@ -9899,7 +9983,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Siddhi+Maternity+Hospital/@20.9232928,74.7780078,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec580fbffb4bf:0x8bd9c663cab3eb7f!8m2!3d20.9232928!4d74.7780078!16s%2Fg%2F11b7rtn6vh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddhi+Maternity+Hospital/@20.9232928,74.7780078,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec580fbffb4bf:0x8bd9c663cab3eb7f!8m2!3d20.9232928!4d74.7780078!16s%2Fg%2F11b7rtn6vh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9968,7 +10052,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Siddhi+Maternity+Hospital/@20.9232928,74.7780078,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec580fbffb4bf:0x8bd9c663cab3eb7f!8m2!3d20.9232928!4d74.7780078!16s%2Fg%2F11b7rtn6vh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "siddhivinayak-hospital-dhule",
@@ -10016,7 +10101,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Siddhivinayak+Hospital/@20.9030141,74.7633281,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec59359a04909:0x403c6060e8ccdebe!8m2!3d20.9030141!4d74.7633281!16s%2Fg%2F11bw3b9983?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddhivinayak+Hospital/@20.9030141,74.7633281,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec59359a04909:0x403c6060e8ccdebe!8m2!3d20.9030141!4d74.7633281!16s%2Fg%2F11bw3b9983?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10085,7 +10170,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Siddhivinayak+Hospital/@20.9030141,74.7633281,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec59359a04909:0x403c6060e8ccdebe!8m2!3d20.9030141!4d74.7633281!16s%2Fg%2F11bw3b9983?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sidhi-hospital-dhule",
@@ -10133,7 +10219,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Sidhi+Hospital/@20.9274106,74.7773413,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec553115b9c9d:0xe9ebe393bf23d085!8m2!3d20.9274106!4d74.7773413!16s%2Fg%2F11j439mjnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sidhi+Hospital/@20.9274106,74.7773413,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec553115b9c9d:0xe9ebe393bf23d085!8m2!3d20.9274106!4d74.7773413!16s%2Fg%2F11j439mjnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10199,10 +10285,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sidhi+Hospital/@20.9274106,74.7773413,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec553115b9c9d:0xe9ebe393bf23d085!8m2!3d20.9274106!4d74.7773413!16s%2Fg%2F11j439mjnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sitaram-hospital-dhule",
@@ -10251,7 +10338,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sitaram+Hospital/@20.9023183,74.7793781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f5415919d1:0xbbd42c51fdac0f7e!8m2!3d20.9023183!4d74.7793781!16s%2Fg%2F1tfb50ld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sitaram+Hospital/@20.9023183,74.7793781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f5415919d1:0xbbd42c51fdac0f7e!8m2!3d20.9023183!4d74.7793781!16s%2Fg%2F1tfb50ld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10317,10 +10404,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sitaram+Hospital/@20.9023183,74.7793781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f5415919d1:0xbbd42c51fdac0f7e!8m2!3d20.9023183!4d74.7793781!16s%2Fg%2F1tfb50ld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smiles-and-roots-advanced-dental-clinic-dhule",
@@ -10368,7 +10456,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smiles+%26+Roots+Advanced+Dental+Clinic/@20.9032516,74.7677624,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec54c3705afdf:0xfdf14e388a1ef198!8m2!3d20.9032516!4d74.7677624!16s%2Fg%2F11l30lp17v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smiles+%26+Roots+Advanced+Dental+Clinic/@20.9032516,74.7677624,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec54c3705afdf:0xfdf14e388a1ef198!8m2!3d20.9032516!4d74.7677624!16s%2Fg%2F11l30lp17v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10434,10 +10522,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smiles+%26+Roots+Advanced+Dental+Clinic/@20.9032516,74.7677624,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec54c3705afdf:0xfdf14e388a1ef198!8m2!3d20.9032516!4d74.7677624!16s%2Fg%2F11l30lp17v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smit-dental-care-dhule",
@@ -10485,7 +10574,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Smit+Dental+Care/@20.9037386,74.7546077,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5bfaebe7fb5:0xd0ee586d19fd6590!8m2!3d20.9037386!4d74.7546077!16s%2Fg%2F11fzf58rgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smit+Dental+Care/@20.9037386,74.7546077,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5bfaebe7fb5:0xd0ee586d19fd6590!8m2!3d20.9037386!4d74.7546077!16s%2Fg%2F11fzf58rgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10554,7 +10643,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smit+Dental+Care/@20.9037386,74.7546077,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5bfaebe7fb5:0xd0ee586d19fd6590!8m2!3d20.9037386!4d74.7546077!16s%2Fg%2F11fzf58rgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sudha-hospital-dhule",
@@ -10602,7 +10692,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/Sudha+Hospital/@20.9088456,74.7706907,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58e76ac97d9:0x1ef9a3d7f2afc62b!8m2!3d20.9088456!4d74.7706907!16s%2Fg%2F1jkycfv07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudha+Hospital/@20.9088456,74.7706907,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58e76ac97d9:0x1ef9a3d7f2afc62b!8m2!3d20.9088456!4d74.7706907!16s%2Fg%2F1jkycfv07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10671,7 +10761,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sudha+Hospital/@20.9088456,74.7706907,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58e76ac97d9:0x1ef9a3d7f2afc62b!8m2!3d20.9088456!4d74.7706907!16s%2Fg%2F1jkycfv07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "suman-eye-care-hospital-and-clear-vision-lasik-centre-dhule-dhule",
@@ -10720,7 +10811,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Suman+Eye+Care+Hospital+%26+Clear+Vision+Lasik+Centre+Dhule/@20.9217921,74.7771278,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec581243e68e7:0x753c7b14df02eae0!8m2!3d20.9217921!4d74.7771278!16s%2Fg%2F1td36p_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suman+Eye+Care+Hospital+%26+Clear+Vision+Lasik+Centre+Dhule/@20.9217921,74.7771278,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec581243e68e7:0x753c7b14df02eae0!8m2!3d20.9217921!4d74.7771278!16s%2Fg%2F1td36p_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10789,7 +10880,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suman+Eye+Care+Hospital+%26+Clear+Vision+Lasik+Centre+Dhule/@20.9217921,74.7771278,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec581243e68e7:0x753c7b14df02eae0!8m2!3d20.9217921!4d74.7771278!16s%2Fg%2F1td36p_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "suman-hospital-dhule",
@@ -10837,7 +10929,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Suman+Hospital/@20.9037527,74.7595785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec56e0104f7d7:0xe67111ec065482f8!8m2!3d20.9037527!4d74.7595785!16s%2Fg%2F11lz41w2tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suman+Hospital/@20.9037527,74.7595785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec56e0104f7d7:0xe67111ec065482f8!8m2!3d20.9037527!4d74.7595785!16s%2Fg%2F11lz41w2tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10903,10 +10995,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suman+Hospital/@20.9037527,74.7595785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec56e0104f7d7:0xe67111ec065482f8!8m2!3d20.9037527!4d74.7595785!16s%2Fg%2F11lz41w2tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surya-criticare-hospital-dhule",
@@ -10955,7 +11048,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Surya+Criticare+Hospital/@20.9254288,74.776432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec510d79fb5eb:0x4240dd20fc5512c0!8m2!3d20.9254288!4d74.776432!16s%2Fg%2F11m65l_136?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+Criticare+Hospital/@20.9254288,74.776432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec510d79fb5eb:0x4240dd20fc5512c0!8m2!3d20.9254288!4d74.776432!16s%2Fg%2F11m65l_136?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11021,10 +11114,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surya+Criticare+Hospital/@20.9254288,74.776432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec510d79fb5eb:0x4240dd20fc5512c0!8m2!3d20.9254288!4d74.776432!16s%2Fg%2F11m65l_136?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "suyash-hospital-s-2",
@@ -11072,7 +11166,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Suyash+Hospital/@20.9177486,74.7694861,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec584d028d05f:0xc3b3c53b6c24ed1!8m2!3d20.9177486!4d74.7694861!16s%2Fg%2F11bx1sj24r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suyash+Hospital/@20.9177486,74.7694861,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec584d028d05f:0xc3b3c53b6c24ed1!8m2!3d20.9177486!4d74.7694861!16s%2Fg%2F11bx1sj24r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11138,10 +11232,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suyash+Hospital/@20.9177486,74.7694861,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec584d028d05f:0xc3b3c53b6c24ed1!8m2!3d20.9177486!4d74.7694861!16s%2Fg%2F11bx1sj24r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "suyog-hospital-dhule",
@@ -11189,7 +11284,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Suyog+Hospital/@20.9037539,74.7596092,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5951b88c0ab:0x1f89674f4b58ba10!8m2!3d20.9037539!4d74.7596092!16s%2Fg%2F124yh3fk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suyog+Hospital/@20.9037539,74.7596092,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5951b88c0ab:0x1f89674f4b58ba10!8m2!3d20.9037539!4d74.7596092!16s%2Fg%2F124yh3fk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11255,10 +11350,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suyog+Hospital/@20.9037539,74.7596092,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5951b88c0ab:0x1f89674f4b58ba10!8m2!3d20.9037539!4d74.7596092!16s%2Fg%2F124yh3fk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swamini-fertility-center-dhule",
@@ -11308,7 +11404,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Swamini+Fertility+Center/@20.9127712,74.7693711,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58fe77fb23d:0x7a04c588be7e9f33!8m2!3d20.9127712!4d74.7693711!16s%2Fg%2F11dxdgg50j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swamini+Fertility+Center/@20.9127712,74.7693711,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58fe77fb23d:0x7a04c588be7e9f33!8m2!3d20.9127712!4d74.7693711!16s%2Fg%2F11dxdgg50j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11377,7 +11473,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swamini+Fertility+Center/@20.9127712,74.7693711,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec58fe77fb23d:0x7a04c588be7e9f33!8m2!3d20.9127712!4d74.7693711!16s%2Fg%2F11dxdgg50j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thakare-hospital-deopur-dhule-dhule",
@@ -11425,7 +11522,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Thakare+Hospital,Deopur+Dhule/@20.9157738,74.7709772,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5856cf505b5:0xe4992861cc4f47f7!8m2!3d20.9157738!4d74.7709772!16s%2Fg%2F11g6p3_nn6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thakare+Hospital,Deopur+Dhule/@20.9157738,74.7709772,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5856cf505b5:0xe4992861cc4f47f7!8m2!3d20.9157738!4d74.7709772!16s%2Fg%2F11g6p3_nn6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11494,7 +11591,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thakare+Hospital,Deopur+Dhule/@20.9157738,74.7709772,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5856cf505b5:0xe4992861cc4f47f7!8m2!3d20.9157738!4d74.7709772!16s%2Fg%2F11g6p3_nn6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-mediclinic-dhule",
@@ -11540,7 +11638,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/The+Mediclinic/@20.9324949,74.7624513,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec573e7712b11:0x66a8d553b2332b8b!8m2!3d20.9324949!4d74.7624513!16s%2Fg%2F11fzf3jr2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Mediclinic/@20.9324949,74.7624513,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec573e7712b11:0x66a8d553b2332b8b!8m2!3d20.9324949!4d74.7624513!16s%2Fg%2F11fzf3jr2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11606,10 +11704,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Mediclinic/@20.9324949,74.7624513,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec573e7712b11:0x66a8d553b2332b8b!8m2!3d20.9324949!4d74.7624513!16s%2Fg%2F11fzf3jr2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thorat-hospital-nr-dutta",
@@ -11658,7 +11757,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/THORAT+hospital/@20.8980947,74.7646831,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5bd2931f3d9:0x55f9b5508a86959a!8m2!3d20.8980947!4d74.7646831!16s%2Fg%2F11j19nj779?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THORAT+hospital/@20.8980947,74.7646831,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5bd2931f3d9:0x55f9b5508a86959a!8m2!3d20.8980947!4d74.7646831!16s%2Fg%2F11j19nj779?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11724,10 +11823,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/THORAT+hospital/@20.8980947,74.7646831,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5bd2931f3d9:0x55f9b5508a86959a!8m2!3d20.8980947!4d74.7646831!16s%2Fg%2F11j19nj779?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tuljai-hospital-dhule",
@@ -11775,7 +11875,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Tuljai+Hospital/@20.9238098,74.7769531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5001a55a833:0x6eacaebc6a0cbc8c!8m2!3d20.9238098!4d74.7769531!16s%2Fg%2F11vyrln5y4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tuljai+Hospital/@20.9238098,74.7769531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5001a55a833:0x6eacaebc6a0cbc8c!8m2!3d20.9238098!4d74.7769531!16s%2Fg%2F11vyrln5y4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11844,7 +11944,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tuljai+Hospital/@20.9238098,74.7769531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5001a55a833:0x6eacaebc6a0cbc8c!8m2!3d20.9238098!4d74.7769531!16s%2Fg%2F11vyrln5y4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tushar-hospital-dhule",
@@ -11892,7 +11993,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Tushar+Hospital/@20.8957838,74.7651147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5ee855ae2cb:0x6d4aa90fd20fc243!8m2!3d20.8957838!4d74.7651147!16s%2Fg%2F11f03rj7c6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tushar+Hospital/@20.8957838,74.7651147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5ee855ae2cb:0x6d4aa90fd20fc243!8m2!3d20.8957838!4d74.7651147!16s%2Fg%2F11f03rj7c6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11961,7 +12062,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tushar+Hospital/@20.8957838,74.7651147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5ee855ae2cb:0x6d4aa90fd20fc243!8m2!3d20.8957838!4d74.7651147!16s%2Fg%2F11f03rj7c6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "varad-hospital-dhule",
@@ -12010,7 +12112,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Varad+hospital/@20.9133651,74.7628745,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5815f55164b:0x19396d4c60c21613!8m2!3d20.9133651!4d74.7628745!16s%2Fg%2F11fn4gy5rj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varad+hospital/@20.9133651,74.7628745,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5815f55164b:0x19396d4c60c21613!8m2!3d20.9133651!4d74.7628745!16s%2Fg%2F11fn4gy5rj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12079,7 +12181,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Varad+hospital/@20.9133651,74.7628745,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5815f55164b:0x19396d4c60c21613!8m2!3d20.9133651!4d74.7628745!16s%2Fg%2F11fn4gy5rj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yash-kidney-care-center-dhule",
@@ -12129,7 +12232,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/YASH+KIDNEY+CARE+CENTER/@20.8917964,74.7741818,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5e5ac8bfc5f:0x521d1dee2ccfc945!8m2!3d20.8917964!4d74.7741818!16s%2Fg%2F11s9jy36d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/YASH+KIDNEY+CARE+CENTER/@20.8917964,74.7741818,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5e5ac8bfc5f:0x521d1dee2ccfc945!8m2!3d20.8917964!4d74.7741818!16s%2Fg%2F11s9jy36d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -12198,7 +12301,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/YASH+KIDNEY+CARE+CENTER/@20.8917964,74.7741818,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5e5ac8bfc5f:0x521d1dee2ccfc945!8m2!3d20.8917964!4d74.7741818!16s%2Fg%2F11s9jy36d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yash-urology-hospital-dhule",
@@ -12246,7 +12350,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Yash+Urology+Hospital/@20.891782,74.7742026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f0a93519f9:0x5f3bf4d94cd4b07c!8m2!3d20.891782!4d74.7742026!16s%2Fg%2F11fzf5g_2v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yash+Urology+Hospital/@20.891782,74.7742026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f0a93519f9:0x5f3bf4d94cd4b07c!8m2!3d20.891782!4d74.7742026!16s%2Fg%2F11fzf5g_2v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -12315,7 +12419,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yash+Urology+Hospital/@20.891782,74.7742026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5f0a93519f9:0x5f3bf4d94cd4b07c!8m2!3d20.891782!4d74.7742026!16s%2Fg%2F11fzf5g_2v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhule",
@@ -12361,7 +12466,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@20.8858201,74.7590691,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5e71645ad57:0xc29232400e36645f!8m2!3d20.8858201!4d74.7590691!16s%2Fg%2F11l6tlsw8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@20.8858201,74.7590691,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5e71645ad57:0xc29232400e36645f!8m2!3d20.8858201!4d74.7590691!16s%2Fg%2F11l6tlsw8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12427,10 +12532,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@20.8858201,74.7590691,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdec5e71645ad57:0xc29232400e36645f!8m2!3d20.8858201!4d74.7590691!16s%2Fg%2F11l6tlsw8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhule",
@@ -12476,7 +12582,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%B2%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@20.9017199,74.7827614,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5fb00aa0fb:0x7fdb5d537e59887f!8m2!3d20.9017199!4d74.7827614!16s%2Fg%2F11l6tm34mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%B2%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@20.9017199,74.7827614,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5fb00aa0fb:0x7fdb5d537e59887f!8m2!3d20.9017199!4d74.7827614!16s%2Fg%2F11l6tm34mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12542,9 +12648,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%B2%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@20.9017199,74.7827614,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdecf5fb00aa0fb:0x7fdb5d537e59887f!8m2!3d20.9017199!4d74.7827614!16s%2Fg%2F11l6tm34mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

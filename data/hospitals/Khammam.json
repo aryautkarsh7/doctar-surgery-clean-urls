@@ -47,7 +47,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/9M+Fertility+by+Ankura+Hospital+-+Khammam/@17.2501248,80.1563758,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459fc1c316117:0x64093fbd99453929!8m2!3d17.2501248!4d80.1563758!16s%2Fg%2F11y_5w4gkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/9M+Fertility+by+Ankura+Hospital+-+Khammam/@17.2501248,80.1563758,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459fc1c316117:0x64093fbd99453929!8m2!3d17.2501248!4d80.1563758!16s%2Fg%2F11y_5w4gkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -113,10 +113,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/9M+Fertility+by+Ankura+Hospital+-+Khammam/@17.2501248,80.1563758,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459fc1c316117:0x64093fbd99453929!8m2!3d17.2501248!4d80.1563758!16s%2Fg%2F11y_5w4gkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aditya-ent-dental-hospital-cosmetic-and-hair-transplantation-centre-khammam",
@@ -166,7 +167,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aditya+ENT,+Dental+Hospital,+Cosmetic+and+Hair+Transplantation+Centre/@17.2501536,80.1479852,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459f101affb21:0x225dc608a99149a9!8m2!3d17.2501536!4d80.1479852!16s%2Fg%2F11rxm9bvms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditya+ENT,+Dental+Hospital,+Cosmetic+and+Hair+Transplantation+Centre/@17.2501536,80.1479852,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459f101affb21:0x225dc608a99149a9!8m2!3d17.2501536!4d80.1479852!16s%2Fg%2F11rxm9bvms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -232,10 +233,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aditya+ENT,+Dental+Hospital,+Cosmetic+and+Hair+Transplantation+Centre/@17.2501536,80.1479852,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459f101affb21:0x225dc608a99149a9!8m2!3d17.2501536!4d80.1479852!16s%2Fg%2F11rxm9bvms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aditya-hospital-khammam",
@@ -283,7 +285,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Aditya+Hospital/@17.2480413,80.1485507,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1f7e5f525:0xbdfd1ce1749a881!8m2!3d17.2480413!4d80.1485507!16s%2Fg%2F124yql2rp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditya+Hospital/@17.2480413,80.1485507,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1f7e5f525:0xbdfd1ce1749a881!8m2!3d17.2480413!4d80.1485507!16s%2Fg%2F124yql2rp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -352,7 +354,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aditya+Hospital/@17.2480413,80.1485507,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1f7e5f525:0xbdfd1ce1749a881!8m2!3d17.2480413!4d80.1485507!16s%2Fg%2F124yql2rp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ak-cosmetic-and-hair-transplantation-clinic-khammam",
@@ -401,7 +404,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AK+Cosmetic+and+Hair+Transplantation+Clinic/@17.2501794,80.1479875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34593477bee915:0x7c5cf851b5f55f0c!8m2!3d17.2501794!4d80.1479875!16s%2Fg%2F11lv_y1m9k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AK+Cosmetic+and+Hair+Transplantation+Clinic/@17.2501794,80.1479875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34593477bee915:0x7c5cf851b5f55f0c!8m2!3d17.2501794!4d80.1479875!16s%2Fg%2F11lv_y1m9k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -467,10 +470,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AK+Cosmetic+and+Hair+Transplantation+Clinic/@17.2501794,80.1479875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34593477bee915:0x7c5cf851b5f55f0c!8m2!3d17.2501794!4d80.1479875!16s%2Fg%2F11lv_y1m9k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "al-ameen-omf-dental-hospital-khammam",
@@ -518,7 +522,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Al+AMEEN+OMF+Dental+Hospital/@17.2475772,80.1512493,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d035032797:0xdf07f4cd65e857ef!8m2!3d17.2475772!4d80.1512493!16s%2Fg%2F11d_9ccgvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Al+AMEEN+OMF+Dental+Hospital/@17.2475772,80.1512493,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d035032797:0xdf07f4cd65e857ef!8m2!3d17.2475772!4d80.1512493!16s%2Fg%2F11d_9ccgvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -587,7 +591,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Al+AMEEN+OMF+Dental+Hospital/@17.2475772,80.1512493,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d035032797:0xdf07f4cd65e857ef!8m2!3d17.2475772!4d80.1512493!16s%2Fg%2F11d_9ccgvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ananya-hospital-khammam",
@@ -635,7 +640,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Ananya+Hospital/@17.2519213,80.1439543,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce7b22c0b:0x7ad60fed3bb57454!8m2!3d17.2519213!4d80.1439543!16s%2Fg%2F1tg_vhss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ananya+Hospital/@17.2519213,80.1439543,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce7b22c0b:0x7ad60fed3bb57454!8m2!3d17.2519213!4d80.1439543!16s%2Fg%2F1tg_vhss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -704,7 +709,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ananya+Hospital/@17.2519213,80.1439543,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce7b22c0b:0x7ad60fed3bb57454!8m2!3d17.2519213!4d80.1439543!16s%2Fg%2F1tg_vhss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ankura-hospital-for-women-and-children-khammam-this-is-our-new-location-khammam",
@@ -754,7 +760,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ankura+Hospital+for+Women+%26+Children+-+Khammam+(This+is+Our+New+Location)/@17.2501421,80.1563487,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cdad01525f:0x2aa46d8701140fe1!8m2!3d17.2501421!4d80.1563487!16s%2Fg%2F11d_2fzckk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ankura+Hospital+for+Women+%26+Children+-+Khammam+(This+is+Our+New+Location)/@17.2501421,80.1563487,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cdad01525f:0x2aa46d8701140fe1!8m2!3d17.2501421!4d80.1563487!16s%2Fg%2F11d_2fzckk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -823,7 +829,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ankura+Hospital+for+Women+%26+Children+-+Khammam+(This+is+Our+New+Location)/@17.2501421,80.1563487,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cdad01525f:0x2aa46d8701140fe1!8m2!3d17.2501421!4d80.1563487!16s%2Fg%2F11d_2fzckk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arka-hospital-khammam",
@@ -872,7 +879,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Arka+Hospital/@17.2524336,80.1450411,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345988866a2759:0x74136a50b11395d6!8m2!3d17.2524336!4d80.1450411!16s%2Fg%2F11pzy84n44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arka+Hospital/@17.2524336,80.1450411,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345988866a2759:0x74136a50b11395d6!8m2!3d17.2524336!4d80.1450411!16s%2Fg%2F11pzy84n44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -941,7 +948,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arka+Hospital/@17.2524336,80.1450411,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345988866a2759:0x74136a50b11395d6!8m2!3d17.2524336!4d80.1450411!16s%2Fg%2F11pzy84n44?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "asthra-surgical-and-dental-clinic-khammam",
@@ -989,7 +997,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/ASTHRA+SURGICAL+%26DENTAL+CLINIC/@17.2270501,80.1555858,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3457257c7339f9:0x41726c161d00d572!8m2!3d17.2270501!4d80.1555858!16s%2Fg%2F11kb0_lxfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASTHRA+SURGICAL+%26DENTAL+CLINIC/@17.2270501,80.1555858,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3457257c7339f9:0x41726c161d00d572!8m2!3d17.2270501!4d80.1555858!16s%2Fg%2F11kb0_lxfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1058,7 +1066,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ASTHRA+SURGICAL+%26DENTAL+CLINIC/@17.2270501,80.1555858,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3457257c7339f9:0x41726c161d00d572!8m2!3d17.2270501!4d80.1555858!16s%2Fg%2F11kb0_lxfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "avani-hospital-for-women-and-children-khammam",
@@ -1108,7 +1117,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Avani+Hospital+for+Women+and+Children/@17.2515123,80.1462397,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345900058e7d2d:0x89548c7cda672398!8m2!3d17.2515123!4d80.1462397!16s%2Fg%2F11w_lgkcpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avani+Hospital+for+Women+and+Children/@17.2515123,80.1462397,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345900058e7d2d:0x89548c7cda672398!8m2!3d17.2515123!4d80.1462397!16s%2Fg%2F11w_lgkcpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1177,7 +1186,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Avani+Hospital+for+Women+and+Children/@17.2515123,80.1462397,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345900058e7d2d:0x89548c7cda672398!8m2!3d17.2515123!4d80.1462397!16s%2Fg%2F11w_lgkcpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "belief-hospitals-women-and-children-s-hospital-pregnancy-and-normal-delivery-fertility-and-ivf-center-in-khammam-khammam",
@@ -1230,7 +1240,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Belief+Hospitals+%7C+Women+and+Children%E2%80%99s+Hospital+%7C+Pregnancy+and+Normal+delivery%7C+Fertility+and+IVF+center+in+Khammam./@17.2479156,80.1477374,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459b193cb522f:0x97fbd511d84e632!8m2!3d17.2479156!4d80.1477374!16s%2Fg%2F1hd_9xs11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Belief+Hospitals+%7C+Women+and+Children%E2%80%99s+Hospital+%7C+Pregnancy+and+Normal+delivery%7C+Fertility+and+IVF+center+in+Khammam./@17.2479156,80.1477374,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459b193cb522f:0x97fbd511d84e632!8m2!3d17.2479156!4d80.1477374!16s%2Fg%2F1hd_9xs11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1299,7 +1309,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Belief+Hospitals+%7C+Women+and+Children%E2%80%99s+Hospital+%7C+Pregnancy+and+Normal+delivery%7C+Fertility+and+IVF+center+in+Khammam./@17.2479156,80.1477374,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459b193cb522f:0x97fbd511d84e632!8m2!3d17.2479156!4d80.1477374!16s%2Fg%2F1hd_9xs11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhargav-super-specality-dental-hospital-advanced-implant-center-khammam",
@@ -1348,7 +1359,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/BHARGAV+SUPER+SPECALITY+DENTAL+HOSPITAL-+ADVANCED+IMPLANT+CENTER/@17.2479343,80.1489426,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1f6e2c7ed:0xab0de997939854f9!8m2!3d17.2479343!4d80.1489426!16s%2Fg%2F11dymqmrs3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BHARGAV+SUPER+SPECALITY+DENTAL+HOSPITAL-+ADVANCED+IMPLANT+CENTER/@17.2479343,80.1489426,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1f6e2c7ed:0xab0de997939854f9!8m2!3d17.2479343!4d80.1489426!16s%2Fg%2F11dymqmrs3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1414,10 +1425,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BHARGAV+SUPER+SPECALITY+DENTAL+HOSPITAL-+ADVANCED+IMPLANT+CENTER/@17.2479343,80.1489426,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1f6e2c7ed:0xab0de997939854f9!8m2!3d17.2479343!4d80.1489426!16s%2Fg%2F11dymqmrs3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "breathe-chest-and-general-hospital-bhuranpuram",
@@ -1465,7 +1477,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Breathe+Chest+and+General+hospital/@17.2523568,80.1409081,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590f8f5beb59:0x2dfad887ff134758!8m2!3d17.2523568!4d80.1409081!16s%2Fg%2F11h6q4prmj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Breathe+Chest+and+General+hospital/@17.2523568,80.1409081,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590f8f5beb59:0x2dfad887ff134758!8m2!3d17.2523568!4d80.1409081!16s%2Fg%2F11h6q4prmj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1534,7 +1546,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Breathe+Chest+and+General+hospital/@17.2523568,80.1409081,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590f8f5beb59:0x2dfad887ff134758!8m2!3d17.2523568!4d80.1409081!16s%2Fg%2F11h6q4prmj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "brinda-hospitals-khammam-khammam",
@@ -1583,7 +1596,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Brinda+Hospitals+khammam/data=!4m7!3m6!1s0x3a34592813d11acb:0xae7f0ab60e47a705!8m2!3d17.2530181!4d80.1431611!16s%2Fg%2F11k350_s7g!19sChIJyxrREyhZNDoRBadHDrYKf64?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brinda+Hospitals+khammam/data=!4m7!3m6!1s0x3a34592813d11acb:0xae7f0ab60e47a705!8m2!3d17.2530181!4d80.1431611!16s%2Fg%2F11k350_s7g!19sChIJyxrREyhZNDoRBadHDrYKf64?authuser=0&hl=en&rclk=1"
@@ -1652,7 +1665,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Brinda+Hospitals+khammam/data=!4m7!3m6!1s0x3a34592813d11acb:0xae7f0ab60e47a705!8m2!3d17.2530181!4d80.1431611!16s%2Fg%2F11k350_s7g!19sChIJyxrREyhZNDoRBadHDrYKf64?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "buggaveeti-dental-hospital-khammam",
@@ -1700,7 +1714,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Buggaveeti+Dental+hospital/data=!4m7!3m6!1s0x3a3459ca75b296cd:0x694d2870399f31bf!8m2!3d17.2514574!4d80.1627577!16s%2Fg%2F11s47qfd0c!19sChIJzZaydcpZNDoRvzGfOXAoTWk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Buggaveeti+Dental+hospital/data=!4m7!3m6!1s0x3a3459ca75b296cd:0x694d2870399f31bf!8m2!3d17.2514574!4d80.1627577!16s%2Fg%2F11s47qfd0c!19sChIJzZaydcpZNDoRvzGfOXAoTWk?authuser=0&hl=en&rclk=1"
@@ -1769,7 +1783,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Buggaveeti+Dental+hospital/data=!4m7!3m6!1s0x3a3459ca75b296cd:0x694d2870399f31bf!8m2!3d17.2514574!4d80.1627577!16s%2Fg%2F11s47qfd0c!19sChIJzZaydcpZNDoRvzGfOXAoTWk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "buggaveti-ent-hospital-khammam",
@@ -1817,7 +1832,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Buggaveti+ENT+hospital/@17.2477451,80.1498867,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1ea0d87ff:0xb38df7ac80744591!8m2!3d17.2477451!4d80.1498867!16s%2Fg%2F124yf9dkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Buggaveti+ENT+hospital/@17.2477451,80.1498867,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1ea0d87ff:0xb38df7ac80744591!8m2!3d17.2477451!4d80.1498867!16s%2Fg%2F124yf9dkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1886,7 +1901,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Buggaveti+ENT+hospital/@17.2477451,80.1498867,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1ea0d87ff:0xb38df7ac80744591!8m2!3d17.2477451!4d80.1498867!16s%2Fg%2F124yf9dkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chandu-ent-hospital-khammam",
@@ -1934,7 +1950,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Chandu+ENT+Hospital/@17.2513646,80.1438316,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345944fedb347b:0x2e2d9a352d0abb99!8m2!3d17.2513646!4d80.1438316!16s%2Fg%2F11k545yqw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandu+ENT+Hospital/@17.2513646,80.1438316,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345944fedb347b:0x2e2d9a352d0abb99!8m2!3d17.2513646!4d80.1438316!16s%2Fg%2F11k545yqw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2003,7 +2019,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chandu+ENT+Hospital/@17.2513646,80.1438316,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345944fedb347b:0x2e2d9a352d0abb99!8m2!3d17.2513646!4d80.1438316!16s%2Fg%2F11k545yqw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cure-emergency-hospital-khammam",
@@ -2051,7 +2068,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Cure+Emergency+Hospital/@17.2522711,80.1443356,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce7e49ef5:0x3e10a93cf93e2026!8m2!3d17.2522711!4d80.1443356!16s%2Fg%2F1vzg0nsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cure+Emergency+Hospital/@17.2522711,80.1443356,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce7e49ef5:0x3e10a93cf93e2026!8m2!3d17.2522711!4d80.1443356!16s%2Fg%2F1vzg0nsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2120,7 +2137,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cure+Emergency+Hospital/@17.2522711,80.1443356,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce7e49ef5:0x3e10a93cf93e2026!8m2!3d17.2522711!4d80.1443356!16s%2Fg%2F1vzg0nsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cvk-hospitals-khammam",
@@ -2169,7 +2187,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CVK+Hospitals/@17.2509232,80.1463473,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cda5555555:0xf0d1f04a3c1a9c38!8m2!3d17.2509232!4d80.1463473!16s%2Fg%2F11y3zwm56l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CVK+Hospitals/@17.2509232,80.1463473,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cda5555555:0xf0d1f04a3c1a9c38!8m2!3d17.2509232!4d80.1463473!16s%2Fg%2F11y3zwm56l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2235,10 +2253,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CVK+Hospitals/@17.2509232,80.1463473,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cda5555555:0xf0d1f04a3c1a9c38!8m2!3d17.2509232!4d80.1463473!16s%2Fg%2F11y3zwm56l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "durbhakula-dental-clinic-khammam",
@@ -2286,7 +2305,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Durbhakula+Dental+Clinic/@17.2485534,80.1495791,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1e9f4c751:0x7e9f9e8bc4d5e74f!8m2!3d17.2485534!4d80.1495791!16s%2Fg%2F11cs4yw3nd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Durbhakula+Dental+Clinic/@17.2485534,80.1495791,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1e9f4c751:0x7e9f9e8bc4d5e74f!8m2!3d17.2485534!4d80.1495791!16s%2Fg%2F11cs4yw3nd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2355,7 +2374,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Durbhakula+Dental+Clinic/@17.2485534,80.1495791,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1e9f4c751:0x7e9f9e8bc4d5e74f!8m2!3d17.2485534!4d80.1495791!16s%2Fg%2F11cs4yw3nd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ever-smile-dental-clinic-khammam",
@@ -2401,7 +2421,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Ever+smile+dental+clinic/@17.2320388,80.1505757,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34570156ebb5e9:0xf043e48d20e7c8da!8m2!3d17.2320388!4d80.1505757!16s%2Fg%2F11trwn9cdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ever+smile+dental+clinic/@17.2320388,80.1505757,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34570156ebb5e9:0xf043e48d20e7c8da!8m2!3d17.2320388!4d80.1505757!16s%2Fg%2F11trwn9cdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2467,10 +2487,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ever+smile+dental+clinic/@17.2320388,80.1505757,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34570156ebb5e9:0xf043e48d20e7c8da!8m2!3d17.2320388!4d80.1505757!16s%2Fg%2F11trwn9cdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "golden-dental-care-khammam",
@@ -2518,7 +2539,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Golden+Dental+Care/@17.251601,80.159764,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459c362535691:0x4ad890a653835f04!8m2!3d17.251601!4d80.159764!16s%2Fg%2F11fx8z47lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Golden+Dental+Care/@17.251601,80.159764,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459c362535691:0x4ad890a653835f04!8m2!3d17.251601!4d80.159764!16s%2Fg%2F11fx8z47lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2587,7 +2608,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Golden+Dental+Care/@17.251601,80.159764,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459c362535691:0x4ad890a653835f04!8m2!3d17.251601!4d80.159764!16s%2Fg%2F11fx8z47lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gorkey-hospital-khammam",
@@ -2635,7 +2657,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gorkey+Hospital/@17.2494266,80.1460402,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd85900a59:0xd3de8477f0740b2e!8m2!3d17.2494266!4d80.1460402!16s%2Fg%2F12hkt8q5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gorkey+Hospital/@17.2494266,80.1460402,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd85900a59:0xd3de8477f0740b2e!8m2!3d17.2494266!4d80.1460402!16s%2Fg%2F12hkt8q5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2701,10 +2723,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gorkey+Hospital/@17.2494266,80.1460402,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd85900a59:0xd3de8477f0740b2e!8m2!3d17.2494266!4d80.1460402!16s%2Fg%2F12hkt8q5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-general-hospital-khammam",
@@ -2752,7 +2775,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Government+General+Hospital/@17.249359,80.1520135,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cfcb8e93b9:0x5dbfb9bd3d0996c3!8m2!3d17.249359!4d80.1520135!16s%2Fg%2F1w9x_jd6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+General+Hospital/@17.249359,80.1520135,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cfcb8e93b9:0x5dbfb9bd3d0996c3!8m2!3d17.249359!4d80.1520135!16s%2Fg%2F1w9x_jd6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2821,7 +2844,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+General+Hospital/@17.249359,80.1520135,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cfcb8e93b9:0x5dbfb9bd3d0996c3!8m2!3d17.249359!4d80.1520135!16s%2Fg%2F1w9x_jd6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "grace-general-hospital-konijerla",
@@ -2870,7 +2894,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Grace+General+Hospital/@17.2294395,80.2605116,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3451857436eadd:0x3d8b5f2118c9b81b!8m2!3d17.2294395!4d80.2605116!16s%2Fg%2F11vrsp083q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Grace+General+Hospital/@17.2294395,80.2605116,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3451857436eadd:0x3d8b5f2118c9b81b!8m2!3d17.2294395!4d80.2605116!16s%2Fg%2F11vrsp083q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2939,7 +2963,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Grace+General+Hospital/@17.2294395,80.2605116,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3451857436eadd:0x3d8b5f2118c9b81b!8m2!3d17.2294395!4d80.2605116!16s%2Fg%2F11vrsp083q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "greeshma-skin-and-hair-clinic-khammam",
@@ -2987,7 +3012,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Greeshma+Skin+%26+Hair+Clinic/@17.2433706,80.1498661,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459329a6cd805:0xae66914f24560702!8m2!3d17.2433706!4d80.1498661!16s%2Fg%2F11ytsbb2vb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Greeshma+Skin+%26+Hair+Clinic/@17.2433706,80.1498661,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459329a6cd805:0xae66914f24560702!8m2!3d17.2433706!4d80.1498661!16s%2Fg%2F11ytsbb2vb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3053,10 +3078,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Greeshma+Skin+%26+Hair+Clinic/@17.2433706,80.1498661,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459329a6cd805:0xae66914f24560702!8m2!3d17.2433706!4d80.1498661!16s%2Fg%2F11ytsbb2vb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gurram-dental-care-khammam",
@@ -3104,7 +3130,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Gurram+Dental+Care/@17.2469471,80.1516584,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d04c091ad9:0x52d278ac655c5427!8m2!3d17.2469471!4d80.1516584!16s%2Fg%2F11b6ggznf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurram+Dental+Care/@17.2469471,80.1516584,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d04c091ad9:0x52d278ac655c5427!8m2!3d17.2469471!4d80.1516584!16s%2Fg%2F11b6ggznf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3173,7 +3199,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gurram+Dental+Care/@17.2469471,80.1516584,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d04c091ad9:0x52d278ac655c5427!8m2!3d17.2469471!4d80.1516584!16s%2Fg%2F11b6ggznf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "happy-dental-clinic-khammam",
@@ -3221,7 +3248,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Happy+Dental+Clinic/@17.2396547,80.1439604,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345977941ce085:0x826b39f0fb5dce81!8m2!3d17.2396547!4d80.1439604!16s%2Fg%2F11sc12vltr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Happy+Dental+Clinic/@17.2396547,80.1439604,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345977941ce085:0x826b39f0fb5dce81!8m2!3d17.2396547!4d80.1439604!16s%2Fg%2F11sc12vltr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3290,7 +3317,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Happy+Dental+Clinic/@17.2396547,80.1439604,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345977941ce085:0x826b39f0fb5dce81!8m2!3d17.2396547!4d80.1439604!16s%2Fg%2F11sc12vltr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "haritha-mother-and-childrens-ivf-centre-khammam",
@@ -3340,7 +3368,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Haritha+Mother+and+Childrens+IVF+Centre/@17.2461165,80.1367714,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34582e81429c33:0xd47021f8b154beac!8m2!3d17.2461165!4d80.1367714!16s%2Fg%2F11b6bff_zw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Haritha+Mother+and+Childrens+IVF+Centre/@17.2461165,80.1367714,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34582e81429c33:0xd47021f8b154beac!8m2!3d17.2461165!4d80.1367714!16s%2Fg%2F11b6bff_zw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3409,7 +3437,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Haritha+Mother+and+Childrens+IVF+Centre/@17.2461165,80.1367714,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34582e81429c33:0xd47021f8b154beac!8m2!3d17.2461165!4d80.1367714!16s%2Fg%2F11b6bff_zw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healthify-hospital-khammam-khammam",
@@ -3457,7 +3486,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Healthify+Hospital+khammam/@17.2474185,80.1496544,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34594797e9bc63:0x99fa5e8ac276e459!8m2!3d17.2474185!4d80.1496544!16s%2Fg%2F11shn4c83s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthify+Hospital+khammam/@17.2474185,80.1496544,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34594797e9bc63:0x99fa5e8ac276e459!8m2!3d17.2474185!4d80.1496544!16s%2Fg%2F11shn4c83s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3523,10 +3552,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healthify+Hospital+khammam/@17.2474185,80.1496544,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34594797e9bc63:0x99fa5e8ac276e459!8m2!3d17.2474185!4d80.1496544!16s%2Fg%2F11shn4c83s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "homeocare-international-khammam-best-homeopathic-clinic-in-khammam-khammam",
@@ -3575,7 +3605,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Homeocare+International+Khammam+%7C+Best+Homeopathic+Clinic+In+Khammam/@17.2510606,80.1429324,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34594a1a70a01b:0x8c3d103bd08d3a3a!8m2!3d17.2510606!4d80.1429324!16s%2Fg%2F11f6g1rzk6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Homeocare+International+Khammam+%7C+Best+Homeopathic+Clinic+In+Khammam/@17.2510606,80.1429324,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34594a1a70a01b:0x8c3d103bd08d3a3a!8m2!3d17.2510606!4d80.1429324!16s%2Fg%2F11f6g1rzk6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3644,7 +3674,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Homeocare+International+Khammam+%7C+Best+Homeopathic+Clinic+In+Khammam/@17.2510606,80.1429324,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34594a1a70a01b:0x8c3d103bd08d3a3a!8m2!3d17.2510606!4d80.1429324!16s%2Fg%2F11f6g1rzk6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indus-hospitals-khammam",
@@ -3693,7 +3724,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/INDUS+HOSPITALS/data=!4m7!3m6!1s0x3a345993876cb915:0xc10dec4e9496a471!8m2!3d17.2526334!4d80.1478312!16s%2Fg%2F11h0xq3f1h!19sChIJFblsh5NZNDoRcaSWlE7sDcE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/INDUS+HOSPITALS/data=!4m7!3m6!1s0x3a345993876cb915:0xc10dec4e9496a471!8m2!3d17.2526334!4d80.1478312!16s%2Fg%2F11h0xq3f1h!19sChIJFblsh5NZNDoRcaSWlE7sDcE?authuser=0&hl=en&rclk=1"
@@ -3762,7 +3793,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/INDUS+HOSPITALS/data=!4m7!3m6!1s0x3a345993876cb915:0xc10dec4e9496a471!8m2!3d17.2526334!4d80.1478312!16s%2Fg%2F11h0xq3f1h!19sChIJFblsh5NZNDoRcaSWlE7sDcE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jaanu-general-hospital-khammam",
@@ -3810,7 +3842,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Jaanu+General+Hospital/@17.2509836,80.1453597,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d8382979c9:0x47c32c3c724fb849!8m2!3d17.2509836!4d80.1453597!16s%2Fg%2F11k39_99cy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaanu+General+Hospital/@17.2509836,80.1453597,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d8382979c9:0x47c32c3c724fb849!8m2!3d17.2509836!4d80.1453597!16s%2Fg%2F11k39_99cy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3876,10 +3908,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jaanu+General+Hospital/@17.2509836,80.1453597,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d8382979c9:0x47c32c3c724fb849!8m2!3d17.2509836!4d80.1453597!16s%2Fg%2F11k39_99cy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jagruth-hospitals-khammam",
@@ -3927,7 +3960,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Jagruth+hospitals/data=!4m7!3m6!1s0x3a3459d2e9adf171:0x8a2e0aa90cd1ff94!8m2!3d17.2496529!4d80.1470631!16s%2Fg%2F11fhv3v110!19sChIJcfGt6dJZNDoRlP_RDKkKLoo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jagruth+hospitals/data=!4m7!3m6!1s0x3a3459d2e9adf171:0x8a2e0aa90cd1ff94!8m2!3d17.2496529!4d80.1470631!16s%2Fg%2F11fhv3v110!19sChIJcfGt6dJZNDoRlP_RDKkKLoo?authuser=0&hl=en&rclk=1"
@@ -3996,7 +4029,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jagruth+hospitals/data=!4m7!3m6!1s0x3a3459d2e9adf171:0x8a2e0aa90cd1ff94!8m2!3d17.2496529!4d80.1470631!16s%2Fg%2F11fhv3v110!19sChIJcfGt6dJZNDoRlP_RDKkKLoo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "khammam-gastro-hospital-khammam",
@@ -4046,7 +4080,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Khammam+Gastro+Hospital/data=!4m7!3m6!1s0x3a34594f4c7ab8f9:0x6aee7f434041f408!8m2!3d17.2521081!4d80.1403859!16s%2Fg%2F11z6vzcfdd!19sChIJ-bh6TE9ZNDoRCPRBQEN_7mo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khammam+Gastro+Hospital/data=!4m7!3m6!1s0x3a34594f4c7ab8f9:0x6aee7f434041f408!8m2!3d17.2521081!4d80.1403859!16s%2Fg%2F11z6vzcfdd!19sChIJ-bh6TE9ZNDoRCPRBQEN_7mo?authuser=0&hl=en&rclk=1"
@@ -4115,7 +4149,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khammam+Gastro+Hospital/data=!4m7!3m6!1s0x3a34594f4c7ab8f9:0x6aee7f434041f408!8m2!3d17.2521081!4d80.1403859!16s%2Fg%2F11z6vzcfdd!19sChIJ-bh6TE9ZNDoRCPRBQEN_7mo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "khammam-heart-hospital-khammam",
@@ -4164,7 +4199,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/Khammam+Heart+Hospital/@17.252939,80.1408194,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3458330f7e804b:0xd3a874da2a09e81d!8m2!3d17.252939!4d80.1408194!16s%2Fg%2F1tgxrz27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khammam+Heart+Hospital/@17.252939,80.1408194,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3458330f7e804b:0xd3a874da2a09e81d!8m2!3d17.252939!4d80.1408194!16s%2Fg%2F1tgxrz27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4233,7 +4268,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khammam+Heart+Hospital/@17.252939,80.1408194,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3458330f7e804b:0xd3a874da2a09e81d!8m2!3d17.252939!4d80.1408194!16s%2Fg%2F1tgxrz27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khavyaa-hospitals-khammam",
@@ -4283,7 +4319,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Khavyaa+Hospitals/@17.2521516,80.1387063,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395d954f258675:0xdfe533db2cf0dcdd!8m2!3d17.2521516!4d80.1387063!16s%2Fg%2F11fnnsj702?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khavyaa+Hospitals/@17.2521516,80.1387063,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395d954f258675:0xdfe533db2cf0dcdd!8m2!3d17.2521516!4d80.1387063!16s%2Fg%2F11fnnsj702?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4352,7 +4388,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khavyaa+Hospitals/@17.2521516,80.1387063,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395d954f258675:0xdfe533db2cf0dcdd!8m2!3d17.2521516!4d80.1387063!16s%2Fg%2F11fnnsj702?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lavanya-fertility-center-khammam",
@@ -4403,7 +4440,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lavanya+Fertility+Center/@17.2520458,80.1445925,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34592a80baf9f7:0x636698d8e1490265!8m2!3d17.2520458!4d80.1445925!16s%2Fg%2F11vhrgd62x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lavanya+Fertility+Center/@17.2520458,80.1445925,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34592a80baf9f7:0x636698d8e1490265!8m2!3d17.2520458!4d80.1445925!16s%2Fg%2F11vhrgd62x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4469,10 +4506,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lavanya+Fertility+Center/@17.2520458,80.1445925,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34592a80baf9f7:0x636698d8e1490265!8m2!3d17.2520458!4d80.1445925!16s%2Fg%2F11vhrgd62x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "little-star-childrens-hospital-khammam",
@@ -4521,7 +4559,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Little+Star+Childrens+Hospital/@17.2521664,80.1449431,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34591bbbec608d:0xb0dd1b6aa1dc4960!8m2!3d17.2521664!4d80.1449431!16s%2Fg%2F11ry75rn7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Little+Star+Childrens+Hospital/@17.2521664,80.1449431,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34591bbbec608d:0xb0dd1b6aa1dc4960!8m2!3d17.2521664!4d80.1449431!16s%2Fg%2F11ry75rn7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4590,7 +4628,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Little+Star+Childrens+Hospital/@17.2521664,80.1449431,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34591bbbec608d:0xb0dd1b6aa1dc4960!8m2!3d17.2521664!4d80.1449431!16s%2Fg%2F11ry75rn7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lotus-hospital-khammam-best-hospital-in-khammam-khammam",
@@ -4638,7 +4677,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Lotus+Hospital+Khammam+%7C+Best+Hospital+in+Khammam/@17.2521685,80.1446397,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33452b0a2367a3:0x43ae920a040570d2!8m2!3d17.2521685!4d80.1446397!16s%2Fg%2F11rzfgf_lv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lotus+Hospital+Khammam+%7C+Best+Hospital+in+Khammam/@17.2521685,80.1446397,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33452b0a2367a3:0x43ae920a040570d2!8m2!3d17.2521685!4d80.1446397!16s%2Fg%2F11rzfgf_lv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4707,7 +4746,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lotus+Hospital+Khammam+%7C+Best+Hospital+in+Khammam/@17.2521685,80.1446397,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33452b0a2367a3:0x43ae920a040570d2!8m2!3d17.2521685!4d80.1446397!16s%2Fg%2F11rzfgf_lv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lumbini-hospital-khammam",
@@ -4755,7 +4795,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Lumbini+Hospital/data=!4m7!3m6!1s0x3a34583259464a3d:0x469bcbd651551f99!8m2!3d17.2502976!4d80.1398283!16s%2Fg%2F11cm4b6493!19sChIJPUpGWTJYNDoRmR9VUdbLm0Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lumbini+Hospital/data=!4m7!3m6!1s0x3a34583259464a3d:0x469bcbd651551f99!8m2!3d17.2502976!4d80.1398283!16s%2Fg%2F11cm4b6493!19sChIJPUpGWTJYNDoRmR9VUdbLm0Y?authuser=0&hl=en&rclk=1"
@@ -4824,7 +4864,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lumbini+Hospital/data=!4m7!3m6!1s0x3a34583259464a3d:0x469bcbd651551f99!8m2!3d17.2502976!4d80.1398283!16s%2Fg%2F11cm4b6493!19sChIJPUpGWTJYNDoRmR9VUdbLm0Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "m-s-dental-hospital-khammam",
@@ -4872,7 +4913,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/M+S+Dental+Hospital/@17.2379761,80.1565625,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459b5c61176b3:0x21f322ce9b398a96!8m2!3d17.2379761!4d80.1565625!16s%2Fg%2F11f90_wt1p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M+S+Dental+Hospital/@17.2379761,80.1565625,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459b5c61176b3:0x21f322ce9b398a96!8m2!3d17.2379761!4d80.1565625!16s%2Fg%2F11f90_wt1p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4938,10 +4979,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M+S+Dental+Hospital/@17.2379761,80.1565625,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459b5c61176b3:0x21f322ce9b398a96!8m2!3d17.2379761!4d80.1565625!16s%2Fg%2F11f90_wt1p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mamata-dental-college-khammam",
@@ -4991,7 +5033,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mamata+Dental+College/@17.2382026,80.1626712,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459df813b0693:0xde2377ae62cf5c46!8m2!3d17.2382026!4d80.1626712!16s%2Fg%2F11btz2y62d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mamata+Dental+College/@17.2382026,80.1626712,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459df813b0693:0xde2377ae62cf5c46!8m2!3d17.2382026!4d80.1626712!16s%2Fg%2F11btz2y62d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5060,7 +5102,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mamata+Dental+College/@17.2382026,80.1626712,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459df813b0693:0xde2377ae62cf5c46!8m2!3d17.2382026!4d80.1626712!16s%2Fg%2F11btz2y62d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mamata-dental-hospital-khammam",
@@ -5110,7 +5153,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mamata+Dental+Hospital/@17.2380611,80.1621623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459966bfde219:0xebc29b0168e78fb2!8m2!3d17.2380611!4d80.1621623!16s%2Fg%2F11hzwf3qst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mamata+Dental+Hospital/@17.2380611,80.1621623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459966bfde219:0xebc29b0168e78fb2!8m2!3d17.2380611!4d80.1621623!16s%2Fg%2F11hzwf3qst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5179,7 +5222,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mamata+Dental+Hospital/@17.2380611,80.1621623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459966bfde219:0xebc29b0168e78fb2!8m2!3d17.2380611!4d80.1621623!16s%2Fg%2F11hzwf3qst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mamata-general-hospital-khammam",
@@ -5228,7 +5272,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mamata+General+Hospital/@17.2387986,80.1606364,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345761df329c5f:0xaa3ea22875888471!8m2!3d17.2387986!4d80.1606364!16s%2Fg%2F1tdh6wby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mamata+General+Hospital/@17.2387986,80.1606364,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345761df329c5f:0xaa3ea22875888471!8m2!3d17.2387986!4d80.1606364!16s%2Fg%2F1tdh6wby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5297,7 +5341,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mamata+General+Hospital/@17.2387986,80.1606364,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345761df329c5f:0xaa3ea22875888471!8m2!3d17.2387986!4d80.1606364!16s%2Fg%2F1tdh6wby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manaswini-neuro-psychiatric-clinic-and-counseling-centre-kotak-mahindra-bank-building",
@@ -5346,7 +5391,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Manaswini+Neuro+Psychiatric+Clinic+and+Counseling+Centre/data=!4m7!3m6!1s0x3a3459d5fe68ec39:0xb0dbc2eb81ec3f84!8m2!3d17.2471203!4d80.1516475!16s%2Fg%2F11ry5_c518!19sChIJOexo_tVZNDoRhD_sgevC27A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manaswini+Neuro+Psychiatric+Clinic+and+Counseling+Centre/data=!4m7!3m6!1s0x3a3459d5fe68ec39:0xb0dbc2eb81ec3f84!8m2!3d17.2471203!4d80.1516475!16s%2Fg%2F11ry5_c518!19sChIJOexo_tVZNDoRhD_sgevC27A?authuser=0&hl=en&rclk=1"
@@ -5415,7 +5460,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manaswini+Neuro+Psychiatric+Clinic+and+Counseling+Centre/data=!4m7!3m6!1s0x3a3459d5fe68ec39:0xb0dbc2eb81ec3f84!8m2!3d17.2471203!4d80.1516475!16s%2Fg%2F11ry5_c518!19sChIJOexo_tVZNDoRhD_sgevC27A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mathrushree-fertility-centre-khammam",
@@ -5465,7 +5511,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mathrushree+Fertility+Centre/@17.2520303,80.1387191,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833b812da2d:0x563511abc24b717e!8m2!3d17.2520303!4d80.1387191!16s%2Fg%2F11c1vmc98k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mathrushree+Fertility+Centre/@17.2520303,80.1387191,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833b812da2d:0x563511abc24b717e!8m2!3d17.2520303!4d80.1387191!16s%2Fg%2F11c1vmc98k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5534,7 +5580,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mathrushree+Fertility+Centre/@17.2520303,80.1387191,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833b812da2d:0x563511abc24b717e!8m2!3d17.2520303!4d80.1387191!16s%2Fg%2F11c1vmc98k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medha-hospital-khammam",
@@ -5582,7 +5629,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Medha+Hospital/data=!4m7!3m6!1s0x3a34598356d5067b:0x97fd8dd3da230fe1!8m2!3d17.2515495!4d80.1440541!16s%2Fg%2F11lgv2mn90!19sChIJewbVVoNZNDoR4Q8j2tON_Zc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medha+Hospital/data=!4m7!3m6!1s0x3a34598356d5067b:0x97fd8dd3da230fe1!8m2!3d17.2515495!4d80.1440541!16s%2Fg%2F11lgv2mn90!19sChIJewbVVoNZNDoR4Q8j2tON_Zc?authuser=0&hl=en&rclk=1"
@@ -5651,7 +5698,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medha+Hospital/data=!4m7!3m6!1s0x3a34598356d5067b:0x97fd8dd3da230fe1!8m2!3d17.2515495!4d80.1440541!16s%2Fg%2F11lgv2mn90!19sChIJewbVVoNZNDoR4Q8j2tON_Zc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "metro-hospital-khammam",
@@ -5699,7 +5747,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Metro+Hospital/@17.25184,80.1449405,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e816e7db41:0x4e3337ab3aa0c709!8m2!3d17.25184!4d80.1449405!16s%2Fg%2F11tkbj9ll6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metro+Hospital/@17.25184,80.1449405,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e816e7db41:0x4e3337ab3aa0c709!8m2!3d17.25184!4d80.1449405!16s%2Fg%2F11tkbj9ll6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5768,7 +5816,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metro+Hospital/@17.25184,80.1449405,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e816e7db41:0x4e3337ab3aa0c709!8m2!3d17.25184!4d80.1449405!16s%2Fg%2F11tkbj9ll6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mnr-hospital-khammam",
@@ -5816,7 +5865,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/MNR+HOSPITAL/data=!4m7!3m6!1s0x3a3459fb6ad4e1bf:0x87f9f455e5e55abf!8m2!3d17.2503824!4d80.1477951!16s%2Fg%2F11y5rpr7dn!19sChIJv-HUavtZNDoRv1rl5VX0-Yc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MNR+HOSPITAL/data=!4m7!3m6!1s0x3a3459fb6ad4e1bf:0x87f9f455e5e55abf!8m2!3d17.2503824!4d80.1477951!16s%2Fg%2F11y5rpr7dn!19sChIJv-HUavtZNDoRv1rl5VX0-Yc?authuser=0&hl=en&rclk=1"
@@ -5885,7 +5934,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MNR+HOSPITAL/data=!4m7!3m6!1s0x3a3459fb6ad4e1bf:0x87f9f455e5e55abf!8m2!3d17.2503824!4d80.1477951!16s%2Fg%2F11y5rpr7dn!19sChIJv-HUavtZNDoRv1rl5VX0-Yc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nandana-general-and-chest-hospital-khammam",
@@ -5933,7 +5983,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Nandana+general+%26+Chest+Hospital/@17.2519159,80.1440301,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34598b3e504901:0x30f0a1c433c5f5ee!8m2!3d17.2519159!4d80.1440301!16s%2Fg%2F11xw6r9plx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nandana+general+%26+Chest+Hospital/@17.2519159,80.1440301,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34598b3e504901:0x30f0a1c433c5f5ee!8m2!3d17.2519159!4d80.1440301!16s%2Fg%2F11xw6r9plx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6002,7 +6052,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nandana+general+%26+Chest+Hospital/@17.2519159,80.1440301,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34598b3e504901:0x30f0a1c433c5f5ee!8m2!3d17.2519159!4d80.1440301!16s%2Fg%2F11xw6r9plx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-hope-hospital-khammam",
@@ -6051,7 +6102,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/NEW+HOPE+HOSPITAL/@17.2477038,80.1479106,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34596672aa9d67:0xc6b1fb7d4495ed1e!8m2!3d17.2477038!4d80.1479106!16s%2Fg%2F11qnks1d7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEW+HOPE+HOSPITAL/@17.2477038,80.1479106,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34596672aa9d67:0xc6b1fb7d4495ed1e!8m2!3d17.2477038!4d80.1479106!16s%2Fg%2F11qnks1d7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6120,7 +6171,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEW+HOPE+HOSPITAL/@17.2477038,80.1479106,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34596672aa9d67:0xc6b1fb7d4495ed1e!8m2!3d17.2477038!4d80.1479106!16s%2Fg%2F11qnks1d7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-life-emergency-hospital-khammam",
@@ -6168,7 +6220,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/New+Life+Emergency+Hospital/@17.2486999,80.1458424,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d27f5dbdfd:0x8f4e5080bd4b4ef5!8m2!3d17.2486999!4d80.1458424!16s%2Fg%2F11c1pv2_fk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Life+Emergency+Hospital/@17.2486999,80.1458424,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d27f5dbdfd:0x8f4e5080bd4b4ef5!8m2!3d17.2486999!4d80.1458424!16s%2Fg%2F11c1pv2_fk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6237,7 +6289,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Life+Emergency+Hospital/@17.2486999,80.1458424,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d27f5dbdfd:0x8f4e5080bd4b4ef5!8m2!3d17.2486999!4d80.1458424!16s%2Fg%2F11c1pv2_fk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "niharika-dental-clinic-khammam",
@@ -6285,7 +6338,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/NIHARIKA+DENTAL+CLINIC/@17.2508803,80.1450809,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd05631925:0x987a970427bb71a6!8m2!3d17.2508803!4d80.1450809!16s%2Fg%2F11ddydvq6r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIHARIKA+DENTAL+CLINIC/@17.2508803,80.1450809,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd05631925:0x987a970427bb71a6!8m2!3d17.2508803!4d80.1450809!16s%2Fg%2F11ddydvq6r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6354,7 +6407,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NIHARIKA+DENTAL+CLINIC/@17.2508803,80.1450809,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd05631925:0x987a970427bb71a6!8m2!3d17.2508803!4d80.1450809!16s%2Fg%2F11ddydvq6r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oasis-fertility-best-ivf-centre-in-khammam-khammam",
@@ -6404,7 +6458,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Khammam/data=!4m7!3m6!1s0x3a3459005358e3a5:0xbecb314ee1ae979d!8m2!3d17.250143!4d80.144652!16s%2Fg%2F11yk5881ck!19sChIJpeNYUwBZNDoRnZeu4U4xy74?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Khammam/data=!4m7!3m6!1s0x3a3459005358e3a5:0xbecb314ee1ae979d!8m2!3d17.250143!4d80.144652!16s%2Fg%2F11yk5881ck!19sChIJpeNYUwBZNDoRnZeu4U4xy74?authuser=0&hl=en&rclk=1"
@@ -6470,10 +6524,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Khammam/data=!4m7!3m6!1s0x3a3459005358e3a5:0xbecb314ee1ae979d!8m2!3d17.250143!4d80.144652!16s%2Fg%2F11yk5881ck!19sChIJpeNYUwBZNDoRnZeu4U4xy74?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "origins-ivf-khammam-khammam",
@@ -6523,7 +6578,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Origins+IVF+Khammam/@17.2626216,80.1510218,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459b40a8b9339:0x63b50b818810476a!8m2!3d17.2626216!4d80.1510218!16s%2Fg%2F11xv21998c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Origins+IVF+Khammam/@17.2626216,80.1510218,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459b40a8b9339:0x63b50b818810476a!8m2!3d17.2626216!4d80.1510218!16s%2Fg%2F11xv21998c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6589,10 +6644,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Origins+IVF+Khammam/@17.2626216,80.1510218,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459b40a8b9339:0x63b50b818810476a!8m2!3d17.2626216!4d80.1510218!16s%2Fg%2F11xv21998c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "partha-dental-clinic-khammam-invisalign-provider-aligners-braces-root-canal-and-dental-implants-centre-khammam",
@@ -6641,7 +6697,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Khammam+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Aligners,+Braces,+Root+Canal+%26+Dental+Implants+Centre/@17.2478751,80.1490683,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459c4fd5dae61:0x30bc3af570630c75!8m2!3d17.2478751!4d80.1490683!16s%2Fg%2F11c3l992rt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Khammam+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Aligners,+Braces,+Root+Canal+%26+Dental+Implants+Centre/@17.2478751,80.1490683,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459c4fd5dae61:0x30bc3af570630c75!8m2!3d17.2478751!4d80.1490683!16s%2Fg%2F11c3l992rt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6710,7 +6766,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Khammam+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Aligners,+Braces,+Root+Canal+%26+Dental+Implants+Centre/@17.2478751,80.1490683,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459c4fd5dae61:0x30bc3af570630c75!8m2!3d17.2478751!4d80.1490683!16s%2Fg%2F11c3l992rt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "paruchuri-dental-hospital-khammam",
@@ -6758,7 +6815,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Paruchuri+Dental+Hospital/@17.2511981,80.1434963,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd2f5e89fd:0x6c40faaef5bfe678!8m2!3d17.2511981!4d80.1434963!16s%2Fg%2F11f12210f9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paruchuri+Dental+Hospital/@17.2511981,80.1434963,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd2f5e89fd:0x6c40faaef5bfe678!8m2!3d17.2511981!4d80.1434963!16s%2Fg%2F11f12210f9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6827,7 +6884,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Paruchuri+Dental+Hospital/@17.2511981,80.1434963,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd2f5e89fd:0x6c40faaef5bfe678!8m2!3d17.2511981!4d80.1434963!16s%2Fg%2F11f12210f9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "paruchuri-dental-hospital-khammam",
@@ -6875,7 +6933,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Paruchuri+Dental+Hospital/@17.2494121,80.1486275,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e892146e7b:0xa18ddc0adfb8afea!8m2!3d17.2494121!4d80.1486275!16s%2Fg%2F11s46c9ncy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paruchuri+Dental+Hospital/@17.2494121,80.1486275,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e892146e7b:0xa18ddc0adfb8afea!8m2!3d17.2494121!4d80.1486275!16s%2Fg%2F11s46c9ncy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6944,7 +7002,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Paruchuri+Dental+Hospital/@17.2494121,80.1486275,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e892146e7b:0xa18ddc0adfb8afea!8m2!3d17.2494121!4d80.1486275!16s%2Fg%2F11s46c9ncy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pulse-hospital-khammam",
@@ -6992,7 +7051,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Pulse+Hospital/@17.2501556,80.1455969,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd0a5d2029:0x8c8d66cc2f590870!8m2!3d17.2501556!4d80.1455969!16s%2Fg%2F11f00pnqlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pulse+Hospital/@17.2501556,80.1455969,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd0a5d2029:0x8c8d66cc2f590870!8m2!3d17.2501556!4d80.1455969!16s%2Fg%2F11f00pnqlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7061,7 +7120,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pulse+Hospital/@17.2501556,80.1455969,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd0a5d2029:0x8c8d66cc2f590870!8m2!3d17.2501556!4d80.1455969!16s%2Fg%2F11f00pnqlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raghu-physiotherapy-and-pain-relief-center-best-physiotherapy-center-since-2011-khammam",
@@ -7111,7 +7171,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Raghu+Physiotherapy+and+Pain+Relief+Center+-+Best+Physiotherapy+Center+Since+2011/@17.2488805,80.1498448,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459ce0fffffff:0xabdc6b6be39702d4!8m2!3d17.2488805!4d80.1498448!16s%2Fg%2F12hqlfj9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raghu+Physiotherapy+and+Pain+Relief+Center+-+Best+Physiotherapy+Center+Since+2011/@17.2488805,80.1498448,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459ce0fffffff:0xabdc6b6be39702d4!8m2!3d17.2488805!4d80.1498448!16s%2Fg%2F12hqlfj9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7180,7 +7240,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raghu+Physiotherapy+and+Pain+Relief+Center+-+Best+Physiotherapy+Center+Since+2011/@17.2488805,80.1498448,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459ce0fffffff:0xabdc6b6be39702d4!8m2!3d17.2488805!4d80.1498448!16s%2Fg%2F12hqlfj9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajakumari-mother-and-child-hospital-khammam",
@@ -7229,7 +7290,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/RAJAKUMARI+MOTHER+%26+CHILD+HOSPITAL/@17.2525602,80.1445552,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce9a8bf4b:0x819db09f9ac88646!8m2!3d17.2525602!4d80.1445552!16s%2Fg%2F12hmjtfvm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RAJAKUMARI+MOTHER+%26+CHILD+HOSPITAL/@17.2525602,80.1445552,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce9a8bf4b:0x819db09f9ac88646!8m2!3d17.2525602!4d80.1445552!16s%2Fg%2F12hmjtfvm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7298,7 +7359,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RAJAKUMARI+MOTHER+%26+CHILD+HOSPITAL/@17.2525602,80.1445552,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce9a8bf4b:0x819db09f9ac88646!8m2!3d17.2525602!4d80.1445552!16s%2Fg%2F12hmjtfvm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajesh-dental-khammam",
@@ -7346,7 +7408,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rajesh+Dental/@17.2513983,80.1438161,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459c297696683:0x18c4c00ece1156ff!8m2!3d17.2513983!4d80.1438161!16s%2Fg%2F11rkcxgldj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajesh+Dental/@17.2513983,80.1438161,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459c297696683:0x18c4c00ece1156ff!8m2!3d17.2513983!4d80.1438161!16s%2Fg%2F11rkcxgldj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7412,10 +7474,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajesh+Dental/@17.2513983,80.1438161,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459c297696683:0x18c4c00ece1156ff!8m2!3d17.2513983!4d80.1438161!16s%2Fg%2F11rkcxgldj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "renova-gastro-hospital-khammam",
@@ -7464,7 +7527,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Renova+Gastro+hospital/data=!4m7!3m6!1s0x3a34590026fa9227:0xb84b064b67d359bc!8m2!3d17.2528657!4d80.1398053!16s%2Fg%2F11vy2c08_6!19sChIJJ5L6JgBZNDoRvFnTZ0sGS7g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renova+Gastro+hospital/data=!4m7!3m6!1s0x3a34590026fa9227:0xb84b064b67d359bc!8m2!3d17.2528657!4d80.1398053!16s%2Fg%2F11vy2c08_6!19sChIJJ5L6JgBZNDoRvFnTZ0sGS7g?authuser=0&hl=en&rclk=1"
@@ -7533,7 +7596,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Renova+Gastro+hospital/data=!4m7!3m6!1s0x3a34590026fa9227:0xb84b064b67d359bc!8m2!3d17.2528657!4d80.1398053!16s%2Fg%2F11vy2c08_6!19sChIJJ5L6JgBZNDoRvFnTZ0sGS7g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rohit-test-tube-baby-centre-best-fertility-hospital-in-khammam-best-ivf-hospital-in-khammam-khammam",
@@ -7583,7 +7647,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rohit+Test+Tube+Baby+Centre+-+Best+Fertility+Hospital+in+Khammam+%7C+Best+IVF+Hospital+in+Khammam/@17.2476251,80.14883,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1b8d16239:0x493ffa49e3e59fe0!8m2!3d17.2476251!4d80.14883!16s%2Fg%2F11dxnlh_lz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rohit+Test+Tube+Baby+Centre+-+Best+Fertility+Hospital+in+Khammam+%7C+Best+IVF+Hospital+in+Khammam/@17.2476251,80.14883,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1b8d16239:0x493ffa49e3e59fe0!8m2!3d17.2476251!4d80.14883!16s%2Fg%2F11dxnlh_lz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7652,7 +7716,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rohit+Test+Tube+Baby+Centre+-+Best+Fertility+Hospital+in+Khammam+%7C+Best+IVF+Hospital+in+Khammam/@17.2476251,80.14883,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1b8d16239:0x493ffa49e3e59fe0!8m2!3d17.2476251!4d80.14883!16s%2Fg%2F11dxnlh_lz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-v-dental-care-khammam",
@@ -7700,7 +7765,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/S+V+DENTAL+CARE/@17.2509856,80.1455081,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1756ea165:0x39cf884c9bd34668!8m2!3d17.2509856!4d80.1455081!16s%2Fg%2F11khmfb6m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+V+DENTAL+CARE/@17.2509856,80.1455081,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1756ea165:0x39cf884c9bd34668!8m2!3d17.2509856!4d80.1455081!16s%2Fg%2F11khmfb6m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7766,10 +7831,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+V+DENTAL+CARE/@17.2509856,80.1455081,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1756ea165:0x39cf884c9bd34668!8m2!3d17.2509856!4d80.1455081!16s%2Fg%2F11khmfb6m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saanvi-specialty-hospital-khammam",
@@ -7819,7 +7885,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SAANVI+SPECIALTY+HOSPITAL/@17.2490287,80.1499533,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34599c1a3e7273:0xbc69a6e52159ea37!8m2!3d17.2490287!4d80.1499533!16s%2Fg%2F11fjbwn_7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAANVI+SPECIALTY+HOSPITAL/@17.2490287,80.1499533,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34599c1a3e7273:0xbc69a6e52159ea37!8m2!3d17.2490287!4d80.1499533!16s%2Fg%2F11fjbwn_7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7888,7 +7954,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAANVI+SPECIALTY+HOSPITAL/@17.2490287,80.1499533,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34599c1a3e7273:0xbc69a6e52159ea37!8m2!3d17.2490287!4d80.1499533!16s%2Fg%2F11fjbwn_7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-bharathi-hospital-khammam",
@@ -7936,7 +8003,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Bharathi+Hospital/@17.2530726,80.1397217,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345938c76124b5:0xbbc47bba9b4cd93a!8m2!3d17.2530726!4d80.1397217!16s%2Fg%2F11rstkt91x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Bharathi+Hospital/@17.2530726,80.1397217,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345938c76124b5:0xbbc47bba9b4cd93a!8m2!3d17.2530726!4d80.1397217!16s%2Fg%2F11rstkt91x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8005,7 +8072,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Bharathi+Hospital/@17.2530726,80.1397217,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345938c76124b5:0xbbc47bba9b4cd93a!8m2!3d17.2530726!4d80.1397217!16s%2Fg%2F11rstkt91x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-cares-dental-and-implant-clinic-khammam-best-dental-best-dentist-khammam",
@@ -8054,7 +8122,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sai+cares+dental+and+implant+clinic+khammam%2FBest+dental+%2FBest+dentist/@17.2615222,80.1518589,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590019aab7e5:0xf7ee0d6eceae6026!8m2!3d17.2615222!4d80.1518589!16s%2Fg%2F11vq_dtxw5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+cares+dental+and+implant+clinic+khammam%2FBest+dental+%2FBest+dentist/@17.2615222,80.1518589,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590019aab7e5:0xf7ee0d6eceae6026!8m2!3d17.2615222!4d80.1518589!16s%2Fg%2F11vq_dtxw5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8120,10 +8188,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+cares+dental+and+implant+clinic+khammam%2FBest+dental+%2FBest+dentist/@17.2615222,80.1518589,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590019aab7e5:0xf7ee0d6eceae6026!8m2!3d17.2615222!4d80.1518589!16s%2Fg%2F11vq_dtxw5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-shiva-hospital-khammam",
@@ -8171,7 +8240,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sai+shiva+hospital/data=!4m7!3m6!1s0x3a3459cd65928f07:0xe1a5b517720a76c0!8m2!3d17.2510355!4d80.1453669!16s%2Fg%2F11f54k_59g!19sChIJB4-SZc1ZNDoRwHYKche1peE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+shiva+hospital/data=!4m7!3m6!1s0x3a3459cd65928f07:0xe1a5b517720a76c0!8m2!3d17.2510355!4d80.1453669!16s%2Fg%2F11f54k_59g!19sChIJB4-SZc1ZNDoRwHYKche1peE?authuser=0&hl=en&rclk=1"
@@ -8237,10 +8306,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+shiva+hospital/data=!4m7!3m6!1s0x3a3459cd65928f07:0xe1a5b517720a76c0!8m2!3d17.2510355!4d80.1453669!16s%2Fg%2F11f54k_59g!19sChIJB4-SZc1ZNDoRwHYKche1peE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sai-sri-dental-clinic-khammam",
@@ -8286,7 +8356,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Sai+Sri+Dental+Clinic/@17.2613274,80.1558958,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34593ab6ee93e7:0x39cf564e4d21ff45!8m2!3d17.2613274!4d80.1558958!16s%2Fg%2F11lnvmv370?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Sri+Dental+Clinic/@17.2613274,80.1558958,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34593ab6ee93e7:0x39cf564e4d21ff45!8m2!3d17.2613274!4d80.1558958!16s%2Fg%2F11lnvmv370?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8352,10 +8422,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Sri+Dental+Clinic/@17.2613274,80.1558958,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34593ab6ee93e7:0x39cf564e4d21ff45!8m2!3d17.2613274!4d80.1558958!16s%2Fg%2F11lnvmv370?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sairam-hospital-best-hospital-in-khammam-khammam",
@@ -8404,7 +8475,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sairam+Hospital+%7C+Best+Hospital+in+Khammam/@17.2508575,80.1479486,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833a746becb:0xbf22bf7e96b837ad!8m2!3d17.2508575!4d80.1479486!16s%2Fg%2F11c5hvhh1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sairam+Hospital+%7C+Best+Hospital+in+Khammam/@17.2508575,80.1479486,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833a746becb:0xbf22bf7e96b837ad!8m2!3d17.2508575!4d80.1479486!16s%2Fg%2F11c5hvhh1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8473,7 +8544,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sairam+Hospital+%7C+Best+Hospital+in+Khammam/@17.2508575,80.1479486,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833a746becb:0xbf22bf7e96b837ad!8m2!3d17.2508575!4d80.1479486!16s%2Fg%2F11c5hvhh1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sama-dental-hospital-khammam",
@@ -8521,7 +8593,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SAMA+DENTAL+HOSPITAL/@17.2495412,80.1444026,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e1c67b09e1:0x9a9ef57d3d1ebd3!8m2!3d17.2495412!4d80.1444026!16s%2Fg%2F11jstt48b8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAMA+DENTAL+HOSPITAL/@17.2495412,80.1444026,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e1c67b09e1:0x9a9ef57d3d1ebd3!8m2!3d17.2495412!4d80.1444026!16s%2Fg%2F11jstt48b8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8587,10 +8659,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAMA+DENTAL+HOSPITAL/@17.2495412,80.1444026,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e1c67b09e1:0x9a9ef57d3d1ebd3!8m2!3d17.2495412!4d80.1444026!16s%2Fg%2F11jstt48b8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samineni-seethaiah-hospital-khammam",
@@ -8638,7 +8711,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Samineni+Seethaiah+Hospital/@17.2507877,80.1440789,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590f6b2f91bb:0xb75f9cad03e8e256!8m2!3d17.2507877!4d80.1440789!16s%2Fg%2F11h1vdpxft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samineni+Seethaiah+Hospital/@17.2507877,80.1440789,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590f6b2f91bb:0xb75f9cad03e8e256!8m2!3d17.2507877!4d80.1440789!16s%2Fg%2F11h1vdpxft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8707,7 +8780,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samineni+Seethaiah+Hospital/@17.2507877,80.1440789,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590f6b2f91bb:0xb75f9cad03e8e256!8m2!3d17.2507877!4d80.1440789!16s%2Fg%2F11h1vdpxft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sankalpa-c-star-hospital-khammam",
@@ -8755,7 +8829,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/SANKALPA+C+STAR+HOSPITAL/@17.2485421,80.1488411,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1fc10459b:0x22883532320d7a8a!8m2!3d17.2485421!4d80.1488411!16s%2Fg%2F11fzf7ckg2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SANKALPA+C+STAR+HOSPITAL/@17.2485421,80.1488411,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1fc10459b:0x22883532320d7a8a!8m2!3d17.2485421!4d80.1488411!16s%2Fg%2F11fzf7ckg2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8821,10 +8895,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SANKALPA+C+STAR+HOSPITAL/@17.2485421,80.1488411,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1fc10459b:0x22883532320d7a8a!8m2!3d17.2485421!4d80.1488411!16s%2Fg%2F11fzf7ckg2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sarath-ortho-and-spine-care-khammam",
@@ -8875,7 +8950,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/sarath+ortho+%26+spine+care/@17.2506306,80.1491513,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459228a57d0ab:0x790881102426fd13!8m2!3d17.2506306!4d80.1491513!16s%2Fg%2F11vdmwsf6c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/sarath+ortho+%26+spine+care/@17.2506306,80.1491513,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459228a57d0ab:0x790881102426fd13!8m2!3d17.2506306!4d80.1491513!16s%2Fg%2F11vdmwsf6c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8944,7 +9019,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/sarath+ortho+%26+spine+care/@17.2506306,80.1491513,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459228a57d0ab:0x790881102426fd13!8m2!3d17.2506306!4d80.1491513!16s%2Fg%2F11vdmwsf6c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sarojini-hospital-khammam",
@@ -8992,7 +9068,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sarojini+Hospital/@17.2475863,80.1678214,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e7b2b35e3d:0xf1c014671ddf8b3a!8m2!3d17.2475863!4d80.1678214!16s%2Fg%2F11df0rfcd2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarojini+Hospital/@17.2475863,80.1678214,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e7b2b35e3d:0xf1c014671ddf8b3a!8m2!3d17.2475863!4d80.1678214!16s%2Fg%2F11df0rfcd2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9061,7 +9137,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sarojini+Hospital/@17.2475863,80.1678214,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e7b2b35e3d:0xf1c014671ddf8b3a!8m2!3d17.2475863!4d80.1678214!16s%2Fg%2F11df0rfcd2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "seetha-dental-hospital-khammam",
@@ -9109,7 +9186,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Seetha+Dental+Hospital/@17.2469004,80.1363844,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459984344b069:0xda4bee7c5aeee8f6!8m2!3d17.2469004!4d80.1363844!16s%2Fg%2F11kh5d617m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seetha+Dental+Hospital/@17.2469004,80.1363844,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459984344b069:0xda4bee7c5aeee8f6!8m2!3d17.2469004!4d80.1363844!16s%2Fg%2F11kh5d617m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9175,10 +9252,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seetha+Dental+Hospital/@17.2469004,80.1363844,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459984344b069:0xda4bee7c5aeee8f6!8m2!3d17.2469004!4d80.1363844!16s%2Fg%2F11kh5d617m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shilpa-dental-care-khammam",
@@ -9226,7 +9304,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SHILPA+DENTAL+CARE/@17.2614413,80.1567264,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459003c9b3659:0xfd6065d212aecadf!8m2!3d17.2614413!4d80.1567264!16s%2Fg%2F11y0r0rfd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHILPA+DENTAL+CARE/@17.2614413,80.1567264,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459003c9b3659:0xfd6065d212aecadf!8m2!3d17.2614413!4d80.1567264!16s%2Fg%2F11y0r0rfd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9292,10 +9370,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHILPA+DENTAL+CARE/@17.2614413,80.1567264,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459003c9b3659:0xfd6065d212aecadf!8m2!3d17.2614413!4d80.1567264!16s%2Fg%2F11y0r0rfd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sigma-dental-hospital-khammam",
@@ -9343,7 +9422,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SIGMA+DENTAL+HOSPITAL/@17.2503727,80.1457683,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34596cc91eded5:0x51b60bfa38dbfe80!8m2!3d17.2503727!4d80.1457683!16s%2Fg%2F11s596vhcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SIGMA+DENTAL+HOSPITAL/@17.2503727,80.1457683,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34596cc91eded5:0x51b60bfa38dbfe80!8m2!3d17.2503727!4d80.1457683!16s%2Fg%2F11s596vhcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9409,10 +9488,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SIGMA+DENTAL+HOSPITAL/@17.2503727,80.1457683,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34596cc91eded5:0x51b60bfa38dbfe80!8m2!3d17.2503727!4d80.1457683!16s%2Fg%2F11s596vhcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-n-gum-care-khammam",
@@ -9460,7 +9540,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SMILE+'N'+GUM+CARE/@17.2516237,80.1542075,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459001374764b:0x661d563bca0f398a!8m2!3d17.2516237!4d80.1542075!16s%2Fg%2F11yqdnzp99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+'N'+GUM+CARE/@17.2516237,80.1542075,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459001374764b:0x661d563bca0f398a!8m2!3d17.2516237!4d80.1542075!16s%2Fg%2F11yqdnzp99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9526,10 +9606,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SMILE+'N'+GUM+CARE/@17.2516237,80.1542075,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459001374764b:0x661d563bca0f398a!8m2!3d17.2516237!4d80.1542075!16s%2Fg%2F11yqdnzp99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spandana-heart-care-centre-khammam",
@@ -9578,7 +9659,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Spandana+Heart+Care+Centre./@17.2511819,80.1435372,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd2f763a0f:0xa045baa94faffed6!8m2!3d17.2511819!4d80.1435372!16s%2Fg%2F1v7tjsn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spandana+Heart+Care+Centre./@17.2511819,80.1435372,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd2f763a0f:0xa045baa94faffed6!8m2!3d17.2511819!4d80.1435372!16s%2Fg%2F1v7tjsn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9647,7 +9728,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spandana+Heart+Care+Centre./@17.2511819,80.1435372,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd2f763a0f:0xa045baa94faffed6!8m2!3d17.2511819!4d80.1435372!16s%2Fg%2F1v7tjsn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sparsha-neuro-emergency-hospital-khammam",
@@ -9696,7 +9778,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Sparsha+neuro+emergency+Hospital/data=!4m7!3m6!1s0x3a3459d1f5bf9e31:0xea6c398d99deafb4!8m2!3d17.2488079!4d80.146061!16s%2Fg%2F1hm2nk3_m!19sChIJMZ6_9dFZNDoRtK_emY05bOo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsha+neuro+emergency+Hospital/data=!4m7!3m6!1s0x3a3459d1f5bf9e31:0xea6c398d99deafb4!8m2!3d17.2488079!4d80.146061!16s%2Fg%2F1hm2nk3_m!19sChIJMZ6_9dFZNDoRtK_emY05bOo?authuser=0&hl=en&rclk=1"
@@ -9765,7 +9847,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sparsha+neuro+emergency+Hospital/data=!4m7!3m6!1s0x3a3459d1f5bf9e31:0xea6c398d99deafb4!8m2!3d17.2488079!4d80.146061!16s%2Fg%2F1hm2nk3_m!19sChIJMZ6_9dFZNDoRtK_emY05bOo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sree-citi-nursing-home-khammam",
@@ -9813,7 +9896,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Citi+Nursing+Home/@17.2513037,80.154611,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d21a8ec44d:0xc4272bc2a40e4393!8m2!3d17.2513037!4d80.154611!16s%2Fg%2F124ymrlx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Citi+Nursing+Home/@17.2513037,80.154611,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d21a8ec44d:0xc4272bc2a40e4393!8m2!3d17.2513037!4d80.154611!16s%2Fg%2F124ymrlx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9882,7 +9965,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Citi+Nursing+Home/@17.2513037,80.154611,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d21a8ec44d:0xc4272bc2a40e4393!8m2!3d17.2513037!4d80.154611!16s%2Fg%2F124ymrlx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-fertility-centre-khammam-khammam",
@@ -9932,7 +10016,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Fertility+Centre+(Khammam)/@17.2484301,80.1468247,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34592ccfd896a5:0xfcc17fae35a516c!8m2!3d17.2484301!4d80.1468247!16s%2Fg%2F11t2sblvqw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Fertility+Centre+(Khammam)/@17.2484301,80.1468247,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34592ccfd896a5:0xfcc17fae35a516c!8m2!3d17.2484301!4d80.1468247!16s%2Fg%2F11t2sblvqw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10001,7 +10085,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Fertility+Centre+(Khammam)/@17.2484301,80.1468247,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34592ccfd896a5:0xfcc17fae35a516c!8m2!3d17.2484301!4d80.1468247!16s%2Fg%2F11t2sblvqw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-havisha-fertility-centre-and-child-khammam",
@@ -10051,7 +10136,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Havisha+Fertility+Centre+%26+Child/@17.2307538,80.1372757,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345753b214aa95:0xa6d685cf99871b35!8m2!3d17.2307538!4d80.1372757!16s%2Fg%2F11y1thp1gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Havisha+Fertility+Centre+%26+Child/@17.2307538,80.1372757,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345753b214aa95:0xa6d685cf99871b35!8m2!3d17.2307538!4d80.1372757!16s%2Fg%2F11y1thp1gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10120,7 +10205,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Havisha+Fertility+Centre+%26+Child/@17.2307538,80.1372757,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345753b214aa95:0xa6d685cf99871b35!8m2!3d17.2307538!4d80.1372757!16s%2Fg%2F11y1thp1gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-havisha-hospital-ivf-center-khammam",
@@ -10169,7 +10255,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Havisha+Hospital+IVF+Center/@17.2500746,80.1443224,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd3fe3f939:0x5688d19471db4b6d!8m2!3d17.2500746!4d80.1443224!16s%2Fg%2F11c6_xmtk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Havisha+Hospital+IVF+Center/@17.2500746,80.1443224,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd3fe3f939:0x5688d19471db4b6d!8m2!3d17.2500746!4d80.1443224!16s%2Fg%2F11c6_xmtk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10238,7 +10324,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Havisha+Hospital+IVF+Center/@17.2500746,80.1443224,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd3fe3f939:0x5688d19471db4b6d!8m2!3d17.2500746!4d80.1443224!16s%2Fg%2F11c6_xmtk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sreedevi-nursing-home-khammam",
@@ -10286,7 +10373,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sreedevi+Nursing+Home/@17.2522985,80.1451905,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce65c4363:0xb3e4d21321651caf!8m2!3d17.2522985!4d80.1451905!16s%2Fg%2F124yr93mj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sreedevi+Nursing+Home/@17.2522985,80.1451905,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce65c4363:0xb3e4d21321651caf!8m2!3d17.2522985!4d80.1451905!16s%2Fg%2F124yr93mj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10352,10 +10439,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sreedevi+Nursing+Home/@17.2522985,80.1451905,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce65c4363:0xb3e4d21321651caf!8m2!3d17.2522985!4d80.1451905!16s%2Fg%2F124yr93mj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sreemantha-fertility-women-and-chil-care-hospital-khammam",
@@ -10406,7 +10494,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sreemantha+Fertility+Women+And+Chil+Care+Hospital/@17.249826,80.14765,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345911b67355c5:0x5209b6d9472bf0b2!8m2!3d17.249826!4d80.14765!16s%2Fg%2F11kpfy2tys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sreemantha+Fertility+Women+And+Chil+Care+Hospital/@17.249826,80.14765,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345911b67355c5:0x5209b6d9472bf0b2!8m2!3d17.249826!4d80.14765!16s%2Fg%2F11kpfy2tys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10475,7 +10563,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sreemantha+Fertility+Women+And+Chil+Care+Hospital/@17.249826,80.14765,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345911b67355c5:0x5209b6d9472bf0b2!8m2!3d17.249826!4d80.14765!16s%2Fg%2F11kpfy2tys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-aaral-muli-speciality-hospital-khammam",
@@ -10524,7 +10613,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/SRI+AARAL+MULI+SPECIALITY+HOSPITAL/data=!4m7!3m6!1s0x3a34597895957a99:0xfab2270ab11c1252!8m2!3d17.2476287!4d80.1502392!16s%2Fg%2F11j2c55zs6!19sChIJmXqVlXhZNDoRUhIcsQonsvo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+AARAL+MULI+SPECIALITY+HOSPITAL/data=!4m7!3m6!1s0x3a34597895957a99:0xfab2270ab11c1252!8m2!3d17.2476287!4d80.1502392!16s%2Fg%2F11j2c55zs6!19sChIJmXqVlXhZNDoRUhIcsQonsvo?authuser=0&hl=en&rclk=1"
@@ -10593,7 +10682,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+AARAL+MULI+SPECIALITY+HOSPITAL/data=!4m7!3m6!1s0x3a34597895957a99:0xfab2270ab11c1252!8m2!3d17.2476287!4d80.1502392!16s%2Fg%2F11j2c55zs6!19sChIJmXqVlXhZNDoRUhIcsQonsvo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-balaji-eye-and-skin-hospital-khammam",
@@ -10642,7 +10732,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Balaji+eye+and+skin+hospital/@17.2495267,80.1459447,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345951ed2105bf:0xe0fc7a924f49a10e!8m2!3d17.2495267!4d80.1459447!16s%2Fg%2F11l1f793ck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Balaji+eye+and+skin+hospital/@17.2495267,80.1459447,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345951ed2105bf:0xe0fc7a924f49a10e!8m2!3d17.2495267!4d80.1459447!16s%2Fg%2F11l1f793ck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10711,7 +10801,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Balaji+eye+and+skin+hospital/@17.2495267,80.1459447,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345951ed2105bf:0xe0fc7a924f49a10e!8m2!3d17.2495267!4d80.1459447!16s%2Fg%2F11l1f793ck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-bhavya-hospital-center-for-pulmonology-psychiatry-and-critical-care-khammam",
@@ -10759,7 +10850,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Bhavya+Hospital.%7C+Center+For+Pulmonology,+Psychiatry+And+Critical+Care/@17.2540105,80.1402501,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833225d32b7:0x75dea59e6b3ef473!8m2!3d17.2540105!4d80.1402501!16s%2Fg%2F11c1szfkch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Bhavya+Hospital.%7C+Center+For+Pulmonology,+Psychiatry+And+Critical+Care/@17.2540105,80.1402501,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833225d32b7:0x75dea59e6b3ef473!8m2!3d17.2540105!4d80.1402501!16s%2Fg%2F11c1szfkch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10828,7 +10919,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Bhavya+Hospital.%7C+Center+For+Pulmonology,+Psychiatry+And+Critical+Care/@17.2540105,80.1402501,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833225d32b7:0x75dea59e6b3ef473!8m2!3d17.2540105!4d80.1402501!16s%2Fg%2F11c1szfkch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-garbha-fertility-centre-best-fertility-clinic-in-khammam-khammam",
@@ -10878,7 +10970,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Garbha+Fertility+Centre+-+Best+Fertility+Clinic+in+Khammam/@17.2489011,80.1486638,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459b1111f39e7:0xece8ec2bc6291180!8m2!3d17.2489011!4d80.1486638!16s%2Fg%2F11sj4588p2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Garbha+Fertility+Centre+-+Best+Fertility+Clinic+in+Khammam/@17.2489011,80.1486638,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459b1111f39e7:0xece8ec2bc6291180!8m2!3d17.2489011!4d80.1486638!16s%2Fg%2F11sj4588p2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10947,7 +11039,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Garbha+Fertility+Centre+-+Best+Fertility+Clinic+in+Khammam/@17.2489011,80.1486638,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459b1111f39e7:0xece8ec2bc6291180!8m2!3d17.2489011!4d80.1486638!16s%2Fg%2F11sj4588p2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-krishna-hospital-khammam",
@@ -10996,7 +11089,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Krishna+Hospital/@17.2535429,80.146421,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345996ea0d7963:0xac6f8c0451f1e762!8m2!3d17.2535429!4d80.146421!16s%2Fg%2F11n7f2qm6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Krishna+Hospital/@17.2535429,80.146421,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345996ea0d7963:0xac6f8c0451f1e762!8m2!3d17.2535429!4d80.146421!16s%2Fg%2F11n7f2qm6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11065,7 +11158,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Krishna+Hospital/@17.2535429,80.146421,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345996ea0d7963:0xac6f8c0451f1e762!8m2!3d17.2535429!4d80.146421!16s%2Fg%2F11n7f2qm6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-murari-dental-specialities-khammam",
@@ -11113,7 +11207,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Murari+Dental+Specialities/@17.2526595,80.1452616,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459ccf1398485:0x61aef87bb72bb7c9!8m2!3d17.2526595!4d80.1452616!16s%2Fg%2F11d_yxzd3h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Murari+Dental+Specialities/@17.2526595,80.1452616,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459ccf1398485:0x61aef87bb72bb7c9!8m2!3d17.2526595!4d80.1452616!16s%2Fg%2F11d_yxzd3h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11182,7 +11276,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Murari+Dental+Specialities/@17.2526595,80.1452616,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459ccf1398485:0x61aef87bb72bb7c9!8m2!3d17.2526595!4d80.1452616!16s%2Fg%2F11d_yxzd3h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-nirvana-neuropsychiatry-hospital-khammam",
@@ -11231,7 +11326,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Nirvana+Neuropsychiatry+Hospital/data=!4m7!3m6!1s0x3a3459d20be1a011:0x9ac9f933c5d0b258!8m2!3d17.2499405!4d80.1477178!16s%2Fg%2F11f03fc441!19sChIJEaDhC9JZNDoRWLLQxTP5yZo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Nirvana+Neuropsychiatry+Hospital/data=!4m7!3m6!1s0x3a3459d20be1a011:0x9ac9f933c5d0b258!8m2!3d17.2499405!4d80.1477178!16s%2Fg%2F11f03fc441!19sChIJEaDhC9JZNDoRWLLQxTP5yZo?authuser=0&hl=en&rclk=1"
@@ -11300,7 +11395,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Nirvana+Neuropsychiatry+Hospital/data=!4m7!3m6!1s0x3a3459d20be1a011:0x9ac9f933c5d0b258!8m2!3d17.2499405!4d80.1477178!16s%2Fg%2F11f03fc441!19sChIJEaDhC9JZNDoRWLLQxTP5yZo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-pooja-hospital-khammam",
@@ -11348,7 +11444,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Pooja+Hospital/@17.2515774,80.1399488,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833aa22d33f:0xf743c86f842a219d!8m2!3d17.2515774!4d80.1399488!16s%2Fg%2F11f03p0v5f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Pooja+Hospital/@17.2515774,80.1399488,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833aa22d33f:0xf743c86f842a219d!8m2!3d17.2515774!4d80.1399488!16s%2Fg%2F11f03p0v5f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11417,7 +11513,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Pooja+Hospital/@17.2515774,80.1399488,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833aa22d33f:0xf743c86f842a219d!8m2!3d17.2515774!4d80.1399488!16s%2Fg%2F11f03p0v5f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-raksha-hospital-khammam",
@@ -11466,7 +11563,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Raksha+Hospital/@17.2492678,80.1491191,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce9b475d5:0x7d214cf1b0799be9!8m2!3d17.2492678!4d80.1491191!16s%2Fg%2F1tflw9d9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Raksha+Hospital/@17.2492678,80.1491191,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce9b475d5:0x7d214cf1b0799be9!8m2!3d17.2492678!4d80.1491191!16s%2Fg%2F1tflw9d9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11535,7 +11632,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Raksha+Hospital/@17.2492678,80.1491191,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce9b475d5:0x7d214cf1b0799be9!8m2!3d17.2492678!4d80.1491191!16s%2Fg%2F1tflw9d9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-ram-dental-clinic-khammam",
@@ -11583,7 +11681,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Ram%C4%81+dental+Clinic/@17.2511849,80.1427027,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3458332b2ac5d5:0xebccda489a6f1a4e!8m2!3d17.2511849!4d80.1427027!16s%2Fg%2F124yljx5g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Ram%C4%81+dental+Clinic/@17.2511849,80.1427027,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3458332b2ac5d5:0xebccda489a6f1a4e!8m2!3d17.2511849!4d80.1427027!16s%2Fg%2F124yljx5g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11649,10 +11747,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Ram%C4%81+dental+Clinic/@17.2511849,80.1427027,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3458332b2ac5d5:0xebccda489a6f1a4e!8m2!3d17.2511849!4d80.1427027!16s%2Fg%2F124yljx5g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-sai-balaji-skin-and-general-hospital-khammam",
@@ -11700,7 +11799,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SRI+SAI+BALAJI+SKIN+AND+GENERAL+HOSPITAL/@17.2522917,80.144726,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34594efa93bf87:0x4e49aaa42fcbfd75!8m2!3d17.2522917!4d80.144726!16s%2Fg%2F11rqlb978x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SAI+BALAJI+SKIN+AND+GENERAL+HOSPITAL/@17.2522917,80.144726,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34594efa93bf87:0x4e49aaa42fcbfd75!8m2!3d17.2522917!4d80.144726!16s%2Fg%2F11rqlb978x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11766,10 +11865,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+SAI+BALAJI+SKIN+AND+GENERAL+HOSPITAL/@17.2522917,80.144726,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34594efa93bf87:0x4e49aaa42fcbfd75!8m2!3d17.2522917!4d80.144726!16s%2Fg%2F11rqlb978x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-sai-maruti-general-hospital-and-rheumatology-center-khammam",
@@ -11817,7 +11917,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sai+Maruti+General+Hospital+%26+Rheumatology+center/data=!4m7!3m6!1s0x3a3459e8ace4b0b1:0x8449affb13ab8491!8m2!3d17.2476555!4d80.1473766!16s%2Fg%2F11fj3w54vx!19sChIJsbDkrOhZNDoRkYSrE_uvSYQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sai+Maruti+General+Hospital+%26+Rheumatology+center/data=!4m7!3m6!1s0x3a3459e8ace4b0b1:0x8449affb13ab8491!8m2!3d17.2476555!4d80.1473766!16s%2Fg%2F11fj3w54vx!19sChIJsbDkrOhZNDoRkYSrE_uvSYQ?authuser=0&hl=en&rclk=1"
@@ -11886,7 +11986,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sai+Maruti+General+Hospital+%26+Rheumatology+center/data=!4m7!3m6!1s0x3a3459e8ace4b0b1:0x8449affb13ab8491!8m2!3d17.2476555!4d80.1473766!16s%2Fg%2F11fj3w54vx!19sChIJsbDkrOhZNDoRkYSrE_uvSYQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-sai-navya-dental-clinic-khammam",
@@ -11935,7 +12036,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sai+Navya+Dental+Clinic/@17.250737,80.145741,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cda7a21731:0x9e158e0810045ea3!8m2!3d17.250737!4d80.145741!16s%2Fg%2F11dxm8cmyy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sai+Navya+Dental+Clinic/@17.250737,80.145741,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cda7a21731:0x9e158e0810045ea3!8m2!3d17.250737!4d80.145741!16s%2Fg%2F11dxm8cmyy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12001,10 +12102,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sai+Navya+Dental+Clinic/@17.250737,80.145741,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cda7a21731:0x9e158e0810045ea3!8m2!3d17.250737!4d80.145741!16s%2Fg%2F11dxm8cmyy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-sai-srinivasa-dental-clinic-khammam",
@@ -12052,7 +12154,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sai+Srinivasa+Dental+Clinic/@17.2607441,80.1664427,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34593da0157d77:0x663d95f378c17507!8m2!3d17.2607441!4d80.1664427!16s%2Fg%2F11x_g719lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sai+Srinivasa+Dental+Clinic/@17.2607441,80.1664427,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34593da0157d77:0x663d95f378c17507!8m2!3d17.2607441!4d80.1664427!16s%2Fg%2F11x_g719lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12121,7 +12223,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sai+Srinivasa+Dental+Clinic/@17.2607441,80.1664427,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34593da0157d77:0x663d95f378c17507!8m2!3d17.2607441!4d80.1664427!16s%2Fg%2F11x_g719lf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-srinivasam-dental-hospital-best-dental-hospital-in-khammam-khammam",
@@ -12170,7 +12273,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Srinivasam+Dental+Hospital+%7C+Best+Dental+Hospital+in+Khammam/@17.2549248,80.1556438,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459c5df6dc7e3:0x54c0990b205a387!8m2!3d17.2549248!4d80.1556438!16s%2Fg%2F11b6cpwr7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Srinivasam+Dental+Hospital+%7C+Best+Dental+Hospital+in+Khammam/@17.2549248,80.1556438,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459c5df6dc7e3:0x54c0990b205a387!8m2!3d17.2549248!4d80.1556438!16s%2Fg%2F11b6cpwr7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12239,7 +12342,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Srinivasam+Dental+Hospital+%7C+Best+Dental+Hospital+in+Khammam/@17.2549248,80.1556438,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459c5df6dc7e3:0x54c0990b205a387!8m2!3d17.2549248!4d80.1556438!16s%2Fg%2F11b6cpwr7d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-surya-diabetes-and-general-clinic-khammam",
@@ -12288,7 +12392,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/sri+surya+diabetes+and+general+clinic/@17.2506785,80.1463548,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459f7b00a7041:0x5d46f452c4db9421!8m2!3d17.2506785!4d80.1463548!16s%2Fg%2F11ks2mw0mj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/sri+surya+diabetes+and+general+clinic/@17.2506785,80.1463548,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459f7b00a7041:0x5d46f452c4db9421!8m2!3d17.2506785!4d80.1463548!16s%2Fg%2F11ks2mw0mj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12354,10 +12458,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/sri+surya+diabetes+and+general+clinic/@17.2506785,80.1463548,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459f7b00a7041:0x5d46f452c4db9421!8m2!3d17.2506785!4d80.1463548!16s%2Fg%2F11ks2mw0mj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-tirumala-hospital-khammam",
@@ -12405,7 +12510,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/SRI+TIRUMALA+HOSPITAL/@17.2513901,80.148894,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459eddaa9e2db:0x77a0984397382500!8m2!3d17.2513901!4d80.148894!16s%2Fg%2F11qqwp2t0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+TIRUMALA+HOSPITAL/@17.2513901,80.148894,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459eddaa9e2db:0x77a0984397382500!8m2!3d17.2513901!4d80.148894!16s%2Fg%2F11qqwp2t0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12474,7 +12579,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+TIRUMALA+HOSPITAL/@17.2513901,80.148894,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459eddaa9e2db:0x77a0984397382500!8m2!3d17.2513901!4d80.148894!16s%2Fg%2F11qqwp2t0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-venkataramana-ayurvedic-hospital-khammam-kerala-kottakkal-panchakarma-hospital-khammam",
@@ -12522,7 +12628,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SRI+VENKATARAMANA+AYURVEDIC+HOSPITAL.+%E0%B0%96%E0%B0%AE%E0%B1%8D%E0%B0%AE%E0%B0%82+KHAMMAM+(+KERALA+KOTTAKKAL+PANCHAKARMA+HOSPITAL+)/@17.2437006,80.1773039,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345944519a1d0b:0xdb5c3cc9ea20688a!8m2!3d17.2437006!4d80.1773039!16s%2Fg%2F11mrch1c50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+VENKATARAMANA+AYURVEDIC+HOSPITAL.+%E0%B0%96%E0%B0%AE%E0%B1%8D%E0%B0%AE%E0%B0%82+KHAMMAM+(+KERALA+KOTTAKKAL+PANCHAKARMA+HOSPITAL+)/@17.2437006,80.1773039,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345944519a1d0b:0xdb5c3cc9ea20688a!8m2!3d17.2437006!4d80.1773039!16s%2Fg%2F11mrch1c50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12588,10 +12694,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+VENKATARAMANA+AYURVEDIC+HOSPITAL.+%E0%B0%96%E0%B0%AE%E0%B1%8D%E0%B0%AE%E0%B0%82+KHAMMAM+(+KERALA+KOTTAKKAL+PANCHAKARMA+HOSPITAL+)/@17.2437006,80.1773039,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345944519a1d0b:0xdb5c3cc9ea20688a!8m2!3d17.2437006!4d80.1773039!16s%2Fg%2F11mrch1c50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-vijayalakshmi-hospital-khammam",
@@ -12639,7 +12746,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Vijayalakshmi+Hospital/@17.2502468,80.1476559,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459ccc2784561:0xf2500e9a042e6ad6!8m2!3d17.2502468!4d80.1476559!16s%2Fg%2F11fyzfrydb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Vijayalakshmi+Hospital/@17.2502468,80.1476559,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459ccc2784561:0xf2500e9a042e6ad6!8m2!3d17.2502468!4d80.1476559!16s%2Fg%2F11fyzfrydb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12708,7 +12815,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Vijayalakshmi+Hospital/@17.2502468,80.1476559,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459ccc2784561:0xf2500e9a042e6ad6!8m2!3d17.2502468!4d80.1476559!16s%2Fg%2F11fyzfrydb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srikari-dental-hospital-khammam",
@@ -12757,7 +12865,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Srikari+Dental+Hospital/data=!4m7!3m6!1s0x3a34590014e20ef3:0xddf98f38bbafb513!8m2!3d17.2495405!4d80.1459859!16s%2Fg%2F11yxhjhwpl!19sChIJ8w7iFABZNDoRE7WvuziP-d0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srikari+Dental+Hospital/data=!4m7!3m6!1s0x3a34590014e20ef3:0xddf98f38bbafb513!8m2!3d17.2495405!4d80.1459859!16s%2Fg%2F11yxhjhwpl!19sChIJ8w7iFABZNDoRE7WvuziP-d0?authuser=0&hl=en&rclk=1"
@@ -12823,10 +12931,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srikari+Dental+Hospital/data=!4m7!3m6!1s0x3a34590014e20ef3:0xddf98f38bbafb513!8m2!3d17.2495405!4d80.1459859!16s%2Fg%2F11yxhjhwpl!19sChIJ8w7iFABZNDoRE7WvuziP-d0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srinivasa-hospital-khammam",
@@ -12874,7 +12983,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Srinivasa+Hospital/@17.2513192,80.1441445,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd207d0e5f:0x5f45d231a5134136!8m2!3d17.2513192!4d80.1441445!16s%2Fg%2F11d_vvz__r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srinivasa+Hospital/@17.2513192,80.1441445,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd207d0e5f:0x5f45d231a5134136!8m2!3d17.2513192!4d80.1441445!16s%2Fg%2F11d_vvz__r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12940,10 +13049,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srinivasa+Hospital/@17.2513192,80.1441445,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd207d0e5f:0x5f45d231a5134136!8m2!3d17.2513192!4d80.1441445!16s%2Fg%2F11d_vvz__r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sriram-kidney-infertility-and-laparoscopy-centre-khammam",
@@ -12994,7 +13104,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sriram+Kidney+,Infertility+%26+Laparoscopy+Centre/@17.2516003,80.1443112,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce3be28e3:0x48bed901d0383f08!8m2!3d17.2516003!4d80.1443112!16s%2Fg%2F124ylkq_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sriram+Kidney+,Infertility+%26+Laparoscopy+Centre/@17.2516003,80.1443112,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce3be28e3:0x48bed901d0383f08!8m2!3d17.2516003!4d80.1443112!16s%2Fg%2F124ylkq_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13063,7 +13173,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sriram+Kidney+,Infertility+%26+Laparoscopy+Centre/@17.2516003,80.1443112,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce3be28e3:0x48bed901d0383f08!8m2!3d17.2516003!4d80.1443112!16s%2Fg%2F124ylkq_x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srujan-ortho-and-accident-care-khammam",
@@ -13112,7 +13223,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Srujan+Ortho+%26+Accident+Care/@17.251625,80.1444567,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce1bf6815:0xf9e23fe420d2cb00!8m2!3d17.251625!4d80.1444567!16s%2Fg%2F11btst_14t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srujan+Ortho+%26+Accident+Care/@17.251625,80.1444567,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce1bf6815:0xf9e23fe420d2cb00!8m2!3d17.251625!4d80.1444567!16s%2Fg%2F11btst_14t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13181,7 +13292,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srujan+Ortho+%26+Accident+Care/@17.251625,80.1444567,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cce1bf6815:0xf9e23fe420d2cb00!8m2!3d17.251625!4d80.1444567!16s%2Fg%2F11btst_14t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "stambhadri-hospital-khammam",
@@ -13230,7 +13342,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Stambhadri+Hospital/@17.2510624,80.1461039,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590069483cc7:0x79f9c03576b4cc0f!8m2!3d17.2510624!4d80.1461039!16s%2Fg%2F11vzcpq01n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Stambhadri+Hospital/@17.2510624,80.1461039,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590069483cc7:0x79f9c03576b4cc0f!8m2!3d17.2510624!4d80.1461039!16s%2Fg%2F11vzcpq01n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13299,7 +13411,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Stambhadri+Hospital/@17.2510624,80.1461039,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590069483cc7:0x79f9c03576b4cc0f!8m2!3d17.2510624!4d80.1461039!16s%2Fg%2F11vzcpq01n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sunstar-skin-and-neuropsychiatry-hospital-khammam",
@@ -13348,7 +13461,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sunstar+Skin+%26+Neuropsychiatry+Hospital/data=!4m7!3m6!1s0x3a3459d4f58dc741:0x198a10ddef048f38!8m2!3d17.2508316!4d80.1453177!16s%2Fg%2F11xvclw8_q!19sChIJQceN9dRZNDoROI8E790Qihk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunstar+Skin+%26+Neuropsychiatry+Hospital/data=!4m7!3m6!1s0x3a3459d4f58dc741:0x198a10ddef048f38!8m2!3d17.2508316!4d80.1453177!16s%2Fg%2F11xvclw8_q!19sChIJQceN9dRZNDoROI8E790Qihk?authuser=0&hl=en&rclk=1"
@@ -13414,10 +13527,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunstar+Skin+%26+Neuropsychiatry+Hospital/data=!4m7!3m6!1s0x3a3459d4f58dc741:0x198a10ddef048f38!8m2!3d17.2508316!4d80.1453177!16s%2Fg%2F11xvclw8_q!19sChIJQceN9dRZNDoROI8E790Qihk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "surabhi-neuro-hospital-khammam",
@@ -13466,7 +13580,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Surabhi+Neuro+Hospital/@17.2478821,80.1496735,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1e942fca7:0xbebf388e7cb45f3b!8m2!3d17.2478821!4d80.1496735!16s%2Fg%2F11dxjxy56l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surabhi+Neuro+Hospital/@17.2478821,80.1496735,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1e942fca7:0xbebf388e7cb45f3b!8m2!3d17.2478821!4d80.1496735!16s%2Fg%2F11dxjxy56l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13535,7 +13649,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surabhi+Neuro+Hospital/@17.2478821,80.1496735,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1e942fca7:0xbebf388e7cb45f3b!8m2!3d17.2478821!4d80.1496735!16s%2Fg%2F11dxjxy56l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surya-dental-hospital-khammam",
@@ -13584,7 +13699,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Surya+dental+hospital/@17.249435,80.1485847,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e5a55acac1:0x354b0d4e761f76b8!8m2!3d17.249435!4d80.1485847!16s%2Fg%2F11vf9qz3yr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+dental+hospital/@17.249435,80.1485847,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e5a55acac1:0x354b0d4e761f76b8!8m2!3d17.249435!4d80.1485847!16s%2Fg%2F11vf9qz3yr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13650,10 +13765,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surya+dental+hospital/@17.249435,80.1485847,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459e5a55acac1:0x354b0d4e761f76b8!8m2!3d17.249435!4d80.1485847!16s%2Fg%2F11vf9qz3yr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "suseela-maternity-nursing-home-khammam",
@@ -13701,7 +13817,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Suseela+maternity+nursing+home/@17.2481565,80.1473474,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1e4fa3615:0x83760c222d39e21b!8m2!3d17.2481565!4d80.1473474!16s%2Fg%2F11j8x2_rb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suseela+maternity+nursing+home/@17.2481565,80.1473474,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1e4fa3615:0x83760c222d39e21b!8m2!3d17.2481565!4d80.1473474!16s%2Fg%2F11j8x2_rb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13767,10 +13883,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suseela+maternity+nursing+home/@17.2481565,80.1473474,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1e4fa3615:0x83760c222d39e21b!8m2!3d17.2481565!4d80.1473474!16s%2Fg%2F11j8x2_rb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swathi-hospital-khammam",
@@ -13818,7 +13935,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Swathi+Hospital/@17.24816,80.1472543,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345927f4f0a3c3:0xc68f86acaba97d66!8m2!3d17.24816!4d80.1472543!16s%2Fg%2F11gp0541_s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swathi+Hospital/@17.24816,80.1472543,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345927f4f0a3c3:0xc68f86acaba97d66!8m2!3d17.24816!4d80.1472543!16s%2Fg%2F11gp0541_s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13887,7 +14004,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swathi+Hospital/@17.24816,80.1472543,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345927f4f0a3c3:0xc68f86acaba97d66!8m2!3d17.24816!4d80.1472543!16s%2Fg%2F11gp0541_s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "syamala-hospital-khammam",
@@ -13936,7 +14054,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Syamala+Hospital/@17.2479032,80.1514397,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d033bd93f7:0x60cb83b8353b107!8m2!3d17.2479032!4d80.1514397!16s%2Fg%2F11r9wx64h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Syamala+Hospital/@17.2479032,80.1514397,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d033bd93f7:0x60cb83b8353b107!8m2!3d17.2479032!4d80.1514397!16s%2Fg%2F11r9wx64h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14005,7 +14123,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Syamala+Hospital/@17.2479032,80.1514397,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d033bd93f7:0x60cb83b8353b107!8m2!3d17.2479032!4d80.1514397!16s%2Fg%2F11r9wx64h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "telangana-dental-care-khammam",
@@ -14053,7 +14172,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/TELANGANA+DENTAL+CARE/@17.2728874,80.1791389,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459719d75f363:0x9f68b94629bd3327!8m2!3d17.2728874!4d80.1791389!16s%2Fg%2F11tk24_951?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TELANGANA+DENTAL+CARE/@17.2728874,80.1791389,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459719d75f363:0x9f68b94629bd3327!8m2!3d17.2728874!4d80.1791389!16s%2Fg%2F11tk24_951?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14122,7 +14241,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TELANGANA+DENTAL+CARE/@17.2728874,80.1791389,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459719d75f363:0x9f68b94629bd3327!8m2!3d17.2728874!4d80.1791389!16s%2Fg%2F11tk24_951?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-house-of-face-advanced-dental-skin-laser-and-hair-clinic-khammam-khammam",
@@ -14170,7 +14290,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+House+Of+Face+Advanced+Dental+Skin+Laser+And+Hair+Clinic+Khammam/@17.2510728,80.1429273,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590bb5d38875:0x5e5be9546705ee!8m2!3d17.2510728!4d80.1429273!16s%2Fg%2F11k9jrcp_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+House+Of+Face+Advanced+Dental+Skin+Laser+And+Hair+Clinic+Khammam/@17.2510728,80.1429273,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590bb5d38875:0x5e5be9546705ee!8m2!3d17.2510728!4d80.1429273!16s%2Fg%2F11k9jrcp_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14236,10 +14356,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+House+Of+Face+Advanced+Dental+Skin+Laser+And+Hair+Clinic+Khammam/@17.2510728,80.1429273,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590bb5d38875:0x5e5be9546705ee!8m2!3d17.2510728!4d80.1429273!16s%2Fg%2F11k9jrcp_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tirumala-ent-hospital-khammam",
@@ -14288,7 +14409,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Tirumala+ENT+hospital/@17.250088,80.1477615,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd3c9fb7bb:0x55d12d7fd6f043f8!8m2!3d17.250088!4d80.1477615!16s%2Fg%2F1tjmc23_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tirumala+ENT+hospital/@17.250088,80.1477615,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd3c9fb7bb:0x55d12d7fd6f043f8!8m2!3d17.250088!4d80.1477615!16s%2Fg%2F1tjmc23_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14357,7 +14478,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tirumala+ENT+hospital/@17.250088,80.1477615,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd3c9fb7bb:0x55d12d7fd6f043f8!8m2!3d17.250088!4d80.1477615!16s%2Fg%2F1tjmc23_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "trr-ortho-and-accident-care-khammam",
@@ -14407,7 +14529,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/TRR+Ortho+%26+Accident+Care/@17.2487179,80.1458031,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345900114529bf:0xd294c174bab14fd1!8m2!3d17.2487179!4d80.1458031!16s%2Fg%2F11y8y_bbxb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TRR+Ortho+%26+Accident+Care/@17.2487179,80.1458031,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345900114529bf:0xd294c174bab14fd1!8m2!3d17.2487179!4d80.1458031!16s%2Fg%2F11y8y_bbxb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14476,7 +14598,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TRR+Ortho+%26+Accident+Care/@17.2487179,80.1458031,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345900114529bf:0xd294c174bab14fd1!8m2!3d17.2487179!4d80.1458031!16s%2Fg%2F11y8y_bbxb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tulisya-dental-clinic-khammam",
@@ -14524,7 +14647,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Tulisya+Dental+Clinic/@17.2501585,80.145386,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd0b4f4a39:0x5f6858039fb86f9f!8m2!3d17.2501585!4d80.145386!16s%2Fg%2F11hbrdspzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tulisya+Dental+Clinic/@17.2501585,80.145386,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd0b4f4a39:0x5f6858039fb86f9f!8m2!3d17.2501585!4d80.145386!16s%2Fg%2F11hbrdspzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14590,10 +14713,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tulisya+Dental+Clinic/@17.2501585,80.145386,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd0b4f4a39:0x5f6858039fb86f9f!8m2!3d17.2501585!4d80.145386!16s%2Fg%2F11hbrdspzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "uma-dental-care-khammam",
@@ -14641,7 +14765,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/UMA+DENTAL+CARE/@17.2478479,80.1511287,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590022b05851:0x56141321724e7898!8m2!3d17.2478479!4d80.1511287!16s%2Fg%2F11wtjjnjf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UMA+DENTAL+CARE/@17.2478479,80.1511287,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590022b05851:0x56141321724e7898!8m2!3d17.2478479!4d80.1511287!16s%2Fg%2F11wtjjnjf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14707,10 +14831,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/UMA+DENTAL+CARE/@17.2478479,80.1511287,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34590022b05851:0x56141321724e7898!8m2!3d17.2478479!4d80.1511287!16s%2Fg%2F11wtjjnjf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ushodaya-hospitals-khammam",
@@ -14759,7 +14884,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/USHODAYA+HOSPITALS/@17.2480539,80.1475444,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d20e0bcd39:0xadd65836b56f3c24!8m2!3d17.2480539!4d80.1475444!16s%2Fg%2F11gfd213z3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/USHODAYA+HOSPITALS/@17.2480539,80.1475444,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d20e0bcd39:0xadd65836b56f3c24!8m2!3d17.2480539!4d80.1475444!16s%2Fg%2F11gfd213z3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14828,7 +14953,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/USHODAYA+HOSPITALS/@17.2480539,80.1475444,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d20e0bcd39:0xadd65836b56f3c24!8m2!3d17.2480539!4d80.1475444!16s%2Fg%2F11gfd213z3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vasan-eye-care-hospital-nehru-nagar-khammam-khammam",
@@ -14877,7 +15003,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vasan+Eye+Care+Hospital+-+(Nehru+Nagar,+Khammam)/@17.2476837,80.1501099,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1f72bd9fb:0xaefa9c8c0179d5d8!8m2!3d17.2476837!4d80.1501099!16s%2Fg%2F124ylmtvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vasan+Eye+Care+Hospital+-+(Nehru+Nagar,+Khammam)/@17.2476837,80.1501099,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1f72bd9fb:0xaefa9c8c0179d5d8!8m2!3d17.2476837!4d80.1501099!16s%2Fg%2F124ylmtvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14946,7 +15072,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vasan+Eye+Care+Hospital+-+(Nehru+Nagar,+Khammam)/@17.2476837,80.1501099,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459d1f72bd9fb:0xaefa9c8c0179d5d8!8m2!3d17.2476837!4d80.1501099!16s%2Fg%2F124ylmtvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "venkateshwara-hospital-khammam",
@@ -14994,7 +15121,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Venkateshwara+Hospital./@17.2528402,80.1410732,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833122bfbcf:0xb15e91e616307d3!8m2!3d17.2528402!4d80.1410732!16s%2Fg%2F11f1hwvwmn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Venkateshwara+Hospital./@17.2528402,80.1410732,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833122bfbcf:0xb15e91e616307d3!8m2!3d17.2528402!4d80.1410732!16s%2Fg%2F11f1hwvwmn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15063,7 +15190,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Venkateshwara+Hospital./@17.2528402,80.1410732,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345833122bfbcf:0xb15e91e616307d3!8m2!3d17.2528402!4d80.1410732!16s%2Fg%2F11f1hwvwmn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vijaya-dental-clinic-khammam",
@@ -15111,7 +15239,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vijaya+Dental+Clinic/@17.2510577,80.1397968,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345832f0fa8017:0xa60c0edf676eebff!8m2!3d17.2510577!4d80.1397968!16s%2Fg%2F11q2ykbw08?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijaya+Dental+Clinic/@17.2510577,80.1397968,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345832f0fa8017:0xa60c0edf676eebff!8m2!3d17.2510577!4d80.1397968!16s%2Fg%2F11q2ykbw08?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15177,10 +15305,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vijaya+Dental+Clinic/@17.2510577,80.1397968,17z/data=!3m1!4b1!4m6!3m5!1s0x3a345832f0fa8017:0xa60c0edf676eebff!8m2!3d17.2510577!4d80.1397968!16s%2Fg%2F11q2ykbw08?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "virtue-dental-khammam",
@@ -15228,7 +15357,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Virtue+dental/@17.2525263,80.1532713,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459a9c31de463:0xbe26cd2370824904!8m2!3d17.2525263!4d80.1532713!16s%2Fg%2F11vx32nxzm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Virtue+dental/@17.2525263,80.1532713,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459a9c31de463:0xbe26cd2370824904!8m2!3d17.2525263!4d80.1532713!16s%2Fg%2F11vx32nxzm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15297,7 +15426,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Virtue+dental/@17.2525263,80.1532713,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459a9c31de463:0xbe26cd2370824904!8m2!3d17.2525263!4d80.1532713!16s%2Fg%2F11vx32nxzm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vishnu-eye-and-dental-hospital-khammam",
@@ -15345,7 +15475,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vishnu+Eye+and+Dental+Hospital/@17.24924,80.145981,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd83814be7:0x19e60627290f5a2a!8m2!3d17.24924!4d80.145981!16s%2Fg%2F11f3049yx5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishnu+Eye+and+Dental+Hospital/@17.24924,80.145981,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd83814be7:0x19e60627290f5a2a!8m2!3d17.24924!4d80.145981!16s%2Fg%2F11f3049yx5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15411,10 +15541,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vishnu+Eye+and+Dental+Hospital/@17.24924,80.145981,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3459cd83814be7:0x19e60627290f5a2a!8m2!3d17.24924!4d80.145981!16s%2Fg%2F11f3049yx5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "y-prasad-hospitals-khammam",
@@ -15462,7 +15593,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Y+Prasad+Hospitals/@17.2474854,80.1506713,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34595c5a94c2bb:0xabc8e1a5897bad50!8m2!3d17.2474854!4d80.1506713!16s%2Fg%2F11jz1pm3xt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Y+Prasad+Hospitals/@17.2474854,80.1506713,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34595c5a94c2bb:0xabc8e1a5897bad50!8m2!3d17.2474854!4d80.1506713!16s%2Fg%2F11jz1pm3xt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15531,7 +15662,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Y+Prasad+Hospitals/@17.2474854,80.1506713,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34595c5a94c2bb:0xabc8e1a5897bad50!8m2!3d17.2474854!4d80.1506713!16s%2Fg%2F11jz1pm3xt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yalamaddi-hospitals-khammam",
@@ -15580,7 +15712,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yalamaddi+Hospitals/data=!4m7!3m6!1s0x3a34590054e58449:0x8083276f3b824f98!8m2!3d17.2445998!4d80.1507303!16s%2Fg%2F11w2b5lyz4!19sChIJSYTlVABZNDoRmE-CO28ng4A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yalamaddi+Hospitals/data=!4m7!3m6!1s0x3a34590054e58449:0x8083276f3b824f98!8m2!3d17.2445998!4d80.1507303!16s%2Fg%2F11w2b5lyz4!19sChIJSYTlVABZNDoRmE-CO28ng4A?authuser=0&hl=en&rclk=1"
@@ -15649,7 +15781,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yalamaddi+Hospitals/data=!4m7!3m6!1s0x3a34590054e58449:0x8083276f3b824f98!8m2!3d17.2445998!4d80.1507303!16s%2Fg%2F11w2b5lyz4!19sChIJSYTlVABZNDoRmE-CO28ng4A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "yalamanchili-poly-clinic-khammam",
@@ -15697,7 +15830,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Yalamanchili+Poly+Clinic/@17.2411806,80.1383623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34582bea2fcea3:0x75badb1cf1e2c12b!8m2!3d17.2411806!4d80.1383623!16s%2Fg%2F1vyk0y8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yalamanchili+Poly+Clinic/@17.2411806,80.1383623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34582bea2fcea3:0x75badb1cf1e2c12b!8m2!3d17.2411806!4d80.1383623!16s%2Fg%2F1vyk0y8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15766,7 +15899,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yalamanchili+Poly+Clinic/@17.2411806,80.1383623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34582bea2fcea3:0x75badb1cf1e2c12b!8m2!3d17.2411806!4d80.1383623!16s%2Fg%2F1vyk0y8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yashoda-hospitals-medical-information-centre-khammam-khammam",
@@ -15815,7 +15949,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+-+Khammam/data=!4m7!3m6!1s0x3a34598446bb3615:0xfd1e28f62c8f0474!8m2!3d17.2508591!4d80.1444855!16s%2Fg%2F11sqs0xxfg!19sChIJFTa7RoRZNDoRdASPLPYoHv0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+-+Khammam/data=!4m7!3m6!1s0x3a34598446bb3615:0xfd1e28f62c8f0474!8m2!3d17.2508591!4d80.1444855!16s%2Fg%2F11sqs0xxfg!19sChIJFTa7RoRZNDoRdASPLPYoHv0?authuser=0&hl=en&rclk=1"
@@ -15884,6 +16018,7 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+-+Khammam/data=!4m7!3m6!1s0x3a34598446bb3615:0xfd1e28f62c8f0474!8m2!3d17.2508591!4d80.1444855!16s%2Fg%2F11sqs0xxfg!19sChIJFTa7RoRZNDoRdASPLPYoHv0?authuser=0&hl=en&rclk=1"
   }
 ]

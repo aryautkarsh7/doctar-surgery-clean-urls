@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://www.google.com/maps/place/Aaradhna+Hospital/@20.9487925,72.9160518,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79156c947db:0x10349e7f6680a184!8m2!3d20.9487925!4d72.9160518!16s%2Fg%2F1ptw3dwlt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aaradhna+Hospital/@20.9487925,72.9160518,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79156c947db:0x10349e7f6680a184!8m2!3d20.9487925!4d72.9160518!16s%2Fg%2F1ptw3dwlt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aaradhna+Hospital/@20.9487925,72.9160518,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79156c947db:0x10349e7f6680a184!8m2!3d20.9487925!4d72.9160518!16s%2Fg%2F1ptw3dwlt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aarogyam-hospital-navsari",
@@ -163,7 +164,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aarogyam+Hospital/@20.953905,72.924129,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bfb9250773:0xbe2225897d076f92!8m2!3d20.953905!4d72.924129!16s%2Fg%2F11b6sfshqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogyam+Hospital/@20.953905,72.924129,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bfb9250773:0xbe2225897d076f92!8m2!3d20.953905!4d72.924129!16s%2Fg%2F11b6sfshqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -232,7 +233,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aarogyam+Hospital/@20.953905,72.924129,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bfb9250773:0xbe2225897d076f92!8m2!3d20.953905!4d72.924129!16s%2Fg%2F11b6sfshqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aditi-dental-clinic-navsari",
@@ -280,7 +282,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Aditi+Dental+Clinic/@20.9467951,72.9290968,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bb6fbdd20b:0x786d25fe2d388412!8m2!3d20.9467951!4d72.9290968!16s%2Fg%2F12qgs_lts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditi+Dental+Clinic/@20.9467951,72.9290968,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bb6fbdd20b:0x786d25fe2d388412!8m2!3d20.9467951!4d72.9290968!16s%2Fg%2F12qgs_lts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -349,7 +351,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aditi+Dental+Clinic/@20.9467951,72.9290968,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bb6fbdd20b:0x786d25fe2d388412!8m2!3d20.9467951!4d72.9290968!16s%2Fg%2F12qgs_lts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advance-dental-care-navsari",
@@ -398,7 +401,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Advance+Dental+care/@20.9478431,72.9212148,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bed58eccd9:0x8399cd4348b57a3b!8m2!3d20.9478431!4d72.9212148!16s%2Fg%2F11byypwv4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Dental+care/@20.9478431,72.9212148,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bed58eccd9:0x8399cd4348b57a3b!8m2!3d20.9478431!4d72.9212148!16s%2Fg%2F11byypwv4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -467,7 +470,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+Dental+care/@20.9478431,72.9212148,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bed58eccd9:0x8399cd4348b57a3b!8m2!3d20.9478431!4d72.9212148!16s%2Fg%2F11byypwv4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "akash-ivf-centre-best-test-tube-baby-centre-in-navsari-navsari",
@@ -517,7 +521,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Akash+IVF+Centre-+Best+test+tube+baby+Centre+in+Navsari/@20.9464998,72.9273092,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a1dae74409:0xaf9a038c4cae7b03!8m2!3d20.9464998!4d72.9273092!16s%2Fg%2F11vrclg5m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akash+IVF+Centre-+Best+test+tube+baby+Centre+in+Navsari/@20.9464998,72.9273092,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a1dae74409:0xaf9a038c4cae7b03!8m2!3d20.9464998!4d72.9273092!16s%2Fg%2F11vrclg5m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -583,10 +587,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Akash+IVF+Centre-+Best+test+tube+baby+Centre+in+Navsari/@20.9464998,72.9273092,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a1dae74409:0xaf9a038c4cae7b03!8m2!3d20.9464998!4d72.9273092!16s%2Fg%2F11vrclg5m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amar-dental-clinic-navsari",
@@ -634,7 +639,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Amar+Dental+Clinic/@20.9419776,72.9193661,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f78aea40f2df:0xb6a1414f8bdb2dec!8m2!3d20.9419776!4d72.9193661!16s%2Fg%2F11tcg347_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amar+Dental+Clinic/@20.9419776,72.9193661,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f78aea40f2df:0xb6a1414f8bdb2dec!8m2!3d20.9419776!4d72.9193661!16s%2Fg%2F11tcg347_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -700,10 +705,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amar+Dental+Clinic/@20.9419776,72.9193661,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f78aea40f2df:0xb6a1414f8bdb2dec!8m2!3d20.9419776!4d72.9193661!16s%2Fg%2F11tcg347_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apple-dental-care-best-dental-clinic-dentist-implant-dental-clinic-navsari",
@@ -751,7 +757,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Apple+Dental+Care+-+Best+Dental+Clinic,+Dentist,+Implant+Dental+Clinic/@20.949404,72.924301,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bdf0c0000b:0xbe8612b81d16cd36!8m2!3d20.949404!4d72.924301!16s%2Fg%2F1hm2h_wn1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apple+Dental+Care+-+Best+Dental+Clinic,+Dentist,+Implant+Dental+Clinic/@20.949404,72.924301,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bdf0c0000b:0xbe8612b81d16cd36!8m2!3d20.949404!4d72.924301!16s%2Fg%2F1hm2h_wn1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -820,7 +826,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apple+Dental+Care+-+Best+Dental+Clinic,+Dentist,+Implant+Dental+Clinic/@20.949404,72.924301,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bdf0c0000b:0xbe8612b81d16cd36!8m2!3d20.949404!4d72.924301!16s%2Fg%2F1hm2h_wn1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ardent-oral-health-clinic-navsari",
@@ -868,7 +875,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Ardent+Oral+Health+Clinic/@20.9518206,72.9218305,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f794063e5be3:0xc40f3c4376831e24!8m2!3d20.9518206!4d72.9218305!16s%2Fg%2F1v82_klz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ardent+Oral+Health+Clinic/@20.9518206,72.9218305,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f794063e5be3:0xc40f3c4376831e24!8m2!3d20.9518206!4d72.9218305!16s%2Fg%2F1v82_klz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -937,7 +944,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ardent+Oral+Health+Clinic/@20.9518206,72.9218305,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f794063e5be3:0xc40f3c4376831e24!8m2!3d20.9518206!4d72.9218305!16s%2Fg%2F1v82_klz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "atul-nayak-hospital-navsari-navsari",
@@ -985,7 +993,7 @@
     "metrics": [
       "Google rating 2.6"
     ],
-    "image": "https://www.google.com/maps/place/Atul+Nayak+Hospital+Navsari/@20.9499673,72.9230331,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7ed32c7377d:0xf4d819bce419ea0d!8m2!3d20.9499673!4d72.9230331!16s%2Fg%2F11h288ts9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Atul+Nayak+Hospital+Navsari/@20.9499673,72.9230331,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7ed32c7377d:0xf4d819bce419ea0d!8m2!3d20.9499673!4d72.9230331!16s%2Fg%2F11h288ts9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1054,7 +1062,8 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Atul+Nayak+Hospital+Navsari/@20.9499673,72.9230331,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7ed32c7377d:0xf4d819bce419ea0d!8m2!3d20.9499673!4d72.9230331!16s%2Fg%2F11h288ts9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ba-smt-lilaben-chimanlal-parikh-cancer-centre-navsari",
@@ -1104,7 +1113,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BA+Smt.+Lilaben+Chimanlal+Parikh+Cancer+Centre/@20.9497875,72.9192352,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7942bf20741:0xd0ad4f730c35dc6d!8m2!3d20.9497875!4d72.9192352!16s%2Fg%2F11gz6r781?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BA+Smt.+Lilaben+Chimanlal+Parikh+Cancer+Centre/@20.9497875,72.9192352,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7942bf20741:0xd0ad4f730c35dc6d!8m2!3d20.9497875!4d72.9192352!16s%2Fg%2F11gz6r781?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1173,7 +1182,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BA+Smt.+Lilaben+Chimanlal+Parikh+Cancer+Centre/@20.9497875,72.9192352,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7942bf20741:0xd0ad4f730c35dc6d!8m2!3d20.9497875!4d72.9192352!16s%2Fg%2F11gz6r781?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "be-fit-physio-body-sculpt-and-skin-aesthetic-clinic-navsari",
@@ -1223,7 +1233,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Be'+Fit+Physio,Body+sculpt+and+Skin+Aesthetic+clinic/@20.9310021,72.9436024,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f732d873a739:0x1e15cfdedf8dfbd6!8m2!3d20.9310021!4d72.9436024!16s%2Fg%2F11t9q2c7tr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Be'+Fit+Physio,Body+sculpt+and+Skin+Aesthetic+clinic/@20.9310021,72.9436024,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f732d873a739:0x1e15cfdedf8dfbd6!8m2!3d20.9310021!4d72.9436024!16s%2Fg%2F11t9q2c7tr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1289,10 +1299,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Be'+Fit+Physio,Body+sculpt+and+Skin+Aesthetic+clinic/@20.9310021,72.9436024,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f732d873a739:0x1e15cfdedf8dfbd6!8m2!3d20.9310021!4d72.9436024!16s%2Fg%2F11t9q2c7tr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhavya-healthcare-center-navsari",
@@ -1342,7 +1353,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhavya+Healthcare+Center/@20.9471802,72.9214657,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79632525757:0x963c48eb895ff1da!8m2!3d20.9471802!4d72.9214657!16s%2Fg%2F1q5gj0lxd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhavya+Healthcare+Center/@20.9471802,72.9214657,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79632525757:0x963c48eb895ff1da!8m2!3d20.9471802!4d72.9214657!16s%2Fg%2F1q5gj0lxd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1411,7 +1422,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhavya+Healthcare+Center/@20.9471802,72.9214657,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79632525757:0x963c48eb895ff1da!8m2!3d20.9471802!4d72.9214657!16s%2Fg%2F1q5gj0lxd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "comprehensive-care-center-physiotherapy-sports-injury-and-stroke-rehabilitation-clinic-navsari",
@@ -1460,7 +1472,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Comprehensive+Care+Center+(Physiotherapy,+Sports+Injury+%26Stroke+Rehabilitation+Clinic)/@20.9517311,72.9333018,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7b9ee17809d:0xbe5455f299ce35e3!8m2!3d20.9517311!4d72.9333018!16s%2Fg%2F11b75kmpk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Comprehensive+Care+Center+(Physiotherapy,+Sports+Injury+%26Stroke+Rehabilitation+Clinic)/@20.9517311,72.9333018,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7b9ee17809d:0xbe5455f299ce35e3!8m2!3d20.9517311!4d72.9333018!16s%2Fg%2F11b75kmpk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1529,7 +1541,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Comprehensive+Care+Center+(Physiotherapy,+Sports+Injury+%26Stroke+Rehabilitation+Clinic)/@20.9517311,72.9333018,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7b9ee17809d:0xbe5455f299ce35e3!8m2!3d20.9517311!4d72.9333018!16s%2Fg%2F11b75kmpk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-world-best-dental-clinic-dentist-dental-implant-root-canal-treatment-in-navsari-navsari",
@@ -1578,7 +1591,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dental+World+-+Best+Dental+Clinic,+Dentist,+Dental+Implant,+Root+Canal+Treatment+In+Navsari/@20.9502207,72.9177795,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f794176afc59:0x75417a5282411cc6!8m2!3d20.9502207!4d72.9177795!16s%2Fg%2F124sw4b7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+World+-+Best+Dental+Clinic,+Dentist,+Dental+Implant,+Root+Canal+Treatment+In+Navsari/@20.9502207,72.9177795,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f794176afc59:0x75417a5282411cc6!8m2!3d20.9502207!4d72.9177795!16s%2Fg%2F124sw4b7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1647,7 +1660,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+World+-+Best+Dental+Clinic,+Dentist,+Dental+Implant,+Root+Canal+Treatment+In+Navsari/@20.9502207,72.9177795,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f794176afc59:0x75417a5282411cc6!8m2!3d20.9502207!4d72.9177795!16s%2Fg%2F124sw4b7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "desai-ortho-care-hospital-navsari",
@@ -1696,7 +1710,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Desai+Ortho+Care+Hospital/@20.9539413,72.9242313,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7efcc195a0b:0xa98dbc8e4935d77d!8m2!3d20.9539413!4d72.9242313!16s%2Fg%2F11h6q323g7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Desai+Ortho+Care+Hospital/@20.9539413,72.9242313,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7efcc195a0b:0xa98dbc8e4935d77d!8m2!3d20.9539413!4d72.9242313!16s%2Fg%2F11h6q323g7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1765,7 +1779,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Desai+Ortho+Care+Hospital/@20.9539413,72.9242313,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7efcc195a0b:0xa98dbc8e4935d77d!8m2!3d20.9539413!4d72.9242313!16s%2Fg%2F11h6q323g7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "glossdent-dental-clinic-and-implant-centre-navsari",
@@ -1813,7 +1828,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Glossdent+Dental+Clinic+%26+Implant+Centre/@20.9284706,72.9446572,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7e210f26845:0x588bb9eecfba71df!8m2!3d20.9284706!4d72.9446572!16s%2Fg%2F11whyzg4km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Glossdent+Dental+Clinic+%26+Implant+Centre/@20.9284706,72.9446572,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7e210f26845:0x588bb9eecfba71df!8m2!3d20.9284706!4d72.9446572!16s%2Fg%2F11whyzg4km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1879,10 +1894,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Glossdent+Dental+Clinic+%26+Implant+Centre/@20.9284706,72.9446572,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7e210f26845:0x588bb9eecfba71df!8m2!3d20.9284706!4d72.9446572!16s%2Fg%2F11whyzg4km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "h-n-desai-hospital-navsari",
@@ -1928,7 +1944,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/h.n.desai+hospital/@20.9466903,72.9520428,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f651f8b6a7a3:0xf04702661f743c5c!8m2!3d20.9466903!4d72.9520428!16s%2Fg%2F11hcnlb4kj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/h.n.desai+hospital/@20.9466903,72.9520428,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f651f8b6a7a3:0xf04702661f743c5c!8m2!3d20.9466903!4d72.9520428!16s%2Fg%2F11hcnlb4kj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1994,10 +2010,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/h.n.desai+hospital/@20.9466903,72.9520428,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f651f8b6a7a3:0xf04702661f743c5c!8m2!3d20.9466903!4d72.9520428!16s%2Fg%2F11hcnlb4kj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healthassure-orange-hospital-diagnostic-centre-navsari-imaging-and-diagnostics-blood-tests-and-ultrasound-navsari",
@@ -2046,7 +2063,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HealthAssure+-+Orange+Hospital+%7C+Diagnostic+centre+Navsari%7C+Imaging+And+Diagnostics+%7C+Blood+Tests+%26+Ultrasound/@20.9490751,72.9162037,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f717d7ceda1f:0xd62de80272795f84!8m2!3d20.9490751!4d72.9162037!16s%2Fg%2F11xh25dk83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HealthAssure+-+Orange+Hospital+%7C+Diagnostic+centre+Navsari%7C+Imaging+And+Diagnostics+%7C+Blood+Tests+%26+Ultrasound/@20.9490751,72.9162037,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f717d7ceda1f:0xd62de80272795f84!8m2!3d20.9490751!4d72.9162037!16s%2Fg%2F11xh25dk83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2112,10 +2129,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HealthAssure+-+Orange+Hospital+%7C+Diagnostic+centre+Navsari%7C+Imaging+And+Diagnostics+%7C+Blood+Tests+%26+Ultrasound/@20.9490751,72.9162037,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f717d7ceda1f:0xd62de80272795f84!8m2!3d20.9490751!4d72.9162037!16s%2Fg%2F11xh25dk83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "het-physiotherapy-clinic-navsari",
@@ -2165,7 +2183,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Het+Physiotherapy+Clinic/@20.9509664,72.9249481,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7be64897ddf:0x18bc406c7a2c2bba!8m2!3d20.9509664!4d72.9249481!16s%2Fg%2F1q5gjd75c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Het+Physiotherapy+Clinic/@20.9509664,72.9249481,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7be64897ddf:0x18bc406c7a2c2bba!8m2!3d20.9509664!4d72.9249481!16s%2Fg%2F1q5gjd75c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2234,7 +2252,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Het+Physiotherapy+Clinic/@20.9509664,72.9249481,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7be64897ddf:0x18bc406c7a2c2bba!8m2!3d20.9509664!4d72.9249481!16s%2Fg%2F1q5gjd75c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jebis-clinical-laboratory-navsari",
@@ -2283,7 +2302,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Jebis+Clinical+Laboratory/@20.9502309,72.9247248,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bdd8a38a9b:0xf46a1145233a1922!8m2!3d20.9502309!4d72.9247248!16s%2Fg%2F1xtf00m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jebis+Clinical+Laboratory/@20.9502309,72.9247248,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bdd8a38a9b:0xf46a1145233a1922!8m2!3d20.9502309!4d72.9247248!16s%2Fg%2F1xtf00m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2349,10 +2368,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jebis+Clinical+Laboratory/@20.9502309,72.9247248,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bdd8a38a9b:0xf46a1145233a1922!8m2!3d20.9502309!4d72.9247248!16s%2Fg%2F1xtf00m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kanha-clinic-navsari",
@@ -2400,7 +2420,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/KANHA+CLINIC/data=!4m7!3m6!1s0x3be0f7017593ff3f:0x2e790acb35a128ec!8m2!3d20.9280255!4d72.945038!16s%2Fg%2F11wp541vp4!19sChIJP_-TdQH34DsR7CihNcsKeS4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KANHA+CLINIC/data=!4m7!3m6!1s0x3be0f7017593ff3f:0x2e790acb35a128ec!8m2!3d20.9280255!4d72.945038!16s%2Fg%2F11wp541vp4!19sChIJP_-TdQH34DsR7CihNcsKeS4?authuser=0&hl=en&rclk=1"
@@ -2469,7 +2489,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KANHA+CLINIC/data=!4m7!3m6!1s0x3be0f7017593ff3f:0x2e790acb35a128ec!8m2!3d20.9280255!4d72.945038!16s%2Fg%2F11wp541vp4!19sChIJP_-TdQH34DsR7CihNcsKeS4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "keya-asthetic-clinic-navsari",
@@ -2517,7 +2538,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/KEYA+ASTHETIC+CLINIC/@20.9428519,72.944062,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7e5ae2737df:0xf310224d0415082!8m2!3d20.9428519!4d72.944062!16s%2Fg%2F11kt22hxc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KEYA+ASTHETIC+CLINIC/@20.9428519,72.944062,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7e5ae2737df:0xf310224d0415082!8m2!3d20.9428519!4d72.944062!16s%2Fg%2F11kt22hxc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2583,10 +2604,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KEYA+ASTHETIC+CLINIC/@20.9428519,72.944062,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7e5ae2737df:0xf310224d0415082!8m2!3d20.9428519!4d72.944062!16s%2Fg%2F11kt22hxc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "laagni-hospital-navsari",
@@ -2634,7 +2656,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Laagni+hospital/data=!4m7!3m6!1s0x3be0f7b92a75eaf3:0x40eb7914dce9f903!8m2!3d20.9532052!4d72.9282912!16s%2Fg%2F11c60j5013!19sChIJ8-p1Krn34DsRA_np3BR560A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laagni+hospital/data=!4m7!3m6!1s0x3be0f7b92a75eaf3:0x40eb7914dce9f903!8m2!3d20.9532052!4d72.9282912!16s%2Fg%2F11c60j5013!19sChIJ8-p1Krn34DsRA_np3BR560A?authuser=0&hl=en&rclk=1"
@@ -2703,7 +2725,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laagni+hospital/data=!4m7!3m6!1s0x3be0f7b92a75eaf3:0x40eb7914dce9f903!8m2!3d20.9532052!4d72.9282912!16s%2Fg%2F11c60j5013!19sChIJ8-p1Krn34DsRA_np3BR560A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lashkari-dental-clinic-and-dental-implant-centre-best-dentist-in-navsari-navsari",
@@ -2752,7 +2775,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Lashkari+Dental+Clinic+%26+Dental+Implant+Centre+-+Best+Dentist+In+Navsari/@20.9504602,72.922533,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7be1d61a341:0xcdb75ace66c940cc!8m2!3d20.9504602!4d72.922533!16s%2Fg%2F11b8_gjjp6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lashkari+Dental+Clinic+%26+Dental+Implant+Centre+-+Best+Dentist+In+Navsari/@20.9504602,72.922533,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7be1d61a341:0xcdb75ace66c940cc!8m2!3d20.9504602!4d72.922533!16s%2Fg%2F11b8_gjjp6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2821,7 +2844,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lashkari+Dental+Clinic+%26+Dental+Implant+Centre+-+Best+Dentist+In+Navsari/@20.9504602,72.922533,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7be1d61a341:0xcdb75ace66c940cc!8m2!3d20.9504602!4d72.922533!16s%2Fg%2F11b8_gjjp6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lashkari-dental-clinic-and-dental-implant-center-navsari",
@@ -2869,7 +2893,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Lashkari+Dental+Clinic+And+Dental+Implant+Center/@20.9419486,72.9187575,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7be1d5d8931:0xd13d904cfca96b32!8m2!3d20.9419486!4d72.9187575!16s%2Fg%2F1q5gkfjlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lashkari+Dental+Clinic+And+Dental+Implant+Center/@20.9419486,72.9187575,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7be1d5d8931:0xd13d904cfca96b32!8m2!3d20.9419486!4d72.9187575!16s%2Fg%2F1q5gkfjlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2938,7 +2962,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lashkari+Dental+Clinic+And+Dental+Implant+Center/@20.9419486,72.9187575,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7be1d5d8931:0xd13d904cfca96b32!8m2!3d20.9419486!4d72.9187575!16s%2Fg%2F1q5gkfjlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lions-hospital-navsari-navsari",
@@ -2986,7 +3011,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Lions+Hospital+navsari/@20.9489931,72.9245337,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f762a09a7fdf:0x1a9ad29ba5ab35d5!8m2!3d20.9489931!4d72.9245337!16s%2Fg%2F11qg9w15k3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lions+Hospital+navsari/@20.9489931,72.9245337,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f762a09a7fdf:0x1a9ad29ba5ab35d5!8m2!3d20.9489931!4d72.9245337!16s%2Fg%2F11qg9w15k3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3055,7 +3080,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lions+Hospital+navsari/@20.9489931,72.9245337,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f762a09a7fdf:0x1a9ad29ba5ab35d5!8m2!3d20.9489931!4d72.9245337!16s%2Fg%2F11qg9w15k3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "m-g-g-civil-hospital-district-hospital-navsari",
@@ -3104,7 +3130,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/M.G.G.+%28Civil%29+Hospital+%28District+Hospital%29/data=!4m7!3m6!1s0x3be0f796a2472ae9:0xbde56f74548e6cd4!8m2!3d20.949334!4d72.9179077!16s%2Fg%2F1tf_ls2l!19sChIJ6SpHopb34DsR1GyOVHRv5b0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.G.G.+%28Civil%29+Hospital+%28District+Hospital%29/data=!4m7!3m6!1s0x3be0f796a2472ae9:0xbde56f74548e6cd4!8m2!3d20.949334!4d72.9179077!16s%2Fg%2F1tf_ls2l!19sChIJ6SpHopb34DsR1GyOVHRv5b0?authuser=0&hl=en&rclk=1"
@@ -3173,7 +3199,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M.G.G.+%28Civil%29+Hospital+%28District+Hospital%29/data=!4m7!3m6!1s0x3be0f796a2472ae9:0xbde56f74548e6cd4!8m2!3d20.949334!4d72.9179077!16s%2Fg%2F1tf_ls2l!19sChIJ6SpHopb34DsR1GyOVHRv5b0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maroliya-hospital-navsari",
@@ -3222,7 +3249,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Maroliya+Hospital/@20.9511684,72.9186821,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7944616d15b:0x63063677e9077539!8m2!3d20.9511684!4d72.9186821!16s%2Fg%2F11cn679lc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maroliya+Hospital/@20.9511684,72.9186821,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7944616d15b:0x63063677e9077539!8m2!3d20.9511684!4d72.9186821!16s%2Fg%2F11cn679lc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3291,7 +3318,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maroliya+Hospital/@20.9511684,72.9186821,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7944616d15b:0x63063677e9077539!8m2!3d20.9511684!4d72.9186821!16s%2Fg%2F11cn679lc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "moghabhai-desai-hospital-navsari",
@@ -3339,7 +3367,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Moghabhai+Desai+Hospital/@20.9434601,72.9295997,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a4be4ecf93:0xc381771417a1f248!8m2!3d20.9434601!4d72.9295997!16s%2Fg%2F11c2p6tf56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Moghabhai+Desai+Hospital/@20.9434601,72.9295997,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a4be4ecf93:0xc381771417a1f248!8m2!3d20.9434601!4d72.9295997!16s%2Fg%2F11c2p6tf56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3408,7 +3436,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Moghabhai+Desai+Hospital/@20.9434601,72.9295997,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a4be4ecf93:0xc381771417a1f248!8m2!3d20.9434601!4d72.9295997!16s%2Fg%2F11c2p6tf56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mulla-memorial-hospital-navsari",
@@ -3456,7 +3485,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/MULLA+MEMORIAL+HOSPITAL/@20.9465109,72.965068,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f65cecc98c5f:0x1e4185320a6875b2!8m2!3d20.9465109!4d72.965068!16s%2Fg%2F11cmrvvz65?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MULLA+MEMORIAL+HOSPITAL/@20.9465109,72.965068,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f65cecc98c5f:0x1e4185320a6875b2!8m2!3d20.9465109!4d72.965068!16s%2Fg%2F11cmrvvz65?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3525,7 +3554,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MULLA+MEMORIAL+HOSPITAL/@20.9465109,72.965068,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f65cecc98c5f:0x1e4185320a6875b2!8m2!3d20.9465109!4d72.965068!16s%2Fg%2F11cmrvvz65?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "my-skin-clinicnx-navsari",
@@ -3573,7 +3603,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/MY+SKIN+CLINICnx/@20.9220229,72.9096209,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f75ec104e2f1:0x69deac9b90ccf977!8m2!3d20.9220229!4d72.9096209!16s%2Fg%2F11w9_n37hh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MY+SKIN+CLINICnx/@20.9220229,72.9096209,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f75ec104e2f1:0x69deac9b90ccf977!8m2!3d20.9220229!4d72.9096209!16s%2Fg%2F11w9_n37hh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3639,10 +3669,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MY+SKIN+CLINICnx/@20.9220229,72.9096209,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f75ec104e2f1:0x69deac9b90ccf977!8m2!3d20.9220229!4d72.9096209!16s%2Fg%2F11w9_n37hh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "my-skin-laser-and-cosmetic-clinic-navsari",
@@ -3691,7 +3722,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/My+Skin+Laser+and+Cosmetic+Clinic/@20.9477791,72.9212553,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7155c5fe5e1:0x8ed49f54322baaae!8m2!3d20.9477791!4d72.9212553!16s%2Fg%2F11j4trdjkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/My+Skin+Laser+and+Cosmetic+Clinic/@20.9477791,72.9212553,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7155c5fe5e1:0x8ed49f54322baaae!8m2!3d20.9477791!4d72.9212553!16s%2Fg%2F11j4trdjkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3757,10 +3788,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/My+Skin+Laser+and+Cosmetic+Clinic/@20.9477791,72.9212553,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7155c5fe5e1:0x8ed49f54322baaae!8m2!3d20.9477791!4d72.9212553!16s%2Fg%2F11j4trdjkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "naturepath-skin-laser-and-wellness-center-navsari",
@@ -3809,7 +3841,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/naturePath+skin,+laser+%26+wellness+Center/@20.9504507,72.9317921,17z/data=!3m1!4b1!4m6!3m5!1s0x3be04f12d3e5d885:0x35675bdc5c57a9ea!8m2!3d20.9504507!4d72.9317921!16s%2Fg%2F11h_5xy1w1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/naturePath+skin,+laser+%26+wellness+Center/@20.9504507,72.9317921,17z/data=!3m1!4b1!4m6!3m5!1s0x3be04f12d3e5d885:0x35675bdc5c57a9ea!8m2!3d20.9504507!4d72.9317921!16s%2Fg%2F11h_5xy1w1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3878,7 +3910,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/naturePath+skin,+laser+%26+wellness+Center/@20.9504507,72.9317921,17z/data=!3m1!4b1!4m6!3m5!1s0x3be04f12d3e5d885:0x35675bdc5c57a9ea!8m2!3d20.9504507!4d72.9317921!16s%2Fg%2F11h_5xy1w1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "navsari-cancer-care-foundation-navsari",
@@ -3924,7 +3957,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/navsari+cancer+care+foundation/@20.9466836,72.9520475,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f75e852cb9cd:0xad5514942d94c949!8m2!3d20.9466836!4d72.9520475!16s%2Fg%2F11y5b3zrgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/navsari+cancer+care+foundation/@20.9466836,72.9520475,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f75e852cb9cd:0xad5514942d94c949!8m2!3d20.9466836!4d72.9520475!16s%2Fg%2F11y5b3zrgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3990,10 +4023,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/navsari+cancer+care+foundation/@20.9466836,72.9520475,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f75e852cb9cd:0xad5514942d94c949!8m2!3d20.9466836!4d72.9520475!16s%2Fg%2F11y5b3zrgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neelkanth-dental-clinic-navsari",
@@ -4042,7 +4076,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NEELKANTH+DENTAL+CLINIC/@20.9213692,72.9092731,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f77a94eb65f1:0xe97f1ae90d3f7db!8m2!3d20.9213692!4d72.9092731!16s%2Fg%2F11c37_xb7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEELKANTH+DENTAL+CLINIC/@20.9213692,72.9092731,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f77a94eb65f1:0xe97f1ae90d3f7db!8m2!3d20.9213692!4d72.9092731!16s%2Fg%2F11c37_xb7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4108,10 +4142,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEELKANTH+DENTAL+CLINIC/@20.9213692,72.9092731,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f77a94eb65f1:0xe97f1ae90d3f7db!8m2!3d20.9213692!4d72.9092731!16s%2Fg%2F11c37_xb7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nirali-city-clinic-navsari",
@@ -4159,7 +4194,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Nirali+City+Clinic/@20.9500233,72.9171135,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f70bbc2ddc17:0x53f4f0386f33a96!8m2!3d20.9500233!4d72.9171135!16s%2Fg%2F11y56l3kgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirali+City+Clinic/@20.9500233,72.9171135,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f70bbc2ddc17:0x53f4f0386f33a96!8m2!3d20.9500233!4d72.9171135!16s%2Fg%2F11y56l3kgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4228,7 +4263,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nirali+City+Clinic/@20.9500233,72.9171135,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f70bbc2ddc17:0x53f4f0386f33a96!8m2!3d20.9500233!4d72.9171135!16s%2Fg%2F11y56l3kgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nirali-hospital-navsari",
@@ -4277,7 +4313,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nirali+Hospital/@20.9412252,72.9691218,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f75918784979:0xc4a2793878b3882!8m2!3d20.9412252!4d72.9691218!16s%2Fg%2F11fs7z6593?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nirali+Hospital/@20.9412252,72.9691218,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f75918784979:0xc4a2793878b3882!8m2!3d20.9412252!4d72.9691218!16s%2Fg%2F11fs7z6593?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4346,7 +4382,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nirali+Hospital/@20.9412252,72.9691218,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f75918784979:0xc4a2793878b3882!8m2!3d20.9412252!4d72.9691218!16s%2Fg%2F11fs7z6593?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nirali-memorial-medical-trust-navsari",
@@ -4395,7 +4432,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NIRALI+MEMORIAL+MEDICAL+TRUST/@20.9411615,72.9691207,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f76142c209ab:0xac77ae5de307ac50!8m2!3d20.9411615!4d72.9691207!16s%2Fg%2F11h1dbtr71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIRALI+MEMORIAL+MEDICAL+TRUST/@20.9411615,72.9691207,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f76142c209ab:0xac77ae5de307ac50!8m2!3d20.9411615!4d72.9691207!16s%2Fg%2F11h1dbtr71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4464,7 +4501,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NIRALI+MEMORIAL+MEDICAL+TRUST/@20.9411615,72.9691207,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f76142c209ab:0xac77ae5de307ac50!8m2!3d20.9411615!4d72.9691207!16s%2Fg%2F11h1dbtr71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "orange-dental-care-and-implant-centre-navsari",
@@ -4513,7 +4551,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Orange+Dental+Care+%26+Implant+Centre/@20.9364944,72.9407797,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7774daa3d21:0x92802b6afe7ca63c!8m2!3d20.9364944!4d72.9407797!16s%2Fg%2F11jmwjy0ww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orange+Dental+Care+%26+Implant+Centre/@20.9364944,72.9407797,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7774daa3d21:0x92802b6afe7ca63c!8m2!3d20.9364944!4d72.9407797!16s%2Fg%2F11jmwjy0ww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4579,10 +4617,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Orange+Dental+Care+%26+Implant+Centre/@20.9364944,72.9407797,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7774daa3d21:0x92802b6afe7ca63c!8m2!3d20.9364944!4d72.9407797!16s%2Fg%2F11jmwjy0ww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "orange-dental-care-and-implant-centre-navsari",
@@ -4628,7 +4667,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Orange+Dental+Care+%26+Implant+Centre/@20.9365887,72.9405563,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f70077c60c8f:0x6c027cfa36e98e76!8m2!3d20.9365887!4d72.9405563!16s%2Fg%2F11z6m5glgw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orange+Dental+Care+%26+Implant+Centre/@20.9365887,72.9405563,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f70077c60c8f:0x6c027cfa36e98e76!8m2!3d20.9365887!4d72.9405563!16s%2Fg%2F11z6m5glgw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4694,10 +4733,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Orange+Dental+Care+%26+Implant+Centre/@20.9365887,72.9405563,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f70077c60c8f:0x6c027cfa36e98e76!8m2!3d20.9365887!4d72.9405563!16s%2Fg%2F11z6m5glgw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "orange-hospital-navsari",
@@ -4746,7 +4786,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Orange+Hospital/@20.9490751,72.9162037,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79155d2760f:0x83a44145131c8946!8m2!3d20.9490751!4d72.9162037!16s%2Fg%2F11h0by8kg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orange+Hospital/@20.9490751,72.9162037,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79155d2760f:0x83a44145131c8946!8m2!3d20.9490751!4d72.9162037!16s%2Fg%2F11h0by8kg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4815,7 +4855,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Orange+Hospital/@20.9490751,72.9162037,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79155d2760f:0x83a44145131c8946!8m2!3d20.9490751!4d72.9162037!16s%2Fg%2F11h0by8kg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parsi-hospital-navsari",
@@ -4863,7 +4904,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Parsi+Hospital/@20.9427645,72.9370072,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7ae54f4177b:0x4b64020554f46f80!8m2!3d20.9427645!4d72.9370072!16s%2Fg%2F11b70vvbb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parsi+Hospital/@20.9427645,72.9370072,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7ae54f4177b:0x4b64020554f46f80!8m2!3d20.9427645!4d72.9370072!16s%2Fg%2F11b70vvbb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4932,7 +4973,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parsi+Hospital/@20.9427645,72.9370072,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7ae54f4177b:0x4b64020554f46f80!8m2!3d20.9427645!4d72.9370072!16s%2Fg%2F11b70vvbb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patel-dental-clinic-and-implant-centre-navsari",
@@ -4981,7 +5023,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/PATEL+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@20.9504685,72.9225622,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7551c8d621d:0x4961b37a21ebb83c!8m2!3d20.9504685!4d72.9225622!16s%2Fg%2F11wr4nsj1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PATEL+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@20.9504685,72.9225622,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7551c8d621d:0x4961b37a21ebb83c!8m2!3d20.9504685!4d72.9225622!16s%2Fg%2F11wr4nsj1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5050,7 +5092,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PATEL+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@20.9504685,72.9225622,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7551c8d621d:0x4961b37a21ebb83c!8m2!3d20.9504685!4d72.9225622!16s%2Fg%2F11wr4nsj1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prohealth-physiotherapy-and-fitness-clinic-navsari",
@@ -5099,7 +5142,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Prohealth+Physiotherapy+%26+Fitness+Clinic/@20.9524416,72.9320021,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7b9a36a8407:0xf923d94c37e21f1e!8m2!3d20.9524416!4d72.9320021!16s%2Fg%2F11bzvyp8s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prohealth+Physiotherapy+%26+Fitness+Clinic/@20.9524416,72.9320021,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7b9a36a8407:0xf923d94c37e21f1e!8m2!3d20.9524416!4d72.9320021!16s%2Fg%2F11bzvyp8s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5168,7 +5211,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prohealth+Physiotherapy+%26+Fitness+Clinic/@20.9524416,72.9320021,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7b9a36a8407:0xf923d94c37e21f1e!8m2!3d20.9524416!4d72.9320021!16s%2Fg%2F11bzvyp8s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "r-f-dabu-hospital-navsari",
@@ -5216,7 +5260,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/R.+F.+Dabu+Hospital/@20.9527364,72.9217887,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7959d5af715:0xcc8231e5a168ad50!8m2!3d20.9527364!4d72.9217887!16s%2Fg%2F1hjghdzgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.+F.+Dabu+Hospital/@20.9527364,72.9217887,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7959d5af715:0xcc8231e5a168ad50!8m2!3d20.9527364!4d72.9217887!16s%2Fg%2F1hjghdzgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5285,7 +5329,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R.+F.+Dabu+Hospital/@20.9527364,72.9217887,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7959d5af715:0xcc8231e5a168ad50!8m2!3d20.9527364!4d72.9217887!16s%2Fg%2F1hjghdzgj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "raj-clinic-navsari",
@@ -5331,7 +5376,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Raj+Clinic/@20.9395034,72.9290596,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a404d62703:0x424f320d7678e291!8m2!3d20.9395034!4d72.9290596!16s%2Fg%2F11ddwxwh0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raj+Clinic/@20.9395034,72.9290596,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a404d62703:0x424f320d7678e291!8m2!3d20.9395034!4d72.9290596!16s%2Fg%2F11ddwxwh0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5397,10 +5442,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raj+Clinic/@20.9395034,72.9290596,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a404d62703:0x424f320d7678e291!8m2!3d20.9395034!4d72.9290596!16s%2Fg%2F11ddwxwh0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ramaben-hospital-navsari",
@@ -5450,7 +5496,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ramaben+Hospital/@20.9540697,72.9230622,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bfee017773:0x953a2a88f21a9f79!8m2!3d20.9540697!4d72.9230622!16s%2Fg%2F11bbrhz88d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ramaben+Hospital/@20.9540697,72.9230622,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bfee017773:0x953a2a88f21a9f79!8m2!3d20.9540697!4d72.9230622!16s%2Fg%2F11bbrhz88d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5519,7 +5565,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ramaben+Hospital/@20.9540697,72.9230622,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7bfee017773:0x953a2a88f21a9f79!8m2!3d20.9540697!4d72.9230622!16s%2Fg%2F11bbrhz88d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ravin-surgical-and-maternity-home-navsari",
@@ -5567,7 +5614,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/RAVIN+SURGICAL+AND+MATERNITY+HOME/@20.9498142,72.9164327,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f76f5b24de23:0xfd4474002dd1279b!8m2!3d20.9498142!4d72.9164327!16s%2Fg%2F11vcvd6r52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RAVIN+SURGICAL+AND+MATERNITY+HOME/@20.9498142,72.9164327,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f76f5b24de23:0xfd4474002dd1279b!8m2!3d20.9498142!4d72.9164327!16s%2Fg%2F11vcvd6r52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5633,10 +5680,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RAVIN+SURGICAL+AND+MATERNITY+HOME/@20.9498142,72.9164327,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f76f5b24de23:0xfd4474002dd1279b!8m2!3d20.9498142!4d72.9164327!16s%2Fg%2F11vcvd6r52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "reliva-physiotherapy-and-rehab-navsari-navsari",
@@ -5686,7 +5734,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ReLiva+Physiotherapy+%26+Rehab:+Navsari/@20.9409689,72.9688211,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f742c746ed77:0x4076e4ec1fa65dde!8m2!3d20.9409689!4d72.9688211!16s%2Fg%2F11y2bs5wvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ReLiva+Physiotherapy+%26+Rehab:+Navsari/@20.9409689,72.9688211,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f742c746ed77:0x4076e4ec1fa65dde!8m2!3d20.9409689!4d72.9688211!16s%2Fg%2F11y2bs5wvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5752,10 +5800,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ReLiva+Physiotherapy+%26+Rehab:+Navsari/@20.9409689,72.9688211,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f742c746ed77:0x4076e4ec1fa65dde!8m2!3d20.9409689!4d72.9688211!16s%2Fg%2F11y2bs5wvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rotary-eye-institute-navsari",
@@ -5805,7 +5854,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rotary+Eye+Institute/@20.9485639,72.9285969,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7b9667775f1:0x13363d4761435a70!8m2!3d20.9485639!4d72.9285969!16s%2Fg%2F1wd3tht7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rotary+Eye+Institute/@20.9485639,72.9285969,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7b9667775f1:0x13363d4761435a70!8m2!3d20.9485639!4d72.9285969!16s%2Fg%2F1wd3tht7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5874,7 +5923,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rotary+Eye+Institute/@20.9485639,72.9285969,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7b9667775f1:0x13363d4761435a70!8m2!3d20.9485639!4d72.9285969!16s%2Fg%2F1wd3tht7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saaral-heart-center-navsari",
@@ -5923,7 +5973,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/SAARAL+HEART+CENTER/@20.9242504,72.9471845,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f70092402c85:0x82d998d52d27b0!8m2!3d20.9242504!4d72.9471845!16s%2Fg%2F11t6ydkxln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAARAL+HEART+CENTER/@20.9242504,72.9471845,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f70092402c85:0x82d998d52d27b0!8m2!3d20.9242504!4d72.9471845!16s%2Fg%2F11t6ydkxln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5992,7 +6042,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAARAL+HEART+CENTER/@20.9242504,72.9471845,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f70092402c85:0x82d998d52d27b0!8m2!3d20.9242504!4d72.9471845!16s%2Fg%2F11t6ydkxln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sakhiya-skin-clinic-best-skin-and-hair-clinic-navsari-navsari",
@@ -6041,7 +6092,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+And+Hair+Clinic+Navsari/@20.9500546,72.9170483,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7150233a565:0xb93cc49842e13fe9!8m2!3d20.9500546!4d72.9170483!16s%2Fg%2F11rfr6m5xg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+And+Hair+Clinic+Navsari/@20.9500546,72.9170483,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7150233a565:0xb93cc49842e13fe9!8m2!3d20.9500546!4d72.9170483!16s%2Fg%2F11rfr6m5xg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6110,7 +6161,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+And+Hair+Clinic+Navsari/@20.9500546,72.9170483,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7150233a565:0xb93cc49842e13fe9!8m2!3d20.9500546!4d72.9170483!16s%2Fg%2F11rfr6m5xg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samvedana-hospital-navsari",
@@ -6158,7 +6210,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Samvedana+Hospital/@20.9496047,72.9286612,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7f89b205a9f:0x607c21b375ed5eb8!8m2!3d20.9496047!4d72.9286612!16s%2Fg%2F11h5vdfnfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samvedana+Hospital/@20.9496047,72.9286612,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7f89b205a9f:0x607c21b375ed5eb8!8m2!3d20.9496047!4d72.9286612!16s%2Fg%2F11h5vdfnfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6227,7 +6279,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samvedana+Hospital/@20.9496047,72.9286612,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7f89b205a9f:0x607c21b375ed5eb8!8m2!3d20.9496047!4d72.9286612!16s%2Fg%2F11h5vdfnfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanidhya-dental-care-and-implant-centre-navsari",
@@ -6275,7 +6328,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sanidhya+Dental+Care+and+Implant+Centre/data=!4m7!3m6!1s0x3be0f7cbe37f7fcf:0x68f1a47288272c09!8m2!3d20.9502357!4d72.9491232!16s%2Fg%2F11rv903v7h!19sChIJz39_48v34DsRCSwniHKk8Wg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanidhya+Dental+Care+and+Implant+Centre/data=!4m7!3m6!1s0x3be0f7cbe37f7fcf:0x68f1a47288272c09!8m2!3d20.9502357!4d72.9491232!16s%2Fg%2F11rv903v7h!19sChIJz39_48v34DsRCSwniHKk8Wg?authuser=0&hl=en&rclk=1"
@@ -6344,7 +6397,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanidhya+Dental+Care+and+Implant+Centre/data=!4m7!3m6!1s0x3be0f7cbe37f7fcf:0x68f1a47288272c09!8m2!3d20.9502357!4d72.9491232!16s%2Fg%2F11rv903v7h!19sChIJz39_48v34DsRCSwniHKk8Wg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sardar-patel-hospital-jalalpore",
@@ -6392,7 +6446,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Sardar+Patel+Hospital/@20.9501191,72.9072884,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f78c4ea7b64b:0xacb4300970ec9b4a!8m2!3d20.9501191!4d72.9072884!16s%2Fg%2F11b6wq9_m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sardar+Patel+Hospital/@20.9501191,72.9072884,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f78c4ea7b64b:0xacb4300970ec9b4a!8m2!3d20.9501191!4d72.9072884!16s%2Fg%2F11b6wq9_m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6461,7 +6515,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sardar+Patel+Hospital/@20.9501191,72.9072884,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f78c4ea7b64b:0xacb4300970ec9b4a!8m2!3d20.9501191!4d72.9072884!16s%2Fg%2F11b6wq9_m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sarvajanik-clinic-navsari",
@@ -6509,7 +6564,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SARVAJANIK+CLINIC/@20.9554279,72.9308164,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7922ae65889:0xd383ba4407d941b3!8m2!3d20.9554279!4d72.9308164!16s%2Fg%2F11b6bw_dh2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SARVAJANIK+CLINIC/@20.9554279,72.9308164,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7922ae65889:0xd383ba4407d941b3!8m2!3d20.9554279!4d72.9308164!16s%2Fg%2F11b6bw_dh2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6575,10 +6630,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SARVAJANIK+CLINIC/@20.9554279,72.9308164,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7922ae65889:0xd383ba4407d941b3!8m2!3d20.9554279!4d72.9308164!16s%2Fg%2F11b6bw_dh2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-sai-oral-care-and-implant-centre-navsari",
@@ -6627,7 +6683,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Sai+Oral+Care+%26+Implant+centre/data=!4m7!3m6!1s0x3be0f7d641fea3c9:0xb4ecd6009591edca!8m2!3d20.951568!4d72.9214639!16s%2Fg%2F11q9qkzjbt!19sChIJyaP-Qdb34DsRyu2RlQDW7LQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Sai+Oral+Care+%26+Implant+centre/data=!4m7!3m6!1s0x3be0f7d641fea3c9:0xb4ecd6009591edca!8m2!3d20.951568!4d72.9214639!16s%2Fg%2F11q9qkzjbt!19sChIJyaP-Qdb34DsRyu2RlQDW7LQ?authuser=0&hl=en&rclk=1"
@@ -6693,10 +6749,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Sai+Oral+Care+%26+Implant+centre/data=!4m7!3m6!1s0x3be0f7d641fea3c9:0xb4ecd6009591edca!8m2!3d20.951568!4d72.9214639!16s%2Fg%2F11q9qkzjbt!19sChIJyaP-Qdb34DsRyu2RlQDW7LQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-sai-skin-care-navsari",
@@ -6745,7 +6802,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+sai+skin+care/@20.9496035,72.9147373,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7d0eb99428b:0xbd1761d8e8ee893e!8m2!3d20.9496035!4d72.9147373!16s%2Fg%2F11h2ff1ljm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+sai+skin+care/@20.9496035,72.9147373,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7d0eb99428b:0xbd1761d8e8ee893e!8m2!3d20.9496035!4d72.9147373!16s%2Fg%2F11h2ff1ljm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6811,10 +6868,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+sai+skin+care/@20.9496035,72.9147373,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7d0eb99428b:0xbd1761d8e8ee893e!8m2!3d20.9496035!4d72.9147373!16s%2Fg%2F11h2ff1ljm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-krishna-kripa-implant-and-dental-clinic-skkdental-clinic-best-dental-clinic-in-navsari-navsari",
@@ -6863,7 +6921,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Krishna+Kripa+Implant+%26+Dental+Clinic+(skkdental+clinic+)+%7C+Best+Dental+Clinic+in+Navsari/@20.9476663,72.9204498,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a82567697f:0x9ae180810958b8f3!8m2!3d20.9476663!4d72.9204498!16s%2Fg%2F11ft496c90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Krishna+Kripa+Implant+%26+Dental+Clinic+(skkdental+clinic+)+%7C+Best+Dental+Clinic+in+Navsari/@20.9476663,72.9204498,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a82567697f:0x9ae180810958b8f3!8m2!3d20.9476663!4d72.9204498!16s%2Fg%2F11ft496c90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6932,7 +6990,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Krishna+Kripa+Implant+%26+Dental+Clinic+(skkdental+clinic+)+%7C+Best+Dental+Clinic+in+Navsari/@20.9476663,72.9204498,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a82567697f:0x9ae180810958b8f3!8m2!3d20.9476663!4d72.9204498!16s%2Fg%2F11ft496c90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-stories-dental-clinic-and-implant-center-navsari",
@@ -6980,7 +7039,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Stories+Dental+Clinic+%26+Implant+Center/@20.9434725,72.9289287,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f77085429047:0xfd270e2917b1aed8!8m2!3d20.9434725!4d72.9289287!16s%2Fg%2F11vl384x2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Stories+Dental+Clinic+%26+Implant+Center/@20.9434725,72.9289287,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f77085429047:0xfd270e2917b1aed8!8m2!3d20.9434725!4d72.9289287!16s%2Fg%2F11vl384x2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7046,10 +7105,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Stories+Dental+Clinic+%26+Implant+Center/@20.9434725,72.9289287,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f77085429047:0xfd270e2917b1aed8!8m2!3d20.9434725!4d72.9289287!16s%2Fg%2F11vl384x2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smiles-dental-clinic-and-implant-centre-navsari",
@@ -7096,7 +7156,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Smiles+Dental+clinic+and+Implant+centre/@20.9488692,72.9326709,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7ba41bf1915:0x61db1427b9a6f8c4!8m2!3d20.9488692!4d72.9326709!16s%2Fg%2F11bw6qbk61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smiles+Dental+clinic+and+Implant+centre/@20.9488692,72.9326709,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7ba41bf1915:0x61db1427b9a6f8c4!8m2!3d20.9488692!4d72.9326709!16s%2Fg%2F11bw6qbk61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7162,10 +7222,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smiles+Dental+clinic+and+Implant+centre/@20.9488692,72.9326709,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7ba41bf1915:0x61db1427b9a6f8c4!8m2!3d20.9488692!4d72.9326709!16s%2Fg%2F11bw6qbk61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sudeep-ent-hospital-navsari",
@@ -7215,7 +7276,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SUDEEP+ENT+HOSPITAL/@20.9503614,72.9211218,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f793ddb2c6c7:0x52a0dba773ed8697!8m2!3d20.9503614!4d72.9211218!16s%2Fg%2F11dymnpl2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUDEEP+ENT+HOSPITAL/@20.9503614,72.9211218,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f793ddb2c6c7:0x52a0dba773ed8697!8m2!3d20.9503614!4d72.9211218!16s%2Fg%2F11dymnpl2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7284,7 +7345,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SUDEEP+ENT+HOSPITAL/@20.9503614,72.9211218,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f793ddb2c6c7:0x52a0dba773ed8697!8m2!3d20.9503614!4d72.9211218!16s%2Fg%2F11dymnpl2g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surbhi-hospital-navsari",
@@ -7332,7 +7394,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Surbhi+Hospital/@20.9497873,72.9151916,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f793e6f226f1:0x5568b287b06a2ae3!8m2!3d20.9497873!4d72.9151916!16s%2Fg%2F1q5hrh7wl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surbhi+Hospital/@20.9497873,72.9151916,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f793e6f226f1:0x5568b287b06a2ae3!8m2!3d20.9497873!4d72.9151916!16s%2Fg%2F1q5hrh7wl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7401,7 +7463,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surbhi+Hospital/@20.9497873,72.9151916,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f793e6f226f1:0x5568b287b06a2ae3!8m2!3d20.9497873!4d72.9151916!16s%2Fg%2F1q5hrh7wl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tanishq-orthodontic-and-dental-care-best-dentist-dental-clinic-in-navsari-navsari",
@@ -7452,7 +7515,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tanishq+Orthodontic+and+Dental+Care+-+Best+Dentist+%7C+Dental+Clinic+in+Navsari/@20.9519952,72.9421117,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7b4765eaaa9:0xd597de5b9cabf905!8m2!3d20.9519952!4d72.9421117!16s%2Fg%2F11gfgpsfhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tanishq+Orthodontic+and+Dental+Care+-+Best+Dentist+%7C+Dental+Clinic+in+Navsari/@20.9519952,72.9421117,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7b4765eaaa9:0xd597de5b9cabf905!8m2!3d20.9519952!4d72.9421117!16s%2Fg%2F11gfgpsfhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7521,7 +7584,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tanishq+Orthodontic+and+Dental+Care+-+Best+Dentist+%7C+Dental+Clinic+in+Navsari/@20.9519952,72.9421117,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7b4765eaaa9:0xd597de5b9cabf905!8m2!3d20.9519952!4d72.9421117!16s%2Fg%2F11gfgpsfhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tapkirwala-dental-clinic-navsari",
@@ -7569,7 +7633,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Tapkirwala+Dental+Clinic/@20.9498934,72.9167666,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79406477c59:0x700930ce9505340f!8m2!3d20.9498934!4d72.9167666!16s%2Fg%2F1q62cgf2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tapkirwala+Dental+Clinic/@20.9498934,72.9167666,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79406477c59:0x700930ce9505340f!8m2!3d20.9498934!4d72.9167666!16s%2Fg%2F1q62cgf2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7638,7 +7702,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tapkirwala+Dental+Clinic/@20.9498934,72.9167666,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f79406477c59:0x700930ce9505340f!8m2!3d20.9498934!4d72.9167666!16s%2Fg%2F1q62cgf2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-dental-house-navsari-navsari",
@@ -7686,7 +7751,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Dental+House,Navsari/@20.9504922,72.9203975,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7e42a6f58a7:0x4c45d4d1c043503d!8m2!3d20.9504922!4d72.9203975!16s%2Fg%2F11m9s3pxzf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dental+House,Navsari/@20.9504922,72.9203975,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7e42a6f58a7:0x4c45d4d1c043503d!8m2!3d20.9504922!4d72.9203975!16s%2Fg%2F11m9s3pxzf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7752,10 +7817,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Dental+House,Navsari/@20.9504922,72.9203975,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7e42a6f58a7:0x4c45d4d1c043503d!8m2!3d20.9504922!4d72.9203975!16s%2Fg%2F11m9s3pxzf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-dorabji-nanabhoy-mehta-sarvajanik-hospital-navsari",
@@ -7803,7 +7869,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/The+Dorabji+Nanabhoy+Mehta+Sarvajanik+Hospital/@20.942987,72.9369315,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7afaf080a5f:0x390162539069998f!8m2!3d20.942987!4d72.9369315!16s%2Fg%2F1td_9428?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dorabji+Nanabhoy+Mehta+Sarvajanik+Hospital/@20.942987,72.9369315,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7afaf080a5f:0x390162539069998f!8m2!3d20.942987!4d72.9369315!16s%2Fg%2F1td_9428?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7872,7 +7938,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Dorabji+Nanabhoy+Mehta+Sarvajanik+Hospital/@20.942987,72.9369315,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7afaf080a5f:0x390162539069998f!8m2!3d20.942987!4d72.9369315!16s%2Fg%2F1td_9428?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thousand-smiles-care-dental-clinic-navsari",
@@ -7921,7 +7988,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Thousand+Smiles+Care+Dental+Clinic/@20.9403166,72.939025,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f735fb6a263b:0xc242e9a8c2fc2a2b!8m2!3d20.9403166!4d72.939025!16s%2Fg%2F11vpvsd0c0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thousand+Smiles+Care+Dental+Clinic/@20.9403166,72.939025,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f735fb6a263b:0xc242e9a8c2fc2a2b!8m2!3d20.9403166!4d72.939025!16s%2Fg%2F11vpvsd0c0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7987,10 +8054,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thousand+Smiles+Care+Dental+Clinic/@20.9403166,72.939025,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f735fb6a263b:0xc242e9a8c2fc2a2b!8m2!3d20.9403166!4d72.939025!16s%2Fg%2F11vpvsd0c0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "uday-dental-care-and-implant-centre-navsari",
@@ -8039,7 +8107,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Uday+Dental+care+and+Implant+centre/@20.9217921,72.9079076,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a4a1fe3233:0x215b516e7d318c20!8m2!3d20.9217921!4d72.9079076!16s%2Fg%2F11ghp_v12x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uday+Dental+care+and+Implant+centre/@20.9217921,72.9079076,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a4a1fe3233:0x215b516e7d318c20!8m2!3d20.9217921!4d72.9079076!16s%2Fg%2F11ghp_v12x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8108,7 +8176,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Uday+Dental+care+and+Implant+centre/@20.9217921,72.9079076,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7a4a1fe3233:0x215b516e7d318c20!8m2!3d20.9217921!4d72.9079076!16s%2Fg%2F11ghp_v12x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "unity-hospital-navsari",
@@ -8156,7 +8225,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/UNITY+HOSPITAL/@20.94908,72.9162038,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f72cbcfa3917:0xfd45fe3fc4325a1c!8m2!3d20.94908!4d72.9162038!16s%2Fg%2F11j0ctnvxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UNITY+HOSPITAL/@20.94908,72.9162038,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f72cbcfa3917:0xfd45fe3fc4325a1c!8m2!3d20.94908!4d72.9162038!16s%2Fg%2F11j0ctnvxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8225,7 +8294,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/UNITY+HOSPITAL/@20.94908,72.9162038,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f72cbcfa3917:0xfd45fe3fc4325a1c!8m2!3d20.94908!4d72.9162038!16s%2Fg%2F11j0ctnvxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vaatsalya-hospital-navsari",
@@ -8273,7 +8343,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Vaatsalya+Hospital/@20.9337144,72.9139742,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7029d5ed677:0x179d025adc347773!8m2!3d20.9337144!4d72.9139742!16s%2Fg%2F11q3qg4fgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaatsalya+Hospital/@20.9337144,72.9139742,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7029d5ed677:0x179d025adc347773!8m2!3d20.9337144!4d72.9139742!16s%2Fg%2F11q3qg4fgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8342,7 +8412,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vaatsalya+Hospital/@20.9337144,72.9139742,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7029d5ed677:0x179d025adc347773!8m2!3d20.9337144!4d72.9139742!16s%2Fg%2F11q3qg4fgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vardan-hospital-navsari",
@@ -8390,7 +8461,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Vardan+Hospital/data=!4m7!3m6!1s0x3be0f7b528927fab:0x488ba722412a6342!8m2!3d20.9218023!4d72.9078994!16s%2Fg%2F11t25prdd3!19sChIJq3-SKLX34DsRQmMqQSKni0g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardan+Hospital/data=!4m7!3m6!1s0x3be0f7b528927fab:0x488ba722412a6342!8m2!3d20.9218023!4d72.9078994!16s%2Fg%2F11t25prdd3!19sChIJq3-SKLX34DsRQmMqQSKni0g?authuser=0&hl=en&rclk=1"
@@ -8459,7 +8530,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vardan+Hospital/data=!4m7!3m6!1s0x3be0f7b528927fab:0x488ba722412a6342!8m2!3d20.9218023!4d72.9078994!16s%2Fg%2F11t25prdd3!19sChIJq3-SKLX34DsRQmMqQSKni0g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vatsalya-dental-clinic-and-implant-centre-navsari",
@@ -8508,7 +8580,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vatsalya+Dental+Clinic+%26+Implant+Centre/@20.9484334,72.9375165,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f756ff5dcc97:0xf3b9c1fd35663e52!8m2!3d20.9484334!4d72.9375165!16s%2Fg%2F11syjs0s61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vatsalya+Dental+Clinic+%26+Implant+Centre/@20.9484334,72.9375165,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f756ff5dcc97:0xf3b9c1fd35663e52!8m2!3d20.9484334!4d72.9375165!16s%2Fg%2F11syjs0s61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8574,10 +8646,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vatsalya+Dental+Clinic+%26+Implant+Centre/@20.9484334,72.9375165,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f756ff5dcc97:0xf3b9c1fd35663e52!8m2!3d20.9484334!4d72.9375165!16s%2Fg%2F11syjs0s61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yashfeen-group-of-hospital-navsari",
@@ -8626,7 +8699,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yashfeen+Group+Of+Hospital/@20.9614828,72.9294947,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7c6a3410899:0x9646c92bc93308cc!8m2!3d20.9614828!4d72.9294947!16s%2Fg%2F11b6svg3hl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashfeen+Group+Of+Hospital/@20.9614828,72.9294947,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7c6a3410899:0x9646c92bc93308cc!8m2!3d20.9614828!4d72.9294947!16s%2Fg%2F11b6svg3hl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8695,7 +8768,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashfeen+Group+Of+Hospital/@20.9614828,72.9294947,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7c6a3410899:0x9646c92bc93308cc!8m2!3d20.9614828!4d72.9294947!16s%2Fg%2F11b6svg3hl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yashfeen-hospital-navsari",
@@ -8743,7 +8817,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Yashfeen+Hospital/@20.962239,72.928905,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f70016670547:0xceb543d03dc18766!8m2!3d20.962239!4d72.928905!16s%2Fg%2F11yzp9yk97?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashfeen+Hospital/@20.962239,72.928905,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f70016670547:0xceb543d03dc18766!8m2!3d20.962239!4d72.928905!16s%2Fg%2F11yzp9yk97?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8812,7 +8886,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashfeen+Hospital/@20.962239,72.928905,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f70016670547:0xceb543d03dc18766!8m2!3d20.962239!4d72.928905!16s%2Fg%2F11yzp9yk97?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "zaveri-dental-clinic-navsari",
@@ -8861,7 +8936,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Zaveri+dental+clinic/@20.9501326,72.9327986,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7fdef11b51f:0xe00f8e83c633d1fa!8m2!3d20.9501326!4d72.9327986!16s%2Fg%2F11gx_zk769?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zaveri+dental+clinic/@20.9501326,72.9327986,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7fdef11b51f:0xe00f8e83c633d1fa!8m2!3d20.9501326!4d72.9327986!16s%2Fg%2F11gx_zk769?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8930,7 +9005,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zaveri+dental+clinic/@20.9501326,72.9327986,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f7fdef11b51f:0xe00f8e83c633d1fa!8m2!3d20.9501326!4d72.9327986!16s%2Fg%2F11gx_zk769?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "navsari",
@@ -8978,7 +9054,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/%E0%A4%AF%E0%A4%B6%E0%A4%AB%E0%A4%BF%E0%A4%A8+%E0%A4%B9%E0%A5%8B%E0%A4%B8%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/@20.9466903,72.9520428,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f651f8b6a7a3:0xe5df0834b84a4065!8m2!3d20.9466903!4d72.9520428!16s%2Fg%2F11c2ns0q0y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%AF%E0%A4%B6%E0%A4%AB%E0%A4%BF%E0%A4%A8+%E0%A4%B9%E0%A5%8B%E0%A4%B8%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/@20.9466903,72.9520428,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f651f8b6a7a3:0xe5df0834b84a4065!8m2!3d20.9466903!4d72.9520428!16s%2Fg%2F11c2ns0q0y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9044,9 +9120,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%AF%E0%A4%B6%E0%A4%AB%E0%A4%BF%E0%A4%A8+%E0%A4%B9%E0%A5%8B%E0%A4%B8%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/@20.9466903,72.9520428,17z/data=!3m1!4b1!4m6!3m5!1s0x3be0f651f8b6a7a3:0xe5df0834b84a4065!8m2!3d20.9466903!4d72.9520428!16s%2Fg%2F11c2ns0q0y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

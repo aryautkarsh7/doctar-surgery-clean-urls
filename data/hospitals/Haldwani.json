@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/32+Pearls+Dental+Clinic+and+Implant+Center/data=!4m7!3m6!1s0x39a09b13d200695f:0xb6b8c98d6a2855c3!8m2!3d29.2244306!4d79.4998625!16s%2Fg%2F1v5fq9g6!19sChIJX2kA0hOboDkRw1Uoao3JuLY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+Pearls+Dental+Clinic+and+Implant+Center/data=!4m7!3m6!1s0x39a09b13d200695f:0xb6b8c98d6a2855c3!8m2!3d29.2244306!4d79.4998625!16s%2Fg%2F1v5fq9g6!19sChIJX2kA0hOboDkRw1Uoao3JuLY?authuser=0&hl=en&rclk=1"
@@ -114,7 +114,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/32+Pearls+Dental+Clinic+and+Implant+Center/data=!4m7!3m6!1s0x39a09b13d200695f:0xb6b8c98d6a2855c3!8m2!3d29.2244306!4d79.4998625!16s%2Fg%2F1v5fq9g6!19sChIJX2kA0hOboDkRw1Uoao3JuLY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aarogyada-hospital-haldwani",
@@ -162,7 +163,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Aarogyada+Hospital/@29.2387224,79.523858,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09a5633ed4305:0xd38ab5f9da23b111!8m2!3d29.2387224!4d79.523858!16s%2Fg%2F11by_k7h4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogyada+Hospital/@29.2387224,79.523858,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09a5633ed4305:0xd38ab5f9da23b111!8m2!3d29.2387224!4d79.523858!16s%2Fg%2F11by_k7h4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -231,7 +232,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aarogyada+Hospital/@29.2387224,79.523858,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09a5633ed4305:0xd38ab5f9da23b111!8m2!3d29.2387224!4d79.523858!16s%2Fg%2F11by_k7h4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "adarsh-institute-of-urology-and-laparoscopic-surgery-haldwani",
@@ -279,7 +281,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Adarsh+Institute+Of+Urology+and+Laparoscopic+Surgery/@29.2182554,79.5182269,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b698d48eae7:0x3d52bc1b37a2a1d6!8m2!3d29.2182554!4d79.5182269!16s%2Fg%2F11gxrly5dy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adarsh+Institute+Of+Urology+and+Laparoscopic+Surgery/@29.2182554,79.5182269,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b698d48eae7:0x3d52bc1b37a2a1d6!8m2!3d29.2182554!4d79.5182269!16s%2Fg%2F11gxrly5dy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -348,7 +350,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Adarsh+Institute+Of+Urology+and+Laparoscopic+Surgery/@29.2182554,79.5182269,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b698d48eae7:0x3d52bc1b37a2a1d6!8m2!3d29.2182554!4d79.5182269!16s%2Fg%2F11gxrly5dy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advanced-laser-care-hospital-haldwani",
@@ -397,7 +400,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Advanced+Laser+Care+Hospital/@29.2481351,79.5365694,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bc4babb7fcf:0x64485bbe873683b1!8m2!3d29.2481351!4d79.5365694!16s%2Fg%2F11vjjhrvj6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Laser+Care+Hospital/@29.2481351,79.5365694,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bc4babb7fcf:0x64485bbe873683b1!8m2!3d29.2481351!4d79.5365694!16s%2Fg%2F11vjjhrvj6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -466,7 +469,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advanced+Laser+Care+Hospital/@29.2481351,79.5365694,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bc4babb7fcf:0x64485bbe873683b1!8m2!3d29.2481351!4d79.5365694!16s%2Fg%2F11vjjhrvj6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "agarwal-child-surgical-care-center-haldwani",
@@ -515,7 +519,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Agarwal+Child+Surgical+Care+Center/@29.2099368,79.5237298,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09adc6218f125:0x95c6d86600afec3d!8m2!3d29.2099368!4d79.5237298!16s%2Fg%2F11ggs2n2ng?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agarwal+Child+Surgical+Care+Center/@29.2099368,79.5237298,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09adc6218f125:0x95c6d86600afec3d!8m2!3d29.2099368!4d79.5237298!16s%2Fg%2F11ggs2n2ng?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -584,7 +588,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Agarwal+Child+Surgical+Care+Center/@29.2099368,79.5237298,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09adc6218f125:0x95c6d86600afec3d!8m2!3d29.2099368!4d79.5237298!16s%2Fg%2F11ggs2n2ng?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "agarwal-clinic-and-nursing-home-haldwani",
@@ -633,7 +638,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Agarwal+Clinic+And+Nursing+Home/@29.22114,79.52405,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae5cd890d5f:0x3ee28c3c09cfed4f!8m2!3d29.22114!4d79.52405!16s%2Fg%2F11d_8mflg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Agarwal+Clinic+And+Nursing+Home/@29.22114,79.52405,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae5cd890d5f:0x3ee28c3c09cfed4f!8m2!3d29.22114!4d79.52405!16s%2Fg%2F11d_8mflg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -699,10 +704,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Agarwal+Clinic+And+Nursing+Home/@29.22114,79.52405,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae5cd890d5f:0x3ee28c3c09cfed4f!8m2!3d29.22114!4d79.52405!16s%2Fg%2F11d_8mflg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aligarh-dental-clinic-haldwani",
@@ -750,7 +756,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Aligarh+Dental+Clinic/@29.212755,79.5293483,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b0b73eeb2b1:0xc2c53e8b749a9867!8m2!3d29.212755!4d79.5293483!16s%2Fg%2F11rcrf45t1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aligarh+Dental+Clinic/@29.212755,79.5293483,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b0b73eeb2b1:0xc2c53e8b749a9867!8m2!3d29.212755!4d79.5293483!16s%2Fg%2F11rcrf45t1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -819,7 +825,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aligarh+Dental+Clinic/@29.212755,79.5293483,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b0b73eeb2b1:0xc2c53e8b749a9867!8m2!3d29.212755!4d79.5293483!16s%2Fg%2F11rcrf45t1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashutosh-dental-and-diabetic-clinic-haldwani",
@@ -868,7 +875,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ashutosh+dental+and+diabetic+clinic/@29.1944607,79.5030852,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b05a65413f9:0xb2fa0e78a8ac2d0a!8m2!3d29.1944607!4d79.5030852!16s%2Fg%2F11tg86cy_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashutosh+dental+and+diabetic+clinic/@29.1944607,79.5030852,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b05a65413f9:0xb2fa0e78a8ac2d0a!8m2!3d29.1944607!4d79.5030852!16s%2Fg%2F11tg86cy_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -934,10 +941,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashutosh+dental+and+diabetic+clinic/@29.1944607,79.5030852,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b05a65413f9:0xb2fa0e78a8ac2d0a!8m2!3d29.1944607!4d79.5030852!16s%2Fg%2F11tg86cy_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashutosh-implant-and-orthodontic-center-haldwani",
@@ -988,7 +996,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ashutosh+Implant+And+Orthodontic+Center/@29.1943982,79.5031693,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b50018a69f9:0x171379cc983ae0d4!8m2!3d29.1943982!4d79.5031693!16s%2Fg%2F11smqkn5v8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashutosh+Implant+And+Orthodontic+Center/@29.1943982,79.5031693,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b50018a69f9:0x171379cc983ae0d4!8m2!3d29.1943982!4d79.5031693!16s%2Fg%2F11smqkn5v8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1054,10 +1062,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashutosh+Implant+And+Orthodontic+Center/@29.1943982,79.5031693,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b50018a69f9:0x171379cc983ae0d4!8m2!3d29.1943982!4d79.5031693!16s%2Fg%2F11smqkn5v8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayu-care-clinic-and-infertility-center-in-haldwani-haldwani",
@@ -1108,7 +1117,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ayu+Care+-+Clinic+And+Infertility+Center+in+Haldwani/@29.2138135,79.5174002,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ba6bed28a79:0xbdfdaa3b28b54d25!8m2!3d29.2138135!4d79.5174002!16s%2Fg%2F11k4s0d2l6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayu+Care+-+Clinic+And+Infertility+Center+in+Haldwani/@29.2138135,79.5174002,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ba6bed28a79:0xbdfdaa3b28b54d25!8m2!3d29.2138135!4d79.5174002!16s%2Fg%2F11k4s0d2l6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1174,10 +1183,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayu+Care+-+Clinic+And+Infertility+Center+in+Haldwani/@29.2138135,79.5174002,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ba6bed28a79:0xbdfdaa3b28b54d25!8m2!3d29.2138135!4d79.5174002!16s%2Fg%2F11k4s0d2l6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "best-dental-clinic-haldwani",
@@ -1226,7 +1236,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Best+Dental+Clinic/@29.2195831,79.5232519,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2a018f9967:0xe26ee9d6d620c49!8m2!3d29.2195831!4d79.5232519!16s%2Fg%2F11sjrnwzh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Best+Dental+Clinic/@29.2195831,79.5232519,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2a018f9967:0xe26ee9d6d620c49!8m2!3d29.2195831!4d79.5232519!16s%2Fg%2F11sjrnwzh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1292,10 +1302,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Best+Dental+Clinic/@29.2195831,79.5232519,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2a018f9967:0xe26ee9d6d620c49!8m2!3d29.2195831!4d79.5232519!16s%2Fg%2F11sjrnwzh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhanu-dental-and-implant-clinic-haldwani",
@@ -1344,7 +1355,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhanu+Dental+And+Implant+Clinic/@29.2224925,79.5121158,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2d2f94f7fd:0xae13eb7df29fc8d8!8m2!3d29.2224925!4d79.5121158!16s%2Fg%2F11vzbxp7wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhanu+Dental+And+Implant+Clinic/@29.2224925,79.5121158,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2d2f94f7fd:0xae13eb7df29fc8d8!8m2!3d29.2224925!4d79.5121158!16s%2Fg%2F11vzbxp7wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1410,10 +1421,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhanu+Dental+And+Implant+Clinic/@29.2224925,79.5121158,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2d2f94f7fd:0xae13eb7df29fc8d8!8m2!3d29.2224925!4d79.5121158!16s%2Fg%2F11vzbxp7wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhatt-dental-clinic-haldwani",
@@ -1462,7 +1474,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bhatt+Dental+Clinic/@29.2208435,79.4978759,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b13d1f607ed:0x9970b0f3ad0b7128!8m2!3d29.2208435!4d79.4978759!16s%2Fg%2F11y4137bx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhatt+Dental+Clinic/@29.2208435,79.4978759,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b13d1f607ed:0x9970b0f3ad0b7128!8m2!3d29.2208435!4d79.4978759!16s%2Fg%2F11y4137bx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1528,10 +1540,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhatt+Dental+Clinic/@29.2208435,79.4978759,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b13d1f607ed:0x9970b0f3ad0b7128!8m2!3d29.2208435!4d79.4978759!16s%2Fg%2F11y4137bx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhatt-ent-clinic-haldwani",
@@ -1580,7 +1593,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bhatt+ENT+clinic/@29.2335174,79.5270361,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bbbac1b1985:0xa11adebcdd32a1be!8m2!3d29.2335174!4d79.5270361!16s%2Fg%2F11x0q5hjnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhatt+ENT+clinic/@29.2335174,79.5270361,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bbbac1b1985:0xa11adebcdd32a1be!8m2!3d29.2335174!4d79.5270361!16s%2Fg%2F11x0q5hjnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1646,10 +1659,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhatt+ENT+clinic/@29.2335174,79.5270361,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bbbac1b1985:0xa11adebcdd32a1be!8m2!3d29.2335174!4d79.5270361!16s%2Fg%2F11x0q5hjnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhatt-hospital-haldwani",
@@ -1697,7 +1711,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Bhatt+Hospital/@29.2221629,79.5298017,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09aeede9fa2e1:0xe267d9ea7821c63c!8m2!3d29.2221629!4d79.5298017!16s%2Fg%2F11c1pt_43f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhatt+Hospital/@29.2221629,79.5298017,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09aeede9fa2e1:0xe267d9ea7821c63c!8m2!3d29.2221629!4d79.5298017!16s%2Fg%2F11c1pt_43f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1766,7 +1780,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhatt+Hospital/@29.2221629,79.5298017,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09aeede9fa2e1:0xe267d9ea7821c63c!8m2!3d29.2221629!4d79.5298017!16s%2Fg%2F11c1pt_43f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bisht-dental-clinic-haldwani",
@@ -1815,7 +1830,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Bisht+Dental+Clinic/@29.2014398,79.478566,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b242a90cd4d:0xe8d5e1e12bb5c186!8m2!3d29.2014398!4d79.478566!16s%2Fg%2F11ry5tsjvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bisht+Dental+Clinic/@29.2014398,79.478566,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b242a90cd4d:0xe8d5e1e12bb5c186!8m2!3d29.2014398!4d79.478566!16s%2Fg%2F11ry5tsjvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1881,10 +1896,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bisht+Dental+Clinic/@29.2014398,79.478566,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b242a90cd4d:0xe8d5e1e12bb5c186!8m2!3d29.2014398!4d79.478566!16s%2Fg%2F11ry5tsjvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "brij-lal-hospital-haldwani-haldwani",
@@ -1933,7 +1949,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Brij+Lal+Hospital+Haldwani/@29.241988,79.535537,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09a5e50ca72a7:0xcc88133d5e268401!8m2!3d29.241988!4d79.535537!16s%2Fg%2F1tfkjl3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brij+Lal+Hospital+Haldwani/@29.241988,79.535537,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09a5e50ca72a7:0xcc88133d5e268401!8m2!3d29.241988!4d79.535537!16s%2Fg%2F1tfkjl3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2002,7 +2018,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Brij+Lal+Hospital+Haldwani/@29.241988,79.535537,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09a5e50ca72a7:0xcc88133d5e268401!8m2!3d29.241988!4d79.535537!16s%2Fg%2F1tfkjl3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "brite-dental-care-and-implant-centre-haldwani",
@@ -2052,7 +2069,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Brite+Dental+Care+%26+Implant+Centre/@29.2320379,79.5313566,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b96de45cc0d:0x6a11c19326ec9a43!8m2!3d29.2320379!4d79.5313566!16s%2Fg%2F1hhxqt4bv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brite+Dental+Care+%26+Implant+Centre/@29.2320379,79.5313566,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b96de45cc0d:0x6a11c19326ec9a43!8m2!3d29.2320379!4d79.5313566!16s%2Fg%2F1hhxqt4bv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2118,10 +2135,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Brite+Dental+Care+%26+Implant+Centre/@29.2320379,79.5313566,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b96de45cc0d:0x6a11c19326ec9a43!8m2!3d29.2320379!4d79.5313566!16s%2Fg%2F1hhxqt4bv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chandan-hospital-haldwani",
@@ -2170,7 +2188,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chandan+Hospital/@29.23249,79.5297473,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b005b79c201:0x7961a16189c46cdb!8m2!3d29.23249!4d79.5297473!16s%2Fg%2F11w9k1sg4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandan+Hospital/@29.23249,79.5297473,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b005b79c201:0x7961a16189c46cdb!8m2!3d29.23249!4d79.5297473!16s%2Fg%2F11w9k1sg4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2239,7 +2257,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chandan+Hospital/@29.23249,79.5297473,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b005b79c201:0x7961a16189c46cdb!8m2!3d29.23249!4d79.5297473!16s%2Fg%2F11w9k1sg4d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chandra-dental-hospital-haldwani",
@@ -2287,7 +2306,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Chandra+Dental+Hospital/@29.2226039,79.5051894,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1af6fb9d81:0x8e4228028e433658!8m2!3d29.2226039!4d79.5051894!16s%2Fg%2F1hcb5zhwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chandra+Dental+Hospital/@29.2226039,79.5051894,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1af6fb9d81:0x8e4228028e433658!8m2!3d29.2226039!4d79.5051894!16s%2Fg%2F1hcb5zhwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2356,7 +2375,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chandra+Dental+Hospital/@29.2226039,79.5051894,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1af6fb9d81:0x8e4228028e433658!8m2!3d29.2226039!4d79.5051894!16s%2Fg%2F1hcb5zhwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-dental-haldwani",
@@ -2404,7 +2424,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/City+Dental/@29.2188151,79.5189278,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae158b87e25:0x1d01ba3341a9777b!8m2!3d29.2188151!4d79.5189278!16s%2Fg%2F1hc33drpb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Dental/@29.2188151,79.5189278,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae158b87e25:0x1d01ba3341a9777b!8m2!3d29.2188151!4d79.5189278!16s%2Fg%2F1hc33drpb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2473,7 +2493,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Dental/@29.2188151,79.5189278,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae158b87e25:0x1d01ba3341a9777b!8m2!3d29.2188151!4d79.5189278!16s%2Fg%2F1hc33drpb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-hospital-haldwani-haldwani",
@@ -2522,7 +2543,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/City+Hospital+Haldwani/@29.1782985,79.5202849,17z/data=!3m1!4b1!4m6!3m5!1s0x39a085266d7170ed:0x343bb9b87ccba433!8m2!3d29.1782985!4d79.5202849!16s%2Fg%2F1hc3ls_m8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Hospital+Haldwani/@29.1782985,79.5202849,17z/data=!3m1!4b1!4m6!3m5!1s0x39a085266d7170ed:0x343bb9b87ccba433!8m2!3d29.1782985!4d79.5202849!16s%2Fg%2F1hc3ls_m8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2591,7 +2612,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Hospital+Haldwani/@29.1782985,79.5202849,17z/data=!3m1!4b1!4m6!3m5!1s0x39a085266d7170ed:0x343bb9b87ccba433!8m2!3d29.1782985!4d79.5202849!16s%2Fg%2F1hc3ls_m8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deep-dental-clinic-haldwani",
@@ -2639,7 +2661,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Deep+Dental+Clinic/@29.2163652,79.5234286,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae70c0e0933:0x1f133703f72c1545!8m2!3d29.2163652!4d79.5234286!16s%2Fg%2F11c1wshw_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deep+Dental+Clinic/@29.2163652,79.5234286,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae70c0e0933:0x1f133703f72c1545!8m2!3d29.2163652!4d79.5234286!16s%2Fg%2F11c1wshw_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2708,7 +2730,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deep+Dental+Clinic/@29.2163652,79.5234286,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae70c0e0933:0x1f133703f72c1545!8m2!3d29.2163652!4d79.5234286!16s%2Fg%2F11c1wshw_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deepa-dental-clinic-maxillofacial-and-implant-centre-haldwani",
@@ -2757,7 +2780,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Deepa+Dental+Clinic+Maxillofacial+%26+Implant+Centre/@29.2110704,79.4913679,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b5213dc251f:0xfe3efd2ba50ed328!8m2!3d29.2110704!4d79.4913679!16s%2Fg%2F11q1q0kp4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deepa+Dental+Clinic+Maxillofacial+%26+Implant+Centre/@29.2110704,79.4913679,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b5213dc251f:0xfe3efd2ba50ed328!8m2!3d29.2110704!4d79.4913679!16s%2Fg%2F11q1q0kp4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2826,7 +2849,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deepa+Dental+Clinic+Maxillofacial+%26+Implant+Centre/@29.2110704,79.4913679,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b5213dc251f:0xfe3efd2ba50ed328!8m2!3d29.2110704!4d79.4913679!16s%2Fg%2F11q1q0kp4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-heights-haldwani",
@@ -2874,7 +2898,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Heights/@29.2376067,79.5230285,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b7fad3407e5:0x849aee547bdb4ee6!8m2!3d29.2376067!4d79.5230285!16s%2Fg%2F11k6yw5jwc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Heights/@29.2376067,79.5230285,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b7fad3407e5:0x849aee547bdb4ee6!8m2!3d29.2376067!4d79.5230285!16s%2Fg%2F11k6yw5jwc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2943,7 +2967,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Heights/@29.2376067,79.5230285,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b7fad3407e5:0x849aee547bdb4ee6!8m2!3d29.2376067!4d79.5230285!16s%2Fg%2F11k6yw5jwc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-scan-centre-haldwani",
@@ -2992,7 +3017,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Scan+Centre/@29.2174324,79.5207429,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bbac5d5a4b9:0x2a692ecf37eb16a5!8m2!3d29.2174324!4d79.5207429!16s%2Fg%2F11xdgr7xvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Scan+Centre/@29.2174324,79.5207429,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bbac5d5a4b9:0x2a692ecf37eb16a5!8m2!3d29.2174324!4d79.5207429!16s%2Fg%2F11xdgr7xvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3058,10 +3083,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Scan+Centre/@29.2174324,79.5207429,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bbac5d5a4b9:0x2a692ecf37eb16a5!8m2!3d29.2174324!4d79.5207429!16s%2Fg%2F11xdgr7xvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-zenith-haldwani",
@@ -3109,7 +3135,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Zenith/@29.213223,79.520121,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09be8f10503f7:0xfb62b1f85b06faac!8m2!3d29.213223!4d79.520121!16s%2Fg%2F11n3y_syds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Zenith/@29.213223,79.520121,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09be8f10503f7:0xfb62b1f85b06faac!8m2!3d29.213223!4d79.520121!16s%2Fg%2F11n3y_syds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3175,10 +3201,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Zenith/@29.213223,79.520121,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09be8f10503f7:0xfb62b1f85b06faac!8m2!3d29.213223!4d79.520121!16s%2Fg%2F11n3y_syds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dentoplus-haldwani",
@@ -3226,7 +3253,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dentoplus/@29.2384294,79.5291639,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bc9e740d3ab:0x129fdb97e8789df9!8m2!3d29.2384294!4d79.5291639!16s%2Fg%2F11tk8q2mlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentoplus/@29.2384294,79.5291639,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bc9e740d3ab:0x129fdb97e8789df9!8m2!3d29.2384294!4d79.5291639!16s%2Fg%2F11tk8q2mlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3292,10 +3319,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dentoplus/@29.2384294,79.5291639,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bc9e740d3ab:0x129fdb97e8789df9!8m2!3d29.2384294!4d79.5291639!16s%2Fg%2F11tk8q2mlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "denvax-cancer-clinic-haldwani-haldwani",
@@ -3343,7 +3371,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Denvax+Cancer+Clinic+Haldwani/@29.2184044,79.5172411,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b003db42eab:0x4cca47b316bf2f93!8m2!3d29.2184044!4d79.5172411!16s%2Fg%2F11vrjg06mk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Denvax+Cancer+Clinic+Haldwani/@29.2184044,79.5172411,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b003db42eab:0x4cca47b316bf2f93!8m2!3d29.2184044!4d79.5172411!16s%2Fg%2F11vrjg06mk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3409,10 +3437,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Denvax+Cancer+Clinic+Haldwani/@29.2184044,79.5172411,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b003db42eab:0x4cca47b316bf2f93!8m2!3d29.2184044!4d79.5172411!16s%2Fg%2F11vrjg06mk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deopa-dental-care-haldwani",
@@ -3460,7 +3489,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Deopa+Dental+Care/@29.2053069,79.5055525,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b83de1d82c7:0x1b28aa2600c222ab!8m2!3d29.2053069!4d79.5055525!16s%2Fg%2F11l2hnqyjt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deopa+Dental+Care/@29.2053069,79.5055525,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b83de1d82c7:0x1b28aa2600c222ab!8m2!3d29.2053069!4d79.5055525!16s%2Fg%2F11l2hnqyjt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3526,10 +3555,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deopa+Dental+Care/@29.2053069,79.5055525,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b83de1d82c7:0x1b28aa2600c222ab!8m2!3d29.2053069!4d79.5055525!16s%2Fg%2F11l2hnqyjt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "devnanda-dental-clinic-haldwani",
@@ -3578,7 +3608,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Devnanda+Dental+Clinic/@29.1913331,79.5066911,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bd17e3af9d9:0xafda37109eb12072!8m2!3d29.1913331!4d79.5066911!16s%2Fg%2F11g1_lyj1_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devnanda+Dental+Clinic/@29.1913331,79.5066911,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bd17e3af9d9:0xafda37109eb12072!8m2!3d29.1913331!4d79.5066911!16s%2Fg%2F11g1_lyj1_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3647,7 +3677,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Devnanda+Dental+Clinic/@29.1913331,79.5066911,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bd17e3af9d9:0xafda37109eb12072!8m2!3d29.1913331!4d79.5066911!16s%2Fg%2F11g1_lyj1_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ekdant-dental-clinic-family-dental-hospital-haldwani",
@@ -3696,7 +3727,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ekdant+Dental+Clinic-+FAMILY+DENTAL+HOSPITAL/@29.2063573,79.517104,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bf5d1d23291:0xc05eb2705b67a87b!8m2!3d29.2063573!4d79.517104!16s%2Fg%2F11w35d0_m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ekdant+Dental+Clinic-+FAMILY+DENTAL+HOSPITAL/@29.2063573,79.517104,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bf5d1d23291:0xc05eb2705b67a87b!8m2!3d29.2063573!4d79.517104!16s%2Fg%2F11w35d0_m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3762,10 +3793,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ekdant+Dental+Clinic-+FAMILY+DENTAL+HOSPITAL/@29.2063573,79.517104,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bf5d1d23291:0xc05eb2705b67a87b!8m2!3d29.2063573!4d79.517104!16s%2Fg%2F11w35d0_m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "global-health-asthetics-haldwani",
@@ -3814,7 +3846,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/GLOBAL+HEALTH+ASTHETICS/@29.2110225,79.5161783,17z/data=!3m1!4b1!4m6!3m5!1s0x39a07ff497251be5:0x34f1276bf8f13647!8m2!3d29.2110225!4d79.5161783!16s%2Fg%2F11ckqs193x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GLOBAL+HEALTH+ASTHETICS/@29.2110225,79.5161783,17z/data=!3m1!4b1!4m6!3m5!1s0x39a07ff497251be5:0x34f1276bf8f13647!8m2!3d29.2110225!4d79.5161783!16s%2Fg%2F11ckqs193x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3883,7 +3915,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GLOBAL+HEALTH+ASTHETICS/@29.2110225,79.5161783,17z/data=!3m1!4b1!4m6!3m5!1s0x39a07ff497251be5:0x34f1276bf8f13647!8m2!3d29.2110225!4d79.5161783!16s%2Fg%2F11ckqs193x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "global-health-laser-spine-joint-and-laser-centre-haldwani",
@@ -3934,7 +3967,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Global+Health+Laser-+Spine,+Joint+%26+Laser+Centre/@29.2110744,79.5161345,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09af1b9051b8b:0xd21e64488232573b!8m2!3d29.2110744!4d79.5161345!16s%2Fg%2F11f102f7hr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Health+Laser-+Spine,+Joint+%26+Laser+Centre/@29.2110744,79.5161345,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09af1b9051b8b:0xd21e64488232573b!8m2!3d29.2110744!4d79.5161345!16s%2Fg%2F11f102f7hr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4003,7 +4036,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Global+Health+Laser-+Spine,+Joint+%26+Laser+Centre/@29.2110744,79.5161345,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09af1b9051b8b:0xd21e64488232573b!8m2!3d29.2110744!4d79.5161345!16s%2Fg%2F11f102f7hr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "govind-dental-haldwani",
@@ -4051,7 +4085,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Govind+Dental/@29.2187736,79.517555,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1e6726e603:0x27834c9ed85b5e82!8m2!3d29.2187736!4d79.517555!16s%2Fg%2F11gg64kqw6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govind+Dental/@29.2187736,79.517555,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1e6726e603:0x27834c9ed85b5e82!8m2!3d29.2187736!4d79.517555!16s%2Fg%2F11gg64kqw6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4120,7 +4154,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govind+Dental/@29.2187736,79.517555,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1e6726e603:0x27834c9ed85b5e82!8m2!3d29.2187736!4d79.517555!16s%2Fg%2F11gg64kqw6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gurukripa-dental-hospital-haldwani",
@@ -4168,7 +4203,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Gurukripa+Dental+Hospital/@29.2415399,79.5348877,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09a5effdae7ef:0xb927993b7312b579!8m2!3d29.2415399!4d79.5348877!16s%2Fg%2F11c6y_6nt0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurukripa+Dental+Hospital/@29.2415399,79.5348877,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09a5effdae7ef:0xb927993b7312b579!8m2!3d29.2415399!4d79.5348877!16s%2Fg%2F11c6y_6nt0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4237,7 +4272,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gurukripa+Dental+Hospital/@29.2415399,79.5348877,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09a5effdae7ef:0xb927993b7312b579!8m2!3d29.2415399!4d79.5348877!16s%2Fg%2F11c6y_6nt0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healthcapes-spine-joints-and-aesthetics-clinic-haldwani",
@@ -4289,7 +4325,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Healthcapes+Spine%2FJoints+And+Aesthetics+Clinic/@29.2191805,79.513641,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1e73ca1ead:0x43741933b73252e8!8m2!3d29.2191805!4d79.513641!16s%2Fg%2F11gbz0hrt7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthcapes+Spine%2FJoints+And+Aesthetics+Clinic/@29.2191805,79.513641,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1e73ca1ead:0x43741933b73252e8!8m2!3d29.2191805!4d79.513641!16s%2Fg%2F11gbz0hrt7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4358,7 +4394,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healthcapes+Spine%2FJoints+And+Aesthetics+Clinic/@29.2191805,79.513641,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1e73ca1ead:0x43741933b73252e8!8m2!3d29.2191805!4d79.513641!16s%2Fg%2F11gbz0hrt7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hema-dental-care-haldwani",
@@ -4406,7 +4443,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Hema+dental+care/@29.1675612,79.5216634,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2ad2372af9:0x331c3aca5e43b652!8m2!3d29.1675612!4d79.5216634!16s%2Fg%2F11pv0mlnfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hema+dental+care/@29.1675612,79.5216634,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2ad2372af9:0x331c3aca5e43b652!8m2!3d29.1675612!4d79.5216634!16s%2Fg%2F11pv0mlnfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4475,7 +4512,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hema+dental+care/@29.1675612,79.5216634,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2ad2372af9:0x331c3aca5e43b652!8m2!3d29.1675612!4d79.5216634!16s%2Fg%2F11pv0mlnfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hridayam-cardiac-and-diagnostic-centre-haldwani",
@@ -4525,7 +4563,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hridayam+Cardiac+and+Diagnostic+centre/@29.2222233,79.5062758,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bfcecd591d7:0xb6be1ea17d2d3543!8m2!3d29.2222233!4d79.5062758!16s%2Fg%2F11y0xmmd74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hridayam+Cardiac+and+Diagnostic+centre/@29.2222233,79.5062758,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bfcecd591d7:0xb6be1ea17d2d3543!8m2!3d29.2222233!4d79.5062758!16s%2Fg%2F11y0xmmd74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4594,7 +4632,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hridayam+Cardiac+and+Diagnostic+centre/@29.2222233,79.5062758,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bfcecd591d7:0xb6be1ea17d2d3543!8m2!3d29.2222233!4d79.5062758!16s%2Fg%2F11y0xmmd74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ivory-dental-clinic-haldwani",
@@ -4642,7 +4681,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ivory+Dental+Clinic/@29.2443357,79.5315335,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b6dea945c75:0xfdff33132dc0716a!8m2!3d29.2443357!4d79.5315335!16s%2Fg%2F11szj9d18v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ivory+Dental+Clinic/@29.2443357,79.5315335,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b6dea945c75:0xfdff33132dc0716a!8m2!3d29.2443357!4d79.5315335!16s%2Fg%2F11szj9d18v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4708,10 +4747,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ivory+Dental+Clinic/@29.2443357,79.5315335,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b6dea945c75:0xfdff33132dc0716a!8m2!3d29.2443357!4d79.5315335!16s%2Fg%2F11szj9d18v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jagdamba-dental-clinic-haldwani",
@@ -4760,7 +4800,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jagdamba+Dental+Clinic/@29.2318274,79.5264741,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bc8df009cc3:0x760aeffee62b7dd5!8m2!3d29.2318274!4d79.5264741!16s%2Fg%2F11z246b2p6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jagdamba+Dental+Clinic/@29.2318274,79.5264741,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bc8df009cc3:0x760aeffee62b7dd5!8m2!3d29.2318274!4d79.5264741!16s%2Fg%2F11z246b2p6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4826,10 +4866,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jagdamba+Dental+Clinic/@29.2318274,79.5264741,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bc8df009cc3:0x760aeffee62b7dd5!8m2!3d29.2318274!4d79.5264741!16s%2Fg%2F11z246b2p6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jagdamba-heart-care-center-haldwani",
@@ -4878,7 +4919,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Jagdamba+Heart+Care+Center/@29.2185143,79.5173019,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09d0289aa5719:0x16c604f5633ba22d!8m2!3d29.2185143!4d79.5173019!16s%2Fg%2F11f6jdwvy1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jagdamba+Heart+Care+Center/@29.2185143,79.5173019,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09d0289aa5719:0x16c604f5633ba22d!8m2!3d29.2185143!4d79.5173019!16s%2Fg%2F11f6jdwvy1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4947,7 +4988,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jagdamba+Heart+Care+Center/@29.2185143,79.5173019,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09d0289aa5719:0x16c604f5633ba22d!8m2!3d29.2185143!4d79.5173019!16s%2Fg%2F11f6jdwvy1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jaishree-ivf-ivf-clinic-haldwani-haldwani",
@@ -4997,7 +5039,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jaishree+IVF+-+IVF+Clinic+Haldwani/@29.216905,79.5181154,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09be30f061a45:0x50370dcbc29adf83!8m2!3d29.216905!4d79.5181154!16s%2Fg%2F11xyh6hjnv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaishree+IVF+-+IVF+Clinic+Haldwani/@29.216905,79.5181154,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09be30f061a45:0x50370dcbc29adf83!8m2!3d29.216905!4d79.5181154!16s%2Fg%2F11xyh6hjnv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5063,10 +5105,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jaishree+IVF+-+IVF+Clinic+Haldwani/@29.216905,79.5181154,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09be30f061a45:0x50370dcbc29adf83!8m2!3d29.216905!4d79.5181154!16s%2Fg%2F11xyh6hjnv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "janta-dental-clinic-haldwani",
@@ -5114,7 +5157,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Janta+Dental+Clinic/@29.2062788,79.5315544,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b9ca0418bdf:0x2d2638bea6e67c69!8m2!3d29.2062788!4d79.5315544!16s%2Fg%2F11rv5gd52v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janta+Dental+Clinic/@29.2062788,79.5315544,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b9ca0418bdf:0x2d2638bea6e67c69!8m2!3d29.2062788!4d79.5315544!16s%2Fg%2F11rv5gd52v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5180,10 +5223,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Janta+Dental+Clinic/@29.2062788,79.5315544,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b9ca0418bdf:0x2d2638bea6e67c69!8m2!3d29.2062788!4d79.5315544!16s%2Fg%2F11rv5gd52v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kavita-ivf-cllinic-haldwani",
@@ -5230,7 +5274,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Kavita+ivf+cllinic/@29.2192605,79.519503,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b0053cb308f:0x6099ed60bda31201!8m2!3d29.2192605!4d79.519503!16s%2Fg%2F11x5xzgyfm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kavita+ivf+cllinic/@29.2192605,79.519503,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b0053cb308f:0x6099ed60bda31201!8m2!3d29.2192605!4d79.519503!16s%2Fg%2F11x5xzgyfm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5296,10 +5340,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kavita+ivf+cllinic/@29.2192605,79.519503,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b0053cb308f:0x6099ed60bda31201!8m2!3d29.2192605!4d79.519503!16s%2Fg%2F11x5xzgyfm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krishna-hospital-and-research-centre-haldwani",
@@ -5348,7 +5393,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Krishna+Hospital+%26+Research+Centre/@29.2290255,79.5323293,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09af188213bb5:0x42db402e6cc99de!8m2!3d29.2290255!4d79.5323293!16s%2Fg%2F124ssvrtv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Hospital+%26+Research+Centre/@29.2290255,79.5323293,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09af188213bb5:0x42db402e6cc99de!8m2!3d29.2290255!4d79.5323293!16s%2Fg%2F124ssvrtv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5417,7 +5462,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishna+Hospital+%26+Research+Centre/@29.2290255,79.5323293,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09af188213bb5:0x42db402e6cc99de!8m2!3d29.2290255!4d79.5323293!16s%2Fg%2F124ssvrtv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krishna-neurology-center-haldwani",
@@ -5467,7 +5513,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Krishna+Neurology+Center/@29.2333155,79.5322528,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09af6a6311c8f:0x560b9ed06a04d4d!8m2!3d29.2333155!4d79.5322528!16s%2Fg%2F11c67s50np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Neurology+Center/@29.2333155,79.5322528,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09af6a6311c8f:0x560b9ed06a04d4d!8m2!3d29.2333155!4d79.5322528!16s%2Fg%2F11c67s50np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5536,7 +5582,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishna+Neurology+Center/@29.2333155,79.5322528,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09af6a6311c8f:0x560b9ed06a04d4d!8m2!3d29.2333155!4d79.5322528!16s%2Fg%2F11c67s50np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kumaun-dental-care-haldwani",
@@ -5585,7 +5632,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Kumaun+Dental+Care/@29.2181053,79.5181273,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae10802ea17:0x678c6281049d2a56!8m2!3d29.2181053!4d79.5181273!16s%2Fg%2F11fy17fprw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kumaun+Dental+Care/@29.2181053,79.5181273,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae10802ea17:0x678c6281049d2a56!8m2!3d29.2181053!4d79.5181273!16s%2Fg%2F11fy17fprw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5654,7 +5701,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kumaun+Dental+Care/@29.2181053,79.5181273,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae10802ea17:0x678c6281049d2a56!8m2!3d29.2181053!4d79.5181273!16s%2Fg%2F11fy17fprw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "laxmi-dental-clinic-haldwani-haldwani",
@@ -5703,7 +5751,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Laxmi+Dental+Clinic+Haldwani/@29.2399517,79.4696841,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b822a579781:0xfa97aa0a3a40c8ac!8m2!3d29.2399517!4d79.4696841!16s%2Fg%2F11f126kz6h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmi+Dental+Clinic+Haldwani/@29.2399517,79.4696841,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b822a579781:0xfa97aa0a3a40c8ac!8m2!3d29.2399517!4d79.4696841!16s%2Fg%2F11f126kz6h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5772,7 +5820,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laxmi+Dental+Clinic+Haldwani/@29.2399517,79.4696841,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b822a579781:0xfa97aa0a3a40c8ac!8m2!3d29.2399517!4d79.4696841!16s%2Fg%2F11f126kz6h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangalam-hospital-haldwani",
@@ -5821,7 +5870,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mangalam+hospital/@29.2221122,79.5297012,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1664b4b795:0xe939f74de0dfb50a!8m2!3d29.2221122!4d79.5297012!16s%2Fg%2F11vyv221s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangalam+hospital/@29.2221122,79.5297012,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1664b4b795:0xe939f74de0dfb50a!8m2!3d29.2221122!4d79.5297012!16s%2Fg%2F11vyv221s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5890,7 +5939,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangalam+hospital/@29.2221122,79.5297012,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1664b4b795:0xe939f74de0dfb50a!8m2!3d29.2221122!4d79.5297012!16s%2Fg%2F11vyv221s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mattrix-hospital-and-accident-care-pvt-ltd-haldwani",
@@ -5939,7 +5989,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mattrix+Hospital+%26+Accident+Care+Pvt.+Ltd/@29.2215723,79.5110472,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1e09137915:0xd8486b4a2901bb59!8m2!3d29.2215723!4d79.5110472!16s%2Fg%2F11ddx1x0qn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mattrix+Hospital+%26+Accident+Care+Pvt.+Ltd/@29.2215723,79.5110472,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1e09137915:0xd8486b4a2901bb59!8m2!3d29.2215723!4d79.5110472!16s%2Fg%2F11ddx1x0qn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6005,10 +6055,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mattrix+Hospital+%26+Accident+Care+Pvt.+Ltd/@29.2215723,79.5110472,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1e09137915:0xd8486b4a2901bb59!8m2!3d29.2215723!4d79.5110472!16s%2Fg%2F11ddx1x0qn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medi-centre-hospital-haldwani",
@@ -6057,7 +6108,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medi+centre+hospital/@29.2104527,79.535206,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bbbc82ddfa7:0x3d1af6a98ec01d66!8m2!3d29.2104527!4d79.535206!16s%2Fg%2F11rgkyq53p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medi+centre+hospital/@29.2104527,79.535206,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bbbc82ddfa7:0x3d1af6a98ec01d66!8m2!3d29.2104527!4d79.535206!16s%2Fg%2F11rgkyq53p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6126,7 +6177,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medi+centre+hospital/@29.2104527,79.535206,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bbbc82ddfa7:0x3d1af6a98ec01d66!8m2!3d29.2104527!4d79.535206!16s%2Fg%2F11rgkyq53p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "meri-smile-dental-clinic-haldwani",
@@ -6175,7 +6227,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Meri+Smile+Dental+Clinic/@29.2244226,79.5224998,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b7e826640d7:0x5fab236da6def5d4!8m2!3d29.2244226!4d79.5224998!16s%2Fg%2F11ptv66c5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meri+Smile+Dental+Clinic/@29.2244226,79.5224998,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b7e826640d7:0x5fab236da6def5d4!8m2!3d29.2244226!4d79.5224998!16s%2Fg%2F11ptv66c5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6241,10 +6293,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meri+Smile+Dental+Clinic/@29.2244226,79.5224998,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b7e826640d7:0x5fab236da6def5d4!8m2!3d29.2244226!4d79.5224998!16s%2Fg%2F11ptv66c5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "my-dental-care-haldwani",
@@ -6292,7 +6345,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/My+Dental+Care/@29.2223132,79.5063732,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b0191710899:0xe9df3191abb04cab!8m2!3d29.2223132!4d79.5063732!16s%2Fg%2F11pyp63kd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/My+Dental+Care/@29.2223132,79.5063732,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b0191710899:0xe9df3191abb04cab!8m2!3d29.2223132!4d79.5063732!16s%2Fg%2F11pyp63kd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6361,7 +6414,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/My+Dental+Care/@29.2223132,79.5063732,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b0191710899:0xe9df3191abb04cab!8m2!3d29.2223132!4d79.5063732!16s%2Fg%2F11pyp63kd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "natraj-dental-clinic-haldwani",
@@ -6409,7 +6463,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Natraj+Dental+Clinic/@29.2102864,79.5044611,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bd793e27041:0x446a97e284a278a2!8m2!3d29.2102864!4d79.5044611!16s%2Fg%2F11gjtb34vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Natraj+Dental+Clinic/@29.2102864,79.5044611,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bd793e27041:0x446a97e284a278a2!8m2!3d29.2102864!4d79.5044611!16s%2Fg%2F11gjtb34vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6475,10 +6529,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Natraj+Dental+Clinic/@29.2102864,79.5044611,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bd793e27041:0x446a97e284a278a2!8m2!3d29.2102864!4d79.5044611!16s%2Fg%2F11gjtb34vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nova-ivf-fertility-center-best-ivf-centre-in-haldwani-haldwani",
@@ -6528,7 +6583,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Haldwani/@29.2167968,79.5228755,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b650c8603d7:0x9b56a7335aa4b0c6!8m2!3d29.2167968!4d79.5228755!16s%2Fg%2F11wntwh0jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Haldwani/@29.2167968,79.5228755,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b650c8603d7:0x9b56a7335aa4b0c6!8m2!3d29.2167968!4d79.5228755!16s%2Fg%2F11wntwh0jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6597,7 +6652,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Haldwani/@29.2167968,79.5228755,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b650c8603d7:0x9b56a7335aa4b0c6!8m2!3d29.2167968!4d79.5228755!16s%2Fg%2F11wntwh0jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oli-hospital-and-infertility-research-centre-and-oli-diagnostic-centre-haldwani-haldwani",
@@ -6646,7 +6702,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Oli+Hospital+%26+Infertility+Research+Centre+and+Oli+Diagnostic+Centre+Haldwani/@29.2198331,79.5117967,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1c2bba2b07:0xf09f4bfdd552c939!8m2!3d29.2198331!4d79.5117967!16s%2Fg%2F1q6j35pf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oli+Hospital+%26+Infertility+Research+Centre+and+Oli+Diagnostic+Centre+Haldwani/@29.2198331,79.5117967,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1c2bba2b07:0xf09f4bfdd552c939!8m2!3d29.2198331!4d79.5117967!16s%2Fg%2F1q6j35pf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6715,7 +6771,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oli+Hospital+%26+Infertility+Research+Centre+and+Oli+Diagnostic+Centre+Haldwani/@29.2198331,79.5117967,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1c2bba2b07:0xf09f4bfdd552c939!8m2!3d29.2198331!4d79.5117967!16s%2Fg%2F1q6j35pf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "om-dental-clinic-and-implant-centre-haldwani",
@@ -6763,7 +6820,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Om+Dental+Clinic+%26+Implant+Centre/@29.2279348,79.4889803,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b0744266a29:0x1934b489f2ae4bff!8m2!3d29.2279348!4d79.4889803!16s%2Fg%2F11scx6vsdd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Dental+Clinic+%26+Implant+Centre/@29.2279348,79.4889803,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b0744266a29:0x1934b489f2ae4bff!8m2!3d29.2279348!4d79.4889803!16s%2Fg%2F11scx6vsdd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6832,7 +6889,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Om+Dental+Clinic+%26+Implant+Centre/@29.2279348,79.4889803,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b0744266a29:0x1934b489f2ae4bff!8m2!3d29.2279348!4d79.4889803!16s%2Fg%2F11scx6vsdd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pant-dental-clinic-haldwani",
@@ -6880,7 +6938,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Pant+Dental+Clinic/@29.2122632,79.5287441,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b8300d5bcdd:0x6a19be4f4257e43f!8m2!3d29.2122632!4d79.5287441!16s%2Fg%2F11gjt5lqhr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pant+Dental+Clinic/@29.2122632,79.5287441,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b8300d5bcdd:0x6a19be4f4257e43f!8m2!3d29.2122632!4d79.5287441!16s%2Fg%2F11gjt5lqhr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6949,7 +7007,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pant+Dental+Clinic/@29.2122632,79.5287441,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b8300d5bcdd:0x6a19be4f4257e43f!8m2!3d29.2122632!4d79.5287441!16s%2Fg%2F11gjt5lqhr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parmarth-dental-hospital-haldwani",
@@ -6997,7 +7056,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Parmarth+Dental+Hospital/@29.2206212,79.5113802,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1c3dfc89cb:0xf7d1ced2eeade5d9!8m2!3d29.2206212!4d79.5113802!16s%2Fg%2F11f136rfwm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parmarth+Dental+Hospital/@29.2206212,79.5113802,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1c3dfc89cb:0xf7d1ced2eeade5d9!8m2!3d29.2206212!4d79.5113802!16s%2Fg%2F11f136rfwm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7066,7 +7125,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parmarth+Dental+Hospital/@29.2206212,79.5113802,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1c3dfc89cb:0xf7d1ced2eeade5d9!8m2!3d29.2206212!4d79.5113802!16s%2Fg%2F11f136rfwm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prakash-dental-hospital-dental-clinic-in-haldwani-haldwani",
@@ -7114,7 +7174,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Prakash+Dental+Hospital-+Dental+Clinic+In+Haldwani/@29.195852,79.5110493,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2c78ba3fb7:0x75d4fcbe199bca6e!8m2!3d29.195852!4d79.5110493!16s%2Fg%2F11c46hf4t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prakash+Dental+Hospital-+Dental+Clinic+In+Haldwani/@29.195852,79.5110493,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2c78ba3fb7:0x75d4fcbe199bca6e!8m2!3d29.195852!4d79.5110493!16s%2Fg%2F11c46hf4t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7183,7 +7243,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prakash+Dental+Hospital-+Dental+Clinic+In+Haldwani/@29.195852,79.5110493,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b2c78ba3fb7:0x75d4fcbe199bca6e!8m2!3d29.195852!4d79.5110493!16s%2Fg%2F11c46hf4t0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "psp-hospital-haldwani",
@@ -7232,7 +7293,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/PSP+Hospital/@29.2030465,79.5160975,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b73685108af:0xc052eed550e73c1a!8m2!3d29.2030465!4d79.5160975!16s%2Fg%2F11xy_tkzc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PSP+Hospital/@29.2030465,79.5160975,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b73685108af:0xc052eed550e73c1a!8m2!3d29.2030465!4d79.5160975!16s%2Fg%2F11xy_tkzc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7301,7 +7362,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PSP+Hospital/@29.2030465,79.5160975,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b73685108af:0xc052eed550e73c1a!8m2!3d29.2030465!4d79.5160975!16s%2Fg%2F11xy_tkzc2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radiant-hospital-and-ivf-center-haldwani",
@@ -7351,7 +7413,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Radiant+Hospital+and+IVF+Center/@29.2130072,79.5167644,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1879af41d1:0xd5089c53135f791b!8m2!3d29.2130072!4d79.5167644!16s%2Fg%2F11vsh8n3vk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Radiant+Hospital+and+IVF+Center/@29.2130072,79.5167644,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1879af41d1:0xd5089c53135f791b!8m2!3d29.2130072!4d79.5167644!16s%2Fg%2F11vsh8n3vk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7420,7 +7482,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Radiant+Hospital+and+IVF+Center/@29.2130072,79.5167644,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1879af41d1:0xd5089c53135f791b!8m2!3d29.2130072!4d79.5167644!16s%2Fg%2F11vsh8n3vk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "roshan-dental-clinic-dental-clinic-in-haldwani-dentist-in-haldwani-haldwani",
@@ -7468,7 +7531,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Roshan+Dental+Clinic+-+Dental+Clinic+in+Haldwani+%7C+Dentist+in+Haldwani/@29.2155819,79.5248155,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1afbe17419:0x6a49d6edce61b4de!8m2!3d29.2155819!4d79.5248155!16s%2Fg%2F11h0vwf97?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Roshan+Dental+Clinic+-+Dental+Clinic+in+Haldwani+%7C+Dentist+in+Haldwani/@29.2155819,79.5248155,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1afbe17419:0x6a49d6edce61b4de!8m2!3d29.2155819!4d79.5248155!16s%2Fg%2F11h0vwf97?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7537,7 +7600,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Roshan+Dental+Clinic+-+Dental+Clinic+in+Haldwani+%7C+Dentist+in+Haldwani/@29.2155819,79.5248155,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1afbe17419:0x6a49d6edce61b4de!8m2!3d29.2155819!4d79.5248155!16s%2Fg%2F11h0vwf97?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "royals-dental-care-haldwani",
@@ -7586,7 +7650,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Royals+Dental+Care/@29.2240876,79.5257994,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b811e161ff7:0x8df3b62fe2090d8a!8m2!3d29.2240876!4d79.5257994!16s%2Fg%2F11t7fc1n27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royals+Dental+Care/@29.2240876,79.5257994,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b811e161ff7:0x8df3b62fe2090d8a!8m2!3d29.2240876!4d79.5257994!16s%2Fg%2F11t7fc1n27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7652,10 +7716,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Royals+Dental+Care/@29.2240876,79.5257994,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b811e161ff7:0x8df3b62fe2090d8a!8m2!3d29.2240876!4d79.5257994!16s%2Fg%2F11t7fc1n27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rudra-dental-clinic-and-implant-centre-haldwani",
@@ -7704,7 +7769,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rudra+Dental+Clinic+And+Implant+Centre/@29.2532552,79.5412929,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b6c9bf13481:0x80f285359121fb27!8m2!3d29.2532552!4d79.5412929!16s%2Fg%2F11flpj5m2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rudra+Dental+Clinic+And+Implant+Centre/@29.2532552,79.5412929,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b6c9bf13481:0x80f285359121fb27!8m2!3d29.2532552!4d79.5412929!16s%2Fg%2F11flpj5m2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7773,7 +7838,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rudra+Dental+Clinic+And+Implant+Centre/@29.2532552,79.5412929,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b6c9bf13481:0x80f285359121fb27!8m2!3d29.2532552!4d79.5412929!16s%2Fg%2F11flpj5m2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-k-nursing-home-and-hospital-haldwani",
@@ -7821,7 +7887,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/S+K+Nursing+Home+And+Hospital/@29.2241608,79.53164,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09be9a35e91f1:0x2e028cc042c6c0d5!8m2!3d29.2241608!4d79.53164!16s%2Fg%2F11q8frm3bp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+K+Nursing+Home+And+Hospital/@29.2241608,79.53164,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09be9a35e91f1:0x2e028cc042c6c0d5!8m2!3d29.2241608!4d79.53164!16s%2Fg%2F11q8frm3bp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7887,10 +7953,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+K+Nursing+Home+And+Hospital/@29.2241608,79.53164,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09be9a35e91f1:0x2e028cc042c6c0d5!8m2!3d29.2241608!4d79.53164!16s%2Fg%2F11q8frm3bp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saaol-heart-centre-haldwani",
@@ -7939,7 +8006,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Saaol+Heart+Centre/@29.2108416,79.523769,17z/data=!3m1!4b1!4m6!3m5!1s0x39a084cdb068fa89:0x66e2d1aa2251fca1!8m2!3d29.2108416!4d79.523769!16s%2Fg%2F11l6d7x92y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+Heart+Centre/@29.2108416,79.523769,17z/data=!3m1!4b1!4m6!3m5!1s0x39a084cdb068fa89:0x66e2d1aa2251fca1!8m2!3d29.2108416!4d79.523769!16s%2Fg%2F11l6d7x92y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8008,7 +8075,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saaol+Heart+Centre/@29.2108416,79.523769,17z/data=!3m1!4b1!4m6!3m5!1s0x39a084cdb068fa89:0x66e2d1aa2251fca1!8m2!3d29.2108416!4d79.523769!16s%2Fg%2F11l6d7x92y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-hospital-haldwani-haldwani",
@@ -8057,7 +8125,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Hospital+Haldwani/@29.2173307,79.5180606,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae103f38807:0xc90583c1309ca8d5!8m2!3d29.2173307!4d79.5180606!16s%2Fg%2F1hhjtttzh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Hospital+Haldwani/@29.2173307,79.5180606,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae103f38807:0xc90583c1309ca8d5!8m2!3d29.2173307!4d79.5180606!16s%2Fg%2F1hhjtttzh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8126,7 +8194,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Hospital+Haldwani/@29.2173307,79.5180606,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae103f38807:0xc90583c1309ca8d5!8m2!3d29.2173307!4d79.5180606!16s%2Fg%2F1hhjtttzh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "seeds-of-innocens-ivf-centre-best-ivf-centre-in-haldwani-uttarakhand-haldwani",
@@ -8176,7 +8245,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+-+Best+Ivf+Centre+In+Haldwani,+Uttarakhand/@29.2164732,79.5178912,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b78f628e13d:0x62f06a9176b2ba67!8m2!3d29.2164732!4d79.5178912!16s%2Fg%2F11vwggk9d6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+-+Best+Ivf+Centre+In+Haldwani,+Uttarakhand/@29.2164732,79.5178912,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b78f628e13d:0x62f06a9176b2ba67!8m2!3d29.2164732!4d79.5178912!16s%2Fg%2F11vwggk9d6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8245,7 +8314,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+-+Best+Ivf+Centre+In+Haldwani,+Uttarakhand/@29.2164732,79.5178912,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b78f628e13d:0x62f06a9176b2ba67!8m2!3d29.2164732!4d79.5178912!16s%2Fg%2F11vwggk9d6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shambhavi-hospital-and-research-centre-haldwani",
@@ -8293,7 +8363,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Shambhavi+Hospital+and+research+centre/@29.2190823,79.5154871,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae1fd1578db:0xb8b4a152ec06cd2d!8m2!3d29.2190823!4d79.5154871!16s%2Fg%2F1hdzl7mb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shambhavi+Hospital+and+research+centre/@29.2190823,79.5154871,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae1fd1578db:0xb8b4a152ec06cd2d!8m2!3d29.2190823!4d79.5154871!16s%2Fg%2F1hdzl7mb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8362,7 +8432,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shambhavi+Hospital+and+research+centre/@29.2190823,79.5154871,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae1fd1578db:0xb8b4a152ec06cd2d!8m2!3d29.2190823!4d79.5154871!16s%2Fg%2F1hdzl7mb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shankar-hospital-and-research-centre-haldwani",
@@ -8410,7 +8481,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Shankar+Hospital+and+Research+Centre/@29.2088379,79.5233555,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09adc7a051a09:0xcac368a2eecea7d0!8m2!3d29.2088379!4d79.5233555!16s%2Fg%2F11btyv_knx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shankar+Hospital+and+Research+Centre/@29.2088379,79.5233555,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09adc7a051a09:0xcac368a2eecea7d0!8m2!3d29.2088379!4d79.5233555!16s%2Fg%2F11btyv_knx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8479,7 +8550,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shankar+Hospital+and+Research+Centre/@29.2088379,79.5233555,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09adc7a051a09:0xcac368a2eecea7d0!8m2!3d29.2088379!4d79.5233555!16s%2Fg%2F11btyv_knx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharda-ent-hospital-and-diagnostic-center-haldwani-haldwani",
@@ -8528,7 +8600,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SHARDA+ENT+HOSPITAL+AND+DIAGNOSTIC+CENTER+HALDWANI/@29.2066827,79.4935976,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1ede17394d:0x823b92fb077c3fb6!8m2!3d29.2066827!4d79.4935976!16s%2Fg%2F11vzz4vv17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHARDA+ENT+HOSPITAL+AND+DIAGNOSTIC+CENTER+HALDWANI/@29.2066827,79.4935976,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1ede17394d:0x823b92fb077c3fb6!8m2!3d29.2066827!4d79.4935976!16s%2Fg%2F11vzz4vv17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8597,7 +8669,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHARDA+ENT+HOSPITAL+AND+DIAGNOSTIC+CENTER+HALDWANI/@29.2066827,79.4935976,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1ede17394d:0x823b92fb077c3fb6!8m2!3d29.2066827!4d79.4935976!16s%2Fg%2F11vzz4vv17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shine-up-dental-implant-and-facial-aesthetic-center-haldwani",
@@ -8645,7 +8718,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Shine+Up+dental+implant+%26+facial+Aesthetic+center/@29.2443273,79.5315278,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ba201568ec9:0x3fe8e14cb345d8a7!8m2!3d29.2443273!4d79.5315278!16s%2Fg%2F11h0700_fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shine+Up+dental+implant+%26+facial+Aesthetic+center/@29.2443273,79.5315278,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ba201568ec9:0x3fe8e14cb345d8a7!8m2!3d29.2443273!4d79.5315278!16s%2Fg%2F11h0700_fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8714,7 +8787,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shine+Up+dental+implant+%26+facial+Aesthetic+center/@29.2443273,79.5315278,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ba201568ec9:0x3fe8e14cb345d8a7!8m2!3d29.2443273!4d79.5315278!16s%2Fg%2F11h0700_fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-kushal-dental-care-haldwani-haldwani",
@@ -8762,7 +8836,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Kushal+Dental+Care+Haldwani/@29.2305127,79.4910027,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b003fda5e41:0xc5c629b9e08a74fa!8m2!3d29.2305127!4d79.4910027!16s%2Fg%2F11wx22ndcn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Kushal+Dental+Care+Haldwani/@29.2305127,79.4910027,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b003fda5e41:0xc5c629b9e08a74fa!8m2!3d29.2305127!4d79.4910027!16s%2Fg%2F11wx22ndcn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8828,10 +8902,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Kushal+Dental+Care+Haldwani/@29.2305127,79.4910027,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b003fda5e41:0xc5c629b9e08a74fa!8m2!3d29.2305127!4d79.4910027!16s%2Fg%2F11wx22ndcn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-hari-dental-clinic-haldwani",
@@ -8879,7 +8954,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Hari+Dental+Clinic/@29.1929833,79.5224641,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b4fe042e703:0x1102adc62f1ee09e!8m2!3d29.1929833!4d79.5224641!16s%2Fg%2F11y6wf6n2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Hari+Dental+Clinic/@29.1929833,79.5224641,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b4fe042e703:0x1102adc62f1ee09e!8m2!3d29.1929833!4d79.5224641!16s%2Fg%2F11y6wf6n2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8948,7 +9023,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Hari+Dental+Clinic/@29.1929833,79.5224641,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b4fe042e703:0x1102adc62f1ee09e!8m2!3d29.1929833!4d79.5224641!16s%2Fg%2F11y6wf6n2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-vishva-prangana-ayurved-clinic-haldwani-haldwani",
@@ -8997,7 +9073,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Vishva+Prangana+Ayurved+Clinic+Haldwani/@29.2183841,79.5188459,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae10ebef5d5:0x87b27908abb075e6!8m2!3d29.2183841!4d79.5188459!16s%2Fg%2F1hm3rbd_w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Vishva+Prangana+Ayurved+Clinic+Haldwani/@29.2183841,79.5188459,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae10ebef5d5:0x87b27908abb075e6!8m2!3d29.2183841!4d79.5188459!16s%2Fg%2F1hm3rbd_w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9066,7 +9142,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Vishva+Prangana+Ayurved+Clinic+Haldwani/@29.2183841,79.5188459,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae10ebef5d5:0x87b27908abb075e6!8m2!3d29.2183841!4d79.5188459!16s%2Fg%2F1hm3rbd_w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "siddhi-vinayak-hospital-haldwani",
@@ -9115,7 +9192,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Siddhi+Vinayak+Hospital/@29.2209785,79.5204487,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1a3cd1683f:0xbdb20f197497acfe!8m2!3d29.2209785!4d79.5204487!16s%2Fg%2F11k29mv6zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddhi+Vinayak+Hospital/@29.2209785,79.5204487,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1a3cd1683f:0xbdb20f197497acfe!8m2!3d29.2209785!4d79.5204487!16s%2Fg%2F11k29mv6zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9184,7 +9261,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Siddhi+Vinayak+Hospital/@29.2209785,79.5204487,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1a3cd1683f:0xbdb20f197497acfe!8m2!3d29.2209785!4d79.5204487!16s%2Fg%2F11k29mv6zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "singh-dental-and-implant-center-dental-implants-in-haldwani-invisible-aligners-orthodontic-braces-invisalign-bareilly",
@@ -9234,7 +9312,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Singh+Dental+And+Implant+Center+-+Dental+Implants+in+Haldwani+%7C+Invisible+Aligners+%7C+Orthodontic+Braces+%7C+Invisalign/@29.2423669,79.535544,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bbc7d14d287:0x395f5573928b88cf!8m2!3d29.2423669!4d79.535544!16s%2Fg%2F11h0_6ncby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singh+Dental+And+Implant+Center+-+Dental+Implants+in+Haldwani+%7C+Invisible+Aligners+%7C+Orthodontic+Braces+%7C+Invisalign/@29.2423669,79.535544,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bbc7d14d287:0x395f5573928b88cf!8m2!3d29.2423669!4d79.535544!16s%2Fg%2F11h0_6ncby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9303,7 +9381,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Singh+Dental+And+Implant+Center+-+Dental+Implants+in+Haldwani+%7C+Invisible+Aligners+%7C+Orthodontic+Braces+%7C+Invisalign/@29.2423669,79.535544,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bbc7d14d287:0x395f5573928b88cf!8m2!3d29.2423669!4d79.535544!16s%2Fg%2F11h0_6ncby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "singh-surgical-hospital-haldwani",
@@ -9351,7 +9430,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Singh+Surgical+Hospital/@29.218808,79.5288512,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae8e5a77f13:0xbc5055052f59e25!8m2!3d29.218808!4d79.5288512!16s%2Fg%2F11gdrf8706?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singh+Surgical+Hospital/@29.218808,79.5288512,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae8e5a77f13:0xbc5055052f59e25!8m2!3d29.218808!4d79.5288512!16s%2Fg%2F11gdrf8706?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9420,7 +9499,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Singh+Surgical+Hospital/@29.218808,79.5288512,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae8e5a77f13:0xbc5055052f59e25!8m2!3d29.218808!4d79.5288512!16s%2Fg%2F11gdrf8706?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smart-family-dental-clinic-haldwani",
@@ -9469,7 +9549,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smart+Family+Dental+Clinic/@29.2079599,79.4988729,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09be19d4f8275:0x96215a6104763e42!8m2!3d29.2079599!4d79.4988729!16s%2Fg%2F11fwjhcxvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smart+Family+Dental+Clinic/@29.2079599,79.4988729,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09be19d4f8275:0x96215a6104763e42!8m2!3d29.2079599!4d79.4988729!16s%2Fg%2F11fwjhcxvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9535,10 +9615,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smart+Family+Dental+Clinic/@29.2079599,79.4988729,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09be19d4f8275:0x96215a6104763e42!8m2!3d29.2079599!4d79.4988729!16s%2Fg%2F11fwjhcxvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-arc-dental-care-haldwani",
@@ -9586,7 +9667,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Arc+Dental+Care/@29.2027389,79.5046567,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b6316cf2cdd:0x77b395ae2c04b5e0!8m2!3d29.2027389!4d79.5046567!16s%2Fg%2F11vbgjzykw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Arc+Dental+Care/@29.2027389,79.5046567,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b6316cf2cdd:0x77b395ae2c04b5e0!8m2!3d29.2027389!4d79.5046567!16s%2Fg%2F11vbgjzykw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9655,7 +9736,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Arc+Dental+Care/@29.2027389,79.5046567,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b6316cf2cdd:0x77b395ae2c04b5e0!8m2!3d29.2027389!4d79.5046567!16s%2Fg%2F11vbgjzykw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-center-for-advanced-dental-care-haldwani",
@@ -9703,7 +9785,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Center+For+Advanced+Dental+Care/@29.2294709,79.5301447,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09af1a7fe74dd:0x549d0f573ed216e6!8m2!3d29.2294709!4d79.5301447!16s%2Fg%2F11c52sy12y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Center+For+Advanced+Dental+Care/@29.2294709,79.5301447,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09af1a7fe74dd:0x549d0f573ed216e6!8m2!3d29.2294709!4d79.5301447!16s%2Fg%2F11c52sy12y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9772,7 +9854,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Center+For+Advanced+Dental+Care/@29.2294709,79.5301447,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09af1a7fe74dd:0x549d0f573ed216e6!8m2!3d29.2294709!4d79.5301447!16s%2Fg%2F11c52sy12y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smilex-dental-clinic-haldwani",
@@ -9820,7 +9903,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smilex+Dental+Clinic/@29.1963737,79.4883946,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b357bd71411:0xd42dbf8f745684d6!8m2!3d29.1963737!4d79.4883946!16s%2Fg%2F11xgw54qcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smilex+Dental+Clinic/@29.1963737,79.4883946,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b357bd71411:0xd42dbf8f745684d6!8m2!3d29.1963737!4d79.4883946!16s%2Fg%2F11xgw54qcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9886,10 +9969,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smilex+Dental+Clinic/@29.1963737,79.4883946,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b357bd71411:0xd42dbf8f745684d6!8m2!3d29.1963737!4d79.4883946!16s%2Fg%2F11xgw54qcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "soban-singh-jeena-base-hospital-haldwani-haldwani",
@@ -9937,7 +10021,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Soban+Singh+Jeena+Base+Hospital+Haldwani/@29.2158625,79.5290707,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae9d2a43c5d:0x9332a33f02e06f93!8m2!3d29.2158625!4d79.5290707!16s%2Fg%2F11b88sfdp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Soban+Singh+Jeena+Base+Hospital+Haldwani/@29.2158625,79.5290707,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae9d2a43c5d:0x9332a33f02e06f93!8m2!3d29.2158625!4d79.5290707!16s%2Fg%2F11b88sfdp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10006,7 +10090,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Soban+Singh+Jeena+Base+Hospital+Haldwani/@29.2158625,79.5290707,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae9d2a43c5d:0x9332a33f02e06f93!8m2!3d29.2158625!4d79.5290707!16s%2Fg%2F11b88sfdp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sparsh-hospital-haldwani",
@@ -10055,7 +10140,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SPARSH+HOSPITAL/@29.2344682,79.5341778,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b8c9827a293:0xd2237e13e515b972!8m2!3d29.2344682!4d79.5341778!16s%2Fg%2F11fm3b6qmp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SPARSH+HOSPITAL/@29.2344682,79.5341778,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b8c9827a293:0xd2237e13e515b972!8m2!3d29.2344682!4d79.5341778!16s%2Fg%2F11fm3b6qmp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10124,7 +10209,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SPARSH+HOSPITAL/@29.2344682,79.5341778,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b8c9827a293:0xd2237e13e515b972!8m2!3d29.2344682!4d79.5341778!16s%2Fg%2F11fm3b6qmp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srivasmiles-dental-and-orthodontic-center-haldwani",
@@ -10173,7 +10259,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Srivasmiles+Dental+%26+Orthodontic+Center/@29.2031033,79.4895858,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b5c579cd333:0x9cf0abd1aa8141a9!8m2!3d29.2031033!4d79.4895858!16s%2Fg%2F11mm3lfngf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srivasmiles+Dental+%26+Orthodontic+Center/@29.2031033,79.4895858,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b5c579cd333:0x9cf0abd1aa8141a9!8m2!3d29.2031033!4d79.4895858!16s%2Fg%2F11mm3lfngf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10242,7 +10328,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srivasmiles+Dental+%26+Orthodontic+Center/@29.2031033,79.4895858,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b5c579cd333:0x9cf0abd1aa8141a9!8m2!3d29.2031033!4d79.4895858!16s%2Fg%2F11mm3lfngf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "star-hospital-best-piles-hospital-haldwani-uttarakhand-korta",
@@ -10290,7 +10377,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/STAR+HOSPITAL+-+Best+Piles+Hospital,+Haldwani+Uttarakhand/@29.2587345,79.5399799,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b75bb70ebf5:0xd5f4a3af68d5353c!8m2!3d29.2587345!4d79.5399799!16s%2Fg%2F11sr6c70_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STAR+HOSPITAL+-+Best+Piles+Hospital,+Haldwani+Uttarakhand/@29.2587345,79.5399799,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b75bb70ebf5:0xd5f4a3af68d5353c!8m2!3d29.2587345!4d79.5399799!16s%2Fg%2F11sr6c70_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10359,7 +10446,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/STAR+HOSPITAL+-+Best+Piles+Hospital,+Haldwani+Uttarakhand/@29.2587345,79.5399799,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b75bb70ebf5:0xd5f4a3af68d5353c!8m2!3d29.2587345!4d79.5399799!16s%2Fg%2F11sr6c70_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "subah-hospital-haldwani",
@@ -10408,7 +10496,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SUBAH+HOSPITAL+(+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%A4%E0%A5%80+%E0%A4%89%E0%A4%B7%E0%A4%BE+%E0%A4%AC%E0%A4%B9%E0%A5%81%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%BE+%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AB%E0%A4%BE+%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%A5+%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%9F%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F+%E0%A4%91%E0%A4%AB+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%B2%E0%A5%89%E0%A4%9C%E0%A5%80+%E0%A4%8F%E0%A4%82%E0%A4%A1+%E0%A4%AE%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%B6%E0%A4%B2%E0%A4%BF%E0%A4%9F%E0%A5%80+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%9C.)/@29.230635,79.5270381,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09afa0a4acd1b:0x316460793fcc141c!8m2!3d29.230635!4d79.5270381!16s%2Fg%2F11fx8c9sw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUBAH+HOSPITAL+(+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%A4%E0%A5%80+%E0%A4%89%E0%A4%B7%E0%A4%BE+%E0%A4%AC%E0%A4%B9%E0%A5%81%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%BE+%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AB%E0%A4%BE+%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%A5+%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%9F%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F+%E0%A4%91%E0%A4%AB+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%B2%E0%A5%89%E0%A4%9C%E0%A5%80+%E0%A4%8F%E0%A4%82%E0%A4%A1+%E0%A4%AE%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%B6%E0%A4%B2%E0%A4%BF%E0%A4%9F%E0%A5%80+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%9C.)/@29.230635,79.5270381,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09afa0a4acd1b:0x316460793fcc141c!8m2!3d29.230635!4d79.5270381!16s%2Fg%2F11fx8c9sw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10477,7 +10565,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SUBAH+HOSPITAL+(+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%A4%E0%A5%80+%E0%A4%89%E0%A4%B7%E0%A4%BE+%E0%A4%AC%E0%A4%B9%E0%A5%81%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%BE+%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AB%E0%A4%BE+%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%A5+%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%9F%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F+%E0%A4%91%E0%A4%AB+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%B2%E0%A5%89%E0%A4%9C%E0%A5%80+%E0%A4%8F%E0%A4%82%E0%A4%A1+%E0%A4%AE%E0%A4%B2%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%B6%E0%A4%B2%E0%A4%BF%E0%A4%9F%E0%A5%80+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%9C.)/@29.230635,79.5270381,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09afa0a4acd1b:0x316460793fcc141c!8m2!3d29.230635!4d79.5270381!16s%2Fg%2F11fx8c9sw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surya-dental-hospital-and-implant-centre-haldwani-haldwani",
@@ -10525,7 +10614,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Surya+Dental+Hospital+%26+Implant+Centre+Haldwani/@29.2187241,79.5153281,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1aef7b37eb:0xefccf2dd617fa56b!8m2!3d29.2187241!4d79.5153281!16s%2Fg%2F11f15mxw5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+Dental+Hospital+%26+Implant+Centre+Haldwani/@29.2187241,79.5153281,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1aef7b37eb:0xefccf2dd617fa56b!8m2!3d29.2187241!4d79.5153281!16s%2Fg%2F11f15mxw5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10594,7 +10683,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surya+Dental+Hospital+%26+Implant+Centre+Haldwani/@29.2187241,79.5153281,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b1aef7b37eb:0xefccf2dd617fa56b!8m2!3d29.2187241!4d79.5153281!16s%2Fg%2F11f15mxw5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sushila-tewari-cancer-hospital-haldwani",
@@ -10643,7 +10733,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sushila+Tewari+Cancer+Hospital/@29.2064558,79.5175341,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ad8e5824a7f:0x266cbdc798cd9845!8m2!3d29.2064558!4d79.5175341!16s%2Fg%2F11g8cy_nwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sushila+Tewari+Cancer+Hospital/@29.2064558,79.5175341,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ad8e5824a7f:0x266cbdc798cd9845!8m2!3d29.2064558!4d79.5175341!16s%2Fg%2F11g8cy_nwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10712,7 +10802,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sushila+Tewari+Cancer+Hospital/@29.2064558,79.5175341,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ad8e5824a7f:0x266cbdc798cd9845!8m2!3d29.2064558!4d79.5175341!16s%2Fg%2F11g8cy_nwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swami-ram-cancer-hospital-haldwani",
@@ -10760,7 +10851,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Swami+Ram+Cancer+Hospital/@29.2076288,79.5176257,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ad8daf4edff:0xa109c603b46d24e3!8m2!3d29.2076288!4d79.5176257!16s%2Fg%2F11b6d21bkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swami+Ram+Cancer+Hospital/@29.2076288,79.5176257,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ad8daf4edff:0xa109c603b46d24e3!8m2!3d29.2076288!4d79.5176257!16s%2Fg%2F11b6d21bkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10829,7 +10920,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swami+Ram+Cancer+Hospital/@29.2076288,79.5176257,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ad8daf4edff:0xa109c603b46d24e3!8m2!3d29.2076288!4d79.5176257!16s%2Fg%2F11b6d21bkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tewari-maternity-centre-and-nursing-home-haldwani",
@@ -10878,7 +10970,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tewari+Maternity+Centre+and+Nursing+Home/@29.21695,79.5180405,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae10732f419:0x271a8dd7d00d439b!8m2!3d29.21695!4d79.5180405!16s%2Fg%2F11cs5nm0zf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tewari+Maternity+Centre+and+Nursing+Home/@29.21695,79.5180405,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae10732f419:0x271a8dd7d00d439b!8m2!3d29.21695!4d79.5180405!16s%2Fg%2F11cs5nm0zf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10947,7 +11039,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tewari+Maternity+Centre+and+Nursing+Home/@29.21695,79.5180405,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae10732f419:0x271a8dd7d00d439b!8m2!3d29.21695!4d79.5180405!16s%2Fg%2F11cs5nm0zf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -10997,7 +11090,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11063,10 +11156,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-smile-healers-dental-and-implant-clinic-haldwani",
@@ -11114,7 +11208,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/The+Smile+Healers+Dental+And+Implant+Clinic/@29.2174964,79.5196454,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae121f159fd:0xa1b2762148175701!8m2!3d29.2174964!4d79.5196454!16s%2Fg%2F11b6g8pxgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Smile+Healers+Dental+And+Implant+Clinic/@29.2174964,79.5196454,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae121f159fd:0xa1b2762148175701!8m2!3d29.2174964!4d79.5196454!16s%2Fg%2F11b6g8pxgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11183,7 +11277,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Smile+Healers+Dental+And+Implant+Clinic/@29.2174964,79.5196454,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae121f159fd:0xa1b2762148175701!8m2!3d29.2174964!4d79.5196454!16s%2Fg%2F11b6g8pxgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ujala-cygnus-central-hospital-haldwani",
@@ -11232,7 +11327,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ujala+Cygnus+Central+Hospital/@29.2222469,79.5052685,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bc39ab6240b:0xba2f0cddf35b5ec5!8m2!3d29.2222469!4d79.5052685!16s%2Fg%2F1hm2d9gc_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ujala+Cygnus+Central+Hospital/@29.2222469,79.5052685,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bc39ab6240b:0xba2f0cddf35b5ec5!8m2!3d29.2222469!4d79.5052685!16s%2Fg%2F1hm2d9gc_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11298,10 +11393,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ujala+Cygnus+Central+Hospital/@29.2222469,79.5052685,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09bc39ab6240b:0xba2f0cddf35b5ec5!8m2!3d29.2222469!4d79.5052685!16s%2Fg%2F1hm2d9gc_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "uttaranchal-dental-care-haldwani",
@@ -11349,7 +11445,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Uttaranchal+Dental+care/@29.2095221,79.5298522,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b5a2aed5885:0x3040eb25262fdf9e!8m2!3d29.2095221!4d79.5298522!16s%2Fg%2F11s7fvf95y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uttaranchal+Dental+care/@29.2095221,79.5298522,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b5a2aed5885:0x3040eb25262fdf9e!8m2!3d29.2095221!4d79.5298522!16s%2Fg%2F11s7fvf95y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11415,10 +11511,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Uttaranchal+Dental+care/@29.2095221,79.5298522,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b5a2aed5885:0x3040eb25262fdf9e!8m2!3d29.2095221!4d79.5298522!16s%2Fg%2F11s7fvf95y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "uttranchal-dental-clinic-haldwani",
@@ -11466,7 +11563,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Uttranchal+Dental+Clinic/@29.2317593,79.5318845,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b57bc3cb37d:0x2d6787f0f75e3009!8m2!3d29.2317593!4d79.5318845!16s%2Fg%2F11xlykt41s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uttranchal+Dental+Clinic/@29.2317593,79.5318845,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b57bc3cb37d:0x2d6787f0f75e3009!8m2!3d29.2317593!4d79.5318845!16s%2Fg%2F11xlykt41s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11532,10 +11629,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Uttranchal+Dental+Clinic/@29.2317593,79.5318845,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b57bc3cb37d:0x2d6787f0f75e3009!8m2!3d29.2317593!4d79.5318845!16s%2Fg%2F11xlykt41s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vatsalya-mother-and-child-care-hospital-haldwani",
@@ -11585,7 +11683,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VATSALYA+MOTHER+AND+CHILD+CARE+HOSPITAL/@29.2117399,79.5166081,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ba311faaad1:0xdd8ff7dba0c641a4!8m2!3d29.2117399!4d79.5166081!16s%2Fg%2F11sn_3rwn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VATSALYA+MOTHER+AND+CHILD+CARE+HOSPITAL/@29.2117399,79.5166081,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ba311faaad1:0xdd8ff7dba0c641a4!8m2!3d29.2117399!4d79.5166081!16s%2Fg%2F11sn_3rwn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11654,7 +11752,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VATSALYA+MOTHER+AND+CHILD+CARE+HOSPITAL/@29.2117399,79.5166081,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ba311faaad1:0xdd8ff7dba0c641a4!8m2!3d29.2117399!4d79.5166081!16s%2Fg%2F11sn_3rwn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vidya-dental-care-and-implant-centre-haldwani",
@@ -11703,7 +11802,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vidya+Dental+Care+%26+Implant+Centre/@29.2172905,79.518436,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b4ceadbbdb5:0xe4a182a22d3454ea!8m2!3d29.2172905!4d79.518436!16s%2Fg%2F11s7jvdmz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vidya+Dental+Care+%26+Implant+Centre/@29.2172905,79.518436,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b4ceadbbdb5:0xe4a182a22d3454ea!8m2!3d29.2172905!4d79.518436!16s%2Fg%2F11s7jvdmz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11769,10 +11868,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vidya+Dental+Care+%26+Implant+Centre/@29.2172905,79.518436,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09b4ceadbbdb5:0xe4a182a22d3454ea!8m2!3d29.2172905!4d79.518436!16s%2Fg%2F11s7jvdmz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vijay-dental-clinic-haldwani",
@@ -11821,7 +11921,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vijay+Dental+Clinic/@29.2271059,79.5303615,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae906e0c87f:0x1ad06695e18a484a!8m2!3d29.2271059!4d79.5303615!16s%2Fg%2F11g6xv2q92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijay+Dental+Clinic/@29.2271059,79.5303615,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae906e0c87f:0x1ad06695e18a484a!8m2!3d29.2271059!4d79.5303615!16s%2Fg%2F11g6xv2q92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11890,7 +11990,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vijay+Dental+Clinic/@29.2271059,79.5303615,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae906e0c87f:0x1ad06695e18a484a!8m2!3d29.2271059!4d79.5303615!16s%2Fg%2F11g6xv2q92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vivekanand-hospital-haldwani",
@@ -11938,7 +12039,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Vivekanand+Hospital/@29.2125241,79.5170829,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae16046e8c1:0xd7e8c3283bfb57de!8m2!3d29.2125241!4d79.5170829!16s%2Fg%2F11c0q_528d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vivekanand+Hospital/@29.2125241,79.5170829,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae16046e8c1:0xd7e8c3283bfb57de!8m2!3d29.2125241!4d79.5170829!16s%2Fg%2F11c0q_528d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12007,7 +12108,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vivekanand+Hospital/@29.2125241,79.5170829,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae16046e8c1:0xd7e8c3283bfb57de!8m2!3d29.2125241!4d79.5170829!16s%2Fg%2F11c0q_528d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "young-spine-clinic-chiropractic-jangi-bangar",
@@ -12058,7 +12160,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Young+Spine+Clinic+-+chiropractic/@29.1192923,79.5195975,17z/data=!3m1!4b1!4m6!3m5!1s0x39a085159bf172ff:0x486064ecd2007baa!8m2!3d29.1192923!4d79.5195975!16s%2Fg%2F11s7fx7j82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Young+Spine+Clinic+-+chiropractic/@29.1192923,79.5195975,17z/data=!3m1!4b1!4m6!3m5!1s0x39a085159bf172ff:0x486064ecd2007baa!8m2!3d29.1192923!4d79.5195975!16s%2Fg%2F11s7fx7j82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12127,7 +12229,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Young+Spine+Clinic+-+chiropractic/@29.1192923,79.5195975,17z/data=!3m1!4b1!4m6!3m5!1s0x39a085159bf172ff:0x486064ecd2007baa!8m2!3d29.1192923!4d79.5195975!16s%2Fg%2F11s7fx7j82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "best-dentist-dental-clinic-implant-center-root-canal-treatment-in-haldwani-haldwani",
@@ -12176,7 +12279,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%A0%F0%9D%97%94+%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F+%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F+-+Best+Dentist+%7C+Dental+Clinic+%7C+Implant+Center+%7C+Root+Canal+Treatment+in+Haldwani/@29.2173217,79.5206859,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae12a3dbca1:0x3cb668c0857bb807!8m2!3d29.2173217!4d79.5206859!16s%2Fg%2F11b_03bl71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%A0%F0%9D%97%94+%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F+%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F+-+Best+Dentist+%7C+Dental+Clinic+%7C+Implant+Center+%7C+Root+Canal+Treatment+in+Haldwani/@29.2173217,79.5206859,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae12a3dbca1:0x3cb668c0857bb807!8m2!3d29.2173217!4d79.5206859!16s%2Fg%2F11b_03bl71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12245,6 +12348,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%A0%F0%9D%97%94+%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F+%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%9C%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F+-+Best+Dentist+%7C+Dental+Clinic+%7C+Implant+Center+%7C+Root+Canal+Treatment+in+Haldwani/@29.2173217,79.5206859,17z/data=!3m1!4b1!4m6!3m5!1s0x39a09ae12a3dbca1:0x3cb668c0857bb807!8m2!3d29.2173217!4d79.5206859!16s%2Fg%2F11b_03bl71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

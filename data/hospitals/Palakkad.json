@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/32Care+dental+clinic+and+cosmetic+studio/@10.7796614,76.7129864,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dc8535a1997:0xce62010cfa31c432!8m2!3d10.7796614!4d76.7129864!16s%2Fg%2F11l67_n07t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32Care+dental+clinic+and+cosmetic+studio/@10.7796614,76.7129864,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dc8535a1997:0xce62010cfa31c432!8m2!3d10.7796614!4d76.7129864!16s%2Fg%2F11l67_n07t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/32Care+dental+clinic+and+cosmetic+studio/@10.7796614,76.7129864,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dc8535a1997:0xce62010cfa31c432!8m2!3d10.7796614!4d76.7129864!16s%2Fg%2F11l67_n07t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "a-life-surgicals-palakkad",
@@ -160,7 +161,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/A+Life+Surgicals/@10.7666094,76.6535565,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfde19481b5:0x9bb531493d6c6966!8m2!3d10.7666094!4d76.6535565!16s%2Fg%2F11jz761_cf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+Life+Surgicals/@10.7666094,76.6535565,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfde19481b5:0x9bb531493d6c6966!8m2!3d10.7666094!4d76.6535565!16s%2Fg%2F11jz761_cf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -226,10 +227,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A+Life+Surgicals/@10.7666094,76.6535565,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfde19481b5:0x9bb531493d6c6966!8m2!3d10.7666094!4d76.6535565!16s%2Fg%2F11jz761_cf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ahalia-ayurveda-medical-college-hospital-palakkad",
@@ -278,7 +280,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ahalia+Ayurveda+Medical+College+Hospital/@10.7918148,76.8297268,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e0f11009ce5:0xd68025505fffb1c0!8m2!3d10.7918148!4d76.8297268!16s%2Fg%2F11cffzvgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahalia+Ayurveda+Medical+College+Hospital/@10.7918148,76.8297268,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e0f11009ce5:0xd68025505fffb1c0!8m2!3d10.7918148!4d76.8297268!16s%2Fg%2F11cffzvgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -347,7 +349,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ahalia+Ayurveda+Medical+College+Hospital/@10.7918148,76.8297268,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e0f11009ce5:0xd68025505fffb1c0!8m2!3d10.7918148!4d76.8297268!16s%2Fg%2F11cffzvgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ahalia-diabetes-hospital-elappully",
@@ -397,7 +400,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ahalia+Diabetes+Hospital/@10.7918328,76.8275683,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba84200b63faad5:0xf1a6ec5806a1bc53!8m2!3d10.7918328!4d76.8275683!16s%2Fg%2F1hf2xp830?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahalia+Diabetes+Hospital/@10.7918328,76.8275683,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba84200b63faad5:0xf1a6ec5806a1bc53!8m2!3d10.7918328!4d76.8275683!16s%2Fg%2F1hf2xp830?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -466,7 +469,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ahalia+Diabetes+Hospital/@10.7918328,76.8275683,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba84200b63faad5:0xf1a6ec5806a1bc53!8m2!3d10.7918328!4d76.8275683!16s%2Fg%2F1hf2xp830?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ahalia-health-heritage-and-knowledge-village-elappully",
@@ -515,7 +519,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AHALIA+HEALTH,+HERITAGE+%26+KNOWLEDGE+VILLAGE/@10.7945575,76.8268854,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8693a22d0e549:0x69c0150fc947af4b!8m2!3d10.7945575!4d76.8268854!16s%2Fg%2F11sqp6b6g4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AHALIA+HEALTH,+HERITAGE+%26+KNOWLEDGE+VILLAGE/@10.7945575,76.8268854,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8693a22d0e549:0x69c0150fc947af4b!8m2!3d10.7945575!4d76.8268854!16s%2Fg%2F11sqp6b6g4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -584,7 +588,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AHALIA+HEALTH,+HERITAGE+%26+KNOWLEDGE+VILLAGE/@10.7945575,76.8268854,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8693a22d0e549:0x69c0150fc947af4b!8m2!3d10.7945575!4d76.8268854!16s%2Fg%2F11sqp6b6g4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ahalia-women-and-children-s-hospital-kozhippara",
@@ -634,7 +639,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ahalia+Women+And+Children's+Hospital/@10.7969204,76.8281573,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba84207cf5a295d:0xb909afb89ecca81e!8m2!3d10.7969204!4d76.8281573!16s%2Fg%2F1pp2w_26m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahalia+Women+And+Children's+Hospital/@10.7969204,76.8281573,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba84207cf5a295d:0xb909afb89ecca81e!8m2!3d10.7969204!4d76.8281573!16s%2Fg%2F1pp2w_26m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -703,7 +708,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ahalia+Women+And+Children's+Hospital/@10.7969204,76.8281573,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba84207cf5a295d:0xb909afb89ecca81e!8m2!3d10.7969204!4d76.8281573!16s%2Fg%2F1pp2w_26m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amrita-homoeo-medical-centre-palakkad",
@@ -752,7 +758,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Amrita+Homoeo+Medical+Centre/@10.7853423,76.6445461,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e03ce71a38b:0x82eb9e6a674916be!8m2!3d10.7853423!4d76.6445461!16s%2Fg%2F11g6_x6t3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrita+Homoeo+Medical+Centre/@10.7853423,76.6445461,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e03ce71a38b:0x82eb9e6a674916be!8m2!3d10.7853423!4d76.6445461!16s%2Fg%2F11g6_x6t3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -821,7 +827,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrita+Homoeo+Medical+Centre/@10.7853423,76.6445461,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e03ce71a38b:0x82eb9e6a674916be!8m2!3d10.7853423!4d76.6445461!16s%2Fg%2F11g6_x6t3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aravindakshan-ayurvedic-clinic-chittur",
@@ -869,7 +876,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Aravindakshan+Ayurvedic+Clinic/@10.6938925,76.7280925,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba81354acf832a7:0x4327bdd1af17cb72!8m2!3d10.6938925!4d76.7280925!16s%2Fg%2F11btv66_23?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aravindakshan+Ayurvedic+Clinic/@10.6938925,76.7280925,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba81354acf832a7:0x4327bdd1af17cb72!8m2!3d10.6938925!4d76.7280925!16s%2Fg%2F11btv66_23?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -938,7 +945,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aravindakshan+Ayurvedic+Clinic/@10.6938925,76.7280925,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba81354acf832a7:0x4327bdd1af17cb72!8m2!3d10.6938925!4d76.7280925!16s%2Fg%2F11btv66_23?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ascent-ent-hospital-and-medical-centre-palakkad",
@@ -987,7 +995,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ascent+ENT+Hospital+%26+Medical+Centre/@10.7710246,76.6575509,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5cc6d952d:0x4e75747684dfe2a6!8m2!3d10.7710246!4d76.6575509!16s%2Fg%2F11c3vr2p24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ascent+ENT+Hospital+%26+Medical+Centre/@10.7710246,76.6575509,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5cc6d952d:0x4e75747684dfe2a6!8m2!3d10.7710246!4d76.6575509!16s%2Fg%2F11c3vr2p24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1056,7 +1064,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ascent+ENT+Hospital+%26+Medical+Centre/@10.7710246,76.6575509,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5cc6d952d:0x4e75747684dfe2a6!8m2!3d10.7710246!4d76.6575509!16s%2Fg%2F11c3vr2p24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "asoka-homoeo-clinic-palakkad",
@@ -1104,7 +1113,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Asoka+Homoeo+Clinic/@10.7723423,76.6899049,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86c2d01528ab3:0x761bb0e24954e170!8m2!3d10.7723423!4d76.6899049!16s%2Fg%2F11bccgbg9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asoka+Homoeo+Clinic/@10.7723423,76.6899049,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86c2d01528ab3:0x761bb0e24954e170!8m2!3d10.7723423!4d76.6899049!16s%2Fg%2F11bccgbg9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1173,7 +1182,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asoka+Homoeo+Clinic/@10.7723423,76.6899049,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86c2d01528ab3:0x761bb0e24954e170!8m2!3d10.7723423!4d76.6899049!16s%2Fg%2F11bccgbg9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aswathy-medical-hall-palakkad",
@@ -1221,7 +1231,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aswathy+Medical+Hall/@10.8041104,76.6357444,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871de9c8fe567:0x1a1f47f953357b54!8m2!3d10.8041104!4d76.6357444!16s%2Fg%2F1pzs_vkjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aswathy+Medical+Hall/@10.8041104,76.6357444,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871de9c8fe567:0x1a1f47f953357b54!8m2!3d10.8041104!4d76.6357444!16s%2Fg%2F1pzs_vkjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1287,10 +1297,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aswathy+Medical+Hall/@10.8041104,76.6357444,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871de9c8fe567:0x1a1f47f953357b54!8m2!3d10.8041104!4d76.6357444!16s%2Fg%2F1pzs_vkjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aswini-speciality-hospital-ottapalam",
@@ -1339,7 +1350,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Aswini+Speciality+Hospital/@10.7720428,76.3724095,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d9522cac6907:0xb84c95e75f828886!8m2!3d10.7720428!4d76.3724095!16s%2Fg%2F1tdp_kpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aswini+Speciality+Hospital/@10.7720428,76.3724095,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d9522cac6907:0xb84c95e75f828886!8m2!3d10.7720428!4d76.3724095!16s%2Fg%2F1tdp_kpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1408,7 +1419,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aswini+Speciality+Hospital/@10.7720428,76.3724095,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d9522cac6907:0xb84c95e75f828886!8m2!3d10.7720428!4d76.3724095!16s%2Fg%2F1tdp_kpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "athani-hospital-palakkad",
@@ -1457,7 +1469,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Athani+Hospital/@10.744938,76.816315,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86a7d1df2d7c3:0xab4bca784f674ab0!8m2!3d10.744938!4d76.816315!16s%2Fg%2F11h06l_zf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Athani+Hospital/@10.744938,76.816315,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86a7d1df2d7c3:0xab4bca784f674ab0!8m2!3d10.744938!4d76.816315!16s%2Fg%2F11h06l_zf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1526,7 +1538,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Athani+Hospital/@10.744938,76.816315,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86a7d1df2d7c3:0xab4bca784f674ab0!8m2!3d10.744938!4d76.816315!16s%2Fg%2F11h06l_zf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayurveda-piles-clinic-palakkad",
@@ -1575,7 +1588,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ayurveda+piles+clinic/@10.8308248,76.5857322,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87111864cbf43:0x4c8f170bd3ecd36a!8m2!3d10.8308248!4d76.5857322!16s%2Fg%2F11w4b_mrrm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayurveda+piles+clinic/@10.8308248,76.5857322,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87111864cbf43:0x4c8f170bd3ecd36a!8m2!3d10.8308248!4d76.5857322!16s%2Fg%2F11w4b_mrrm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1641,10 +1654,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayurveda+piles+clinic/@10.8308248,76.5857322,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87111864cbf43:0x4c8f170bd3ecd36a!8m2!3d10.8308248!4d76.5857322!16s%2Fg%2F11w4b_mrrm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bava-fathima-dental-palakkad",
@@ -1692,7 +1706,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Bava+Fathima+Dental/@10.7779461,76.6524468,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d12928f9dbd:0xaed3f1dbb668bbac!8m2!3d10.7779461!4d76.6524468!16s%2Fg%2F11fk1n9yh7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bava+Fathima+Dental/@10.7779461,76.6524468,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d12928f9dbd:0xaed3f1dbb668bbac!8m2!3d10.7779461!4d76.6524468!16s%2Fg%2F11fk1n9yh7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1761,7 +1775,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bava+Fathima+Dental/@10.7779461,76.6524468,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d12928f9dbd:0xaed3f1dbb668bbac!8m2!3d10.7779461!4d76.6524468!16s%2Fg%2F11fk1n9yh7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bava-fathima-dental-clinic-pirayiri",
@@ -1809,7 +1824,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bava+Fathima+Dental+Clinic/@10.7694787,76.6199788,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba873ae6d68a76b:0x953acb84e17fa091!8m2!3d10.7694787!4d76.6199788!16s%2Fg%2F11h9g4_tjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bava+Fathima+Dental+Clinic/@10.7694787,76.6199788,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba873ae6d68a76b:0x953acb84e17fa091!8m2!3d10.7694787!4d76.6199788!16s%2Fg%2F11h9g4_tjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1875,10 +1890,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bava+Fathima+Dental+Clinic/@10.7694787,76.6199788,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba873ae6d68a76b:0x953acb84e17fa091!8m2!3d10.7694787!4d76.6199788!16s%2Fg%2F11h9g4_tjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "birla-fertility-and-ivf-armc-ivf-best-ivf-centre-in-palakkad-palakkad",
@@ -1928,7 +1944,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+%7C%7C+ARMC+IVF+-+Best+IVF+Centre+in+Palakkad/@10.7666048,76.6534749,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86defc4847c27:0x955ecaf6f6a55691!8m2!3d10.7666048!4d76.6534749!16s%2Fg%2F11crxrn_8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+%7C%7C+ARMC+IVF+-+Best+IVF+Centre+in+Palakkad/@10.7666048,76.6534749,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86defc4847c27:0x955ecaf6f6a55691!8m2!3d10.7666048!4d76.6534749!16s%2Fg%2F11crxrn_8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1997,7 +2013,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+%7C%7C+ARMC+IVF+-+Best+IVF+Centre+in+Palakkad/@10.7666048,76.6534749,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86defc4847c27:0x955ecaf6f6a55691!8m2!3d10.7666048!4d76.6534749!16s%2Fg%2F11crxrn_8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bliss-fertility-centre-palakkad",
@@ -2047,7 +2064,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bliss+Fertility+Centre/@10.7703195,76.6372991,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87356140cbc95:0x709325bd98e40e6c!8m2!3d10.7703195!4d76.6372991!16s%2Fg%2F11h4n9hqsl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bliss+Fertility+Centre/@10.7703195,76.6372991,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87356140cbc95:0x709325bd98e40e6c!8m2!3d10.7703195!4d76.6372991!16s%2Fg%2F11h4n9hqsl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2113,10 +2130,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bliss+Fertility+Centre/@10.7703195,76.6372991,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87356140cbc95:0x709325bd98e40e6c!8m2!3d10.7703195!4d76.6372991!16s%2Fg%2F11h4n9hqsl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "citident-dental-clinic-palakkad",
@@ -2164,7 +2182,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Citident+Dental+Clinic/@10.7765258,76.6532307,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de2d64a1179:0xc81394d9ecb37cf8!8m2!3d10.7765258!4d76.6532307!16s%2Fg%2F11byflkchc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Citident+Dental+Clinic/@10.7765258,76.6532307,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de2d64a1179:0xc81394d9ecb37cf8!8m2!3d10.7765258!4d76.6532307!16s%2Fg%2F11byflkchc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2233,7 +2251,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Citident+Dental+Clinic/@10.7765258,76.6532307,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de2d64a1179:0xc81394d9ecb37cf8!8m2!3d10.7765258!4d76.6532307!16s%2Fg%2F11byflkchc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "classic-smile-dental-clinic-palakkad",
@@ -2282,7 +2301,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CLASSIC+SMILE+DENTAL+CLINIC/@10.7737988,76.635335,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba873b786dda221:0xeeba38c23bfa600c!8m2!3d10.7737988!4d76.635335!16s%2Fg%2F11q3f0klj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CLASSIC+SMILE+DENTAL+CLINIC/@10.7737988,76.635335,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba873b786dda221:0xeeba38c23bfa600c!8m2!3d10.7737988!4d76.635335!16s%2Fg%2F11q3f0klj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2348,10 +2367,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CLASSIC+SMILE+DENTAL+CLINIC/@10.7737988,76.635335,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba873b786dda221:0xeeba38c23bfa600c!8m2!3d10.7737988!4d76.635335!16s%2Fg%2F11q3f0klj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "clinic-health-care-treatment-pediatric-skin-urology-heart-kidney-thalikulam",
@@ -2402,7 +2422,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/clinic,+health+care,+treatment+pediatric,+skin,+urology,+heart,+kidney/@10.4536745,76.0869026,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7f3333a707945:0x264422909b471c6b!8m2!3d10.4536745!4d76.0869026!16s%2Fg%2F11w873rlcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/clinic,+health+care,+treatment+pediatric,+skin,+urology,+heart,+kidney/@10.4536745,76.0869026,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7f3333a707945:0x264422909b471c6b!8m2!3d10.4536745!4d76.0869026!16s%2Fg%2F11w873rlcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2468,10 +2488,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/clinic,+health+care,+treatment+pediatric,+skin,+urology,+heart,+kidney/@10.4536745,76.0869026,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7f3333a707945:0x264422909b471c6b!8m2!3d10.4536745!4d76.0869026!16s%2Fg%2F11w873rlcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cosmodent-dental-clinic-palakkad-palakkad",
@@ -2520,7 +2541,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Cosmodent+Dental+Clinic+Palakkad/@10.772636,76.6787803,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddadb9f7bf5:0x8c61b961aef55918!8m2!3d10.772636!4d76.6787803!16s%2Fg%2F11k4swbj5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmodent+Dental+Clinic+Palakkad/@10.772636,76.6787803,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddadb9f7bf5:0x8c61b961aef55918!8m2!3d10.772636!4d76.6787803!16s%2Fg%2F11k4swbj5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2586,10 +2607,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmodent+Dental+Clinic+Palakkad/@10.772636,76.6787803,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddadb9f7bf5:0x8c61b961aef55918!8m2!3d10.772636!4d76.6787803!16s%2Fg%2F11k4swbj5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "crescent-hospital-alathur-alathur",
@@ -2638,7 +2660,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CRESCENT+HOSPITAL+ALATHUR/@10.6474805,76.5447818,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80b7e985154ad:0x8720aab330cd55a6!8m2!3d10.6474805!4d76.5447818!16s%2Fg%2F1tqfzs4s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CRESCENT+HOSPITAL+ALATHUR/@10.6474805,76.5447818,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80b7e985154ad:0x8720aab330cd55a6!8m2!3d10.6474805!4d76.5447818!16s%2Fg%2F1tqfzs4s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2707,7 +2729,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CRESCENT+HOSPITAL+ALATHUR/@10.6474805,76.5447818,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80b7e985154ad:0x8720aab330cd55a6!8m2!3d10.6474805!4d76.5447818!16s%2Fg%2F1tqfzs4s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "daya-hospital-palakkad-palakkad",
@@ -2756,7 +2779,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Daya+Hospital,+Palakkad/@10.7705646,76.6695028,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d6876b2cc4d:0x5dfa5de0c176d44e!8m2!3d10.7705646!4d76.6695028!16s%2Fg%2F11pw403v8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Daya+Hospital,+Palakkad/@10.7705646,76.6695028,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d6876b2cc4d:0x5dfa5de0c176d44e!8m2!3d10.7705646!4d76.6695028!16s%2Fg%2F11pw403v8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2825,7 +2848,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Daya+Hospital,+Palakkad/@10.7705646,76.6695028,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d6876b2cc4d:0x5dfa5de0c176d44e!8m2!3d10.7705646!4d76.6695028!16s%2Fg%2F11pw403v8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-diagnostic-centre-palakkad",
@@ -2873,7 +2897,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Diagnostic+Centre/@10.784342,76.653116,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f9e1996e057:0xe4480527302984d3!8m2!3d10.784342!4d76.653116!16s%2Fg%2F11s4g3vkzr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Diagnostic+Centre/@10.784342,76.653116,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f9e1996e057:0xe4480527302984d3!8m2!3d10.784342!4d76.653116!16s%2Fg%2F11s4g3vkzr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2939,10 +2963,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Diagnostic+Centre/@10.784342,76.653116,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f9e1996e057:0xe4480527302984d3!8m2!3d10.784342!4d76.653116!16s%2Fg%2F11s4g3vkzr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-hive-22-464-leeva-arcade-kunnathurmedu",
@@ -2990,7 +3015,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Hive/@10.770936,76.67012,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d6b1ba85ab3:0x693239797acf960b!8m2!3d10.770936!4d76.67012!16s%2Fg%2F11gxmbwgb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Hive/@10.770936,76.67012,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d6b1ba85ab3:0x693239797acf960b!8m2!3d10.770936!4d76.67012!16s%2Fg%2F11gxmbwgb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3059,7 +3084,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Hive/@10.770936,76.67012,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d6b1ba85ab3:0x693239797acf960b!8m2!3d10.770936!4d76.67012!16s%2Fg%2F11gxmbwgb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-paradise-dental-clinic-palakkad",
@@ -3107,7 +3133,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Paradise+Dental+Clinic/@10.7865077,76.6734781,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d33993b8a65:0x52d776a83a0d6133!8m2!3d10.7865077!4d76.6734781!16s%2Fg%2F11nx09vkg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Paradise+Dental+Clinic/@10.7865077,76.6734781,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d33993b8a65:0x52d776a83a0d6133!8m2!3d10.7865077!4d76.6734781!16s%2Fg%2F11nx09vkg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3173,10 +3199,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Paradise+Dental+Clinic/@10.7865077,76.6734781,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d33993b8a65:0x52d776a83a0d6133!8m2!3d10.7865077!4d76.6734781!16s%2Fg%2F11nx09vkg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dentanova-palakkad",
@@ -3224,7 +3251,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/DENTANOVA/@10.7966713,76.6393697,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8715a750015d9:0xf0d20cdb61ba8c58!8m2!3d10.7966713!4d76.6393697!16s%2Fg%2F11rv8j3m5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTANOVA/@10.7966713,76.6393697,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8715a750015d9:0xf0d20cdb61ba8c58!8m2!3d10.7966713!4d76.6393697!16s%2Fg%2F11rv8j3m5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3293,7 +3320,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENTANOVA/@10.7966713,76.6393697,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8715a750015d9:0xf0d20cdb61ba8c58!8m2!3d10.7966713!4d76.6393697!16s%2Fg%2F11rv8j3m5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "denteon-medical-centre-dental-clinic-palakkad-palakkad",
@@ -3341,7 +3369,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Denteon+Medical+Centre+%7C+Dental+Clinic+Palakkad/data=!4m7!3m6!1s0x3ba86dc54cfcbe3b:0x9dcb2c191be33050!8m2!3d10.7728136!4d76.6685129!16s%2Fg%2F11vjp4y0l0!19sChIJO778TMVtqDsRUDDjGxksy50?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Denteon+Medical+Centre+%7C+Dental+Clinic+Palakkad/data=!4m7!3m6!1s0x3ba86dc54cfcbe3b:0x9dcb2c191be33050!8m2!3d10.7728136!4d76.6685129!16s%2Fg%2F11vjp4y0l0!19sChIJO778TMVtqDsRUDDjGxksy50?authuser=0&hl=en&rclk=1"
@@ -3407,10 +3435,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Denteon+Medical+Centre+%7C+Dental+Clinic+Palakkad/data=!4m7!3m6!1s0x3ba86dc54cfcbe3b:0x9dcb2c191be33050!8m2!3d10.7728136!4d76.6685129!16s%2Fg%2F11vjp4y0l0!19sChIJO778TMVtqDsRUDDjGxksy50?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dentist-next-door-palakkad",
@@ -3459,7 +3488,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dentist+Next+Door/@10.7915764,76.6385108,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871d4e8e69101:0x2e96219a2565e422!8m2!3d10.7915764!4d76.6385108!16s%2Fg%2F11rwwtt161?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentist+Next+Door/@10.7915764,76.6385108,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871d4e8e69101:0x2e96219a2565e422!8m2!3d10.7915764!4d76.6385108!16s%2Fg%2F11rwwtt161?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3525,10 +3554,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dentist+Next+Door/@10.7915764,76.6385108,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871d4e8e69101:0x2e96219a2565e422!8m2!3d10.7915764!4d76.6385108!16s%2Fg%2F11rwwtt161?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dermatome-skin-and-lasers-palakkad",
@@ -3577,7 +3607,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DERMATOME+SKIN+AND+LASERS/@10.7706583,76.6548704,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de42d0d4523:0x5131a444001d9509!8m2!3d10.7706583!4d76.6548704!16s%2Fg%2F11c567h48t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DERMATOME+SKIN+AND+LASERS/@10.7706583,76.6548704,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de42d0d4523:0x5131a444001d9509!8m2!3d10.7706583!4d76.6548704!16s%2Fg%2F11c567h48t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3646,7 +3676,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DERMATOME+SKIN+AND+LASERS/@10.7706583,76.6548704,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de42d0d4523:0x5131a444001d9509!8m2!3d10.7706583!4d76.6548704!16s%2Fg%2F11c567h48t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "district-ayurveda-hospital-dah-palakkad",
@@ -3696,7 +3727,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/District+Ayurveda+Hospital+(+DAH+)/@10.7748423,76.6578825,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de3dd4835a5:0x468cee8936d78436!8m2!3d10.7748423!4d76.6578825!16s%2Fg%2F1tfhdvzt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Ayurveda+Hospital+(+DAH+)/@10.7748423,76.6578825,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de3dd4835a5:0x468cee8936d78436!8m2!3d10.7748423!4d76.6578825!16s%2Fg%2F1tfhdvzt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3765,7 +3796,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+Ayurveda+Hospital+(+DAH+)/@10.7748423,76.6578825,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de3dd4835a5:0x468cee8936d78436!8m2!3d10.7748423!4d76.6578825!16s%2Fg%2F1tfhdvzt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "district-hospital-palakkad-palakkad",
@@ -3814,7 +3846,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/District+Hospital,+Palakkad/@10.7683788,76.6577681,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86def57db0873:0x59ac964c029f51ef!8m2!3d10.7683788!4d76.6577681!16s%2Fg%2F1tfkd05m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital,+Palakkad/@10.7683788,76.6577681,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86def57db0873:0x59ac964c029f51ef!8m2!3d10.7683788!4d76.6577681!16s%2Fg%2F1tfkd05m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3883,7 +3915,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+Hospital,+Palakkad/@10.7683788,76.6577681,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86def57db0873:0x59ac964c029f51ef!8m2!3d10.7683788!4d76.6577681!16s%2Fg%2F1tfkd05m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divisional-railway-hospital-palakkad",
@@ -3932,7 +3965,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Divisional+Railway+Hospital/@10.8167954,76.6329673,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871d17ddc6cef:0x38f74e290c0a3b2d!8m2!3d10.8167954!4d76.6329673!16s%2Fg%2F1thmjfgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divisional+Railway+Hospital/@10.8167954,76.6329673,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871d17ddc6cef:0x38f74e290c0a3b2d!8m2!3d10.8167954!4d76.6329673!16s%2Fg%2F1thmjfgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4001,7 +4034,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divisional+Railway+Hospital/@10.8167954,76.6329673,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871d17ddc6cef:0x38f74e290c0a3b2d!8m2!3d10.8167954!4d76.6329673!16s%2Fg%2F1thmjfgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "erattakulam-medical-centre-palakkad",
@@ -4049,7 +4083,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Erattakulam+Medical+Centre/@10.6368427,76.5218169,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80b5c50a0b1d5:0x36f7838308554432!8m2!3d10.6368427!4d76.5218169!16s%2Fg%2F11q86dthxw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Erattakulam+Medical+Centre/@10.6368427,76.5218169,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80b5c50a0b1d5:0x36f7838308554432!8m2!3d10.6368427!4d76.5218169!16s%2Fg%2F11q86dthxw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4118,7 +4152,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Erattakulam+Medical+Centre/@10.6368427,76.5218169,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80b5c50a0b1d5:0x36f7838308554432!8m2!3d10.6368427!4d76.5218169!16s%2Fg%2F11q86dthxw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "esaf-hospital-and-research-centre-thachampara",
@@ -4166,7 +4201,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/ESAF+Hospital+%26+Research+Centre/@10.9578766,76.50918,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87ed0d900c673:0xf9c68d6ede1888db!8m2!3d10.9578766!4d76.50918!16s%2Fg%2F1ttp8r8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ESAF+Hospital+%26+Research+Centre/@10.9578766,76.50918,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87ed0d900c673:0xf9c68d6ede1888db!8m2!3d10.9578766!4d76.50918!16s%2Fg%2F1ttp8r8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4235,7 +4270,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ESAF+Hospital+%26+Research+Centre/@10.9578766,76.50918,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87ed0d900c673:0xf9c68d6ede1888db!8m2!3d10.9578766!4d76.50918!16s%2Fg%2F1ttp8r8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "esi-hospital-palakkad-palakkad",
@@ -4284,7 +4320,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ESI+Hospital,Palakkad/@10.7877088,76.6403551,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871fd6df53bef:0x1ce3d84d3aa7ee3e!8m2!3d10.7877088!4d76.6403551!16s%2Fg%2F1vr3bm19?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ESI+Hospital,Palakkad/@10.7877088,76.6403551,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871fd6df53bef:0x1ce3d84d3aa7ee3e!8m2!3d10.7877088!4d76.6403551!16s%2Fg%2F1vr3bm19?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4353,7 +4389,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ESI+Hospital,Palakkad/@10.7877088,76.6403551,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871fd6df53bef:0x1ce3d84d3aa7ee3e!8m2!3d10.7877088!4d76.6403551!16s%2Fg%2F1vr3bm19?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eumed-fertility-hospital-palakkad",
@@ -4403,7 +4440,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Eumed+Fertility+Hospital/@10.7825335,76.6579364,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f7fd6d74015:0x42ad2f5d981f92d1!8m2!3d10.7825335!4d76.6579364!16s%2Fg%2F11ssh720mk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eumed+Fertility+Hospital/@10.7825335,76.6579364,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f7fd6d74015:0x42ad2f5d981f92d1!8m2!3d10.7825335!4d76.6579364!16s%2Fg%2F11ssh720mk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4469,10 +4506,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eumed+Fertility+Hospital/@10.7825335,76.6579364,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f7fd6d74015:0x42ad2f5d981f92d1!8m2!3d10.7825335!4d76.6579364!16s%2Fg%2F11ssh720mk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fab-dental-clinic-palakkad",
@@ -4520,7 +4558,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Fab+dental+clinic/@10.773694,76.660248,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d0047662fc7:0xa4801e41163dfc00!8m2!3d10.773694!4d76.660248!16s%2Fg%2F11yj8xrf6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fab+dental+clinic/@10.773694,76.660248,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d0047662fc7:0xa4801e41163dfc00!8m2!3d10.773694!4d76.660248!16s%2Fg%2F11yj8xrf6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4586,10 +4624,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fab+dental+clinic/@10.773694,76.660248,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d0047662fc7:0xa4801e41163dfc00!8m2!3d10.773694!4d76.660248!16s%2Fg%2F11yj8xrf6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fetal-care-advanced-sonography-palakkad",
@@ -4639,7 +4678,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Fetal+Care+(Advanced+Sonography)/@10.7710363,76.6568132,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dc4f40a7e09:0x1150ee8505b91c45!8m2!3d10.7710363!4d76.6568132!16s%2Fg%2F11gj0tl_34?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fetal+Care+(Advanced+Sonography)/@10.7710363,76.6568132,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dc4f40a7e09:0x1150ee8505b91c45!8m2!3d10.7710363!4d76.6568132!16s%2Fg%2F11gj0tl_34?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4705,10 +4744,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fetal+Care+(Advanced+Sonography)/@10.7710363,76.6568132,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dc4f40a7e09:0x1150ee8505b91c45!8m2!3d10.7710363!4d76.6568132!16s%2Fg%2F11gj0tl_34?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fims-hospital-kurichi",
@@ -4757,7 +4797,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/FIMS+Hospital/@10.957823,76.972314,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba85a31b19e48cb:0xeb1e14d8c8f84a95!8m2!3d10.957823!4d76.972314!16s%2Fg%2F124ymvzwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FIMS+Hospital/@10.957823,76.972314,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba85a31b19e48cb:0xeb1e14d8c8f84a95!8m2!3d10.957823!4d76.972314!16s%2Fg%2F124ymvzwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4826,7 +4866,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/FIMS+Hospital/@10.957823,76.972314,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba85a31b19e48cb:0xeb1e14d8c8f84a95!8m2!3d10.957823!4d76.972314!16s%2Fg%2F124ymvzwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "flood-rescue-dhwani-medical-center-palakkad",
@@ -4874,7 +4915,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Flood+Rescue+(Dhwani+Medical+Center)/@10.7871949,76.6731727,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f4eadc55abd:0x25639df941acb9ff!8m2!3d10.7871949!4d76.6731727!16s%2Fg%2F11f8jwk0vg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Flood+Rescue+(Dhwani+Medical+Center)/@10.7871949,76.6731727,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f4eadc55abd:0x25639df941acb9ff!8m2!3d10.7871949!4d76.6731727!16s%2Fg%2F11f8jwk0vg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4940,10 +4981,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Flood+Rescue+(Dhwani+Medical+Center)/@10.7871949,76.6731727,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f4eadc55abd:0x25639df941acb9ff!8m2!3d10.7871949!4d76.6731727!16s%2Fg%2F11f8jwk0vg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "foot-park-palakkad",
@@ -4992,7 +5034,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Foot+Park/@10.7720379,76.6523552,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfb36bd5b13:0x85385041f170a109!8m2!3d10.7720379!4d76.6523552!16s%2Fg%2F11crxrj367?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Foot+Park/@10.7720379,76.6523552,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfb36bd5b13:0x85385041f170a109!8m2!3d10.7720379!4d76.6523552!16s%2Fg%2F11crxrj367?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5061,7 +5103,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Foot+Park/@10.7720379,76.6523552,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfb36bd5b13:0x85385041f170a109!8m2!3d10.7720379!4d76.6523552!16s%2Fg%2F11crxrj367?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gem-hospital-coimbatore-coimbatore",
@@ -5110,7 +5153,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/GEM+Hospital+Coimbatore/@10.9996215,76.9954638,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba85905a88facf7:0xf1d213fbbca5444c!8m2!3d10.9996215!4d76.9954638!16s%2Fg%2F11rrzjpsy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GEM+Hospital+Coimbatore/@10.9996215,76.9954638,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba85905a88facf7:0xf1d213fbbca5444c!8m2!3d10.9996215!4d76.9954638!16s%2Fg%2F11rrzjpsy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5179,7 +5222,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GEM+Hospital+Coimbatore/@10.9996215,76.9954638,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba85905a88facf7:0xf1d213fbbca5444c!8m2!3d10.9996215!4d76.9954638!16s%2Fg%2F11rrzjpsy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-medical-college-hospital-palakkad",
@@ -5228,7 +5272,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Government+Medical+College+Hospital/@10.7502426,76.6630095,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddd8a2bb4bb:0x9f4187bcfaa0edda!8m2!3d10.7502426!4d76.6630095!16s%2Fg%2F11h4pcdj_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Medical+College+Hospital/@10.7502426,76.6630095,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddd8a2bb4bb:0x9f4187bcfaa0edda!8m2!3d10.7502426!4d76.6630095!16s%2Fg%2F11h4pcdj_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5297,7 +5341,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Medical+College+Hospital/@10.7502426,76.6630095,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddd8a2bb4bb:0x9f4187bcfaa0edda!8m2!3d10.7502426!4d76.6630095!16s%2Fg%2F11h4pcdj_7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-taluk-hospital-chittur-chittur",
@@ -5346,7 +5391,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Government+Taluk+Hospital+Chittur/@10.6997696,76.7533091,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86b4bc8ddd821:0xe9b590c13da57b1b!8m2!3d10.6997696!4d76.7533091!16s%2Fg%2F11c0x8rclc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Taluk+Hospital+Chittur/@10.6997696,76.7533091,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86b4bc8ddd821:0xe9b590c13da57b1b!8m2!3d10.6997696!4d76.7533091!16s%2Fg%2F11c0x8rclc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5415,7 +5460,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Taluk+Hospital+Chittur/@10.6997696,76.7533091,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86b4bc8ddd821:0xe9b590c13da57b1b!8m2!3d10.6997696!4d76.7533091!16s%2Fg%2F11c0x8rclc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-women-and-children-s-hospital-palakkad-palakkad",
@@ -5465,7 +5511,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Government+Women+And+Children%27s+Hospital+Palakkad/data=!4m7!3m6!1s0x3ba86de61d77e6ab:0xd4e115bfb518cf52!8m2!3d10.7686109!4d76.6595009!16s%2Fg%2F11gg6_9k5t!19sChIJq-Z3HeZtqDsRUs8Ytb8V4dQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Women+And+Children%27s+Hospital+Palakkad/data=!4m7!3m6!1s0x3ba86de61d77e6ab:0xd4e115bfb518cf52!8m2!3d10.7686109!4d76.6595009!16s%2Fg%2F11gg6_9k5t!19sChIJq-Z3HeZtqDsRUs8Ytb8V4dQ?authuser=0&hl=en&rclk=1"
@@ -5534,7 +5580,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Women+And+Children%27s+Hospital+Palakkad/data=!4m7!3m6!1s0x3ba86de61d77e6ab:0xd4e115bfb518cf52!8m2!3d10.7686109!4d76.6595009!16s%2Fg%2F11gg6_9k5t!19sChIJq-Z3HeZtqDsRUs8Ytb8V4dQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "govt-medical-college-main-block-palakkad-palakkad",
@@ -5582,7 +5629,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Govt+Medical+College+Main+block,+Palakkad/data=!4m7!3m6!1s0x3ba86d478580ef27:0x34aa63830bcba654!8m2!3d10.7511538!4d76.6640703!16s%2Fg%2F11fm6p1001!19sChIJJ--AhUdtqDsRVKbLC4NjqjQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt+Medical+College+Main+block,+Palakkad/data=!4m7!3m6!1s0x3ba86d478580ef27:0x34aa63830bcba654!8m2!3d10.7511538!4d76.6640703!16s%2Fg%2F11fm6p1001!19sChIJJ--AhUdtqDsRVKbLC4NjqjQ?authuser=0&hl=en&rclk=1"
@@ -5651,7 +5698,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govt+Medical+College+Main+block,+Palakkad/data=!4m7!3m6!1s0x3ba86d478580ef27:0x34aa63830bcba654!8m2!3d10.7511538!4d76.6640703!16s%2Fg%2F11fm6p1001!19sChIJJ--AhUdtqDsRVKbLC4NjqjQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "govt-taluk-hospital-ottapalam-ottapalam",
@@ -5700,7 +5748,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Govt.+Taluk+Hospital+Ottapalam/@10.7796254,76.3746707,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d95acf68f3b7:0x675d8abdf7911082!8m2!3d10.7796254!4d76.3746707!16s%2Fg%2F1tfzf5v1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt.+Taluk+Hospital+Ottapalam/@10.7796254,76.3746707,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d95acf68f3b7:0x675d8abdf7911082!8m2!3d10.7796254!4d76.3746707!16s%2Fg%2F1tfzf5v1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5769,7 +5817,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govt.+Taluk+Hospital+Ottapalam/@10.7796254,76.3746707,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d95acf68f3b7:0x675d8abdf7911082!8m2!3d10.7796254!4d76.3746707!16s%2Fg%2F1tfzf5v1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hakeem-s-clinic-palakkad",
@@ -5817,7 +5866,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/HAKEEM'S+CLINIC/@10.7833693,76.6507292,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f65253b9ee5:0x7422f56fda5f426!8m2!3d10.7833693!4d76.6507292!16s%2Fg%2F11j2__zgg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HAKEEM'S+CLINIC/@10.7833693,76.6507292,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f65253b9ee5:0x7422f56fda5f426!8m2!3d10.7833693!4d76.6507292!16s%2Fg%2F11j2__zgg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5883,10 +5932,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HAKEEM'S+CLINIC/@10.7833693,76.6507292,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f65253b9ee5:0x7422f56fda5f426!8m2!3d10.7833693!4d76.6507292!16s%2Fg%2F11j2__zgg8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hemambika-dental-care-palakkad",
@@ -5934,7 +5984,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/HEMAMBIKA+DENTAL+CARE/@10.8160266,76.6350345,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8710d36e4703b:0x9073e6b41c7bee5d!8m2!3d10.8160266!4d76.6350345!16s%2Fg%2F11mld56rbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HEMAMBIKA+DENTAL+CARE/@10.8160266,76.6350345,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8710d36e4703b:0x9073e6b41c7bee5d!8m2!3d10.8160266!4d76.6350345!16s%2Fg%2F11mld56rbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6003,7 +6053,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HEMAMBIKA+DENTAL+CARE/@10.8160266,76.6350345,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8710d36e4703b:0x9073e6b41c7bee5d!8m2!3d10.8160266!4d76.6350345!16s%2Fg%2F11mld56rbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ideal-diagnostics-palakkad",
@@ -6053,7 +6104,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ideal+Diagnostics/@10.7688924,76.6573495,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5f3987205:0x5d74382df4c2dd0e!8m2!3d10.7688924!4d76.6573495!16s%2Fg%2F1hhhz3lp1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ideal+Diagnostics/@10.7688924,76.6573495,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5f3987205:0x5d74382df4c2dd0e!8m2!3d10.7688924!4d76.6573495!16s%2Fg%2F1hhhz3lp1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6122,7 +6173,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ideal+Diagnostics/@10.7688924,76.6573495,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5f3987205:0x5d74382df4c2dd0e!8m2!3d10.7688924!4d76.6573495!16s%2Fg%2F1hhhz3lp1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "imagic-dental-clinic-palakkad",
@@ -6171,7 +6223,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Imagic+Dental+Clinic/@10.767611,76.662865,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfa8c5fe885:0xbff6a6c52bd3897c!8m2!3d10.767611!4d76.662865!16s%2Fg%2F11c1t5c9b1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Imagic+Dental+Clinic/@10.767611,76.662865,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfa8c5fe885:0xbff6a6c52bd3897c!8m2!3d10.767611!4d76.662865!16s%2Fg%2F11c1t5c9b1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6240,7 +6292,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Imagic+Dental+Clinic/@10.767611,76.662865,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfa8c5fe885:0xbff6a6c52bd3897c!8m2!3d10.767611!4d76.662865!16s%2Fg%2F11c1t5c9b1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "impressions-dental-clinic-palakkad",
@@ -6288,7 +6341,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Impressions+Dental+Clinic/@10.8117034,76.6360217,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871d7564b8931:0x25c08cb2169845ac!8m2!3d10.8117034!4d76.6360217!16s%2Fg%2F11g8wx348_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Impressions+Dental+Clinic/@10.8117034,76.6360217,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871d7564b8931:0x25c08cb2169845ac!8m2!3d10.8117034!4d76.6360217!16s%2Fg%2F11g8wx348_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6357,7 +6410,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Impressions+Dental+Clinic/@10.8117034,76.6360217,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871d7564b8931:0x25c08cb2169845ac!8m2!3d10.8117034!4d76.6360217!16s%2Fg%2F11g8wx348_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "india-hospital-thiruvananthapuram",
@@ -6406,7 +6460,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/India+Hospital/@8.4928179,76.9513267,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bba538017d2b:0x6b8ce7b43986759c!8m2!3d8.4928179!4d76.9513267!16s%2Fg%2F1tdjpl3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/India+Hospital/@8.4928179,76.9513267,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bba538017d2b:0x6b8ce7b43986759c!8m2!3d8.4928179!4d76.9513267!16s%2Fg%2F1tdjpl3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6475,7 +6529,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/India+Hospital/@8.4928179,76.9513267,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05bba538017d2b:0x6b8ce7b43986759c!8m2!3d8.4928179!4d76.9513267!16s%2Fg%2F1tdjpl3v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "iqraa-international-hospital-and-research-centre-kozhikode",
@@ -6524,7 +6579,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/IQRAA+International+Hospital+%26+Research+Centre/@11.2866691,75.7981171,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba65ea4832526ad:0xc5e33869a5762c2b!8m2!3d11.2866691!4d75.7981171!16s%2Fg%2F1tf062x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IQRAA+International+Hospital+%26+Research+Centre/@11.2866691,75.7981171,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba65ea4832526ad:0xc5e33869a5762c2b!8m2!3d11.2866691!4d75.7981171!16s%2Fg%2F1tf062x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6593,7 +6648,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/IQRAA+International+Hospital+%26+Research+Centre/@11.2866691,75.7981171,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba65ea4832526ad:0xc5e33869a5762c2b!8m2!3d11.2866691!4d75.7981171!16s%2Fg%2F1tf062x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "isha-gynaecology-and-fertility-centre-palakkad",
@@ -6642,7 +6698,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Isha+Gynaecology+%26Fertility+Centre/@10.7646874,76.6510224,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db25d7ac33f:0xdfc7dba8caa69d4!8m2!3d10.7646874!4d76.6510224!16s%2Fg%2F11rxnbgnyl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Isha+Gynaecology+%26Fertility+Centre/@10.7646874,76.6510224,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db25d7ac33f:0xdfc7dba8caa69d4!8m2!3d10.7646874!4d76.6510224!16s%2Fg%2F11rxnbgnyl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6711,7 +6767,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Isha+Gynaecology+%26Fertility+Centre/@10.7646874,76.6510224,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db25d7ac33f:0xdfc7dba8caa69d4!8m2!3d10.7646874!4d76.6510224!16s%2Fg%2F11rxnbgnyl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jj-dental-clinic-palakkad",
@@ -6760,7 +6817,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/JJ+Dental+Clinic/@10.7696542,76.6554298,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5751d9b47:0xa94dde7a9ac22b5f!8m2!3d10.7696542!4d76.6554298!16s%2Fg%2F11_dpqmfk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JJ+Dental+Clinic/@10.7696542,76.6554298,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5751d9b47:0xa94dde7a9ac22b5f!8m2!3d10.7696542!4d76.6554298!16s%2Fg%2F11_dpqmfk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6829,7 +6886,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JJ+Dental+Clinic/@10.7696542,76.6554298,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5751d9b47:0xa94dde7a9ac22b5f!8m2!3d10.7696542!4d76.6554298!16s%2Fg%2F11_dpqmfk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "k-dental-care-palakkad",
@@ -6877,7 +6935,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/K+Dental+Care/data=!4m7!3m6!1s0x3ba86dea8f24a973:0x7c4fb5019673f121!8m2!3d10.7593915!4d76.6694736!16s%2Fg%2F11rz98bylw!19sChIJc6kkj-ptqDsRIfFzlgG1T3w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K+Dental+Care/data=!4m7!3m6!1s0x3ba86dea8f24a973:0x7c4fb5019673f121!8m2!3d10.7593915!4d76.6694736!16s%2Fg%2F11rz98bylw!19sChIJc6kkj-ptqDsRIfFzlgG1T3w?authuser=0&hl=en&rclk=1"
@@ -6943,10 +7001,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/K+Dental+Care/data=!4m7!3m6!1s0x3ba86dea8f24a973:0x7c4fb5019673f121!8m2!3d10.7593915!4d76.6694736!16s%2Fg%2F11rz98bylw!19sChIJc6kkj-ptqDsRIfFzlgG1T3w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kairali-the-ayurvedic-healing-village-palayamkadu-p-o-olassery-kodumbu",
@@ -6995,7 +7054,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kairali+-+The+Ayurvedic+Healing+Village/@10.7279419,76.711564,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86c8d77627919:0x8c7ca17c66477223!8m2!3d10.7279419!4d76.711564!16s%2Fg%2F1tcyvw39?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kairali+-+The+Ayurvedic+Healing+Village/@10.7279419,76.711564,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86c8d77627919:0x8c7ca17c66477223!8m2!3d10.7279419!4d76.711564!16s%2Fg%2F1tcyvw39?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7064,7 +7123,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kairali+-+The+Ayurvedic+Healing+Village/@10.7279419,76.711564,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86c8d77627919:0x8c7ca17c66477223!8m2!3d10.7279419!4d76.711564!16s%2Fg%2F1tcyvw39?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalyani-kidney-care-centre-erode",
@@ -7114,7 +7174,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kalyani+Kidney+Care+Centre/@11.3383308,77.7082941,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba96f23084f9687:0x9bd4ac9a3b7a4454!8m2!3d11.3383308!4d77.7082941!16s%2Fg%2F1w0h5yzy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalyani+Kidney+Care+Centre/@11.3383308,77.7082941,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba96f23084f9687:0x9bd4ac9a3b7a4454!8m2!3d11.3383308!4d77.7082941!16s%2Fg%2F1w0h5yzy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7183,7 +7243,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalyani+Kidney+Care+Centre/@11.3383308,77.7082941,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba96f23084f9687:0x9bd4ac9a3b7a4454!8m2!3d11.3383308!4d77.7082941!16s%2Fg%2F1w0h5yzy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kannan-surgical-clinic-palakkad",
@@ -7232,7 +7293,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Kannan+Surgical+Clinic/@10.7694454,76.6605029,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de63b6d0b1b:0x2b8142c6bf892350!8m2!3d10.7694454!4d76.6605029!16s%2Fg%2F11f4pjhr35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kannan+Surgical+Clinic/@10.7694454,76.6605029,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de63b6d0b1b:0x2b8142c6bf892350!8m2!3d10.7694454!4d76.6605029!16s%2Fg%2F11f4pjhr35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7301,7 +7362,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kannan+Surgical+Clinic/@10.7694454,76.6605029,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de63b6d0b1b:0x2b8142c6bf892350!8m2!3d10.7694454!4d76.6605029!16s%2Fg%2F11f4pjhr35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "karuna-hospital-palakkad",
@@ -7350,7 +7412,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Karuna+Hospital/data=!4m7!3m6!1s0x3ba8720125d53479:0x3ae2bcd8df95a367!8m2!3d10.7741088!4d76.6380158!16s%2Fg%2F1tfmltwt!19sChIJeTTVJQFyqDsRZ6OV39i84jo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karuna+Hospital/data=!4m7!3m6!1s0x3ba8720125d53479:0x3ae2bcd8df95a367!8m2!3d10.7741088!4d76.6380158!16s%2Fg%2F1tfmltwt!19sChIJeTTVJQFyqDsRZ6OV39i84jo?authuser=0&hl=en&rclk=1"
@@ -7419,7 +7481,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Karuna+Hospital/data=!4m7!3m6!1s0x3ba8720125d53479:0x3ae2bcd8df95a367!8m2!3d10.7741088!4d76.6380158!16s%2Fg%2F1tfmltwt!19sChIJeTTVJQFyqDsRZ6OV39i84jo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "karuna-medical-college-perumatty",
@@ -7468,7 +7531,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Karuna+Medical+College/@10.6802526,76.7730424,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba814dedcfdd1e3:0x819e8cd7956a958c!8m2!3d10.6802526!4d76.7730424!16s%2Fm%2F09g9dbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karuna+Medical+College/@10.6802526,76.7730424,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba814dedcfdd1e3:0x819e8cd7956a958c!8m2!3d10.6802526!4d76.7730424!16s%2Fm%2F09g9dbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7537,7 +7600,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Karuna+Medical+College/@10.6802526,76.7730424,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba814dedcfdd1e3:0x819e8cd7956a958c!8m2!3d10.6802526!4d76.7730424!16s%2Fm%2F09g9dbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "karunya-medical-pallakad-palakkad",
@@ -7585,7 +7649,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Karunya+Medical+Pallakad/@10.7697707,76.657154,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de61dc00001:0x1179ee9df04f46eb!8m2!3d10.7697707!4d76.657154!16s%2Fg%2F11fx8_k2sr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karunya+Medical+Pallakad/@10.7697707,76.657154,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de61dc00001:0x1179ee9df04f46eb!8m2!3d10.7697707!4d76.657154!16s%2Fg%2F11fx8_k2sr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7651,10 +7715,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Karunya+Medical+Pallakad/@10.7697707,76.657154,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de61dc00001:0x1179ee9df04f46eb!8m2!3d10.7697707!4d76.657154!16s%2Fg%2F11fx8_k2sr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kenz-dental-clinic-palakkad",
@@ -7702,7 +7767,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Kenz+Dental+Clinic/@10.7619051,76.6410887,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db5a1d657e9:0xd1d89d2894c94304!8m2!3d10.7619051!4d76.6410887!16s%2Fg%2F11n06637cr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kenz+Dental+Clinic/@10.7619051,76.6410887,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db5a1d657e9:0xd1d89d2894c94304!8m2!3d10.7619051!4d76.6410887!16s%2Fg%2F11n06637cr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7771,7 +7836,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kenz+Dental+Clinic/@10.7619051,76.6410887,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db5a1d657e9:0xd1d89d2894c94304!8m2!3d10.7619051!4d76.6410887!16s%2Fg%2F11n06637cr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "keyhole-clinic-ernakulam",
@@ -7820,7 +7886,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Keyhole+Clinic/@10.0182393,76.3041558,17z/data=!3m1!4b1!4m6!3m5!1s0x3b080d184f050b9d:0x431eaf101e4a90ca!8m2!3d10.0182393!4d76.3041558!16s%2Fg%2F11f_kmtk5c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Keyhole+Clinic/@10.0182393,76.3041558,17z/data=!3m1!4b1!4m6!3m5!1s0x3b080d184f050b9d:0x431eaf101e4a90ca!8m2!3d10.0182393!4d76.3041558!16s%2Fg%2F11f_kmtk5c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7889,7 +7955,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Keyhole+Clinic/@10.0182393,76.3041558,17z/data=!3m1!4b1!4m6!3m5!1s0x3b080d184f050b9d:0x431eaf101e4a90ca!8m2!3d10.0182393!4d76.3041558!16s%2Fg%2F11f_kmtk5c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kidney-hypertension-and-diabetes-specialty-clinic-thrissur",
@@ -7940,7 +8007,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kidney+Hypertension+%26+Diabetes+specialty+clinic/@10.5310891,76.2143937,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7ee5066fc9c61:0xc7a28e75c8b70d2b!8m2!3d10.5310891!4d76.2143937!16s%2Fg%2F11f3zlmy_n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kidney+Hypertension+%26+Diabetes+specialty+clinic/@10.5310891,76.2143937,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7ee5066fc9c61:0xc7a28e75c8b70d2b!8m2!3d10.5310891!4d76.2143937!16s%2Fg%2F11f3zlmy_n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8006,10 +8073,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kidney+Hypertension+%26+Diabetes+specialty+clinic/@10.5310891,76.2143937,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7ee5066fc9c61:0xc7a28e75c8b70d2b!8m2!3d10.5310891!4d76.2143937!16s%2Fg%2F11f3zlmy_n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kims-avitis-hospital-palakkad-nenmara",
@@ -8058,7 +8126,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIMS+AVITIS+Hospital,+Palakkad/@10.5905132,76.582463,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80e9ac7012d57:0xe17c2802d6e8a2b6!8m2!3d10.5905132!4d76.582463!16s%2Fg%2F11cjj68rq2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIMS+AVITIS+Hospital,+Palakkad/@10.5905132,76.582463,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80e9ac7012d57:0xe17c2802d6e8a2b6!8m2!3d10.5905132!4d76.582463!16s%2Fg%2F11cjj68rq2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8124,10 +8192,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIMS+AVITIS+Hospital,+Palakkad/@10.5905132,76.582463,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80e9ac7012d57:0xe17c2802d6e8a2b6!8m2!3d10.5905132!4d76.582463!16s%2Fg%2F11cjj68rq2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krishna-s-dental-care-palakkad",
@@ -8175,7 +8244,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Krishna's+Dental+Care/@10.766337,76.662132,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de851c91c69:0x8b9322369f320d5c!8m2!3d10.766337!4d76.662132!16s%2Fg%2F11dz_0zrrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna's+Dental+Care/@10.766337,76.662132,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de851c91c69:0x8b9322369f320d5c!8m2!3d10.766337!4d76.662132!16s%2Fg%2F11dz_0zrrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8244,7 +8313,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishna's+Dental+Care/@10.766337,76.662132,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de851c91c69:0x8b9322369f320d5c!8m2!3d10.766337!4d76.662132!16s%2Fg%2F11dz_0zrrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krishnammal-memorial-hospital-theni-unjampatti",
@@ -8293,7 +8363,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Krishnammal+Memorial+Hospital,+Theni/@10.0230554,77.4799756,17z/data=!3m1!4b1!4m6!3m5!1s0x3b076b5018dd328d:0xa428e0c919b66475!8m2!3d10.0230554!4d77.4799756!16s%2Fg%2F11b6dq5p8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishnammal+Memorial+Hospital,+Theni/@10.0230554,77.4799756,17z/data=!3m1!4b1!4m6!3m5!1s0x3b076b5018dd328d:0xa428e0c919b66475!8m2!3d10.0230554!4d77.4799756!16s%2Fg%2F11b6dq5p8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8362,7 +8432,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishnammal+Memorial+Hospital,+Theni/@10.0230554,77.4799756,17z/data=!3m1!4b1!4m6!3m5!1s0x3b076b5018dd328d:0xa428e0c919b66475!8m2!3d10.0230554!4d77.4799756!16s%2Fg%2F11b6dq5p8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kys-al-shifa-dental-clinic-palakkad",
@@ -8408,7 +8479,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Kys+Al+shifa+dental+clinic/@10.7754299,76.6305046,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba873002429adc3:0xecf9bf8b57987b4f!8m2!3d10.7754299!4d76.6305046!16s%2Fg%2F11y996_css?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kys+Al+shifa+dental+clinic/@10.7754299,76.6305046,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba873002429adc3:0xecf9bf8b57987b4f!8m2!3d10.7754299!4d76.6305046!16s%2Fg%2F11y996_css?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8474,10 +8545,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kys+Al+shifa+dental+clinic/@10.7754299,76.6305046,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba873002429adc3:0xecf9bf8b57987b4f!8m2!3d10.7754299!4d76.6305046!16s%2Fg%2F11y996_css?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lakshmi-clinic-eye-and-dental-palakkad",
@@ -8525,7 +8597,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Lakshmi+clinic+(EYE+%26+DENTAL)/@10.7740321,76.659313,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dca7a70dfd9:0xedde29074644e1ea!8m2!3d10.7740321!4d76.659313!16s%2Fg%2F11lp_8wrx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lakshmi+clinic+(EYE+%26+DENTAL)/@10.7740321,76.659313,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dca7a70dfd9:0xedde29074644e1ea!8m2!3d10.7740321!4d76.659313!16s%2Fg%2F11lp_8wrx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8594,7 +8666,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lakshmi+clinic+(EYE+%26+DENTAL)/@10.7740321,76.659313,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dca7a70dfd9:0xedde29074644e1ea!8m2!3d10.7740321!4d76.659313!16s%2Fg%2F11lp_8wrx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lakshmi-hospital-palakkad",
@@ -8642,7 +8715,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Lakshmi+Hospital/@10.7636883,76.6621952,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddba44067bd:0xd6a72824c7b035c6!8m2!3d10.7636883!4d76.6621952!16s%2Fg%2F11l_cjxzyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lakshmi+Hospital/@10.7636883,76.6621952,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddba44067bd:0xd6a72824c7b035c6!8m2!3d10.7636883!4d76.6621952!16s%2Fg%2F11l_cjxzyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8711,7 +8784,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lakshmi+Hospital/@10.7636883,76.6621952,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddba44067bd:0xd6a72824c7b035c6!8m2!3d10.7636883!4d76.6621952!16s%2Fg%2F11l_cjxzyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lakshmi-laser-clinic-palakkad",
@@ -8759,7 +8833,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lakshmi+Laser+Clinic/@10.7638855,76.6624519,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dab773730ed:0x682b7023fcf83fd7!8m2!3d10.7638855!4d76.6624519!16s%2Fg%2F11q963l668?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lakshmi+Laser+Clinic/@10.7638855,76.6624519,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dab773730ed:0x682b7023fcf83fd7!8m2!3d10.7638855!4d76.6624519!16s%2Fg%2F11q963l668?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8825,10 +8899,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lakshmi+Laser+Clinic/@10.7638855,76.6624519,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dab773730ed:0x682b7023fcf83fd7!8m2!3d10.7638855!4d76.6624519!16s%2Fg%2F11q963l668?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "leesha-dental-care-palakkad",
@@ -8876,7 +8951,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/LEESHA+DENTAL+CARE/@10.7746889,76.6850319,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dc21653d14d:0xf1d0217d34a3e814!8m2!3d10.7746889!4d76.6850319!16s%2Fg%2F11sv5zlnvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LEESHA+DENTAL+CARE/@10.7746889,76.6850319,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dc21653d14d:0xf1d0217d34a3e814!8m2!3d10.7746889!4d76.6850319!16s%2Fg%2F11sv5zlnvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8942,10 +9017,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LEESHA+DENTAL+CARE/@10.7746889,76.6850319,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dc21653d14d:0xf1d0217d34a3e814!8m2!3d10.7746889!4d76.6850319!16s%2Fg%2F11sv5zlnvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lejeevs-dental-clinic-palakkad",
@@ -8993,7 +9069,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lejeevs+Dental+Clinic/@10.7722405,76.6888886,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86c2d21e5bcb1:0xa76cab8ccd0221f0!8m2!3d10.7722405!4d76.6888886!16s%2Fg%2F11b7kw53rr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lejeevs+Dental+Clinic/@10.7722405,76.6888886,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86c2d21e5bcb1:0xa76cab8ccd0221f0!8m2!3d10.7722405!4d76.6888886!16s%2Fg%2F11b7kw53rr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9059,10 +9135,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lejeevs+Dental+Clinic/@10.7722405,76.6888886,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86c2d21e5bcb1:0xa76cab8ccd0221f0!8m2!3d10.7722405!4d76.6888886!16s%2Fg%2F11b7kw53rr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "liver-surgery-india-ernakulam",
@@ -9112,7 +9189,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Liver+Surgery+India/@9.9183925,76.3189159,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0872851ce44e39:0x2ec40c61b0acd20!8m2!3d9.9183925!4d76.3189159!16s%2Fg%2F11pw901vq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Liver+Surgery+India/@9.9183925,76.3189159,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0872851ce44e39:0x2ec40c61b0acd20!8m2!3d9.9183925!4d76.3189159!16s%2Fg%2F11pw901vq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9178,10 +9255,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Liver+Surgery+India/@9.9183925,76.3189159,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0872851ce44e39:0x2ec40c61b0acd20!8m2!3d9.9183925!4d76.3189159!16s%2Fg%2F11pw901vq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "malabar-hospitals-palakkad",
@@ -9229,7 +9307,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Malabar+Hospitals/@10.749163,76.6606903,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d9703db195d:0x34c221479786f387!8m2!3d10.749163!4d76.6606903!16s%2Fg%2F11b6gk_xws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malabar+Hospitals/@10.749163,76.6606903,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d9703db195d:0x34c221479786f387!8m2!3d10.749163!4d76.6606903!16s%2Fg%2F11b6gk_xws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9298,7 +9376,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Malabar+Hospitals/@10.749163,76.6606903,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d9703db195d:0x34c221479786f387!8m2!3d10.749163!4d76.6606903!16s%2Fg%2F11b6gk_xws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangottil-dental-care-and-aesthetic-centre-palakkad",
@@ -9347,7 +9426,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MANGOTTIL+DENTAL+CARE+AND+AESTHETIC+CENTRE/@10.7726671,76.6791724,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfa85dd0b51:0xc89511ab43f2a958!8m2!3d10.7726671!4d76.6791724!16s%2Fg%2F11w4tv8pq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MANGOTTIL+DENTAL+CARE+AND+AESTHETIC+CENTRE/@10.7726671,76.6791724,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfa85dd0b51:0xc89511ab43f2a958!8m2!3d10.7726671!4d76.6791724!16s%2Fg%2F11w4tv8pq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9413,10 +9492,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MANGOTTIL+DENTAL+CARE+AND+AESTHETIC+CENTRE/@10.7726671,76.6791724,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfa85dd0b51:0xc89511ab43f2a958!8m2!3d10.7726671!4d76.6791724!16s%2Fg%2F11w4tv8pq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mankara-heart-hospital-mankara",
@@ -9465,7 +9545,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/MANKARA+HEART+HOSPITAL/@10.7837417,76.4902432,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87708834d2b2b:0xbc6cc6700bbe82ea!8m2!3d10.7837417!4d76.4902432!16s%2Fg%2F11ltb_6y45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MANKARA+HEART+HOSPITAL/@10.7837417,76.4902432,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87708834d2b2b:0xbc6cc6700bbe82ea!8m2!3d10.7837417!4d76.4902432!16s%2Fg%2F11ltb_6y45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9534,7 +9614,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MANKARA+HEART+HOSPITAL/@10.7837417,76.4902432,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87708834d2b2b:0xbc6cc6700bbe82ea!8m2!3d10.7837417!4d76.4902432!16s%2Fg%2F11ltb_6y45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manomithra-psychiatric-care-and-counselling-centre-palakkad",
@@ -9583,7 +9664,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Manomithra+Psychiatric+Care+%26+Counselling+Centre/@10.769025,76.653664,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5453e73cb:0x58234c7236939db3!8m2!3d10.769025!4d76.653664!16s%2Fg%2F11xbtjtwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Manomithra+Psychiatric+Care+%26+Counselling+Centre/@10.769025,76.653664,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5453e73cb:0x58234c7236939db3!8m2!3d10.769025!4d76.653664!16s%2Fg%2F11xbtjtwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9652,7 +9733,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Manomithra+Psychiatric+Care+%26+Counselling+Centre/@10.769025,76.653664,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5453e73cb:0x58234c7236939db3!8m2!3d10.769025!4d76.653664!16s%2Fg%2F11xbtjtwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "meditrina-hospital-palakkad",
@@ -9701,7 +9783,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Meditrina+Hospital/@10.7700352,76.6374408,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8720658b95c1f:0xb5dd59c5a8902e90!8m2!3d10.7700352!4d76.6374408!16s%2Fg%2F1thzs6yd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meditrina+Hospital/@10.7700352,76.6374408,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8720658b95c1f:0xb5dd59c5a8902e90!8m2!3d10.7700352!4d76.6374408!16s%2Fg%2F1thzs6yd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9770,7 +9852,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meditrina+Hospital/@10.7700352,76.6374408,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8720658b95c1f:0xb5dd59c5a8902e90!8m2!3d10.7700352!4d76.6374408!16s%2Fg%2F1thzs6yd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "meditrina-hospitals-pvt-ltd-kollam",
@@ -9819,7 +9902,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Meditrina+Hospitals+Pvt.+Ltd./@8.8921905,76.6324065,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05fc551f34daad:0x21bc9a36d8222e6d!8m2!3d8.8921905!4d76.6324065!16s%2Fg%2F11b69z6n3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meditrina+Hospitals+Pvt.+Ltd./@8.8921905,76.6324065,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05fc551f34daad:0x21bc9a36d8222e6d!8m2!3d8.8921905!4d76.6324065!16s%2Fg%2F11b69z6n3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9888,7 +9971,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meditrina+Hospitals+Pvt.+Ltd./@8.8921905,76.6324065,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05fc551f34daad:0x21bc9a36d8222e6d!8m2!3d8.8921905!4d76.6324065!16s%2Fg%2F11b69z6n3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mercy-hospital-alathur",
@@ -9937,7 +10021,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mercy+Hospital/@10.6445775,76.5495546,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80dbb49c2a627:0xf58820d637874210!8m2!3d10.6445775!4d76.5495546!16s%2Fg%2F11qqppw963?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mercy+Hospital/@10.6445775,76.5495546,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80dbb49c2a627:0xf58820d637874210!8m2!3d10.6445775!4d76.5495546!16s%2Fg%2F11qqppw963?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10006,7 +10090,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mercy+Hospital/@10.6445775,76.5495546,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80dbb49c2a627:0xf58820d637874210!8m2!3d10.6445775!4d76.5495546!16s%2Fg%2F11qqppw963?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "metropolis-labs-diagnostic-centre-and-blood-test-sudharma-metropolis-in-gateway-complex-palakkad",
@@ -10056,7 +10141,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Diagnostic+Centre+%26+Blood+Test+-+Sudharma+Metropolis+in+Gateway+Complex/@10.7696392,76.6549372,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86def7e7290af:0x7c6c1e350f447c1f!8m2!3d10.7696392!4d76.6549372!16s%2Fg%2F11dylzv2yw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metropolis+Labs+%7C+Diagnostic+Centre+%26+Blood+Test+-+Sudharma+Metropolis+in+Gateway+Complex/@10.7696392,76.6549372,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86def7e7290af:0x7c6c1e350f447c1f!8m2!3d10.7696392!4d76.6549372!16s%2Fg%2F11dylzv2yw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10125,7 +10210,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Diagnostic+Centre+%26+Blood+Test+-+Sudharma+Metropolis+in+Gateway+Complex/@10.7696392,76.6549372,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86def7e7290af:0x7c6c1e350f447c1f!8m2!3d10.7696392!4d76.6549372!16s%2Fg%2F11dylzv2yw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "metropolis-labs-diagnostic-centre-and-blood-test-sudharma-metropolis-in-olavakkode-palakkad",
@@ -10175,7 +10261,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Diagnostic+Centre+%26+Blood+Test+-+Sudharma+Metropolis+in+Olavakkode/@10.797704,76.639807,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871658b583085:0xb13b5735477e3478!8m2!3d10.797704!4d76.639807!16s%2Fg%2F11ygg5f977?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metropolis+Labs+%7C+Diagnostic+Centre+%26+Blood+Test+-+Sudharma+Metropolis+in+Olavakkode/@10.797704,76.639807,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871658b583085:0xb13b5735477e3478!8m2!3d10.797704!4d76.639807!16s%2Fg%2F11ygg5f977?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10244,7 +10330,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Diagnostic+Centre+%26+Blood+Test+-+Sudharma+Metropolis+in+Olavakkode/@10.797704,76.639807,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871658b583085:0xb13b5735477e3478!8m2!3d10.797704!4d76.639807!16s%2Fg%2F11ygg5f977?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mg-clinic-palakkad",
@@ -10293,7 +10380,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/MG+clinic/@10.7573583,76.6668748,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d29f9d784bb:0x4c4715c7645ef40f!8m2!3d10.7573583!4d76.6668748!16s%2Fg%2F11n0blrzsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MG+clinic/@10.7573583,76.6668748,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d29f9d784bb:0x4c4715c7645ef40f!8m2!3d10.7573583!4d76.6668748!16s%2Fg%2F11n0blrzsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10359,10 +10446,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MG+clinic/@10.7573583,76.6668748,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d29f9d784bb:0x4c4715c7645ef40f!8m2!3d10.7573583!4d76.6668748!16s%2Fg%2F11n0blrzsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "modern-semalk-hospital-ottapalam",
@@ -10411,7 +10499,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Modern+Semalk+Hospital/@10.773082,76.368752,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d956b1b74793:0x594cc9398c8853e3!8m2!3d10.773082!4d76.368752!16s%2Fg%2F11c59yxh5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Modern+Semalk+Hospital/@10.773082,76.368752,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d956b1b74793:0x594cc9398c8853e3!8m2!3d10.773082!4d76.368752!16s%2Fg%2F11c59yxh5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10480,7 +10568,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Modern+Semalk+Hospital/@10.773082,76.368752,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d956b1b74793:0x594cc9398c8853e3!8m2!3d10.773082!4d76.368752!16s%2Fg%2F11c59yxh5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mother-care-hospital-kumaramputhur",
@@ -10529,7 +10618,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mother+Care+Hospital/@10.9834237,76.4232254,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d5a5dff9cd0f:0x98fe82bfc3b79bfa!8m2!3d10.9834237!4d76.4232254!16s%2Fg%2F1tlk9tpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mother+Care+Hospital/@10.9834237,76.4232254,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d5a5dff9cd0f:0x98fe82bfc3b79bfa!8m2!3d10.9834237!4d76.4232254!16s%2Fg%2F1tlk9tpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10598,7 +10687,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mother+Care+Hospital/@10.9834237,76.4232254,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d5a5dff9cd0f:0x98fe82bfc3b79bfa!8m2!3d10.9834237!4d76.4232254!16s%2Fg%2F1tlk9tpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "my-dentist-dental-clinic-palakkad",
@@ -10646,7 +10736,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/MY+DENTIST+DENTAL+CLINIC/@10.8107505,76.6361992,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871d7502dda83:0x9b19eca79e85289c!8m2!3d10.8107505!4d76.6361992!16s%2Fg%2F11bwqfzz1c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MY+DENTIST+DENTAL+CLINIC/@10.8107505,76.6361992,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871d7502dda83:0x9b19eca79e85289c!8m2!3d10.8107505!4d76.6361992!16s%2Fg%2F11bwqfzz1c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10715,7 +10805,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MY+DENTIST+DENTAL+CLINIC/@10.8107505,76.6361992,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba871d7502dda83:0x9b19eca79e85289c!8m2!3d10.8107505!4d76.6361992!16s%2Fg%2F11bwqfzz1c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "narayana-speciality-dental-care-palakkad",
@@ -10765,7 +10856,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Narayana+Speciality+Dental+Care/@10.776973,76.6577018,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba812b4167d509b:0x81f06756f4673db0!8m2!3d10.776973!4d76.6577018!16s%2Fg%2F1pyqprf1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narayana+Speciality+Dental+Care/@10.776973,76.6577018,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba812b4167d509b:0x81f06756f4673db0!8m2!3d10.776973!4d76.6577018!16s%2Fg%2F1pyqprf1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10834,7 +10925,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Narayana+Speciality+Dental+Care/@10.776973,76.6577018,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba812b4167d509b:0x81f06756f4673db0!8m2!3d10.776973!4d76.6577018!16s%2Fg%2F1pyqprf1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "navaneetham-ottapalam",
@@ -10882,7 +10974,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Navaneetham/@10.7717547,76.3756846,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d94df660444f:0x9baef67f26de4f6a!8m2!3d10.7717547!4d76.3756846!16s%2Fg%2F1thxjhkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navaneetham/@10.7717547,76.3756846,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d94df660444f:0x9baef67f26de4f6a!8m2!3d10.7717547!4d76.3756846!16s%2Fg%2F1thxjhkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10951,7 +11043,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Navaneetham/@10.7717547,76.3756846,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7d94df660444f:0x9baef67f26de4f6a!8m2!3d10.7717547!4d76.3756846!16s%2Fg%2F1thxjhkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neethi-lab-mudapallur-mudappallur",
@@ -11001,7 +11094,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Neethi+Lab+Mudapallur/@10.590854,76.517485,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80924028e06bd:0x1681f90d151f5487!8m2!3d10.590854!4d76.517485!16s%2Fg%2F11pz7pg8wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neethi+Lab+Mudapallur/@10.590854,76.517485,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80924028e06bd:0x1681f90d151f5487!8m2!3d10.590854!4d76.517485!16s%2Fg%2F11pz7pg8wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11070,7 +11163,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neethi+Lab+Mudapallur/@10.590854,76.517485,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba80924028e06bd:0x1681f90d151f5487!8m2!3d10.590854!4d76.517485!16s%2Fg%2F11pz7pg8wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neo-smile-dental-care-palakkad",
@@ -11118,7 +11212,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Neo+smile+Dental+Care/@10.8032016,76.6229149,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87158046a2ccd:0x635f67f7b2fe238a!8m2!3d10.8032016!4d76.6229149!16s%2Fg%2F11ngg7w7wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neo+smile+Dental+Care/@10.8032016,76.6229149,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87158046a2ccd:0x635f67f7b2fe238a!8m2!3d10.8032016!4d76.6229149!16s%2Fg%2F11ngg7w7wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11184,10 +11278,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neo+smile+Dental+Care/@10.8032016,76.6229149,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87158046a2ccd:0x635f67f7b2fe238a!8m2!3d10.8032016!4d76.6229149!16s%2Fg%2F11ngg7w7wv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-royal-ortho-clinic-and-digital-xray-and-laboratory-kuzhalmannam",
@@ -11235,7 +11330,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/New+Royal+Ortho+Clinic+and+Digital+Xray+and+Laboratory/@10.7186001,76.6012389,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8735a86e390e1:0x9ef0434541ea3cad!8m2!3d10.7186001!4d76.6012389!16s%2Fg%2F11n07dhny4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Royal+Ortho+Clinic+and+Digital+Xray+and+Laboratory/@10.7186001,76.6012389,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8735a86e390e1:0x9ef0434541ea3cad!8m2!3d10.7186001!4d76.6012389!16s%2Fg%2F11n07dhny4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11301,10 +11396,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Royal+Ortho+Clinic+and+Digital+Xray+and+Laboratory/@10.7186001,76.6012389,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8735a86e390e1:0x9ef0434541ea3cad!8m2!3d10.7186001!4d76.6012389!16s%2Fg%2F11n07dhny4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "niims-ayushkara-ayurveda-hospital-palakkad",
@@ -11352,7 +11448,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/NIIMS+AYUSHKARA+AYURVEDA+HOSPITAL/@10.7597649,76.6674234,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dc06e6ba663:0x73bfd7e558a7460c!8m2!3d10.7597649!4d76.6674234!16s%2Fg%2F11b_1z493z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIIMS+AYUSHKARA+AYURVEDA+HOSPITAL/@10.7597649,76.6674234,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dc06e6ba663:0x73bfd7e558a7460c!8m2!3d10.7597649!4d76.6674234!16s%2Fg%2F11b_1z493z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11421,7 +11517,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NIIMS+AYUSHKARA+AYURVEDA+HOSPITAL/@10.7597649,76.6674234,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dc06e6ba663:0x73bfd7e558a7460c!8m2!3d10.7597649!4d76.6674234!16s%2Fg%2F11b_1z493z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nims-hospital-neyyattinkara",
@@ -11470,7 +11567,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NIMS+Hospital/@8.4122195,77.0659184,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af08ada78f17:0x266275e9e01868be!8m2!3d8.4122195!4d77.0659184!16s%2Fm%2F0wbj92k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIMS+Hospital/@8.4122195,77.0659184,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af08ada78f17:0x266275e9e01868be!8m2!3d8.4122195!4d77.0659184!16s%2Fm%2F0wbj92k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11539,7 +11636,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NIMS+Hospital/@8.4122195,77.0659184,17z/data=!3m1!4b1!4m6!3m5!1s0x3b05af08ada78f17:0x266275e9e01868be!8m2!3d8.4122195!4d77.0659184!16s%2Fm%2F0wbj92k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nourish-hair-and-skin-clinic-palakkad",
@@ -11588,7 +11686,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nourish+Hair+%26+Skin+Clinic/@10.7750099,76.665065,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db9a90a719f:0xc8c9688ca1bba213!8m2!3d10.7750099!4d76.665065!16s%2Fg%2F11whfrxr04?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nourish+Hair+%26+Skin+Clinic/@10.7750099,76.665065,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db9a90a719f:0xc8c9688ca1bba213!8m2!3d10.7750099!4d76.665065!16s%2Fg%2F11whfrxr04?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11657,7 +11755,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nourish+Hair+%26+Skin+Clinic/@10.7750099,76.665065,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db9a90a719f:0xc8c9688ca1bba213!8m2!3d10.7750099!4d76.665065!16s%2Fg%2F11whfrxr04?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nova-ivf-fertility-center-best-ivf-center-in-palakkad-palakkad",
@@ -11707,7 +11806,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Center+In+Palakkad/@10.7698159,76.649538,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d5d4abcf845:0xd5b50b7be70cadb2!8m2!3d10.7698159!4d76.649538!16s%2Fg%2F11lghljwfk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Center+In+Palakkad/@10.7698159,76.649538,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d5d4abcf845:0xd5b50b7be70cadb2!8m2!3d10.7698159!4d76.649538!16s%2Fg%2F11lghljwfk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11773,10 +11872,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Center+In+Palakkad/@10.7698159,76.649538,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d5d4abcf845:0xd5b50b7be70cadb2!8m2!3d10.7698159!4d76.649538!16s%2Fg%2F11lghljwfk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nurani-palakkad",
@@ -11822,7 +11922,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Nurani,+Palakkad,+Kerala/@10.762614,76.6404795,15z/data=!3m1!4b1!4m6!3m5!1s0x3ba86df79bccea5f:0x6e95cc75a8b33ce!8m2!3d10.7646871!4d76.642125!16s%2Fm%2F02q7s_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nurani,+Palakkad,+Kerala/@10.762614,76.6404795,15z/data=!3m1!4b1!4m6!3m5!1s0x3ba86df79bccea5f:0x6e95cc75a8b33ce!8m2!3d10.7646871!4d76.642125!16s%2Fm%2F02q7s_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11888,10 +11988,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nurani,+Palakkad,+Kerala/@10.762614,76.6404795,15z/data=!3m1!4b1!4m6!3m5!1s0x3ba86df79bccea5f:0x6e95cc75a8b33ce!8m2!3d10.7646871!4d76.642125!16s%2Fm%2F02q7s_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "olavakkode-family-dental-clinic-palakkad",
@@ -11939,7 +12040,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Olavakkode+Family+Dental+Clinic/@10.7970989,76.6386032,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f80e844de65:0xc17d016fece04cac!8m2!3d10.7970989!4d76.6386032!16s%2Fg%2F11h1rps6kb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Olavakkode+Family+Dental+Clinic/@10.7970989,76.6386032,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f80e844de65:0xc17d016fece04cac!8m2!3d10.7970989!4d76.6386032!16s%2Fg%2F11h1rps6kb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12008,7 +12109,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Olavakkode+Family+Dental+Clinic/@10.7970989,76.6386032,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f80e844de65:0xc17d016fece04cac!8m2!3d10.7970989!4d76.6386032!16s%2Fg%2F11h1rps6kb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oracare-dental-and-cosmetic-studio-palakkad",
@@ -12057,7 +12159,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Oracare+Dental+And+Cosmetic+Studio/@10.7730277,76.6816479,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d4d9479e971:0x166cb4a46de0751c!8m2!3d10.7730277!4d76.6816479!16s%2Fg%2F11tfn2d65x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oracare+Dental+And+Cosmetic+Studio/@10.7730277,76.6816479,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d4d9479e971:0x166cb4a46de0751c!8m2!3d10.7730277!4d76.6816479!16s%2Fg%2F11tfn2d65x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12123,10 +12225,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oracare+Dental+And+Cosmetic+Studio/@10.7730277,76.6816479,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d4d9479e971:0x166cb4a46de0751c!8m2!3d10.7730277!4d76.6816479!16s%2Fg%2F11tfn2d65x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oral-health-care-palakkad",
@@ -12174,7 +12277,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oral+Health+Care/@10.7914782,76.6463484,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e1c9839296d:0x84b9991490b6760c!8m2!3d10.7914782!4d76.6463484!16s%2Fg%2F11c55slxyr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Health+Care/@10.7914782,76.6463484,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e1c9839296d:0x84b9991490b6760c!8m2!3d10.7914782!4d76.6463484!16s%2Fg%2F11c55slxyr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12240,10 +12343,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oral+Health+Care/@10.7914782,76.6463484,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e1c9839296d:0x84b9991490b6760c!8m2!3d10.7914782!4d76.6463484!16s%2Fg%2F11c55slxyr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "paalana-hospital-kannadi-ii",
@@ -12292,7 +12396,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Paalana+Hospital/@10.7385383,76.6512955,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86fa6f82c7b4d:0x8ae84c9d9870085e!8m2!3d10.7385383!4d76.6512955!16s%2Fg%2F11fhqr37y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paalana+Hospital/@10.7385383,76.6512955,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86fa6f82c7b4d:0x8ae84c9d9870085e!8m2!3d10.7385383!4d76.6512955!16s%2Fg%2F11fhqr37y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12361,7 +12465,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Paalana+Hospital/@10.7385383,76.6512955,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86fa6f82c7b4d:0x8ae84c9d9870085e!8m2!3d10.7385383!4d76.6512955!16s%2Fg%2F11fhqr37y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "palakkad-diabetic-centre-palakkad",
@@ -12410,7 +12515,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Palakkad+Diabetic+Centre/@10.7655001,76.6601609,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de91f3db93b:0x6b460415b40552f8!8m2!3d10.7655001!4d76.6601609!16s%2Fg%2F124yfy8lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Palakkad+Diabetic+Centre/@10.7655001,76.6601609,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de91f3db93b:0x6b460415b40552f8!8m2!3d10.7655001!4d76.6601609!16s%2Fg%2F124yfy8lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12479,7 +12584,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Palakkad+Diabetic+Centre/@10.7655001,76.6601609,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de91f3db93b:0x6b460415b40552f8!8m2!3d10.7655001!4d76.6601609!16s%2Fg%2F124yfy8lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "palakkad-institute-of-medical-sciences-palakkad",
@@ -12528,7 +12634,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Palakkad+Institute+of+Medical+Sciences/@10.8276363,76.8328497,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba843fc01753485:0x9328ad0ce72ce00e!8m2!3d10.8276363!4d76.8328497!16s%2Fg%2F11h4tnnpck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Palakkad+Institute+of+Medical+Sciences/@10.8276363,76.8328497,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba843fc01753485:0x9328ad0ce72ce00e!8m2!3d10.8276363!4d76.8328497!16s%2Fg%2F11h4tnnpck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12597,7 +12703,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Palakkad+Institute+of+Medical+Sciences/@10.8276363,76.8328497,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba843fc01753485:0x9328ad0ce72ce00e!8m2!3d10.8276363!4d76.8328497!16s%2Fg%2F11h4tnnpck?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "palghat-poly-clinic-hospital-palakkad-palakkad",
@@ -12645,7 +12752,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Palghat+Poly+Clinic+Hospital+Palakkad/@10.7715618,76.6709846,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddb70cf5251:0x39346da11956c778!8m2!3d10.7715618!4d76.6709846!16s%2Fg%2F11hbbk220c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Palghat+Poly+Clinic+Hospital+Palakkad/@10.7715618,76.6709846,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddb70cf5251:0x39346da11956c778!8m2!3d10.7715618!4d76.6709846!16s%2Fg%2F11hbbk220c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12714,7 +12821,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Palghat+Poly+Clinic+Hospital+Palakkad/@10.7715618,76.6709846,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddb70cf5251:0x39346da11956c778!8m2!3d10.7715618!4d76.6709846!16s%2Fg%2F11hbbk220c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "palliative-district-centre-palakkad-palakkad",
@@ -12762,7 +12870,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Palliative+District+Centre+Palakkad/@10.7684244,76.6580067,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db47437edc3:0x63437e055bc2c034!8m2!3d10.7684244!4d76.6580067!16s%2Fg%2F11gj71xlqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Palliative+District+Centre+Palakkad/@10.7684244,76.6580067,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db47437edc3:0x63437e055bc2c034!8m2!3d10.7684244!4d76.6580067!16s%2Fg%2F11gj71xlqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12828,10 +12936,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Palliative+District+Centre+Palakkad/@10.7684244,76.6580067,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db47437edc3:0x63437e055bc2c034!8m2!3d10.7684244!4d76.6580067!16s%2Fg%2F11gj71xlqc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pk-das-institute-of-medical-sciences-hospital-and-medical-college-ottapalam",
@@ -12880,7 +12989,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/PK+DAS+Institute+of+Medical+Sciences+-+Hospital+and+Medical+College/@10.7828475,76.3269766,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7db99bd4804c1:0x8c723734a47875b4!8m2!3d10.7828475!4d76.3269766!16s%2Fg%2F1trc3d2z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PK+DAS+Institute+of+Medical+Sciences+-+Hospital+and+Medical+College/@10.7828475,76.3269766,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7db99bd4804c1:0x8c723734a47875b4!8m2!3d10.7828475!4d76.3269766!16s%2Fg%2F1trc3d2z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12949,7 +13058,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PK+DAS+Institute+of+Medical+Sciences+-+Hospital+and+Medical+College/@10.7828475,76.3269766,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7db99bd4804c1:0x8c723734a47875b4!8m2!3d10.7828475!4d76.3269766!16s%2Fg%2F1trc3d2z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prathyush-dental-clinic-palakkad",
@@ -12997,7 +13107,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Prathyush+Dental+Clinic/@10.7765983,76.6461319,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfe64617481:0x509bb033596d0230!8m2!3d10.7765983!4d76.6461319!16s%2Fg%2F11fyzfjjps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prathyush+Dental+Clinic/@10.7765983,76.6461319,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfe64617481:0x509bb033596d0230!8m2!3d10.7765983!4d76.6461319!16s%2Fg%2F11fyzfjjps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13066,7 +13176,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prathyush+Dental+Clinic/@10.7765983,76.6461319,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfe64617481:0x509bb033596d0230!8m2!3d10.7765983!4d76.6461319!16s%2Fg%2F11fyzfjjps?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prism-dental-lounge-palakkad",
@@ -13115,7 +13226,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Prism+Dental+Lounge/@10.761536,76.6555204,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86daba844b9fd:0x1f0be95918f44ead!8m2!3d10.761536!4d76.6555204!16s%2Fg%2F11rgxtrcgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prism+Dental+Lounge/@10.761536,76.6555204,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86daba844b9fd:0x1f0be95918f44ead!8m2!3d10.761536!4d76.6555204!16s%2Fg%2F11rgxtrcgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13181,10 +13292,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prism+Dental+Lounge/@10.761536,76.6555204,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86daba844b9fd:0x1f0be95918f44ead!8m2!3d10.761536!4d76.6555204!16s%2Fg%2F11rgxtrcgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "quality-clinic-palakkad",
@@ -13233,7 +13345,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Quality+Clinic/@10.7871865,76.651324,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e0598d353f1:0x8ab38c1e4ead98f1!8m2!3d10.7871865!4d76.651324!16s%2Fg%2F12vsl97_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Quality+Clinic/@10.7871865,76.651324,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e0598d353f1:0x8ab38c1e4ead98f1!8m2!3d10.7871865!4d76.651324!16s%2Fg%2F12vsl97_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13302,7 +13414,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Quality+Clinic/@10.7871865,76.651324,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e0598d353f1:0x8ab38c1e4ead98f1!8m2!3d10.7871865!4d76.651324!16s%2Fg%2F12vsl97_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajiv-gandhi-co-operative-hospital-palakkad",
@@ -13351,7 +13464,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rajiv+Gandhi+Co-operative+Hospital/@10.7783199,76.6052809,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8718794ad2ce7:0x5541209f01e48d44!8m2!3d10.7783199!4d76.6052809!16s%2Fg%2F1261bm8s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajiv+Gandhi+Co-operative+Hospital/@10.7783199,76.6052809,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8718794ad2ce7:0x5541209f01e48d44!8m2!3d10.7783199!4d76.6052809!16s%2Fg%2F1261bm8s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13420,7 +13533,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajiv+Gandhi+Co-operative+Hospital/@10.7783199,76.6052809,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8718794ad2ce7:0x5541209f01e48d44!8m2!3d10.7783199!4d76.6052809!16s%2Fg%2F1261bm8s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "reni-kidney-care-pollachi",
@@ -13470,7 +13584,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RENI+KIDNEY+CARE/@10.6657229,77.0090367,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba839e532c0a431:0x57775acaf7d46c02!8m2!3d10.6657229!4d77.0090367!16s%2Fg%2F11fcs_3fmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RENI+KIDNEY+CARE/@10.6657229,77.0090367,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba839e532c0a431:0x57775acaf7d46c02!8m2!3d10.6657229!4d77.0090367!16s%2Fg%2F11fcs_3fmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13539,7 +13653,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RENI+KIDNEY+CARE/@10.6657229,77.0090367,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba839e532c0a431:0x57775acaf7d46c02!8m2!3d10.6657229!4d77.0090367!16s%2Fg%2F11fcs_3fmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rheumatology-clinic-reni-kidney-care-pollachi",
@@ -13589,7 +13704,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RHEUMATOLOGY+CLINIC+@RENI+KIDNEY+CARE/@10.6659633,77.0087732,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8393700ce9dc1:0x5c9001631ecb6561!8m2!3d10.6659633!4d77.0087732!16s%2Fg%2F11vdb4pv2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RHEUMATOLOGY+CLINIC+@RENI+KIDNEY+CARE/@10.6659633,77.0087732,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8393700ce9dc1:0x5c9001631ecb6561!8m2!3d10.6659633!4d77.0087732!16s%2Fg%2F11vdb4pv2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13655,10 +13770,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RHEUMATOLOGY+CLINIC+@RENI+KIDNEY+CARE/@10.6659633,77.0087732,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8393700ce9dc1:0x5c9001631ecb6561!8m2!3d10.6659633!4d77.0087732!16s%2Fg%2F11vdb4pv2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-s-dental-clinic-and-implant-centre-palakkad",
@@ -13706,7 +13822,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/S+S+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@10.7716817,76.6713362,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfa6337d189:0x1f8dbc9dbd184ab3!8m2!3d10.7716817!4d76.6713362!16s%2Fg%2F11k5pflkt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+S+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@10.7716817,76.6713362,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfa6337d189:0x1f8dbc9dbd184ab3!8m2!3d10.7716817!4d76.6713362!16s%2Fg%2F11k5pflkt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13772,10 +13888,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+S+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@10.7716817,76.6713362,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86dfa6337d189:0x1f8dbc9dbd184ab3!8m2!3d10.7716817!4d76.6713362!16s%2Fg%2F11k5pflkt1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "safa-dental-clinic-palakkad",
@@ -13824,7 +13941,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Safa+Dental+Clinic/@10.7693936,76.643368,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86df84aba6f9d:0xfc012c0e29882cf4!8m2!3d10.7693936!4d76.643368!16s%2Fg%2F11f03w1br7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Safa+Dental+Clinic/@10.7693936,76.643368,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86df84aba6f9d:0xfc012c0e29882cf4!8m2!3d10.7693936!4d76.643368!16s%2Fg%2F11f03w1br7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13893,7 +14010,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Safa+Dental+Clinic/@10.7693936,76.643368,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86df84aba6f9d:0xfc012c0e29882cf4!8m2!3d10.7693936!4d76.643368!16s%2Fg%2F11f03w1br7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-hospital-olavakkode-palakkad",
@@ -13942,7 +14060,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SAI+HOSPITAL+OLAVAKKODE/@10.7965688,76.6436644,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e1e6601f685:0x5bace84a102cf5df!8m2!3d10.7965688!4d76.6436644!16s%2Fg%2F1thfcwgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAI+HOSPITAL+OLAVAKKODE/@10.7965688,76.6436644,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e1e6601f685:0x5bace84a102cf5df!8m2!3d10.7965688!4d76.6436644!16s%2Fg%2F1thfcwgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14011,7 +14129,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAI+HOSPITAL+OLAVAKKODE/@10.7965688,76.6436644,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e1e6601f685:0x5bace84a102cf5df!8m2!3d10.7965688!4d76.6436644!16s%2Fg%2F1thfcwgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjeevani-chikitsalayam-vaniyamkulam-i",
@@ -14059,7 +14178,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeevani+Chikitsalayam/@10.7754739,76.3053437,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7dbb040add7f3:0xabe140ff8f2c4844!8m2!3d10.7754739!4d76.3053437!16s%2Fg%2F11gj0tvjtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Chikitsalayam/@10.7754739,76.3053437,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7dbb040add7f3:0xabe140ff8f2c4844!8m2!3d10.7754739!4d76.3053437!16s%2Fg%2F11gj0tvjtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14125,10 +14244,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeevani+Chikitsalayam/@10.7754739,76.3053437,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7dbb040add7f3:0xabe140ff8f2c4844!8m2!3d10.7754739!4d76.3053437!16s%2Fg%2F11gj0tvjtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saphala-dental-clinic-palakkad",
@@ -14176,7 +14296,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Saphala+Dental+Clinic/@10.7925511,76.6751043,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f0d2b55cda9:0xc9cf005bf9b1e26f!8m2!3d10.7925511!4d76.6751043!16s%2Fg%2F11h6k2z7p3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saphala+Dental+Clinic/@10.7925511,76.6751043,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f0d2b55cda9:0xc9cf005bf9b1e26f!8m2!3d10.7925511!4d76.6751043!16s%2Fg%2F11h6k2z7p3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14242,10 +14362,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saphala+Dental+Clinic/@10.7925511,76.6751043,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f0d2b55cda9:0xc9cf005bf9b1e26f!8m2!3d10.7925511!4d76.6751043!16s%2Fg%2F11h6k2z7p3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sarada-nursing-home-palakkad",
@@ -14293,7 +14414,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Sarada+Nursing+Home/@10.7722608,76.6561899,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de45dce212b:0x8bce551ecea9a1f6!8m2!3d10.7722608!4d76.6561899!16s%2Fg%2F1vfn527t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarada+Nursing+Home/@10.7722608,76.6561899,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de45dce212b:0x8bce551ecea9a1f6!8m2!3d10.7722608!4d76.6561899!16s%2Fg%2F1vfn527t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14362,7 +14483,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sarada+Nursing+Home/@10.7722608,76.6561899,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de45dce212b:0x8bce551ecea9a1f6!8m2!3d10.7722608!4d76.6561899!16s%2Fg%2F1vfn527t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "seventh-day-adventist-hospital-ottapalam",
@@ -14411,7 +14533,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Seventh+Day+Adventist+Hospital/@10.7770942,76.3581209,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7dbfb45b257b9:0xb04615be18b13f34!8m2!3d10.7770942!4d76.3581209!16s%2Fm%2F0h7mg3d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seventh+Day+Adventist+Hospital/@10.7770942,76.3581209,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7dbfb45b257b9:0xb04615be18b13f34!8m2!3d10.7770942!4d76.3581209!16s%2Fm%2F0h7mg3d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14480,7 +14602,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seventh+Day+Adventist+Hospital/@10.7770942,76.3581209,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7dbfb45b257b9:0xb04615be18b13f34!8m2!3d10.7770942!4d76.3581209!16s%2Fm%2F0h7mg3d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivada-ayurveda-hospital-palakkad",
@@ -14529,7 +14652,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shivada+Ayurveda+Hospital/@10.752015,76.6873866,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d9ab02df18f:0xbfa7516dd0cf7e88!8m2!3d10.752015!4d76.6873866!16s%2Fg%2F11rckq23fy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivada+Ayurveda+Hospital/@10.752015,76.6873866,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d9ab02df18f:0xbfa7516dd0cf7e88!8m2!3d10.752015!4d76.6873866!16s%2Fg%2F11rckq23fy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14598,7 +14721,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivada+Ayurveda+Hospital/@10.752015,76.6873866,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d9ab02df18f:0xbfa7516dd0cf7e88!8m2!3d10.752015!4d76.6873866!16s%2Fg%2F11rckq23fy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sia-fertility-and-maternity-centre-palakkad",
@@ -14647,7 +14771,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SIA+Fertility+%26+Maternity+centre/@10.7730072,76.6795824,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87333de23af01:0x72e222f95bf77db6!8m2!3d10.7730072!4d76.6795824!16s%2Fg%2F11j492dl7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SIA+Fertility+%26+Maternity+centre/@10.7730072,76.6795824,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87333de23af01:0x72e222f95bf77db6!8m2!3d10.7730072!4d76.6795824!16s%2Fg%2F11j492dl7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14713,10 +14837,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SIA+Fertility+%26+Maternity+centre/@10.7730072,76.6795824,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87333de23af01:0x72e222f95bf77db6!8m2!3d10.7730072!4d76.6795824!16s%2Fg%2F11j492dl7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sm-scan-cosmetology-and-diagnostic-center-kulasekharapuram",
@@ -14766,7 +14891,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SM+SCAN+%E2%80%93+Cosmetology+%26+Diagnostic+Center/@9.077878,76.5309572,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0603c6c603403d:0xb8687fe3be8888e8!8m2!3d9.077878!4d76.5309572!16s%2Fg%2F11yqg57gb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SM+SCAN+%E2%80%93+Cosmetology+%26+Diagnostic+Center/@9.077878,76.5309572,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0603c6c603403d:0xb8687fe3be8888e8!8m2!3d9.077878!4d76.5309572!16s%2Fg%2F11yqg57gb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14832,10 +14957,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SM+SCAN+%E2%80%93+Cosmetology+%26+Diagnostic+Center/@9.077878,76.5309572,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0603c6c603403d:0xb8687fe3be8888e8!8m2!3d9.077878!4d76.5309572!16s%2Fg%2F11yqg57gb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-care-dental-clinic-palakkad",
@@ -14883,7 +15009,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Smile+care+dental+clinic/@10.7709304,76.6710132,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddb6fae3d91:0x9225d3500ea739a3!8m2!3d10.7709304!4d76.6710132!16s%2Fg%2F11d_bkk5f8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+care+dental+clinic/@10.7709304,76.6710132,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddb6fae3d91:0x9225d3500ea739a3!8m2!3d10.7709304!4d76.6710132!16s%2Fg%2F11d_bkk5f8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14952,7 +15078,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+care+dental+clinic/@10.7709304,76.6710132,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86ddb6fae3d91:0x9225d3500ea739a3!8m2!3d10.7709304!4d76.6710132!16s%2Fg%2F11d_bkk5f8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-care-speciality-dental-clinic-palakkad",
@@ -15001,7 +15128,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Care+Speciality+Dental+Clinic/@10.7734068,76.6638876,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d51a8a1848f:0x478726af1aef7403!8m2!3d10.7734068!4d76.6638876!16s%2Fg%2F11g0q0pggs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Care+Speciality+Dental+Clinic/@10.7734068,76.6638876,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d51a8a1848f:0x478726af1aef7403!8m2!3d10.7734068!4d76.6638876!16s%2Fg%2F11g0q0pggs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15070,7 +15197,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Care+Speciality+Dental+Clinic/@10.7734068,76.6638876,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d51a8a1848f:0x478726af1aef7403!8m2!3d10.7734068!4d76.6638876!16s%2Fg%2F11g0q0pggs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "speciality-dental-clinic-palakkad",
@@ -15119,7 +15247,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Speciality+dental+clinic/@10.743772,76.693958,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86da80e22f649:0x6584dd8a58a0239b!8m2!3d10.743772!4d76.693958!16s%2Fg%2F11n0yl2y5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Speciality+dental+clinic/@10.743772,76.693958,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86da80e22f649:0x6584dd8a58a0239b!8m2!3d10.743772!4d76.693958!16s%2Fg%2F11n0yl2y5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15185,10 +15313,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Speciality+dental+clinic/@10.743772,76.693958,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86da80e22f649:0x6584dd8a58a0239b!8m2!3d10.743772!4d76.693958!16s%2Fg%2F11n0yl2y5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spt-hospitals-24x7-kidney-cardiac-and-bone-care-coimbatore",
@@ -15240,7 +15369,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SPT+Hospitals+24x7+KIDNEY+,CARDIAC+%26+BONE+CARE/@11.01434,76.9614552,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba858ffd29632d9:0x46453ffafc2d79a9!8m2!3d11.01434!4d76.9614552!16s%2Fg%2F1tgplgkq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SPT+Hospitals+24x7+KIDNEY+,CARDIAC+%26+BONE+CARE/@11.01434,76.9614552,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba858ffd29632d9:0x46453ffafc2d79a9!8m2!3d11.01434!4d76.9614552!16s%2Fg%2F1tgplgkq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15309,7 +15438,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SPT+Hospitals+24x7+KIDNEY+,CARDIAC+%26+BONE+CARE/@11.01434,76.9614552,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba858ffd29632d9:0x46453ffafc2d79a9!8m2!3d11.01434!4d76.9614552!16s%2Fg%2F1tgplgkq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sradha-dental-clinic-palakkad-palakkad",
@@ -15358,7 +15488,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sradha+-+Dental+clinic+Palakkad/@10.7732932,76.663151,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d8cc0a750d5:0x87d0a0f4c4d79453!8m2!3d10.7732932!4d76.663151!16s%2Fg%2F11fnh6l2j8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sradha+-+Dental+clinic+Palakkad/@10.7732932,76.663151,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d8cc0a750d5:0x87d0a0f4c4d79453!8m2!3d10.7732932!4d76.663151!16s%2Fg%2F11fnh6l2j8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15427,7 +15557,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sradha+-+Dental+clinic+Palakkad/@10.7732932,76.663151,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d8cc0a750d5:0x87d0a0f4c4d79453!8m2!3d10.7732932!4d76.663151!16s%2Fg%2F11fnh6l2j8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-ayyappa-medical-centre-palakkad",
@@ -15476,7 +15607,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Ayyappa+Medical+Centre/@10.7689915,76.6219508,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87303a2588851:0x4b25a8efc44266e!8m2!3d10.7689915!4d76.6219508!16s%2Fg%2F11r_cmqpmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Ayyappa+Medical+Centre/@10.7689915,76.6219508,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87303a2588851:0x4b25a8efc44266e!8m2!3d10.7689915!4d76.6219508!16s%2Fg%2F11r_cmqpmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15542,10 +15673,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Ayyappa+Medical+Centre/@10.7689915,76.6219508,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87303a2588851:0x4b25a8efc44266e!8m2!3d10.7689915!4d76.6219508!16s%2Fg%2F11r_cmqpmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-css-medical-center-palakkad",
@@ -15594,7 +15726,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Sri+CSS+Medical+Center/@10.7936057,76.6481833,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87386e4850073:0x243626611f9d27b1!8m2!3d10.7936057!4d76.6481833!16s%2Fg%2F11qphhw8pj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+CSS+Medical+Center/@10.7936057,76.6481833,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87386e4850073:0x243626611f9d27b1!8m2!3d10.7936057!4d76.6481833!16s%2Fg%2F11qphhw8pj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15663,7 +15795,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+CSS+Medical+Center/@10.7936057,76.6481833,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba87386e4850073:0x243626611f9d27b1!8m2!3d10.7936057!4d76.6481833!16s%2Fg%2F11qphhw8pj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "susrutha-ivf-and-gynaecology-clinic-palakkad",
@@ -15712,7 +15845,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/SUSRUTHA+IVF+%26+GYNAECOLOGY+CLINIC/@10.7646887,76.6510678,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86daececc19d1:0x779146877301375!8m2!3d10.7646887!4d76.6510678!16s%2Fg%2F11hdz45_6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUSRUTHA+IVF+%26+GYNAECOLOGY+CLINIC/@10.7646887,76.6510678,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86daececc19d1:0x779146877301375!8m2!3d10.7646887!4d76.6510678!16s%2Fg%2F11hdz45_6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15781,7 +15914,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SUSRUTHA+IVF+%26+GYNAECOLOGY+CLINIC/@10.7646887,76.6510678,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86daececc19d1:0x779146877301375!8m2!3d10.7646887!4d76.6510678!16s%2Fg%2F11hdz45_6l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thangam-hospital-of-pmrc-palakkad",
@@ -15830,7 +15964,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Thangam+Hospital+of+PMRC/@10.7548412,76.6385079,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba872751d129f7f:0x989d78e67339c851!8m2!3d10.7548412!4d76.6385079!16s%2Fg%2F1tl1lx09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thangam+Hospital+of+PMRC/@10.7548412,76.6385079,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba872751d129f7f:0x989d78e67339c851!8m2!3d10.7548412!4d76.6385079!16s%2Fg%2F1tl1lx09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15899,7 +16033,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thangam+Hospital+of+PMRC/@10.7548412,76.6385079,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba872751d129f7f:0x989d78e67339c851!8m2!3d10.7548412!4d76.6385079!16s%2Fg%2F1tl1lx09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-palakkad-district-cooperative-hospital-and-research-centre-ltd-p-no-878-palakkad",
@@ -15948,7 +16083,7 @@
       "Google rating 2.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Palakkad+District+Cooperative+Hospital+And+Research+Centre+Ltd+P+No.+878/@10.7696112,76.6573419,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5bfee0dd1:0xf66d3f56bcd769ba!8m2!3d10.7696112!4d76.6573419!16s%2Fg%2F1tgdgf3r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Palakkad+District+Cooperative+Hospital+And+Research+Centre+Ltd+P+No.+878/@10.7696112,76.6573419,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5bfee0dd1:0xf66d3f56bcd769ba!8m2!3d10.7696112!4d76.6573419!16s%2Fg%2F1tgdgf3r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16017,7 +16152,8 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Palakkad+District+Cooperative+Hospital+And+Research+Centre+Ltd+P+No.+878/@10.7696112,76.6573419,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86de5bfee0dd1:0xf66d3f56bcd769ba!8m2!3d10.7696112!4d76.6573419!16s%2Fg%2F1tgdgf3r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thomas-clinic-kozhinjampara",
@@ -16065,7 +16201,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Thomas+Clinic/@10.7392054,76.8348368,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba841bb0d7e8d9f:0x5c6897558e06b36b!8m2!3d10.7392054!4d76.8348368!16s%2Fg%2F11fkq_cb1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thomas+Clinic/@10.7392054,76.8348368,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba841bb0d7e8d9f:0x5c6897558e06b36b!8m2!3d10.7392054!4d76.8348368!16s%2Fg%2F11fkq_cb1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16131,10 +16267,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thomas+Clinic/@10.7392054,76.8348368,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba841bb0d7e8d9f:0x5c6897558e06b36b!8m2!3d10.7392054!4d76.8348368!16s%2Fg%2F11fkq_cb1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tmj-kerala-head-and-neck-pain-care-palakkad",
@@ -16182,7 +16319,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Tmj+Kerala+,+Head+and+Neck+Pain+Care/@10.7679201,76.6627974,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d3a9313b71f:0x507076b26b190fb2!8m2!3d10.7679201!4d76.6627974!16s%2Fg%2F11h7rzjzy3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tmj+Kerala+,+Head+and+Neck+Pain+Care/@10.7679201,76.6627974,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d3a9313b71f:0x507076b26b190fb2!8m2!3d10.7679201!4d76.6627974!16s%2Fg%2F11h7rzjzy3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16248,10 +16385,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tmj+Kerala+,+Head+and+Neck+Pain+Care/@10.7679201,76.6627974,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86d3a9313b71f:0x507076b26b190fb2!8m2!3d10.7679201!4d76.6627974!16s%2Fg%2F11h7rzjzy3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "total-smile-care-palakkad",
@@ -16299,7 +16437,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Total+Smile+Care/@10.796195,76.6435687,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e1e653cecbb:0x2f0040e8d571e39f!8m2!3d10.796195!4d76.6435687!16s%2Fg%2F11c1r3xcnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Total+Smile+Care/@10.796195,76.6435687,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e1e653cecbb:0x2f0040e8d571e39f!8m2!3d10.796195!4d76.6435687!16s%2Fg%2F11c1r3xcnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16365,10 +16503,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Total+Smile+Care/@10.796195,76.6435687,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86e1e653cecbb:0x2f0040e8d571e39f!8m2!3d10.796195!4d76.6435687!16s%2Fg%2F11c1r3xcnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tru-dent-dental-clinic-palakkad",
@@ -16416,7 +16555,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Tru-dent+Dental+Clinic/@10.7681146,76.6495037,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86df0825be097:0x122e747c34147861!8m2!3d10.7681146!4d76.6495037!16s%2Fg%2F11bc7s1rs4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tru-dent+Dental+Clinic/@10.7681146,76.6495037,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86df0825be097:0x122e747c34147861!8m2!3d10.7681146!4d76.6495037!16s%2Fg%2F11bc7s1rs4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16485,7 +16624,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tru-dent+Dental+Clinic/@10.7681146,76.6495037,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86df0825be097:0x122e747c34147861!8m2!3d10.7681146!4d76.6495037!16s%2Fg%2F11bc7s1rs4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "true-smile-dental-care-palakkad",
@@ -16534,7 +16674,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/True+Smile+Dental+Care/data=!4m7!3m6!1s0x3ba86d9608ff3f99:0xfb483e8558e8250a!8m2!3d10.7531316!4d76.6500278!16s%2Fg%2F11scg2rfjj!19sChIJmT__CJZtqDsRCiXoWIU-SPs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/True+Smile+Dental+Care/data=!4m7!3m6!1s0x3ba86d9608ff3f99:0xfb483e8558e8250a!8m2!3d10.7531316!4d76.6500278!16s%2Fg%2F11scg2rfjj!19sChIJmT__CJZtqDsRCiXoWIU-SPs?authuser=0&hl=en&rclk=1"
@@ -16600,10 +16740,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/True+Smile+Dental+Care/data=!4m7!3m6!1s0x3ba86d9608ff3f99:0xfb483e8558e8250a!8m2!3d10.7531316!4d76.6500278!16s%2Fg%2F11scg2rfjj!19sChIJmT__CJZtqDsRCiXoWIU-SPs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "v-care-dental-clinic-palakkad",
@@ -16651,7 +16792,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/V-CARE+DENTAL+CLINIC/@10.7976501,76.6398465,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8717f9d256c19:0x97aacfad2e063fb5!8m2!3d10.7976501!4d76.6398465!16s%2Fg%2F11xtphgc0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V-CARE+DENTAL+CLINIC/@10.7976501,76.6398465,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8717f9d256c19:0x97aacfad2e063fb5!8m2!3d10.7976501!4d76.6398465!16s%2Fg%2F11xtphgc0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16717,10 +16858,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/V-CARE+DENTAL+CLINIC/@10.7976501,76.6398465,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8717f9d256c19:0x97aacfad2e063fb5!8m2!3d10.7976501!4d76.6398465!16s%2Fg%2F11xtphgc0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "valluvanad-hospital-ottapalam",
@@ -16769,7 +16911,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Valluvanad+Hospital/@10.7743672,76.3605632,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7dbf11327661d:0xca3623d5852231ca!8m2!3d10.7743672!4d76.3605632!16s%2Fg%2F11h75kvvr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Valluvanad+Hospital/@10.7743672,76.3605632,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7dbf11327661d:0xca3623d5852231ca!8m2!3d10.7743672!4d76.3605632!16s%2Fg%2F11h75kvvr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16838,7 +16980,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Valluvanad+Hospital/@10.7743672,76.3605632,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba7dbf11327661d:0xca3623d5852231ca!8m2!3d10.7743672!4d76.3605632!16s%2Fg%2F11h75kvvr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vcare-hair-and-skin-clinic-palakkad-skin-treatment-hair-treatment-hair-transplant-laser-hair-removal-skin-whitening-palakkad",
@@ -16887,7 +17030,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Palakkad+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/@10.769877,76.6495323,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db72ad177c1:0x450ea5e013b205de!8m2!3d10.769877!4d76.6495323!16s%2Fg%2F11xl97m7lx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Palakkad+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/@10.769877,76.6495323,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db72ad177c1:0x450ea5e013b205de!8m2!3d10.769877!4d76.6495323!16s%2Fg%2F11xl97m7lx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -16956,7 +17099,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Palakkad+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/@10.769877,76.6495323,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86db72ad177c1:0x450ea5e013b205de!8m2!3d10.769877!4d76.6495323!16s%2Fg%2F11xl97m7lx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vps-lakeshore-hospital-ernakulam",
@@ -17005,7 +17149,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VPS+Lakeshore+Hospital/@9.918978,76.3189243,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0873b2953388a7:0xce77188e8376bcfa!8m2!3d9.918978!4d76.3189243!16zL20vMGQzY3lo?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VPS+Lakeshore+Hospital/@9.918978,76.3189243,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0873b2953388a7:0xce77188e8376bcfa!8m2!3d9.918978!4d76.3189243!16zL20vMGQzY3lo?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -17074,7 +17218,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VPS+Lakeshore+Hospital/@9.918978,76.3189243,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0873b2953388a7:0xce77188e8376bcfa!8m2!3d9.918978!4d76.3189243!16zL20vMGQzY3lo?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vydhya-medical-and-palliative-care-centre-palakkad",
@@ -17124,7 +17269,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VYDHYA+MEDICAL+AND+PALLIATIVE+CARE+CENTRE/@10.7916482,76.6465252,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86fb458a501ab:0x3aaf4cc13aa5d16e!8m2!3d10.7916482!4d76.6465252!16s%2Fg%2F11w497n06b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VYDHYA+MEDICAL+AND+PALLIATIVE+CARE+CENTRE/@10.7916482,76.6465252,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86fb458a501ab:0x3aaf4cc13aa5d16e!8m2!3d10.7916482!4d76.6465252!16s%2Fg%2F11w497n06b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -17193,7 +17338,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VYDHYA+MEDICAL+AND+PALLIATIVE+CARE+CENTRE/@10.7916482,76.6465252,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86fb458a501ab:0x3aaf4cc13aa5d16e!8m2!3d10.7916482!4d76.6465252!16s%2Fg%2F11w497n06b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "white-gold-dental-clinic-and-implant-centre-palakkad-palakkad",
@@ -17241,7 +17387,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/White+Gold+Dental+Clinic+%26+Implant+Centre+Palakkad/@10.7823175,76.644547,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f508e35c5cd:0xcc3d039d843f62bc!8m2!3d10.7823175!4d76.644547!16s%2Fg%2F11rwxrtm54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/White+Gold+Dental+Clinic+%26+Implant+Centre+Palakkad/@10.7823175,76.644547,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f508e35c5cd:0xcc3d039d843f62bc!8m2!3d10.7823175!4d76.644547!16s%2Fg%2F11rwxrtm54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -17307,9 +17453,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/White+Gold+Dental+Clinic+%26+Implant+Centre+Palakkad/@10.7823175,76.644547,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba86f508e35c5cd:0xcc3d039d843f62bc!8m2!3d10.7823175!4d76.644547!16s%2Fg%2F11rwxrtm54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

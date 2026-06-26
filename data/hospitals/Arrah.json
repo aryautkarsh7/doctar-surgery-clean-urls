@@ -46,7 +46,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/24%2F7+Emergency+%26+Ambulance+Services+in+Patna+-+Asian+Hospital/data=!4m7!3m6!1s0x39ed57b29d6dc677:0x18169efa72bd4bb7!8m2!3d25.6358011!4d85.1040365!16s%2Fg%2F11yx5xqmdq!19sChIJd8ZtnbJX7TkRt0u9cvqeFhg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/24%2F7+Emergency+%26+Ambulance+Services+in+Patna+-+Asian+Hospital/data=!4m7!3m6!1s0x39ed57b29d6dc677:0x18169efa72bd4bb7!8m2!3d25.6358011!4d85.1040365!16s%2Fg%2F11yx5xqmdq!19sChIJd8ZtnbJX7TkRt0u9cvqeFhg?authuser=0&hl=en&rclk=1"
@@ -112,10 +112,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/24%2F7+Emergency+%26+Ambulance+Services+in+Patna+-+Asian+Hospital/data=!4m7!3m6!1s0x39ed57b29d6dc677:0x18169efa72bd4bb7!8m2!3d25.6358011!4d85.1040365!16s%2Fg%2F11yx5xqmdq!19sChIJd8ZtnbJX7TkRt0u9cvqeFhg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aarogyaam-gastro-surgery-and-cancer-clinic-best-cancer-clinic-in-north-kolkata-kolkata",
@@ -166,7 +167,7 @@
       "Google rating 1.0",
       "3+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Aarogyaam+Gastro,+Surgery+%26+Cancer+Clinic+-+Best+Cancer+Clinic+in+North+Kolkata/data=!4m7!3m6!1s0x3a027779b91a47a1:0xf26d88e42a93de25!8m2!3d22.5714208!4d88.3894755!16s%2Fg%2F11np1vrmpp!19sChIJoUcauXl3AjoRJd6TKuSIbfI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogyaam+Gastro,+Surgery+%26+Cancer+Clinic+-+Best+Cancer+Clinic+in+North+Kolkata/data=!4m7!3m6!1s0x3a027779b91a47a1:0xf26d88e42a93de25!8m2!3d22.5714208!4d88.3894755!16s%2Fg%2F11np1vrmpp!19sChIJoUcauXl3AjoRJd6TKuSIbfI?authuser=0&hl=en&rclk=1"
@@ -232,10 +233,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aarogyaam+Gastro,+Surgery+%26+Cancer+Clinic+-+Best+Cancer+Clinic+in+North+Kolkata/data=!4m7!3m6!1s0x3a027779b91a47a1:0xf26d88e42a93de25!8m2!3d22.5714208!4d88.3894755!16s%2Fg%2F11np1vrmpp!19sChIJoUcauXl3AjoRJd6TKuSIbfI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aayush-college-hospital-and-research-centre-arrah",
@@ -285,7 +287,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aayush+College+Hospital+and+Research+Centre/data=!4m7!3m6!1s0x39ed5785af9530d9:0xe905d0027b942a85!8m2!3d25.5594944!4d84.6695345!16s%2Fg%2F11h1g6ljsp!19sChIJ2TCVr4VX7TkRhSqUewLQBek?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aayush+College+Hospital+and+Research+Centre/data=!4m7!3m6!1s0x39ed5785af9530d9:0xe905d0027b942a85!8m2!3d25.5594944!4d84.6695345!16s%2Fg%2F11h1g6ljsp!19sChIJ2TCVr4VX7TkRhSqUewLQBek?authuser=0&hl=en&rclk=1"
@@ -354,7 +356,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aayush+College+Hospital+and+Research+Centre/data=!4m7!3m6!1s0x39ed5785af9530d9:0xe905d0027b942a85!8m2!3d25.5594944!4d84.6695345!16s%2Fg%2F11h1g6ljsp!19sChIJ2TCVr4VX7TkRhSqUewLQBek?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aayushmanam-hridayam-heart-clinic-arrah",
@@ -403,7 +406,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aayushmanam+hridayam+heart+clinic/data=!4m7!3m6!1s0x398d5f88310f199b:0x5ffc410916453d75!8m2!3d25.5488513!4d84.6471078!16s%2Fg%2F11m67v1j1k!19sChIJmxkPMYhfjTkRdT1FFglB_F8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aayushmanam+hridayam+heart+clinic/data=!4m7!3m6!1s0x398d5f88310f199b:0x5ffc410916453d75!8m2!3d25.5488513!4d84.6471078!16s%2Fg%2F11m67v1j1k!19sChIJmxkPMYhfjTkRdT1FFglB_F8?authuser=0&hl=en&rclk=1"
@@ -469,10 +472,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aayushmanam+hridayam+heart+clinic/data=!4m7!3m6!1s0x398d5f88310f199b:0x5ffc410916453d75!8m2!3d25.5488513!4d84.6471078!16s%2Fg%2F11m67v1j1k!19sChIJmxkPMYhfjTkRdT1FFglB_F8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aditya-hospital-arrah",
@@ -520,7 +524,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/ADITYA+HOSPITAL/data=!4m7!3m6!1s0x398d5f39e9f006c9:0x5457d0f86dce5324!8m2!3d25.562946!4d84.6548747!16s%2Fg%2F11gt__3qw2!19sChIJyQbw6TlfjTkRJFPObfjQV1Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ADITYA+HOSPITAL/data=!4m7!3m6!1s0x398d5f39e9f006c9:0x5457d0f86dce5324!8m2!3d25.562946!4d84.6548747!16s%2Fg%2F11gt__3qw2!19sChIJyQbw6TlfjTkRJFPObfjQV1Q?authuser=0&hl=en&rclk=1"
@@ -589,7 +593,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ADITYA+HOSPITAL/data=!4m7!3m6!1s0x398d5f39e9f006c9:0x5457d0f86dce5324!8m2!3d25.562946!4d84.6548747!16s%2Fg%2F11gt__3qw2!19sChIJyQbw6TlfjTkRJFPObfjQV1Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "advanced-dental-clinic-arrah",
@@ -637,7 +642,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Advanced+Dental+Clinic/data=!4m7!3m6!1s0x398d5fbdf0424597:0xde89ea6e09f34c0d!8m2!3d25.5449755!4d84.6525734!16s%2Fg%2F11tfg2l4k3!19sChIJl0VC8L1fjTkRDUzzCW7qid4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advanced+Dental+Clinic/data=!4m7!3m6!1s0x398d5fbdf0424597:0xde89ea6e09f34c0d!8m2!3d25.5449755!4d84.6525734!16s%2Fg%2F11tfg2l4k3!19sChIJl0VC8L1fjTkRDUzzCW7qid4?authuser=0&hl=en&rclk=1"
@@ -706,7 +711,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advanced+Dental+Clinic/data=!4m7!3m6!1s0x398d5fbdf0424597:0xde89ea6e09f34c0d!8m2!3d25.5449755!4d84.6525734!16s%2Fg%2F11tfg2l4k3!19sChIJl0VC8L1fjTkRDUzzCW7qid4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ahmad-dental-care-arrah",
@@ -755,7 +761,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/AHMAD+DENTAL+CARE/data=!4m7!3m6!1s0x398d5f5f15d1e86f:0xe40564b94fc60c7c!8m2!3d25.5644288!4d84.6725731!16s%2Fg%2F11vj3h1xkb!19sChIJb-jRFV9fjTkRfAzGT7lkBeQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AHMAD+DENTAL+CARE/data=!4m7!3m6!1s0x398d5f5f15d1e86f:0xe40564b94fc60c7c!8m2!3d25.5644288!4d84.6725731!16s%2Fg%2F11vj3h1xkb!19sChIJb-jRFV9fjTkRfAzGT7lkBeQ?authuser=0&hl=en&rclk=1"
@@ -824,7 +830,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AHMAD+DENTAL+CARE/data=!4m7!3m6!1s0x398d5f5f15d1e86f:0xe40564b94fc60c7c!8m2!3d25.5644288!4d84.6725731!16s%2Fg%2F11vj3h1xkb!19sChIJb-jRFV9fjTkRfAzGT7lkBeQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "amrit-raj-hospital-pvt-ltd-arrah",
@@ -870,7 +877,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Amrit+Raj+Hospital+Pvt+Ltd/data=!4m7!3m6!1s0x398d5f672dba5769:0x5054d2e85307a25b!8m2!3d25.5597724!4d84.666791!16s%2Fg%2F11f5wpwpcg!19sChIJaVe6LWdfjTkRW6IHU-jSVFA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrit+Raj+Hospital+Pvt+Ltd/data=!4m7!3m6!1s0x398d5f672dba5769:0x5054d2e85307a25b!8m2!3d25.5597724!4d84.666791!16s%2Fg%2F11f5wpwpcg!19sChIJaVe6LWdfjTkRW6IHU-jSVFA?authuser=0&hl=en&rclk=1"
@@ -936,10 +943,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrit+Raj+Hospital+Pvt+Ltd/data=!4m7!3m6!1s0x398d5f672dba5769:0x5054d2e85307a25b!8m2!3d25.5597724!4d84.666791!16s%2Fg%2F11f5wpwpcg!19sChIJaVe6LWdfjTkRW6IHU-jSVFA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "anand-hospital-and-research-centre-arrah",
@@ -987,7 +995,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Anand+Hospital+%26+Research+Centre/data=!4m7!3m6!1s0x398d5f3b478130bf:0xa007c495f4d71750!8m2!3d25.5590747!4d84.6597967!16s%2Fg%2F11hz__r1cv!19sChIJvzCBRztfjTkRUBfX9JXEB6A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Hospital+%26+Research+Centre/data=!4m7!3m6!1s0x398d5f3b478130bf:0xa007c495f4d71750!8m2!3d25.5590747!4d84.6597967!16s%2Fg%2F11hz__r1cv!19sChIJvzCBRztfjTkRUBfX9JXEB6A?authuser=0&hl=en&rclk=1"
@@ -1056,7 +1064,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anand+Hospital+%26+Research+Centre/data=!4m7!3m6!1s0x398d5f3b478130bf:0xa007c495f4d71750!8m2!3d25.5590747!4d84.6597967!16s%2Fg%2F11hz__r1cv!19sChIJvzCBRztfjTkRUBfX9JXEB6A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ananya-haddi-hospital-arrah",
@@ -1102,7 +1111,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Ananya+Haddi+Hospital/@25.5564885,84.6505282,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5fed929ae3af:0xc35eb1e3cc32d4e4!8m2!3d25.5564885!4d84.6505282!16s%2Fg%2F11s0jj06ph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ananya+Haddi+Hospital/@25.5564885,84.6505282,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5fed929ae3af:0xc35eb1e3cc32d4e4!8m2!3d25.5564885!4d84.6505282!16s%2Fg%2F11s0jj06ph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -1168,10 +1177,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ananya+Haddi+Hospital/@25.5564885,84.6505282,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5fed929ae3af:0xc35eb1e3cc32d4e4!8m2!3d25.5564885!4d84.6505282!16s%2Fg%2F11s0jj06ph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anjora-homeopathy-clinic-arrah",
@@ -1219,7 +1229,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Anjora+Homeopathy+Clinic/data=!4m7!3m6!1s0x398d5f7fb261c3f7:0x268a1d35e6f2e5e0!8m2!3d25.5289383!4d84.663029!16s%2Fg%2F11v117fx83!19sChIJ98Nhsn9fjTkR4OXy5jUdiiY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anjora+Homeopathy+Clinic/data=!4m7!3m6!1s0x398d5f7fb261c3f7:0x268a1d35e6f2e5e0!8m2!3d25.5289383!4d84.663029!16s%2Fg%2F11v117fx83!19sChIJ98Nhsn9fjTkR4OXy5jUdiiY?authuser=0&hl=en&rclk=1"
@@ -1288,7 +1298,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anjora+Homeopathy+Clinic/data=!4m7!3m6!1s0x398d5f7fb261c3f7:0x268a1d35e6f2e5e0!8m2!3d25.5289383!4d84.663029!16s%2Fg%2F11v117fx83!19sChIJ98Nhsn9fjTkR4OXy5jUdiiY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aparna-medical-hall-and-beauty-care-clinic-arrah",
@@ -1336,7 +1347,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Aparna+Medical+Hall+and+Beauty+Care+Clinic/data=!4m7!3m6!1s0x398d5f5dde048425:0xf9097bfbfe0c7f2f!8m2!3d25.5598276!4d84.6701002!16s%2Fg%2F11f5vzw1p0!19sChIJJYQE3l1fjTkRL38M_vt7Cfk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aparna+Medical+Hall+and+Beauty+Care+Clinic/data=!4m7!3m6!1s0x398d5f5dde048425:0xf9097bfbfe0c7f2f!8m2!3d25.5598276!4d84.6701002!16s%2Fg%2F11f5vzw1p0!19sChIJJYQE3l1fjTkRL38M_vt7Cfk?authuser=0&hl=en&rclk=1"
@@ -1405,7 +1416,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aparna+Medical+Hall+and+Beauty+Care+Clinic/data=!4m7!3m6!1s0x398d5f5dde048425:0xf9097bfbfe0c7f2f!8m2!3d25.5598276!4d84.6701002!16s%2Fg%2F11f5vzw1p0!19sChIJJYQE3l1fjTkRL38M_vt7Cfk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apollo-dialysis-clinic-arrah-arrah",
@@ -1456,7 +1468,7 @@
       "13+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Dialysis+Clinic,+Arrah/data=!4m7!3m6!1s0x398d5fe4db77f0a5:0x65c0c0990881f18a!8m2!3d25.554136!4d84.66648!16s%2Fg%2F11tcwzs_7p!19sChIJpfB32-RfjTkRivGBCJnAwGU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dialysis+Clinic,+Arrah/data=!4m7!3m6!1s0x398d5fe4db77f0a5:0x65c0c0990881f18a!8m2!3d25.554136!4d84.66648!16s%2Fg%2F11tcwzs_7p!19sChIJpfB32-RfjTkRivGBCJnAwGU?authuser=0&hl=en&rclk=1"
@@ -1522,10 +1534,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 13,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Dialysis+Clinic,+Arrah/data=!4m7!3m6!1s0x398d5fe4db77f0a5:0x65c0c0990881f18a!8m2!3d25.554136!4d84.66648!16s%2Fg%2F11tcwzs_7p!19sChIJpfB32-RfjTkRivGBCJnAwGU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apollo-ortho-care-ara-arrah",
@@ -1574,7 +1587,7 @@
     "metrics": [
       "Google rating 2.6"
     ],
-    "image": "https://www.google.com/maps/place/APOLLO+ORTHO+CARE+ARA/data=!4m7!3m6!1s0x398d5f2094d3b117:0xd4cf81e88fb4d0da!8m2!3d25.5598654!4d84.6666198!16s%2Fg%2F11hz9b54rz!19sChIJF7HTlCBfjTkR2tC0j-iBz9Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/APOLLO+ORTHO+CARE+ARA/data=!4m7!3m6!1s0x398d5f2094d3b117:0xd4cf81e88fb4d0da!8m2!3d25.5598654!4d84.6666198!16s%2Fg%2F11hz9b54rz!19sChIJF7HTlCBfjTkR2tC0j-iBz9Q?authuser=0&hl=en&rclk=1"
@@ -1643,7 +1656,8 @@
     "rating": 2.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/APOLLO+ORTHO+CARE+ARA/data=!4m7!3m6!1s0x398d5f2094d3b117:0xd4cf81e88fb4d0da!8m2!3d25.5598654!4d84.6666198!16s%2Fg%2F11hz9b54rz!19sChIJF7HTlCBfjTkR2tC0j-iBz9Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apollo-proton-therapy-in-patna-patna",
@@ -1692,7 +1706,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Patna/data=!4m7!3m6!1s0x39ed59d34f10e3ed:0x195239205a542373!8m2!3d25.593011!4d85.124544!16s%2Fg%2F11xs79pr1j!19sChIJ7eMQT9NZ7TkRcyNUWiA5Uhk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Patna/data=!4m7!3m6!1s0x39ed59d34f10e3ed:0x195239205a542373!8m2!3d25.593011!4d85.124544!16s%2Fg%2F11xs79pr1j!19sChIJ7eMQT9NZ7TkRcyNUWiA5Uhk?authuser=0&hl=en&rclk=1"
@@ -1758,10 +1772,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Patna/data=!4m7!3m6!1s0x39ed59d34f10e3ed:0x195239205a542373!8m2!3d25.593011!4d85.124544!16s%2Fg%2F11xs79pr1j!19sChIJ7eMQT9NZ7TkRcyNUWiA5Uhk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ara-city-hospital-arrah",
@@ -1809,7 +1824,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ara+City+Hospital/data=!4m7!3m6!1s0x3992a1690cdd3099:0x9e0362de00fdd2a3!8m2!3d25.5712695!4d84.6733283!16s%2Fg%2F11trtblvnj!19sChIJmTDdDGmhkjkRo9L9AN5iA54?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ara+City+Hospital/data=!4m7!3m6!1s0x3992a1690cdd3099:0x9e0362de00fdd2a3!8m2!3d25.5712695!4d84.6733283!16s%2Fg%2F11trtblvnj!19sChIJmTDdDGmhkjkRo9L9AN5iA54?authuser=0&hl=en&rclk=1"
@@ -1875,10 +1890,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ara+City+Hospital/data=!4m7!3m6!1s0x3992a1690cdd3099:0x9e0362de00fdd2a3!8m2!3d25.5712695!4d84.6733283!16s%2Fg%2F11trtblvnj!19sChIJmTDdDGmhkjkRo9L9AN5iA54?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "arrah-emergency-hospital-arrah",
@@ -1926,7 +1942,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/ARRAH+EMERGENCY+HOSPITAL/data=!4m7!3m6!1s0x398d5feccdbb9ab3:0xae795a6d13eec486!8m2!3d25.5562496!4d84.6599283!16s%2Fg%2F11fq92kzf5!19sChIJs5q7zexfjTkRhsTuE21aea4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ARRAH+EMERGENCY+HOSPITAL/data=!4m7!3m6!1s0x398d5feccdbb9ab3:0xae795a6d13eec486!8m2!3d25.5562496!4d84.6599283!16s%2Fg%2F11fq92kzf5!19sChIJs5q7zexfjTkRhsTuE21aea4?authuser=0&hl=en&rclk=1"
@@ -1995,7 +2011,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ARRAH+EMERGENCY+HOSPITAL/data=!4m7!3m6!1s0x398d5feccdbb9ab3:0xae795a6d13eec486!8m2!3d25.5562496!4d84.6599283!16s%2Fg%2F11fq92kzf5!19sChIJs5q7zexfjTkRhsTuE21aea4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "asian-center-for-anesthesia-top-pain-management-and-palliative-medicine-centre-in-patna-patna",
@@ -2043,7 +2060,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Asian+Center+for+Anesthesia+-+Top+Pain+Management+%26+Palliative+Medicine+Centre+in+Patna/data=!4m7!3m6!1s0x39ed5759ea4ec959:0x1ab8754f4788fd45!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11mzcgn5c0!19sChIJWclO6llX7TkRRf2IR091uBo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Center+for+Anesthesia+-+Top+Pain+Management+%26+Palliative+Medicine+Centre+in+Patna/data=!4m7!3m6!1s0x39ed5759ea4ec959:0x1ab8754f4788fd45!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11mzcgn5c0!19sChIJWclO6llX7TkRRf2IR091uBo?authuser=0&hl=en&rclk=1"
@@ -2109,10 +2126,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asian+Center+for+Anesthesia+-+Top+Pain+Management+%26+Palliative+Medicine+Centre+in+Patna/data=!4m7!3m6!1s0x39ed5759ea4ec959:0x1ab8754f4788fd45!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11mzcgn5c0!19sChIJWclO6llX7TkRRf2IR091uBo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "asian-centre-for-advanced-imaging-top-radiology-and-diagnostic-centre-in-patna-patna",
@@ -2161,7 +2179,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Asian+Centre+for+Advanced+Imaging+-+Top+Radiology+%26+Diagnostic+Centre+in+Patna/data=!4m7!3m6!1s0x39ed57b512ce4b21:0xfa4add69af865707!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11yx658zf4!19sChIJIUvOErVX7TkRB1eGr2ndSvo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Centre+for+Advanced+Imaging+-+Top+Radiology+%26+Diagnostic+Centre+in+Patna/data=!4m7!3m6!1s0x39ed57b512ce4b21:0xfa4add69af865707!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11yx658zf4!19sChIJIUvOErVX7TkRB1eGr2ndSvo?authuser=0&hl=en&rclk=1"
@@ -2227,10 +2245,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asian+Centre+for+Advanced+Imaging+-+Top+Radiology+%26+Diagnostic+Centre+in+Patna/data=!4m7!3m6!1s0x39ed57b512ce4b21:0xfa4add69af865707!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11yx658zf4!19sChIJIUvOErVX7TkRB1eGr2ndSvo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "asian-centre-for-critical-care-top-icu-and-life-support-services-in-patna-patna",
@@ -2278,7 +2297,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Asian+Centre+for+Critical+Care+-+Top+ICU+%26+Life+Support+Services+in+Patna/data=!4m7!3m6!1s0x39ed57773ccb36e7:0xdf2e30f7f0ae3db5!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11yw0s1n1x!19sChIJ5zbLPHdX7TkRtT2u8PcwLt8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Centre+for+Critical+Care+-+Top+ICU+%26+Life+Support+Services+in+Patna/data=!4m7!3m6!1s0x39ed57773ccb36e7:0xdf2e30f7f0ae3db5!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11yw0s1n1x!19sChIJ5zbLPHdX7TkRtT2u8PcwLt8?authuser=0&hl=en&rclk=1"
@@ -2344,10 +2363,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asian+Centre+for+Critical+Care+-+Top+ICU+%26+Life+Support+Services+in+Patna/data=!4m7!3m6!1s0x39ed57773ccb36e7:0xdf2e30f7f0ae3db5!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11yw0s1n1x!19sChIJ5zbLPHdX7TkRtT2u8PcwLt8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "asian-centre-for-mother-and-child-top-pediatric-maternity-and-pregnancy-hospital-in-patna-patna",
@@ -2397,7 +2417,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Asian+Centre+for+Mother+%26+Child+-+Top+Pediatric,+Maternity+%26+Pregnancy+Hospital+in+Patna/data=!4m7!3m6!1s0x39ed5749f5072b71:0x5f9beb2f649b3a74!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11yv_pv4xt!19sChIJcSsH9UlX7TkRdDqbZC_rm18?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Centre+for+Mother+%26+Child+-+Top+Pediatric,+Maternity+%26+Pregnancy+Hospital+in+Patna/data=!4m7!3m6!1s0x39ed5749f5072b71:0x5f9beb2f649b3a74!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11yv_pv4xt!19sChIJcSsH9UlX7TkRdDqbZC_rm18?authuser=0&hl=en&rclk=1"
@@ -2463,10 +2483,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asian+Centre+for+Mother+%26+Child+-+Top+Pediatric,+Maternity+%26+Pregnancy+Hospital+in+Patna/data=!4m7!3m6!1s0x39ed5749f5072b71:0x5f9beb2f649b3a74!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11yv_pv4xt!19sChIJcSsH9UlX7TkRdDqbZC_rm18?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "asian-centre-for-renal-disease-and-urology-top-kidney-and-urology-specialists-in-patna-patna",
@@ -2516,7 +2537,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Asian+Centre+for+Renal+Disease+%26+Urology+-+Top+Kidney+%26+Urology+Specialists+in+Patna/data=!4m7!3m6!1s0x39ed57275b80a9c3:0x658b1167c5db85ed!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11yx5q9pr3!19sChIJw6mAWydX7TkR7YXbxWcRi2U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Centre+for+Renal+Disease+%26+Urology+-+Top+Kidney+%26+Urology+Specialists+in+Patna/data=!4m7!3m6!1s0x39ed57275b80a9c3:0x658b1167c5db85ed!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11yx5q9pr3!19sChIJw6mAWydX7TkR7YXbxWcRi2U?authuser=0&hl=en&rclk=1"
@@ -2582,10 +2603,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asian+Centre+for+Renal+Disease+%26+Urology+-+Top+Kidney+%26+Urology+Specialists+in+Patna/data=!4m7!3m6!1s0x39ed57275b80a9c3:0x658b1167c5db85ed!8m2!3d25.63573!4d85.1038713!16s%2Fg%2F11yx5q9pr3!19sChIJw6mAWydX7TkR7YXbxWcRi2U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "asian-city-hospital-best-hospital-in-patna-patna",
@@ -2634,7 +2656,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Asian+City+Hospital+-+Best+Hospital+in+Patna/data=!4m7!3m6!1s0x39ed578f44deaf4d:0x5d08fef82eb3a95c!8m2!3d25.6358195!4d85.1040469!16s%2Fg%2F11h3nnjqbt!19sChIJTa_eRI9X7TkRXKmzLvj-CF0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+City+Hospital+-+Best+Hospital+in+Patna/data=!4m7!3m6!1s0x39ed578f44deaf4d:0x5d08fef82eb3a95c!8m2!3d25.6358195!4d85.1040469!16s%2Fg%2F11h3nnjqbt!19sChIJTa_eRI9X7TkRXKmzLvj-CF0?authuser=0&hl=en&rclk=1"
@@ -2703,7 +2725,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asian+City+Hospital+-+Best+Hospital+in+Patna/data=!4m7!3m6!1s0x39ed578f44deaf4d:0x5d08fef82eb3a95c!8m2!3d25.6358195!4d85.1040469!16s%2Fg%2F11h3nnjqbt!19sChIJTa_eRI9X7TkRXKmzLvj-CF0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "big-apollo-spectra-hospitals-patna",
@@ -2753,7 +2776,7 @@
       "3+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Big+Apollo+Spectra+Hospitals/data=!4m7!3m6!1s0x39ed58975f07c0a3:0x10fc27d63db60243!8m2!3d25.5878069!4d85.1959298!16s%2Fg%2F11b6v9grnd!19sChIJo8AHX5dY7TkRQwK2PdYn_BA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Big+Apollo+Spectra+Hospitals/data=!4m7!3m6!1s0x39ed58975f07c0a3:0x10fc27d63db60243!8m2!3d25.5878069!4d85.1959298!16s%2Fg%2F11b6v9grnd!19sChIJo8AHX5dY7TkRQwK2PdYn_BA?authuser=0&hl=en&rclk=1"
@@ -2822,7 +2845,8 @@
     "rating": 4.7,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Big+Apollo+Spectra+Hospitals/data=!4m7!3m6!1s0x39ed58975f07c0a3:0x10fc27d63db60243!8m2!3d25.5878069!4d85.1959298!16s%2Fg%2F11b6v9grnd!19sChIJo8AHX5dY7TkRQwK2PdYn_BA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "brain-spinal-cord-and-nerve-clinic-arrah",
@@ -2871,7 +2895,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Brain+Spinal+Cord+And+Nerve+Clinic/@25.5552227,84.6591982,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5fd57bfecdff:0x710a1295a0ab21f8!8m2!3d25.5552227!4d84.6591982!16s%2Fg%2F11fb277cs3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brain+Spinal+Cord+And+Nerve+Clinic/@25.5552227,84.6591982,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5fd57bfecdff:0x710a1295a0ab21f8!8m2!3d25.5552227!4d84.6591982!16s%2Fg%2F11fb277cs3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -2937,10 +2961,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Brain+Spinal+Cord+And+Nerve+Clinic/@25.5552227,84.6591982,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5fd57bfecdff:0x710a1295a0ab21f8!8m2!3d25.5552227!4d84.6591982!16s%2Fg%2F11fb277cs3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "care-hospital-arrah",
@@ -2988,7 +3013,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Care+Hospital/data=!4m7!3m6!1s0x398d5f005087b2ff:0xd235b2d61f3e0a6e!8m2!3d25.551183!4d84.6534075!16s%2Fg%2F11y0cxwfnc!19sChIJ_7KHUABfjTkRbgo-H9ayNdI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+Hospital/data=!4m7!3m6!1s0x398d5f005087b2ff:0xd235b2d61f3e0a6e!8m2!3d25.551183!4d84.6534075!16s%2Fg%2F11y0cxwfnc!19sChIJ_7KHUABfjTkRbgo-H9ayNdI?authuser=0&hl=en&rclk=1"
@@ -3057,7 +3082,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Care+Hospital/data=!4m7!3m6!1s0x398d5f005087b2ff:0xd235b2d61f3e0a6e!8m2!3d25.551183!4d84.6534075!16s%2Fg%2F11y0cxwfnc!19sChIJ_7KHUABfjTkRbgo-H9ayNdI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chirayu-health-care-patna",
@@ -3106,7 +3132,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chirayu+Health+Care/data=!4m7!3m6!1s0x39ed5847800f7ced:0x8b4262d31b2707a5!8m2!3d25.6145272!4d85.1271777!16s%2Fg%2F11tfdyvrf8!19sChIJ7XwPgEdY7TkRpQcnG9NiQos?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chirayu+Health+Care/data=!4m7!3m6!1s0x39ed5847800f7ced:0x8b4262d31b2707a5!8m2!3d25.6145272!4d85.1271777!16s%2Fg%2F11tfdyvrf8!19sChIJ7XwPgEdY7TkRpQcnG9NiQos?authuser=0&hl=en&rclk=1"
@@ -3175,7 +3201,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chirayu+Health+Care/data=!4m7!3m6!1s0x39ed5847800f7ced:0x8b4262d31b2707a5!8m2!3d25.6145272!4d85.1271777!16s%2Fg%2F11tfdyvrf8!19sChIJ7XwPgEdY7TkRpQcnG9NiQos?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cosmetic-dental-hospital-arrah",
@@ -3221,7 +3248,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Cosmetic+dental+hospital/data=!4m7!3m6!1s0x398d5f35c3125a97:0x3aef8f02ebf19e4a!8m2!3d25.5600029!4d84.6670772!16s%2Fg%2F11g1kth4w8!19sChIJl1oSwzVfjTkRSp7x6wKP7zo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmetic+dental+hospital/data=!4m7!3m6!1s0x398d5f35c3125a97:0x3aef8f02ebf19e4a!8m2!3d25.5600029!4d84.6670772!16s%2Fg%2F11g1kth4w8!19sChIJl1oSwzVfjTkRSp7x6wKP7zo?authuser=0&hl=en&rclk=1"
@@ -3287,10 +3314,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmetic+dental+hospital/data=!4m7!3m6!1s0x398d5f35c3125a97:0x3aef8f02ebf19e4a!8m2!3d25.5600029!4d84.6670772!16s%2Fg%2F11g1kth4w8!19sChIJl1oSwzVfjTkRSp7x6wKP7zo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "curis-hospital-patna-patna",
@@ -3340,7 +3368,7 @@
       "91+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Curis+Hospital+Patna/data=!4m7!3m6!1s0x39ed56664ca50a79:0x40d08292f19c0114!8m2!3d25.6163278!4d85.0414963!16s%2Fg%2F11c3292pgh!19sChIJeQqlTGZW7TkRFAGc8ZKC0EA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Curis+Hospital+Patna/data=!4m7!3m6!1s0x39ed56664ca50a79:0x40d08292f19c0114!8m2!3d25.6163278!4d85.0414963!16s%2Fg%2F11c3292pgh!19sChIJeQqlTGZW7TkRFAGc8ZKC0EA?authuser=0&hl=en&rclk=1"
@@ -3409,7 +3437,8 @@
     "rating": 3.4,
     "reviews": 91,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Curis+Hospital+Patna/data=!4m7!3m6!1s0x39ed56664ca50a79:0x40d08292f19c0114!8m2!3d25.6163278!4d85.0414963!16s%2Fg%2F11c3292pgh!19sChIJeQqlTGZW7TkRFAGc8ZKC0EA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dant-arogya-arrah",
@@ -3457,7 +3486,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Dant+Arogya+-+%E0%A4%A1%E0%A5%89.+%E0%A4%95%E0%A5%81%E0%A4%A3%E0%A4%BE%E0%A4%B2+%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0/@25.5571676,84.6612932,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5f5dc700003b:0x75a16e763f9fe45f!8m2!3d25.5571676!4d84.6612932!16s%2Fg%2F1tfclrjv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dant+Arogya+-+%E0%A4%A1%E0%A5%89.+%E0%A4%95%E0%A5%81%E0%A4%A3%E0%A4%BE%E0%A4%B2+%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0/@25.5571676,84.6612932,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5f5dc700003b:0x75a16e763f9fe45f!8m2!3d25.5571676!4d84.6612932!16s%2Fg%2F1tfclrjv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -3526,7 +3555,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dant+Arogya+-+%E0%A4%A1%E0%A5%89.+%E0%A4%95%E0%A5%81%E0%A4%A3%E0%A4%BE%E0%A4%B2+%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0/@25.5571676,84.6612932,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5f5dc700003b:0x75a16e763f9fe45f!8m2!3d25.5571676!4d84.6612932!16s%2Fg%2F1tfclrjv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhreeti-clinic-arrah",
@@ -3575,7 +3605,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dhreeti+Clinic/data=!4m7!3m6!1s0x398d5feeb61eca7f:0x40c272776d9683eb!8m2!3d25.5632589!4d84.6597406!16s%2Fg%2F11sqqfbsmz!19sChIJf8oetu5fjTkR64OWbXdywkA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhreeti+Clinic/data=!4m7!3m6!1s0x398d5feeb61eca7f:0x40c272776d9683eb!8m2!3d25.5632589!4d84.6597406!16s%2Fg%2F11sqqfbsmz!19sChIJf8oetu5fjTkR64OWbXdywkA?authuser=0&hl=en&rclk=1"
@@ -3641,10 +3671,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhreeti+Clinic/data=!4m7!3m6!1s0x398d5feeb61eca7f:0x40c272776d9683eb!8m2!3d25.5632589!4d84.6597406!16s%2Fg%2F11sqqfbsmz!19sChIJf8oetu5fjTkR64OWbXdywkA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "elite-dental-care-dentist-in-ara-arrah",
@@ -3692,7 +3723,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Elite+Dental+Care+%7C+Dentist+in+Ara/data=!4m7!3m6!1s0x398d5f264d87140f:0xf99066fecad3ad3!8m2!3d25.5596294!4d84.6685027!16s%2Fg%2F11vx7hjq41!19sChIJDxSHTSZfjTkR0zqt7G8GmQ8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elite+Dental+Care+%7C+Dentist+in+Ara/data=!4m7!3m6!1s0x398d5f264d87140f:0xf99066fecad3ad3!8m2!3d25.5596294!4d84.6685027!16s%2Fg%2F11vx7hjq41!19sChIJDxSHTSZfjTkR0zqt7G8GmQ8?authuser=0&hl=en&rclk=1"
@@ -3758,10 +3789,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Elite+Dental+Care+%7C+Dentist+in+Ara/data=!4m7!3m6!1s0x398d5f264d87140f:0xf99066fecad3ad3!8m2!3d25.5596294!4d84.6685027!16s%2Fg%2F11vx7hjq41!19sChIJDxSHTSZfjTkR0zqt7G8GmQ8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "girja-neuro-care-arrah",
@@ -3810,7 +3842,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Girja+Neuro+Care/data=!4m7!3m6!1s0x398d5f6fafb310dd:0x8c7aad80002adcc4!8m2!3d25.5515024!4d84.6604453!16s%2Fg%2F11f5wnj6_k!19sChIJ3RCzr29fjTkRxNwqAICteow?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Girja+Neuro+Care/data=!4m7!3m6!1s0x398d5f6fafb310dd:0x8c7aad80002adcc4!8m2!3d25.5515024!4d84.6604453!16s%2Fg%2F11f5wnj6_k!19sChIJ3RCzr29fjTkRxNwqAICteow?authuser=0&hl=en&rclk=1"
@@ -3879,7 +3911,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Girja+Neuro+Care/data=!4m7!3m6!1s0x398d5f6fafb310dd:0x8c7aad80002adcc4!8m2!3d25.5515024!4d84.6604453!16s%2Fg%2F11f5wnj6_k!19sChIJ3RCzr29fjTkRxNwqAICteow?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "health-haven-hospital-arrah",
@@ -3927,7 +3960,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Health+haven+hospital/data=!4m7!3m6!1s0x398d5f87dbc05fb7:0x7a892a1a90f322d6!8m2!3d25.5583357!4d84.6452306!16s%2Fg%2F11llcpz08w!19sChIJt1_A24dfjTkR1iLzkBoqiXo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Health+haven+hospital/data=!4m7!3m6!1s0x398d5f87dbc05fb7:0x7a892a1a90f322d6!8m2!3d25.5583357!4d84.6452306!16s%2Fg%2F11llcpz08w!19sChIJt1_A24dfjTkR1iLzkBoqiXo?authuser=0&hl=en&rclk=1"
@@ -3996,7 +4029,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Health+haven+hospital/data=!4m7!3m6!1s0x398d5f87dbc05fb7:0x7a892a1a90f322d6!8m2!3d25.5583357!4d84.6452306!16s%2Fg%2F11llcpz08w!19sChIJt1_A24dfjTkR1iLzkBoqiXo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "heart-care-centre-arrah",
@@ -4046,7 +4080,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Heart+Care+Centre/data=!4m7!3m6!1s0x398d5fb599bb7e6f:0x952abad5bcd3594b!8m2!3d25.5574648!4d84.6620384!16s%2Fg%2F11fq748_pk!19sChIJb367mbVfjTkRS1nTvNW6KpU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heart+Care+Centre/data=!4m7!3m6!1s0x398d5fb599bb7e6f:0x952abad5bcd3594b!8m2!3d25.5574648!4d84.6620384!16s%2Fg%2F11fq748_pk!19sChIJb367mbVfjTkRS1nTvNW6KpU?authuser=0&hl=en&rclk=1"
@@ -4115,7 +4149,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Heart+Care+Centre/data=!4m7!3m6!1s0x398d5fb599bb7e6f:0x952abad5bcd3594b!8m2!3d25.5574648!4d84.6620384!16s%2Fg%2F11fq748_pk!19sChIJb367mbVfjTkRS1nTvNW6KpU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "heera-surya-nursing-home-best-nursing-home-in-ara-arrah",
@@ -4164,7 +4199,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Heera+Surya+Nursing+Home+%7C+Best+Nursing+Home+in+Ara/data=!4m7!3m6!1s0x398d5f7a63661d07:0xc2ffa8c53cde6e19!8m2!3d25.5544609!4d84.6560335!16s%2Fg%2F11dyz3tpqp!19sChIJBx1mY3pfjTkRGW7ePMWo_8I?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heera+Surya+Nursing+Home+%7C+Best+Nursing+Home+in+Ara/data=!4m7!3m6!1s0x398d5f7a63661d07:0xc2ffa8c53cde6e19!8m2!3d25.5544609!4d84.6560335!16s%2Fg%2F11dyz3tpqp!19sChIJBx1mY3pfjTkRGW7ePMWo_8I?authuser=0&hl=en&rclk=1"
@@ -4230,10 +4265,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Heera+Surya+Nursing+Home+%7C+Best+Nursing+Home+in+Ara/data=!4m7!3m6!1s0x398d5f7a63661d07:0xc2ffa8c53cde6e19!8m2!3d25.5544609!4d84.6560335!16s%2Fg%2F11dyz3tpqp!19sChIJBx1mY3pfjTkRGW7ePMWo_8I?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "horus-medico-arrah",
@@ -4282,7 +4318,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/HORUS+MEDICO/data=!4m7!3m6!1s0x398d5f486ebacc09:0x762a284b68c491c6!8m2!3d25.5552245!4d84.6592324!16s%2Fg%2F11r27mcv_v!19sChIJCcy6bkhfjTkRxpHEaEsoKnY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HORUS+MEDICO/data=!4m7!3m6!1s0x398d5f486ebacc09:0x762a284b68c491c6!8m2!3d25.5552245!4d84.6592324!16s%2Fg%2F11r27mcv_v!19sChIJCcy6bkhfjTkRxpHEaEsoKnY?authuser=0&hl=en&rclk=1"
@@ -4351,7 +4387,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HORUS+MEDICO/data=!4m7!3m6!1s0x398d5f486ebacc09:0x762a284b68c491c6!8m2!3d25.5552245!4d84.6592324!16s%2Fg%2F11r27mcv_v!19sChIJCcy6bkhfjTkRxpHEaEsoKnY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kalyan-hospital-arrah",
@@ -4399,7 +4436,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/KALYAN+HOSPITAL/@25.5522279,84.6663143,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5fef29d61d11:0xdf1ec2e00aa51ed2!8m2!3d25.5522279!4d84.6663143!16s%2Fg%2F11hp3wv_zn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KALYAN+HOSPITAL/@25.5522279,84.6663143,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5fef29d61d11:0xdf1ec2e00aa51ed2!8m2!3d25.5522279!4d84.6663143!16s%2Fg%2F11hp3wv_zn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -4468,7 +4505,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KALYAN+HOSPITAL/@25.5522279,84.6663143,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5fef29d61d11:0xdf1ec2e00aa51ed2!8m2!3d25.5522279!4d84.6663143!16s%2Fg%2F11hp3wv_zn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kapoor-hospital-patna-burn-and-plastic-surgery-center-dr-shashi-kapoor-patna",
@@ -4517,7 +4555,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kapoor+Hospital+Patna+-+Burn+and+Plastic+surgery+Center%7CDr+Shashi+Kapoor/data=!4m7!3m6!1s0x39ed57efc1d46997:0x84be1f750c6c48d6!8m2!3d25.61225!4d85.0624706!16s%2Fg%2F11krtx9w1c!19sChIJl2nUwe9X7TkR1khsDHUfvoQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kapoor+Hospital+Patna+-+Burn+and+Plastic+surgery+Center%7CDr+Shashi+Kapoor/data=!4m7!3m6!1s0x39ed57efc1d46997:0x84be1f750c6c48d6!8m2!3d25.61225!4d85.0624706!16s%2Fg%2F11krtx9w1c!19sChIJl2nUwe9X7TkR1khsDHUfvoQ?authuser=0&hl=en&rclk=1"
@@ -4586,7 +4624,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kapoor+Hospital+Patna+-+Burn+and+Plastic+surgery+Center%7CDr+Shashi+Kapoor/data=!4m7!3m6!1s0x39ed57efc1d46997:0x84be1f750c6c48d6!8m2!3d25.61225!4d85.0624706!16s%2Fg%2F11krtx9w1c!19sChIJl2nUwe9X7TkR1khsDHUfvoQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "karma-ayurveda-ayurvedic-clinic-in-patna-patna",
@@ -4635,7 +4674,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Karma+Ayurveda+-+Ayurvedic+Clinic+in+Patna/data=!4m7!3m6!1s0x39f2a71506b528ed:0xf2ac5ffe36ab145f!8m2!3d25.6197706!4d85.0841253!16s%2Fg%2F11k4160l0b!19sChIJ7Si1BhWn8jkRXxSrNv5frPI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karma+Ayurveda+-+Ayurvedic+Clinic+in+Patna/data=!4m7!3m6!1s0x39f2a71506b528ed:0xf2ac5ffe36ab145f!8m2!3d25.6197706!4d85.0841253!16s%2Fg%2F11k4160l0b!19sChIJ7Si1BhWn8jkRXxSrNv5frPI?authuser=0&hl=en&rclk=1"
@@ -4704,7 +4743,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Karma+Ayurveda+-+Ayurvedic+Clinic+in+Patna/data=!4m7!3m6!1s0x39f2a71506b528ed:0xf2ac5ffe36ab145f!8m2!3d25.6197706!4d85.0841253!16s%2Fg%2F11k4160l0b!19sChIJ7Si1BhWn8jkRXxSrNv5frPI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "know-your-kidney-kolkata",
@@ -4755,7 +4795,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/data=!4m7!3m6!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6!19sChIJzR892w53AjoR6XBjwgR241I?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/data=!4m7!3m6!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6!19sChIJzR892w53AjoR6XBjwgR241I?authuser=0&hl=en&rclk=1"
@@ -4821,10 +4861,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/data=!4m7!3m6!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6!19sChIJzR892w53AjoR6XBjwgR241I?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kosmo-dental-clinic-arrah",
@@ -4872,7 +4913,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Kosmo+Dental+Clinic/data=!4m7!3m6!1s0x398d5fe09530e6cd:0xa7741138b9ba2376!8m2!3d25.5596576!4d84.6596557!16s%2Fg%2F11kpklw20y!19sChIJzeYwleBfjTkRdiO6uTgRdKc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kosmo+Dental+Clinic/data=!4m7!3m6!1s0x398d5fe09530e6cd:0xa7741138b9ba2376!8m2!3d25.5596576!4d84.6596557!16s%2Fg%2F11kpklw20y!19sChIJzeYwleBfjTkRdiO6uTgRdKc?authuser=0&hl=en&rclk=1"
@@ -4941,7 +4982,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kosmo+Dental+Clinic/data=!4m7!3m6!1s0x398d5fe09530e6cd:0xa7741138b9ba2376!8m2!3d25.5596576!4d84.6596557!16s%2Fg%2F11kpklw20y!19sChIJzeYwleBfjTkRdiO6uTgRdKc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "krishna-child-care-arrah",
@@ -4991,7 +5033,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Krishna+Child+Care+%7C+%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%BE+%E0%A4%9A%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A5%8D%E0%A4%A1+%E0%A4%95%E0%A5%87%E0%A4%AF%E0%A4%B0+%7C+%E0%A4%A1%E0%A5%89+%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%95%E0%A4%BE%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%A6+%E0%A4%A6%E0%A5%81%E0%A4%AC%E0%A5%87/data=!4m7!3m6!1s0x398d5f074675efc3:0xf4030cae66f79342!8m2!3d25.5593401!4d84.6599478!16s%2Fg%2F11y3w33gtk!19sChIJw-91RgdfjTkRQpP3Zq4MA_Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Child+Care+%7C+%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%BE+%E0%A4%9A%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A5%8D%E0%A4%A1+%E0%A4%95%E0%A5%87%E0%A4%AF%E0%A4%B0+%7C+%E0%A4%A1%E0%A5%89+%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%95%E0%A4%BE%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%A6+%E0%A4%A6%E0%A5%81%E0%A4%AC%E0%A5%87/data=!4m7!3m6!1s0x398d5f074675efc3:0xf4030cae66f79342!8m2!3d25.5593401!4d84.6599478!16s%2Fg%2F11y3w33gtk!19sChIJw-91RgdfjTkRQpP3Zq4MA_Q?authuser=0&hl=en&rclk=1"
@@ -5060,7 +5102,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishna+Child+Care+%7C+%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%BE+%E0%A4%9A%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A5%8D%E0%A4%A1+%E0%A4%95%E0%A5%87%E0%A4%AF%E0%A4%B0+%7C+%E0%A4%A1%E0%A5%89+%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%95%E0%A4%BE%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%A6+%E0%A4%A6%E0%A5%81%E0%A4%AC%E0%A5%87/data=!4m7!3m6!1s0x398d5f074675efc3:0xf4030cae66f79342!8m2!3d25.5593401!4d84.6599478!16s%2Fg%2F11y3w33gtk!19sChIJw-91RgdfjTkRQpP3Zq4MA_Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "laxmi-netralaya-i-eye-hospital-in-ara-i-lasik-centre-in-ara-arrah",
@@ -5109,7 +5152,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/LAXMI+NETRALAYA+I+Eye+Hospital+in+Ara+I+Lasik+Centre+in+Ara/data=!4m7!3m6!1s0x398d5f674dfd4b17:0x311bf756d2c8038d!8m2!3d25.5596256!4d84.6680673!16s%2Fg%2F11b6gprw9x!19sChIJF0v9TWdfjTkRjQPI0lb3GzE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LAXMI+NETRALAYA+I+Eye+Hospital+in+Ara+I+Lasik+Centre+in+Ara/data=!4m7!3m6!1s0x398d5f674dfd4b17:0x311bf756d2c8038d!8m2!3d25.5596256!4d84.6680673!16s%2Fg%2F11b6gprw9x!19sChIJF0v9TWdfjTkRjQPI0lb3GzE?authuser=0&hl=en&rclk=1"
@@ -5178,7 +5221,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LAXMI+NETRALAYA+I+Eye+Hospital+in+Ara+I+Lasik+Centre+in+Ara/data=!4m7!3m6!1s0x398d5f674dfd4b17:0x311bf756d2c8038d!8m2!3d25.5596256!4d84.6680673!16s%2Fg%2F11b6gprw9x!19sChIJF0v9TWdfjTkRjQPI0lb3GzE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "liver-care-and-cure-patna",
@@ -5227,7 +5271,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://www.google.com/maps/place/Liver+Care+And+Cure/data=!4m7!3m6!1s0x39ed59d9aacc65ff:0x4167792d4b8cca7d!8m2!3d25.5954454!4d85.1569576!16s%2Fg%2F11q4rmr86m!19sChIJ_2XMqtlZ7TkRfcqMSy15Z0E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Liver+Care+And+Cure/data=!4m7!3m6!1s0x39ed59d9aacc65ff:0x4167792d4b8cca7d!8m2!3d25.5954454!4d85.1569576!16s%2Fg%2F11q4rmr86m!19sChIJ_2XMqtlZ7TkRfcqMSy15Z0E?authuser=0&hl=en&rclk=1"
@@ -5296,7 +5340,8 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Liver+Care+And+Cure/data=!4m7!3m6!1s0x39ed59d9aacc65ff:0x4167792d4b8cca7d!8m2!3d25.5954454!4d85.1569576!16s%2Fg%2F11q4rmr86m!19sChIJ_2XMqtlZ7TkRfcqMSy15Z0E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lupin-diagnostics-pathology-lab-and-full-body-checkup-in-babu-bajar-arrah",
@@ -5345,7 +5390,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lupin+Diagnostics+%7C+Pathology+Lab+%26+Full+Body+Checkup+in+Babu+Bajar/data=!4m7!3m6!1s0x398d5f1a9e3d2b13:0x5b17b85a4d6c7000!8m2!3d25.5608161!4d84.6681795!16s%2Fg%2F11w3m8p1j8!19sChIJEys9nhpfjTkRAHBsTVq4F1s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lupin+Diagnostics+%7C+Pathology+Lab+%26+Full+Body+Checkup+in+Babu+Bajar/data=!4m7!3m6!1s0x398d5f1a9e3d2b13:0x5b17b85a4d6c7000!8m2!3d25.5608161!4d84.6681795!16s%2Fg%2F11w3m8p1j8!19sChIJEys9nhpfjTkRAHBsTVq4F1s?authuser=0&hl=en&rclk=1"
@@ -5411,10 +5456,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lupin+Diagnostics+%7C+Pathology+Lab+%26+Full+Body+Checkup+in+Babu+Bajar/data=!4m7!3m6!1s0x398d5f1a9e3d2b13:0x5b17b85a4d6c7000!8m2!3d25.5608161!4d84.6681795!16s%2Fg%2F11w3m8p1j8!19sChIJEys9nhpfjTkRAHBsTVq4F1s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "m-k-hospital-emergency-hospital-arrah",
@@ -5462,7 +5508,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/M+K+Hospital+Emergency+Hospital/data=!4m7!3m6!1s0x398d5fbebaeb3311:0xb522fde6d486e227!8m2!3d25.5306119!4d84.6329768!16s%2Fg%2F11tdggf2rz!19sChIJETPrur5fjTkRJ-KG1Ob9IrU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M+K+Hospital+Emergency+Hospital/data=!4m7!3m6!1s0x398d5fbebaeb3311:0xb522fde6d486e227!8m2!3d25.5306119!4d84.6329768!16s%2Fg%2F11tdggf2rz!19sChIJETPrur5fjTkRJ-KG1Ob9IrU?authuser=0&hl=en&rclk=1"
@@ -5531,7 +5577,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M+K+Hospital+Emergency+Hospital/data=!4m7!3m6!1s0x398d5fbebaeb3311:0xb522fde6d486e227!8m2!3d25.5306119!4d84.6329768!16s%2Fg%2F11tdggf2rz!19sChIJETPrur5fjTkRJ-KG1Ob9IrU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "m-s-memorial-hospital-arrah",
@@ -5579,7 +5626,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/M.s+memorial+hospital/data=!4m7!3m6!1s0x398d5f68056b628d:0xed9b8c7431890138!8m2!3d25.5593374!4d84.6588913!16s%2Fg%2F11trs8_vh_!19sChIJjWJrBWhfjTkROAGJMXSMm-0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.s+memorial+hospital/data=!4m7!3m6!1s0x398d5f68056b628d:0xed9b8c7431890138!8m2!3d25.5593374!4d84.6588913!16s%2Fg%2F11trs8_vh_!19sChIJjWJrBWhfjTkROAGJMXSMm-0?authuser=0&hl=en&rclk=1"
@@ -5645,10 +5692,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M.s+memorial+hospital/data=!4m7!3m6!1s0x398d5f68056b628d:0xed9b8c7431890138!8m2!3d25.5593374!4d84.6588913!16s%2Fg%2F11trs8_vh_!19sChIJjWJrBWhfjTkROAGJMXSMm-0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maa-jagdamba-nursing-home-and-fertility-centre-arrah",
@@ -5697,7 +5745,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Maa+Jagdamba+-+Nursing+Home+and+Fertility+Centre/data=!4m7!3m6!1s0x398d5f60d6b602c9:0x63d9d11dde0349c9!8m2!3d25.5605503!4d84.6663844!16s%2Fg%2F1tf85h7h!19sChIJyQK21mBfjTkRyUkD3h3R2WM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+Jagdamba+-+Nursing+Home+and+Fertility+Centre/data=!4m7!3m6!1s0x398d5f60d6b602c9:0x63d9d11dde0349c9!8m2!3d25.5605503!4d84.6663844!16s%2Fg%2F1tf85h7h!19sChIJyQK21mBfjTkRyUkD3h3R2WM?authuser=0&hl=en&rclk=1"
@@ -5766,7 +5814,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maa+Jagdamba+-+Nursing+Home+and+Fertility+Centre/data=!4m7!3m6!1s0x398d5f60d6b602c9:0x63d9d11dde0349c9!8m2!3d25.5605503!4d84.6663844!16s%2Fg%2F1tf85h7h!19sChIJyQK21mBfjTkRyUkD3h3R2WM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maa-shardha-hi-tech-emergency-hospital-arrah",
@@ -5814,7 +5863,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Maa+shardha+Hi-tech+Emergency+Hospital/data=!4m7!3m6!1s0x398d5faebc75cf8f:0x7658727e0dfb4b6f!8m2!3d25.5582232!4d84.6720913!16s%2Fg%2F11kg94698d!19sChIJj891vK5fjTkRb0v7DX5yWHY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maa+shardha+Hi-tech+Emergency+Hospital/data=!4m7!3m6!1s0x398d5faebc75cf8f:0x7658727e0dfb4b6f!8m2!3d25.5582232!4d84.6720913!16s%2Fg%2F11kg94698d!19sChIJj891vK5fjTkRb0v7DX5yWHY?authuser=0&hl=en&rclk=1"
@@ -5880,10 +5929,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maa+shardha+Hi-tech+Emergency+Hospital/data=!4m7!3m6!1s0x398d5faebc75cf8f:0x7658727e0dfb4b6f!8m2!3d25.5582232!4d84.6720913!16s%2Fg%2F11kg94698d!19sChIJj891vK5fjTkRb0v7DX5yWHY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maatri-chhaya-clinic-arrah",
@@ -5931,7 +5981,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Maatri+Chhaya+Clinic/data=!4m7!3m6!1s0x398d5f691f9a9307:0xda979d32d6c1fad0!8m2!3d25.5509506!4d84.6651795!16s%2Fg%2F1233610w9!19sChIJB5OaH2lfjTkR0PrB1jKdl9o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maatri+Chhaya+Clinic/data=!4m7!3m6!1s0x398d5f691f9a9307:0xda979d32d6c1fad0!8m2!3d25.5509506!4d84.6651795!16s%2Fg%2F1233610w9!19sChIJB5OaH2lfjTkR0PrB1jKdl9o?authuser=0&hl=en&rclk=1"
@@ -5997,10 +6047,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maatri+Chhaya+Clinic/data=!4m7!3m6!1s0x398d5f691f9a9307:0xda979d32d6c1fad0!8m2!3d25.5509506!4d84.6651795!16s%2Fg%2F1233610w9!19sChIJB5OaH2lfjTkR0PrB1jKdl9o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maatritva-hospital-arrah",
@@ -6048,7 +6099,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Maatritva+Hospital/data=!4m7!3m6!1s0x398d5f6484b797eb:0x52bd85cd71ceb983!8m2!3d25.559376!4d84.65752!16s%2Fg%2F11fy2lphk8!19sChIJ65e3hGRfjTkRg7nOcc2FvVI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maatritva+Hospital/data=!4m7!3m6!1s0x398d5f6484b797eb:0x52bd85cd71ceb983!8m2!3d25.559376!4d84.65752!16s%2Fg%2F11fy2lphk8!19sChIJ65e3hGRfjTkRg7nOcc2FvVI?authuser=0&hl=en&rclk=1"
@@ -6117,7 +6168,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maatritva+Hospital/data=!4m7!3m6!1s0x398d5f6484b797eb:0x52bd85cd71ceb983!8m2!3d25.559376!4d84.65752!16s%2Fg%2F11fy2lphk8!19sChIJ65e3hGRfjTkRg7nOcc2FvVI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "madhavi-netralaya-arrah",
@@ -6166,7 +6218,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Madhavi+Netralaya/data=!4m7!3m6!1s0x398d5f66d2b292cf:0x48e81cebe0b0b40e!8m2!3d25.559953!4d84.6656213!16s%2Fg%2F11bw_618s3!19sChIJz5Ky0mZfjTkRDrSw4Osc6Eg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavi+Netralaya/data=!4m7!3m6!1s0x398d5f66d2b292cf:0x48e81cebe0b0b40e!8m2!3d25.559953!4d84.6656213!16s%2Fg%2F11bw_618s3!19sChIJz5Ky0mZfjTkRDrSw4Osc6Eg?authuser=0&hl=en&rclk=1"
@@ -6235,7 +6287,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavi+Netralaya/data=!4m7!3m6!1s0x398d5f66d2b292cf:0x48e81cebe0b0b40e!8m2!3d25.559953!4d84.6656213!16s%2Fg%2F11bw_618s3!19sChIJz5Ky0mZfjTkRDrSw4Osc6Eg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mahadev-dental-hospital-arrah",
@@ -6283,7 +6336,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mahadev+Dental+Hospital/data=!4m7!3m6!1s0x398d5fd0aca2c21b:0x623e2df78276d2b4!8m2!3d25.5580313!4d84.6557392!16s%2Fg%2F11qg5xfxr2!19sChIJG8KirNBfjTkRtNJ2gvctPmI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahadev+Dental+Hospital/data=!4m7!3m6!1s0x398d5fd0aca2c21b:0x623e2df78276d2b4!8m2!3d25.5580313!4d84.6557392!16s%2Fg%2F11qg5xfxr2!19sChIJG8KirNBfjTkRtNJ2gvctPmI?authuser=0&hl=en&rclk=1"
@@ -6349,10 +6402,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahadev+Dental+Hospital/data=!4m7!3m6!1s0x398d5fd0aca2c21b:0x623e2df78276d2b4!8m2!3d25.5580313!4d84.6557392!16s%2Fg%2F11qg5xfxr2!19sChIJG8KirNBfjTkRtNJ2gvctPmI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mahadev-nursing-home-and-child-care-arrah",
@@ -6401,7 +6455,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Mahadev+nursing+home+and+Child+care/data=!4m7!3m6!1s0x398d5f08140e239d:0xda75ac893976ed8d!8m2!3d25.5581306!4d84.6571282!16s%2Fg%2F11vf0t_8ry!19sChIJnSMOFAhfjTkRje12OYmsddo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahadev+nursing+home+and+Child+care/data=!4m7!3m6!1s0x398d5f08140e239d:0xda75ac893976ed8d!8m2!3d25.5581306!4d84.6571282!16s%2Fg%2F11vf0t_8ry!19sChIJnSMOFAhfjTkRje12OYmsddo?authuser=0&hl=en&rclk=1"
@@ -6470,7 +6524,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahadev+nursing+home+and+Child+care/data=!4m7!3m6!1s0x398d5f08140e239d:0xda75ac893976ed8d!8m2!3d25.5581306!4d84.6571282!16s%2Fg%2F11vf0t_8ry!19sChIJnSMOFAhfjTkRje12OYmsddo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "margdarshan-health-care-solutions-llp-patna",
@@ -6519,7 +6574,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Margdarshan+Health+Care+Solutions+LLP/data=!4m7!3m6!1s0x39ed579c0e7a1cf9:0x8bc4d5594908fc49!8m2!3d25.6309411!4d85.0347787!16s%2Fg%2F11ghr9s58b!19sChIJ-Rx6DpxX7TkRSfwISVnVxIs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Margdarshan+Health+Care+Solutions+LLP/data=!4m7!3m6!1s0x39ed579c0e7a1cf9:0x8bc4d5594908fc49!8m2!3d25.6309411!4d85.0347787!16s%2Fg%2F11ghr9s58b!19sChIJ-Rx6DpxX7TkRSfwISVnVxIs?authuser=0&hl=en&rclk=1"
@@ -6588,7 +6643,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Margdarshan+Health+Care+Solutions+LLP/data=!4m7!3m6!1s0x39ed579c0e7a1cf9:0x8bc4d5594908fc49!8m2!3d25.6309411!4d85.0347787!16s%2Fg%2F11ghr9s58b!19sChIJ-Rx6DpxX7TkRSfwISVnVxIs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maurya-hospital-arrah",
@@ -6637,7 +6693,7 @@
       "Google rating 4.3",
       "10+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Maurya+Hospital/data=!4m7!3m6!1s0x398d5f6958653967:0xa20c2cfa054c809d!8m2!3d25.5482761!4d84.6644771!16s%2Fg%2F11ghn7qyrg!19sChIJZzllWGlfjTkRnYBMBfosDKI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maurya+Hospital/data=!4m7!3m6!1s0x398d5f6958653967:0xa20c2cfa054c809d!8m2!3d25.5482761!4d84.6644771!16s%2Fg%2F11ghn7qyrg!19sChIJZzllWGlfjTkRnYBMBfosDKI?authuser=0&hl=en&rclk=1"
@@ -6706,7 +6762,8 @@
     "rating": 4.3,
     "reviews": 10,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maurya+Hospital/data=!4m7!3m6!1s0x398d5f6958653967:0xa20c2cfa054c809d!8m2!3d25.5482761!4d84.6644771!16s%2Fg%2F11ghn7qyrg!19sChIJZzllWGlfjTkRnYBMBfosDKI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "max-dental-care-arrah",
@@ -6754,7 +6811,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Max+Dental+Care/data=!4m7!3m6!1s0x398d5f9272b236d9:0x639398773057c9ab!8m2!3d25.560673!4d84.66647!16s%2Fg%2F11f5tbf1r8!19sChIJ2TaycpJfjTkRq8lXMHeYk2M?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Max+Dental+Care/data=!4m7!3m6!1s0x398d5f9272b236d9:0x639398773057c9ab!8m2!3d25.560673!4d84.66647!16s%2Fg%2F11f5tbf1r8!19sChIJ2TaycpJfjTkRq8lXMHeYk2M?authuser=0&hl=en&rclk=1"
@@ -6823,7 +6880,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Max+Dental+Care/data=!4m7!3m6!1s0x398d5f9272b236d9:0x639398773057c9ab!8m2!3d25.560673!4d84.66647!16s%2Fg%2F11f5tbf1r8!19sChIJ2TaycpJfjTkRq8lXMHeYk2M?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "medicon-dialysis-center-arrah",
@@ -6872,7 +6930,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MEDICON+DIALYSIS+CENTER/data=!4m7!3m6!1s0x398d5f0055605b83:0xadad140342cb975c!8m2!3d25.5600054!4d84.6670386!16s%2Fg%2F11vk8l1148!19sChIJg1tgVQBfjTkRXJfLQgMUra0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEDICON+DIALYSIS+CENTER/data=!4m7!3m6!1s0x398d5f0055605b83:0xadad140342cb975c!8m2!3d25.5600054!4d84.6670386!16s%2Fg%2F11vk8l1148!19sChIJg1tgVQBfjTkRXJfLQgMUra0?authuser=0&hl=en&rclk=1"
@@ -6938,10 +6996,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MEDICON+DIALYSIS+CENTER/data=!4m7!3m6!1s0x398d5f0055605b83:0xadad140342cb975c!8m2!3d25.5600054!4d84.6670386!16s%2Fg%2F11vk8l1148!19sChIJg1tgVQBfjTkRXJfLQgMUra0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "medicon-hospital-arrah",
@@ -6990,7 +7049,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medicon+Hospital/data=!4m7!3m6!1s0x398d5f90ecc142cb:0x843852486b8cf4d!8m2!3d25.5600755!4d84.6669424!16s%2Fg%2F11pz86c2d9!19sChIJy0LB7JBfjTkRTc-4hiSFQwg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicon+Hospital/data=!4m7!3m6!1s0x398d5f90ecc142cb:0x843852486b8cf4d!8m2!3d25.5600755!4d84.6669424!16s%2Fg%2F11pz86c2d9!19sChIJy0LB7JBfjTkRTc-4hiSFQwg?authuser=0&hl=en&rclk=1"
@@ -7059,7 +7118,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicon+Hospital/data=!4m7!3m6!1s0x398d5f90ecc142cb:0x843852486b8cf4d!8m2!3d25.5600755!4d84.6669424!16s%2Fg%2F11pz86c2d9!19sChIJy0LB7JBfjTkRTc-4hiSFQwg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mr-hospital-patna-patna",
@@ -7108,7 +7168,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MR+HOSPITAL+PATNA/data=!4m7!3m6!1s0x39ed57b881ea3aad:0x2b7ec10907c1d8ed!8m2!3d25.6050283!4d85.0906771!16s%2Fg%2F11f8jt7pky!19sChIJrTrqgbhX7TkR7djBBwnBfis?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MR+HOSPITAL+PATNA/data=!4m7!3m6!1s0x39ed57b881ea3aad:0x2b7ec10907c1d8ed!8m2!3d25.6050283!4d85.0906771!16s%2Fg%2F11f8jt7pky!19sChIJrTrqgbhX7TkR7djBBwnBfis?authuser=0&hl=en&rclk=1"
@@ -7177,7 +7237,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MR+HOSPITAL+PATNA/data=!4m7!3m6!1s0x39ed57b881ea3aad:0x2b7ec10907c1d8ed!8m2!3d25.6050283!4d85.0906771!16s%2Fg%2F11f8jt7pky!19sChIJrTrqgbhX7TkR7djBBwnBfis?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nephro-care-kolkata",
@@ -7228,7 +7289,7 @@
       "396+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nephro+Care/data=!4m7!3m6!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05!19sChIJxUt4MsR1AjoRMrFuabFTedY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephro+Care/data=!4m7!3m6!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05!19sChIJxUt4MsR1AjoRMrFuabFTedY?authuser=0&hl=en&rclk=1"
@@ -7297,7 +7358,8 @@
     "rating": 4.8,
     "reviews": 396,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nephro+Care/data=!4m7!3m6!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05!19sChIJxUt4MsR1AjoRMrFuabFTedY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nidan-hospital-patna",
@@ -7345,7 +7407,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://www.google.com/maps/place/Nidan+Hospital/data=!4m7!3m6!1s0x39ed57fd5cfacd8b:0x6c49c4e8afb543bb!8m2!3d25.5817055!4d85.0973279!16s%2Fg%2F11b7qyvpsz!19sChIJi836XP1X7TkRu0O1r-jESWw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nidan+Hospital/data=!4m7!3m6!1s0x39ed57fd5cfacd8b:0x6c49c4e8afb543bb!8m2!3d25.5817055!4d85.0973279!16s%2Fg%2F11b7qyvpsz!19sChIJi836XP1X7TkRu0O1r-jESWw?authuser=0&hl=en&rclk=1"
@@ -7414,7 +7476,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nidan+Hospital/data=!4m7!3m6!1s0x39ed57fd5cfacd8b:0x6c49c4e8afb543bb!8m2!3d25.5817055!4d85.0973279!16s%2Fg%2F11b7qyvpsz!19sChIJi836XP1X7TkRu0O1r-jESWw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nkpc-kidney-clinic-kolkata",
@@ -7464,7 +7527,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1"
@@ -7533,7 +7596,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "om-hospital-arrah",
@@ -7581,7 +7645,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/OM+Hospital/data=!4m7!3m6!1s0x398d5f7d025a4db7:0x1b4ae1711b85bb8b!8m2!3d25.5628632!4d84.6560887!16s%2Fg%2F11cmgrpjcc!19sChIJt01aAn1fjTkRi7uFG3HhShs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OM+Hospital/data=!4m7!3m6!1s0x398d5f7d025a4db7:0x1b4ae1711b85bb8b!8m2!3d25.5628632!4d84.6560887!16s%2Fg%2F11cmgrpjcc!19sChIJt01aAn1fjTkRi7uFG3HhShs?authuser=0&hl=en&rclk=1"
@@ -7650,7 +7714,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OM+Hospital/data=!4m7!3m6!1s0x398d5f7d025a4db7:0x1b4ae1711b85bb8b!8m2!3d25.5628632!4d84.6560887!16s%2Fg%2F11cmgrpjcc!19sChIJt01aAn1fjTkRi7uFG3HhShs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ortho-care-hospital-dr-rajeev-kumar-roy-arrah",
@@ -7700,7 +7765,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ortho+Care+Hospital%2FDr+Rajeev+kumar+Roy/data=!4m7!3m6!1s0x398d5f7b4365cf4d:0xaebbe33f104c8635!8m2!3d25.559113!4d84.657483!16s%2Fg%2F11d_2hr2cf!19sChIJTc9lQ3tfjTkRNYZMED_ju64?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ortho+Care+Hospital%2FDr+Rajeev+kumar+Roy/data=!4m7!3m6!1s0x398d5f7b4365cf4d:0xaebbe33f104c8635!8m2!3d25.559113!4d84.657483!16s%2Fg%2F11d_2hr2cf!19sChIJTc9lQ3tfjTkRNYZMED_ju64?authuser=0&hl=en&rclk=1"
@@ -7769,7 +7834,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ortho+Care+Hospital%2FDr+Rajeev+kumar+Roy/data=!4m7!3m6!1s0x398d5f7b4365cf4d:0xaebbe33f104c8635!8m2!3d25.559113!4d84.657483!16s%2Fg%2F11d_2hr2cf!19sChIJTc9lQ3tfjTkRNYZMED_ju64?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "orthocity-dental-care-arrah",
@@ -7818,7 +7884,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/OrthoCity+Dental+Care/data=!4m7!3m6!1s0x3992a15d563d5f37:0x454f4c809bf45a15!8m2!3d25.5602698!4d84.6658886!16s%2Fg%2F11srybmd_s!19sChIJN189Vl2hkjkRFVr0m4BMT0U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OrthoCity+Dental+Care/data=!4m7!3m6!1s0x3992a15d563d5f37:0x454f4c809bf45a15!8m2!3d25.5602698!4d84.6658886!16s%2Fg%2F11srybmd_s!19sChIJN189Vl2hkjkRFVr0m4BMT0U?authuser=0&hl=en&rclk=1"
@@ -7887,7 +7953,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OrthoCity+Dental+Care/data=!4m7!3m6!1s0x3992a15d563d5f37:0x454f4c809bf45a15!8m2!3d25.5602698!4d84.6658886!16s%2Fg%2F11srybmd_s!19sChIJN189Vl2hkjkRFVr0m4BMT0U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "paras-hmri-hospital-best-hospital-in-patna-patna",
@@ -7937,7 +8004,7 @@
       "62+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Paras+HMRI+Hospital+%7C+Best+Hospital+in+Patna/data=!4m7!3m6!1s0x39ed5843b8e5cac7:0x2870e50b5d18fd58!8m2!3d25.6056461!4d85.082587!16s%2Fg%2F1tvw3bpx!19sChIJx8rluENY7TkRWP0YXQvlcCg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Paras+HMRI+Hospital+%7C+Best+Hospital+in+Patna/data=!4m7!3m6!1s0x39ed5843b8e5cac7:0x2870e50b5d18fd58!8m2!3d25.6056461!4d85.082587!16s%2Fg%2F1tvw3bpx!19sChIJx8rluENY7TkRWP0YXQvlcCg?authuser=0&hl=en&rclk=1"
@@ -8006,7 +8073,8 @@
     "rating": 4.4,
     "reviews": 62,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Paras+HMRI+Hospital+%7C+Best+Hospital+in+Patna/data=!4m7!3m6!1s0x39ed5843b8e5cac7:0x2870e50b5d18fd58!8m2!3d25.6056461!4d85.082587!16s%2Fg%2F1tvw3bpx!19sChIJx8rluENY7TkRWP0YXQvlcCg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "prasad-dental-care-arrah",
@@ -8055,7 +8123,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Prasad+Dental+Care/data=!4m7!3m6!1s0x398d5f57ffdd23ff:0x7466899fc83d393d!8m2!3d25.5595452!4d84.6607987!16s%2Fg%2F11w8nmb4qc!19sChIJ_yPd_1dfjTkRPTk9yJ-JZnQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prasad+Dental+Care/data=!4m7!3m6!1s0x398d5f57ffdd23ff:0x7466899fc83d393d!8m2!3d25.5595452!4d84.6607987!16s%2Fg%2F11w8nmb4qc!19sChIJ_yPd_1dfjTkRPTk9yJ-JZnQ?authuser=0&hl=en&rclk=1"
@@ -8124,7 +8192,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prasad+Dental+Care/data=!4m7!3m6!1s0x398d5f57ffdd23ff:0x7466899fc83d393d!8m2!3d25.5595452!4d84.6607987!16s%2Fg%2F11w8nmb4qc!19sChIJ_yPd_1dfjTkRPTk9yJ-JZnQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "r-l-memorial-hospital-arrah",
@@ -8173,7 +8242,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/R.+L.+Memorial+Hospital/data=!4m7!3m6!1s0x398d5f6484e58339:0x763f313159d4f972!8m2!3d25.559327!4d84.6604031!16s%2Fg%2F11c2lyndfl!19sChIJOYPlhGRfjTkRcvnUWTExP3Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.+L.+Memorial+Hospital/data=!4m7!3m6!1s0x398d5f6484e58339:0x763f313159d4f972!8m2!3d25.559327!4d84.6604031!16s%2Fg%2F11c2lyndfl!19sChIJOYPlhGRfjTkRcvnUWTExP3Y?authuser=0&hl=en&rclk=1"
@@ -8242,7 +8311,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R.+L.+Memorial+Hospital/data=!4m7!3m6!1s0x398d5f6484e58339:0x763f313159d4f972!8m2!3d25.559327!4d84.6604031!16s%2Fg%2F11c2lyndfl!19sChIJOYPlhGRfjTkRcvnUWTExP3Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "raghuvansham-hospital-arrah",
@@ -8290,7 +8360,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://www.google.com/maps/place/Raghuvansham+Hospital/data=!4m7!3m6!1s0x398d5f675437f8a1:0x7f0fa6ec8d9cc3bd!8m2!3d25.5598154!4d84.6686305!16s%2Fg%2F11c2p5td9s!19sChIJofg3VGdfjTkRvcOcjeymD38?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raghuvansham+Hospital/data=!4m7!3m6!1s0x398d5f675437f8a1:0x7f0fa6ec8d9cc3bd!8m2!3d25.5598154!4d84.6686305!16s%2Fg%2F11c2p5td9s!19sChIJofg3VGdfjTkRvcOcjeymD38?authuser=0&hl=en&rclk=1"
@@ -8359,7 +8429,8 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raghuvansham+Hospital/data=!4m7!3m6!1s0x398d5f675437f8a1:0x7f0fa6ec8d9cc3bd!8m2!3d25.5598154!4d84.6686305!16s%2Fg%2F11c2p5td9s!19sChIJofg3VGdfjTkRvcOcjeymD38?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rama-dental-hospital-arrah",
@@ -8407,7 +8478,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Rama+Dental+Hospital/data=!4m7!3m6!1s0x398d5f365374d08b:0xd521b304852ab844!8m2!3d25.557006!4d84.6554675!16s%2Fg%2F11yqdq0zlk!19sChIJi9B0UzZfjTkRRLgqhQSzIdU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rama+Dental+Hospital/data=!4m7!3m6!1s0x398d5f365374d08b:0xd521b304852ab844!8m2!3d25.557006!4d84.6554675!16s%2Fg%2F11yqdq0zlk!19sChIJi9B0UzZfjTkRRLgqhQSzIdU?authuser=0&hl=en&rclk=1"
@@ -8476,7 +8547,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rama+Dental+Hospital/data=!4m7!3m6!1s0x398d5f365374d08b:0xd521b304852ab844!8m2!3d25.557006!4d84.6554675!16s%2Fg%2F11yqdq0zlk!19sChIJi9B0UzZfjTkRRLgqhQSzIdU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "redcliffe-labs-collection-centre-full-body-check-up-and-blood-test-in-ahir-purawa-arrah",
@@ -8526,7 +8598,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Centre+%7C+Full+Body+Check+Up+%26+Blood+Test+in+Ahir+Purawa/data=!4m7!3m6!1s0x398d5f91aa39881b:0xb73ac7d1c64d6aa!8m2!3d25.5641881!4d84.6827117!16s%2Fg%2F11y544mnzb!19sChIJG4g5qpFfjTkRqtZkHH2scws?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Centre+%7C+Full+Body+Check+Up+%26+Blood+Test+in+Ahir+Purawa/data=!4m7!3m6!1s0x398d5f91aa39881b:0xb73ac7d1c64d6aa!8m2!3d25.5641881!4d84.6827117!16s%2Fg%2F11y544mnzb!19sChIJG4g5qpFfjTkRqtZkHH2scws?authuser=0&hl=en&rclk=1"
@@ -8595,7 +8667,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Centre+%7C+Full+Body+Check+Up+%26+Blood+Test+in+Ahir+Purawa/data=!4m7!3m6!1s0x398d5f91aa39881b:0xb73ac7d1c64d6aa!8m2!3d25.5641881!4d84.6827117!16s%2Fg%2F11y544mnzb!19sChIJG4g5qpFfjTkRqtZkHH2scws?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "redcliffe-labs-collection-centre-full-body-check-up-and-blood-test-in-maharaja-hata-arrah",
@@ -8645,7 +8718,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Centre+%7C+Full+Body+Check+Up+%26+Blood+Test+in+Maharaja+Hata/data=!4m7!3m6!1s0x398d5f2d6643fe25:0x6346412580ab2796!8m2!3d25.5544091!4d84.6560551!16s%2Fg%2F11kb58dzts!19sChIJJf5DZi1fjTkRliergCVBRmM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Centre+%7C+Full+Body+Check+Up+%26+Blood+Test+in+Maharaja+Hata/data=!4m7!3m6!1s0x398d5f2d6643fe25:0x6346412580ab2796!8m2!3d25.5544091!4d84.6560551!16s%2Fg%2F11kb58dzts!19sChIJJf5DZi1fjTkRliergCVBRmM?authuser=0&hl=en&rclk=1"
@@ -8711,10 +8784,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Centre+%7C+Full+Body+Check+Up+%26+Blood+Test+in+Maharaja+Hata/data=!4m7!3m6!1s0x398d5f2d6643fe25:0x6346412580ab2796!8m2!3d25.5544091!4d84.6560551!16s%2Fg%2F11kb58dzts!19sChIJJf5DZi1fjTkRliergCVBRmM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rudraksh-netralaya-dr-abhishek-kumar-arrah",
@@ -8764,7 +8838,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rudraksh+Netralaya+,Dr+Abhishek+Kumar/data=!4m7!3m6!1s0x398d5f7a3e46c279:0x3a4eee8e7de580b5!8m2!3d25.5601903!4d84.6494252!16s%2Fg%2F11j656yxk4!19sChIJecJGPnpfjTkRtYDlfY7uTjo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rudraksh+Netralaya+,Dr+Abhishek+Kumar/data=!4m7!3m6!1s0x398d5f7a3e46c279:0x3a4eee8e7de580b5!8m2!3d25.5601903!4d84.6494252!16s%2Fg%2F11j656yxk4!19sChIJecJGPnpfjTkRtYDlfY7uTjo?authuser=0&hl=en&rclk=1"
@@ -8833,7 +8907,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rudraksh+Netralaya+,Dr+Abhishek+Kumar/data=!4m7!3m6!1s0x398d5f7a3e46c279:0x3a4eee8e7de580b5!8m2!3d25.5601903!4d84.6494252!16s%2Fg%2F11j656yxk4!19sChIJecJGPnpfjTkRtYDlfY7uTjo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sadar-hospital-arrah",
@@ -8882,7 +8957,7 @@
       "Google rating 3.1",
       "22+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Sadar+Hospital/data=!4m7!3m6!1s0x398d5f5db7f2d263:0x6ba4dd9bac4db7d8!8m2!3d25.5584954!4d84.6710981!16s%2Fg%2F1hm66jxd5!19sChIJY9Lyt11fjTkR2LdNrJvdpGs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sadar+Hospital/data=!4m7!3m6!1s0x398d5f5db7f2d263:0x6ba4dd9bac4db7d8!8m2!3d25.5584954!4d84.6710981!16s%2Fg%2F1hm66jxd5!19sChIJY9Lyt11fjTkR2LdNrJvdpGs?authuser=0&hl=en&rclk=1"
@@ -8951,7 +9026,8 @@
     "rating": 3.1,
     "reviews": 22,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sadar+Hospital/data=!4m7!3m6!1s0x398d5f5db7f2d263:0x6ba4dd9bac4db7d8!8m2!3d25.5584954!4d84.6710981!16s%2Fg%2F1hm66jxd5!19sChIJY9Lyt11fjTkR2LdNrJvdpGs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sahyog-hospital-patna",
@@ -9000,7 +9076,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sahyog+Hospital/data=!4m7!3m6!1s0x39ed59d531e4194b:0x9f807c41c8cf952d!8m2!3d25.6291258!4d85.1082552!16s%2Fg%2F124sr0cx2!19sChIJSxnkMdVZ7TkRLZXPyEF8gJ8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahyog+Hospital/data=!4m7!3m6!1s0x39ed59d531e4194b:0x9f807c41c8cf952d!8m2!3d25.6291258!4d85.1082552!16s%2Fg%2F124sr0cx2!19sChIJSxnkMdVZ7TkRLZXPyEF8gJ8?authuser=0&hl=en&rclk=1"
@@ -9069,7 +9145,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sahyog+Hospital/data=!4m7!3m6!1s0x39ed59d531e4194b:0x9f807c41c8cf952d!8m2!3d25.6291258!4d85.1082552!16s%2Fg%2F124sr0cx2!19sChIJSxnkMdVZ7TkRLZXPyEF8gJ8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sai-baba-dental-and-oral-care-centre-ara-arrah",
@@ -9118,7 +9195,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SAI+BABA+DENTAL+%26+ORAL+CARE+CENTRE,+ARA/data=!4m7!3m6!1s0x398d5fe315958179:0x40cbeda31dea5604!8m2!3d25.5586719!4d84.6562991!16s%2Fg%2F11rpddxv7d!19sChIJeYGVFeNfjTkRBFbqHaPty0A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAI+BABA+DENTAL+%26+ORAL+CARE+CENTRE,+ARA/data=!4m7!3m6!1s0x398d5fe315958179:0x40cbeda31dea5604!8m2!3d25.5586719!4d84.6562991!16s%2Fg%2F11rpddxv7d!19sChIJeYGVFeNfjTkRBFbqHaPty0A?authuser=0&hl=en&rclk=1"
@@ -9184,10 +9261,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAI+BABA+DENTAL+%26+ORAL+CARE+CENTRE,+ARA/data=!4m7!3m6!1s0x398d5fe315958179:0x40cbeda31dea5604!8m2!3d25.5586719!4d84.6562991!16s%2Fg%2F11rpddxv7d!19sChIJeYGVFeNfjTkRBFbqHaPty0A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "samarpan-hospital-arrah",
@@ -9233,7 +9311,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Samarpan+hospital/data=!4m7!3m6!1s0x398d5f007d1d6add:0xcaca5ac145887ebd!8m2!3d25.5574236!4d84.6735229!16s%2Fg%2F11w7h7zjwg!19sChIJ3WodfQBfjTkRvX6IRcFayso?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samarpan+hospital/data=!4m7!3m6!1s0x398d5f007d1d6add:0xcaca5ac145887ebd!8m2!3d25.5574236!4d84.6735229!16s%2Fg%2F11w7h7zjwg!19sChIJ3WodfQBfjTkRvX6IRcFayso?authuser=0&hl=en&rclk=1"
@@ -9299,10 +9377,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samarpan+hospital/data=!4m7!3m6!1s0x398d5f007d1d6add:0xcaca5ac145887ebd!8m2!3d25.5574236!4d84.6735229!16s%2Fg%2F11w7h7zjwg!19sChIJ3WodfQBfjTkRvX6IRcFayso?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shahabad-hospital-arrah",
@@ -9351,7 +9430,7 @@
       "Google rating 4.7",
       "18+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Shahabad+Hospital/data=!4m7!3m6!1s0x398d5f41884bd763:0xcb29117446f4746f!8m2!3d25.5483125!4d84.6706094!16s%2Fg%2F11dxl4k5nb!19sChIJY9dLiEFfjTkRb3T0RnQRKcs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shahabad+Hospital/data=!4m7!3m6!1s0x398d5f41884bd763:0xcb29117446f4746f!8m2!3d25.5483125!4d84.6706094!16s%2Fg%2F11dxl4k5nb!19sChIJY9dLiEFfjTkRb3T0RnQRKcs?authuser=0&hl=en&rclk=1"
@@ -9420,7 +9499,8 @@
     "rating": 4.7,
     "reviews": 18,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shahabad+Hospital/data=!4m7!3m6!1s0x398d5f41884bd763:0xcb29117446f4746f!8m2!3d25.5483125!4d84.6706094!16s%2Fg%2F11dxl4k5nb!19sChIJY9dLiEFfjTkRb3T0RnQRKcs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shivam-nursing-home-arrah",
@@ -9470,7 +9550,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shivam+Nursing+Home/data=!4m7!3m6!1s0x398d5f1c6039c339:0xb61eddfdd52c643a!8m2!3d25.5515892!4d84.6530203!16s%2Fg%2F11q8t1nvlk!19sChIJOcM5YBxfjTkROmQs1f3dHrY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivam+Nursing+Home/data=!4m7!3m6!1s0x398d5f1c6039c339:0xb61eddfdd52c643a!8m2!3d25.5515892!4d84.6530203!16s%2Fg%2F11q8t1nvlk!19sChIJOcM5YBxfjTkROmQs1f3dHrY?authuser=0&hl=en&rclk=1"
@@ -9539,7 +9619,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivam+Nursing+Home/data=!4m7!3m6!1s0x398d5f1c6039c339:0xb61eddfdd52c643a!8m2!3d25.5515892!4d84.6530203!16s%2Fg%2F11q8t1nvlk!19sChIJOcM5YBxfjTkROmQs1f3dHrY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shivlok-hospital-arrah",
@@ -9587,7 +9668,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Shivlok+Hospital/data=!4m7!3m6!1s0x398d5f66ac76e3ef:0xbbd35bd8765549de!8m2!3d25.5596127!4d84.663837!16s%2Fg%2F1tdr1q75!19sChIJ7-N2rGZfjTkR3klVdthb07s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivlok+Hospital/data=!4m7!3m6!1s0x398d5f66ac76e3ef:0xbbd35bd8765549de!8m2!3d25.5596127!4d84.663837!16s%2Fg%2F1tdr1q75!19sChIJ7-N2rGZfjTkR3klVdthb07s?authuser=0&hl=en&rclk=1"
@@ -9656,7 +9737,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivlok+Hospital/data=!4m7!3m6!1s0x398d5f66ac76e3ef:0xbbd35bd8765549de!8m2!3d25.5596127!4d84.663837!16s%2Fg%2F1tdr1q75!19sChIJ7-N2rGZfjTkR3klVdthb07s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-ram-dialysis-center-arrah",
@@ -9706,7 +9788,7 @@
       "Google rating 4.3",
       "8+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Ram+Dialysis+center/data=!4m7!3m6!1s0x398d5fd8160be94f:0xdadb2bc3b8a6e9db!8m2!3d25.5598672!4d84.644892!16s%2Fg%2F11llyrp97f!19sChIJT-kLFthfjTkR2-mmuMMr29o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Ram+Dialysis+center/data=!4m7!3m6!1s0x398d5fd8160be94f:0xdadb2bc3b8a6e9db!8m2!3d25.5598672!4d84.644892!16s%2Fg%2F11llyrp97f!19sChIJT-kLFthfjTkR2-mmuMMr29o?authuser=0&hl=en&rclk=1"
@@ -9775,7 +9857,8 @@
     "rating": 4.3,
     "reviews": 8,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Ram+Dialysis+center/data=!4m7!3m6!1s0x398d5fd8160be94f:0xdadb2bc3b8a6e9db!8m2!3d25.5598672!4d84.644892!16s%2Fg%2F11llyrp97f!19sChIJT-kLFthfjTkR2-mmuMMr29o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-vardan-fertility-and-ortho-center-arrah",
@@ -9825,7 +9908,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Vardan+fertility+and+ortho+center/@25.5545044,84.6567202,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5f7a9a1b26df:0xaa41e867fe9cb846!8m2!3d25.5545044!4d84.6567202!16s%2Fg%2F11f5_k_dlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Vardan+fertility+and+ortho+center/@25.5545044,84.6567202,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5f7a9a1b26df:0xaa41e867fe9cb846!8m2!3d25.5545044!4d84.6567202!16s%2Fg%2F11f5_k_dlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -9894,7 +9977,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Vardan+fertility+and+ortho+center/@25.5545044,84.6567202,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5f7a9a1b26df:0xaa41e867fe9cb846!8m2!3d25.5545044!4d84.6567202!16s%2Fg%2F11f5_k_dlm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shriram-singh-memorial-shahabad-hospital-arrah",
@@ -9943,7 +10027,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SHRIRAM+SINGH+MEMORIAL+SHAHABAD+HOSPITAL/data=!4m7!3m6!1s0x398d5f640ed5f531:0x9843ee2f86b536d2!8m2!3d25.5610398!4d84.6685059!16s%2Fg%2F11f1w6y7tw!19sChIJMfXVDmRfjTkR0ja1hi_uQ5g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHRIRAM+SINGH+MEMORIAL+SHAHABAD+HOSPITAL/data=!4m7!3m6!1s0x398d5f640ed5f531:0x9843ee2f86b536d2!8m2!3d25.5610398!4d84.6685059!16s%2Fg%2F11f1w6y7tw!19sChIJMfXVDmRfjTkR0ja1hi_uQ5g?authuser=0&hl=en&rclk=1"
@@ -10012,7 +10096,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHRIRAM+SINGH+MEMORIAL+SHAHABAD+HOSPITAL/data=!4m7!3m6!1s0x398d5f640ed5f531:0x9843ee2f86b536d2!8m2!3d25.5610398!4d84.6685059!16s%2Fg%2F11f1w6y7tw!19sChIJMfXVDmRfjTkR0ja1hi_uQ5g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shubham-hospital-arrah",
@@ -10060,7 +10145,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shubham+Hospital/@25.5590247,84.6588166,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5f7db8302fcb:0x97435f6c5cc6fa70!8m2!3d25.5590247!4d84.6588166!16s%2Fg%2F11n0hynq7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubham+Hospital/@25.5590247,84.6588166,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5f7db8302fcb:0x97435f6c5cc6fa70!8m2!3d25.5590247!4d84.6588166!16s%2Fg%2F11n0hynq7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -10126,10 +10211,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shubham+Hospital/@25.5590247,84.6588166,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5f7db8302fcb:0x97435f6c5cc6fa70!8m2!3d25.5590247!4d84.6588166!16s%2Fg%2F11n0hynq7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sishu-kalyan-kendra-arrah",
@@ -10177,7 +10263,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Sishu+Kalyan+Kendra/data=!4m7!3m6!1s0x398d5f7a577cd243:0x592da6901d9ee855!8m2!3d25.5557777!4d84.6555768!16s%2Fg%2F11dzlbm9x4!19sChIJQ9J8V3pfjTkRVeieHZCmLVk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sishu+Kalyan+Kendra/data=!4m7!3m6!1s0x398d5f7a577cd243:0x592da6901d9ee855!8m2!3d25.5557777!4d84.6555768!16s%2Fg%2F11dzlbm9x4!19sChIJQ9J8V3pfjTkRVeieHZCmLVk?authuser=0&hl=en&rclk=1"
@@ -10246,7 +10332,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sishu+Kalyan+Kendra/data=!4m7!3m6!1s0x398d5f7a577cd243:0x592da6901d9ee855!8m2!3d25.5557777!4d84.6555768!16s%2Fg%2F11dzlbm9x4!19sChIJQ9J8V3pfjTkRVeieHZCmLVk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smile-dental-and-face-hospital-arrah",
@@ -10294,7 +10381,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Smile+dental+and+face+hospital/data=!4m7!3m6!1s0x398d5f640c5085c1:0x6381e87aee403447!8m2!3d25.560275!4d84.6658729!16s%2Fg%2F11b6gqrrj6!19sChIJwYVQDGRfjTkRRzRA7nrogWM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+dental+and+face+hospital/data=!4m7!3m6!1s0x398d5f640c5085c1:0x6381e87aee403447!8m2!3d25.560275!4d84.6658729!16s%2Fg%2F11b6gqrrj6!19sChIJwYVQDGRfjTkRRzRA7nrogWM?authuser=0&hl=en&rclk=1"
@@ -10363,7 +10450,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+dental+and+face+hospital/data=!4m7!3m6!1s0x398d5f640c5085c1:0x6381e87aee403447!8m2!3d25.560275!4d84.6658729!16s%2Fg%2F11b6gqrrj6!19sChIJwYVQDGRfjTkRRzRA7nrogWM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smriti-ivf-and-fertility-centre-patna",
@@ -10414,7 +10502,7 @@
       "45+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SMRITI+IVF+%26+Fertility+Centre/data=!4m7!3m6!1s0x39ed59f5f34089f9:0x31825e85428c1a6e!8m2!3d25.6166766!4d85.0450876!16s%2Fg%2F11gl0j9c4n!19sChIJ-YlA8_VZ7TkRbhqMQoVegjE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMRITI+IVF+%26+Fertility+Centre/data=!4m7!3m6!1s0x39ed59f5f34089f9:0x31825e85428c1a6e!8m2!3d25.6166766!4d85.0450876!16s%2Fg%2F11gl0j9c4n!19sChIJ-YlA8_VZ7TkRbhqMQoVegjE?authuser=0&hl=en&rclk=1"
@@ -10483,7 +10571,8 @@
     "rating": 4.9,
     "reviews": 45,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SMRITI+IVF+%26+Fertility+Centre/data=!4m7!3m6!1s0x39ed59f5f34089f9:0x31825e85428c1a6e!8m2!3d25.6166766!4d85.0450876!16s%2Fg%2F11gl0j9c4n!19sChIJ-YlA8_VZ7TkRbhqMQoVegjE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-niwas-memorial-hospital-arrah",
@@ -10531,7 +10620,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Niwas+Memorial+Hospital/data=!4m7!3m6!1s0x398d5f60cdbffa85:0x251f34d4fe652759!8m2!3d25.5603047!4d84.6669403!16s%2Fg%2F11c0q11t71!19sChIJhfq_zWBfjTkRWSdl_tQ0HyU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Niwas+Memorial+Hospital/data=!4m7!3m6!1s0x398d5f60cdbffa85:0x251f34d4fe652759!8m2!3d25.5603047!4d84.6669403!16s%2Fg%2F11c0q11t71!19sChIJhfq_zWBfjTkRWSdl_tQ0HyU?authuser=0&hl=en&rclk=1"
@@ -10597,10 +10686,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Niwas+Memorial+Hospital/data=!4m7!3m6!1s0x398d5f60cdbffa85:0x251f34d4fe652759!8m2!3d25.5603047!4d84.6669403!16s%2Fg%2F11c0q11t71!19sChIJhfq_zWBfjTkRWSdl_tQ0HyU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sunilam-hospital-arrah-sadar-branch-best-icu-care-best-emergency-hospital-24x7-emergency-care-arrah",
@@ -10648,7 +10738,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/SUNILAM+HOSPITAL+%7C+ARRAH+Sadar+BRANCH+%7C+Best+ICU+Care+%7C+Best+Emergency+Hospital+%7C+24x7+Emergency+Care/data=!4m7!3m6!1s0x398d5f6478d6059d:0x38baba2cc17ca4c9!8m2!3d25.5576501!4d84.6601538!16s%2Fg%2F11f0_fw824!19sChIJnQXWeGRfjTkRyaR8wSy6ujg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUNILAM+HOSPITAL+%7C+ARRAH+Sadar+BRANCH+%7C+Best+ICU+Care+%7C+Best+Emergency+Hospital+%7C+24x7+Emergency+Care/data=!4m7!3m6!1s0x398d5f6478d6059d:0x38baba2cc17ca4c9!8m2!3d25.5576501!4d84.6601538!16s%2Fg%2F11f0_fw824!19sChIJnQXWeGRfjTkRyaR8wSy6ujg?authuser=0&hl=en&rclk=1"
@@ -10717,7 +10807,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SUNILAM+HOSPITAL+%7C+ARRAH+Sadar+BRANCH+%7C+Best+ICU+Care+%7C+Best+Emergency+Hospital+%7C+24x7+Emergency+Care/data=!4m7!3m6!1s0x398d5f6478d6059d:0x38baba2cc17ca4c9!8m2!3d25.5576501!4d84.6601538!16s%2Fg%2F11f0_fw824!19sChIJnQXWeGRfjTkRyaR8wSy6ujg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "swami-medical-hall-arrah",
@@ -10766,7 +10857,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Swami+Medical+Hall/@25.5593651,84.671068,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5f5dc56a8007:0x3e863097a58a9e18!8m2!3d25.5593651!4d84.671068!16s%2Fg%2F1vj5ymj_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swami+Medical+Hall/@25.5593651,84.671068,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5f5dc56a8007:0x3e863097a58a9e18!8m2!3d25.5593651!4d84.671068!16s%2Fg%2F1vj5ymj_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
@@ -10835,7 +10926,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swami+Medical+Hall/@25.5593651,84.671068,17z/data=!3m1!4b1!4m6!3m5!1s0x398d5f5dc56a8007:0x3e863097a58a9e18!8m2!3d25.5593651!4d84.671068!16s%2Fg%2F1vj5ymj_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swati-oral-and-dental-care-centre-arrah",
@@ -10883,7 +10975,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Swati+Oral+And+Dental+Care+Centre/data=!4m7!3m6!1s0x398d5f0007b29ceb:0xa21253719f583e7f!8m2!3d25.5544325!4d84.6560849!16s%2Fg%2F11wmw3qxb7!19sChIJ65yyBwBfjTkRfz5Yn3FTEqI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swati+Oral+And+Dental+Care+Centre/data=!4m7!3m6!1s0x398d5f0007b29ceb:0xa21253719f583e7f!8m2!3d25.5544325!4d84.6560849!16s%2Fg%2F11wmw3qxb7!19sChIJ65yyBwBfjTkRfz5Yn3FTEqI?authuser=0&hl=en&rclk=1"
@@ -10949,10 +11041,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swati+Oral+And+Dental+Care+Centre/data=!4m7!3m6!1s0x398d5f0007b29ceb:0xa21253719f583e7f!8m2!3d25.5544325!4d84.6560849!16s%2Fg%2F11wmw3qxb7!19sChIJ65yyBwBfjTkRfz5Yn3FTEqI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-gariahat-kidney-care-centre-kolkata",
@@ -11001,7 +11094,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/The+Gariahat+Kidney+Care+Centre/data=!4m7!3m6!1s0x3a0276d36732d7df:0x579604391f441b72!8m2!3d22.5181153!4d88.3677804!16s%2Fg%2F11c55ryfrg!19sChIJ39cyZ9N2AjoRchtEHzkEllc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Gariahat+Kidney+Care+Centre/data=!4m7!3m6!1s0x3a0276d36732d7df:0x579604391f441b72!8m2!3d22.5181153!4d88.3677804!16s%2Fg%2F11c55ryfrg!19sChIJ39cyZ9N2AjoRchtEHzkEllc?authuser=0&hl=en&rclk=1"
@@ -11070,7 +11163,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Gariahat+Kidney+Care+Centre/data=!4m7!3m6!1s0x3a0276d36732d7df:0x579604391f441b72!8m2!3d22.5181153!4d88.3677804!16s%2Fg%2F11c55ryfrg!19sChIJ39cyZ9N2AjoRchtEHzkEllc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -11120,7 +11214,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
@@ -11186,10 +11280,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-medicus-healthcare-tmch-arrah",
@@ -11237,7 +11332,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Medicus+healthcare+%28TMCH%29/data=!4m7!3m6!1s0x398d5fcf77223721:0x5c489d322896c7e1!8m2!3d25.554135!4d84.6580911!16s%2Fg%2F11rsr2jm4k!19sChIJITcid89fjTkR4ceWKDKdSFw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Medicus+healthcare+%28TMCH%29/data=!4m7!3m6!1s0x398d5fcf77223721:0x5c489d322896c7e1!8m2!3d25.554135!4d84.6580911!16s%2Fg%2F11rsr2jm4k!19sChIJITcid89fjTkR4ceWKDKdSFw?authuser=0&hl=en&rclk=1"
@@ -11303,10 +11398,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Medicus+healthcare+%28TMCH%29/data=!4m7!3m6!1s0x398d5fcf77223721:0x5c489d322896c7e1!8m2!3d25.554135!4d84.6580911!16s%2Fg%2F11rsr2jm4k!19sChIJITcid89fjTkR4ceWKDKdSFw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vageshwari-hospital-bageshwari-hospital-arrah",
@@ -11354,7 +11450,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vageshwari+Hospital+%28Bageshwari+hospital%29/data=!4m7!3m6!1s0x3992a18d9370e23b:0x8004b379ee15b93a!8m2!3d25.566601!4d84.6660255!16s%2Fg%2F11wtqdfvb3!19sChIJO-Jwk42hkjkROrkV7nmzBIA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vageshwari+Hospital+%28Bageshwari+hospital%29/data=!4m7!3m6!1s0x3992a18d9370e23b:0x8004b379ee15b93a!8m2!3d25.566601!4d84.6660255!16s%2Fg%2F11wtqdfvb3!19sChIJO-Jwk42hkjkROrkV7nmzBIA?authuser=0&hl=en&rclk=1"
@@ -11420,10 +11516,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vageshwari+Hospital+%28Bageshwari+hospital%29/data=!4m7!3m6!1s0x3992a18d9370e23b:0x8004b379ee15b93a!8m2!3d25.566601!4d84.6660255!16s%2Fg%2F11wtqdfvb3!19sChIJO-Jwk42hkjkROrkV7nmzBIA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vardaan-hospital-arrah",
@@ -11471,7 +11568,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vardaan+Hospital/data=!4m7!3m6!1s0x398d5f03d1fab915:0xb1bc7e1328f2aaee!8m2!3d25.5511919!4d84.6535207!16s%2Fg%2F11wnp2bqsv!19sChIJFbn60QNfjTkR7qryKBN-vLE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardaan+Hospital/data=!4m7!3m6!1s0x398d5f03d1fab915:0xb1bc7e1328f2aaee!8m2!3d25.5511919!4d84.6535207!16s%2Fg%2F11wnp2bqsv!19sChIJFbn60QNfjTkR7qryKBN-vLE?authuser=0&hl=en&rclk=1"
@@ -11537,10 +11634,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vardaan+Hospital/data=!4m7!3m6!1s0x398d5f03d1fab915:0xb1bc7e1328f2aaee!8m2!3d25.5511919!4d84.6535207!16s%2Fg%2F11wnp2bqsv!19sChIJFbn60QNfjTkR7qryKBN-vLE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vishwaraj-hospital-arrah",
@@ -11590,7 +11688,7 @@
       "1+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vishwaraj+Hospital/data=!4m7!3m6!1s0x398d5f001e2a35cd:0x17882a33df9dfc05!8m2!3d25.5570376!4d84.6676544!16s%2Fg%2F11ybcrctxc!19sChIJzTUqHgBfjTkRBfyd3zMqiBc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishwaraj+Hospital/data=!4m7!3m6!1s0x398d5f001e2a35cd:0x17882a33df9dfc05!8m2!3d25.5570376!4d84.6676544!16s%2Fg%2F11ybcrctxc!19sChIJzTUqHgBfjTkRBfyd3zMqiBc?authuser=0&hl=en&rclk=1"
@@ -11656,10 +11754,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vishwaraj+Hospital/data=!4m7!3m6!1s0x398d5f001e2a35cd:0x17882a33df9dfc05!8m2!3d25.5570376!4d84.6676544!16s%2Fg%2F11ybcrctxc!19sChIJzTUqHgBfjTkRBfyd3zMqiBc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vivekananda-yadav-clinic-and-hospital-arrah",
@@ -11707,7 +11806,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Vivekananda+Yadav+Clinic+And+Hospital/data=!4m7!3m6!1s0x398d5f60d22a5d0d:0xbf12a9e8f5ec4b17!8m2!3d25.5603462!4d84.6669118!16s%2Fg%2F1td3dfjb!19sChIJDV0q0mBfjTkRF0vs9eipEr8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vivekananda+Yadav+Clinic+And+Hospital/data=!4m7!3m6!1s0x398d5f60d22a5d0d:0xbf12a9e8f5ec4b17!8m2!3d25.5603462!4d84.6669118!16s%2Fg%2F1td3dfjb!19sChIJDV0q0mBfjTkRF0vs9eipEr8?authuser=0&hl=en&rclk=1"
@@ -11776,7 +11875,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vivekananda+Yadav+Clinic+And+Hospital/data=!4m7!3m6!1s0x398d5f60d22a5d0d:0xbf12a9e8f5ec4b17!8m2!3d25.5603462!4d84.6669118!16s%2Fg%2F1td3dfjb!19sChIJDV0q0mBfjTkRF0vs9eipEr8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "arrah",
@@ -11824,7 +11924,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF+%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8/data=!4m7!3m6!1s0x3992a16413e8d425:0x11c32ed8a3079543!8m2!3d25.5678493!4d84.6702353!16s%2Fg%2F11fmv9pnwz!19sChIJJdToE2ShkjkRQ5UHo9guwxE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF+%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8/data=!4m7!3m6!1s0x3992a16413e8d425:0x11c32ed8a3079543!8m2!3d25.5678493!4d84.6702353!16s%2Fg%2F11fmv9pnwz!19sChIJJdToE2ShkjkRQ5UHo9guwxE?authuser=0&hl=en&rclk=1"
@@ -11893,6 +11993,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%BE%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF+%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8/data=!4m7!3m6!1s0x3992a16413e8d425:0x11c32ed8a3079543!8m2!3d25.5678493!4d84.6702353!16s%2Fg%2F11fmv9pnwz!19sChIJJdToE2ShkjkRQ5UHo9guwxE?authuser=0&hl=en&rclk=1"
   }
 ]

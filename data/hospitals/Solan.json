@@ -46,7 +46,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/A-1+Hair+Transplant-3/data=!4m7!3m6!1s0x390f810de78fe41d:0x4cfe490ccef392e6!8m2!3d30.9067262!4d77.1027115!16s%2Fg%2F11spxfzf8v!19sChIJHeSP5w2BDzkR5pLzzgxJ_kw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A-1+Hair+Transplant-3/data=!4m7!3m6!1s0x390f810de78fe41d:0x4cfe490ccef392e6!8m2!3d30.9067262!4d77.1027115!16s%2Fg%2F11spxfzf8v!19sChIJHeSP5w2BDzkR5pLzzgxJ_kw?authuser=0&hl=en&rclk=1"
@@ -112,10 +112,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A-1+Hair+Transplant-3/data=!4m7!3m6!1s0x390f810de78fe41d:0x4cfe490ccef392e6!8m2!3d30.9067262!4d77.1027115!16s%2Fg%2F11spxfzf8v!19sChIJHeSP5w2BDzkR5pLzzgxJ_kw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aashakiran-ivf-sahibzada-ajit-singh-nagar",
@@ -165,7 +166,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AASHAKIRAN+IVF/data=!4m7!3m6!1s0x390fefe5c280db85:0x493b909e6564bba0!8m2!3d30.7425932!4d76.6575046!16s%2Fg%2F11clvyys80!19sChIJhduAwuXvDzkRoLtkZZ6QO0k?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AASHAKIRAN+IVF/data=!4m7!3m6!1s0x390fefe5c280db85:0x493b909e6564bba0!8m2!3d30.7425932!4d76.6575046!16s%2Fg%2F11clvyys80!19sChIJhduAwuXvDzkRoLtkZZ6QO0k?authuser=0&hl=en&rclk=1"
@@ -234,7 +235,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AASHAKIRAN+IVF/data=!4m7!3m6!1s0x390fefe5c280db85:0x493b909e6564bba0!8m2!3d30.7425932!4d76.6575046!16s%2Fg%2F11clvyys80!19sChIJhduAwuXvDzkRoLtkZZ6QO0k?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aastha-hospital-solan",
@@ -282,7 +284,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Aastha+Hospital/data=!4m7!3m6!1s0x390f86b400000001:0x50a37a5c8fa90c39!8m2!3d30.9044922!4d77.0967472!16s%2Fg%2F11gb3qynb_!19sChIJAQAAALSGDzkROQypj1x6o1A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+Hospital/data=!4m7!3m6!1s0x390f86b400000001:0x50a37a5c8fa90c39!8m2!3d30.9044922!4d77.0967472!16s%2Fg%2F11gb3qynb_!19sChIJAQAAALSGDzkROQypj1x6o1A?authuser=0&hl=en&rclk=1"
@@ -351,7 +353,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aastha+Hospital/data=!4m7!3m6!1s0x390f86b400000001:0x50a37a5c8fa90c39!8m2!3d30.9044922!4d77.0967472!16s%2Fg%2F11gb3qynb_!19sChIJAQAAALSGDzkROQypj1x6o1A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aastha-hospital-and-surgical-centre-solan",
@@ -399,7 +402,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Aastha+Hospital+and+Surgical+Centre/data=!4m7!3m6!1s0x390f87ed02af8d1d:0xe224c92f2dec49b3!8m2!3d30.9005475!4d77.09175!16s%2Fg%2F11h12rdjkd!19sChIJHY2vAu2HDzkRs0nsLS_JJOI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+Hospital+and+Surgical+Centre/data=!4m7!3m6!1s0x390f87ed02af8d1d:0xe224c92f2dec49b3!8m2!3d30.9005475!4d77.09175!16s%2Fg%2F11h12rdjkd!19sChIJHY2vAu2HDzkRs0nsLS_JJOI?authuser=0&hl=en&rclk=1"
@@ -468,7 +471,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aastha+Hospital+and+Surgical+Centre/data=!4m7!3m6!1s0x390f87ed02af8d1d:0xe224c92f2dec49b3!8m2!3d30.9005475!4d77.09175!16s%2Fg%2F11h12rdjkd!19sChIJHY2vAu2HDzkRs0nsLS_JJOI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "abhinam-eye-care-and-retina-care-center-solan-solan",
@@ -518,7 +522,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Abhinam+Eye+Care+%26+Retina+Care+Center+Solan/data=!4m7!3m6!1s0x390f814d55a671cb:0x605b2a3feb3e3d2!8m2!3d30.8966467!4d77.1033608!16s%2Fg%2F11c0rvs5qt!19sChIJy3GmVU2BDzkR0uOz_qOyBQY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Abhinam+Eye+Care+%26+Retina+Care+Center+Solan/data=!4m7!3m6!1s0x390f814d55a671cb:0x605b2a3feb3e3d2!8m2!3d30.8966467!4d77.1033608!16s%2Fg%2F11c0rvs5qt!19sChIJy3GmVU2BDzkR0uOz_qOyBQY?authuser=0&hl=en&rclk=1"
@@ -587,7 +591,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Abhinam+Eye+Care+%26+Retina+Care+Center+Solan/data=!4m7!3m6!1s0x390f814d55a671cb:0x605b2a3feb3e3d2!8m2!3d30.8966467!4d77.1033608!16s%2Fg%2F11c0rvs5qt!19sChIJy3GmVU2BDzkR0uOz_qOyBQY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "advance-hair-transplant-clinic-solan",
@@ -636,7 +641,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Advance+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x390f86a8b2198fe1:0x139c4e4b156c7473!8m2!3d30.8923851!4d77.0917705!16s%2Fg%2F11ggr4wyzq!19sChIJ4Y8ZsqiGDzkRc3RsFUtOnBM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advance+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x390f86a8b2198fe1:0x139c4e4b156c7473!8m2!3d30.8923851!4d77.0917705!16s%2Fg%2F11ggr4wyzq!19sChIJ4Y8ZsqiGDzkRc3RsFUtOnBM?authuser=0&hl=en&rclk=1"
@@ -702,10 +707,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advance+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x390f86a8b2198fe1:0x139c4e4b156c7473!8m2!3d30.8923851!4d77.0917705!16s%2Fg%2F11ggr4wyzq!19sChIJ4Y8ZsqiGDzkRc3RsFUtOnBM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apex-diagnostics-mri-ct-in-solan-diagnostic-center-hospital-in-solan-himachal-pradesh-solan",
@@ -755,7 +761,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apex+Diagnostics+%7C+MRI+CT+in+Solan+%7CDiagnostic+center+Hospital+in+Solan,+Himachal+Pradesh/data=!4m7!3m6!1s0x390f814946e45ae7:0x1e52569405c5b8a6!8m2!3d30.9065841!4d77.1096622!16s%2Fg%2F11cmzngdkf!19sChIJ51rkRkmBDzkRprjFBZRWUh4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Diagnostics+%7C+MRI+CT+in+Solan+%7CDiagnostic+center+Hospital+in+Solan,+Himachal+Pradesh/data=!4m7!3m6!1s0x390f814946e45ae7:0x1e52569405c5b8a6!8m2!3d30.9065841!4d77.1096622!16s%2Fg%2F11cmzngdkf!19sChIJ51rkRkmBDzkRprjFBZRWUh4?authuser=0&hl=en&rclk=1"
@@ -824,7 +830,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+Diagnostics+%7C+MRI+CT+in+Solan+%7CDiagnostic+center+Hospital+in+Solan,+Himachal+Pradesh/data=!4m7!3m6!1s0x390f814946e45ae7:0x1e52569405c5b8a6!8m2!3d30.9065841!4d77.1096622!16s%2Fg%2F11cmzngdkf!19sChIJ51rkRkmBDzkRprjFBZRWUh4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bansal-s-smile-care-solan",
@@ -872,7 +879,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Bansal%27s+Smile+Care/data=!4m7!3m6!1s0x390f86b5ce620595:0x1ef3b0625f8a0b16!8m2!3d30.907781!4d77.0974559!16s%2Fg%2F11b81s084j!19sChIJlQVizrWGDzkRFguKX2Kw8x4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bansal%27s+Smile+Care/data=!4m7!3m6!1s0x390f86b5ce620595:0x1ef3b0625f8a0b16!8m2!3d30.907781!4d77.0974559!16s%2Fg%2F11b81s084j!19sChIJlQVizrWGDzkRFguKX2Kw8x4?authuser=0&hl=en&rclk=1"
@@ -941,7 +948,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bansal%27s+Smile+Care/data=!4m7!3m6!1s0x390f86b5ce620595:0x1ef3b0625f8a0b16!8m2!3d30.907781!4d77.0974559!16s%2Fg%2F11b81s084j!19sChIJlQVizrWGDzkRFguKX2Kw8x4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bedi-ivf-and-infertility-opd-centre-solan-best-infertility-and-test-tube-baby-centre-shimla-himachal-pardesh-solan",
@@ -991,7 +999,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bedi+IVF+%26+Infertility+OPD+Centre,+Solan+%28Best+Infertility+%26+Test+Tube+Baby+Centre+Shimla,+Himachal+Pardesh%29/data=!4m7!3m6!1s0x390f8129d41f772f:0x1d59b3997fcae5b3!8m2!3d30.906944!4d77.109159!16s%2Fg%2F11g10nmr29!19sChIJL3cf1CmBDzkRs-XKf5mzWR0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bedi+IVF+%26+Infertility+OPD+Centre,+Solan+%28Best+Infertility+%26+Test+Tube+Baby+Centre+Shimla,+Himachal+Pardesh%29/data=!4m7!3m6!1s0x390f8129d41f772f:0x1d59b3997fcae5b3!8m2!3d30.906944!4d77.109159!16s%2Fg%2F11g10nmr29!19sChIJL3cf1CmBDzkRs-XKf5mzWR0?authuser=0&hl=en&rclk=1"
@@ -1057,10 +1065,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bedi+IVF+%26+Infertility+OPD+Centre,+Solan+%28Best+Infertility+%26+Test+Tube+Baby+Centre+Shimla,+Himachal+Pardesh%29/data=!4m7!3m6!1s0x390f8129d41f772f:0x1d59b3997fcae5b3!8m2!3d30.906944!4d77.109159!16s%2Fg%2F11g10nmr29!19sChIJL3cf1CmBDzkRs-XKf5mzWR0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bhalla-dental-clinic-solan",
@@ -1109,7 +1118,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhalla+Dental+Clinic/data=!4m7!3m6!1s0x390f875f32627627:0x7a0f60fae450eb82!8m2!3d30.9083721!4d77.0954657!16s%2Fg%2F11wh56w562!19sChIJJ3ZiMl-HDzkRgutQ5PpgD3o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhalla+Dental+Clinic/data=!4m7!3m6!1s0x390f875f32627627:0x7a0f60fae450eb82!8m2!3d30.9083721!4d77.0954657!16s%2Fg%2F11wh56w562!19sChIJJ3ZiMl-HDzkRgutQ5PpgD3o?authuser=0&hl=en&rclk=1"
@@ -1175,10 +1184,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhalla+Dental+Clinic/data=!4m7!3m6!1s0x390f875f32627627:0x7a0f60fae450eb82!8m2!3d30.9083721!4d77.0954657!16s%2Fg%2F11wh56w562!19sChIJJ3ZiMl-HDzkRgutQ5PpgD3o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bhardwaj-dental-clinic-solan",
@@ -1226,7 +1236,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Bhardwaj+Dental+Clinic/data=!4m7!3m6!1s0x390f814b1b856c71:0xe115bf6922ce2006!8m2!3d30.9077757!4d77.1043413!16s%2Fg%2F11b821fxl4!19sChIJcWyFG0uBDzkRBiDOImm_FeE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhardwaj+Dental+Clinic/data=!4m7!3m6!1s0x390f814b1b856c71:0xe115bf6922ce2006!8m2!3d30.9077757!4d77.1043413!16s%2Fg%2F11b821fxl4!19sChIJcWyFG0uBDzkRBiDOImm_FeE?authuser=0&hl=en&rclk=1"
@@ -1295,7 +1305,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhardwaj+Dental+Clinic/data=!4m7!3m6!1s0x390f814b1b856c71:0xe115bf6922ce2006!8m2!3d30.9077757!4d77.1043413!16s%2Fg%2F11b821fxl4!19sChIJcWyFG0uBDzkRBiDOImm_FeE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cipaca-jp-hospital-24-hrs-emergency-and-icu-hospital-solan",
@@ -1344,7 +1355,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CIPACA+-+JP+HOSPITAL+-+24+Hrs+Emergency+%26+ICU+Hospital/data=!4m7!3m6!1s0x390f819098d76291:0xb43d8deab39c23b1!8m2!3d30.9065552!4d77.1082892!16s%2Fg%2F11tmnw7dzs!19sChIJkWLXmJCBDzkRsSOcs-qNPbQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CIPACA+-+JP+HOSPITAL+-+24+Hrs+Emergency+%26+ICU+Hospital/data=!4m7!3m6!1s0x390f819098d76291:0xb43d8deab39c23b1!8m2!3d30.9065552!4d77.1082892!16s%2Fg%2F11tmnw7dzs!19sChIJkWLXmJCBDzkRsSOcs-qNPbQ?authuser=0&hl=en&rclk=1"
@@ -1410,10 +1421,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CIPACA+-+JP+HOSPITAL+-+24+Hrs+Emergency+%26+ICU+Hospital/data=!4m7!3m6!1s0x390f819098d76291:0xb43d8deab39c23b1!8m2!3d30.9065552!4d77.1082892!16s%2Fg%2F11tmnw7dzs!19sChIJkWLXmJCBDzkRsSOcs-qNPbQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "city-hospital-solan",
@@ -1461,7 +1473,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/City+hospital/data=!4m7!3m6!1s0x390f814b348e5177:0x6b57d44b0a57ae90!8m2!3d30.9067382!4d77.1026495!16s%2Fg%2F11bbrj6k9b!19sChIJd1GONEuBDzkRkK5XCkvUV2s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+hospital/data=!4m7!3m6!1s0x390f814b348e5177:0x6b57d44b0a57ae90!8m2!3d30.9067382!4d77.1026495!16s%2Fg%2F11bbrj6k9b!19sChIJd1GONEuBDzkRkK5XCkvUV2s?authuser=0&hl=en&rclk=1"
@@ -1530,7 +1542,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+hospital/data=!4m7!3m6!1s0x390f814b348e5177:0x6b57d44b0a57ae90!8m2!3d30.9067382!4d77.1026495!16s%2Fg%2F11bbrj6k9b!19sChIJd1GONEuBDzkRkK5XCkvUV2s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cloudnine-fertility-and-ivf-clinic-at-apex-solan-solan",
@@ -1580,7 +1593,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Cloudnine+Fertility+%26+IVF+Clinic+at+Apex+,+Solan/data=!4m7!3m6!1s0x390f81f0779622c9:0x4a59bb6e76ea9b94!8m2!3d30.9066265!4d77.1100273!16s%2Fg%2F11syct8lfx!19sChIJySKWd_CBDzkRlJvqdm67WUo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cloudnine+Fertility+%26+IVF+Clinic+at+Apex+,+Solan/data=!4m7!3m6!1s0x390f81f0779622c9:0x4a59bb6e76ea9b94!8m2!3d30.9066265!4d77.1100273!16s%2Fg%2F11syct8lfx!19sChIJySKWd_CBDzkRlJvqdm67WUo?authuser=0&hl=en&rclk=1"
@@ -1646,10 +1659,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cloudnine+Fertility+%26+IVF+Clinic+at+Apex+,+Solan/data=!4m7!3m6!1s0x390f81f0779622c9:0x4a59bb6e76ea9b94!8m2!3d30.9066265!4d77.1100273!16s%2Fg%2F11syct8lfx!19sChIJySKWd_CBDzkRlJvqdm67WUo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "deep-dental-care-centre-solan",
@@ -1697,7 +1711,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Deep+Dental+Care+Centre/data=!4m7!3m6!1s0x390f814b91c44223:0x66e479aac9b1ef91!8m2!3d30.9063212!4d77.1061147!16s%2Fg%2F11b824csc4!19sChIJI0LEkUuBDzkRke-xyap55GY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deep+Dental+Care+Centre/data=!4m7!3m6!1s0x390f814b91c44223:0x66e479aac9b1ef91!8m2!3d30.9063212!4d77.1061147!16s%2Fg%2F11b824csc4!19sChIJI0LEkUuBDzkRke-xyap55GY?authuser=0&hl=en&rclk=1"
@@ -1766,7 +1780,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deep+Dental+Care+Centre/data=!4m7!3m6!1s0x390f814b91c44223:0x66e479aac9b1ef91!8m2!3d30.9063212!4d77.1061147!16s%2Fg%2F11b824csc4!19sChIJI0LEkUuBDzkRke-xyap55GY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "government-regional-hospital-solan-solan",
@@ -1814,7 +1829,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Government+Regional+Hospital,+Solan/data=!4m7!3m6!1s0x390f86b5ff6ccaa1:0x378a48552a512934!8m2!3d30.9073856!4d77.1068325!16s%2Fg%2F11cs3bl1jb!19sChIJocps_7WGDzkRNClRKlVIijc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Regional+Hospital,+Solan/data=!4m7!3m6!1s0x390f86b5ff6ccaa1:0x378a48552a512934!8m2!3d30.9073856!4d77.1068325!16s%2Fg%2F11cs3bl1jb!19sChIJocps_7WGDzkRNClRKlVIijc?authuser=0&hl=en&rclk=1"
@@ -1880,10 +1895,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Regional+Hospital,+Solan/data=!4m7!3m6!1s0x390f86b5ff6ccaa1:0x378a48552a512934!8m2!3d30.9073856!4d77.1068325!16s%2Fg%2F11cs3bl1jb!19sChIJocps_7WGDzkRNClRKlVIijc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "healthy-smile-dental-clinic-opposite-netaji-park",
@@ -1931,7 +1947,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic/data=!4m7!3m6!1s0x390f810dc7ae11c9:0x48dc1d14e70cd314!8m2!3d30.9066941!4d77.1094946!16s%2Fg%2F11bv2lcz0k!19sChIJyRGuxw2BDzkRFNMM5xQd3Eg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic/data=!4m7!3m6!1s0x390f810dc7ae11c9:0x48dc1d14e70cd314!8m2!3d30.9066941!4d77.1094946!16s%2Fg%2F11bv2lcz0k!19sChIJyRGuxw2BDzkRFNMM5xQd3Eg?authuser=0&hl=en&rclk=1"
@@ -2000,7 +2016,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic/data=!4m7!3m6!1s0x390f810dc7ae11c9:0x48dc1d14e70cd314!8m2!3d30.9066941!4d77.1094946!16s%2Fg%2F11bv2lcz0k!19sChIJyRGuxw2BDzkRFNMM5xQd3Eg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jeevan-ayurveda-kasauli",
@@ -2049,7 +2066,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Ayurveda/data=!4m7!3m6!1s0x390f861700bc332b:0xc1498c4e1d426de7!8m2!3d30.8966496!4d77.0265771!16s%2Fg%2F11v5g2x3b3!19sChIJKzO8ABeGDzkR521CHU6MScE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Ayurveda/data=!4m7!3m6!1s0x390f861700bc332b:0xc1498c4e1d426de7!8m2!3d30.8966496!4d77.0265771!16s%2Fg%2F11v5g2x3b3!19sChIJKzO8ABeGDzkR521CHU6MScE?authuser=0&hl=en&rclk=1"
@@ -2118,7 +2135,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Ayurveda/data=!4m7!3m6!1s0x390f861700bc332b:0xc1498c4e1d426de7!8m2!3d30.8966496!4d77.0265771!16s%2Fg%2F11v5g2x3b3!19sChIJKzO8ABeGDzkR521CHU6MScE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jl-dental-clinic-solan",
@@ -2167,7 +2185,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/JL+Dental+Clinic/data=!4m7!3m6!1s0x390f87e5c1250d27:0xf34b3541b2cc6f43!8m2!3d30.9077584!4d77.1010641!16s%2Fg%2F11y3tyhzq9!19sChIJJw0lweWHDzkRQ2_MskE1S_M?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JL+Dental+Clinic/data=!4m7!3m6!1s0x390f87e5c1250d27:0xf34b3541b2cc6f43!8m2!3d30.9077584!4d77.1010641!16s%2Fg%2F11y3tyhzq9!19sChIJJw0lweWHDzkRQ2_MskE1S_M?authuser=0&hl=en&rclk=1"
@@ -2233,10 +2251,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JL+Dental+Clinic/data=!4m7!3m6!1s0x390f87e5c1250d27:0xf34b3541b2cc6f43!8m2!3d30.9077584!4d77.1010641!16s%2Fg%2F11y3tyhzq9!19sChIJJw0lweWHDzkRQ2_MskE1S_M?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jp-dental-white-clinic-solan",
@@ -2284,7 +2303,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/JP+Dental+White+Clinic/data=!4m7!3m6!1s0x390f814b5b93442b:0x64fbbaddf78d0a5f!8m2!3d30.9065771!4d77.1082894!16s%2Fg%2F11hs9rzcld!19sChIJK0STW0uBDzkRXwqN9926-2Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JP+Dental+White+Clinic/data=!4m7!3m6!1s0x390f814b5b93442b:0x64fbbaddf78d0a5f!8m2!3d30.9065771!4d77.1082894!16s%2Fg%2F11hs9rzcld!19sChIJK0STW0uBDzkRXwqN9926-2Q?authuser=0&hl=en&rclk=1"
@@ -2350,10 +2369,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JP+Dental+White+Clinic/data=!4m7!3m6!1s0x390f814b5b93442b:0x64fbbaddf78d0a5f!8m2!3d30.9065771!4d77.1082894!16s%2Fg%2F11hs9rzcld!19sChIJK0STW0uBDzkRXwqN9926-2Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jp-hospital-solan-solan",
@@ -2402,7 +2422,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/JP+Hospital+Solan/data=!4m7!3m6!1s0x390f8149589b6593:0x71f9a4d795927ba!8m2!3d30.90658!4d77.1083249!16s%2Fg%2F1q63ck9x6!19sChIJk2WbWEmBDzkRuidZeU2aHwc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JP+Hospital+Solan/data=!4m7!3m6!1s0x390f8149589b6593:0x71f9a4d795927ba!8m2!3d30.90658!4d77.1083249!16s%2Fg%2F1q63ck9x6!19sChIJk2WbWEmBDzkRuidZeU2aHwc?authuser=0&hl=en&rclk=1"
@@ -2471,7 +2491,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JP+Hospital+Solan/data=!4m7!3m6!1s0x390f8149589b6593:0x71f9a4d795927ba!8m2!3d30.90658!4d77.1083249!16s%2Fg%2F1q63ck9x6!19sChIJk2WbWEmBDzkRuidZeU2aHwc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kanwar-s-homoeocare-clinic-homoeopathic-clinic-solan",
@@ -2520,7 +2541,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Kanwar%27s+Homoeocare+Clinic+%28+Homoeopathic+Clinic%29/data=!4m7!3m6!1s0x390f85b66db1fb47:0x7899ade8fd0372e7!8m2!3d30.864718!4d77.087685!16s%2Fg%2F11vpy_gdtv!19sChIJR_uxbbaFDzkR53ID_eitmXg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kanwar%27s+Homoeocare+Clinic+%28+Homoeopathic+Clinic%29/data=!4m7!3m6!1s0x390f85b66db1fb47:0x7899ade8fd0372e7!8m2!3d30.864718!4d77.087685!16s%2Fg%2F11vpy_gdtv!19sChIJR_uxbbaFDzkR53ID_eitmXg?authuser=0&hl=en&rclk=1"
@@ -2589,7 +2610,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kanwar%27s+Homoeocare+Clinic+%28+Homoeopathic+Clinic%29/data=!4m7!3m6!1s0x390f85b66db1fb47:0x7899ade8fd0372e7!8m2!3d30.864718!4d77.087685!16s%2Fg%2F11vpy_gdtv!19sChIJR_uxbbaFDzkR53ID_eitmXg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kapoor-nursing-home-best-nursing-home-in-solan-solan",
@@ -2639,7 +2661,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kapoor+Nursing+Home-+Best+Nursing+Home+in+solan/data=!4m7!3m6!1s0x390f86ccb17e3e63:0x2dc9934adcdc29c4!8m2!3d30.9170642!4d77.1021579!16s%2Fg%2F11btxj83cl!19sChIJYz5-scyGDzkRxCnc3EqTyS0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kapoor+Nursing+Home-+Best+Nursing+Home+in+solan/data=!4m7!3m6!1s0x390f86ccb17e3e63:0x2dc9934adcdc29c4!8m2!3d30.9170642!4d77.1021579!16s%2Fg%2F11btxj83cl!19sChIJYz5-scyGDzkRxCnc3EqTyS0?authuser=0&hl=en&rclk=1"
@@ -2708,7 +2730,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kapoor+Nursing+Home-+Best+Nursing+Home+in+solan/data=!4m7!3m6!1s0x390f86ccb17e3e63:0x2dc9934adcdc29c4!8m2!3d30.9170642!4d77.1021579!16s%2Fg%2F11btxj83cl!19sChIJYz5-scyGDzkRxCnc3EqTyS0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "karan-singh-vaidh-solan",
@@ -2757,7 +2780,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KARAN+SINGH+VAIDH/data=!4m7!3m6!1s0x390f89cea1a75c47:0x1a68eda57c0d4c02!8m2!3d30.8959714!4d77.0929679!16s%2Fg%2F11kh5h7t6l!19sChIJR1ynoc6JDzkRAkwNfKXtaBo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KARAN+SINGH+VAIDH/data=!4m7!3m6!1s0x390f89cea1a75c47:0x1a68eda57c0d4c02!8m2!3d30.8959714!4d77.0929679!16s%2Fg%2F11kh5h7t6l!19sChIJR1ynoc6JDzkRAkwNfKXtaBo?authuser=0&hl=en&rclk=1"
@@ -2826,7 +2849,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KARAN+SINGH+VAIDH/data=!4m7!3m6!1s0x390f89cea1a75c47:0x1a68eda57c0d4c02!8m2!3d30.8959714!4d77.0929679!16s%2Fg%2F11kh5h7t6l!19sChIJR1ynoc6JDzkRAkwNfKXtaBo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maharishi-markandeshwar-university-kumarhatti-solan-solan",
@@ -2876,7 +2900,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Maharishi+Markandeshwar+University+kumarhatti+solan/data=!4m7!3m6!1s0x390f86b3de3c1d93:0xb483c4d6f3bc145b!8m2!3d30.8716554!4d77.0863233!16s%2Fg%2F11gdt_g4cp!19sChIJkx083rOGDzkRWxS889bEg7Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maharishi+Markandeshwar+University+kumarhatti+solan/data=!4m7!3m6!1s0x390f86b3de3c1d93:0xb483c4d6f3bc145b!8m2!3d30.8716554!4d77.0863233!16s%2Fg%2F11gdt_g4cp!19sChIJkx083rOGDzkRWxS889bEg7Q?authuser=0&hl=en&rclk=1"
@@ -2942,10 +2966,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maharishi+Markandeshwar+University+kumarhatti+solan/data=!4m7!3m6!1s0x390f86b3de3c1d93:0xb483c4d6f3bc145b!8m2!3d30.8716554!4d77.0863233!16s%2Fg%2F11gdt_g4cp!19sChIJkx083rOGDzkRWxS889bEg7Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maheshwar-dental-care-centre-kotlanala-chowk-hospital-road-hospital-road-walia-complex-shop-no-7",
@@ -2993,7 +3018,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Maheshwar+dental+care+centre/data=!4m7!3m6!1s0x390f811c5130757b:0xc54dbea1418a69a2!8m2!3d30.9060661!4d77.1083272!16s%2Fg%2F11n0dx88xw!19sChIJe3UwURyBDzkRommKQaG-TcU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maheshwar+dental+care+centre/data=!4m7!3m6!1s0x390f811c5130757b:0xc54dbea1418a69a2!8m2!3d30.9060661!4d77.1083272!16s%2Fg%2F11n0dx88xw!19sChIJe3UwURyBDzkRommKQaG-TcU?authuser=0&hl=en&rclk=1"
@@ -3062,7 +3087,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maheshwar+dental+care+centre/data=!4m7!3m6!1s0x390f811c5130757b:0xc54dbea1418a69a2!8m2!3d30.9060661!4d77.1083272!16s%2Fg%2F11n0dx88xw!19sChIJe3UwURyBDzkRommKQaG-TcU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "malan-nursing-home-solan",
@@ -3111,7 +3137,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Malan+Nursing+Home/data=!4m7!3m6!1s0x390f814bd0f0f395:0xb53b120a32e5955c!8m2!3d30.907837!4d77.107737!16s%2Fg%2F11bv2gz7n_!19sChIJlfPw0EuBDzkRXJXlMgoSO7U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malan+Nursing+Home/data=!4m7!3m6!1s0x390f814bd0f0f395:0xb53b120a32e5955c!8m2!3d30.907837!4d77.107737!16s%2Fg%2F11bv2gz7n_!19sChIJlfPw0EuBDzkRXJXlMgoSO7U?authuser=0&hl=en&rclk=1"
@@ -3180,7 +3206,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Malan+Nursing+Home/data=!4m7!3m6!1s0x390f814bd0f0f395:0xb53b120a32e5955c!8m2!3d30.907837!4d77.107737!16s%2Fg%2F11bv2gz7n_!19sChIJlfPw0EuBDzkRXJXlMgoSO7U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-nagali-barog",
@@ -3230,7 +3257,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Nagali/data=!4m7!3m6!1s0x390f87e643269cd5:0x3765c722706b740b!8m2!3d30.8922131!4d77.0782114!16s%2Fg%2F11mrchrmd9!19sChIJ1ZwmQ-aHDzkRC3RrcCLHZTc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Nagali/data=!4m7!3m6!1s0x390f87e643269cd5:0x3765c722706b740b!8m2!3d30.8922131!4d77.0782114!16s%2Fg%2F11mrchrmd9!19sChIJ1ZwmQ-aHDzkRC3RrcCLHZTc?authuser=0&hl=en&rclk=1"
@@ -3299,7 +3326,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Nagali/data=!4m7!3m6!1s0x390f87e643269cd5:0x3765c722706b740b!8m2!3d30.8922131!4d77.0782114!16s%2Fg%2F11mrchrmd9!19sChIJ1ZwmQ-aHDzkRC3RrcCLHZTc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "namah-dental-clinic-solan",
@@ -3347,7 +3375,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Namah+Dental+Clinic/data=!4m7!3m6!1s0x390f87f79cc091b1:0x712e3e894d0ff608!8m2!3d30.9073751!4d77.1016058!16s%2Fg%2F11vb410gzt!19sChIJsZHAnPeHDzkRCPYPTYk-LnE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Namah+Dental+Clinic/data=!4m7!3m6!1s0x390f87f79cc091b1:0x712e3e894d0ff608!8m2!3d30.9073751!4d77.1016058!16s%2Fg%2F11vb410gzt!19sChIJsZHAnPeHDzkRCPYPTYk-LnE?authuser=0&hl=en&rclk=1"
@@ -3413,10 +3441,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Namah+Dental+Clinic/data=!4m7!3m6!1s0x390f87f79cc091b1:0x712e3e894d0ff608!8m2!3d30.9073751!4d77.1016058!16s%2Fg%2F11vb410gzt!19sChIJsZHAnPeHDzkRCPYPTYk-LnE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nav-jeevan-nursing-home-solan",
@@ -3464,7 +3493,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Nav+Jeevan+Nursing+Home/data=!4m7!3m6!1s0x390f839524ef28ab:0xedf3db45f878b284!8m2!3d30.8878604!4d77.1160813!16s%2Fg%2F11h07fqhcc!19sChIJqyjvJJWDDzkRhLJ4-EXb8-0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nav+Jeevan+Nursing+Home/data=!4m7!3m6!1s0x390f839524ef28ab:0xedf3db45f878b284!8m2!3d30.8878604!4d77.1160813!16s%2Fg%2F11h07fqhcc!19sChIJqyjvJJWDDzkRhLJ4-EXb8-0?authuser=0&hl=en&rclk=1"
@@ -3533,7 +3562,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nav+Jeevan+Nursing+Home/data=!4m7!3m6!1s0x390f839524ef28ab:0xedf3db45f878b284!8m2!3d30.8878604!4d77.1160813!16s%2Fg%2F11h07fqhcc!19sChIJqyjvJJWDDzkRhLJ4-EXb8-0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nimbus-hospital-in-solan-himachal-pradesh-solan",
@@ -3582,7 +3612,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nimbus+Hospital+in+Solan+%28Himachal+Pradesh%29/data=!4m7!3m6!1s0x390f81dea65f68ab:0x82ce0482565300d3!8m2!3d30.9066801!4d77.1076141!16s%2Fg%2F11xmdlbswx!19sChIJq2hfpt6BDzkR0wBTVoIEzoI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nimbus+Hospital+in+Solan+%28Himachal+Pradesh%29/data=!4m7!3m6!1s0x390f81dea65f68ab:0x82ce0482565300d3!8m2!3d30.9066801!4d77.1076141!16s%2Fg%2F11xmdlbswx!19sChIJq2hfpt6BDzkR0wBTVoIEzoI?authuser=0&hl=en&rclk=1"
@@ -3648,10 +3678,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nimbus+Hospital+in+Solan+%28Himachal+Pradesh%29/data=!4m7!3m6!1s0x390f81dea65f68ab:0x82ce0482565300d3!8m2!3d30.9066801!4d77.1076141!16s%2Fg%2F11xmdlbswx!19sChIJq2hfpt6BDzkR0wBTVoIEzoI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nova-ivf-fertility-center-best-ivf-centre-in-uttam-kumar-sarani-kolkata-kolkata",
@@ -3701,7 +3732,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Uttam+Kumar+Sarani,+Kolkata/data=!4m7!3m6!1s0x3a027720bc0ff531:0x23d477a5ece22649!8m2!3d22.5437698!4d88.3533409!16s%2Fg%2F11j2dhp87g!19sChIJMfUPvCB3AjoRSSbi7KV31CM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Uttam+Kumar+Sarani,+Kolkata/data=!4m7!3m6!1s0x3a027720bc0ff531:0x23d477a5ece22649!8m2!3d22.5437698!4d88.3533409!16s%2Fg%2F11j2dhp87g!19sChIJMfUPvCB3AjoRSSbi7KV31CM?authuser=0&hl=en&rclk=1"
@@ -3770,7 +3801,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Uttam+Kumar+Sarani,+Kolkata/data=!4m7!3m6!1s0x3a027720bc0ff531:0x23d477a5ece22649!8m2!3d22.5437698!4d88.3533409!16s%2Fg%2F11j2dhp87g!19sChIJMfUPvCB3AjoRSSbi7KV31CM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "oberoi-dental-clinic-solan",
@@ -3818,7 +3850,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oberoi+Dental+Clinic/data=!4m7!3m6!1s0x390f814b983f7de7:0x45a9abbd3848aa72!8m2!3d30.908283!4d77.106239!16s%2Fg%2F11bv2ff84s!19sChIJ530_mEuBDzkRcqpIOL2rqUU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oberoi+Dental+Clinic/data=!4m7!3m6!1s0x390f814b983f7de7:0x45a9abbd3848aa72!8m2!3d30.908283!4d77.106239!16s%2Fg%2F11bv2ff84s!19sChIJ530_mEuBDzkRcqpIOL2rqUU?authuser=0&hl=en&rclk=1"
@@ -3884,10 +3916,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oberoi+Dental+Clinic/data=!4m7!3m6!1s0x390f814b983f7de7:0x45a9abbd3848aa72!8m2!3d30.908283!4d77.106239!16s%2Fg%2F11bv2ff84s!19sChIJ530_mEuBDzkRcqpIOL2rqUU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "panacea-urocare-solan",
@@ -3935,7 +3968,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Panacea,+Urocare/data=!4m7!3m6!1s0x390f8167f76d2569:0x3b5d8bc104e96912!8m2!3d30.9066001!4d77.1075669!16s%2Fg%2F11rzgsff1j!19sChIJaSVt92eBDzkREmnpBMGLXTs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Panacea,+Urocare/data=!4m7!3m6!1s0x390f8167f76d2569:0x3b5d8bc104e96912!8m2!3d30.9066001!4d77.1075669!16s%2Fg%2F11rzgsff1j!19sChIJaSVt92eBDzkREmnpBMGLXTs?authuser=0&hl=en&rclk=1"
@@ -4004,7 +4037,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Panacea,+Urocare/data=!4m7!3m6!1s0x390f8167f76d2569:0x3b5d8bc104e96912!8m2!3d30.9066001!4d77.1075669!16s%2Fg%2F11rzgsff1j!19sChIJaSVt92eBDzkREmnpBMGLXTs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "perfect-dental-care-solan",
@@ -4053,7 +4087,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Perfect+dental+care/data=!4m7!3m6!1s0x390f876225ffd73f:0x728657f3c5fa7405!8m2!3d30.9015949!4d77.0864343!16s%2Fg%2F11gmg5mq12!19sChIJP9f_JWKHDzkRBXT6xfNXhnI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Perfect+dental+care/data=!4m7!3m6!1s0x390f876225ffd73f:0x728657f3c5fa7405!8m2!3d30.9015949!4d77.0864343!16s%2Fg%2F11gmg5mq12!19sChIJP9f_JWKHDzkRBXT6xfNXhnI?authuser=0&hl=en&rclk=1"
@@ -4119,10 +4153,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Perfect+dental+care/data=!4m7!3m6!1s0x390f876225ffd73f:0x728657f3c5fa7405!8m2!3d30.9015949!4d77.0864343!16s%2Fg%2F11gmg5mq12!19sChIJP9f_JWKHDzkRBXT6xfNXhnI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ratyawal-dental-clinic-kunihar",
@@ -4170,7 +4205,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ratyawal+dental+clinic/data=!4m7!3m6!1s0x390565e9cfdb7a0d:0xde57a76216141f69!8m2!3d31.0795795!4d76.9614217!16s%2Fg%2F11pzrr1qp1!19sChIJDXrbz-llBTkRaR8UFmKnV94?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ratyawal+dental+clinic/data=!4m7!3m6!1s0x390565e9cfdb7a0d:0xde57a76216141f69!8m2!3d31.0795795!4d76.9614217!16s%2Fg%2F11pzrr1qp1!19sChIJDXrbz-llBTkRaR8UFmKnV94?authuser=0&hl=en&rclk=1"
@@ -4236,10 +4271,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ratyawal+dental+clinic/data=!4m7!3m6!1s0x390565e9cfdb7a0d:0xde57a76216141f69!8m2!3d31.0795795!4d76.9614217!16s%2Fg%2F11pzrr1qp1!19sChIJDXrbz-llBTkRaR8UFmKnV94?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "renew-you-skin-and-hair-clinic-solan",
@@ -4288,7 +4324,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Renew+You+Skin+%26+Hair+Clinic/data=!4m7!3m6!1s0x390f874b8ac52f8f:0xdf9781f8e61723c6!8m2!3d30.9084266!4d77.1000049!16s%2Fg%2F11lgjnp6d7!19sChIJjy_FikuHDzkRxiMX5viBl98?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renew+You+Skin+%26+Hair+Clinic/data=!4m7!3m6!1s0x390f874b8ac52f8f:0xdf9781f8e61723c6!8m2!3d30.9084266!4d77.1000049!16s%2Fg%2F11lgjnp6d7!19sChIJjy_FikuHDzkRxiMX5viBl98?authuser=0&hl=en&rclk=1"
@@ -4357,7 +4393,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Renew+You+Skin+%26+Hair+Clinic/data=!4m7!3m6!1s0x390f874b8ac52f8f:0xdf9781f8e61723c6!8m2!3d30.9084266!4d77.1000049!16s%2Fg%2F11lgjnp6d7!19sChIJjy_FikuHDzkRxiMX5viBl98?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sai-hospital-and-ivf-center-hamirpur",
@@ -4407,7 +4444,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Hospital+%26+IVF+Center/data=!4m7!3m6!1s0x3904d5c53fa0f2df:0x3f97bd806c66a52!8m2!3d31.6707835!4d76.5360929!16s%2Fg%2F1tk9p43d!19sChIJ3_KgP8XVBDkRUmrGBth7-QM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Hospital+%26+IVF+Center/data=!4m7!3m6!1s0x3904d5c53fa0f2df:0x3f97bd806c66a52!8m2!3d31.6707835!4d76.5360929!16s%2Fg%2F1tk9p43d!19sChIJ3_KgP8XVBDkRUmrGBth7-QM?authuser=0&hl=en&rclk=1"
@@ -4476,7 +4513,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Hospital+%26+IVF+Center/data=!4m7!3m6!1s0x3904d5c53fa0f2df:0x3f97bd806c66a52!8m2!3d31.6707835!4d76.5360929!16s%2Fg%2F1tk9p43d!19sChIJ3_KgP8XVBDkRUmrGBth7-QM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sai-sanjivni-hospital-solan",
@@ -4524,7 +4562,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Sanjivni+Hospital/data=!4m7!3m6!1s0x390f86b66b168ce7:0xd519114647647135!8m2!3d30.9085353!4d77.0955749!16s%2Fg%2F11cn3jy016!19sChIJ54wWa7aGDzkRNXFkR0YRGdU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Sanjivni+Hospital/data=!4m7!3m6!1s0x390f86b66b168ce7:0xd519114647647135!8m2!3d30.9085353!4d77.0955749!16s%2Fg%2F11cn3jy016!19sChIJ54wWa7aGDzkRNXFkR0YRGdU?authuser=0&hl=en&rclk=1"
@@ -4593,7 +4631,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Sanjivni+Hospital/data=!4m7!3m6!1s0x390f86b66b168ce7:0xd519114647647135!8m2!3d30.9085353!4d77.0955749!16s%2Fg%2F11cn3jy016!19sChIJ54wWa7aGDzkRNXFkR0YRGdU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sanjeevani-dental-hospital-baddi",
@@ -4642,7 +4681,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeevani+Dental+Hospital/data=!4m7!3m6!1s0x390ff56cc6d223d7:0x1a6eadff28fee551!8m2!3d30.9273706!4d76.7923073!16s%2Fg%2F1ptyzk_vt!19sChIJ1yPSxmz1DzkRUeX-KP-tbho?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevani+Dental+Hospital/data=!4m7!3m6!1s0x390ff56cc6d223d7:0x1a6eadff28fee551!8m2!3d30.9273706!4d76.7923073!16s%2Fg%2F1ptyzk_vt!19sChIJ1yPSxmz1DzkRUeX-KP-tbho?authuser=0&hl=en&rclk=1"
@@ -4711,7 +4750,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeevani+Dental+Hospital/data=!4m7!3m6!1s0x390ff56cc6d223d7:0x1a6eadff28fee551!8m2!3d30.9273706!4d76.7923073!16s%2Fg%2F1ptyzk_vt!19sChIJ1yPSxmz1DzkRUeX-KP-tbho?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "saroch-dental-health-care-centre-solan",
@@ -4759,7 +4799,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Saroch+Dental+Health+Care+Centre/data=!4m7!3m6!1s0x390f87c999d39425:0xa3e0f3989b84ff5!8m2!3d30.9133185!4d77.0950384!16s%2Fg%2F11j22wv_4t!19sChIJJZTTmcmHDzkR9U-4iTkPPgo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saroch+Dental+Health+Care+Centre/data=!4m7!3m6!1s0x390f87c999d39425:0xa3e0f3989b84ff5!8m2!3d30.9133185!4d77.0950384!16s%2Fg%2F11j22wv_4t!19sChIJJZTTmcmHDzkR9U-4iTkPPgo?authuser=0&hl=en&rclk=1"
@@ -4828,7 +4868,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saroch+Dental+Health+Care+Centre/data=!4m7!3m6!1s0x390f87c999d39425:0xa3e0f3989b84ff5!8m2!3d30.9133185!4d77.0950384!16s%2Fg%2F11j22wv_4t!19sChIJJZTTmcmHDzkR9U-4iTkPPgo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sartaj-dental-clinic-solan",
@@ -4877,7 +4918,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SARTAJ+DENTAL+CLINIC/data=!4m7!3m6!1s0x390f81d5b7bd130d:0x2947edff76b47030!8m2!3d30.9067419!4d77.1085634!16s%2Fg%2F11yd1jjr_4!19sChIJDRO9t9WBDzkRMHC0dv_tRyk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SARTAJ+DENTAL+CLINIC/data=!4m7!3m6!1s0x390f81d5b7bd130d:0x2947edff76b47030!8m2!3d30.9067419!4d77.1085634!16s%2Fg%2F11yd1jjr_4!19sChIJDRO9t9WBDzkRMHC0dv_tRyk?authuser=0&hl=en&rclk=1"
@@ -4943,10 +4984,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SARTAJ+DENTAL+CLINIC/data=!4m7!3m6!1s0x390f81d5b7bd130d:0x2947edff76b47030!8m2!3d30.9067419!4d77.1085634!16s%2Fg%2F11yd1jjr_4!19sChIJDRO9t9WBDzkRMHC0dv_tRyk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shiva-hospital-solan",
@@ -4994,7 +5036,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Shiva+Hospital/data=!4m7!3m6!1s0x390f814ba3afcc0f:0x4abea1159028ea37!8m2!3d30.907034!4d77.105906!16s%2Fg%2F11bv2gzzx3!19sChIJD8yvo0uBDzkRN-ookBWhvko?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiva+Hospital/data=!4m7!3m6!1s0x390f814ba3afcc0f:0x4abea1159028ea37!8m2!3d30.907034!4d77.105906!16s%2Fg%2F11bv2gzzx3!19sChIJD8yvo0uBDzkRN-ookBWhvko?authuser=0&hl=en&rclk=1"
@@ -5063,7 +5105,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shiva+Hospital/data=!4m7!3m6!1s0x390f814ba3afcc0f:0x4abea1159028ea37!8m2!3d30.907034!4d77.105906!16s%2Fg%2F11bv2gzzx3!19sChIJD8yvo0uBDzkRN-ookBWhvko?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-balmukand-apex-hospital-best-private-hospital-in-solan-himachal-pradesh-hospital-near-shimla-sirmaur-solan",
@@ -5112,7 +5155,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Balmukand+Apex+Hospital+%7C+Best+Private+Hospital+in+Solan,+Himachal+Pradesh+Hospital+%7C+Near+Shimla+Sirmaur/data=!4m7!3m6!1s0x390f81f0c67d9317:0x23602071d8d7757d!8m2!3d30.9064889!4d77.109911!16s%2Fg%2F11rss3t95d!19sChIJF5N9xvCBDzkRfXXX2HEgYCM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Balmukand+Apex+Hospital+%7C+Best+Private+Hospital+in+Solan,+Himachal+Pradesh+Hospital+%7C+Near+Shimla+Sirmaur/data=!4m7!3m6!1s0x390f81f0c67d9317:0x23602071d8d7757d!8m2!3d30.9064889!4d77.109911!16s%2Fg%2F11rss3t95d!19sChIJF5N9xvCBDzkRfXXX2HEgYCM?authuser=0&hl=en&rclk=1"
@@ -5181,7 +5224,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Balmukand+Apex+Hospital+%7C+Best+Private+Hospital+in+Solan,+Himachal+Pradesh+Hospital+%7C+Near+Shimla+Sirmaur/data=!4m7!3m6!1s0x390f81f0c67d9317:0x23602071d8d7757d!8m2!3d30.9064889!4d77.109911!16s%2Fg%2F11rss3t95d!19sChIJF5N9xvCBDzkRfXXX2HEgYCM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "solan-homoeopathic-medical-college-and-hospital-kumarhatti-173229-hp-kumarhatti",
@@ -5231,7 +5275,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Solan+Homoeopathic+Medical+College+%26+Hospital,+Kumarhatti-173229+%28HP%29/data=!4m7!3m6!1s0x390f867dfebfffff:0x18b5ec9ba132e90b!8m2!3d30.8895829!4d77.0609948!16s%2Fg%2F11btwr9357!19sChIJ__-__n2GDzkRC-kyoZvstRg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Solan+Homoeopathic+Medical+College+%26+Hospital,+Kumarhatti-173229+%28HP%29/data=!4m7!3m6!1s0x390f867dfebfffff:0x18b5ec9ba132e90b!8m2!3d30.8895829!4d77.0609948!16s%2Fg%2F11btwr9357!19sChIJ__-__n2GDzkRC-kyoZvstRg?authuser=0&hl=en&rclk=1"
@@ -5300,7 +5344,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Solan+Homoeopathic+Medical+College+%26+Hospital,+Kumarhatti-173229+%28HP%29/data=!4m7!3m6!1s0x390f867dfebfffff:0x18b5ec9ba132e90b!8m2!3d30.8895829!4d77.0609948!16s%2Fg%2F11btwr9357!19sChIJ__-__n2GDzkRC-kyoZvstRg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "solan-pet-care-centre-solan",
@@ -5349,7 +5394,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Solan+pet+care+centre/data=!4m7!3m6!1s0x390f83bf190cd2bf:0x185a518734e4bfdb!8m2!3d30.8883954!4d77.1104695!16s%2Fg%2F11vwp_h0qz!19sChIJv9IMGb-DDzkR27_kNIdRWhg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Solan+pet+care+centre/data=!4m7!3m6!1s0x390f83bf190cd2bf:0x185a518734e4bfdb!8m2!3d30.8883954!4d77.1104695!16s%2Fg%2F11vwp_h0qz!19sChIJv9IMGb-DDzkR27_kNIdRWhg?authuser=0&hl=en&rclk=1"
@@ -5418,7 +5463,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Solan+pet+care+centre/data=!4m7!3m6!1s0x390f83bf190cd2bf:0x185a518734e4bfdb!8m2!3d30.8883954!4d77.1104695!16s%2Fg%2F11vwp_h0qz!19sChIJv9IMGb-DDzkR27_kNIdRWhg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sorigtsang-wellness-centre-solan",
@@ -5466,7 +5512,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sorigtsang+Wellness+Centre/data=!4m7!3m6!1s0x390f81a050d84a73:0x816bfb2575603cce!8m2!3d30.8986301!4d77.1042062!16s%2Fg%2F11tnh2l4h2!19sChIJc0rYUKCBDzkRzjxgdSX7a4E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sorigtsang+Wellness+Centre/data=!4m7!3m6!1s0x390f81a050d84a73:0x816bfb2575603cce!8m2!3d30.8986301!4d77.1042062!16s%2Fg%2F11tnh2l4h2!19sChIJc0rYUKCBDzkRzjxgdSX7a4E?authuser=0&hl=en&rclk=1"
@@ -5535,7 +5581,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sorigtsang+Wellness+Centre/data=!4m7!3m6!1s0x390f81a050d84a73:0x816bfb2575603cce!8m2!3d30.8986301!4d77.1042062!16s%2Fg%2F11tnh2l4h2!19sChIJc0rYUKCBDzkRzjxgdSX7a4E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vardan-pediatric-and-general-clinic-solan",
@@ -5583,7 +5630,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Vardan+Pediatric+and+General+Clinic/data=!4m7!3m6!1s0x390f81e7251523e3:0xf18df3aee2224611!8m2!3d30.8966254!4d77.1033169!16s%2Fg%2F11jsyqygxv!19sChIJ4yMVJeeBDzkREUYi4q7zjfE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardan+Pediatric+and+General+Clinic/data=!4m7!3m6!1s0x390f81e7251523e3:0xf18df3aee2224611!8m2!3d30.8966254!4d77.1033169!16s%2Fg%2F11jsyqygxv!19sChIJ4yMVJeeBDzkREUYi4q7zjfE?authuser=0&hl=en&rclk=1"
@@ -5652,7 +5699,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vardan+Pediatric+and+General+Clinic/data=!4m7!3m6!1s0x390f81e7251523e3:0xf18df3aee2224611!8m2!3d30.8966254!4d77.1033169!16s%2Fg%2F11jsyqygxv!19sChIJ4yMVJeeBDzkREUYi4q7zjfE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "waidya-ram-kishan-chail",
@@ -5700,7 +5748,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Waidya+Ram+Kishan/data=!4m7!3m6!1s0x390f811774ebad13:0x9983ea1a53525b6d!8m2!3d30.970055!4d77.18693!16s%2Fg%2F11gmspwy5z!19sChIJE63rdBeBDzkRbVtSUxrqg5k?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Waidya+Ram+Kishan/data=!4m7!3m6!1s0x390f811774ebad13:0x9983ea1a53525b6d!8m2!3d30.970055!4d77.18693!16s%2Fg%2F11gmspwy5z!19sChIJE63rdBeBDzkRbVtSUxrqg5k?authuser=0&hl=en&rclk=1"
@@ -5766,10 +5814,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Waidya+Ram+Kishan/data=!4m7!3m6!1s0x390f811774ebad13:0x9983ea1a53525b6d!8m2!3d30.970055!4d77.18693!16s%2Fg%2F11gmspwy5z!19sChIJE63rdBeBDzkRbVtSUxrqg5k?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "solan",
@@ -5819,7 +5868,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%A1%F0%9D%97%AE%F0%9D%98%83+%F0%9D%97%9D%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BB+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9/data=!4m7!3m6!1s0x390f814b0455cb51:0xc6c641f362315399!8m2!3d30.9062154!4d77.1061926!16s%2Fg%2F11bv2gzfj9!19sChIJUctVBEuBDzkRmVMxYvNBxsY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A1%F0%9D%97%AE%F0%9D%98%83+%F0%9D%97%9D%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BB+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9/data=!4m7!3m6!1s0x390f814b0455cb51:0xc6c641f362315399!8m2!3d30.9062154!4d77.1061926!16s%2Fg%2F11bv2gzfj9!19sChIJUctVBEuBDzkRmVMxYvNBxsY?authuser=0&hl=en&rclk=1"
@@ -5888,6 +5937,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A1%F0%9D%97%AE%F0%9D%98%83+%F0%9D%97%9D%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BB+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9/data=!4m7!3m6!1s0x390f814b0455cb51:0xc6c641f362315399!8m2!3d30.9062154!4d77.1061926!16s%2Fg%2F11bv2gzfj9!19sChIJUctVBEuBDzkRmVMxYvNBxsY?authuser=0&hl=en&rclk=1"
   }
 ]

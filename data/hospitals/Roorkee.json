@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Garg+Urology+and+Children+Hospital+%7C+Hospital+In+Roorkee/@29.8560021,77.8766074,17z/data=!3m1!4b1!4m6!3m5!1s0x390eb3047112ab95:0x70d87244fe40a502!8m2!3d29.8560021!4d77.8766074!16s%2Fg%2F11wv3tz4mw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Garg+Urology+and+Children+Hospital+%7C+Hospital+In+Roorkee/@29.8560021,77.8766074,17z/data=!3m1!4b1!4m6!3m5!1s0x390eb3047112ab95:0x70d87244fe40a502!8m2!3d29.8560021!4d77.8766074!16s%2Fg%2F11wv3tz4mw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Garg+Urology+and+Children+Hospital+%7C+Hospital+In+Roorkee/@29.8560021,77.8766074,17z/data=!3m1!4b1!4m6!3m5!1s0x390eb3047112ab95:0x70d87244fe40a502!8m2!3d29.8560021!4d77.8766074!16s%2Fg%2F11wv3tz4mw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tripta-urology-and-lithotripsy-centre-roorkee",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://www.google.com/maps/place/TRIPTA+Urology+and+Lithotripsy+Centre/@29.8538912,77.8758143,17z/data=!3m1!4b1!4m6!3m5!1s0x390eb398db06457d:0x8661c44ab2eb6eec!8m2!3d29.8538912!4d77.8758143!16s%2Fg%2F11fyxc8n6z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TRIPTA+Urology+and+Lithotripsy+Centre/@29.8538912,77.8758143,17z/data=!3m1!4b1!4m6!3m5!1s0x390eb398db06457d:0x8661c44ab2eb6eec!8m2!3d29.8538912!4d77.8758143!16s%2Fg%2F11fyxc8n6z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -229,9 +230,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TRIPTA+Urology+and+Lithotripsy+Centre/@29.8538912,77.8758143,17z/data=!3m1!4b1!4m6!3m5!1s0x390eb398db06457d:0x8661c44ab2eb6eec!8m2!3d29.8538912!4d77.8758143!16s%2Fg%2F11fyxc8n6z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

@@ -46,7 +46,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/A+Plus+Hospitals/data=!4m7!3m6!1s0x3a39692b3a5eaaab:0x2f5af7ea6f3f213b!8m2!3d17.6882014!4d83.1664011!16s%2Fg%2F11kphg2f_4!19sChIJq6peOitpOToROyE_b-r3Wi8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+Plus+Hospitals/data=!4m7!3m6!1s0x3a39692b3a5eaaab:0x2f5af7ea6f3f213b!8m2!3d17.6882014!4d83.1664011!16s%2Fg%2F11kphg2f_4!19sChIJq6peOitpOToROyE_b-r3Wi8?authuser=0&hl=en&rclk=1"
@@ -115,7 +115,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A+Plus+Hospitals/data=!4m7!3m6!1s0x3a39692b3a5eaaab:0x2f5af7ea6f3f213b!8m2!3d17.6882014!4d83.1664011!16s%2Fg%2F11kphg2f_4!19sChIJq6peOitpOToROyE_b-r3Wi8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "a-s-ent-and-urology-clinic-visakhapatnam",
@@ -164,7 +165,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/A.S+ENT+and+UROLOGY+clinic/data=!4m7!3m6!1s0x3a3943aa692a4467:0x12cfe87f28506b2f!8m2!3d17.7113973!4d83.3139999!16s%2Fg%2F11ryr5w4qs!19sChIJZ0QqaapDOToRL2tQKH_ozxI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A.S+ENT+and+UROLOGY+clinic/data=!4m7!3m6!1s0x3a3943aa692a4467:0x12cfe87f28506b2f!8m2!3d17.7113973!4d83.3139999!16s%2Fg%2F11ryr5w4qs!19sChIJZ0QqaapDOToRL2tQKH_ozxI?authuser=0&hl=en&rclk=1"
@@ -230,10 +231,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A.S+ENT+and+UROLOGY+clinic/data=!4m7!3m6!1s0x3a3943aa692a4467:0x12cfe87f28506b2f!8m2!3d17.7113973!4d83.3139999!16s%2Fg%2F11ryr5w4qs!19sChIJZ0QqaapDOToRL2tQKH_ozxI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aaradhya-fertility-center-visakhapatnam",
@@ -283,7 +285,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AARADHYA+FERTILITY+CENTER/data=!4m7!3m6!1s0x3a39431372312677:0x1491db88ae8696db!8m2!3d17.7172601!4d83.3103309!16s%2Fg%2F11b768cgkj!19sChIJdyYxchNDOToR25aGrojbkRQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AARADHYA+FERTILITY+CENTER/data=!4m7!3m6!1s0x3a39431372312677:0x1491db88ae8696db!8m2!3d17.7172601!4d83.3103309!16s%2Fg%2F11b768cgkj!19sChIJdyYxchNDOToR25aGrojbkRQ?authuser=0&hl=en&rclk=1"
@@ -352,7 +354,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AARADHYA+FERTILITY+CENTER/data=!4m7!3m6!1s0x3a39431372312677:0x1491db88ae8696db!8m2!3d17.7172601!4d83.3103309!16s%2Fg%2F11b768cgkj!19sChIJdyYxchNDOToR25aGrojbkRQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aarif-nursing-home-visakhapatnam",
@@ -400,7 +403,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Aarif+Nursing+Home/data=!4m7!3m6!1s0x3a39433e74c427c3:0x4f91dc6985a0fdd9!8m2!3d17.7225653!4d83.3096272!16s%2Fg%2F1wtbs9mz!19sChIJwyfEdD5DOToR2f2ghWnckU8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarif+Nursing+Home/data=!4m7!3m6!1s0x3a39433e74c427c3:0x4f91dc6985a0fdd9!8m2!3d17.7225653!4d83.3096272!16s%2Fg%2F1wtbs9mz!19sChIJwyfEdD5DOToR2f2ghWnckU8?authuser=0&hl=en&rclk=1"
@@ -469,7 +472,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aarif+Nursing+Home/data=!4m7!3m6!1s0x3a39433e74c427c3:0x4f91dc6985a0fdd9!8m2!3d17.7225653!4d83.3096272!16s%2Fg%2F1wtbs9mz!19sChIJwyfEdD5DOToR2f2ghWnckU8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "abc-hospitals-visakhapatnam",
@@ -517,7 +521,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/ABC+Hospitals/data=!4m7!3m6!1s0x3a394310106ab8a9:0xedb733dd49d7e3bd!8m2!3d17.706194!4d83.309213!16s%2Fg%2F1tl7m3yh!19sChIJqbhqEBBDOToRvePXSd0zt-0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ABC+Hospitals/data=!4m7!3m6!1s0x3a394310106ab8a9:0xedb733dd49d7e3bd!8m2!3d17.706194!4d83.309213!16s%2Fg%2F1tl7m3yh!19sChIJqbhqEBBDOToRvePXSd0zt-0?authuser=0&hl=en&rclk=1"
@@ -586,7 +590,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ABC+Hospitals/data=!4m7!3m6!1s0x3a394310106ab8a9:0xedb733dd49d7e3bd!8m2!3d17.706194!4d83.309213!16s%2Fg%2F1tl7m3yh!19sChIJqbhqEBBDOToRvePXSd0zt-0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "access-pathlab-visakhapatnam",
@@ -635,7 +640,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/ACCESS+PATHLAB/data=!4m7!3m6!1s0x3a395cc3f04686b1:0x76ad31582ee30f3a!8m2!3d17.7086!4d83.3090363!16s%2Fg%2F11f03pq0s9!19sChIJsYZG8MNcOToROg_jLlgxrXY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ACCESS+PATHLAB/data=!4m7!3m6!1s0x3a395cc3f04686b1:0x76ad31582ee30f3a!8m2!3d17.7086!4d83.3090363!16s%2Fg%2F11f03pq0s9!19sChIJsYZG8MNcOToROg_jLlgxrXY?authuser=0&hl=en&rclk=1"
@@ -704,7 +709,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ACCESS+PATHLAB/data=!4m7!3m6!1s0x3a395cc3f04686b1:0x76ad31582ee30f3a!8m2!3d17.7086!4d83.3090363!16s%2Fg%2F11f03pq0s9!19sChIJsYZG8MNcOToROg_jLlgxrXY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ainu-hospitals-kidney-dialysis-center-vizag-andhra-pradesh-visakhapatnam",
@@ -755,7 +761,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AINU+Hospitals+Kidney+Dialysis+Center+-+Vizag,+Andhra+Pradesh/data=!4m7!3m6!1s0x3a3943e1ab4f6c81:0x346467ed517f71ca!8m2!3d17.726048!4d83.3041964!16s%2Fg%2F11s7d4wf6y!19sChIJgWxPq-FDOToRynF_Ue1nZDQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AINU+Hospitals+Kidney+Dialysis+Center+-+Vizag,+Andhra+Pradesh/data=!4m7!3m6!1s0x3a3943e1ab4f6c81:0x346467ed517f71ca!8m2!3d17.726048!4d83.3041964!16s%2Fg%2F11s7d4wf6y!19sChIJgWxPq-FDOToRynF_Ue1nZDQ?authuser=0&hl=en&rclk=1"
@@ -824,7 +830,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AINU+Hospitals+Kidney+Dialysis+Center+-+Vizag,+Andhra+Pradesh/data=!4m7!3m6!1s0x3a3943e1ab4f6c81:0x346467ed517f71ca!8m2!3d17.726048!4d83.3041964!16s%2Fg%2F11s7d4wf6y!19sChIJgWxPq-FDOToRynF_Ue1nZDQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "amma-hospital-visakhapatnam",
@@ -873,7 +880,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Amma+Hospital/data=!4m7!3m6!1s0x3a395cac9e3bd8c7:0x821de17eeee32630!8m2!3d17.7468649!4d83.3307798!16s%2Fg%2F1q62cym1b!19sChIJx9g7nqxcOToRMCbj7n7hHYI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amma+Hospital/data=!4m7!3m6!1s0x3a395cac9e3bd8c7:0x821de17eeee32630!8m2!3d17.7468649!4d83.3307798!16s%2Fg%2F1q62cym1b!19sChIJx9g7nqxcOToRMCbj7n7hHYI?authuser=0&hl=en&rclk=1"
@@ -942,7 +949,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amma+Hospital/data=!4m7!3m6!1s0x3a395cac9e3bd8c7:0x821de17eeee32630!8m2!3d17.7468649!4d83.3307798!16s%2Fg%2F1q62cym1b!19sChIJx9g7nqxcOToRMCbj7n7hHYI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "amrutha-fertility-and-ivf-visakhapatnam",
@@ -992,7 +1000,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Amrutha+Fertility+%26+IVF/data=!4m7!3m6!1s0x3a3945963d88d0ff:0x48d9981821345bef!8m2!3d17.7419117!4d83.3400451!16s%2Fg%2F11m6d4y9y9!19sChIJ_9CIPZZFOToR71s0IRiY2Ug?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrutha+Fertility+%26+IVF/data=!4m7!3m6!1s0x3a3945963d88d0ff:0x48d9981821345bef!8m2!3d17.7419117!4d83.3400451!16s%2Fg%2F11m6d4y9y9!19sChIJ_9CIPZZFOToR71s0IRiY2Ug?authuser=0&hl=en&rclk=1"
@@ -1061,7 +1069,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrutha+Fertility+%26+IVF/data=!4m7!3m6!1s0x3a3945963d88d0ff:0x48d9981821345bef!8m2!3d17.7419117!4d83.3400451!16s%2Fg%2F11m6d4y9y9!19sChIJ_9CIPZZFOToR71s0IRiY2Ug?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "amulya-hospital-visakhapatnam",
@@ -1109,7 +1118,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Amulya+Hospital/data=!4m7!3m6!1s0x3a394316b03771f1:0x5bf982967cdcf584!8m2!3d17.7155368!4d83.308715!16s%2Fg%2F11cl_mmrcn!19sChIJ8XE3sBZDOToRhPXcfJaC-Vs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amulya+Hospital/data=!4m7!3m6!1s0x3a394316b03771f1:0x5bf982967cdcf584!8m2!3d17.7155368!4d83.308715!16s%2Fg%2F11cl_mmrcn!19sChIJ8XE3sBZDOToRhPXcfJaC-Vs?authuser=0&hl=en&rclk=1"
@@ -1178,7 +1187,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amulya+Hospital/data=!4m7!3m6!1s0x3a394316b03771f1:0x5bf982967cdcf584!8m2!3d17.7155368!4d83.308715!16s%2Fg%2F11cl_mmrcn!19sChIJ8XE3sBZDOToRhPXcfJaC-Vs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "andhra-hospitals-visakhapatnam-visakhapatnam",
@@ -1227,7 +1237,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ANDHRA+HOSPITALS+-+VISAKHAPATNAM/data=!4m7!3m6!1s0x3a3943df988c6cb1:0x55f6e61a0ccb5201!8m2!3d17.7084273!4d83.3086184!16s%2Fg%2F11khvy54_r!19sChIJsWyMmN9DOToRAVLLDBrm9lU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANDHRA+HOSPITALS+-+VISAKHAPATNAM/data=!4m7!3m6!1s0x3a3943df988c6cb1:0x55f6e61a0ccb5201!8m2!3d17.7084273!4d83.3086184!16s%2Fg%2F11khvy54_r!19sChIJsWyMmN9DOToRAVLLDBrm9lU?authuser=0&hl=en&rclk=1"
@@ -1296,7 +1306,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ANDHRA+HOSPITALS+-+VISAKHAPATNAM/data=!4m7!3m6!1s0x3a3943df988c6cb1:0x55f6e61a0ccb5201!8m2!3d17.7084273!4d83.3086184!16s%2Fg%2F11khvy54_r!19sChIJsWyMmN9DOToRAVLLDBrm9lU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "androlife-best-male-fertility-clinic-vizag-visakhapatnam",
@@ -1346,7 +1357,7 @@
       "Google rating 1.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Androlife+-+Best+Male+Fertility+Clinic,+Vizag/@17.7208809,83.3130229,17z/data=!3m1!4b1!4m6!3m5!1s0x3a39431032aadb17:0xcb8e4d4bad780d87!8m2!3d17.7208809!4d83.3130229!16s%2Fg%2F11h6lky61z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Androlife+-+Best+Male+Fertility+Clinic,+Vizag/@17.7208809,83.3130229,17z/data=!3m1!4b1!4m6!3m5!1s0x3a39431032aadb17:0xcb8e4d4bad780d87!8m2!3d17.7208809!4d83.3130229!16s%2Fg%2F11h6lky61z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1412,10 +1423,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Androlife+-+Best+Male+Fertility+Clinic,+Vizag/@17.7208809,83.3130229,17z/data=!3m1!4b1!4m6!3m5!1s0x3a39431032aadb17:0xcb8e4d4bad780d87!8m2!3d17.7208809!4d83.3130229!16s%2Fg%2F11h6lky61z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "annapurna-cosmetic-dental-and-facial-plastic-surgery-center-visakhapatnam",
@@ -1463,7 +1475,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Annapurna+Cosmetic+Dental+And+Facial+Plastic+Surgery+Center/data=!4m7!3m6!1s0x3a3943536d398c15:0x41487c5bc2efcc01!8m2!3d17.7327186!4d83.3068291!16s%2Fg%2F11fktjccg4!19sChIJFYw5bVNDOToRAczvwlt8SEE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Annapurna+Cosmetic+Dental+And+Facial+Plastic+Surgery+Center/data=!4m7!3m6!1s0x3a3943536d398c15:0x41487c5bc2efcc01!8m2!3d17.7327186!4d83.3068291!16s%2Fg%2F11fktjccg4!19sChIJFYw5bVNDOToRAczvwlt8SEE?authuser=0&hl=en&rclk=1"
@@ -1532,7 +1544,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Annapurna+Cosmetic+Dental+And+Facial+Plastic+Surgery+Center/data=!4m7!3m6!1s0x3a3943536d398c15:0x41487c5bc2efcc01!8m2!3d17.7327186!4d83.3068291!16s%2Fg%2F11fktjccg4!19sChIJFYw5bVNDOToRAczvwlt8SEE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apex-ions-hospital-visakhapatnam",
@@ -1581,7 +1594,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apex+IONS+Hospital/data=!4m7!3m6!1s0x3a3943fa5fcfbb77:0x4c1affa7850f8843!8m2!3d17.706899!4d83.3089402!16s%2Fg%2F1tcvs87g!19sChIJd7vPX_pDOToRQ4gPhaf_Gkw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+IONS+Hospital/data=!4m7!3m6!1s0x3a3943fa5fcfbb77:0x4c1affa7850f8843!8m2!3d17.706899!4d83.3089402!16s%2Fg%2F1tcvs87g!19sChIJd7vPX_pDOToRQ4gPhaf_Gkw?authuser=0&hl=en&rclk=1"
@@ -1650,7 +1663,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+IONS+Hospital/data=!4m7!3m6!1s0x3a3943fa5fcfbb77:0x4c1affa7850f8843!8m2!3d17.706899!4d83.3089402!16s%2Fg%2F1tcvs87g!19sChIJd7vPX_pDOToRQ4gPhaf_Gkw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apollo-hospitals-best-hospital-in-ramnagar-vizag-visakhapatnam",
@@ -1699,7 +1713,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Ramnagar+Vizag/@17.7172512,83.3091802,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3943169c8fac4f:0xf0b4c66e5ecb574f!8m2!3d17.7172512!4d83.3091802!16s%2Fg%2F11c5qpcmyr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Ramnagar+Vizag/@17.7172512,83.3091802,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3943169c8fac4f:0xf0b4c66e5ecb574f!8m2!3d17.7172512!4d83.3091802!16s%2Fg%2F11c5qpcmyr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -1768,7 +1782,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Ramnagar+Vizag/@17.7172512,83.3091802,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3943169c8fac4f:0xf0b4c66e5ecb574f!8m2!3d17.7172512!4d83.3091802!16s%2Fg%2F11c5qpcmyr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-hospitals-best-hospital-in-visakhapatnam-visakhapatnam",
@@ -1817,7 +1832,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Visakhapatnam/data=!4m7!3m6!1s0x3a395cb925a75125:0x184ecf821c67dda9!8m2!3d17.7613168!4d83.3170849!16s%2Fg%2F11b8vb0j5y!19sChIJJVGnJblcOToRqd1nHILPThg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Visakhapatnam/data=!4m7!3m6!1s0x3a395cb925a75125:0x184ecf821c67dda9!8m2!3d17.7613168!4d83.3170849!16s%2Fg%2F11b8vb0j5y!19sChIJJVGnJblcOToRqd1nHILPThg?authuser=0&hl=en&rclk=1"
@@ -1886,7 +1901,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Visakhapatnam/data=!4m7!3m6!1s0x3a395cb925a75125:0x184ecf821c67dda9!8m2!3d17.7613168!4d83.3170849!16s%2Fg%2F11b8vb0j5y!19sChIJJVGnJblcOToRqd1nHILPThg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apoorva-hospital-visakhapatnam",
@@ -1935,7 +1951,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apoorva+Hospital/data=!4m7!3m6!1s0x3a39433a4e4ed379:0xd07a7ca7d49a50f5!8m2!3d17.7302141!4d83.3075675!16s%2Fg%2F1tdhcfkf!19sChIJedNOTjpDOToR9VCa1Kd8etA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apoorva+Hospital/data=!4m7!3m6!1s0x3a39433a4e4ed379:0xd07a7ca7d49a50f5!8m2!3d17.7302141!4d83.3075675!16s%2Fg%2F1tdhcfkf!19sChIJedNOTjpDOToR9VCa1Kd8etA?authuser=0&hl=en&rclk=1"
@@ -2004,7 +2020,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apoorva+Hospital/data=!4m7!3m6!1s0x3a39433a4e4ed379:0xd07a7ca7d49a50f5!8m2!3d17.7302141!4d83.3075675!16s%2Fg%2F1tdhcfkf!19sChIJedNOTjpDOToR9VCa1Kd8etA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ashish-ortho-care-visakhapatnam",
@@ -2053,7 +2070,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/ASHISH+ORTHO+CARE/data=!4m7!3m6!1s0x3a3967df208233db:0xf82de9d6ac263e21!8m2!3d17.7448403!4d83.2259844!16s%2Fg%2F11bbrllf57!19sChIJ2zOCIN9nOToRIT4mrNbpLfg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASHISH+ORTHO+CARE/data=!4m7!3m6!1s0x3a3967df208233db:0xf82de9d6ac263e21!8m2!3d17.7448403!4d83.2259844!16s%2Fg%2F11bbrllf57!19sChIJ2zOCIN9nOToRIT4mrNbpLfg?authuser=0&hl=en&rclk=1"
@@ -2122,7 +2139,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ASHISH+ORTHO+CARE/data=!4m7!3m6!1s0x3a3967df208233db:0xf82de9d6ac263e21!8m2!3d17.7448403!4d83.2259844!16s%2Fg%2F11bbrllf57!19sChIJ2zOCIN9nOToRIT4mrNbpLfg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "asian-institute-of-nephrology-and-urology-in-vizag-ainu-hospitals-visakhapatnam-visakhapatnam",
@@ -2171,7 +2189,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Asian+Institute+of+Nephrology+and+Urology+in+Vizag+%7C+AINU+Hospitals+Visakhapatnam/data=!4m7!3m6!1s0x3a3943bba305926d:0x8c8c54e892a00acb!8m2!3d17.726129!4d83.304272!16s%2Fg%2F11h6t6pqbl!19sChIJbZIFo7tDOToRywqgkuhUjIw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asian+Institute+of+Nephrology+and+Urology+in+Vizag+%7C+AINU+Hospitals+Visakhapatnam/data=!4m7!3m6!1s0x3a3943bba305926d:0x8c8c54e892a00acb!8m2!3d17.726129!4d83.304272!16s%2Fg%2F11h6t6pqbl!19sChIJbZIFo7tDOToRywqgkuhUjIw?authuser=0&hl=en&rclk=1"
@@ -2240,7 +2258,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asian+Institute+of+Nephrology+and+Urology+in+Vizag+%7C+AINU+Hospitals+Visakhapatnam/data=!4m7!3m6!1s0x3a3943bba305926d:0x8c8c54e892a00acb!8m2!3d17.726129!4d83.304272!16s%2Fg%2F11h6t6pqbl!19sChIJbZIFo7tDOToRywqgkuhUjIw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "best-ivf-centre-in-vizag-surrogacy-treatments-fertility-treatments-in-vizag-visakhapatnam",
@@ -2287,7 +2306,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Best+IVF+Centre+in+Vizag+%7C+Surrogacy+Treatments+%7C+Fertility+Treatments+in+Vizag/data=!4m7!3m6!1s0x3a39439f81a8d20f:0x9623505ec3f68606!8m2!3d17.7209761!4d83.3346197!16s%2Fg%2F11h113dns6!19sChIJD9KogZ9DOToRBob2w15QI5Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Best+IVF+Centre+in+Vizag+%7C+Surrogacy+Treatments+%7C+Fertility+Treatments+in+Vizag/data=!4m7!3m6!1s0x3a39439f81a8d20f:0x9623505ec3f68606!8m2!3d17.7209761!4d83.3346197!16s%2Fg%2F11h113dns6!19sChIJD9KogZ9DOToRBob2w15QI5Y?authuser=0&hl=en&rclk=1"
@@ -2353,10 +2372,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Best+IVF+Centre+in+Vizag+%7C+Surrogacy+Treatments+%7C+Fertility+Treatments+in+Vizag/data=!4m7!3m6!1s0x3a39439f81a8d20f:0x9623505ec3f68606!8m2!3d17.7209761!4d83.3346197!16s%2Fg%2F11h113dns6!19sChIJD9KogZ9DOToRBob2w15QI5Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "birthright-fertility-by-rainbow-hospitals-best-ivf-centre-at-health-city-visakhapatnam",
@@ -2406,7 +2426,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BirthRight+Fertility+by+Rainbow+Hospitals+%7C+Best+IVF+Centre+at+Health+City/data=!4m7!3m6!1s0x3a395d9618d1e057:0x18a7e7f6c471756b!8m2!3d17.7634401!4d83.3110498!16s%2Fg%2F11sd4zy2kc!19sChIJV-DRGJZdOToRa3VxxPbnpxg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BirthRight+Fertility+by+Rainbow+Hospitals+%7C+Best+IVF+Centre+at+Health+City/data=!4m7!3m6!1s0x3a395d9618d1e057:0x18a7e7f6c471756b!8m2!3d17.7634401!4d83.3110498!16s%2Fg%2F11sd4zy2kc!19sChIJV-DRGJZdOToRa3VxxPbnpxg?authuser=0&hl=en&rclk=1"
@@ -2475,7 +2495,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BirthRight+Fertility+by+Rainbow+Hospitals+%7C+Best+IVF+Centre+at+Health+City/data=!4m7!3m6!1s0x3a395d9618d1e057:0x18a7e7f6c471756b!8m2!3d17.7634401!4d83.3110498!16s%2Fg%2F11sd4zy2kc!19sChIJV-DRGJZdOToRa3VxxPbnpxg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "blissful-pregnancy-gynae-and-fertility-clinic-visakhapatnam",
@@ -2525,7 +2546,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Blissful+Pregnancy+Gynae+%26+Fertility+Clinic/data=!4m7!3m6!1s0x3a3943cf0eefdc6f:0x36acb26890d6b66b!8m2!3d17.7336606!4d83.2746046!16s%2Fg%2F11fj9cjjpj!19sChIJb9zvDs9DOToRa7bWkGiyrDY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Blissful+Pregnancy+Gynae+%26+Fertility+Clinic/data=!4m7!3m6!1s0x3a3943cf0eefdc6f:0x36acb26890d6b66b!8m2!3d17.7336606!4d83.2746046!16s%2Fg%2F11fj9cjjpj!19sChIJb9zvDs9DOToRa7bWkGiyrDY?authuser=0&hl=en&rclk=1"
@@ -2591,10 +2612,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Blissful+Pregnancy+Gynae+%26+Fertility+Clinic/data=!4m7!3m6!1s0x3a3943cf0eefdc6f:0x36acb26890d6b66b!8m2!3d17.7336606!4d83.2746046!16s%2Fg%2F11fj9cjjpj!19sChIJb9zvDs9DOToRa7bWkGiyrDY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "clove-dental-clinic-santhipuram-andhra-pradesh-visakhapatnam",
@@ -2643,7 +2665,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Santhipuram,+Andhra+Pradesh/data=!4m7!3m6!1s0x3a394331dea826a3:0x702cb19f5c69bf54!8m2!3d17.7363895!4d83.3040844!16s%2Fg%2F1tj1qhj4!19sChIJoyao3jFDOToRVL9pXJ-xLHA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Santhipuram,+Andhra+Pradesh/data=!4m7!3m6!1s0x3a394331dea826a3:0x702cb19f5c69bf54!8m2!3d17.7363895!4d83.3040844!16s%2Fg%2F1tj1qhj4!19sChIJoyao3jFDOToRVL9pXJ-xLHA?authuser=0&hl=en&rclk=1"
@@ -2712,7 +2734,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Santhipuram,+Andhra+Pradesh/data=!4m7!3m6!1s0x3a394331dea826a3:0x702cb19f5c69bf54!8m2!3d17.7363895!4d83.3040844!16s%2Fg%2F1tj1qhj4!19sChIJoyao3jFDOToRVL9pXJ-xLHA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "colon-clinics-gajuwaka-gajuwaka",
@@ -2762,7 +2785,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Colon+Clinics+Gajuwaka/data=!4m7!3m6!1s0x3a3969395a967cf7:0xe2a321aa3d2cfaaa!8m2!3d17.6840273!4d83.2015584!16s%2Fg%2F11t5h3cgwh!19sChIJ93yWWjlpOToRqvosPaoho-I?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Colon+Clinics+Gajuwaka/data=!4m7!3m6!1s0x3a3969395a967cf7:0xe2a321aa3d2cfaaa!8m2!3d17.6840273!4d83.2015584!16s%2Fg%2F11t5h3cgwh!19sChIJ93yWWjlpOToRqvosPaoho-I?authuser=0&hl=en&rclk=1"
@@ -2831,7 +2854,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Colon+Clinics+Gajuwaka/data=!4m7!3m6!1s0x3a3969395a967cf7:0xe2a321aa3d2cfaaa!8m2!3d17.6840273!4d83.2015584!16s%2Fg%2F11t5h3cgwh!19sChIJ93yWWjlpOToRqvosPaoho-I?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "drcure-surgeries-visakhapatnam",
@@ -2880,7 +2904,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DrCure+Surgeries/data=!4m7!3m6!1s0x3a39434d4fdb24cd:0xf3a161ebaee94277!8m2!3d17.710908!4d83.3133004!16s%2Fg%2F11zkjk4d4v!19sChIJzSTbT01DOToRd0LpruthofM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DrCure+Surgeries/data=!4m7!3m6!1s0x3a39434d4fdb24cd:0xf3a161ebaee94277!8m2!3d17.710908!4d83.3133004!16s%2Fg%2F11zkjk4d4v!19sChIJzSTbT01DOToRd0LpruthofM?authuser=0&hl=en&rclk=1"
@@ -2946,10 +2970,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DrCure+Surgeries/data=!4m7!3m6!1s0x3a39434d4fdb24cd:0xf3a161ebaee94277!8m2!3d17.710908!4d83.3133004!16s%2Fg%2F11zkjk4d4v!19sChIJzSTbT01DOToRd0LpruthofM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "elite-e-n-t-hospitals-formerly-susruta-ent-hospital-visakhapatnam",
@@ -2998,7 +3023,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Elite+E.N.T+Hospitals+(Formerly+Susruta+ENT+Hospital)/@17.7639716,83.3091148,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395cc3dbea31f5:0xe0a70e22ab293e8f!8m2!3d17.7639716!4d83.3091148!16s%2Fg%2F11btxjy54q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elite+E.N.T+Hospitals+(Formerly+Susruta+ENT+Hospital)/@17.7639716,83.3091148,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395cc3dbea31f5:0xe0a70e22ab293e8f!8m2!3d17.7639716!4d83.3091148!16s%2Fg%2F11btxjy54q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3067,7 +3092,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Elite+E.N.T+Hospitals+(Formerly+Susruta+ENT+Hospital)/@17.7639716,83.3091148,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395cc3dbea31f5:0xe0a70e22ab293e8f!8m2!3d17.7639716!4d83.3091148!16s%2Fg%2F11btxjy54q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "flamingo-laser-and-cosmetic-gynaecology-clinic-visakhapatnam",
@@ -3116,7 +3142,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Flamingo+Laser+%26+Cosmetic+Gynaecology+Clinic/@17.7169335,83.3089022,17z/data=!3m1!4b1!4m6!3m5!1s0x6e27a35bd9c5ae17:0xae157244d80ecc28!8m2!3d17.7169335!4d83.3089022!16s%2Fg%2F11x79dmr29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Flamingo+Laser+%26+Cosmetic+Gynaecology+Clinic/@17.7169335,83.3089022,17z/data=!3m1!4b1!4m6!3m5!1s0x6e27a35bd9c5ae17:0xae157244d80ecc28!8m2!3d17.7169335!4d83.3089022!16s%2Fg%2F11x79dmr29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3185,7 +3211,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Flamingo+Laser+%26+Cosmetic+Gynaecology+Clinic/@17.7169335,83.3089022,17z/data=!3m1!4b1!4m6!3m5!1s0x6e27a35bd9c5ae17:0xae157244d80ecc28!8m2!3d17.7169335!4d83.3089022!16s%2Fg%2F11x79dmr29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "giggles-by-omni-hospitals-best-woman-and-child-hospital-in-visakhapatnam-visakhapatnam",
@@ -3235,7 +3262,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Giggles+by+OMNI+Hospitals+%7C+Best+Woman+and+Child+Hospital+in+Visakhapatnam/data=!4m7!3m6!1s0x3a39438ce00efc2f:0x14fd5f338cbade20!8m2!3d17.7182292!4d83.3110427!16s%2Fg%2F11j8khfd7b!19sChIJL_wO4IxDOToRIN66jDNf_RQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Giggles+by+OMNI+Hospitals+%7C+Best+Woman+and+Child+Hospital+in+Visakhapatnam/data=!4m7!3m6!1s0x3a39438ce00efc2f:0x14fd5f338cbade20!8m2!3d17.7182292!4d83.3110427!16s%2Fg%2F11j8khfd7b!19sChIJL_wO4IxDOToRIN66jDNf_RQ?authuser=0&hl=en&rclk=1"
@@ -3304,7 +3331,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Giggles+by+OMNI+Hospitals+%7C+Best+Woman+and+Child+Hospital+in+Visakhapatnam/data=!4m7!3m6!1s0x3a39438ce00efc2f:0x14fd5f338cbade20!8m2!3d17.7182292!4d83.3110427!16s%2Fg%2F11j8khfd7b!19sChIJL_wO4IxDOToRIN66jDNf_RQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "good-health-clinic-for-women-visakhapatnam",
@@ -3354,7 +3382,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Good+Health+Clinic+For+Women/data=!4m7!3m6!1s0x3a39431023065a91:0xb1c3ba4067385e91!8m2!3d17.7095872!4d83.3056485!16s%2Fg%2F1q67dsgdy!19sChIJkVoGIxBDOToRkV44Z0C6w7E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Good+Health+Clinic+For+Women/data=!4m7!3m6!1s0x3a39431023065a91:0xb1c3ba4067385e91!8m2!3d17.7095872!4d83.3056485!16s%2Fg%2F1q67dsgdy!19sChIJkVoGIxBDOToRkV44Z0C6w7E?authuser=0&hl=en&rclk=1"
@@ -3423,7 +3451,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Good+Health+Clinic+For+Women/data=!4m7!3m6!1s0x3a39431023065a91:0xb1c3ba4067385e91!8m2!3d17.7095872!4d83.3056485!16s%2Fg%2F1q67dsgdy!19sChIJkVoGIxBDOToRkV44Z0C6w7E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hcg-cancer-hospital-chinnagadili-visakhapatnam-visakhapatnam",
@@ -3473,7 +3502,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+%28Chinnagadili,+Visakhapatnam%29/data=!4m7!3m6!1s0x3a395cc3be637869:0x347fd5f14dbcaf49!8m2!3d17.7638428!4d83.3076929!16s%2Fg%2F11b_3glj17!19sChIJaXhjvsNcOToRSa-8TfHVfzQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+%28Chinnagadili,+Visakhapatnam%29/data=!4m7!3m6!1s0x3a395cc3be637869:0x347fd5f14dbcaf49!8m2!3d17.7638428!4d83.3076929!16s%2Fg%2F11b_3glj17!19sChIJaXhjvsNcOToRSa-8TfHVfzQ?authuser=0&hl=en&rclk=1"
@@ -3542,7 +3571,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+%28Chinnagadili,+Visakhapatnam%29/data=!4m7!3m6!1s0x3a395cc3be637869:0x347fd5f14dbcaf49!8m2!3d17.7638428!4d83.3076929!16s%2Fg%2F11b_3glj17!19sChIJaXhjvsNcOToRSa-8TfHVfzQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "health-city-vizag-apiic-visakhapatnam",
@@ -3590,7 +3620,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/HEALTH+CITY+-+VIZAG+%28APIIC%29/data=!4m7!3m6!1s0x3a395cc122926743:0x391cf24c146cfb17!8m2!3d17.7635615!4d83.3115799!16s%2Fg%2F11cn9d0f8g!19sChIJQ2eSIsFcOToRF_tsFEzyHDk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HEALTH+CITY+-+VIZAG+%28APIIC%29/data=!4m7!3m6!1s0x3a395cc122926743:0x391cf24c146cfb17!8m2!3d17.7635615!4d83.3115799!16s%2Fg%2F11cn9d0f8g!19sChIJQ2eSIsFcOToRF_tsFEzyHDk?authuser=0&hl=en&rclk=1"
@@ -3659,7 +3689,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HEALTH+CITY+-+VIZAG+%28APIIC%29/data=!4m7!3m6!1s0x3a395cc122926743:0x391cf24c146cfb17!8m2!3d17.7635615!4d83.3115799!16s%2Fg%2F11cn9d0f8g!19sChIJQ2eSIsFcOToRF_tsFEzyHDk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "homeocare-international-visakhapatnam-best-homeopathy-clinic-in-visakhapatnam-visakhapatnam",
@@ -3709,7 +3740,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Homeocare+International+Visakhapatnam+%7C+Best+Homeopathy+Clinic+In+Visakhapatnam/data=!4m7!3m6!1s0x3a39433c8f009d3b:0x3ee6f6fac0ae544e!8m2!3d17.726095!4d83.3060974!16s%2Fg%2F1hjgl_1xz!19sChIJO50AjzxDOToRTlSuwPr25j4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Homeocare+International+Visakhapatnam+%7C+Best+Homeopathy+Clinic+In+Visakhapatnam/data=!4m7!3m6!1s0x3a39433c8f009d3b:0x3ee6f6fac0ae544e!8m2!3d17.726095!4d83.3060974!16s%2Fg%2F1hjgl_1xz!19sChIJO50AjzxDOToRTlSuwPr25j4?authuser=0&hl=en&rclk=1"
@@ -3778,7 +3809,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Homeocare+International+Visakhapatnam+%7C+Best+Homeopathy+Clinic+In+Visakhapatnam/data=!4m7!3m6!1s0x3a39433c8f009d3b:0x3ee6f6fac0ae544e!8m2!3d17.726095!4d83.3060974!16s%2Fg%2F1hjgl_1xz!19sChIJO50AjzxDOToRTlSuwPr25j4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "indira-ivf-and-padmasri-ivf-center-visakhapatnam",
@@ -3827,7 +3859,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+and+Padmasri+IVF+Center/data=!4m7!3m6!1s0xaa3f80b8f4d628eb:0x48e9cbb10bc924ac!8m2!3d17.8243608!4d83.361911!16s%2Fg%2F11m6hzb1yb!19sChIJ6yjW9LiAP6oRrCTJC7HL6Ug?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+and+Padmasri+IVF+Center/data=!4m7!3m6!1s0xaa3f80b8f4d628eb:0x48e9cbb10bc924ac!8m2!3d17.8243608!4d83.361911!16s%2Fg%2F11m6hzb1yb!19sChIJ6yjW9LiAP6oRrCTJC7HL6Ug?authuser=0&hl=en&rclk=1"
@@ -3893,10 +3925,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+and+Padmasri+IVF+Center/data=!4m7!3m6!1s0xaa3f80b8f4d628eb:0x48e9cbb10bc924ac!8m2!3d17.8243608!4d83.361911!16s%2Fg%2F11m6hzb1yb!19sChIJ6yjW9LiAP6oRrCTJC7HL6Ug?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "indu-s-dental-specialities-visakhapatnam",
@@ -3945,7 +3978,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indu%27s+Dental+Specialities/data=!4m7!3m6!1s0x3a3943359872263d:0x966e23b7850a803d!8m2!3d17.7361329!4d83.3075445!16s%2Fg%2F11crv2vjgf!19sChIJPSZymDVDOToRPYAKhbcjbpY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indu%27s+Dental+Specialities/data=!4m7!3m6!1s0x3a3943359872263d:0x966e23b7850a803d!8m2!3d17.7361329!4d83.3075445!16s%2Fg%2F11crv2vjgf!19sChIJPSZymDVDOToRPYAKhbcjbpY?authuser=0&hl=en&rclk=1"
@@ -4011,10 +4044,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indu%27s+Dental+Specialities/data=!4m7!3m6!1s0x3a3943359872263d:0x966e23b7850a803d!8m2!3d17.7361329!4d83.3075445!16s%2Fg%2F11crv2vjgf!19sChIJPSZymDVDOToRPYAKhbcjbpY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ivf-centre-visakhapatnam",
@@ -4064,7 +4098,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ivf+Centre/data=!4m7!3m6!1s0x3a394354a4571f13:0xf07b0cf09a265bf1!8m2!3d17.744224!4d83.3312566!16s%2Fg%2F11tcx8ycts!19sChIJEx9XpFRDOToR8VsmmvAMe_A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ivf+Centre/data=!4m7!3m6!1s0x3a394354a4571f13:0xf07b0cf09a265bf1!8m2!3d17.744224!4d83.3312566!16s%2Fg%2F11tcx8ycts!19sChIJEx9XpFRDOToR8VsmmvAMe_A?authuser=0&hl=en&rclk=1"
@@ -4130,10 +4164,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ivf+Centre/data=!4m7!3m6!1s0x3a394354a4571f13:0xf07b0cf09a265bf1!8m2!3d17.744224!4d83.3312566!16s%2Fg%2F11tcx8ycts!19sChIJEx9XpFRDOToR8VsmmvAMe_A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kala-hospital-vizag-visakhapatnam",
@@ -4182,7 +4217,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KALA+HOSPITAL+VIZAG/@17.7292483,83.3057948,17z/data=!3m1!4b1!4m6!3m5!1s0x3a39433065555555:0x1280baecb4367719!8m2!3d17.7292483!4d83.3057948!16s%2Fg%2F1wk6y5nm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KALA+HOSPITAL+VIZAG/@17.7292483,83.3057948,17z/data=!3m1!4b1!4m6!3m5!1s0x3a39433065555555:0x1280baecb4367719!8m2!3d17.7292483!4d83.3057948!16s%2Fg%2F1wk6y5nm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4251,7 +4286,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KALA+HOSPITAL+VIZAG/@17.7292483,83.3057948,17z/data=!3m1!4b1!4m6!3m5!1s0x3a39433065555555:0x1280baecb4367719!8m2!3d17.7292483!4d83.3057948!16s%2Fg%2F1wk6y5nm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalavathi-surgical-hospital-and-laproscopic-centre-visakhapatnam",
@@ -4299,7 +4335,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kalavathi+Surgical+Hospital+%26+Laproscopic+Centre/@17.6868481,83.2184972,11z/data=!3m1!4b1!4m6!3m5!1s0x3a3969b1dfffbd55:0xffabc789b1ee1df8!8m2!3d17.6868481!4d83.2184972!16s%2Fg%2F1vs1q8s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalavathi+Surgical+Hospital+%26+Laproscopic+Centre/@17.6868481,83.2184972,11z/data=!3m1!4b1!4m6!3m5!1s0x3a3969b1dfffbd55:0xffabc789b1ee1df8!8m2!3d17.6868481!4d83.2184972!16s%2Fg%2F1vs1q8s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -4365,10 +4401,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalavathi+Surgical+Hospital+%26+Laproscopic+Centre/@17.6868481,83.2184972,11z/data=!3m1!4b1!4m6!3m5!1s0x3a3969b1dfffbd55:0xffabc789b1ee1df8!8m2!3d17.6868481!4d83.2184972!16s%2Fg%2F1vs1q8s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kims-cuddles-best-maternity-and-pediatric-hospital-in-vizag-gajuwaka",
@@ -4418,7 +4455,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIMS+Cuddles+-+Best+Maternity+%26+Pediatric+Hospital+in+Vizag/data=!4m7!3m6!1s0x3a39696fd934f6ed:0x5624ab9efe6745c!8m2!3d17.7143984!4d83.1957274!16s%2Fg%2F11v15ysf7g!19sChIJ7fY02W9pOToRXHTm77lKYgU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIMS+Cuddles+-+Best+Maternity+%26+Pediatric+Hospital+in+Vizag/data=!4m7!3m6!1s0x3a39696fd934f6ed:0x5624ab9efe6745c!8m2!3d17.7143984!4d83.1957274!16s%2Fg%2F11v15ysf7g!19sChIJ7fY02W9pOToRXHTm77lKYgU?authuser=0&hl=en&rclk=1"
@@ -4487,7 +4524,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIMS+Cuddles+-+Best+Maternity+%26+Pediatric+Hospital+in+Vizag/data=!4m7!3m6!1s0x3a39696fd934f6ed:0x5624ab9efe6745c!8m2!3d17.7143984!4d83.1957274!16s%2Fg%2F11v15ysf7g!19sChIJ7fY02W9pOToRXHTm77lKYgU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kims-fertility-ivf-centre-vizag-visakhapatnam",
@@ -4537,7 +4575,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIMS+Fertility+IVF+Centre+-+Vizag/data=!4m7!3m6!1s0x3a39439174b06557:0x687ada4f0b7ab909!8m2!3d17.7375322!4d83.3355261!16s%2Fg%2F11xyfct8z4!19sChIJV2WwdJFDOToRCbl6C0_aemg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIMS+Fertility+IVF+Centre+-+Vizag/data=!4m7!3m6!1s0x3a39439174b06557:0x687ada4f0b7ab909!8m2!3d17.7375322!4d83.3355261!16s%2Fg%2F11xyfct8z4!19sChIJV2WwdJFDOToRCbl6C0_aemg?authuser=0&hl=en&rclk=1"
@@ -4603,10 +4641,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIMS+Fertility+IVF+Centre+-+Vizag/data=!4m7!3m6!1s0x3a39439174b06557:0x687ada4f0b7ab909!8m2!3d17.7375322!4d83.3355261!16s%2Fg%2F11xyfct8z4!19sChIJV2WwdJFDOToRCbl6C0_aemg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kims-icon-institute-of-gastroenterology-visakhapatnam",
@@ -4656,7 +4695,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIMS+ICON+Institute+of+Gastroenterology/data=!4m7!3m6!1s0x3a39439c4d8c7e59:0x22d627b15071059c!8m2!3d17.7375351!4d83.3355367!16s%2Fg%2F11sc45kn9r!19sChIJWX6MTZxDOToRnAVxULEn1iI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIMS+ICON+Institute+of+Gastroenterology/data=!4m7!3m6!1s0x3a39439c4d8c7e59:0x22d627b15071059c!8m2!3d17.7375351!4d83.3355367!16s%2Fg%2F11sc45kn9r!19sChIJWX6MTZxDOToRnAVxULEn1iI?authuser=0&hl=en&rclk=1"
@@ -4725,7 +4764,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIMS+ICON+Institute+of+Gastroenterology/data=!4m7!3m6!1s0x3a39439c4d8c7e59:0x22d627b15071059c!8m2!3d17.7375351!4d83.3355367!16s%2Fg%2F11sc45kn9r!19sChIJWX6MTZxDOToRnAVxULEn1iI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kims-icon-hospital-vizag-visakhapatnam",
@@ -4774,7 +4814,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIMS-ICON+Hospital,+Vizag/data=!4m7!3m6!1s0x3a3968ed11aaded3:0x5fe95f2024c0e6fd!8m2!3d17.7145898!4d83.1962434!16s%2Fg%2F1tf_fv2j!19sChIJ096qEe1oOToR_ebAJCBf6V8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIMS-ICON+Hospital,+Vizag/data=!4m7!3m6!1s0x3a3968ed11aaded3:0x5fe95f2024c0e6fd!8m2!3d17.7145898!4d83.1962434!16s%2Fg%2F1tf_fv2j!19sChIJ096qEe1oOToR_ebAJCBf6V8?authuser=0&hl=en&rclk=1"
@@ -4843,7 +4883,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIMS-ICON+Hospital,+Vizag/data=!4m7!3m6!1s0x3a3968ed11aaded3:0x5fe95f2024c0e6fd!8m2!3d17.7145898!4d83.1962434!16s%2Fg%2F1tf_fv2j!19sChIJ096qEe1oOToR_ebAJCBf6V8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "krishna-hospital-visakhapatnam",
@@ -4893,7 +4934,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Krishna+Hospital/data=!4m7!3m6!1s0x3a3943126d074f71:0x25a4ff8810bf425d!8m2!3d17.7100459!4d83.3108576!16s%2Fg%2F11b70cs_xr!19sChIJcU8HbRJDOToRXUK_EIj_pCU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishna+Hospital/data=!4m7!3m6!1s0x3a3943126d074f71:0x25a4ff8810bf425d!8m2!3d17.7100459!4d83.3108576!16s%2Fg%2F11b70cs_xr!19sChIJcU8HbRJDOToRXUK_EIj_pCU?authuser=0&hl=en&rclk=1"
@@ -4962,7 +5003,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishna+Hospital/data=!4m7!3m6!1s0x3a3943126d074f71:0x25a4ff8810bf425d!8m2!3d17.7100459!4d83.3108576!16s%2Fg%2F11b70cs_xr!19sChIJcU8HbRJDOToRXUK_EIj_pCU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "krishna-ivf-clinic-parking-area-visakhapatnam",
@@ -5011,7 +5053,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/KRISHNA+IVF+CLINIC+,PARKING+AREA/data=!4m7!3m6!1s0x3a3943158948df47:0xc6167f2556fb9d1c!8m2!3d17.710652!4d83.307948!16s%2Fg%2F11h53q598p!19sChIJR99IiRVDOToRHJ37ViV_FsY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KRISHNA+IVF+CLINIC+,PARKING+AREA/data=!4m7!3m6!1s0x3a3943158948df47:0xc6167f2556fb9d1c!8m2!3d17.710652!4d83.307948!16s%2Fg%2F11h53q598p!19sChIJR99IiRVDOToRHJ37ViV_FsY?authuser=0&hl=en&rclk=1"
@@ -5077,10 +5119,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KRISHNA+IVF+CLINIC+,PARKING+AREA/data=!4m7!3m6!1s0x3a3943158948df47:0xc6167f2556fb9d1c!8m2!3d17.710652!4d83.307948!16s%2Fg%2F11h53q598p!19sChIJR99IiRVDOToRHJ37ViV_FsY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lancet-laparoscopy-center-visakhapatnam",
@@ -5129,7 +5172,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/LANCET+LAPAROSCOPY+CENTER/data=!4m7!3m6!1s0x3a39439342888f1b:0x2e795fd052dfb133!8m2!3d17.7149452!4d83.3137219!16s%2Fg%2F11h18zpx0h!19sChIJG4-IQpNDOToRM7HfUtBfeS4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LANCET+LAPAROSCOPY+CENTER/data=!4m7!3m6!1s0x3a39439342888f1b:0x2e795fd052dfb133!8m2!3d17.7149452!4d83.3137219!16s%2Fg%2F11h18zpx0h!19sChIJG4-IQpNDOToRM7HfUtBfeS4?authuser=0&hl=en&rclk=1"
@@ -5198,7 +5241,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LANCET+LAPAROSCOPY+CENTER/data=!4m7!3m6!1s0x3a39439342888f1b:0x2e795fd052dfb133!8m2!3d17.7149452!4d83.3137219!16s%2Fg%2F11h18zpx0h!19sChIJG4-IQpNDOToRM7HfUtBfeS4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "laxman-dental-care-visakhapatnam",
@@ -5247,7 +5291,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Laxman+Dental+care/data=!4m7!3m6!1s0x3a3943202816ed45:0x10ba012bb90bd873!8m2!3d17.7353434!4d83.2972821!16s%2Fg%2F11nyg32m3n!19sChIJRe0WKCBDOToRc9gLuSsBuhA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxman+Dental+care/data=!4m7!3m6!1s0x3a3943202816ed45:0x10ba012bb90bd873!8m2!3d17.7353434!4d83.2972821!16s%2Fg%2F11nyg32m3n!19sChIJRe0WKCBDOToRc9gLuSsBuhA?authuser=0&hl=en&rclk=1"
@@ -5316,7 +5360,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laxman+Dental+care/data=!4m7!3m6!1s0x3a3943202816ed45:0x10ba012bb90bd873!8m2!3d17.7353434!4d83.2972821!16s%2Fg%2F11nyg32m3n!19sChIJRe0WKCBDOToRc9gLuSsBuhA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lg-hospitals-visakhapatnam",
@@ -5365,7 +5410,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/LG+Hospitals/data=!4m7!3m6!1s0x3a3943102434602b:0x9f6f7cb64f7f4a9c!8m2!3d17.7095117!4d83.3058614!16s%2Fg%2F1q6csqx73!19sChIJK2A0JBBDOToRnEp_T7Z8b58?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LG+Hospitals/data=!4m7!3m6!1s0x3a3943102434602b:0x9f6f7cb64f7f4a9c!8m2!3d17.7095117!4d83.3058614!16s%2Fg%2F1q6csqx73!19sChIJK2A0JBBDOToRnEp_T7Z8b58?authuser=0&hl=en&rclk=1"
@@ -5431,10 +5476,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LG+Hospitals/data=!4m7!3m6!1s0x3a3943102434602b:0x9f6f7cb64f7f4a9c!8m2!3d17.7095117!4d83.3058614!16s%2Fg%2F1q6csqx73!19sChIJK2A0JBBDOToRnEp_T7Z8b58?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "life-fertility-clinic-best-ivf-iui-treatment-center-in-vizag-advanced-ivf-research-centre-visakhapatnam",
@@ -5484,7 +5530,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Life+Fertility+Clinic+%7C+Best+IVF,+IUI+treatment+center+in+Vizag+%7C+Advanced+IVF+%7C+Research+Centre/data=!4m7!3m6!1s0x3a39433c29ec41cb:0x2f01b04d69af8da4!8m2!3d17.7075664!4d83.3083413!16s%2Fg%2F11lj1jdhvp!19sChIJy0HsKTxDOToRpI2vaU2wAS8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Fertility+Clinic+%7C+Best+IVF,+IUI+treatment+center+in+Vizag+%7C+Advanced+IVF+%7C+Research+Centre/data=!4m7!3m6!1s0x3a39433c29ec41cb:0x2f01b04d69af8da4!8m2!3d17.7075664!4d83.3083413!16s%2Fg%2F11lj1jdhvp!19sChIJy0HsKTxDOToRpI2vaU2wAS8?authuser=0&hl=en&rclk=1"
@@ -5553,7 +5599,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+Fertility+Clinic+%7C+Best+IVF,+IUI+treatment+center+in+Vizag+%7C+Advanced+IVF+%7C+Research+Centre/data=!4m7!3m6!1s0x3a39433c29ec41cb:0x2f01b04d69af8da4!8m2!3d17.7075664!4d83.3083413!16s%2Fg%2F11lj1jdhvp!19sChIJy0HsKTxDOToRpI2vaU2wAS8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "london-ivf-centre-visakhapatnam",
@@ -5603,7 +5650,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/London+IVF+Centre/data=!4m7!3m6!1s0x3a39431aed184b21:0xd6bed9244d88325c!8m2!3d17.7107012!4d83.3028244!16s%2Fg%2F11ckxy0l84!19sChIJIUsY7RpDOToRXDKITSTZvtY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/London+IVF+Centre/data=!4m7!3m6!1s0x3a39431aed184b21:0xd6bed9244d88325c!8m2!3d17.7107012!4d83.3028244!16s%2Fg%2F11ckxy0l84!19sChIJIUsY7RpDOToRXDKITSTZvtY?authuser=0&hl=en&rclk=1"
@@ -5672,7 +5719,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/London+IVF+Centre/data=!4m7!3m6!1s0x3a39431aed184b21:0xd6bed9244d88325c!8m2!3d17.7107012!4d83.3028244!16s%2Fg%2F11ckxy0l84!19sChIJIUsY7RpDOToRXDKITSTZvtY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lotus-hospitals-for-women-and-children-visakhapatnam-visakhapatnam",
@@ -5723,7 +5771,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lotus+Hospitals+For+Women+And+Children+%7C+Visakhapatnam/data=!4m7!3m6!1s0x3a3967da2702a487:0x6d70dff7e7320b30!8m2!3d17.7213739!4d83.3148756!16s%2Fg%2F11b5pj6zys!19sChIJh6QCJ9pnOToRMAsy5_ffcG0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lotus+Hospitals+For+Women+And+Children+%7C+Visakhapatnam/data=!4m7!3m6!1s0x3a3967da2702a487:0x6d70dff7e7320b30!8m2!3d17.7213739!4d83.3148756!16s%2Fg%2F11b5pj6zys!19sChIJh6QCJ9pnOToRMAsy5_ffcG0?authuser=0&hl=en&rclk=1"
@@ -5792,7 +5840,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lotus+Hospitals+For+Women+And+Children+%7C+Visakhapatnam/data=!4m7!3m6!1s0x3a3967da2702a487:0x6d70dff7e7320b30!8m2!3d17.7213739!4d83.3148756!16s%2Fg%2F11b5pj6zys!19sChIJh6QCJ9pnOToRMAsy5_ffcG0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mahanthi-hospital-gajuwaka",
@@ -5840,7 +5889,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Mahanthi+Hospital/@17.6841689,83.2014607,17z/data=!3m1!4b1!4m6!3m5!1s0x3a39691b0d2d4ced:0x2626c1f92c016048!8m2!3d17.6841689!4d83.2014607!16s%2Fg%2F11r_qp7wmv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahanthi+Hospital/@17.6841689,83.2014607,17z/data=!3m1!4b1!4m6!3m5!1s0x3a39691b0d2d4ced:0x2626c1f92c016048!8m2!3d17.6841689!4d83.2014607!16s%2Fg%2F11r_qp7wmv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -5909,7 +5958,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahanthi+Hospital/@17.6841689,83.2014607,17z/data=!3m1!4b1!4m6!3m5!1s0x3a39691b0d2d4ced:0x2626c1f92c016048!8m2!3d17.6841689!4d83.2014607!16s%2Fg%2F11r_qp7wmv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mahatma-gandhi-cancer-hospital-and-research-institute-visakhapatnam",
@@ -5958,7 +6008,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mahatma+Gandhi+Cancer+Hospital+%26+Research+Institute/data=!4m7!3m6!1s0x3a396ea925555555:0xea2ebbfac2b6ed40!8m2!3d17.743657!4d83.335814!16s%2Fg%2F1tftzzh0!19sChIJVVVVJaluOToRQO22wvq7Luo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahatma+Gandhi+Cancer+Hospital+%26+Research+Institute/data=!4m7!3m6!1s0x3a396ea925555555:0xea2ebbfac2b6ed40!8m2!3d17.743657!4d83.335814!16s%2Fg%2F1tftzzh0!19sChIJVVVVJaluOToRQO22wvq7Luo?authuser=0&hl=en&rclk=1"
@@ -6027,7 +6077,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahatma+Gandhi+Cancer+Hospital+%26+Research+Institute/data=!4m7!3m6!1s0x3a396ea925555555:0xea2ebbfac2b6ed40!8m2!3d17.743657!4d83.335814!16s%2Fg%2F1tftzzh0!19sChIJVVVVJaluOToRQO22wvq7Luo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "medicover-best-cancer-hospital-in-vizag-visakhapatnam",
@@ -6076,7 +6127,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medicover+-+Best+Cancer+Hospital+in+Vizag/data=!4m7!3m6!1s0x3a395d0cc379f4ad:0x44d497fa518dbc32!8m2!3d17.7636672!4d83.3121197!16s%2Fg%2F11jcls6cy1!19sChIJrfR5wwxdOToRMryNUfqX1EQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicover+-+Best+Cancer+Hospital+in+Vizag/data=!4m7!3m6!1s0x3a395d0cc379f4ad:0x44d497fa518dbc32!8m2!3d17.7636672!4d83.3121197!16s%2Fg%2F11jcls6cy1!19sChIJrfR5wwxdOToRMryNUfqX1EQ?authuser=0&hl=en&rclk=1"
@@ -6145,7 +6196,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicover+-+Best+Cancer+Hospital+in+Vizag/data=!4m7!3m6!1s0x3a395d0cc379f4ad:0x44d497fa518dbc32!8m2!3d17.7636672!4d83.3121197!16s%2Fg%2F11jcls6cy1!19sChIJrfR5wwxdOToRMryNUfqX1EQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "medicover-hospitals-best-hospital-in-vizag-visakhapatnam",
@@ -6194,7 +6246,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Vizag/data=!4m7!3m6!1s0x3a395dd7d9ba1013:0xd413318d7391f81b!8m2!3d17.7479377!4d83.3319974!16s%2Fg%2F11rrqfqyzk!19sChIJExC62dddOToRG_iRc40xE9Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Vizag/data=!4m7!3m6!1s0x3a395dd7d9ba1013:0xd413318d7391f81b!8m2!3d17.7479377!4d83.3319974!16s%2Fg%2F11rrqfqyzk!19sChIJExC62dddOToRG_iRc40xE9Q?authuser=0&hl=en&rclk=1"
@@ -6263,7 +6315,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Vizag/data=!4m7!3m6!1s0x3a395dd7d9ba1013:0xd413318d7391f81b!8m2!3d17.7479377!4d83.3319974!16s%2Fg%2F11rrqfqyzk!19sChIJExC62dddOToRG_iRc40xE9Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mgr-hospital-visakhapatnam",
@@ -6312,7 +6365,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MGR+Hospital/@17.7324023,83.3310336,17z/data=!3m1!4b1!4m6!3m5!1s0x3a394359f7abaef3:0x910591fb2a803c0d!8m2!3d17.7324023!4d83.3310336!16s%2Fg%2F124yps1ws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MGR+Hospital/@17.7324023,83.3310336,17z/data=!3m1!4b1!4m6!3m5!1s0x3a394359f7abaef3:0x910591fb2a803c0d!8m2!3d17.7324023!4d83.3310336!16s%2Fg%2F124yps1ws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6381,7 +6434,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MGR+Hospital/@17.7324023,83.3310336,17z/data=!3m1!4b1!4m6!3m5!1s0x3a394359f7abaef3:0x910591fb2a803c0d!8m2!3d17.7324023!4d83.3310336!16s%2Fg%2F124yps1ws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "msr-hospital-satyarao-mbbs-m-d-visakhapatnam",
@@ -6429,7 +6483,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Msr+hospital+%28satyarao+MBBS;M.D%29/data=!4m7!3m6!1s0x3a3969e9ef03d315:0x7427e6d82cc6a67b!8m2!3d17.6899123!4d83.2359979!16s%2Fg%2F11f65hrkjw!19sChIJFdMD7-lpOToRe6bGLNjmJ3Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Msr+hospital+%28satyarao+MBBS;M.D%29/data=!4m7!3m6!1s0x3a3969e9ef03d315:0x7427e6d82cc6a67b!8m2!3d17.6899123!4d83.2359979!16s%2Fg%2F11f65hrkjw!19sChIJFdMD7-lpOToRe6bGLNjmJ3Q?authuser=0&hl=en&rclk=1"
@@ -6498,7 +6552,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Msr+hospital+%28satyarao+MBBS;M.D%29/data=!4m7!3m6!1s0x3a3969e9ef03d315:0x7427e6d82cc6a67b!8m2!3d17.6899123!4d83.2359979!16s%2Fg%2F11f65hrkjw!19sChIJFdMD7-lpOToRe6bGLNjmJ3Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "navaratnam-kesava-rao-charitable-health-centre-gajuwaka",
@@ -6546,7 +6601,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Navaratnam+-+Kesava+Rao+Charitable+Health+Centre/data=!4m7!3m6!1s0x3a39690728280e3b:0xa72a63d42470f9d4!8m2!3d17.6872318!4d83.2050892!16s%2Fg%2F11bbrkg7qw!19sChIJOw4oKAdpOToR1PlwJNRjKqc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navaratnam+-+Kesava+Rao+Charitable+Health+Centre/data=!4m7!3m6!1s0x3a39690728280e3b:0xa72a63d42470f9d4!8m2!3d17.6872318!4d83.2050892!16s%2Fg%2F11bbrkg7qw!19sChIJOw4oKAdpOToR1PlwJNRjKqc?authuser=0&hl=en&rclk=1"
@@ -6615,7 +6670,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Navaratnam+-+Kesava+Rao+Charitable+Health+Centre/data=!4m7!3m6!1s0x3a39690728280e3b:0xa72a63d42470f9d4!8m2!3d17.6872318!4d83.2050892!16s%2Fg%2F11bbrkg7qw!19sChIJOw4oKAdpOToR1PlwJNRjKqc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nikitha-hospital-visakhapatnam",
@@ -6664,7 +6720,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nikitha+Hospital/data=!4m7!3m6!1s0x3a39433563943255:0xc7963ba161dfebc9!8m2!3d17.7426366!4d83.3144657!16s%2Fg%2F1tgfbsrh!19sChIJVTKUYzVDOToRyevfYaE7lsc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nikitha+Hospital/data=!4m7!3m6!1s0x3a39433563943255:0xc7963ba161dfebc9!8m2!3d17.7426366!4d83.3144657!16s%2Fg%2F1tgfbsrh!19sChIJVTKUYzVDOToRyevfYaE7lsc?authuser=0&hl=en&rclk=1"
@@ -6730,10 +6786,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nikitha+Hospital/data=!4m7!3m6!1s0x3a39433563943255:0xc7963ba161dfebc9!8m2!3d17.7426366!4d83.3144657!16s%2Fg%2F1tgfbsrh!19sChIJVTKUYzVDOToRyevfYaE7lsc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nova-ivf-fertility-center-best-ivf-centre-in-vizag-visakhapatnam-visakhapatnam",
@@ -6783,7 +6840,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Vizag+%28Visakhapatnam%29/data=!4m7!3m6!1s0x3a394307ecda7cf1:0x494a241c7d978033!8m2!3d17.7240598!4d83.3104855!16s%2Fg%2F11y5ftn9fr!19sChIJ8Xza7AdDOToRM4CXfRwkSkk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Vizag+%28Visakhapatnam%29/data=!4m7!3m6!1s0x3a394307ecda7cf1:0x494a241c7d978033!8m2!3d17.7240598!4d83.3104855!16s%2Fg%2F11y5ftn9fr!19sChIJ8Xza7AdDOToRM4CXfRwkSkk?authuser=0&hl=en&rclk=1"
@@ -6852,7 +6909,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Vizag+%28Visakhapatnam%29/data=!4m7!3m6!1s0x3a394307ecda7cf1:0x494a241c7d978033!8m2!3d17.7240598!4d83.3104855!16s%2Fg%2F11y5ftn9fr!19sChIJ8Xza7AdDOToRM4CXfRwkSkk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "oasis-fertility-centre-madhurawada-best-fertility-and-ivf-centre-in-vizag-potinamallayyapalem",
@@ -6902,7 +6960,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Oasis+Fertility+Centre+Madhurawada+-+Best+Fertility+%26+IVF+Centre+In+Vizag/data=!4m7!3m6!1s0x3a395bddc0f21957:0x54373d85eb1ffd1!8m2!3d17.8040785!4d83.3494305!16s%2Fg%2F11scv2vnd0!19sChIJVxnywN1bOToR0f-xXthzQwU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oasis+Fertility+Centre+Madhurawada+-+Best+Fertility+%26+IVF+Centre+In+Vizag/data=!4m7!3m6!1s0x3a395bddc0f21957:0x54373d85eb1ffd1!8m2!3d17.8040785!4d83.3494305!16s%2Fg%2F11scv2vnd0!19sChIJVxnywN1bOToR0f-xXthzQwU?authuser=0&hl=en&rclk=1"
@@ -6968,10 +7026,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oasis+Fertility+Centre+Madhurawada+-+Best+Fertility+%26+IVF+Centre+In+Vizag/data=!4m7!3m6!1s0x3a395bddc0f21957:0x54373d85eb1ffd1!8m2!3d17.8040785!4d83.3494305!16s%2Fg%2F11scv2vnd0!19sChIJVxnywN1bOToR0f-xXthzQwU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "omega-cancer-hospitals-cancer-treatment-hospital-visakhapatnam-visakhapatnam",
@@ -7021,7 +7080,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Omega+Cancer+Hospitals+%28Cancer+Treatment+Hospital%29+-+Visakhapatnam/data=!4m7!3m6!1s0x3a395d68bbe9d3e3:0xab380e87628c8928!8m2!3d17.7635893!4d83.3123509!16s%2Fg%2F11gyy8xjzt!19sChIJ49Ppu2hdOToRKImMYocOOKs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Omega+Cancer+Hospitals+%28Cancer+Treatment+Hospital%29+-+Visakhapatnam/data=!4m7!3m6!1s0x3a395d68bbe9d3e3:0xab380e87628c8928!8m2!3d17.7635893!4d83.3123509!16s%2Fg%2F11gyy8xjzt!19sChIJ49Ppu2hdOToRKImMYocOOKs?authuser=0&hl=en&rclk=1"
@@ -7090,7 +7149,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Omega+Cancer+Hospitals+%28Cancer+Treatment+Hospital%29+-+Visakhapatnam/data=!4m7!3m6!1s0x3a395d68bbe9d3e3:0xab380e87628c8928!8m2!3d17.7635893!4d83.3123509!16s%2Fg%2F11gyy8xjzt!19sChIJ49Ppu2hdOToRKImMYocOOKs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "padmasri-hospital-visakhapatnam",
@@ -7138,7 +7198,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Padmasri+Hospital/data=!4m7!3m6!1s0x3a394331fce13529:0x224e23b5188a1942!8m2!3d17.7382367!4d83.303662!16s%2Fg%2F1tcvxvcz!19sChIJKTXh_DFDOToRQhmKGLUjTiI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Padmasri+Hospital/data=!4m7!3m6!1s0x3a394331fce13529:0x224e23b5188a1942!8m2!3d17.7382367!4d83.303662!16s%2Fg%2F1tcvxvcz!19sChIJKTXh_DFDOToRQhmKGLUjTiI?authuser=0&hl=en&rclk=1"
@@ -7207,7 +7267,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Padmasri+Hospital/data=!4m7!3m6!1s0x3a394331fce13529:0x224e23b5188a1942!8m2!3d17.7382367!4d83.303662!16s%2Fg%2F1tcvxvcz!19sChIJKTXh_DFDOToRQhmKGLUjTiI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "padmasri-hospital-and-ivf-center-best-fertility-gynecology-and-maternity-hospital-in-madhurawada-visakhapatnam-madhuravada",
@@ -7257,7 +7318,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Padmasri+Hospital+%26+IVF+Center+%E2%80%93+Best+Fertility,+Gynecology,+and+Maternity+Hospital+in+Madhurawada,+Visakhapatnam/data=!4m7!3m6!1s0x3a395b79b0aa9f49:0x30418041b97de7e7!8m2!3d17.8094398!4d83.358903!16s%2Fg%2F11lv7g_bhw!19sChIJSZ-qsHlbOToR5-d9uUGAQTA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Padmasri+Hospital+%26+IVF+Center+%E2%80%93+Best+Fertility,+Gynecology,+and+Maternity+Hospital+in+Madhurawada,+Visakhapatnam/data=!4m7!3m6!1s0x3a395b79b0aa9f49:0x30418041b97de7e7!8m2!3d17.8094398!4d83.358903!16s%2Fg%2F11lv7g_bhw!19sChIJSZ-qsHlbOToR5-d9uUGAQTA?authuser=0&hl=en&rclk=1"
@@ -7326,7 +7387,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Padmasri+Hospital+%26+IVF+Center+%E2%80%93+Best+Fertility,+Gynecology,+and+Maternity+Hospital+in+Madhurawada,+Visakhapatnam/data=!4m7!3m6!1s0x3a395b79b0aa9f49:0x30418041b97de7e7!8m2!3d17.8094398!4d83.358903!16s%2Fg%2F11lv7g_bhw!19sChIJSZ-qsHlbOToR5-d9uUGAQTA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "padmasri-ivf-centre-visakhapatnam",
@@ -7376,7 +7438,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Padmasri+IVF+Centre/data=!4m7!3m6!1s0x3a39434ee1196d83:0x4f52a6f0547ddf91!8m2!3d17.7362589!4d83.3216815!16s%2Fg%2F11k4_f_9_m!19sChIJg20Z4U5DOToRkd99VPCmUk8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Padmasri+IVF+Centre/data=!4m7!3m6!1s0x3a39434ee1196d83:0x4f52a6f0547ddf91!8m2!3d17.7362589!4d83.3216815!16s%2Fg%2F11k4_f_9_m!19sChIJg20Z4U5DOToRkd99VPCmUk8?authuser=0&hl=en&rclk=1"
@@ -7445,7 +7507,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Padmasri+IVF+Centre/data=!4m7!3m6!1s0x3a39434ee1196d83:0x4f52a6f0547ddf91!8m2!3d17.7362589!4d83.3216815!16s%2Fg%2F11k4_f_9_m!19sChIJg20Z4U5DOToRkd99VPCmUk8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "partha-dental-clinic-ramatalkies-vizag-invisalign-provider-aligners-braces-rct-and-dental-implants-visakhapatnam",
@@ -7494,7 +7557,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Ramatalkies,+Vizag+%7C+Invisalign+Provider+%7C+Aligners,+Braces,+RCT+%26+Dental+Implants/data=!4m7!3m6!1s0x3a3969b1dfffbd55:0xe1d61c26d9a4f05a!8m2!3d17.7283527!4d83.3127096!16s%2Fg%2F1tdn2hzy!19sChIJVb3_37FpOToRWvCk2SYc1uE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Ramatalkies,+Vizag+%7C+Invisalign+Provider+%7C+Aligners,+Braces,+RCT+%26+Dental+Implants/data=!4m7!3m6!1s0x3a3969b1dfffbd55:0xe1d61c26d9a4f05a!8m2!3d17.7283527!4d83.3127096!16s%2Fg%2F1tdn2hzy!19sChIJVb3_37FpOToRWvCk2SYc1uE?authuser=0&hl=en&rclk=1"
@@ -7563,7 +7626,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Ramatalkies,+Vizag+%7C+Invisalign+Provider+%7C+Aligners,+Braces,+RCT+%26+Dental+Implants/data=!4m7!3m6!1s0x3a3969b1dfffbd55:0xe1d61c26d9a4f05a!8m2!3d17.7283527!4d83.3127096!16s%2Fg%2F1tdn2hzy!19sChIJVb3_37FpOToRWvCk2SYc1uE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pinnacle-hospitals-visakhapatnam-visakhapatnam",
@@ -7612,7 +7676,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pinnacle+Hospitals,+Visakhapatnam./data=!4m7!3m6!1s0x3a395cc3bc04279b:0x3ceecaae17bedd99!8m2!3d17.763273!4d83.307881!16s%2Fg%2F11bx42p1p1!19sChIJmycEvMNcOToRmd2-F67K7jw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pinnacle+Hospitals,+Visakhapatnam./data=!4m7!3m6!1s0x3a395cc3bc04279b:0x3ceecaae17bedd99!8m2!3d17.763273!4d83.307881!16s%2Fg%2F11bx42p1p1!19sChIJmycEvMNcOToRmd2-F67K7jw?authuser=0&hl=en&rclk=1"
@@ -7681,7 +7745,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pinnacle+Hospitals,+Visakhapatnam./data=!4m7!3m6!1s0x3a395cc3bc04279b:0x3ceecaae17bedd99!8m2!3d17.763273!4d83.307881!16s%2Fg%2F11bx42p1p1!19sChIJmycEvMNcOToRmd2-F67K7jw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "prasad-aesthetic-clinic-visakhapatnam",
@@ -7730,7 +7795,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Prasad+Aesthetic+Clinic/@17.7246929,83.3198377,17z/data=!3m1!4b1!4m6!3m5!1s0x9ef77d586c21a3f:0xb08099ffde10dfe8!8m2!3d17.7246929!4d83.3198377!16s%2Fg%2F11x84lwnrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prasad+Aesthetic+Clinic/@17.7246929,83.3198377,17z/data=!3m1!4b1!4m6!3m5!1s0x9ef77d586c21a3f:0xb08099ffde10dfe8!8m2!3d17.7246929!4d83.3198377!16s%2Fg%2F11x84lwnrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7796,10 +7861,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prasad+Aesthetic+Clinic/@17.7246929,83.3198377,17z/data=!3m1!4b1!4m6!3m5!1s0x9ef77d586c21a3f:0xb08099ffde10dfe8!8m2!3d17.7246929!4d83.3198377!16s%2Fg%2F11x84lwnrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prasads-acupuncture-center-and-holistic-care-adavivaram",
@@ -7848,7 +7914,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Prasads+Acupuncture+Center+%26+Holistic+Care/data=!4m7!3m6!1s0x3a396735482dd293:0xf70d2283a55c85f2!8m2!3d17.7730331!4d83.236131!16s%2Fg%2F11t00nk2zm!19sChIJk9ItSDVnOToR8oVcpYMiDfc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prasads+Acupuncture+Center+%26+Holistic+Care/data=!4m7!3m6!1s0x3a396735482dd293:0xf70d2283a55c85f2!8m2!3d17.7730331!4d83.236131!16s%2Fg%2F11t00nk2zm!19sChIJk9ItSDVnOToR8oVcpYMiDfc?authuser=0&hl=en&rclk=1"
@@ -7914,10 +7980,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prasads+Acupuncture+Center+%26+Holistic+Care/data=!4m7!3m6!1s0x3a396735482dd293:0xf70d2283a55c85f2!8m2!3d17.7730331!4d83.236131!16s%2Fg%2F11t00nk2zm!19sChIJk9ItSDVnOToR8oVcpYMiDfc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "prema-diagnostics-centre-visakhapatnam",
@@ -7966,7 +8033,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Prema+Diagnostics+Centre/data=!4m7!3m6!1s0x3a3943c9681bb115:0x9b0500fc48a530ee!8m2!3d17.7158928!4d83.300226!16s%2Fg%2F11p5p8fm62!19sChIJFbEbaMlDOToR7jClSPwABZs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prema+Diagnostics+Centre/data=!4m7!3m6!1s0x3a3943c9681bb115:0x9b0500fc48a530ee!8m2!3d17.7158928!4d83.300226!16s%2Fg%2F11p5p8fm62!19sChIJFbEbaMlDOToR7jClSPwABZs?authuser=0&hl=en&rclk=1"
@@ -8035,7 +8102,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prema+Diagnostics+Centre/data=!4m7!3m6!1s0x3a3943c9681bb115:0x9b0500fc48a530ee!8m2!3d17.7158928!4d83.300226!16s%2Fg%2F11p5p8fm62!19sChIJFbEbaMlDOToR7jClSPwABZs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pristyn-care-visakhapatnam",
@@ -8085,7 +8153,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pristyn+Care/data=!4m7!3m6!1s0x3a39435db9f8d9bd:0x47a99b68df84d843!8m2!3d17.7457233!4d83.3316112!16s%2Fg%2F11rw_mv6h1!19sChIJvdn4uV1DOToRQ9iE32ibqUc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pristyn+Care/data=!4m7!3m6!1s0x3a39435db9f8d9bd:0x47a99b68df84d843!8m2!3d17.7457233!4d83.3316112!16s%2Fg%2F11rw_mv6h1!19sChIJvdn4uV1DOToRQ9iE32ibqUc?authuser=0&hl=en&rclk=1"
@@ -8154,7 +8222,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pristyn+Care/data=!4m7!3m6!1s0x3a39435db9f8d9bd:0x47a99b68df84d843!8m2!3d17.7457233!4d83.3316112!16s%2Fg%2F11rw_mv6h1!19sChIJvdn4uV1DOToRQ9iE32ibqUc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pristyn-care-visakhapatnam",
@@ -8204,7 +8273,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pristyn+Care/data=!4m7!3m6!1s0x3a394379c0d09fd9:0x5a03de7247ef90e8!8m2!3d17.7193122!4d83.3062242!16s%2Fg%2F11sx3tsxqn!19sChIJ2Z_QwHlDOToR6JDvR3LeA1o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pristyn+Care/data=!4m7!3m6!1s0x3a394379c0d09fd9:0x5a03de7247ef90e8!8m2!3d17.7193122!4d83.3062242!16s%2Fg%2F11sx3tsxqn!19sChIJ2Z_QwHlDOToR6JDvR3LeA1o?authuser=0&hl=en&rclk=1"
@@ -8273,7 +8342,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pristyn+Care/data=!4m7!3m6!1s0x3a394379c0d09fd9:0x5a03de7247ef90e8!8m2!3d17.7193122!4d83.3062242!16s%2Fg%2F11sx3tsxqn!19sChIJ2Z_QwHlDOToR6JDvR3LeA1o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "q1-hospitals-visakhapatnam",
@@ -8322,7 +8392,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Q1+Hospitals/@17.7624315,83.3083374,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395cc38cc909c7:0x1e7191785b7ec63f!8m2!3d17.7624315!4d83.3083374!16s%2Fg%2F11dxbmlbsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Q1+Hospitals/@17.7624315,83.3083374,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395cc38cc909c7:0x1e7191785b7ec63f!8m2!3d17.7624315!4d83.3083374!16s%2Fg%2F11dxbmlbsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8391,7 +8461,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Q1+Hospitals/@17.7624315,83.3083374,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395cc38cc909c7:0x1e7191785b7ec63f!8m2!3d17.7624315!4d83.3083374!16s%2Fg%2F11dxbmlbsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "queen-s-nri-hospital-visakhapatnam",
@@ -8439,7 +8510,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Queen%27s+NRI+Hospital/data=!4m7!3m6!1s0x3a3943311226a1ed:0x2f12873df4d18d45!8m2!3d17.7406782!4d83.307974!16s%2Fg%2F1td2fb18!19sChIJ7aEmEjFDOToRRY3R9D2HEi8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Queen%27s+NRI+Hospital/data=!4m7!3m6!1s0x3a3943311226a1ed:0x2f12873df4d18d45!8m2!3d17.7406782!4d83.307974!16s%2Fg%2F1td2fb18!19sChIJ7aEmEjFDOToRRY3R9D2HEi8?authuser=0&hl=en&rclk=1"
@@ -8508,7 +8579,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Queen%27s+NRI+Hospital/data=!4m7!3m6!1s0x3a3943311226a1ed:0x2f12873df4d18d45!8m2!3d17.7406782!4d83.307974!16s%2Fg%2F1td2fb18!19sChIJ7aEmEjFDOToRRY3R9D2HEi8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rainbow-children-s-clinic-and-birthright-clinic-kailash-metta-visakhapatnam-visakhapatnam",
@@ -8558,7 +8630,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rainbow+Children%27s+Clinic+%26+BirthRight+Clinic+-+Kailash+metta,+Visakhapatnam/data=!4m7!3m6!1s0x3a3943c62f9866df:0xb61830840753ce6c!8m2!3d17.7210136!4d83.3137084!16s%2Fg%2F11p00_hwzh!19sChIJ32aYL8ZDOToRbM5TB4QwGLY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rainbow+Children%27s+Clinic+%26+BirthRight+Clinic+-+Kailash+metta,+Visakhapatnam/data=!4m7!3m6!1s0x3a3943c62f9866df:0xb61830840753ce6c!8m2!3d17.7210136!4d83.3137084!16s%2Fg%2F11p00_hwzh!19sChIJ32aYL8ZDOToRbM5TB4QwGLY?authuser=0&hl=en&rclk=1"
@@ -8627,7 +8699,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rainbow+Children%27s+Clinic+%26+BirthRight+Clinic+-+Kailash+metta,+Visakhapatnam/data=!4m7!3m6!1s0x3a3943c62f9866df:0xb61830840753ce6c!8m2!3d17.7210136!4d83.3137084!16s%2Fg%2F11p00_hwzh!19sChIJ32aYL8ZDOToRbM5TB4QwGLY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rainbow-children-s-hospital-best-pediatric-hospital-in-health-city-vizag-chinnagadili",
@@ -8677,7 +8750,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rainbow+Children%27s+Hospital+-+Best+Pediatric+Hospital+in+Health+City,+Vizag/data=!4m7!3m6!1s0x3a395d3f3855c5b7:0xbedafdcebfd12d19!8m2!3d17.7634293!4d83.3111041!16s%2Fg%2F11mtsmcs0g!19sChIJt8VVOD9dOToRGS3Rv8792r4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rainbow+Children%27s+Hospital+-+Best+Pediatric+Hospital+in+Health+City,+Vizag/data=!4m7!3m6!1s0x3a395d3f3855c5b7:0xbedafdcebfd12d19!8m2!3d17.7634293!4d83.3111041!16s%2Fg%2F11mtsmcs0g!19sChIJt8VVOD9dOToRGS3Rv8792r4?authuser=0&hl=en&rclk=1"
@@ -8746,7 +8819,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rainbow+Children%27s+Hospital+-+Best+Pediatric+Hospital+in+Health+City,+Vizag/data=!4m7!3m6!1s0x3a395d3f3855c5b7:0xbedafdcebfd12d19!8m2!3d17.7634293!4d83.3111041!16s%2Fg%2F11mtsmcs0g!19sChIJt8VVOD9dOToRGS3Rv8792r4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ravi-heart-centre-visakhapatnam",
@@ -8796,7 +8870,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ravi+Heart+Centre/data=!4m7!3m6!1s0x3a3943b0792cb0c9:0xd668cafdc3fecec!8m2!3d17.7152621!4d83.3081691!16s%2Fg%2F11vx4dz018!19sChIJybAsebBDOToR7Ow_3K-MZg0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ravi+Heart+Centre/data=!4m7!3m6!1s0x3a3943b0792cb0c9:0xd668cafdc3fecec!8m2!3d17.7152621!4d83.3081691!16s%2Fg%2F11vx4dz018!19sChIJybAsebBDOToR7Ow_3K-MZg0?authuser=0&hl=en&rclk=1"
@@ -8865,7 +8939,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ravi+Heart+Centre/data=!4m7!3m6!1s0x3a3943b0792cb0c9:0xd668cafdc3fecec!8m2!3d17.7152621!4d83.3081691!16s%2Fg%2F11vx4dz018!19sChIJybAsebBDOToR7Ow_3K-MZg0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ravi-s-dental-care-and-implant-centre-visakhapatnam",
@@ -8914,7 +8989,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ravi%E2%80%99s+Dental+Care+%26+Implant+Centre/@17.746757,83.3320133,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395d82c64ec523:0x35137a96bd824c7c!8m2!3d17.746757!4d83.3320133!16s%2Fg%2F11r2662cwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ravi%E2%80%99s+Dental+Care+%26+Implant+Centre/@17.746757,83.3320133,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395d82c64ec523:0x35137a96bd824c7c!8m2!3d17.746757!4d83.3320133!16s%2Fg%2F11r2662cwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8980,10 +9055,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ravi%E2%80%99s+Dental+Care+%26+Implant+Centre/@17.746757,83.3320133,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395d82c64ec523:0x35137a96bd824c7c!8m2!3d17.746757!4d83.3320133!16s%2Fg%2F11r2662cwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rk-hospital-gajuwaka",
@@ -9032,7 +9108,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RK+Hospital/data=!4m7!3m6!1s0x3a39685227617bab:0x161f266126a17f64!8m2!3d17.6825341!4d83.1969804!16s%2Fg%2F1tgh1db0!19sChIJq3thJ1JoOToRZH-hJmEmHxY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RK+Hospital/data=!4m7!3m6!1s0x3a39685227617bab:0x161f266126a17f64!8m2!3d17.6825341!4d83.1969804!16s%2Fg%2F1tgh1db0!19sChIJq3thJ1JoOToRZH-hJmEmHxY?authuser=0&hl=en&rclk=1"
@@ -9101,7 +9177,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RK+Hospital/data=!4m7!3m6!1s0x3a39685227617bab:0x161f266126a17f64!8m2!3d17.6825341!4d83.1969804!16s%2Fg%2F1tgh1db0!19sChIJq3thJ1JoOToRZH-hJmEmHxY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "roshini-fertility-centre-visakhapatnam",
@@ -9150,7 +9227,7 @@
     "metrics": [
       "Google rating 2.7"
     ],
-    "image": "https://www.google.com/maps/place/Roshini+Fertility+Centre/data=!4m7!3m6!1s0x3a39433cb05b297f:0x72397c8d4fe655fe!8m2!3d17.7257099!4d83.3046604!16s%2Fg%2F11b5wpm7x7!19sChIJfylbsDxDOToR_lXmT418OXI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Roshini+Fertility+Centre/data=!4m7!3m6!1s0x3a39433cb05b297f:0x72397c8d4fe655fe!8m2!3d17.7257099!4d83.3046604!16s%2Fg%2F11b5wpm7x7!19sChIJfylbsDxDOToR_lXmT418OXI?authuser=0&hl=en&rclk=1"
@@ -9219,7 +9296,8 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Roshini+Fertility+Centre/data=!4m7!3m6!1s0x3a39433cb05b297f:0x72397c8d4fe655fe!8m2!3d17.7257099!4d83.3046604!16s%2Fg%2F11b5wpm7x7!19sChIJfylbsDxDOToR_lXmT418OXI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "s-s-dental-hospital-implant-centre-visakhapatnam",
@@ -9269,7 +9347,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/S+S+Dental+Hospital+Implant+Centre/data=!4m7!3m6!1s0x3a39431029907871:0xb90a7836068c51c7!8m2!3d17.7092802!4d83.3062485!16s%2Fg%2F1hm5vmr9l!19sChIJcXiQKRBDOToRx1GMBjZ4Crk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+S+Dental+Hospital+Implant+Centre/data=!4m7!3m6!1s0x3a39431029907871:0xb90a7836068c51c7!8m2!3d17.7092802!4d83.3062485!16s%2Fg%2F1hm5vmr9l!19sChIJcXiQKRBDOToRx1GMBjZ4Crk?authuser=0&hl=en&rclk=1"
@@ -9338,7 +9416,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+S+Dental+Hospital+Implant+Centre/data=!4m7!3m6!1s0x3a39431029907871:0xb90a7836068c51c7!8m2!3d17.7092802!4d83.3062485!16s%2Fg%2F1hm5vmr9l!19sChIJcXiQKRBDOToRx1GMBjZ4Crk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sattva-dental-clinic-pedda-waltair-vizag-visakhapatnam",
@@ -9387,7 +9466,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sattva+Dental+Clinic,+Pedda+Waltair,+Vizag/data=!4m7!3m6!1s0x3a3945d69cb7882f:0xa00e61e091044e9!8m2!3d17.7310898!4d83.3384154!16s%2Fg%2F11yfv3rhsm!19sChIJL4i3nNZFOToR6UQQCR7mAAo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sattva+Dental+Clinic,+Pedda+Waltair,+Vizag/data=!4m7!3m6!1s0x3a3945d69cb7882f:0xa00e61e091044e9!8m2!3d17.7310898!4d83.3384154!16s%2Fg%2F11yfv3rhsm!19sChIJL4i3nNZFOToR6UQQCR7mAAo?authuser=0&hl=en&rclk=1"
@@ -9456,7 +9535,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sattva+Dental+Clinic,+Pedda+Waltair,+Vizag/data=!4m7!3m6!1s0x3a3945d69cb7882f:0xa00e61e091044e9!8m2!3d17.7310898!4d83.3384154!16s%2Fg%2F11yfv3rhsm!19sChIJL4i3nNZFOToR6UQQCR7mAAo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shanthi-maternity-and-infertility-clinic-visakhapatnam",
@@ -9507,7 +9587,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shanthi+Maternity+and+Infertility+Clinic/data=!4m7!3m6!1s0x3a395cab41dbe925:0xdd6dd18496c46739!8m2!3d17.7434249!4d83.3336075!16s%2Fg%2F11cmzzmx5y!19sChIJJenbQatcOToROWfEloTRbd0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanthi+Maternity+and+Infertility+Clinic/data=!4m7!3m6!1s0x3a395cab41dbe925:0xdd6dd18496c46739!8m2!3d17.7434249!4d83.3336075!16s%2Fg%2F11cmzzmx5y!19sChIJJenbQatcOToROWfEloTRbd0?authuser=0&hl=en&rclk=1"
@@ -9573,10 +9653,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanthi+Maternity+and+Infertility+Clinic/data=!4m7!3m6!1s0x3a395cab41dbe925:0xdd6dd18496c46739!8m2!3d17.7434249!4d83.3336075!16s%2Fg%2F11cmzzmx5y!19sChIJJenbQatcOToROWfEloTRbd0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-krishna-dental-care-visakhapatnam",
@@ -9625,7 +9706,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Krishna+Dental+Care/data=!4m7!3m6!1s0x3a3943a8fe82a5ef:0x6cadf5e2dc13c673!8m2!3d17.7098243!4d83.3104055!16s%2Fg%2F11mtjl607g!19sChIJ76WC_qhDOToRc8YT3OL1rWw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Krishna+Dental+Care/data=!4m7!3m6!1s0x3a3943a8fe82a5ef:0x6cadf5e2dc13c673!8m2!3d17.7098243!4d83.3104055!16s%2Fg%2F11mtjl607g!19sChIJ76WC_qhDOToRc8YT3OL1rWw?authuser=0&hl=en&rclk=1"
@@ -9691,10 +9772,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Krishna+Dental+Care/data=!4m7!3m6!1s0x3a3943a8fe82a5ef:0x6cadf5e2dc13c673!8m2!3d17.7098243!4d83.3104055!16s%2Fg%2F11mtjl607g!19sChIJ76WC_qhDOToRc8YT3OL1rWw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-satya-ivf-clinic-visakhapatnam",
@@ -9744,7 +9826,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Satya+IVF+Clinic/data=!4m7!3m6!1s0x3a3969b1dfffbd55:0xaeeb358b9a0d9022!8m2!3d17.7087941!4d83.3089983!16s%2Fg%2F1tcwv4cx!19sChIJVb3_37FpOToRIpANmos1664?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Satya+IVF+Clinic/data=!4m7!3m6!1s0x3a3969b1dfffbd55:0xaeeb358b9a0d9022!8m2!3d17.7087941!4d83.3089983!16s%2Fg%2F1tcwv4cx!19sChIJVb3_37FpOToRIpANmos1664?authuser=0&hl=en&rclk=1"
@@ -9813,7 +9895,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Satya+IVF+Clinic/data=!4m7!3m6!1s0x3a3969b1dfffbd55:0xaeeb358b9a0d9022!8m2!3d17.7087941!4d83.3089983!16s%2Fg%2F1tcwv4cx!19sChIJVb3_37FpOToRIpANmos1664?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "simhagiri-hospital-gajuwaka",
@@ -9862,7 +9945,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Simhagiri+Hospital/data=!4m7!3m6!1s0x3a3969aecdca3abd:0x4269c95e139c3861!8m2!3d17.6862396!4d83.2128577!16s%2Fg%2F1td5_4bn!19sChIJvTrKza5pOToRYTicE17JaUI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Simhagiri+Hospital/data=!4m7!3m6!1s0x3a3969aecdca3abd:0x4269c95e139c3861!8m2!3d17.6862396!4d83.2128577!16s%2Fg%2F1td5_4bn!19sChIJvTrKza5pOToRYTicE17JaUI?authuser=0&hl=en&rclk=1"
@@ -9931,7 +10014,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Simhagiri+Hospital/data=!4m7!3m6!1s0x3a3969aecdca3abd:0x4269c95e139c3861!8m2!3d17.6862396!4d83.2128577!16s%2Fg%2F1td5_4bn!19sChIJvTrKza5pOToRYTicE17JaUI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sisu-fertility-centre-visakhapatnam",
@@ -9980,7 +10064,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sisu+fertility+centre/@17.7103406,83.3028984,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3943000edf862f:0xf8c7e6afdd750429!8m2!3d17.7103406!4d83.3028984!16s%2Fg%2F11yjwfqm7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sisu+fertility+centre/@17.7103406,83.3028984,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3943000edf862f:0xf8c7e6afdd750429!8m2!3d17.7103406!4d83.3028984!16s%2Fg%2F11yjwfqm7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10046,10 +10130,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sisu+fertility+centre/@17.7103406,83.3028984,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3943000edf862f:0xf8c7e6afdd750429!8m2!3d17.7103406!4d83.3028984!16s%2Fg%2F11yjwfqm7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-and-shine-dental-visakhapatnam",
@@ -10098,7 +10183,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+%26+Shine+Dental/data=!4m7!3m6!1s0x3a395cab4d5a28f5:0x75d19d77584bf115!8m2!3d17.7451616!4d83.3314948!16s%2Fg%2F11cn18b6bf!19sChIJ9ShaTatcOToRFfFLWHed0XU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+%26+Shine+Dental/data=!4m7!3m6!1s0x3a395cab4d5a28f5:0x75d19d77584bf115!8m2!3d17.7451616!4d83.3314948!16s%2Fg%2F11cn18b6bf!19sChIJ9ShaTatcOToRFfFLWHed0XU?authuser=0&hl=en&rclk=1"
@@ -10167,7 +10252,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+%26+Shine+Dental/data=!4m7!3m6!1s0x3a395cab4d5a28f5:0x75d19d77584bf115!8m2!3d17.7451616!4d83.3314948!16s%2Fg%2F11cn18b6bf!19sChIJ9ShaTatcOToRFfFLWHed0XU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smile-vizag-visakhapatnam",
@@ -10217,7 +10303,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Vizag/data=!4m7!3m6!1s0x3a3943317a6b265b:0xddf4fd67e3692d17!8m2!3d17.7377749!4d83.3070842!16s%2Fg%2F11c1xq0qhj!19sChIJWyZrejFDOToRFy1p42f99N0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Vizag/data=!4m7!3m6!1s0x3a3943317a6b265b:0xddf4fd67e3692d17!8m2!3d17.7377749!4d83.3070842!16s%2Fg%2F11c1xq0qhj!19sChIJWyZrejFDOToRFy1p42f99N0?authuser=0&hl=en&rclk=1"
@@ -10286,7 +10372,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Vizag/data=!4m7!3m6!1s0x3a3943317a6b265b:0xddf4fd67e3692d17!8m2!3d17.7377749!4d83.3070842!16s%2Fg%2F11c1xq0qhj!19sChIJWyZrejFDOToRFy1p42f99N0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smylexl-dental-clinic-dwaraka-nagar-visakhapatnam-visakhapatnam",
@@ -10335,7 +10422,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Dwaraka+Nagar+Visakhapatnam/data=!4m7!3m6!1s0x3a394399ed0b0ee9:0x309d089b367f54d0!8m2!3d17.7273983!4d83.3054381!16s%2Fg%2F11f6xz5gr6!19sChIJ6Q4L7ZlDOToR0FR_NpsInTA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Dwaraka+Nagar+Visakhapatnam/data=!4m7!3m6!1s0x3a394399ed0b0ee9:0x309d089b367f54d0!8m2!3d17.7273983!4d83.3054381!16s%2Fg%2F11f6xz5gr6!19sChIJ6Q4L7ZlDOToR0FR_NpsInTA?authuser=0&hl=en&rclk=1"
@@ -10404,7 +10491,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Dwaraka+Nagar+Visakhapatnam/data=!4m7!3m6!1s0x3a394399ed0b0ee9:0x309d089b367f54d0!8m2!3d17.7273983!4d83.3054381!16s%2Fg%2F11f6xz5gr6!19sChIJ6Q4L7ZlDOToR0FR_NpsInTA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-krishna-surgical-hospital-adavivaram",
@@ -10453,7 +10541,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Krishna+Surgical+Hospital/data=!4m7!3m6!1s0x3a395d0434a39811:0xfcff79abd91892f6!8m2!3d17.7822476!4d83.2707523!16s%2Fg%2F11fgh8xk89!19sChIJEZijNARdOToR9pIY2at5__w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Krishna+Surgical+Hospital/data=!4m7!3m6!1s0x3a395d0434a39811:0xfcff79abd91892f6!8m2!3d17.7822476!4d83.2707523!16s%2Fg%2F11fgh8xk89!19sChIJEZijNARdOToR9pIY2at5__w?authuser=0&hl=en&rclk=1"
@@ -10522,7 +10610,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Krishna+Surgical+Hospital/data=!4m7!3m6!1s0x3a395d0434a39811:0xfcff79abd91892f6!8m2!3d17.7822476!4d83.2707523!16s%2Fg%2F11fgh8xk89!19sChIJEZijNARdOToR9pIY2at5__w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-satya-dental-hospital-best-dental-clinic-in-vizag-andhra-pradesh-visakhapatnam",
@@ -10571,7 +10660,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Satya+Dental+Hospital+%7C+Best+Dental+Clinic+in+Vizag,Andhra+Pradesh/data=!4m7!3m6!1s0x3a3943e9b57d9437:0xe79fd7cfb5701031!8m2!3d17.7413921!4d83.3304809!16s%2Fg%2F11ghfqxx_r!19sChIJN5R9telDOToRMRBwtc_Xn-c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Satya+Dental+Hospital+%7C+Best+Dental+Clinic+in+Vizag,Andhra+Pradesh/data=!4m7!3m6!1s0x3a3943e9b57d9437:0xe79fd7cfb5701031!8m2!3d17.7413921!4d83.3304809!16s%2Fg%2F11ghfqxx_r!19sChIJN5R9telDOToRMRBwtc_Xn-c?authuser=0&hl=en&rclk=1"
@@ -10637,10 +10726,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Satya+Dental+Hospital+%7C+Best+Dental+Clinic+in+Vizag,Andhra+Pradesh/data=!4m7!3m6!1s0x3a3943e9b57d9437:0xe79fd7cfb5701031!8m2!3d17.7413921!4d83.3304809!16s%2Fg%2F11ghfqxx_r!19sChIJN5R9telDOToRMRBwtc_Xn-c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-srinivasa-gastro-and-liver-center-visakhapatnam",
@@ -10691,7 +10781,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Srinivasa+Gastro+And+Liver+Center/data=!4m7!3m6!1s0x3a3943232328b405:0x73992a8a1c467ba4!8m2!3d17.7099118!4d83.3055685!16s%2Fg%2F11gnpb5cby!19sChIJBbQoIyNDOToRpHtGHIoqmXM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Srinivasa+Gastro+And+Liver+Center/data=!4m7!3m6!1s0x3a3943232328b405:0x73992a8a1c467ba4!8m2!3d17.7099118!4d83.3055685!16s%2Fg%2F11gnpb5cby!19sChIJBbQoIyNDOToRpHtGHIoqmXM?authuser=0&hl=en&rclk=1"
@@ -10760,7 +10850,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Srinivasa+Gastro+And+Liver+Center/data=!4m7!3m6!1s0x3a3943232328b405:0x73992a8a1c467ba4!8m2!3d17.7099118!4d83.3055685!16s%2Fg%2F11gnpb5cby!19sChIJBbQoIyNDOToRpHtGHIoqmXM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-surya-dental-clinic-vizag-best-dental-clinic-in-visakhapatnam-implants-root-canal-invisalign-and-clear-aligners-visakhapatnam",
@@ -10809,7 +10900,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Surya+Dental+Clinic+-+Vizag+%7C+Best+Dental+Clinic+in+Visakhapatnam+%7C+Implants,+Root+Canal,+Invisalign+%26+Clear+Aligners/data=!4m7!3m6!1s0x3a394312110933af:0x8fde1693a9eddd46!8m2!3d17.7095003!4d83.3102438!16s%2Fg%2F1hm4fgq_9!19sChIJrzMJERJDOToRRt3tqZMW3o8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Surya+Dental+Clinic+-+Vizag+%7C+Best+Dental+Clinic+in+Visakhapatnam+%7C+Implants,+Root+Canal,+Invisalign+%26+Clear+Aligners/data=!4m7!3m6!1s0x3a394312110933af:0x8fde1693a9eddd46!8m2!3d17.7095003!4d83.3102438!16s%2Fg%2F1hm4fgq_9!19sChIJrzMJERJDOToRRt3tqZMW3o8?authuser=0&hl=en&rclk=1"
@@ -10878,7 +10969,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Surya+Dental+Clinic+-+Vizag+%7C+Best+Dental+Clinic+in+Visakhapatnam+%7C+Implants,+Root+Canal,+Invisalign+%26+Clear+Aligners/data=!4m7!3m6!1s0x3a394312110933af:0x8fde1693a9eddd46!8m2!3d17.7095003!4d83.3102438!16s%2Fg%2F1hm4fgq_9!19sChIJrzMJERJDOToRRt3tqZMW3o8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-surya-hospital-visakhapatnam",
@@ -10926,7 +11018,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Surya+Hospital/data=!4m7!3m6!1s0x3a39430dfb637f3d:0x5353999f90ef20b3!8m2!3d17.7082874!4d83.3097898!16s%2Fg%2F11c52rbqhd!19sChIJPX9j-w1DOToRsyDvkJ-ZU1M?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Surya+Hospital/data=!4m7!3m6!1s0x3a39430dfb637f3d:0x5353999f90ef20b3!8m2!3d17.7082874!4d83.3097898!16s%2Fg%2F11c52rbqhd!19sChIJPX9j-w1DOToRsyDvkJ-ZU1M?authuser=0&hl=en&rclk=1"
@@ -10992,10 +11084,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Surya+Hospital/data=!4m7!3m6!1s0x3a39430dfb637f3d:0x5353999f90ef20b3!8m2!3d17.7082874!4d83.3097898!16s%2Fg%2F11c52rbqhd!19sChIJPX9j-w1DOToRsyDvkJ-ZU1M?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srusthi-ivf-centre-best-ivf-centre-test-tube-baby-centre-in-visakhapatnam-visakhapatnam",
@@ -11042,7 +11135,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Srusthi+IVF+Centre+-+Best+IVF+Centre,+Test+Tube+Baby+Centre+in+Visakhapatnam/data=!4m7!3m6!1s0x3a394321d3c4b74d:0x9397eae722c02403!8m2!3d17.7107166!4d83.3134233!16s%2Fg%2F11fkw7rqzs!19sChIJTbfE0yFDOToRAyTAIufql5M?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srusthi+IVF+Centre+-+Best+IVF+Centre,+Test+Tube+Baby+Centre+in+Visakhapatnam/data=!4m7!3m6!1s0x3a394321d3c4b74d:0x9397eae722c02403!8m2!3d17.7107166!4d83.3134233!16s%2Fg%2F11fkw7rqzs!19sChIJTbfE0yFDOToRAyTAIufql5M?authuser=0&hl=en&rclk=1"
@@ -11108,10 +11201,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srusthi+IVF+Centre+-+Best+IVF+Centre,+Test+Tube+Baby+Centre+in+Visakhapatnam/data=!4m7!3m6!1s0x3a394321d3c4b74d:0x9397eae722c02403!8m2!3d17.7107166!4d83.3134233!16s%2Fg%2F11fkw7rqzs!19sChIJTbfE0yFDOToRAyTAIufql5M?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "st-joseph-s-hospital-visakhapatnam",
@@ -11160,7 +11254,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/St.Joseph%27s+Hospital/data=!4m7!3m6!1s0x3a394312f963cf3d:0xec70e35c7ce62da2!8m2!3d17.7111749!4d83.3120249!16s%2Fg%2F1td40xsp!19sChIJPc9j-RJDOToRoi3mfFzjcOw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/St.Joseph%27s+Hospital/data=!4m7!3m6!1s0x3a394312f963cf3d:0xec70e35c7ce62da2!8m2!3d17.7111749!4d83.3120249!16s%2Fg%2F1td40xsp!19sChIJPc9j-RJDOToRoi3mfFzjcOw?authuser=0&hl=en&rclk=1"
@@ -11229,7 +11323,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/St.Joseph%27s+Hospital/data=!4m7!3m6!1s0x3a394312f963cf3d:0xec70e35c7ce62da2!8m2!3d17.7111749!4d83.3120249!16s%2Fg%2F1td40xsp!19sChIJPc9j-RJDOToRoi3mfFzjcOw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "star-international-dental-care-visakhapatnam",
@@ -11278,7 +11373,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/STAR+INTERNATIONAL+DENTAL+CARE/data=!4m7!3m6!1s0x3a394352fe69dabd:0x22273fe0db634265!8m2!3d17.7424457!4d83.3281569!16s%2Fg%2F11g8n62c_d!19sChIJvdpp_lJDOToRZUJj2-A_JyI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/STAR+INTERNATIONAL+DENTAL+CARE/data=!4m7!3m6!1s0x3a394352fe69dabd:0x22273fe0db634265!8m2!3d17.7424457!4d83.3281569!16s%2Fg%2F11g8n62c_d!19sChIJvdpp_lJDOToRZUJj2-A_JyI?authuser=0&hl=en&rclk=1"
@@ -11344,10 +11439,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/STAR+INTERNATIONAL+DENTAL+CARE/data=!4m7!3m6!1s0x3a394352fe69dabd:0x22273fe0db634265!8m2!3d17.7424457!4d83.3281569!16s%2Fg%2F11g8n62c_d!19sChIJvdpp_lJDOToRZUJj2-A_JyI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "susrutha-surgical-and-laparoscopic-clinic-visakhapatnam",
@@ -11396,7 +11492,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Susrutha+surgical+and+laparoscopic+clinic/data=!4m7!3m6!1s0x3a3943bc7ccb5ed5:0xf21cb878f522f6db!8m2!3d17.7091135!4d83.3084859!16s%2Fg%2F11h8bb781h!19sChIJ1V7LfLxDOToR2_Yi9Xi4HPI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Susrutha+surgical+and+laparoscopic+clinic/data=!4m7!3m6!1s0x3a3943bc7ccb5ed5:0xf21cb878f522f6db!8m2!3d17.7091135!4d83.3084859!16s%2Fg%2F11h8bb781h!19sChIJ1V7LfLxDOToR2_Yi9Xi4HPI?authuser=0&hl=en&rclk=1"
@@ -11462,10 +11558,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Susrutha+surgical+and+laparoscopic+clinic/data=!4m7!3m6!1s0x3a3943bc7ccb5ed5:0xf21cb878f522f6db!8m2!3d17.7091135!4d83.3084859!16s%2Fg%2F11h8bb781h!19sChIJ1V7LfLxDOToR2_Yi9Xi4HPI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "synergy-institute-of-gastroenterology-sig-visakhapatnam",
@@ -11514,7 +11611,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Synergy+Institute+of+Gastroenterology+(SIG)/@17.7639091,83.3117803,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395dc630e88d33:0x7087d23ba6cead3e!8m2!3d17.7639091!4d83.3117803!16s%2Fg%2F11kql36xrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Synergy+Institute+of+Gastroenterology+(SIG)/@17.7639091,83.3117803,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395dc630e88d33:0x7087d23ba6cead3e!8m2!3d17.7639091!4d83.3117803!16s%2Fg%2F11kql36xrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11580,10 +11677,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Synergy+Institute+of+Gastroenterology+(SIG)/@17.7639091,83.3117803,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395dc630e88d33:0x7087d23ba6cead3e!8m2!3d17.7639091!4d83.3117803!16s%2Fg%2F11kql36xrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-advanced-dental-care-center-visakhapatnam",
@@ -11632,7 +11730,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Advanced+Dental+Care+Center/data=!4m7!3m6!1s0x3a3944a65fe4ed2b:0xe90bb06d73566fef!8m2!3d17.730805!4d83.3401057!16s%2Fg%2F1hc4p93pm!19sChIJK-3kX6ZEOToR729Wc22wC-k?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Advanced+Dental+Care+Center/data=!4m7!3m6!1s0x3a3944a65fe4ed2b:0xe90bb06d73566fef!8m2!3d17.730805!4d83.3401057!16s%2Fg%2F1hc4p93pm!19sChIJK-3kX6ZEOToR729Wc22wC-k?authuser=0&hl=en&rclk=1"
@@ -11701,7 +11799,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Advanced+Dental+Care+Center/data=!4m7!3m6!1s0x3a3944a65fe4ed2b:0xe90bb06d73566fef!8m2!3d17.730805!4d83.3401057!16s%2Fg%2F1hc4p93pm!19sChIJK-3kX6ZEOToR729Wc22wC-k?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tirumala-vijaya-hospital-visakhapatnam",
@@ -11749,7 +11848,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Tirumala+Vijaya+Hospital/data=!4m7!3m6!1s0x3a39435455555555:0x57b84d210a172074!8m2!3d17.7440365!4d83.3351936!16s%2Fg%2F1tct_vtv!19sChIJVVVVVVRDOToRdCAXCiFNuFc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tirumala+Vijaya+Hospital/data=!4m7!3m6!1s0x3a39435455555555:0x57b84d210a172074!8m2!3d17.7440365!4d83.3351936!16s%2Fg%2F1tct_vtv!19sChIJVVVVVVRDOToRdCAXCiFNuFc?authuser=0&hl=en&rclk=1"
@@ -11818,7 +11917,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tirumala+Vijaya+Hospital/data=!4m7!3m6!1s0x3a39435455555555:0x57b84d210a172074!8m2!3d17.7440365!4d83.3351936!16s%2Fg%2F1tct_vtv!19sChIJVVVVVVRDOToRdCAXCiFNuFc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "universal-srushti-fertility-centre-visakhapatnam",
@@ -11868,7 +11968,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Universal+Srushti+Fertility+Centre/data=!4m7!3m6!1s0x3a39431263acb449:0x4002d222da620799!8m2!3d17.7103613!4d83.312419!16s%2Fg%2F11cs2j_2ng!19sChIJSbSsYxJDOToRmQdi2iLSAkA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Universal+Srushti+Fertility+Centre/data=!4m7!3m6!1s0x3a39431263acb449:0x4002d222da620799!8m2!3d17.7103613!4d83.312419!16s%2Fg%2F11cs2j_2ng!19sChIJSbSsYxJDOToRmQdi2iLSAkA?authuser=0&hl=en&rclk=1"
@@ -11937,7 +12037,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Universal+Srushti+Fertility+Centre/data=!4m7!3m6!1s0x3a39431263acb449:0x4002d222da620799!8m2!3d17.7103613!4d83.312419!16s%2Fg%2F11cs2j_2ng!19sChIJSbSsYxJDOToRmQdi2iLSAkA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "v-dental-hospitals-best-dental-clinic-in-vizag-visakhapatnam",
@@ -11986,7 +12087,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/V+Dental+Hospitals,+best+dental+clinic+in+vizag/data=!4m7!3m6!1s0x3a39435c8044e37b:0xa521e0f528b81d8b!8m2!3d17.7314055!4d83.3039461!16s%2Fg%2F11q3x63146!19sChIJe-NEgFxDOToRix24KPXgIaU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V+Dental+Hospitals,+best+dental+clinic+in+vizag/data=!4m7!3m6!1s0x3a39435c8044e37b:0xa521e0f528b81d8b!8m2!3d17.7314055!4d83.3039461!16s%2Fg%2F11q3x63146!19sChIJe-NEgFxDOToRix24KPXgIaU?authuser=0&hl=en&rclk=1"
@@ -12052,10 +12153,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/V+Dental+Hospitals,+best+dental+clinic+in+vizag/data=!4m7!3m6!1s0x3a39435c8044e37b:0xa521e0f528b81d8b!8m2!3d17.7314055!4d83.3039461!16s%2Fg%2F11q3x63146!19sChIJe-NEgFxDOToRix24KPXgIaU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vedanta-dento-care-best-dental-clinic-in-jagadamba-vizag-visakhapatnam",
@@ -12105,7 +12207,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VEDANTA+DENTO+CARE+-+Best+Dental+Clinic+in+Jagadamba+%28Vizag%29/data=!4m7!3m6!1s0x3a39435081f41b95:0xc8cf7624edb484a9!8m2!3d17.713634!4d83.3048051!16s%2Fg%2F11p_0r8dt6!19sChIJlRv0gVBDOToRqYS07SR2z8g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VEDANTA+DENTO+CARE+-+Best+Dental+Clinic+in+Jagadamba+%28Vizag%29/data=!4m7!3m6!1s0x3a39435081f41b95:0xc8cf7624edb484a9!8m2!3d17.713634!4d83.3048051!16s%2Fg%2F11p_0r8dt6!19sChIJlRv0gVBDOToRqYS07SR2z8g?authuser=0&hl=en&rclk=1"
@@ -12171,10 +12273,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VEDANTA+DENTO+CARE+-+Best+Dental+Clinic+in+Jagadamba+%28Vizag%29/data=!4m7!3m6!1s0x3a39435081f41b95:0xc8cf7624edb484a9!8m2!3d17.713634!4d83.3048051!16s%2Fg%2F11p_0r8dt6!19sChIJlRv0gVBDOToRqYS07SR2z8g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vizag-ivf-best-fertility-clinic-in-vizianagaram-vizianagaram",
@@ -12224,7 +12327,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vizag+IVF+-+Best+Fertility+Clinic+in+Vizianagaram/data=!4m7!3m6!1s0x3a3be54e58fdfffb:0x43edb9552d542ac7!8m2!3d18.1037747!4d83.4089268!16s%2Fg%2F11f33gzrf_!19sChIJ-__9WE7lOzoRxypULVW57UM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vizag+IVF+-+Best+Fertility+Clinic+in+Vizianagaram/data=!4m7!3m6!1s0x3a3be54e58fdfffb:0x43edb9552d542ac7!8m2!3d18.1037747!4d83.4089268!16s%2Fg%2F11f33gzrf_!19sChIJ-__9WE7lOzoRxypULVW57UM?authuser=0&hl=en&rclk=1"
@@ -12293,7 +12396,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vizag+IVF+-+Best+Fertility+Clinic+in+Vizianagaram/data=!4m7!3m6!1s0x3a3be54e58fdfffb:0x43edb9552d542ac7!8m2!3d18.1037747!4d83.4089268!16s%2Fg%2F11f33gzrf_!19sChIJ-__9WE7lOzoRxypULVW57UM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vizag-ivf-center-visakhapatnam",
@@ -12343,7 +12447,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vizag+IVF+Center/data=!4m7!3m6!1s0x3a395cb2ffffffff:0xa38b1fd5f2d622f!8m2!3d17.7166474!4d83.304294!16s%2Fg%2F11f3vj4xcc!19sChIJ_____7JcOToRL2ItX_2xOAo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vizag+IVF+Center/data=!4m7!3m6!1s0x3a395cb2ffffffff:0xa38b1fd5f2d622f!8m2!3d17.7166474!4d83.304294!16s%2Fg%2F11f3vj4xcc!19sChIJ_____7JcOToRL2ItX_2xOAo?authuser=0&hl=en&rclk=1"
@@ -12412,7 +12516,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vizag+IVF+Center/data=!4m7!3m6!1s0x3a395cb2ffffffff:0xa38b1fd5f2d622f!8m2!3d17.7166474!4d83.304294!16s%2Fg%2F11f3vj4xcc!19sChIJ_____7JcOToRL2ItX_2xOAo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vizag-surgicare-visakhapatnam",
@@ -12461,7 +12566,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vizag+Surgicare/data=!4m7!3m6!1s0x3a3943002cc5fc5d:0x903b715289a32209!8m2!3d17.7406971!4d83.3076991!16s%2Fg%2F11msmpl_vr!19sChIJXfzFLABDOToRCSKjiVJxO5A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vizag+Surgicare/data=!4m7!3m6!1s0x3a3943002cc5fc5d:0x903b715289a32209!8m2!3d17.7406971!4d83.3076991!16s%2Fg%2F11msmpl_vr!19sChIJXfzFLABDOToRCSKjiVJxO5A?authuser=0&hl=en&rclk=1"
@@ -12530,7 +12635,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vizag+Surgicare/data=!4m7!3m6!1s0x3a3943002cc5fc5d:0x903b715289a32209!8m2!3d17.7406971!4d83.3076991!16s%2Fg%2F11msmpl_vr!19sChIJXfzFLABDOToRCSKjiVJxO5A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vrindaa-cancer-hospitals-best-cancer-treatment-in-vizag-visakhapatnam",
@@ -12579,7 +12685,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vrindaa+Cancer+Hospitals+%7C+Best+Cancer+treatment+in+Vizag/@17.7630884,83.3087259,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395d63cfc1771f:0x3b90da3f9f7251e!8m2!3d17.7630884!4d83.3087259!16s%2Fg%2F11pq4_69gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vrindaa+Cancer+Hospitals+%7C+Best+Cancer+treatment+in+Vizag/@17.7630884,83.3087259,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395d63cfc1771f:0x3b90da3f9f7251e!8m2!3d17.7630884!4d83.3087259!16s%2Fg%2F11pq4_69gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12648,7 +12754,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vrindaa+Cancer+Hospitals+%7C+Best+Cancer+treatment+in+Vizag/@17.7630884,83.3087259,17z/data=!3m1!4b1!4m6!3m5!1s0x3a395d63cfc1771f:0x3b90da3f9f7251e!8m2!3d17.7630884!4d83.3087259!16s%2Fg%2F11pq4_69gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "waltair-multicare-hospital-visakhapatnam",
@@ -12697,7 +12804,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Waltair+Multicare+Hospital/data=!4m7!3m6!1s0x3a39435849b2cbc3:0xdf792716debb0c8d!8m2!3d17.7319454!4d83.3336159!16s%2Fg%2F11b5wmmfvv!19sChIJw8uySVhDOToRjQy73hYned8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Waltair+Multicare+Hospital/data=!4m7!3m6!1s0x3a39435849b2cbc3:0xdf792716debb0c8d!8m2!3d17.7319454!4d83.3336159!16s%2Fg%2F11b5wmmfvv!19sChIJw8uySVhDOToRjQy73hYned8?authuser=0&hl=en&rclk=1"
@@ -12766,6 +12873,7 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Waltair+Multicare+Hospital/data=!4m7!3m6!1s0x3a39435849b2cbc3:0xdf792716debb0c8d!8m2!3d17.7319454!4d83.3336159!16s%2Fg%2F11b5wmmfvv!19sChIJw8uySVhDOToRjQy73hYned8?authuser=0&hl=en&rclk=1"
   }
 ]

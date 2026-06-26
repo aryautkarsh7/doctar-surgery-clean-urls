@@ -47,7 +47,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aaditya+Spine+Hospital/data=!4m7!3m6!1s0x395e85c7f4fa1c27:0xe91a42f6b5cf7d31!8m2!3d23.005942!4d72.5916617!16s%2Fg%2F1jglzb28b!19sChIJJxz69MeFXjkRMX3PtfZCGuk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aaditya+Spine+Hospital/data=!4m7!3m6!1s0x395e85c7f4fa1c27:0xe91a42f6b5cf7d31!8m2!3d23.005942!4d72.5916617!16s%2Fg%2F1jglzb28b!19sChIJJxz69MeFXjkRMX3PtfZCGuk?authuser=0&hl=en&rclk=1"
@@ -116,7 +116,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aaditya+Spine+Hospital/data=!4m7!3m6!1s0x395e85c7f4fa1c27:0xe91a42f6b5cf7d31!8m2!3d23.005942!4d72.5916617!16s%2Fg%2F1jglzb28b!19sChIJJxz69MeFXjkRMX3PtfZCGuk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aakar-cosmetic-surgery-center-ahmedabad",
@@ -164,7 +165,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/AAKAR+COSMETIC+SURGERY+CENTER/@23.1039896,72.5942211,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83c9a029db09:0x14aed39ce49dbe64!8m2!3d23.1039896!4d72.5942211!16s%2Fg%2F11g81g90fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AAKAR+COSMETIC+SURGERY+CENTER/@23.1039896,72.5942211,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83c9a029db09:0x14aed39ce49dbe64!8m2!3d23.1039896!4d72.5942211!16s%2Fg%2F11g81g90fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -230,10 +231,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AAKAR+COSMETIC+SURGERY+CENTER/@23.1039896,72.5942211,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83c9a029db09:0x14aed39ce49dbe64!8m2!3d23.1039896!4d72.5942211!16s%2Fg%2F11g81g90fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "adorn-aesthetics-clinic-satelite-ahmedabad",
@@ -283,7 +285,7 @@
       "96+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Adorn+Aesthetics+Clinic+-+Satelite/@23.0255344,72.5272939,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85027822c585:0xa858bd63464172df!8m2!3d23.0255344!4d72.5272939!16s%2Fg%2F11rfbw18z9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adorn+Aesthetics+Clinic+-+Satelite/@23.0255344,72.5272939,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85027822c585:0xa858bd63464172df!8m2!3d23.0255344!4d72.5272939!16s%2Fg%2F11rfbw18z9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -352,7 +354,8 @@
     "rating": 4.7,
     "reviews": 96,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Adorn+Aesthetics+Clinic+-+Satelite/@23.0255344,72.5272939,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85027822c585:0xa858bd63464172df!8m2!3d23.0255344!4d72.5272939!16s%2Fg%2F11rfbw18z9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ahmedabad-dental-ahmedabad",
@@ -400,7 +403,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ahmedabad+Dental+%E0%AA%85%E0%AA%AE%E0%AA%A6%E0%AA%BE%E0%AA%B5%E0%AA%BE%E0%AA%A6+%E0%AA%A1%E0%AB%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AA%B2/data=!4m7!3m6!1s0x395e83ff890c2df3:0xdccc99e4cc50fc52!8m2!3d23.0683921!4d72.5522324!16s%2Fg%2F11fqztmjyw!19sChIJ8y0Mif-DXjkRUvxQzOSZzNw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahmedabad+Dental+%E0%AA%85%E0%AA%AE%E0%AA%A6%E0%AA%BE%E0%AA%B5%E0%AA%BE%E0%AA%A6+%E0%AA%A1%E0%AB%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AA%B2/data=!4m7!3m6!1s0x395e83ff890c2df3:0xdccc99e4cc50fc52!8m2!3d23.0683921!4d72.5522324!16s%2Fg%2F11fqztmjyw!19sChIJ8y0Mif-DXjkRUvxQzOSZzNw?authuser=0&hl=en&rclk=1"
@@ -466,10 +469,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ahmedabad+Dental+%E0%AA%85%E0%AA%AE%E0%AA%A6%E0%AA%BE%E0%AA%B5%E0%AA%BE%E0%AA%A6+%E0%AA%A1%E0%AB%87%E0%AA%A8%E0%AB%8D%E0%AA%9F%E0%AA%B2/data=!4m7!3m6!1s0x395e83ff890c2df3:0xdccc99e4cc50fc52!8m2!3d23.0683921!4d72.5522324!16s%2Fg%2F11fqztmjyw!19sChIJ8y0Mif-DXjkRUvxQzOSZzNw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ahmedabad-heart-hospital-ahmedabad",
@@ -519,7 +523,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ahmedabad+Heart+Hospital/@23.0278812,72.5319337,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84cf0a8203a1:0x5e25ef7c92b0a792!8m2!3d23.0278812!4d72.5319337!16s%2Fg%2F1thpv72t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahmedabad+Heart+Hospital/@23.0278812,72.5319337,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84cf0a8203a1:0x5e25ef7c92b0a792!8m2!3d23.0278812!4d72.5319337!16s%2Fg%2F1thpv72t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -588,7 +592,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ahmedabad+Heart+Hospital/@23.0278812,72.5319337,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84cf0a8203a1:0x5e25ef7c92b0a792!8m2!3d23.0278812!4d72.5319337!16s%2Fg%2F1thpv72t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ahmedabad-spine-hospital-ahmedabad",
@@ -637,7 +642,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Ahmedabad+Spine+Hospital/data=!4m7!3m6!1s0x395e859c3e7e0ac3:0xed9297776f011c25!8m2!3d23.0201707!4d72.529924!16s%2Fg%2F11qznwg412!19sChIJwwp-PpyFXjkRJRwBb3eXku0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahmedabad+Spine+Hospital/data=!4m7!3m6!1s0x395e859c3e7e0ac3:0xed9297776f011c25!8m2!3d23.0201707!4d72.529924!16s%2Fg%2F11qznwg412!19sChIJwwp-PpyFXjkRJRwBb3eXku0?authuser=0&hl=en&rclk=1"
@@ -706,7 +711,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ahmedabad+Spine+Hospital/data=!4m7!3m6!1s0x395e859c3e7e0ac3:0xed9297776f011c25!8m2!3d23.0201707!4d72.529924!16s%2Fg%2F11qznwg412!19sChIJwwp-PpyFXjkRJRwBb3eXku0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "airavat-care-ahmedabad",
@@ -757,7 +763,7 @@
       "84+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Airavat+Care/data=!4m7!3m6!1s0x395e835dfc09a8f5:0x3eda26302e59257b!8m2!3d23.0762817!4d72.52359!16s%2Fg%2F11vzwr7y9p!19sChIJ9agJ_F2DXjkReyVZLjAm2j4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Airavat+Care/data=!4m7!3m6!1s0x395e835dfc09a8f5:0x3eda26302e59257b!8m2!3d23.0762817!4d72.52359!16s%2Fg%2F11vzwr7y9p!19sChIJ9agJ_F2DXjkReyVZLjAm2j4?authuser=0&hl=en&rclk=1"
@@ -826,7 +832,8 @@
     "rating": 4.9,
     "reviews": 84,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Airavat+Care/data=!4m7!3m6!1s0x395e835dfc09a8f5:0x3eda26302e59257b!8m2!3d23.0762817!4d72.52359!16s%2Fg%2F11vzwr7y9p!19sChIJ9agJ_F2DXjkReyVZLjAm2j4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "alvura-cosmetic-clinic-plastic-surgery-clinic-liposuction-cosmetic-surgery-ahmedabad-ahmedabad",
@@ -876,7 +883,7 @@
       "35+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Alvura+Cosmetic+Clinic+-+Plastic+Surgery+Clinic,+Liposuction,+Cosmetic+Surgery+Ahmedabad/data=!4m7!3m6!1s0x395e85be2e4e8fb9:0x692039f17603ef4!8m2!3d23.0571335!4d72.5288261!16s%2Fg%2F11hyn8xdrb!19sChIJuY9OLr6FXjkR9D5gF58DkgY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alvura+Cosmetic+Clinic+-+Plastic+Surgery+Clinic,+Liposuction,+Cosmetic+Surgery+Ahmedabad/data=!4m7!3m6!1s0x395e85be2e4e8fb9:0x692039f17603ef4!8m2!3d23.0571335!4d72.5288261!16s%2Fg%2F11hyn8xdrb!19sChIJuY9OLr6FXjkR9D5gF58DkgY?authuser=0&hl=en&rclk=1"
@@ -945,7 +952,8 @@
     "rating": 4.9,
     "reviews": 35,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Alvura+Cosmetic+Clinic+-+Plastic+Surgery+Clinic,+Liposuction,+Cosmetic+Surgery+Ahmedabad/data=!4m7!3m6!1s0x395e85be2e4e8fb9:0x692039f17603ef4!8m2!3d23.0571335!4d72.5288261!16s%2Fg%2F11hyn8xdrb!19sChIJuY9OLr6FXjkR9D5gF58DkgY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apex-heart-institute-ahmedabad",
@@ -996,7 +1004,7 @@
       "2372+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apex+Heart+Institute/@23.0456973,72.5139646,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b52231db9ff:0x5898774944acbb2!8m2!3d23.0456973!4d72.5139646!16s%2Fg%2F11cjhr0n76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Heart+Institute/@23.0456973,72.5139646,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b52231db9ff:0x5898774944acbb2!8m2!3d23.0456973!4d72.5139646!16s%2Fg%2F11cjhr0n76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1065,7 +1073,8 @@
     "rating": 4.9,
     "reviews": 2372,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+Heart+Institute/@23.0456973,72.5139646,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b52231db9ff:0x5898774944acbb2!8m2!3d23.0456973!4d72.5139646!16s%2Fg%2F11cjhr0n76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-cvhf-heart-institute-ahmedabad",
@@ -1115,7 +1124,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+CVHF+Heart+Institute/@23.0408512,72.5124006,17z/data=!3m1!4b1!4m6!3m5!1s0x395e830cfe23f72d:0x42a926dfacba83dc!8m2!3d23.0408512!4d72.5124006!16s%2Fg%2F11fcql2pgd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+CVHF+Heart+Institute/@23.0408512,72.5124006,17z/data=!3m1!4b1!4m6!3m5!1s0x395e830cfe23f72d:0x42a926dfacba83dc!8m2!3d23.0408512!4d72.5124006!16s%2Fg%2F11fcql2pgd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1184,7 +1193,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+CVHF+Heart+Institute/@23.0408512,72.5124006,17z/data=!3m1!4b1!4m6!3m5!1s0x395e830cfe23f72d:0x42a926dfacba83dc!8m2!3d23.0408512!4d72.5124006!16s%2Fg%2F11fcql2pgd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-hospital-international-limited-ahmedabad-best-hospital-in-ahmedabad-ahmedabad",
@@ -1234,7 +1244,7 @@
       "1530+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Hospital+International+Limited+Ahmedabad+%7C+Best+Hospital+in+Ahmedabad/@23.1095502,72.6263885,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81d8dddba2cb:0xa74a50295d3eecb2!8m2!3d23.1095502!4d72.6263885!16s%2Fg%2F1td5k2c4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospital+International+Limited+Ahmedabad+%7C+Best+Hospital+in+Ahmedabad/@23.1095502,72.6263885,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81d8dddba2cb:0xa74a50295d3eecb2!8m2!3d23.1095502!4d72.6263885!16s%2Fg%2F1td5k2c4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1303,7 +1313,8 @@
     "rating": 4.7,
     "reviews": 1530,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Hospital+International+Limited+Ahmedabad+%7C+Best+Hospital+in+Ahmedabad/@23.1095502,72.6263885,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81d8dddba2cb:0xa74a50295d3eecb2!8m2!3d23.1095502!4d72.6263885!16s%2Fg%2F1td5k2c4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-speciality-hospitals-city-centre-ahmedabad-best-hospital-in-ahmedabad-ahmedabad",
@@ -1353,7 +1364,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Speciality+Hospitals+City+Centre+-+Ahmedabad+%7C+Best+Hospital+in+Ahmedabad/data=!4m7!3m6!1s0x395e856ba9d2a315:0xcd50d92e446b355d!8m2!3d23.0184706!4d72.558075!16s%2Fg%2F1vyn27y8!19sChIJFaPSqWuFXjkRXTVrRC7ZUM0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Speciality+Hospitals+City+Centre+-+Ahmedabad+%7C+Best+Hospital+in+Ahmedabad/data=!4m7!3m6!1s0x395e856ba9d2a315:0xcd50d92e446b355d!8m2!3d23.0184706!4d72.558075!16s%2Fg%2F1vyn27y8!19sChIJFaPSqWuFXjkRXTVrRC7ZUM0?authuser=0&hl=en&rclk=1"
@@ -1422,7 +1433,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Speciality+Hospitals+City+Centre+-+Ahmedabad+%7C+Best+Hospital+in+Ahmedabad/data=!4m7!3m6!1s0x395e856ba9d2a315:0xcd50d92e446b355d!8m2!3d23.0184706!4d72.558075!16s%2Fg%2F1vyn27y8!19sChIJFaPSqWuFXjkRXTVrRC7ZUM0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "arham-dental-clinic-ahmedabad",
@@ -1471,7 +1483,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Arham+Dental+Clinic/data=!4m7!3m6!1s0x395e8506fbdb1117:0x43d0ae014b2f5ce1!8m2!3d23.0101582!4d72.5464291!16s%2Fg%2F1q6j5sg9r!19sChIJFxHb-waFXjkR4VwvSwGu0EM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arham+Dental+Clinic/data=!4m7!3m6!1s0x395e8506fbdb1117:0x43d0ae014b2f5ce1!8m2!3d23.0101582!4d72.5464291!16s%2Fg%2F1q6j5sg9r!19sChIJFxHb-waFXjkR4VwvSwGu0EM?authuser=0&hl=en&rclk=1"
@@ -1540,7 +1552,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arham+Dental+Clinic/data=!4m7!3m6!1s0x395e8506fbdb1117:0x43d0ae014b2f5ce1!8m2!3d23.0101582!4d72.5464291!16s%2Fg%2F1q6j5sg9r!19sChIJFxHb-waFXjkR4VwvSwGu0EM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "art-fertility-clinics-ahmedabad",
@@ -1591,7 +1604,7 @@
       "113+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ART+Fertility+Clinics/data=!4m7!3m6!1s0x395e854e4fe485bd:0x7da5028ea054ea4a!8m2!3d23.0161197!4d72.5380906!16s%2Fg%2F11r872bg0q!19sChIJvYXkT06FXjkRSupUoI4CpX0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ART+Fertility+Clinics/data=!4m7!3m6!1s0x395e854e4fe485bd:0x7da5028ea054ea4a!8m2!3d23.0161197!4d72.5380906!16s%2Fg%2F11r872bg0q!19sChIJvYXkT06FXjkRSupUoI4CpX0?authuser=0&hl=en&rclk=1"
@@ -1660,7 +1673,8 @@
     "rating": 4.9,
     "reviews": 113,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ART+Fertility+Clinics/data=!4m7!3m6!1s0x395e854e4fe485bd:0x7da5028ea054ea4a!8m2!3d23.0161197!4d72.5380906!16s%2Fg%2F11r872bg0q!19sChIJvYXkT06FXjkRSupUoI4CpX0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "avenues-cosmetic-ahmedabad",
@@ -1710,7 +1724,7 @@
       "113+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Avenues+Cosmetic/@23.0693248,72.52247,17z/data=!3m1!4b1!4m6!3m5!1s0x395e834d6f100001:0xbd706ebe9d20ad2c!8m2!3d23.0693248!4d72.52247!16s%2Fg%2F11krh4186l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avenues+Cosmetic/@23.0693248,72.52247,17z/data=!3m1!4b1!4m6!3m5!1s0x395e834d6f100001:0xbd706ebe9d20ad2c!8m2!3d23.0693248!4d72.52247!16s%2Fg%2F11krh4186l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1779,7 +1793,8 @@
     "rating": 4.9,
     "reviews": 113,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Avenues+Cosmetic/@23.0693248,72.52247,17z/data=!3m1!4b1!4m6!3m5!1s0x395e834d6f100001:0xbd706ebe9d20ad2c!8m2!3d23.0693248!4d72.52247!16s%2Fg%2F11krh4186l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "banker-ivf-ahmedabad",
@@ -1830,7 +1845,7 @@
       "14+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Banker+IVF/data=!4m7!3m6!1s0x395e84f83fffffff:0xa04bab40de4b5572!8m2!3d23.0385012!4d72.5586343!16s%2Fg%2F1tfqd64g!19sChIJ____P_iEXjkRclVL3kCrS6A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Banker+IVF/data=!4m7!3m6!1s0x395e84f83fffffff:0xa04bab40de4b5572!8m2!3d23.0385012!4d72.5586343!16s%2Fg%2F1tfqd64g!19sChIJ____P_iEXjkRclVL3kCrS6A?authuser=0&hl=en&rclk=1"
@@ -1899,7 +1914,8 @@
     "rating": 4.9,
     "reviews": 14,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Banker+IVF/data=!4m7!3m6!1s0x395e84f83fffffff:0xa04bab40de4b5572!8m2!3d23.0385012!4d72.5586343!16s%2Fg%2F1tfqd64g!19sChIJ____P_iEXjkRclVL3kCrS6A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "banker-skin-and-smile-clinic-sbr-ahmedabad-ahmedabad",
@@ -1948,7 +1964,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Banker+Skin+%26+Smile+Clinic,+SBR+Ahmedabad/@23.0412471,72.5023474,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b534f6ddcb9:0xde44be8642a6aa3!8m2!3d23.0412471!4d72.5023474!16s%2Fg%2F11rpkq7pxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Banker+Skin+%26+Smile+Clinic,+SBR+Ahmedabad/@23.0412471,72.5023474,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b534f6ddcb9:0xde44be8642a6aa3!8m2!3d23.0412471!4d72.5023474!16s%2Fg%2F11rpkq7pxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2017,7 +2033,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Banker+Skin+%26+Smile+Clinic,+SBR+Ahmedabad/@23.0412471,72.5023474,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b534f6ddcb9:0xde44be8642a6aa3!8m2!3d23.0412471!4d72.5023474!16s%2Fg%2F11rpkq7pxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bavishi-fertility-institute-ahmedabad",
@@ -2068,7 +2085,7 @@
       "124+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bavishi+Fertility+Institute/data=!4m7!3m6!1s0x395e8501ae2c76ad:0x5f9b2ba6b6b2982e!8m2!3d23.0130822!4d72.5639069!16s%2Fg%2F1tj50_b1!19sChIJrXYsrgGFXjkRLpiytqYrm18?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bavishi+Fertility+Institute/data=!4m7!3m6!1s0x395e8501ae2c76ad:0x5f9b2ba6b6b2982e!8m2!3d23.0130822!4d72.5639069!16s%2Fg%2F1tj50_b1!19sChIJrXYsrgGFXjkRLpiytqYrm18?authuser=0&hl=en&rclk=1"
@@ -2137,7 +2154,8 @@
     "rating": 4.8,
     "reviews": 124,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bavishi+Fertility+Institute/data=!4m7!3m6!1s0x395e8501ae2c76ad:0x5f9b2ba6b6b2982e!8m2!3d23.0130822!4d72.5639069!16s%2Fg%2F1tj50_b1!19sChIJrXYsrgGFXjkRLpiytqYrm18?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bellisima-cosmetic-clinic-ahmedabad",
@@ -2187,7 +2205,7 @@
       "16+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bellisima+Cosmetic+Clinic/@23.018507,72.5297721,17z/data=!3m1!4b1!4m6!3m5!1s0x395e854c89da1867:0xda75d8ca466bc404!8m2!3d23.018507!4d72.5297721!16s%2Fg%2F11tjzrcfyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bellisima+Cosmetic+Clinic/@23.018507,72.5297721,17z/data=!3m1!4b1!4m6!3m5!1s0x395e854c89da1867:0xda75d8ca466bc404!8m2!3d23.018507!4d72.5297721!16s%2Fg%2F11tjzrcfyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2253,10 +2271,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 16,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bellisima+Cosmetic+Clinic/@23.018507,72.5297721,17z/data=!3m1!4b1!4m6!3m5!1s0x395e854c89da1867:0xda75d8ca466bc404!8m2!3d23.018507!4d72.5297721!16s%2Fg%2F11tjzrcfyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "birla-fertility-and-ivf-center-best-ivf-centre-in-ahmedabad-ahmedabad",
@@ -2306,7 +2325,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Ahmedabad/data=!4m7!3m6!1s0x395e85cff4e604fd:0x16078192a84f1b16!8m2!3d23.0370975!4d72.5616219!16s%2Fg%2F11lcfp7z9j!19sChIJ_QTm9M-FXjkRFhtPqJKBBxY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Ahmedabad/data=!4m7!3m6!1s0x395e85cff4e604fd:0x16078192a84f1b16!8m2!3d23.0370975!4d72.5616219!16s%2Fg%2F11lcfp7z9j!19sChIJ_QTm9M-FXjkRFhtPqJKBBxY?authuser=0&hl=en&rclk=1"
@@ -2375,7 +2394,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Ahmedabad/data=!4m7!3m6!1s0x395e85cff4e604fd:0x16078192a84f1b16!8m2!3d23.0370975!4d72.5616219!16s%2Fg%2F11lcfp7z9j!19sChIJ_QTm9M-FXjkRFhtPqJKBBxY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bodyline-hospitals-ahmedabad",
@@ -2425,7 +2445,7 @@
       "8+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bodyline+Hospitals/data=!4m7!3m6!1s0x395e84fd57661201:0xec8b781551d73822!8m2!3d23.0099612!4d72.5545945!16s%2Fg%2F1td1n8dc!19sChIJARJmV_2EXjkRIjjXURV4i-w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bodyline+Hospitals/data=!4m7!3m6!1s0x395e84fd57661201:0xec8b781551d73822!8m2!3d23.0099612!4d72.5545945!16s%2Fg%2F1td1n8dc!19sChIJARJmV_2EXjkRIjjXURV4i-w?authuser=0&hl=en&rclk=1"
@@ -2494,7 +2514,8 @@
     "rating": 4.6,
     "reviews": 8,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bodyline+Hospitals/data=!4m7!3m6!1s0x395e84fd57661201:0xec8b781551d73822!8m2!3d23.0099612!4d72.5545945!16s%2Fg%2F1td1n8dc!19sChIJARJmV_2EXjkRIjjXURV4i-w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chhabarias-oral-maxillofacial-surgery-and-dental-clinic-ahmedabad",
@@ -2544,7 +2565,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chhabarias+Oral+Maxillofacial+Surgery+and+Dental+Clinic/data=!4m7!3m6!1s0x395e84d579f58b6f:0xfbcb40ac0c4797f3!8m2!3d23.0117828!4d72.5228761!16s%2Fg%2F1ptvx0yky!19sChIJb4v1edWEXjkR85dHDKxAy_s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chhabarias+Oral+Maxillofacial+Surgery+and+Dental+Clinic/data=!4m7!3m6!1s0x395e84d579f58b6f:0xfbcb40ac0c4797f3!8m2!3d23.0117828!4d72.5228761!16s%2Fg%2F1ptvx0yky!19sChIJb4v1edWEXjkR85dHDKxAy_s?authuser=0&hl=en&rclk=1"
@@ -2613,7 +2634,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chhabarias+Oral+Maxillofacial+Surgery+and+Dental+Clinic/data=!4m7!3m6!1s0x395e84d579f58b6f:0xfbcb40ac0c4797f3!8m2!3d23.0117828!4d72.5228761!16s%2Fg%2F1ptvx0yky!19sChIJb4v1edWEXjkR85dHDKxAy_s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "classy-heart-care-ahmedabad",
@@ -2663,7 +2685,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Classy+Heart+care/@23.0394325,72.5094402,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b4f4325ed11:0x8831cddb1843d022!8m2!3d23.0394325!4d72.5094402!16s%2Fg%2F11c7vqnj7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Classy+Heart+care/@23.0394325,72.5094402,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b4f4325ed11:0x8831cddb1843d022!8m2!3d23.0394325!4d72.5094402!16s%2Fg%2F11c7vqnj7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2732,7 +2754,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Classy+Heart+care/@23.0394325,72.5094402,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b4f4325ed11:0x8831cddb1843d022!8m2!3d23.0394325!4d72.5094402!16s%2Fg%2F11c7vqnj7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "clinic-dermatech-vastrapur-ahmedabad-laser-hair-removal-ahmedabad-skin-clinic-in-ahmedabad-anti-aging-treatment-ahmedabad",
@@ -2781,7 +2804,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Clinic+Dermatech+(Vastrapur,+Ahmedabad)+-+Laser+Hair+Removal+Ahmedabad+%7C+Skin+Clinic+In+Ahmedabad+%7C+Anti+Aging+Treatment/@23.0397898,72.5294024,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9bdd93f5055f:0x918efb31ede5677!8m2!3d23.0397898!4d72.5294024!16s%2Fg%2F11h3l477y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clinic+Dermatech+(Vastrapur,+Ahmedabad)+-+Laser+Hair+Removal+Ahmedabad+%7C+Skin+Clinic+In+Ahmedabad+%7C+Anti+Aging+Treatment/@23.0397898,72.5294024,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9bdd93f5055f:0x918efb31ede5677!8m2!3d23.0397898!4d72.5294024!16s%2Fg%2F11h3l477y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2850,7 +2873,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Clinic+Dermatech+(Vastrapur,+Ahmedabad)+-+Laser+Hair+Removal+Ahmedabad+%7C+Skin+Clinic+In+Ahmedabad+%7C+Anti+Aging+Treatment/@23.0397898,72.5294024,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9bdd93f5055f:0x918efb31ede5677!8m2!3d23.0397898!4d72.5294024!16s%2Fg%2F11h3l477y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "clion-care-best-hair-transplant-in-ahmedabad-ahmedabad",
@@ -2900,7 +2924,7 @@
       "205+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Clion+Care+-+Best+Hair+Transplant+in+Ahmedabad/data=!4m7!3m6!1s0x395e9b9ee51210e3:0xb898143bfcf185be!8m2!3d23.0269166!4d72.5094173!16s%2Fg%2F11s1w49g7x!19sChIJ4xAS5Z6bXjkRvoXx_DsUmLg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Clion+Care+-+Best+Hair+Transplant+in+Ahmedabad/data=!4m7!3m6!1s0x395e9b9ee51210e3:0xb898143bfcf185be!8m2!3d23.0269166!4d72.5094173!16s%2Fg%2F11s1w49g7x!19sChIJ4xAS5Z6bXjkRvoXx_DsUmLg?authuser=0&hl=en&rclk=1"
@@ -2969,7 +2993,8 @@
     "rating": 4.9,
     "reviews": 205,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Clion+Care+-+Best+Hair+Transplant+in+Ahmedabad/data=!4m7!3m6!1s0x395e9b9ee51210e3:0xb898143bfcf185be!8m2!3d23.0269166!4d72.5094173!16s%2Fg%2F11s1w49g7x!19sChIJ4xAS5Z6bXjkRvoXx_DsUmLg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cosmocare-dental-and-maxillofacial-surgery-hospital-ahmedabad",
@@ -3019,7 +3044,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Cosmocare+Dental+%26+Maxillofacial+Surgery+Hospital/data=!4m7!3m6!1s0x395e83182603b2cf:0xc23c50f28e20d7b2!8m2!3d23.1036975!4d72.5495899!16s%2Fg%2F11g68vp_zc!19sChIJz7IDJhiDXjkRstcgjvJQPMI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmocare+Dental+%26+Maxillofacial+Surgery+Hospital/data=!4m7!3m6!1s0x395e83182603b2cf:0xc23c50f28e20d7b2!8m2!3d23.1036975!4d72.5495899!16s%2Fg%2F11g68vp_zc!19sChIJz7IDJhiDXjkRstcgjvJQPMI?authuser=0&hl=en&rclk=1"
@@ -3085,10 +3110,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmocare+Dental+%26+Maxillofacial+Surgery+Hospital/data=!4m7!3m6!1s0x395e83182603b2cf:0xc23c50f28e20d7b2!8m2!3d23.1036975!4d72.5495899!16s%2Fg%2F11g68vp_zc!19sChIJz7IDJhiDXjkRstcgjvJQPMI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "derma-square-ahmedabad",
@@ -3137,7 +3163,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Derma-Square/@23.0637344,72.5295421,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83a931db2eb5:0x9c2b2b5bf6fb9e55!8m2!3d23.0637344!4d72.5295421!16s%2Fg%2F11lkczy2qw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Derma-Square/@23.0637344,72.5295421,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83a931db2eb5:0x9c2b2b5bf6fb9e55!8m2!3d23.0637344!4d72.5295421!16s%2Fg%2F11lkczy2qw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3206,7 +3232,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Derma-Square/@23.0637344,72.5295421,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83a931db2eb5:0x9c2b2b5bf6fb9e55!8m2!3d23.0637344!4d72.5295421!16s%2Fg%2F11lkczy2qw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dermatouch-clinic-ahmedabad",
@@ -3255,7 +3282,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dermatouch+clinic/@23.0866583,72.5429669,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83ece2dd57a9:0x76a87af56fcde7ee!8m2!3d23.0866583!4d72.5429669!16s%2Fg%2F11jvh0j2c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dermatouch+clinic/@23.0866583,72.5429669,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83ece2dd57a9:0x76a87af56fcde7ee!8m2!3d23.0866583!4d72.5429669!16s%2Fg%2F11jvh0j2c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3324,7 +3351,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dermatouch+clinic/@23.0866583,72.5429669,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83ece2dd57a9:0x76a87af56fcde7ee!8m2!3d23.0866583!4d72.5429669!16s%2Fg%2F11jvh0j2c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dermet-clinic-ahmedabad",
@@ -3373,7 +3401,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dermet+Clinic/@23.0339009,72.5049964,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9bb483c4b33d:0xbc8f012bee35606f!8m2!3d23.0339009!4d72.5049964!16s%2Fg%2F11pkcn76zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dermet+Clinic/@23.0339009,72.5049964,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9bb483c4b33d:0xbc8f012bee35606f!8m2!3d23.0339009!4d72.5049964!16s%2Fg%2F11pkcn76zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3442,7 +3470,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dermet+Clinic/@23.0339009,72.5049964,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9bb483c4b33d:0xbc8f012bee35606f!8m2!3d23.0339009!4d72.5049964!16s%2Fg%2F11pkcn76zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dezire-clinic-hair-transplant-gynecomastia-liposuction-centre-ahmedabad",
@@ -3491,7 +3520,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dezire+Clinic+-+Hair+Transplant,+Gynecomastia,+Liposuction+Centre/@23.0357281,72.5700078,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85b5a72963b3:0xd4f5433f53d42c11!8m2!3d23.0357281!4d72.5700078!16s%2Fg%2F11gv066dc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dezire+Clinic+-+Hair+Transplant,+Gynecomastia,+Liposuction+Centre/@23.0357281,72.5700078,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85b5a72963b3:0xd4f5433f53d42c11!8m2!3d23.0357281!4d72.5700078!16s%2Fg%2F11gv066dc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3560,7 +3589,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dezire+Clinic+-+Hair+Transplant,+Gynecomastia,+Liposuction+Centre/@23.0357281,72.5700078,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85b5a72963b3:0xd4f5433f53d42c11!8m2!3d23.0357281!4d72.5700078!16s%2Fg%2F11gv066dc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhabkar-heart-foundation-ahmedabad",
@@ -3609,7 +3639,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Dhabkar+Heart+Foundation/@23.0040947,72.6064754,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85c616cea8f1:0x111702eef60caed8!8m2!3d23.0040947!4d72.6064754!16s%2Fg%2F11hlbdxwq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhabkar+Heart+Foundation/@23.0040947,72.6064754,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85c616cea8f1:0x111702eef60caed8!8m2!3d23.0040947!4d72.6064754!16s%2Fg%2F11hlbdxwq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3678,7 +3708,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhabkar+Heart+Foundation/@23.0040947,72.6064754,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85c616cea8f1:0x111702eef60caed8!8m2!3d23.0040947!4d72.6064754!16s%2Fg%2F11hlbdxwq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divine-skin-hair-and-plastic-surgical-centre-best-hair-transplant-in-ahmedabad-ahmedabad",
@@ -3728,7 +3759,7 @@
       "38+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Divine+Skin,+Hair+%26+Plastic+Surgical+Centre+-+Best+Hair+Transplant+in+Ahmedabad/@23.0456232,72.5419725,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84bd0ffb0bbd:0xe487b4b4ab4a739!8m2!3d23.0456232!4d72.5419725!16s%2Fg%2F11ddwyd44c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Divine+Skin,+Hair+%26+Plastic+Surgical+Centre+-+Best+Hair+Transplant+in+Ahmedabad/@23.0456232,72.5419725,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84bd0ffb0bbd:0xe487b4b4ab4a739!8m2!3d23.0456232!4d72.5419725!16s%2Fg%2F11ddwyd44c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3797,7 +3828,8 @@
     "rating": 4.9,
     "reviews": 38,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Divine+Skin,+Hair+%26+Plastic+Surgical+Centre+-+Best+Hair+Transplant+in+Ahmedabad/@23.0456232,72.5419725,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84bd0ffb0bbd:0xe487b4b4ab4a739!8m2!3d23.0456232!4d72.5419725!16s%2Fg%2F11ddwyd44c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dncc-hair-transplant-skin-and-obesity-centre-ahmedabad-ahmedabad",
@@ -3847,7 +3879,7 @@
       "38+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DNCC+Hair+Transplant,+Skin+%26+Obesity+Centre+-+Ahmedabad/@23.0129266,72.5637609,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85d26a1b9d51:0x7d8119680eed632e!8m2!3d23.0129266!4d72.5637609!16s%2Fg%2F11h4wcfzrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DNCC+Hair+Transplant,+Skin+%26+Obesity+Centre+-+Ahmedabad/@23.0129266,72.5637609,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85d26a1b9d51:0x7d8119680eed632e!8m2!3d23.0129266!4d72.5637609!16s%2Fg%2F11h4wcfzrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3916,7 +3948,8 @@
     "rating": 4.6,
     "reviews": 38,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DNCC+Hair+Transplant,+Skin+%26+Obesity+Centre+-+Ahmedabad/@23.0129266,72.5637609,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85d26a1b9d51:0x7d8119680eed632e!8m2!3d23.0129266!4d72.5637609!16s%2Fg%2F11h4wcfzrz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "flora-center-ahmedabad",
@@ -3967,7 +4000,7 @@
       "438+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/FLORA+CENTER/data=!4m7!3m6!1s0x395e849941c59d75:0x7b97981a0c2e43c5!8m2!3d23.0528186!4d72.5488196!16s%2Fg%2F11cspt94mn!19sChIJdZ3FQZmEXjkRxUMuDBqYl3s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FLORA+CENTER/data=!4m7!3m6!1s0x395e849941c59d75:0x7b97981a0c2e43c5!8m2!3d23.0528186!4d72.5488196!16s%2Fg%2F11cspt94mn!19sChIJdZ3FQZmEXjkRxUMuDBqYl3s?authuser=0&hl=en&rclk=1"
@@ -4036,7 +4069,8 @@
     "rating": 4.8,
     "reviews": 438,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/FLORA+CENTER/data=!4m7!3m6!1s0x395e849941c59d75:0x7b97981a0c2e43c5!8m2!3d23.0528186!4d72.5488196!16s%2Fg%2F11cspt94mn!19sChIJdZ3FQZmEXjkRxUMuDBqYl3s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "fusion-kidney-hospital-ahmedabad",
@@ -4085,7 +4119,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Fusion+Kidney+HOSPITAL/data=!4m7!3m6!1s0x395e84e99e39f4d5:0x6aa525703898f3f1!8m2!3d23.0297105!4d72.5469868!16s%2Fg%2F11b8_vc2ww!19sChIJ1fQ5numEXjkR8fOYOHAlpWo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fusion+Kidney+HOSPITAL/data=!4m7!3m6!1s0x395e84e99e39f4d5:0x6aa525703898f3f1!8m2!3d23.0297105!4d72.5469868!16s%2Fg%2F11b8_vc2ww!19sChIJ1fQ5numEXjkR8fOYOHAlpWo?authuser=0&hl=en&rclk=1"
@@ -4154,7 +4188,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fusion+Kidney+HOSPITAL/data=!4m7!3m6!1s0x395e84e99e39f4d5:0x6aa525703898f3f1!8m2!3d23.0297105!4d72.5469868!16s%2Fg%2F11b8_vc2ww!19sChIJ1fQ5numEXjkR8fOYOHAlpWo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "global-dental-clinic-cg-road-ahmedabad",
@@ -4204,7 +4239,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Global+Dental+Clinic+CG+road/data=!4m7!3m6!1s0x395e85027ea4b3c1:0xffa2ac3e249f8046!8m2!3d23.0290847!4d72.5571399!16s%2Fg%2F119v9_smp!19sChIJwbOkfgKFXjkRRoCfJD6sov8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Global+Dental+Clinic+CG+road/data=!4m7!3m6!1s0x395e85027ea4b3c1:0xffa2ac3e249f8046!8m2!3d23.0290847!4d72.5571399!16s%2Fg%2F119v9_smp!19sChIJwbOkfgKFXjkRRoCfJD6sov8?authuser=0&hl=en&rclk=1"
@@ -4273,7 +4308,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Global+Dental+Clinic+CG+road/data=!4m7!3m6!1s0x395e85027ea4b3c1:0xffa2ac3e249f8046!8m2!3d23.0290847!4d72.5571399!16s%2Fg%2F119v9_smp!19sChIJwbOkfgKFXjkRRoCfJD6sov8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "harsh-spine-and-neurosurgical-hospital-ahmedabad",
@@ -4324,7 +4360,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Harsh+Spine+And+Neurosurgical+Hospital/data=!4m7!3m6!1s0x395e847c5f02e16f:0x69fc904d3bfabd8e!8m2!3d23.0756378!4d72.5234135!16s%2Fg%2F1tfjp2rn!19sChIJb-ECX3yEXjkRjr36O02Q_Gk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Harsh+Spine+And+Neurosurgical+Hospital/data=!4m7!3m6!1s0x395e847c5f02e16f:0x69fc904d3bfabd8e!8m2!3d23.0756378!4d72.5234135!16s%2Fg%2F1tfjp2rn!19sChIJb-ECX3yEXjkRjr36O02Q_Gk?authuser=0&hl=en&rclk=1"
@@ -4393,7 +4429,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Harsh+Spine+And+Neurosurgical+Hospital/data=!4m7!3m6!1s0x395e847c5f02e16f:0x69fc904d3bfabd8e!8m2!3d23.0756378!4d72.5234135!16s%2Fg%2F1tfjp2rn!19sChIJb-ECX3yEXjkRjr36O02Q_Gk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hcg-aastha-cancer-hospital-sola-ahmedabad-ahmedabad",
@@ -4443,7 +4480,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HCG+Aastha+Cancer+Hospital+-+%28Sola,+Ahmedabad%29/data=!4m7!3m6!1s0x395e834d0d76725f:0xd726b25b24414fea!8m2!3d23.0873577!4d72.5250262!16s%2Fg%2F11dxl71zst!19sChIJX3J2DU2DXjkR6k9BJFuyJtc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HCG+Aastha+Cancer+Hospital+-+%28Sola,+Ahmedabad%29/data=!4m7!3m6!1s0x395e834d0d76725f:0xd726b25b24414fea!8m2!3d23.0873577!4d72.5250262!16s%2Fg%2F11dxl71zst!19sChIJX3J2DU2DXjkR6k9BJFuyJtc?authuser=0&hl=en&rclk=1"
@@ -4512,7 +4549,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HCG+Aastha+Cancer+Hospital+-+%28Sola,+Ahmedabad%29/data=!4m7!3m6!1s0x395e834d0d76725f:0xd726b25b24414fea!8m2!3d23.0873577!4d72.5250262!16s%2Fg%2F11dxl71zst!19sChIJX3J2DU2DXjkR6k9BJFuyJtc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hd-dental-clinic-and-maxillofacial-center-ahmedabad",
@@ -4562,7 +4600,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HD+Dental+Clinic+and+Maxillofacial+Center/data=!4m7!3m6!1s0x395e84902f52c4df:0x7a3155e8a3268dda!8m2!3d23.0469948!4d72.5556012!16s%2Fg%2F11f405grv2!19sChIJ38RSL5CEXjkR2o0mo-hVMXo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HD+Dental+Clinic+and+Maxillofacial+Center/data=!4m7!3m6!1s0x395e84902f52c4df:0x7a3155e8a3268dda!8m2!3d23.0469948!4d72.5556012!16s%2Fg%2F11f405grv2!19sChIJ38RSL5CEXjkR2o0mo-hVMXo?authuser=0&hl=en&rclk=1"
@@ -4628,10 +4666,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HD+Dental+Clinic+and+Maxillofacial+Center/data=!4m7!3m6!1s0x395e84902f52c4df:0x7a3155e8a3268dda!8m2!3d23.0469948!4d72.5556012!16s%2Fg%2F11f405grv2!19sChIJ38RSL5CEXjkR2o0mo-hVMXo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "heart-care-associates-ahmedabad",
@@ -4681,7 +4720,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Heart+care+Associates/@23.0458133,72.5360848,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84bb3ca05dcd:0x32e0a25919264090!8m2!3d23.0458133!4d72.5360848!16s%2Fg%2F11jgbxr_6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heart+care+Associates/@23.0458133,72.5360848,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84bb3ca05dcd:0x32e0a25919264090!8m2!3d23.0458133!4d72.5360848!16s%2Fg%2F11jgbxr_6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4747,10 +4786,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Heart+care+Associates/@23.0458133,72.5360848,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84bb3ca05dcd:0x32e0a25919264090!8m2!3d23.0458133!4d72.5360848!16s%2Fg%2F11jgbxr_6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ifollix-hair-transplant-and-cosmetic-skin-clinic-ahmedabad",
@@ -4799,7 +4839,7 @@
       "Google rating 5.0",
       "12+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Ifollix+Hair+Transplant+%26+Cosmetic+Skin+Clinic/@23.0219351,72.5182662,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b1771872e1f:0x6b7b9efc95873634!8m2!3d23.0219351!4d72.5182662!16s%2Fg%2F11gk8s1frq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ifollix+Hair+Transplant+%26+Cosmetic+Skin+Clinic/@23.0219351,72.5182662,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b1771872e1f:0x6b7b9efc95873634!8m2!3d23.0219351!4d72.5182662!16s%2Fg%2F11gk8s1frq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4865,10 +4905,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 12,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ifollix+Hair+Transplant+%26+Cosmetic+Skin+Clinic/@23.0219351,72.5182662,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b1771872e1f:0x6b7b9efc95873634!8m2!3d23.0219351!4d72.5182662!16s%2Fg%2F11gk8s1frq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indira-ivf-ahmedabad-ahmedabad",
@@ -4918,7 +4959,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Ahmedabad/data=!4m7!3m6!1s0x395e84edeb0516b7:0x36f5a898fe865006!8m2!3d23.0331309!4d72.55491!16s%2Fg%2F11c0q_bwf7!19sChIJtxYF6-2EXjkRBlCG_pio9TY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Ahmedabad/data=!4m7!3m6!1s0x395e84edeb0516b7:0x36f5a898fe865006!8m2!3d23.0331309!4d72.55491!16s%2Fg%2F11c0q_bwf7!19sChIJtxYF6-2EXjkRBlCG_pio9TY?authuser=0&hl=en&rclk=1"
@@ -4987,7 +5028,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Ahmedabad/data=!4m7!3m6!1s0x395e84edeb0516b7:0x36f5a898fe865006!8m2!3d23.0331309!4d72.55491!16s%2Fg%2F11c0q_bwf7!19sChIJtxYF6-2EXjkRBlCG_pio9TY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-bopal-best-ivf-centre-ahmedabad",
@@ -5038,7 +5080,7 @@
       "68+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Bopal+-+Best+IVF+Centre/data=!4m7!3m6!1s0x395e9bd58f5ba61d:0xbdb312492658fc9a!8m2!3d23.026219!4d72.4762276!16s%2Fg%2F11vx7097hp!19sChIJHaZbj9WbXjkRmvxYJkkSs70?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Bopal+-+Best+IVF+Centre/data=!4m7!3m6!1s0x395e9bd58f5ba61d:0xbdb312492658fc9a!8m2!3d23.026219!4d72.4762276!16s%2Fg%2F11vx7097hp!19sChIJHaZbj9WbXjkRmvxYJkkSs70?authuser=0&hl=en&rclk=1"
@@ -5107,7 +5149,8 @@
     "rating": 4.9,
     "reviews": 68,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Bopal+-+Best+IVF+Centre/data=!4m7!3m6!1s0x395e9bd58f5ba61d:0xbdb312492658fc9a!8m2!3d23.026219!4d72.4762276!16s%2Fg%2F11vx7097hp!19sChIJHaZbj9WbXjkRmvxYJkkSs70?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "indo-brasilian-aesthetic-surgery-centre-ahmedabad",
@@ -5156,7 +5199,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indo+Brasilian+Aesthetic+Surgery+Centre/data=!4m7!3m6!1s0x395e8492589ae0e5:0x97299ba652839396!8m2!3d23.0403525!4d72.5541692!16s%2Fg%2F11cs28hfjg!19sChIJ5eCaWJKEXjkRlpODUqabKZc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indo+Brasilian+Aesthetic+Surgery+Centre/data=!4m7!3m6!1s0x395e8492589ae0e5:0x97299ba652839396!8m2!3d23.0403525!4d72.5541692!16s%2Fg%2F11cs28hfjg!19sChIJ5eCaWJKEXjkRlpODUqabKZc?authuser=0&hl=en&rclk=1"
@@ -5225,7 +5268,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indo+Brasilian+Aesthetic+Surgery+Centre/data=!4m7!3m6!1s0x395e8492589ae0e5:0x97299ba652839396!8m2!3d23.0403525!4d72.5541692!16s%2Fg%2F11cs28hfjg!19sChIJ5eCaWJKEXjkRlpODUqabKZc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "indospine-hospital-ahmedabad",
@@ -5275,7 +5319,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indospine+Hospital/data=!4m7!3m6!1s0x395e84ee3a19c14d:0xdcae1981d420fcbe!8m2!3d23.030386!4d72.5548661!16s%2Fg%2F11clygqxj0!19sChIJTcEZOu6EXjkRvvwg1IEZrtw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indospine+Hospital/data=!4m7!3m6!1s0x395e84ee3a19c14d:0xdcae1981d420fcbe!8m2!3d23.030386!4d72.5548661!16s%2Fg%2F11clygqxj0!19sChIJTcEZOu6EXjkRvvwg1IEZrtw?authuser=0&hl=en&rclk=1"
@@ -5344,7 +5388,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indospine+Hospital/data=!4m7!3m6!1s0x395e84ee3a19c14d:0xdcae1981d420fcbe!8m2!3d23.030386!4d72.5548661!16s%2Fg%2F11clygqxj0!19sChIJTcEZOu6EXjkRvvwg1IEZrtw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "j-k-heart-and-medical-hospital-and-diabetes-cure-centre-ahmedabad",
@@ -5396,7 +5441,7 @@
       "Google rating 4.9",
       "471+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/J+K+Heart+and+Medical+Hospital+And+Diabetes+Cure+Centre/@23.0872459,72.6832713,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81343baba745:0x4300bc864e5563e!8m2!3d23.0872459!4d72.6832713!16s%2Fg%2F11stc3rq16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J+K+Heart+and+Medical+Hospital+And+Diabetes+Cure+Centre/@23.0872459,72.6832713,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81343baba745:0x4300bc864e5563e!8m2!3d23.0872459!4d72.6832713!16s%2Fg%2F11stc3rq16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5465,7 +5510,8 @@
     "rating": 4.9,
     "reviews": 471,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/J+K+Heart+and+Medical+Hospital+And+Diabetes+Cure+Centre/@23.0872459,72.6832713,17z/data=!3m1!4b1!4m6!3m5!1s0x395e81343baba745:0x4300bc864e5563e!8m2!3d23.0872459!4d72.6832713!16s%2Fg%2F11stc3rq16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khushhi-ivf-ahmedabad",
@@ -5515,7 +5561,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Khushhi+IVF/data=!4m7!3m6!1s0x395e85563723a423:0x254e690af4a9e35!8m2!3d23.0435917!4d72.4985146!16s%2Fg%2F11fn0jc2g1!19sChIJI6QjN1aFXjkRNZ5Kr5DmVAI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khushhi+IVF/data=!4m7!3m6!1s0x395e85563723a423:0x254e690af4a9e35!8m2!3d23.0435917!4d72.4985146!16s%2Fg%2F11fn0jc2g1!19sChIJI6QjN1aFXjkRNZ5Kr5DmVAI?authuser=0&hl=en&rclk=1"
@@ -5584,7 +5630,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khushhi+IVF/data=!4m7!3m6!1s0x395e85563723a423:0x254e690af4a9e35!8m2!3d23.0435917!4d72.4985146!16s%2Fg%2F11fn0jc2g1!19sChIJI6QjN1aFXjkRNZ5Kr5DmVAI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kumud-heart-hospital-medical-nursing-home-ahmedabad",
@@ -5633,7 +5680,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Kumud+Heart+Hospital+Medical+Nursing+Home/@23.0605819,72.5578287,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8482901b0277:0x1797940add86edd!8m2!3d23.0605819!4d72.5578287!16s%2Fg%2F124ypyl5n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kumud+Heart+Hospital+Medical+Nursing+Home/@23.0605819,72.5578287,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8482901b0277:0x1797940add86edd!8m2!3d23.0605819!4d72.5578287!16s%2Fg%2F124ypyl5n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5702,7 +5749,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kumud+Heart+Hospital+Medical+Nursing+Home/@23.0605819,72.5578287,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8482901b0277:0x1797940add86edd!8m2!3d23.0605819!4d72.5578287!16s%2Fg%2F124ypyl5n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "laser-cosmetic-surgery-center-ahmedabad",
@@ -5752,7 +5800,7 @@
       "71+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Laser+Cosmetic+Surgery+Center/@23.017316,72.5582778,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84f83fffffff:0xe11f4f0f008787be!8m2!3d23.017316!4d72.5582778!16s%2Fg%2F1tlw7gn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laser+Cosmetic+Surgery+Center/@23.017316,72.5582778,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84f83fffffff:0xe11f4f0f008787be!8m2!3d23.017316!4d72.5582778!16s%2Fg%2F1tlw7gn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5821,7 +5869,8 @@
     "rating": 4.5,
     "reviews": 71,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laser+Cosmetic+Surgery+Center/@23.017316,72.5582778,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84f83fffffff:0xe11f4f0f008787be!8m2!3d23.017316!4d72.5582778!16s%2Fg%2F1tlw7gn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lavanya-skin-clinic-best-skin-specialist-in-ahmedabad-ahmedabad",
@@ -5870,7 +5919,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lavanya+Skin+Clinic+-+Best+Skin+Specialist+in+Ahmedabad/@22.9923389,72.6042092,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85c2ffffffff:0x29b952959abf23f7!8m2!3d22.9923389!4d72.6042092!16s%2Fg%2F1v3gq9hl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lavanya+Skin+Clinic+-+Best+Skin+Specialist+in+Ahmedabad/@22.9923389,72.6042092,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85c2ffffffff:0x29b952959abf23f7!8m2!3d22.9923389!4d72.6042092!16s%2Fg%2F1v3gq9hl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5939,7 +5988,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lavanya+Skin+Clinic+-+Best+Skin+Specialist+in+Ahmedabad/@22.9923389,72.6042092,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85c2ffffffff:0x29b952959abf23f7!8m2!3d22.9923389!4d72.6042092!16s%2Fg%2F1v3gq9hl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "marengo-cims-hospital-ahmedabad",
@@ -5989,7 +6039,7 @@
       "406+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Marengo+CIMS+Hospital/@23.0702006,72.5170141,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9cb250f37723:0x27de8effab4879ed!8m2!3d23.0702006!4d72.5170141!16s%2Fg%2F11c3wwk_d7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Marengo+CIMS+Hospital/@23.0702006,72.5170141,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9cb250f37723:0x27de8effab4879ed!8m2!3d23.0702006!4d72.5170141!16s%2Fg%2F11c3wwk_d7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6058,7 +6108,8 @@
     "rating": 4.8,
     "reviews": 406,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Marengo+CIMS+Hospital/@23.0702006,72.5170141,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9cb250f37723:0x27de8effab4879ed!8m2!3d23.0702006!4d72.5170141!16s%2Fg%2F11c3wwk_d7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "midas-touch-cosmetic-centre-ahmedabad",
@@ -6108,7 +6159,7 @@
       "302+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Midas+Touch+Cosmetic+Centre/@23.0747269,72.5125747,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9cb6c282df0f:0x8042fe5b663f7452!8m2!3d23.0747269!4d72.5125747!16s%2Fg%2F11cpfrjnrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Midas+Touch+Cosmetic+Centre/@23.0747269,72.5125747,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9cb6c282df0f:0x8042fe5b663f7452!8m2!3d23.0747269!4d72.5125747!16s%2Fg%2F11cpfrjnrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6177,7 +6228,8 @@
     "rating": 4.9,
     "reviews": 302,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Midas+Touch+Cosmetic+Centre/@23.0747269,72.5125747,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9cb6c282df0f:0x8042fe5b663f7452!8m2!3d23.0747269!4d72.5125747!16s%2Fg%2F11cpfrjnrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "morph-aesthetic-clinic-ahmedabad",
@@ -6227,7 +6279,7 @@
       "99+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Morph+Aesthetic+Clinic/data=!4m7!3m6!1s0x68411ae1ee0d5d17:0xdea5574b3be64cd0!8m2!3d23.0755491!4d72.5235547!16s%2Fg%2F11wtknrn96!19sChIJF10N7uEaQWgR0EzmO0tXpd4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Morph+Aesthetic+Clinic/data=!4m7!3m6!1s0x68411ae1ee0d5d17:0xdea5574b3be64cd0!8m2!3d23.0755491!4d72.5235547!16s%2Fg%2F11wtknrn96!19sChIJF10N7uEaQWgR0EzmO0tXpd4?authuser=0&hl=en&rclk=1"
@@ -6293,10 +6345,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 99,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Morph+Aesthetic+Clinic/data=!4m7!3m6!1s0x68411ae1ee0d5d17:0xdea5574b3be64cd0!8m2!3d23.0755491!4d72.5235547!16s%2Fg%2F11wtknrn96!19sChIJF10N7uEaQWgR0EzmO0tXpd4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "musk-clinic-medical-esthetics-best-hair-transplant-in-ahmedabad-skin-face-body-and-laser-hair-removal-in-ahmedabad-ahmedabad",
@@ -6346,7 +6399,7 @@
       "1045+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Musk+Clinic+%7C+Medical+Esthetics+-+Best+Hair+Transplant+in+Ahmedabad,+Skin,+Face,+Body+%26+Laser+Hair+Removal+in+Ahmedabad/@23.0139193,72.5288818,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85108525e887:0xa17c53ecda0b6615!8m2!3d23.0139193!4d72.5288818!16s%2Fg%2F11g1q6l6t7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Musk+Clinic+%7C+Medical+Esthetics+-+Best+Hair+Transplant+in+Ahmedabad,+Skin,+Face,+Body+%26+Laser+Hair+Removal+in+Ahmedabad/@23.0139193,72.5288818,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85108525e887:0xa17c53ecda0b6615!8m2!3d23.0139193!4d72.5288818!16s%2Fg%2F11g1q6l6t7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6415,7 +6468,8 @@
     "rating": 4.9,
     "reviews": 1045,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Musk+Clinic+%7C+Medical+Esthetics+-+Best+Hair+Transplant+in+Ahmedabad,+Skin,+Face,+Body+%26+Laser+Hair+Removal+in+Ahmedabad/@23.0139193,72.5288818,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85108525e887:0xa17c53ecda0b6615!8m2!3d23.0139193!4d72.5288818!16s%2Fg%2F11g1q6l6t7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "namrata-heart-and-medical-clinic-ahmedabad",
@@ -6464,7 +6518,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Namrata+Heart+%26+Medical+Clinic/data=!4m7!3m6!1s0x395e841900000001:0xd3c556c8d833c351!8m2!3d23.0489816!4d72.601636!16s%2Fg%2F11f2714bz9!19sChIJAQAAABmEXjkRUcMz2MhWxdM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Namrata+Heart+%26+Medical+Clinic/data=!4m7!3m6!1s0x395e841900000001:0xd3c556c8d833c351!8m2!3d23.0489816!4d72.601636!16s%2Fg%2F11f2714bz9!19sChIJAQAAABmEXjkRUcMz2MhWxdM?authuser=0&hl=en&rclk=1"
@@ -6533,7 +6587,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Namrata+Heart+%26+Medical+Clinic/data=!4m7!3m6!1s0x395e841900000001:0xd3c556c8d833c351!8m2!3d23.0489816!4d72.601636!16s%2Fg%2F11f2714bz9!19sChIJAQAAABmEXjkRUcMz2MhWxdM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "navkar-plastic-surgery-hospital-ahmedabad",
@@ -6581,7 +6636,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Navkar+Plastic+Surgery+Hospital/@23.0144559,72.5626831,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8501eea2e853:0xa9678204ccf46ff5!8m2!3d23.0144559!4d72.5626831!16s%2Fg%2F11hctjxj74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navkar+Plastic+Surgery+Hospital/@23.0144559,72.5626831,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8501eea2e853:0xa9678204ccf46ff5!8m2!3d23.0144559!4d72.5626831!16s%2Fg%2F11hctjxj74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6647,10 +6702,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Navkar+Plastic+Surgery+Hospital/@23.0144559,72.5626831,17z/data=!3m1!4b1!4m6!3m5!1s0x395e8501eea2e853:0xa9678204ccf46ff5!8m2!3d23.0144559!4d72.5626831!16s%2Fg%2F11hctjxj74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neurokalp-ahmedabad",
@@ -6700,7 +6756,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NEUROKALP/data=!4m7!3m6!1s0x395e8588cc6ba9cd:0x9f042af033374078!8m2!3d23.0212325!4d72.5713689!16s%2Fg%2F11f6cyjpxf!19sChIJzalrzIiFXjkReEA3M_AqBJ8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEUROKALP/data=!4m7!3m6!1s0x395e8588cc6ba9cd:0x9f042af033374078!8m2!3d23.0212325!4d72.5713689!16s%2Fg%2F11f6cyjpxf!19sChIJzalrzIiFXjkReEA3M_AqBJ8?authuser=0&hl=en&rclk=1"
@@ -6766,10 +6822,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEUROKALP/data=!4m7!3m6!1s0x395e8588cc6ba9cd:0x9f042af033374078!8m2!3d23.0212325!4d72.5713689!16s%2Fg%2F11f6cyjpxf!19sChIJzalrzIiFXjkReEA3M_AqBJ8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neurolife-brain-and-spine-care-hospital-ahmedabad",
@@ -6820,7 +6877,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NEUROLIFE+BRAIN+%26+SPINE+CARE+HOSPITAL/data=!4m7!3m6!1s0x395e87f98762c2e5:0xefac3a884acd4096!8m2!3d23.0619656!4d72.6437896!16s%2Fg%2F11j0_fmhk7!19sChIJ5cJih_mHXjkRlkDNSog6rO8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEUROLIFE+BRAIN+%26+SPINE+CARE+HOSPITAL/data=!4m7!3m6!1s0x395e87f98762c2e5:0xefac3a884acd4096!8m2!3d23.0619656!4d72.6437896!16s%2Fg%2F11j0_fmhk7!19sChIJ5cJih_mHXjkRlkDNSog6rO8?authuser=0&hl=en&rclk=1"
@@ -6889,7 +6946,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEUROLIFE+BRAIN+%26+SPINE+CARE+HOSPITAL/data=!4m7!3m6!1s0x395e87f98762c2e5:0xefac3a884acd4096!8m2!3d23.0619656!4d72.6437896!16s%2Fg%2F11j0_fmhk7!19sChIJ5cJih_mHXjkRlkDNSog6rO8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "new-touch-best-hair-transplant-skin-laser-hair-removal-treatments-in-satellite-ahmedabad-india-ahmedabad",
@@ -6939,7 +6997,7 @@
       "536+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/New+Touch+-+Best+Hair+Transplant,+Skin,+Laser+Hair+Removal+Treatments+in+Satellite,+Ahmedabad,+India/@23.0139815,72.5287002,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84d651a3ab07:0xbcbfd2994cd16669!8m2!3d23.0139815!4d72.5287002!16s%2Fg%2F1th1sg17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Touch+-+Best+Hair+Transplant,+Skin,+Laser+Hair+Removal+Treatments+in+Satellite,+Ahmedabad,+India/@23.0139815,72.5287002,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84d651a3ab07:0xbcbfd2994cd16669!8m2!3d23.0139815!4d72.5287002!16s%2Fg%2F1th1sg17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7008,7 +7066,8 @@
     "rating": 4.7,
     "reviews": 536,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Touch+-+Best+Hair+Transplant,+Skin,+Laser+Hair+Removal+Treatments+in+Satellite,+Ahmedabad,+India/@23.0139815,72.5287002,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84d651a3ab07:0xbcbfd2994cd16669!8m2!3d23.0139815!4d72.5287002!16s%2Fg%2F1th1sg17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nova-ivf-ahmedabad",
@@ -7058,7 +7117,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nova+IVF/data=!4m7!3m6!1s0x395e9cb1d6441583:0xa290d9171ba1441!8m2!3d23.0432816!4d72.5288097!16s%2Fg%2F1pzv8_2y4!19sChIJgxVE1rGcXjkRQRS6cZENKQo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF/data=!4m7!3m6!1s0x395e9cb1d6441583:0xa290d9171ba1441!8m2!3d23.0432816!4d72.5288097!16s%2Fg%2F1pzv8_2y4!19sChIJgxVE1rGcXjkRQRS6cZENKQo?authuser=0&hl=en&rclk=1"
@@ -7127,7 +7186,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nova+IVF/data=!4m7!3m6!1s0x395e9cb1d6441583:0xa290d9171ba1441!8m2!3d23.0432816!4d72.5288097!16s%2Fg%2F1pzv8_2y4!19sChIJgxVE1rGcXjkRQRS6cZENKQo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nova-ivf-fertility-centre-best-ivf-center-in-naroda-ahmedabad-ahmedabad",
@@ -7178,7 +7238,7 @@
       "58+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Centre+-+Best+IVF+Center+in+Naroda,+Ahmedabad/data=!4m7!3m6!1s0x395e8733606822af:0x3f83da40f0f3aae!8m2!3d23.0545377!4d72.6653573!16s%2Fg%2F11vypb0qq0!19sChIJryJoYDOHXjkRrjoPD6Q9-AM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Centre+-+Best+IVF+Center+in+Naroda,+Ahmedabad/data=!4m7!3m6!1s0x395e8733606822af:0x3f83da40f0f3aae!8m2!3d23.0545377!4d72.6653573!16s%2Fg%2F11vypb0qq0!19sChIJryJoYDOHXjkRrjoPD6Q9-AM?authuser=0&hl=en&rclk=1"
@@ -7247,7 +7307,8 @@
     "rating": 4.9,
     "reviews": 58,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Centre+-+Best+IVF+Center+in+Naroda,+Ahmedabad/data=!4m7!3m6!1s0x395e8733606822af:0x3f83da40f0f3aae!8m2!3d23.0545377!4d72.6653573!16s%2Fg%2F11vypb0qq0!19sChIJryJoYDOHXjkRrjoPD6Q9-AM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "parli-cosmetic-laser-centre-ahmedabad",
@@ -7295,7 +7356,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Parli+Cosmetic+Laser+Centre/@23.0380567,72.6309397,17z/data=!3m1!4b1!4m6!3m5!1s0x395e86913dda6ccf:0x500c9de47a0be9ba!8m2!3d23.0380567!4d72.6309397!16s%2Fg%2F1hm6fvzmv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parli+Cosmetic+Laser+Centre/@23.0380567,72.6309397,17z/data=!3m1!4b1!4m6!3m5!1s0x395e86913dda6ccf:0x500c9de47a0be9ba!8m2!3d23.0380567!4d72.6309397!16s%2Fg%2F1hm6fvzmv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7361,10 +7422,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parli+Cosmetic+Laser+Centre/@23.0380567,72.6309397,17z/data=!3m1!4b1!4m6!3m5!1s0x395e86913dda6ccf:0x500c9de47a0be9ba!8m2!3d23.0380567!4d72.6309397!16s%2Fg%2F1hm6fvzmv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pinaksh-hospital-ahmedabad",
@@ -7415,7 +7477,7 @@
       "258+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pinaksh+Hospital/data=!4m7!3m6!1s0x395e8589648c9d8b:0xda241864c964fdc4!8m2!3d23.0474388!4d72.5610716!16s%2Fg%2F11nfz_98xc!19sChIJi52MZImFXjkRxP1kyWQYJNo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pinaksh+Hospital/data=!4m7!3m6!1s0x395e8589648c9d8b:0xda241864c964fdc4!8m2!3d23.0474388!4d72.5610716!16s%2Fg%2F11nfz_98xc!19sChIJi52MZImFXjkRxP1kyWQYJNo?authuser=0&hl=en&rclk=1"
@@ -7484,7 +7546,8 @@
     "rating": 4.9,
     "reviews": 258,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pinaksh+Hospital/data=!4m7!3m6!1s0x395e8589648c9d8b:0xda241864c964fdc4!8m2!3d23.0474388!4d72.5610716!16s%2Fg%2F11nfz_98xc!19sChIJi52MZImFXjkRxP1kyWQYJNo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "planet-women-ivf-fertility-centre-best-ivf-center-in-ahmedabad-gujarat-ahmedabad",
@@ -7536,7 +7599,7 @@
       "806+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Planet+Women+IVF+Fertility+Centre+-+Best+IVF+Center+in+Ahmedabad,+Gujarat/data=!4m7!3m6!1s0x395e84c2b284f7bd:0xca03ef8cc213110a!8m2!3d23.0248963!4d72.5433736!16s%2Fg%2F1tjff775!19sChIJvfeEssKEXjkRChETwozvA8o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Planet+Women+IVF+Fertility+Centre+-+Best+IVF+Center+in+Ahmedabad,+Gujarat/data=!4m7!3m6!1s0x395e84c2b284f7bd:0xca03ef8cc213110a!8m2!3d23.0248963!4d72.5433736!16s%2Fg%2F1tjff775!19sChIJvfeEssKEXjkRChETwozvA8o?authuser=0&hl=en&rclk=1"
@@ -7605,7 +7668,8 @@
     "rating": 4.9,
     "reviews": 806,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Planet+Women+IVF+Fertility+Centre+-+Best+IVF+Center+in+Ahmedabad,+Gujarat/data=!4m7!3m6!1s0x395e84c2b284f7bd:0xca03ef8cc213110a!8m2!3d23.0248963!4d72.5433736!16s%2Fg%2F1tjff775!19sChIJvfeEssKEXjkRChETwozvA8o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pratham-ivf-center-ahmedabad-ivf-clinic-ahmedabad",
@@ -7656,7 +7720,7 @@
       "4+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pratham+IVF+Center+Ahmedabad+%7C+IVF+Clinic/data=!4m7!3m6!1s0x395e84b7cb29c877:0x90e4b36e0a216fe5!8m2!3d23.0409951!4d72.5261362!16s%2Fg%2F1pwfvbrfj!19sChIJd8gpy7eEXjkR5W8hCm6z5JA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pratham+IVF+Center+Ahmedabad+%7C+IVF+Clinic/data=!4m7!3m6!1s0x395e84b7cb29c877:0x90e4b36e0a216fe5!8m2!3d23.0409951!4d72.5261362!16s%2Fg%2F1pwfvbrfj!19sChIJd8gpy7eEXjkR5W8hCm6z5JA?authuser=0&hl=en&rclk=1"
@@ -7725,7 +7789,8 @@
     "rating": 4.8,
     "reviews": 4,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pratham+IVF+Center+Ahmedabad+%7C+IVF+Clinic/data=!4m7!3m6!1s0x395e84b7cb29c877:0x90e4b36e0a216fe5!8m2!3d23.0409951!4d72.5261362!16s%2Fg%2F1pwfvbrfj!19sChIJd8gpy7eEXjkR5W8hCm6z5JA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rajvee-hospital-ahmedabad",
@@ -7775,7 +7840,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rajvee+Hospital/data=!4m7!3m6!1s0x395e84bd1035ebe9:0x7505836f2aa48aa2!8m2!3d23.0456232!4d72.5419725!16s%2Fg%2F1tfmlspq!19sChIJ6es1EL2EXjkRooqkKm-DBXU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajvee+Hospital/data=!4m7!3m6!1s0x395e84bd1035ebe9:0x7505836f2aa48aa2!8m2!3d23.0456232!4d72.5419725!16s%2Fg%2F1tfmlspq!19sChIJ6es1EL2EXjkRooqkKm-DBXU?authuser=0&hl=en&rclk=1"
@@ -7844,7 +7909,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajvee+Hospital/data=!4m7!3m6!1s0x395e84bd1035ebe9:0x7505836f2aa48aa2!8m2!3d23.0456232!4d72.5419725!16s%2Fg%2F1tfmlspq!19sChIJ6es1EL2EXjkRooqkKm-DBXU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rejuva-aesthetica-hair-transplant-in-ahmedabad-gynecomastia-surgery-in-gujarat-ahmedabad",
@@ -7894,7 +7960,7 @@
       "231+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rejuva+Aesthetica+Hair+Transplant+in+Ahmedabad+%7C+Gynecomastia+Surgery+in+Gujarat/@23.0200047,72.5298086,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84ce2eaaaaab:0xdd82dd013b0bd21b!8m2!3d23.0200047!4d72.5298086!16s%2Fg%2F11f3_2kh6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rejuva+Aesthetica+Hair+Transplant+in+Ahmedabad+%7C+Gynecomastia+Surgery+in+Gujarat/@23.0200047,72.5298086,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84ce2eaaaaab:0xdd82dd013b0bd21b!8m2!3d23.0200047!4d72.5298086!16s%2Fg%2F11f3_2kh6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7963,7 +8029,8 @@
     "rating": 4.9,
     "reviews": 231,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rejuva+Aesthetica+Hair+Transplant+in+Ahmedabad+%7C+Gynecomastia+Surgery+in+Gujarat/@23.0200047,72.5298086,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84ce2eaaaaab:0xdd82dd013b0bd21b!8m2!3d23.0200047!4d72.5298086!16s%2Fg%2F11f3_2kh6d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "renal-transplant-clinic-ahmedabad",
@@ -8012,7 +8079,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Renal+Transplant+Clinic/data=!4m7!3m6!1s0x395e9cb2491c5a9b:0x6d855bb579d83ebf!8m2!3d23.070122!4d72.516291!16s%2Fg%2F11b8_ptw0n!19sChIJm1ocSbKcXjkRvz7YebVbhW0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renal+Transplant+Clinic/data=!4m7!3m6!1s0x395e9cb2491c5a9b:0x6d855bb579d83ebf!8m2!3d23.070122!4d72.516291!16s%2Fg%2F11b8_ptw0n!19sChIJm1ocSbKcXjkRvz7YebVbhW0?authuser=0&hl=en&rclk=1"
@@ -8078,10 +8145,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Renal+Transplant+Clinic/data=!4m7!3m6!1s0x395e9cb2491c5a9b:0x6d855bb579d83ebf!8m2!3d23.070122!4d72.516291!16s%2Fg%2F11b8_ptw0n!19sChIJm1ocSbKcXjkRvz7YebVbhW0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "renus-kidney-hospital-ahmedabad",
@@ -8131,7 +8199,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Renus+Kidney+Hospital/data=!4m7!3m6!1s0x395e8542c0b7d08b:0x655eae8bd7cb6f3b!8m2!3d23.0184211!4d72.5298564!16s%2Fg%2F11h_5lqyxs!19sChIJi9C3wEKFXjkRO2_L14uuXmU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renus+Kidney+Hospital/data=!4m7!3m6!1s0x395e8542c0b7d08b:0x655eae8bd7cb6f3b!8m2!3d23.0184211!4d72.5298564!16s%2Fg%2F11h_5lqyxs!19sChIJi9C3wEKFXjkRO2_L14uuXmU?authuser=0&hl=en&rclk=1"
@@ -8200,7 +8268,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Renus+Kidney+Hospital/data=!4m7!3m6!1s0x395e8542c0b7d08b:0x655eae8bd7cb6f3b!8m2!3d23.0184211!4d72.5298564!16s%2Fg%2F11h_5lqyxs!19sChIJi9C3wEKFXjkRO2_L14uuXmU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rhythm-heart-and-medical-hospital-ahmedabad",
@@ -8249,7 +8318,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Rhythm+Heart+And+Medical+Hospital/@23.1135205,72.5832508,17z/data=!3m1!4b1!4m6!3m5!1s0x395e824c504fb827:0xe7c2a0d9df7831f5!8m2!3d23.1135205!4d72.5832508!16s%2Fg%2F124ygngkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rhythm+Heart+And+Medical+Hospital/@23.1135205,72.5832508,17z/data=!3m1!4b1!4m6!3m5!1s0x395e824c504fb827:0xe7c2a0d9df7831f5!8m2!3d23.1135205!4d72.5832508!16s%2Fg%2F124ygngkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8318,7 +8387,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rhythm+Heart+And+Medical+Hospital/@23.1135205,72.5832508,17z/data=!3m1!4b1!4m6!3m5!1s0x395e824c504fb827:0xe7c2a0d9df7831f5!8m2!3d23.1135205!4d72.5832508!16s%2Fg%2F124ygngkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rushi-surgical-hospital-ahmedabad",
@@ -8368,7 +8438,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rushi+Surgical+Hospital/data=!4m7!3m6!1s0x395e84992c9c7b27:0x4813df2034de560a!8m2!3d23.0539769!4d72.5475!16s%2Fg%2F1ptwmwwn3!19sChIJJ3ucLJmEXjkRClbeNCDfE0g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rushi+Surgical+Hospital/data=!4m7!3m6!1s0x395e84992c9c7b27:0x4813df2034de560a!8m2!3d23.0539769!4d72.5475!16s%2Fg%2F1ptwmwwn3!19sChIJJ3ucLJmEXjkRClbeNCDfE0g?authuser=0&hl=en&rclk=1"
@@ -8434,10 +8504,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rushi+Surgical+Hospital/data=!4m7!3m6!1s0x395e84992c9c7b27:0x4813df2034de560a!8m2!3d23.0539769!4d72.5475!16s%2Fg%2F1ptwmwwn3!19sChIJJ3ucLJmEXjkRClbeNCDfE0g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "s-m-wellness-clinic-vastrapur-ahmedabad-skin-laser-and-hair-clinic-ahmedabad",
@@ -8486,7 +8557,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/S+M+Wellness+Clinic+-+Vastrapur+Ahmedabad+%7C+Skin,+Laser+%26+Hair+Clinic/@23.0372274,72.528809,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85f244edb9c9:0xf5e7f7e1d0bac691!8m2!3d23.0372274!4d72.528809!16s%2Fg%2F11rsh2p5mg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+M+Wellness+Clinic+-+Vastrapur+Ahmedabad+%7C+Skin,+Laser+%26+Hair+Clinic/@23.0372274,72.528809,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85f244edb9c9:0xf5e7f7e1d0bac691!8m2!3d23.0372274!4d72.528809!16s%2Fg%2F11rsh2p5mg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8555,7 +8626,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+M+Wellness+Clinic+-+Vastrapur+Ahmedabad+%7C+Skin,+Laser+%26+Hair+Clinic/@23.0372274,72.528809,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85f244edb9c9:0xf5e7f7e1d0bac691!8m2!3d23.0372274!4d72.528809!16s%2Fg%2F11rsh2p5mg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saavi-hospital-ahmedabad",
@@ -8606,7 +8678,7 @@
       "5+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Saavi+Hospital/data=!4m7!3m6!1s0x395e9b2ed6378e03:0x2afc8c57cd0f3f6c!8m2!3d23.0158851!4d72.5116455!16s%2Fg%2F11b6dgd1x8!19sChIJA4431i6bXjkRbD8PzVeM_Co?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saavi+Hospital/data=!4m7!3m6!1s0x395e9b2ed6378e03:0x2afc8c57cd0f3f6c!8m2!3d23.0158851!4d72.5116455!16s%2Fg%2F11b6dgd1x8!19sChIJA4431i6bXjkRbD8PzVeM_Co?authuser=0&hl=en&rclk=1"
@@ -8675,7 +8747,8 @@
     "rating": 4.9,
     "reviews": 5,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saavi+Hospital/data=!4m7!3m6!1s0x395e9b2ed6378e03:0x2afc8c57cd0f3f6c!8m2!3d23.0158851!4d72.5116455!16s%2Fg%2F11b6dgd1x8!19sChIJA4431i6bXjkRbD8PzVeM_Co?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sakhiya-skin-clinic-best-skin-and-hair-care-clinic-ahmedabad",
@@ -8724,7 +8797,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+And+Hair+Care+Clinic/@23.02495,72.5293988,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84cfb4a1e485:0x271b7473f3e19773!8m2!3d23.02495!4d72.5293988!16s%2Fg%2F1pv0bcw60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+And+Hair+Care+Clinic/@23.02495,72.5293988,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84cfb4a1e485:0x271b7473f3e19773!8m2!3d23.02495!4d72.5293988!16s%2Fg%2F1pv0bcw60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8793,7 +8866,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+And+Hair+Care+Clinic/@23.02495,72.5293988,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84cfb4a1e485:0x271b7473f3e19773!8m2!3d23.02495!4d72.5293988!16s%2Fg%2F1pv0bcw60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sakhiya-skin-clinic-best-skin-and-hair-clinic-laser-hair-removal-anti-aging-skin-glow-ahmedabad",
@@ -8842,7 +8916,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+And+Hair+Clinic+%7C+Laser+Hair+Removal+%7C+Anti+Aging+%7C+Skin+Glow/data=!4m7!3m6!1s0x395e8362f59339a1:0x56d3394182d8cd55!8m2!3d23.109288!4d72.5951766!16s%2Fg%2F11fnvyqls_!19sChIJoTmT9WKDXjkRVc3YgkE501Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+And+Hair+Clinic+%7C+Laser+Hair+Removal+%7C+Anti+Aging+%7C+Skin+Glow/data=!4m7!3m6!1s0x395e8362f59339a1:0x56d3394182d8cd55!8m2!3d23.109288!4d72.5951766!16s%2Fg%2F11fnvyqls_!19sChIJoTmT9WKDXjkRVc3YgkE501Y?authuser=0&hl=en&rclk=1"
@@ -8911,7 +8985,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+And+Hair+Clinic+%7C+Laser+Hair+Removal+%7C+Anti+Aging+%7C+Skin+Glow/data=!4m7!3m6!1s0x395e8362f59339a1:0x56d3394182d8cd55!8m2!3d23.109288!4d72.5951766!16s%2Fg%2F11fnvyqls_!19sChIJoTmT9WKDXjkRVc3YgkE501Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sakhiya-skin-clinic-best-skin-clinic-in-ahmedabad-ahmedabad",
@@ -8960,7 +9035,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+Clinic+In+Ahmedabad/@23.0253939,72.4772589,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b447a53056d:0xa1b885c285cf5c1a!8m2!3d23.0253939!4d72.4772589!16s%2Fg%2F11rzjhn3rw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+Clinic+In+Ahmedabad/@23.0253939,72.4772589,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b447a53056d:0xa1b885c285cf5c1a!8m2!3d23.0253939!4d72.4772589!16s%2Fg%2F11rzjhn3rw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9029,7 +9104,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+Clinic+In+Ahmedabad/@23.0253939,72.4772589,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b447a53056d:0xa1b885c285cf5c1a!8m2!3d23.0253939!4d72.4772589!16s%2Fg%2F11rzjhn3rw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sakhiya-skin-clinic-best-skin-and-laser-hair-removal-clinic-ahmedabad",
@@ -9078,7 +9154,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-Best+Skin+And+Laser+Hair+Removal+Clinic/@23.0398165,72.50791,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b51ca516be1:0xe245f81735309483!8m2!3d23.0398165!4d72.50791!16s%2Fg%2F11hbnc6g30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-Best+Skin+And+Laser+Hair+Removal+Clinic/@23.0398165,72.50791,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b51ca516be1:0xe245f81735309483!8m2!3d23.0398165!4d72.50791!16s%2Fg%2F11hbnc6g30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9147,7 +9223,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-Best+Skin+And+Laser+Hair+Removal+Clinic/@23.0398165,72.50791,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b51ca516be1:0xe245f81735309483!8m2!3d23.0398165!4d72.50791!16s%2Fg%2F11hbnc6g30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sangini-hospital-ahmedabad",
@@ -9196,7 +9273,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sangini+Hospital/@23.0248729,72.5233626,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84fd037c24e5:0x2145919556ef195c!8m2!3d23.0248729!4d72.5233626!16s%2Fg%2F1tcyjfjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sangini+Hospital/@23.0248729,72.5233626,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84fd037c24e5:0x2145919556ef195c!8m2!3d23.0248729!4d72.5233626!16s%2Fg%2F1tcyjfjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9265,7 +9342,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sangini+Hospital/@23.0248729,72.5233626,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84fd037c24e5:0x2145919556ef195c!8m2!3d23.0248729!4d72.5233626!16s%2Fg%2F1tcyjfjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sankalp-hospital-ahmedabad",
@@ -9314,7 +9392,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sankalp+Hospital/data=!4m7!3m6!1s0x395e84fc1589fc43:0x8f160dea6195da4e!8m2!3d23.019512!4d72.5606563!16s%2Fg%2F11b8_yzsw6!19sChIJQ_yJFfyEXjkRTtqVYeoNFo8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sankalp+Hospital/data=!4m7!3m6!1s0x395e84fc1589fc43:0x8f160dea6195da4e!8m2!3d23.019512!4d72.5606563!16s%2Fg%2F11b8_yzsw6!19sChIJQ_yJFfyEXjkRTtqVYeoNFo8?authuser=0&hl=en&rclk=1"
@@ -9383,7 +9461,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sankalp+Hospital/data=!4m7!3m6!1s0x395e84fc1589fc43:0x8f160dea6195da4e!8m2!3d23.019512!4d72.5606563!16s%2Fg%2F11b8_yzsw6!19sChIJQ_yJFfyEXjkRTtqVYeoNFo8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sanvi-plastic-surgery-hospital-ahmedabad",
@@ -9431,7 +9510,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SANVI+Plastic+surgery+hospital/@23.0467897,72.5693489,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85fb1ec23cb9:0x74474080856dd6f3!8m2!3d23.0467897!4d72.5693489!16s%2Fg%2F11s_wsxbmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SANVI+Plastic+surgery+hospital/@23.0467897,72.5693489,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85fb1ec23cb9:0x74474080856dd6f3!8m2!3d23.0467897!4d72.5693489!16s%2Fg%2F11s_wsxbmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9497,10 +9576,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SANVI+Plastic+surgery+hospital/@23.0467897,72.5693489,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85fb1ec23cb9:0x74474080856dd6f3!8m2!3d23.0467897!4d72.5693489!16s%2Fg%2F11s_wsxbmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "satvi-aesthetic-clinic-hair-face-body-hair-transplant-cosmetic-surgery-centre-laser-hair-removal-ahmedabad",
@@ -9549,7 +9629,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Satvi+Aesthetic+Clinic+%7C+Hair+%7C+Face+%7C+Body+%7C+Hair+Transplant+%7C+Cosmetic+Surgery+Centre+%7C+Laser+Hair+Removal/@23.1014665,72.5488704,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83f1e469a3fd:0xbc2adbe435196c15!8m2!3d23.1014665!4d72.5488704!16s%2Fg%2F11yg5_bk1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satvi+Aesthetic+Clinic+%7C+Hair+%7C+Face+%7C+Body+%7C+Hair+Transplant+%7C+Cosmetic+Surgery+Centre+%7C+Laser+Hair+Removal/@23.1014665,72.5488704,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83f1e469a3fd:0xbc2adbe435196c15!8m2!3d23.1014665!4d72.5488704!16s%2Fg%2F11yg5_bk1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9618,7 +9698,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Satvi+Aesthetic+Clinic+%7C+Hair+%7C+Face+%7C+Body+%7C+Hair+Transplant+%7C+Cosmetic+Surgery+Centre+%7C+Laser+Hair+Removal/@23.1014665,72.5488704,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83f1e469a3fd:0xbc2adbe435196c15!8m2!3d23.1014665!4d72.5488704!16s%2Fg%2F11yg5_bk1x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shalya-knee-and-hip-hospital-hip-replacement-in-ahmedabad-robotic-hip-replacement-and-knee-replacement-surgery-ahmedabad-ahmedabad",
@@ -9667,7 +9748,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shalya+Knee+%26+Hip+Hospital+%E2%80%93+Hip+Replacement+in+Ahmedabad+%7C+Robotic+Hip+Replacement+%26+Knee+Replacement+Surgery+Ahmedabad/data=!4m7!3m6!1s0x395e9cb4f63d07bf:0x9a661fdd7fba1f7f!8m2!3d23.0755012!4d72.5175783!16s%2Fg%2F11bx528szn!19sChIJvwc99rScXjkRfx-6f90fZpo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shalya+Knee+%26+Hip+Hospital+%E2%80%93+Hip+Replacement+in+Ahmedabad+%7C+Robotic+Hip+Replacement+%26+Knee+Replacement+Surgery+Ahmedabad/data=!4m7!3m6!1s0x395e9cb4f63d07bf:0x9a661fdd7fba1f7f!8m2!3d23.0755012!4d72.5175783!16s%2Fg%2F11bx528szn!19sChIJvwc99rScXjkRfx-6f90fZpo?authuser=0&hl=en&rclk=1"
@@ -9736,7 +9817,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shalya+Knee+%26+Hip+Hospital+%E2%80%93+Hip+Replacement+in+Ahmedabad+%7C+Robotic+Hip+Replacement+%26+Knee+Replacement+Surgery+Ahmedabad/data=!4m7!3m6!1s0x395e9cb4f63d07bf:0x9a661fdd7fba1f7f!8m2!3d23.0755012!4d72.5175783!16s%2Fg%2F11bx528szn!19sChIJvwc99rScXjkRfx-6f90fZpo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shashwat-ivf-1-ivf-clinic-in-ahmedabad-egg-freezing-infertility-specialist-ahmedabad",
@@ -9787,7 +9869,7 @@
       "448+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shashwat+IVF+%7C+%231+IVF+Clinic+in+Ahmedabad+%7C+Egg+Freezing+%7C+Infertility+Specialist/data=!4m7!3m6!1s0x395e84d51033a2cb:0x12b0a263f89434f!8m2!3d23.0128133!4d72.5208967!16s%2Fg%2F11bx1z9p__!19sChIJy6IzENWEXjkRT0OJPyYKKwE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shashwat+IVF+%7C+%231+IVF+Clinic+in+Ahmedabad+%7C+Egg+Freezing+%7C+Infertility+Specialist/data=!4m7!3m6!1s0x395e84d51033a2cb:0x12b0a263f89434f!8m2!3d23.0128133!4d72.5208967!16s%2Fg%2F11bx1z9p__!19sChIJy6IzENWEXjkRT0OJPyYKKwE?authuser=0&hl=en&rclk=1"
@@ -9856,7 +9938,8 @@
     "rating": 4.9,
     "reviews": 448,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shashwat+IVF+%7C+%231+IVF+Clinic+in+Ahmedabad+%7C+Egg+Freezing+%7C+Infertility+Specialist/data=!4m7!3m6!1s0x395e84d51033a2cb:0x12b0a263f89434f!8m2!3d23.0128133!4d72.5208967!16s%2Fg%2F11bx1z9p__!19sChIJy6IzENWEXjkRT0OJPyYKKwE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shine-aesthetic-and-eye-clinic-ahmedabad",
@@ -9906,7 +9989,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shine+Aesthetic+and+eye+clinic/@23.0071202,72.5055166,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9beb27caacc7:0xb890c11df0748df1!8m2!3d23.0071202!4d72.5055166!16s%2Fg%2F11sc29_5kn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shine+Aesthetic+and+eye+clinic/@23.0071202,72.5055166,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9beb27caacc7:0xb890c11df0748df1!8m2!3d23.0071202!4d72.5055166!16s%2Fg%2F11sc29_5kn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9972,10 +10055,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shine+Aesthetic+and+eye+clinic/@23.0071202,72.5055166,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9beb27caacc7:0xb890c11df0748df1!8m2!3d23.0071202!4d72.5055166!16s%2Fg%2F11sc29_5kn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sigma-surgical-hospital-ahmedabad",
@@ -10024,7 +10108,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sigma+Surgical+Hospital/data=!4m7!3m6!1s0x395e87fa35e78d09:0xb7aa668918f5278!8m2!3d23.070559!4d72.6719883!16s%2Fg%2F11p66779my!19sChIJCY3nNfqHXjkReFKPkWimegs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sigma+Surgical+Hospital/data=!4m7!3m6!1s0x395e87fa35e78d09:0xb7aa668918f5278!8m2!3d23.070559!4d72.6719883!16s%2Fg%2F11p66779my!19sChIJCY3nNfqHXjkReFKPkWimegs?authuser=0&hl=en&rclk=1"
@@ -10090,10 +10174,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sigma+Surgical+Hospital/data=!4m7!3m6!1s0x395e87fa35e78d09:0xb7aa668918f5278!8m2!3d23.070559!4d72.6719883!16s%2Fg%2F11p66779my!19sChIJCY3nNfqHXjkReFKPkWimegs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "silk-skin-laser-cosmetology-clinic-ahmedabad",
@@ -10142,7 +10227,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Silk+Skin+Laser+Cosmetology+Clinic/@23.0272754,72.5454342,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85b7fa3a8657:0x6290b50daa261bc9!8m2!3d23.0272754!4d72.5454342!16s%2Fg%2F11hzqg0kgw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Silk+Skin+Laser+Cosmetology+Clinic/@23.0272754,72.5454342,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85b7fa3a8657:0x6290b50daa261bc9!8m2!3d23.0272754!4d72.5454342!16s%2Fg%2F11hzqg0kgw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -10211,7 +10296,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Silk+Skin+Laser+Cosmetology+Clinic/@23.0272754,72.5454342,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85b7fa3a8657:0x6290b50daa261bc9!8m2!3d23.0272754!4d72.5454342!16s%2Fg%2F11hzqg0kgw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skinsight-clinic-ahmedabad",
@@ -10260,7 +10346,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Skinsight+Clinic/@23.1090903,72.5938133,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83ca915c2f13:0x3a4d4f2667cfb6b0!8m2!3d23.1090903!4d72.5938133!16s%2Fg%2F11b6r_5417?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skinsight+Clinic/@23.1090903,72.5938133,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83ca915c2f13:0x3a4d4f2667cfb6b0!8m2!3d23.1090903!4d72.5938133!16s%2Fg%2F11b6r_5417?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -10329,7 +10415,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skinsight+Clinic/@23.1090903,72.5938133,17z/data=!3m1!4b1!4m6!3m5!1s0x395e83ca915c2f13:0x3a4d4f2667cfb6b0!8m2!3d23.1090903!4d72.5938133!16s%2Fg%2F11b6r_5417?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sneh-hospital-ivf-hospital-ivf-center-in-maninagar-ahmedabad-ahmedabad",
@@ -10379,7 +10466,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sneh+Hospital+-+IVF+Hospital+%7C+IVF+Center+in+Maninagar,+Ahmedabad/data=!4m7!3m6!1s0x395e87e2c45e4f85:0x6ab7c6c7874064a1!8m2!3d22.9949699!4d72.6222143!16s%2Fg%2F11fjyvr7dt!19sChIJhU9exOKHXjkRoWRAh8fGt2o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sneh+Hospital+-+IVF+Hospital+%7C+IVF+Center+in+Maninagar,+Ahmedabad/data=!4m7!3m6!1s0x395e87e2c45e4f85:0x6ab7c6c7874064a1!8m2!3d22.9949699!4d72.6222143!16s%2Fg%2F11fjyvr7dt!19sChIJhU9exOKHXjkRoWRAh8fGt2o?authuser=0&hl=en&rclk=1"
@@ -10448,7 +10535,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sneh+Hospital+-+IVF+Hospital+%7C+IVF+Center+in+Maninagar,+Ahmedabad/data=!4m7!3m6!1s0x395e87e2c45e4f85:0x6ab7c6c7874064a1!8m2!3d22.9949699!4d72.6222143!16s%2Fg%2F11fjyvr7dt!19sChIJhU9exOKHXjkRoWRAh8fGt2o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "solar-hospital-ahmedabad",
@@ -10497,7 +10585,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Solar+Hospital/data=!4m7!3m6!1s0x395e85e205aaa5c1:0x559234d6c2b1e393!8m2!3d23.0337274!4d72.5663552!16s%2Fg%2F11q4gsh4yp!19sChIJwaWqBeKFXjkRk-OxwtY0klU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Solar+Hospital/data=!4m7!3m6!1s0x395e85e205aaa5c1:0x559234d6c2b1e393!8m2!3d23.0337274!4d72.5663552!16s%2Fg%2F11q4gsh4yp!19sChIJwaWqBeKFXjkRk-OxwtY0klU?authuser=0&hl=en&rclk=1"
@@ -10566,7 +10654,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Solar+Hospital/data=!4m7!3m6!1s0x395e85e205aaa5c1:0x559234d6c2b1e393!8m2!3d23.0337274!4d72.5663552!16s%2Fg%2F11q4gsh4yp!19sChIJwaWqBeKFXjkRk-OxwtY0klU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "solface-head-and-neck-surgery-centre-ahmedabad",
@@ -10615,7 +10704,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SolFace+Head+and+Neck+Surgery+Centre/@23.0518124,72.5471266,17z/data=!3m1!4b1!4m6!3m5!1s0x395e852a46144fcd:0x57b3b44a8a3eafb!8m2!3d23.0518124!4d72.5471266!16s%2Fg%2F11w1v8_wj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SolFace+Head+and+Neck+Surgery+Centre/@23.0518124,72.5471266,17z/data=!3m1!4b1!4m6!3m5!1s0x395e852a46144fcd:0x57b3b44a8a3eafb!8m2!3d23.0518124!4d72.5471266!16s%2Fg%2F11w1v8_wj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -10681,10 +10770,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SolFace+Head+and+Neck+Surgery+Centre/@23.0518124,72.5471266,17z/data=!3m1!4b1!4m6!3m5!1s0x395e852a46144fcd:0x57b3b44a8a3eafb!8m2!3d23.0518124!4d72.5471266!16s%2Fg%2F11w1v8_wj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spandan-heart-care-in-ahemdabad-best-eecp-centre-in-ahemdabad-and-having-tie-up-for-a-eecp-centers-across-india-ahmedabad",
@@ -10733,7 +10823,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Spandan+Heart+Care+In+Ahemdabad+%7C+Best+EECP+Centre+in+Ahemdabad+and+having+tie+up+for+a+EECP+CENTERS+ACROSS+India/@23.0031668,72.6371852,17z/data=!3m1!4b1!4m6!3m5!1s0x395e866af3801bcb:0xa90c2f694b09bedd!8m2!3d23.0031668!4d72.6371852!16s%2Fg%2F11gfnfqsc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spandan+Heart+Care+In+Ahemdabad+%7C+Best+EECP+Centre+in+Ahemdabad+and+having+tie+up+for+a+EECP+CENTERS+ACROSS+India/@23.0031668,72.6371852,17z/data=!3m1!4b1!4m6!3m5!1s0x395e866af3801bcb:0xa90c2f694b09bedd!8m2!3d23.0031668!4d72.6371852!16s%2Fg%2F11gfnfqsc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -10802,7 +10892,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spandan+Heart+Care+In+Ahemdabad+%7C+Best+EECP+Centre+in+Ahemdabad+and+having+tie+up+for+a+EECP+CENTERS+ACROSS+India/@23.0031668,72.6371852,17z/data=!3m1!4b1!4m6!3m5!1s0x395e866af3801bcb:0xa90c2f694b09bedd!8m2!3d23.0031668!4d72.6371852!16s%2Fg%2F11gfnfqsc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sparsh-skin-cosmetic-and-laser-clinic-ahmedabad",
@@ -10851,7 +10942,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sparsh+Skin+Cosmetic+%26+Laser+Clinic/@23.0301247,72.4742813,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b75696a9075:0x592e69f166167dbf!8m2!3d23.0301247!4d72.4742813!16s%2Fg%2F1hhlg1l1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsh+Skin+Cosmetic+%26+Laser+Clinic/@23.0301247,72.4742813,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b75696a9075:0x592e69f166167dbf!8m2!3d23.0301247!4d72.4742813!16s%2Fg%2F1hhlg1l1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -10920,7 +11011,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sparsh+Skin+Cosmetic+%26+Laser+Clinic/@23.0301247,72.4742813,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b75696a9075:0x592e69f166167dbf!8m2!3d23.0301247!4d72.4742813!16s%2Fg%2F1hhlg1l1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "stavya-spine-hospital-and-research-institute-ahmedabad",
@@ -10971,7 +11063,7 @@
       "1+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Stavya+Spine+Hospital+%26+Research+Institute/data=!4m7!3m6!1s0x395e84f8389e26e9:0xe497e8e6bab8aebc!8m2!3d23.0258927!4d72.565814!16s%2Fg%2F1tcyq720!19sChIJ6SaeOPiEXjkRvK64uubol-Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Stavya+Spine+Hospital+%26+Research+Institute/data=!4m7!3m6!1s0x395e84f8389e26e9:0xe497e8e6bab8aebc!8m2!3d23.0258927!4d72.565814!16s%2Fg%2F1tcyq720!19sChIJ6SaeOPiEXjkRvK64uubol-Q?authuser=0&hl=en&rclk=1"
@@ -11040,7 +11132,8 @@
     "rating": 4.6,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Stavya+Spine+Hospital+%26+Research+Institute/data=!4m7!3m6!1s0x395e84f8389e26e9:0xe497e8e6bab8aebc!8m2!3d23.0258927!4d72.565814!16s%2Fg%2F1tcyq720!19sChIJ6SaeOPiEXjkRvK64uubol-Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sumiran-hospital-ahmedabad",
@@ -11091,7 +11184,7 @@
       "3+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sumiran+Hospital/data=!4m7!3m6!1s0x395e848b5d2827ef:0x4a80508c571771f0!8m2!3d23.0395479!4d72.5627637!16s%2Fg%2F11b632j1y8!19sChIJ7ycoXYuEXjkR8HEXV4xQgEo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sumiran+Hospital/data=!4m7!3m6!1s0x395e848b5d2827ef:0x4a80508c571771f0!8m2!3d23.0395479!4d72.5627637!16s%2Fg%2F11b632j1y8!19sChIJ7ycoXYuEXjkR8HEXV4xQgEo?authuser=0&hl=en&rclk=1"
@@ -11160,7 +11253,8 @@
     "rating": 4.9,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sumiran+Hospital/data=!4m7!3m6!1s0x395e848b5d2827ef:0x4a80508c571771f0!8m2!3d23.0395479!4d72.5627637!16s%2Fg%2F11b632j1y8!19sChIJ7ycoXYuEXjkR8HEXV4xQgEo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sunflower-infertility-and-ivf-hospital-ahmedabad",
@@ -11211,7 +11305,7 @@
       "123+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sunflower+Infertility+and+IVF+Hospital/data=!4m7!3m6!1s0x395e84bce6598cbf:0x5c40d9222a5f38f4!8m2!3d23.0457391!4d72.5413188!16s%2Fg%2F1tcvgh14!19sChIJv4xZ5ryEXjkR9DhfKiLZQFw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunflower+Infertility+and+IVF+Hospital/data=!4m7!3m6!1s0x395e84bce6598cbf:0x5c40d9222a5f38f4!8m2!3d23.0457391!4d72.5413188!16s%2Fg%2F1tcvgh14!19sChIJv4xZ5ryEXjkR9DhfKiLZQFw?authuser=0&hl=en&rclk=1"
@@ -11280,7 +11374,8 @@
     "rating": 4.8,
     "reviews": 123,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunflower+Infertility+and+IVF+Hospital/data=!4m7!3m6!1s0x395e84bce6598cbf:0x5c40d9222a5f38f4!8m2!3d23.0457391!4d72.5413188!16s%2Fg%2F1tcvgh14!19sChIJv4xZ5ryEXjkR9DhfKiLZQFw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sunshine-surgical-hospital-ahmedabad",
@@ -11329,7 +11424,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sunshine+Surgical+hospital/data=!4m7!3m6!1s0x395e857f4b523159:0x89492bb96d5bba09!8m2!3d23.0580241!4d72.537987!16s%2Fg%2F11h75j_xz6!19sChIJWTFSS3-FXjkRCbpbbbkrSYk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunshine+Surgical+hospital/data=!4m7!3m6!1s0x395e857f4b523159:0x89492bb96d5bba09!8m2!3d23.0580241!4d72.537987!16s%2Fg%2F11h75j_xz6!19sChIJWTFSS3-FXjkRCbpbbbkrSYk?authuser=0&hl=en&rclk=1"
@@ -11398,7 +11493,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunshine+Surgical+hospital/data=!4m7!3m6!1s0x395e857f4b523159:0x89492bb96d5bba09!8m2!3d23.0580241!4d72.537987!16s%2Fg%2F11h75j_xz6!19sChIJWTFSS3-FXjkRCbpbbbkrSYk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "teeth-care-centre-dental-hospital-high-end-dentistry-ahmedabad",
@@ -11448,7 +11544,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Teeth+Care+Centre%C2%AE+Dental+Hospital+%5BHigh-end+Dentistry%5D/data=!4m7!3m6!1s0x395e84d0da686b69:0x8ed8388cff8ab64e!8m2!3d23.0180835!4d72.529896!16s%2Fg%2F1vyk0xlc!19sChIJaWto2tCEXjkRTraK_4w42I4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Teeth+Care+Centre%C2%AE+Dental+Hospital+%5BHigh-end+Dentistry%5D/data=!4m7!3m6!1s0x395e84d0da686b69:0x8ed8388cff8ab64e!8m2!3d23.0180835!4d72.529896!16s%2Fg%2F1vyk0xlc!19sChIJaWto2tCEXjkRTraK_4w42I4?authuser=0&hl=en&rclk=1"
@@ -11514,10 +11610,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Teeth+Care+Centre%C2%AE+Dental+Hospital+%5BHigh-end+Dentistry%5D/data=!4m7!3m6!1s0x395e84d0da686b69:0x8ed8388cff8ab64e!8m2!3d23.0180835!4d72.529896!16s%2Fg%2F1vyk0xlc!19sChIJaWto2tCEXjkRTraK_4w42I4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-aesthetica-center-best-cosmetic-surgery-clinic-in-ahmedabad-ahmedabad",
@@ -11567,7 +11664,7 @@
       "11+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Aesthetica+Center+-+Best+Cosmetic+Surgery+Clinic+in+Ahmedabad/@23.0122408,72.5036554,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b194074fc77:0xea9595cccaaeabe1!8m2!3d23.0122408!4d72.5036554!16s%2Fg%2F11h2p4hq1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Aesthetica+Center+-+Best+Cosmetic+Surgery+Clinic+in+Ahmedabad/@23.0122408,72.5036554,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b194074fc77:0xea9595cccaaeabe1!8m2!3d23.0122408!4d72.5036554!16s%2Fg%2F11h2p4hq1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -11636,7 +11733,8 @@
     "rating": 4.8,
     "reviews": 11,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Aesthetica+Center+-+Best+Cosmetic+Surgery+Clinic+in+Ahmedabad/@23.0122408,72.5036554,17z/data=!3m1!4b1!4m6!3m5!1s0x395e9b194074fc77:0xea9595cccaaeabe1!8m2!3d23.0122408!4d72.5036554!16s%2Fg%2F11h2p4hq1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tirtham-surgical-hospital-ahmedabad",
@@ -11685,7 +11783,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tirtham+Surgical+Hospital/data=!4m7!3m6!1s0x395e8350cbc8da27:0xe313e502a3b29b14!8m2!3d23.0741188!4d72.5137882!16s%2Fg%2F11cs6ld8sg!19sChIJJ9rIy1CDXjkRFJuyowLlE-M?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tirtham+Surgical+Hospital/data=!4m7!3m6!1s0x395e8350cbc8da27:0xe313e502a3b29b14!8m2!3d23.0741188!4d72.5137882!16s%2Fg%2F11cs6ld8sg!19sChIJJ9rIy1CDXjkRFJuyowLlE-M?authuser=0&hl=en&rclk=1"
@@ -11754,7 +11852,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tirtham+Surgical+Hospital/data=!4m7!3m6!1s0x395e8350cbc8da27:0xe313e502a3b29b14!8m2!3d23.0741188!4d72.5137882!16s%2Fg%2F11cs6ld8sg!19sChIJJ9rIy1CDXjkRFJuyowLlE-M?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "trupti-heart-and-medicare-ahmedabad",
@@ -11804,7 +11903,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Trupti+Heart+%26+Medicare/@23.004315,72.5904316,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85b80e522207:0x536c46704a913ba9!8m2!3d23.004315!4d72.5904316!16s%2Fg%2F1tj29dhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trupti+Heart+%26+Medicare/@23.004315,72.5904316,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85b80e522207:0x536c46704a913ba9!8m2!3d23.004315!4d72.5904316!16s%2Fg%2F1tj29dhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -11873,7 +11972,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Trupti+Heart+%26+Medicare/@23.004315,72.5904316,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85b80e522207:0x536c46704a913ba9!8m2!3d23.004315!4d72.5904316!16s%2Fg%2F1tj29dhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "u-n-mehta-institute-of-cardiology-and-research-centre-ahmedabad",
@@ -11923,7 +12023,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/U+N+Mehta+Institute+of+Cardiology+%26+Research+Centre/data=!4m7!3m6!1s0x395e84105b6ba6ff:0x2a18c1df98300c23!8m2!3d23.0521413!4d72.6008985!16s%2Fg%2F1tdkq5q3!19sChIJ_6ZrWxCEXjkRIwwwmN_BGCo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/U+N+Mehta+Institute+of+Cardiology+%26+Research+Centre/data=!4m7!3m6!1s0x395e84105b6ba6ff:0x2a18c1df98300c23!8m2!3d23.0521413!4d72.6008985!16s%2Fg%2F1tdkq5q3!19sChIJ_6ZrWxCEXjkRIwwwmN_BGCo?authuser=0&hl=en&rclk=1"
@@ -11992,7 +12092,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/U+N+Mehta+Institute+of+Cardiology+%26+Research+Centre/data=!4m7!3m6!1s0x395e84105b6ba6ff:0x2a18c1df98300c23!8m2!3d23.0521413!4d72.6008985!16s%2Fg%2F1tdkq5q3!19sChIJ_6ZrWxCEXjkRIwwwmN_BGCo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "u-n-mehta-civil-hospital-ahmedabad",
@@ -12041,7 +12142,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/U.N.+Mehta+Civil+Hospital/data=!4m7!3m6!1s0x395e87d8029cc72f:0xf3ae269218b15138!8m2!3d23.0529929!4d72.6004867!16s%2Fg%2F11f5v74lfl!19sChIJL8ecAtiHXjkROFGxGJImrvM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/U.N.+Mehta+Civil+Hospital/data=!4m7!3m6!1s0x395e87d8029cc72f:0xf3ae269218b15138!8m2!3d23.0529929!4d72.6004867!16s%2Fg%2F11f5v74lfl!19sChIJL8ecAtiHXjkROFGxGJImrvM?authuser=0&hl=en&rclk=1"
@@ -12110,7 +12211,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/U.N.+Mehta+Civil+Hospital/data=!4m7!3m6!1s0x395e87d8029cc72f:0xf3ae269218b15138!8m2!3d23.0529929!4d72.6004867!16s%2Fg%2F11f5v74lfl!19sChIJL8ecAtiHXjkROFGxGJImrvM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "us-dental-clinic-ahmedabad",
@@ -12159,7 +12261,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/US+Dental+Clinic/data=!4m7!3m6!1s0x395e85015cdaaaab:0x268de99f07b01de9!8m2!3d23.0107801!4d72.5625388!16s%2Fg%2F11bbyfd5k6!19sChIJq6raXAGFXjkR6R2wB5_pjSY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/US+Dental+Clinic/data=!4m7!3m6!1s0x395e85015cdaaaab:0x268de99f07b01de9!8m2!3d23.0107801!4d72.5625388!16s%2Fg%2F11bbyfd5k6!19sChIJq6raXAGFXjkR6R2wB5_pjSY?authuser=0&hl=en&rclk=1"
@@ -12228,7 +12330,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/US+Dental+Clinic/data=!4m7!3m6!1s0x395e85015cdaaaab:0x268de99f07b01de9!8m2!3d23.0107801!4d72.5625388!16s%2Fg%2F11bbyfd5k6!19sChIJq6raXAGFXjkR6R2wB5_pjSY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vanaama-skin-and-hair-clinic-ahmedabad",
@@ -12277,7 +12380,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vanaama+Skin+%26+Hair+Clinic/@23.039707,72.528809,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84b6d08716b1:0x581ec32e17c583b4!8m2!3d23.039707!4d72.528809!16s%2Fg%2F11cn9pxq1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vanaama+Skin+%26+Hair+Clinic/@23.039707,72.528809,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84b6d08716b1:0x581ec32e17c583b4!8m2!3d23.039707!4d72.528809!16s%2Fg%2F11cn9pxq1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -12346,7 +12449,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vanaama+Skin+%26+Hair+Clinic/@23.039707,72.528809,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84b6d08716b1:0x581ec32e17c583b4!8m2!3d23.039707!4d72.528809!16s%2Fg%2F11cn9pxq1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vikas-medical-and-heart-hospital-ahmedabad",
@@ -12395,7 +12499,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Vikas+Medical+%26+Heart+Hospital/data=!4m7!3m6!1s0x395e812d22a64905:0x673c77c372c0adcf!8m2!3d23.073121!4d72.6528658!16s%2Fg%2F1tf6_bhj!19sChIJBUmmIi2BXjkRz63AcsN3PGc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vikas+Medical+%26+Heart+Hospital/data=!4m7!3m6!1s0x395e812d22a64905:0x673c77c372c0adcf!8m2!3d23.073121!4d72.6528658!16s%2Fg%2F1tf6_bhj!19sChIJBUmmIi2BXjkRz63AcsN3PGc?authuser=0&hl=en&rclk=1"
@@ -12464,7 +12568,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vikas+Medical+%26+Heart+Hospital/data=!4m7!3m6!1s0x395e812d22a64905:0x673c77c372c0adcf!8m2!3d23.073121!4d72.6528658!16s%2Fg%2F1tf6_bhj!19sChIJBUmmIi2BXjkRz63AcsN3PGc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vivify-aesthetic-laser-and-hair-clinic-in-ahmedabad-ahmedabad",
@@ -12514,7 +12619,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vivify+Aesthetic,+Laser+and+Hair+clinic+in+Ahmedabad/@23.044196,72.5498887,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85c45c6464d7:0xa84806c9b54b1c84!8m2!3d23.044196!4d72.5498887!16s%2Fg%2F11tntxy8x3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vivify+Aesthetic,+Laser+and+Hair+clinic+in+Ahmedabad/@23.044196,72.5498887,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85c45c6464d7:0xa84806c9b54b1c84!8m2!3d23.044196!4d72.5498887!16s%2Fg%2F11tntxy8x3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -12580,10 +12685,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vivify+Aesthetic,+Laser+and+Hair+clinic+in+Ahmedabad/@23.044196,72.5498887,17z/data=!3m1!4b1!4m6!3m5!1s0x395e85c45c6464d7:0xa84806c9b54b1c84!8m2!3d23.044196!4d72.5498887!16s%2Fg%2F11tntxy8x3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wellspring-ivf-and-women-s-hospital-ahmedabad",
@@ -12635,7 +12741,7 @@
       "216+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Wellspring+IVF+%26+Women%27s+Hospital/data=!4m7!3m6!1s0x395e84d50de8e19f:0x1e71b5ce1cc897dc!8m2!3d23.0126875!4d72.5227481!16s%2Fg%2F11b8td4hwd!19sChIJn-HoDdWEXjkR3JfIHM61cR4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wellspring+IVF+%26+Women%27s+Hospital/data=!4m7!3m6!1s0x395e84d50de8e19f:0x1e71b5ce1cc897dc!8m2!3d23.0126875!4d72.5227481!16s%2Fg%2F11b8td4hwd!19sChIJn-HoDdWEXjkR3JfIHM61cR4?authuser=0&hl=en&rclk=1"
@@ -12701,10 +12807,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 216,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Wellspring+IVF+%26+Women%27s+Hospital/data=!4m7!3m6!1s0x395e84d50de8e19f:0x1e71b5ce1cc897dc!8m2!3d23.0126875!4d72.5227481!16s%2Fg%2F11b8td4hwd!19sChIJn-HoDdWEXjkR3JfIHM61cR4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "zanish-cancer-hospital-ahmedabad",
@@ -12755,7 +12862,7 @@
       "19+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Zanish+Cancer+Hospital/data=!4m7!3m6!1s0x395e8511116030c1:0xf4b2f9e38d4e1264!8m2!3d23.048732!4d72.5604247!16s%2Fg%2F11j85x2rn2!19sChIJwTBgERGFXjkRZBJOjeP5svQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zanish+Cancer+Hospital/data=!4m7!3m6!1s0x395e8511116030c1:0xf4b2f9e38d4e1264!8m2!3d23.048732!4d72.5604247!16s%2Fg%2F11j85x2rn2!19sChIJwTBgERGFXjkRZBJOjeP5svQ?authuser=0&hl=en&rclk=1"
@@ -12824,7 +12931,8 @@
     "rating": 4.9,
     "reviews": 19,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zanish+Cancer+Hospital/data=!4m7!3m6!1s0x395e8511116030c1:0xf4b2f9e38d4e1264!8m2!3d23.048732!4d72.5604247!16s%2Fg%2F11j85x2rn2!19sChIJwTBgERGFXjkRZBJOjeP5svQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "zeeva-clinic-ahmedabad",
@@ -12874,7 +12982,7 @@
       "29+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Zeeva+Clinic/@23.0417731,72.5475231,17z/data=!3m1!4b1!4m6!3m5!1s0x395e848c0739cae7:0x9a27c382ab026503!8m2!3d23.0417731!4d72.5475231!16s%2Fg%2F11g69zccc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zeeva+Clinic/@23.0417731,72.5475231,17z/data=!3m1!4b1!4m6!3m5!1s0x395e848c0739cae7:0x9a27c382ab026503!8m2!3d23.0417731!4d72.5475231!16s%2Fg%2F11g69zccc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -12943,7 +13051,8 @@
     "rating": 4.9,
     "reviews": 29,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zeeva+Clinic/@23.0417731,72.5475231,17z/data=!3m1!4b1!4m6!3m5!1s0x395e848c0739cae7:0x9a27c382ab026503!8m2!3d23.0417731!4d72.5475231!16s%2Fg%2F11g69zccc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "zenith-clinic-ahmedabad",
@@ -12993,7 +13102,7 @@
       "271+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Zenith+Clinic/@23.0488371,72.605187,17z/data=!3m1!4b1!4m6!3m5!1s0x395e850d5d328f57:0xe539a9ca4888fb87!8m2!3d23.0488371!4d72.605187!16s%2Fg%2F11kqlb14_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zenith+Clinic/@23.0488371,72.605187,17z/data=!3m1!4b1!4m6!3m5!1s0x395e850d5d328f57:0xe539a9ca4888fb87!8m2!3d23.0488371!4d72.605187!16s%2Fg%2F11kqlb14_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -13059,10 +13168,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 271,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zenith+Clinic/@23.0488371,72.605187,17z/data=!3m1!4b1!4m6!3m5!1s0x395e850d5d328f57:0xe539a9ca4888fb87!8m2!3d23.0488371!4d72.605187!16s%2Fg%2F11kqlb14_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "zydus-cancer-hospital-ahmedabad",
@@ -13113,7 +13223,7 @@
       "14374+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Zydus+Cancer+Hospital/data=!4m7!3m6!1s0x395e9dd06f4f1141:0x626081326b9e0410!8m2!3d23.0583163!4d72.5124406!16s%2Fg%2F11fjbkthyd!19sChIJQRFPb9CdXjkREASeazKBYGI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zydus+Cancer+Hospital/data=!4m7!3m6!1s0x395e9dd06f4f1141:0x626081326b9e0410!8m2!3d23.0583163!4d72.5124406!16s%2Fg%2F11fjbkthyd!19sChIJQRFPb9CdXjkREASeazKBYGI?authuser=0&hl=en&rclk=1"
@@ -13182,6 +13292,7 @@
     "rating": 4.8,
     "reviews": 14374,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zydus+Cancer+Hospital/data=!4m7!3m6!1s0x395e9dd06f4f1141:0x626081326b9e0410!8m2!3d23.0583163!4d72.5124406!16s%2Fg%2F11fjbkthyd!19sChIJQRFPb9CdXjkREASeazKBYGI?authuser=0&hl=en&rclk=1"
   }
 ]

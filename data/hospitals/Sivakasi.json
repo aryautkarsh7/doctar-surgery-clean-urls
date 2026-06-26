@@ -46,7 +46,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/A.J.HOSPITAL/data=!4m7!3m6!1s0x3b06cf3011a5c567:0x8320d6d4ab1ae401!8m2!3d9.4512393!4d77.794107!16s%2Fg%2F11h5w8rm84!19sChIJZ8WlETDPBjsRAeQaq9TWIIM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A.J.HOSPITAL/data=!4m7!3m6!1s0x3b06cf3011a5c567:0x8320d6d4ab1ae401!8m2!3d9.4512393!4d77.794107!16s%2Fg%2F11h5w8rm84!19sChIJZ8WlETDPBjsRAeQaq9TWIIM?authuser=0&hl=en&rclk=1"
@@ -115,7 +115,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A.J.HOSPITAL/data=!4m7!3m6!1s0x3b06cf3011a5c567:0x8320d6d4ab1ae401!8m2!3d9.4512393!4d77.794107!16s%2Fg%2F11h5w8rm84!19sChIJZ8WlETDPBjsRAeQaq9TWIIM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "als-bone-and-lung-clinic-sivakasi",
@@ -164,7 +165,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ALS+Bone+and+Lung+Clinic/data=!4m7!3m6!1s0x3b06cf92938d02bf:0x75fdcbe3a975a54e!8m2!3d9.4512463!4d77.7942346!16s%2Fg%2F11wb01dynx!19sChIJvwKNk5LPBjsRTqV1qePL_XU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ALS+Bone+and+Lung+Clinic/data=!4m7!3m6!1s0x3b06cf92938d02bf:0x75fdcbe3a975a54e!8m2!3d9.4512463!4d77.7942346!16s%2Fg%2F11wb01dynx!19sChIJvwKNk5LPBjsRTqV1qePL_XU?authuser=0&hl=en&rclk=1"
@@ -230,10 +231,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ALS+Bone+and+Lung+Clinic/data=!4m7!3m6!1s0x3b06cf92938d02bf:0x75fdcbe3a975a54e!8m2!3d9.4512463!4d77.7942346!16s%2Fg%2F11wb01dynx!19sChIJvwKNk5LPBjsRTqV1qePL_XU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "annai-nursing-home-sivakasi",
@@ -281,7 +283,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Annai+Nursing+Home/data=!4m7!3m6!1s0x3b06cee2aa2335e3:0xa49dbc18dac28dd2!8m2!3d9.4525887!4d77.7910835!16s%2Fg%2F124ypc59t!19sChIJ4zUjquLOBjsR0o3C2hi8naQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Annai+Nursing+Home/data=!4m7!3m6!1s0x3b06cee2aa2335e3:0xa49dbc18dac28dd2!8m2!3d9.4525887!4d77.7910835!16s%2Fg%2F124ypc59t!19sChIJ4zUjquLOBjsR0o3C2hi8naQ?authuser=0&hl=en&rclk=1"
@@ -347,10 +349,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Annai+Nursing+Home/data=!4m7!3m6!1s0x3b06cee2aa2335e3:0xa49dbc18dac28dd2!8m2!3d9.4525887!4d77.7910835!16s%2Fg%2F124ypc59t!19sChIJ4zUjquLOBjsR0o3C2hi8naQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "arun-dental-clinic-sivakasi",
@@ -399,7 +402,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ARUN+DENTAL+CLINIC/data=!4m7!3m6!1s0x3b06cee391f48e6f:0x2ef14d6af7183804!8m2!3d9.4518515!4d77.7953421!16s%2Fg%2F11cjj7bs1n!19sChIJb470kePOBjsRBDgY92pN8S4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ARUN+DENTAL+CLINIC/data=!4m7!3m6!1s0x3b06cee391f48e6f:0x2ef14d6af7183804!8m2!3d9.4518515!4d77.7953421!16s%2Fg%2F11cjj7bs1n!19sChIJb470kePOBjsRBDgY92pN8S4?authuser=0&hl=en&rclk=1"
@@ -468,7 +471,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ARUN+DENTAL+CLINIC/data=!4m7!3m6!1s0x3b06cee391f48e6f:0x2ef14d6af7183804!8m2!3d9.4518515!4d77.7953421!16s%2Fg%2F11cjj7bs1n!19sChIJb470kePOBjsRBDgY92pN8S4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aruna-children-s-hospital-sivakasi",
@@ -517,7 +521,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Aruna+Children%27s+Hospital/data=!4m7!3m6!1s0x3b06cee63c2cd55f:0x2b9dc2686dc737e9!8m2!3d9.4462645!4d77.8013781!16s%2Fg%2F11b682v9zt!19sChIJX9UsPObOBjsR6TfHbWjCnSs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aruna+Children%27s+Hospital/data=!4m7!3m6!1s0x3b06cee63c2cd55f:0x2b9dc2686dc737e9!8m2!3d9.4462645!4d77.8013781!16s%2Fg%2F11b682v9zt!19sChIJX9UsPObOBjsR6TfHbWjCnSs?authuser=0&hl=en&rclk=1"
@@ -586,7 +590,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aruna+Children%27s+Hospital/data=!4m7!3m6!1s0x3b06cee63c2cd55f:0x2b9dc2686dc737e9!8m2!3d9.4462645!4d77.8013781!16s%2Fg%2F11b682v9zt!19sChIJX9UsPObOBjsR6TfHbWjCnSs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "balasubramanian-hospital-sivakasi",
@@ -634,7 +639,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Balasubramanian+Hospital/data=!4m7!3m6!1s0x3b06cfe5a22a25bb:0x6324d4495fa54e4a!8m2!3d9.4512202!4d77.7957586!16s%2Fg%2F11n5rj3t5h!19sChIJuyUqouXPBjsRSk6lX0nUJGM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Balasubramanian+Hospital/data=!4m7!3m6!1s0x3b06cfe5a22a25bb:0x6324d4495fa54e4a!8m2!3d9.4512202!4d77.7957586!16s%2Fg%2F11n5rj3t5h!19sChIJuyUqouXPBjsRSk6lX0nUJGM?authuser=0&hl=en&rclk=1"
@@ -703,7 +708,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Balasubramanian+Hospital/data=!4m7!3m6!1s0x3b06cfe5a22a25bb:0x6324d4495fa54e4a!8m2!3d9.4512202!4d77.7957586!16s%2Fg%2F11n5rj3t5h!19sChIJuyUqouXPBjsRSk6lX0nUJGM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bone-and-joint-clinic-sivakasi",
@@ -752,7 +758,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bone+%26+Joint+Clinic/data=!4m7!3m6!1s0x3b06cee0cb270ad7:0x5635d604da3bd4eb!8m2!3d9.4437867!4d77.7966305!16s%2Fg%2F12nvb2y81!19sChIJ1wony-DOBjsR69Q72gTWNVY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bone+%26+Joint+Clinic/data=!4m7!3m6!1s0x3b06cee0cb270ad7:0x5635d604da3bd4eb!8m2!3d9.4437867!4d77.7966305!16s%2Fg%2F12nvb2y81!19sChIJ1wony-DOBjsR69Q72gTWNVY?authuser=0&hl=en&rclk=1"
@@ -818,10 +824,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bone+%26+Joint+Clinic/data=!4m7!3m6!1s0x3b06cee0cb270ad7:0x5635d604da3bd4eb!8m2!3d9.4437867!4d77.7966305!16s%2Fg%2F12nvb2y81!19sChIJ1wony-DOBjsR69Q72gTWNVY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bonitaa-skin-and-hair-care-sivakasi",
@@ -870,7 +877,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BONITAA+SKIN+AND+HAIR+CARE/data=!4m7!3m6!1s0x3b06cfe551a6d093:0x6cf796db7e4e8979!8m2!3d9.460471!4d77.802339!16s%2Fg%2F11zkrxx5rh!19sChIJk9CmUeXPBjsReYlOftuW92w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BONITAA+SKIN+AND+HAIR+CARE/data=!4m7!3m6!1s0x3b06cfe551a6d093:0x6cf796db7e4e8979!8m2!3d9.460471!4d77.802339!16s%2Fg%2F11zkrxx5rh!19sChIJk9CmUeXPBjsReYlOftuW92w?authuser=0&hl=en&rclk=1"
@@ -936,10 +943,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BONITAA+SKIN+AND+HAIR+CARE/data=!4m7!3m6!1s0x3b06cfe551a6d093:0x6cf796db7e4e8979!8m2!3d9.460471!4d77.802339!16s%2Fg%2F11zkrxx5rh!19sChIJk9CmUeXPBjsReYlOftuW92w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dhivya-ortho-clinic-sivakasi",
@@ -988,7 +996,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Dhivya+Ortho+Clinic/data=!4m7!3m6!1s0x3b06cee31bf716ef:0xfc8539c81e754898!8m2!3d9.4528953!4d77.7897287!16s%2Fg%2F1hhh5kgdr!19sChIJ7xb3G-POBjsRmEh1Hsg5hfw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhivya+Ortho+Clinic/data=!4m7!3m6!1s0x3b06cee31bf716ef:0xfc8539c81e754898!8m2!3d9.4528953!4d77.7897287!16s%2Fg%2F1hhh5kgdr!19sChIJ7xb3G-POBjsRmEh1Hsg5hfw?authuser=0&hl=en&rclk=1"
@@ -1054,10 +1062,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhivya+Ortho+Clinic/data=!4m7!3m6!1s0x3b06cee31bf716ef:0xfc8539c81e754898!8m2!3d9.4528953!4d77.7897287!16s%2Fg%2F1hhh5kgdr!19sChIJ7xb3G-POBjsRmEh1Hsg5hfw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "doctot-malathi-hospital-sivakasi",
@@ -1105,7 +1114,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Doctot+.Malathi+Hospital/data=!4m7!3m6!1s0x3b06cee63e21b8bf:0x3681a4452ad2bd09!8m2!3d9.4464163!4d77.8012494!16s%2Fg%2F11dxc8sp3h!19sChIJv7ghPubOBjsRCb3SKkWkgTY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Doctot+.Malathi+Hospital/data=!4m7!3m6!1s0x3b06cee63e21b8bf:0x3681a4452ad2bd09!8m2!3d9.4464163!4d77.8012494!16s%2Fg%2F11dxc8sp3h!19sChIJv7ghPubOBjsRCb3SKkWkgTY?authuser=0&hl=en&rclk=1"
@@ -1174,7 +1183,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Doctot+.Malathi+Hospital/data=!4m7!3m6!1s0x3b06cee63e21b8bf:0x3681a4452ad2bd09!8m2!3d9.4464163!4d77.8012494!16s%2Fg%2F11dxc8sp3h!19sChIJv7ghPubOBjsRCb3SKkWkgTY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "employees-state-insurance-hospital-sivakasi",
@@ -1222,7 +1232,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Employees+state+Insurance+Hospital/data=!4m7!3m6!1s0x3b06cf2dc48a8569:0x369c578b591fdc2e!8m2!3d9.464186!4d77.7651153!16s%2Fg%2F11ghnr6f5w!19sChIJaYWKxC3PBjsRLtwfWYtXnDY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Employees+state+Insurance+Hospital/data=!4m7!3m6!1s0x3b06cf2dc48a8569:0x369c578b591fdc2e!8m2!3d9.464186!4d77.7651153!16s%2Fg%2F11ghnr6f5w!19sChIJaYWKxC3PBjsRLtwfWYtXnDY?authuser=0&hl=en&rclk=1"
@@ -1291,7 +1301,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Employees+state+Insurance+Hospital/data=!4m7!3m6!1s0x3b06cf2dc48a8569:0x369c578b591fdc2e!8m2!3d9.464186!4d77.7651153!16s%2Fg%2F11ghnr6f5w!19sChIJaYWKxC3PBjsRLtwfWYtXnDY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gnanadurai-hospital-sivakasi",
@@ -1339,7 +1350,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Gnanadurai+Hospital/data=!4m7!3m6!1s0x3b06cee3034ded35:0x3a890ece436a205f!8m2!3d9.4510469!4d77.7945805!16s%2Fg%2F11cmlpfx0l!19sChIJNe1NA-POBjsRXyBqQ84OiTo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gnanadurai+Hospital/data=!4m7!3m6!1s0x3b06cee3034ded35:0x3a890ece436a205f!8m2!3d9.4510469!4d77.7945805!16s%2Fg%2F11cmlpfx0l!19sChIJNe1NA-POBjsRXyBqQ84OiTo?authuser=0&hl=en&rclk=1"
@@ -1408,7 +1419,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gnanadurai+Hospital/data=!4m7!3m6!1s0x3b06cee3034ded35:0x3a890ece436a205f!8m2!3d9.4510469!4d77.7945805!16s%2Fg%2F11cmlpfx0l!19sChIJNe1NA-POBjsRXyBqQ84OiTo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gnanagurusamy-hospital-sivakasi",
@@ -1456,7 +1468,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Gnanagurusamy+Hospital/data=!4m7!3m6!1s0x3b06cee295d52c71:0x1b79af5dfc70fcb3!8m2!3d9.4513765!4d77.7920565!16s%2Fg%2F1hf2ry8j6!19sChIJcSzVleLOBjsRs_xw_F2veRs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gnanagurusamy+Hospital/data=!4m7!3m6!1s0x3b06cee295d52c71:0x1b79af5dfc70fcb3!8m2!3d9.4513765!4d77.7920565!16s%2Fg%2F1hf2ry8j6!19sChIJcSzVleLOBjsRs_xw_F2veRs?authuser=0&hl=en&rclk=1"
@@ -1525,7 +1537,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gnanagurusamy+Hospital/data=!4m7!3m6!1s0x3b06cee295d52c71:0x1b79af5dfc70fcb3!8m2!3d9.4513765!4d77.7920565!16s%2Fg%2F1hf2ry8j6!19sChIJcSzVleLOBjsRs_xw_F2veRs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gokul-clinic-sivakasi",
@@ -1574,7 +1587,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gokul+Clinic/data=!4m7!3m6!1s0x3b06cf6834293e09:0x60bb822ac0d1d352!8m2!3d9.4302617!4d77.788253!16s%2Fg%2F11kk06m6fh!19sChIJCT4pNGjPBjsRUtPRwCqCu2A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gokul+Clinic/data=!4m7!3m6!1s0x3b06cf6834293e09:0x60bb822ac0d1d352!8m2!3d9.4302617!4d77.788253!16s%2Fg%2F11kk06m6fh!19sChIJCT4pNGjPBjsRUtPRwCqCu2A?authuser=0&hl=en&rclk=1"
@@ -1640,10 +1653,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gokul+Clinic/data=!4m7!3m6!1s0x3b06cf6834293e09:0x60bb822ac0d1d352!8m2!3d9.4302617!4d77.788253!16s%2Fg%2F11kk06m6fh!19sChIJCT4pNGjPBjsRUtPRwCqCu2A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hospital-sivakasi",
@@ -1691,7 +1705,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Hospital/data=!4m7!3m6!1s0x3b06cee43d81b04b:0x24dd3f547cc9c66c!8m2!3d9.4484537!4d77.7982168!16s%2Fg%2F11z1yrlqg!19sChIJS7CBPeTOBjsRbMbJfFQ_3SQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital/data=!4m7!3m6!1s0x3b06cee43d81b04b:0x24dd3f547cc9c66c!8m2!3d9.4484537!4d77.7982168!16s%2Fg%2F11z1yrlqg!19sChIJS7CBPeTOBjsRbMbJfFQ_3SQ?authuser=0&hl=en&rclk=1"
@@ -1757,10 +1771,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hospital/data=!4m7!3m6!1s0x3b06cee43d81b04b:0x24dd3f547cc9c66c!8m2!3d9.4484537!4d77.7982168!16s%2Fg%2F11z1yrlqg!19sChIJS7CBPeTOBjsRbMbJfFQ_3SQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "iswarya-ivf-and-fertility-centre-sivakasi-sivakasi",
@@ -1810,7 +1825,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Sivakasi/data=!4m7!3m6!1s0x3b06cf000d0e7f45:0xecae7c2fce274a6a!8m2!3d9.455046!4d77.796946!16s%2Fg%2F11whrdkj_8!19sChIJRX8ODQDPBjsRakonzi98ruw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Sivakasi/data=!4m7!3m6!1s0x3b06cf000d0e7f45:0xecae7c2fce274a6a!8m2!3d9.455046!4d77.796946!16s%2Fg%2F11whrdkj_8!19sChIJRX8ODQDPBjsRakonzi98ruw?authuser=0&hl=en&rclk=1"
@@ -1879,7 +1894,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Sivakasi/data=!4m7!3m6!1s0x3b06cf000d0e7f45:0xecae7c2fce274a6a!8m2!3d9.455046!4d77.796946!16s%2Fg%2F11whrdkj_8!19sChIJRX8ODQDPBjsRakonzi98ruw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jaibalaji-infertility-obstetrics-and-gynaecology-hospital-sivakasi",
@@ -1928,7 +1944,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/JaiBalaji+Infertility+Obstetrics+and+Gynaecology+Hospital/data=!4m7!3m6!1s0x3b06cfd1f1a5352f:0xa8fe9b7af6553a31!8m2!3d9.4972833!4d77.7590674!16s%2Fg%2F11ysz7yjsz!19sChIJLzWl8dHPBjsRMTpV9nqb_qg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JaiBalaji+Infertility+Obstetrics+and+Gynaecology+Hospital/data=!4m7!3m6!1s0x3b06cfd1f1a5352f:0xa8fe9b7af6553a31!8m2!3d9.4972833!4d77.7590674!16s%2Fg%2F11ysz7yjsz!19sChIJLzWl8dHPBjsRMTpV9nqb_qg?authuser=0&hl=en&rclk=1"
@@ -1994,10 +2010,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JaiBalaji+Infertility+Obstetrics+and+Gynaecology+Hospital/data=!4m7!3m6!1s0x3b06cfd1f1a5352f:0xa8fe9b7af6553a31!8m2!3d9.4972833!4d77.7590674!16s%2Fg%2F11ysz7yjsz!19sChIJLzWl8dHPBjsRMTpV9nqb_qg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jb-healthcare-sivakasi",
@@ -2045,7 +2062,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/JB+Healthcare/data=!4m7!3m6!1s0x3b06cf157dedc8ad:0x3435b37d74aad20!8m2!3d9.4669686!4d77.7730341!16s%2Fg%2F11spxt_r37!19sChIJrcjtfRXPBjsRIK1K1zdbQwM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JB+Healthcare/data=!4m7!3m6!1s0x3b06cf157dedc8ad:0x3435b37d74aad20!8m2!3d9.4669686!4d77.7730341!16s%2Fg%2F11spxt_r37!19sChIJrcjtfRXPBjsRIK1K1zdbQwM?authuser=0&hl=en&rclk=1"
@@ -2114,7 +2131,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JB+Healthcare/data=!4m7!3m6!1s0x3b06cf157dedc8ad:0x3435b37d74aad20!8m2!3d9.4669686!4d77.7730341!16s%2Fg%2F11spxt_r37!19sChIJrcjtfRXPBjsRIK1K1zdbQwM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jehovah-rapha-dental-clinic-sivakasi",
@@ -2163,7 +2181,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Jehovah+Rapha+dental+clinic/data=!4m7!3m6!1s0x3b06cf41c8eb6579:0xbb8bf5fb61801c3a!8m2!3d9.4620784!4d77.7794981!16s%2Fg%2F11ng6qb_ks!19sChIJeWXryEHPBjsROhyAYfv1i7s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jehovah+Rapha+dental+clinic/data=!4m7!3m6!1s0x3b06cf41c8eb6579:0xbb8bf5fb61801c3a!8m2!3d9.4620784!4d77.7794981!16s%2Fg%2F11ng6qb_ks!19sChIJeWXryEHPBjsROhyAYfv1i7s?authuser=0&hl=en&rclk=1"
@@ -2232,7 +2250,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jehovah+Rapha+dental+clinic/data=!4m7!3m6!1s0x3b06cf41c8eb6579:0xbb8bf5fb61801c3a!8m2!3d9.4620784!4d77.7794981!16s%2Fg%2F11ng6qb_ks!19sChIJeWXryEHPBjsROhyAYfv1i7s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jeyam-health-care-hospital-sivakasi",
@@ -2281,7 +2300,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jeyam+Health+Care+Hospital/data=!4m7!3m6!1s0x3b06cf30a6e4cd0b:0xd5c33aabf6443865!8m2!3d9.4520579!4d77.8075314!16s%2Fg%2F11v0b8gykw!19sChIJC83kpjDPBjsRZThE9qs6w9U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeyam+Health+Care+Hospital/data=!4m7!3m6!1s0x3b06cf30a6e4cd0b:0xd5c33aabf6443865!8m2!3d9.4520579!4d77.8075314!16s%2Fg%2F11v0b8gykw!19sChIJC83kpjDPBjsRZThE9qs6w9U?authuser=0&hl=en&rclk=1"
@@ -2347,10 +2366,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeyam+Health+Care+Hospital/data=!4m7!3m6!1s0x3b06cf30a6e4cd0b:0xd5c33aabf6443865!8m2!3d9.4520579!4d77.8075314!16s%2Fg%2F11v0b8gykw!19sChIJC83kpjDPBjsRZThE9qs6w9U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kaka-shanmuga-nadar-memorial-dental-hospital-sivakasi",
@@ -2398,7 +2418,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/KAKA+Shanmuga+Nadar+Memorial+Dental+Hospital/data=!4m7!3m6!1s0x3b06cf3b0bfbc7e9:0xe183a01c052a6fca!8m2!3d9.454165!4d77.7890131!16s%2Fg%2F11qyclj699!19sChIJ6cf7CzvPBjsRym8qBRygg-E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KAKA+Shanmuga+Nadar+Memorial+Dental+Hospital/data=!4m7!3m6!1s0x3b06cf3b0bfbc7e9:0xe183a01c052a6fca!8m2!3d9.454165!4d77.7890131!16s%2Fg%2F11qyclj699!19sChIJ6cf7CzvPBjsRym8qBRygg-E?authuser=0&hl=en&rclk=1"
@@ -2467,7 +2487,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KAKA+Shanmuga+Nadar+Memorial+Dental+Hospital/data=!4m7!3m6!1s0x3b06cf3b0bfbc7e9:0xe183a01c052a6fca!8m2!3d9.454165!4d77.7890131!16s%2Fg%2F11qyclj699!19sChIJ6cf7CzvPBjsRym8qBRygg-E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "karthick-clinic-sivakasi",
@@ -2515,7 +2536,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/KARTHICK+CLINIC/data=!4m7!3m6!1s0x3b06cf8fc9e9256f:0x88e0c7590966f819!8m2!3d9.4614166!4d77.7809608!16s%2Fg%2F11frwhr4s4!19sChIJbyXpyY_PBjsRGfhmCVnH4Ig?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KARTHICK+CLINIC/data=!4m7!3m6!1s0x3b06cf8fc9e9256f:0x88e0c7590966f819!8m2!3d9.4614166!4d77.7809608!16s%2Fg%2F11frwhr4s4!19sChIJbyXpyY_PBjsRGfhmCVnH4Ig?authuser=0&hl=en&rclk=1"
@@ -2584,7 +2605,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KARTHICK+CLINIC/data=!4m7!3m6!1s0x3b06cf8fc9e9256f:0x88e0c7590966f819!8m2!3d9.4614166!4d77.7809608!16s%2Fg%2F11frwhr4s4!19sChIJbyXpyY_PBjsRGfhmCVnH4Ig?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kottakal-arya-vaidhya-sala-sivakasi-sivakasi",
@@ -2632,7 +2654,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Kottakal+Arya+vaidhya+sala,+sivakasi/data=!4m7!3m6!1s0x3b06cff012ffe4d1:0x75b971b71c265b6f!8m2!3d9.4522916!4d77.796877!16s%2Fg%2F11v67j8yv4!19sChIJ0eT_EvDPBjsRb1smHLdxuXU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kottakal+Arya+vaidhya+sala,+sivakasi/data=!4m7!3m6!1s0x3b06cff012ffe4d1:0x75b971b71c265b6f!8m2!3d9.4522916!4d77.796877!16s%2Fg%2F11v67j8yv4!19sChIJ0eT_EvDPBjsRb1smHLdxuXU?authuser=0&hl=en&rclk=1"
@@ -2701,7 +2723,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kottakal+Arya+vaidhya+sala,+sivakasi/data=!4m7!3m6!1s0x3b06cff012ffe4d1:0x75b971b71c265b6f!8m2!3d9.4522916!4d77.796877!16s%2Fg%2F11v67j8yv4!19sChIJ0eT_EvDPBjsRb1smHLdxuXU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kumaran-hospital-sivakasi",
@@ -2750,7 +2773,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kumaran+Hospital/data=!4m7!3m6!1s0x3b06ce43a4d2435f:0x48539e1ca5c469c7!8m2!3d9.47844!4d77.8101819!16s%2Fg%2F11cs0y2wsq!19sChIJX0PSpEPOBjsRx2nEpRyeU0g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kumaran+Hospital/data=!4m7!3m6!1s0x3b06ce43a4d2435f:0x48539e1ca5c469c7!8m2!3d9.47844!4d77.8101819!16s%2Fg%2F11cs0y2wsq!19sChIJX0PSpEPOBjsRx2nEpRyeU0g?authuser=0&hl=en&rclk=1"
@@ -2819,7 +2842,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kumaran+Hospital/data=!4m7!3m6!1s0x3b06ce43a4d2435f:0x48539e1ca5c469c7!8m2!3d9.47844!4d77.8101819!16s%2Fg%2F11cs0y2wsq!19sChIJX0PSpEPOBjsRx2nEpRyeU0g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lakshmi-fertility-centre-sivakasi",
@@ -2869,7 +2893,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lakshmi+Fertility+Centre/data=!4m7!3m6!1s0x3b06cee2e1fdcfe1:0x7d9fb02f2863187c!8m2!3d9.4512499!4d77.7940741!16s%2Fg%2F11fz9y09wc!19sChIJ4c_94eLOBjsRfBhjKC-wn30?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lakshmi+Fertility+Centre/data=!4m7!3m6!1s0x3b06cee2e1fdcfe1:0x7d9fb02f2863187c!8m2!3d9.4512499!4d77.7940741!16s%2Fg%2F11fz9y09wc!19sChIJ4c_94eLOBjsRfBhjKC-wn30?authuser=0&hl=en&rclk=1"
@@ -2938,7 +2962,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lakshmi+Fertility+Centre/data=!4m7!3m6!1s0x3b06cee2e1fdcfe1:0x7d9fb02f2863187c!8m2!3d9.4512499!4d77.7940741!16s%2Fg%2F11fz9y09wc!19sChIJ4c_94eLOBjsRfBhjKC-wn30?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lakshmi-hospital-sivakasi",
@@ -2987,7 +3012,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Lakshmi+Hospital/data=!4m7!3m6!1s0x3b06cee2e45ee4b5:0xd5d1d57b45bcdc3a!8m2!3d9.4511289!4d77.793364!16s%2Fg%2F1hhk6bjb3!19sChIJteRe5OLOBjsROty8RXvV0dU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lakshmi+Hospital/data=!4m7!3m6!1s0x3b06cee2e45ee4b5:0xd5d1d57b45bcdc3a!8m2!3d9.4511289!4d77.793364!16s%2Fg%2F1hhk6bjb3!19sChIJteRe5OLOBjsROty8RXvV0dU?authuser=0&hl=en&rclk=1"
@@ -3056,7 +3081,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lakshmi+Hospital/data=!4m7!3m6!1s0x3b06cee2e45ee4b5:0xd5d1d57b45bcdc3a!8m2!3d9.4511289!4d77.793364!16s%2Fg%2F1hhk6bjb3!19sChIJteRe5OLOBjsROty8RXvV0dU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "larasmiles-dental-clinic-aligners-implant-rootcanal-centre-sivakasi",
@@ -3104,7 +3130,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/LARASMILES+%7C+DENTAL+CLINIC+%7C+ALIGNERS+%7C+IMPLANT+%7C+ROOTCANAL+CENTRE/data=!4m7!3m6!1s0x3b06cf274942b9d5:0x30276ab3cdf4db06!8m2!3d9.4545752!4d77.7985032!16s%2Fg%2F11xrf52gtt!19sChIJ1blCSSfPBjsRBtv0zbNqJzA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LARASMILES+%7C+DENTAL+CLINIC+%7C+ALIGNERS+%7C+IMPLANT+%7C+ROOTCANAL+CENTRE/data=!4m7!3m6!1s0x3b06cf274942b9d5:0x30276ab3cdf4db06!8m2!3d9.4545752!4d77.7985032!16s%2Fg%2F11xrf52gtt!19sChIJ1blCSSfPBjsRBtv0zbNqJzA?authuser=0&hl=en&rclk=1"
@@ -3173,7 +3199,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LARASMILES+%7C+DENTAL+CLINIC+%7C+ALIGNERS+%7C+IMPLANT+%7C+ROOTCANAL+CENTRE/data=!4m7!3m6!1s0x3b06cf274942b9d5:0x30276ab3cdf4db06!8m2!3d9.4545752!4d77.7985032!16s%2Fg%2F11xrf52gtt!19sChIJ1blCSSfPBjsRBtv0zbNqJzA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mathi-cardiac-centre-sivakasi",
@@ -3222,7 +3249,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Mathi+Cardiac+Centre/data=!4m7!3m6!1s0x3b06cee732440711:0x87b3078c25b6ef16!8m2!3d9.444129!4d77.7969414!16s%2Fg%2F11f1wbgxrd!19sChIJEQdEMufOBjsRFu-2JYwHs4c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mathi+Cardiac+Centre/data=!4m7!3m6!1s0x3b06cee732440711:0x87b3078c25b6ef16!8m2!3d9.444129!4d77.7969414!16s%2Fg%2F11f1wbgxrd!19sChIJEQdEMufOBjsRFu-2JYwHs4c?authuser=0&hl=en&rclk=1"
@@ -3291,7 +3318,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mathi+Cardiac+Centre/data=!4m7!3m6!1s0x3b06cee732440711:0x87b3078c25b6ef16!8m2!3d9.444129!4d77.7969414!16s%2Fg%2F11f1wbgxrd!19sChIJEQdEMufOBjsRFu-2JYwHs4c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mathi-integrated-health-centre-sivakasi",
@@ -3340,7 +3368,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mathi+Integrated+Health+Centre/data=!4m7!3m6!1s0x3b06cedb4f0e6235:0x11711e5bdce09ee0!8m2!3d9.4361376!4d77.8018411!16s%2Fg%2F124ykr0br!19sChIJNWIOT9vOBjsR4J7g3FsecRE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mathi+Integrated+Health+Centre/data=!4m7!3m6!1s0x3b06cedb4f0e6235:0x11711e5bdce09ee0!8m2!3d9.4361376!4d77.8018411!16s%2Fg%2F124ykr0br!19sChIJNWIOT9vOBjsR4J7g3FsecRE?authuser=0&hl=en&rclk=1"
@@ -3409,7 +3437,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mathi+Integrated+Health+Centre/data=!4m7!3m6!1s0x3b06cedb4f0e6235:0x11711e5bdce09ee0!8m2!3d9.4361376!4d77.8018411!16s%2Fg%2F124ykr0br!19sChIJNWIOT9vOBjsR4J7g3FsecRE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "meenakshi-hospital-best-womens-and-children-s-hospital-in-sivakasi-sivakasi",
@@ -3459,7 +3488,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Meenakshi+Hospital+-+Best+Womens+%26+Children%27s+Hospital+in+Sivakasi/data=!4m7!3m6!1s0x3b06cf1d4d0ef9bd:0xc48f59935f4fe416!8m2!3d9.4527305!4d77.7900979!16s%2Fg%2F124ykhvb6!19sChIJvfkOTR3PBjsRFuRPX5NZj8Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meenakshi+Hospital+-+Best+Womens+%26+Children%27s+Hospital+in+Sivakasi/data=!4m7!3m6!1s0x3b06cf1d4d0ef9bd:0xc48f59935f4fe416!8m2!3d9.4527305!4d77.7900979!16s%2Fg%2F124ykhvb6!19sChIJvfkOTR3PBjsRFuRPX5NZj8Q?authuser=0&hl=en&rclk=1"
@@ -3528,7 +3557,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meenakshi+Hospital+-+Best+Womens+%26+Children%27s+Hospital+in+Sivakasi/data=!4m7!3m6!1s0x3b06cf1d4d0ef9bd:0xc48f59935f4fe416!8m2!3d9.4527305!4d77.7900979!16s%2Fg%2F124ykhvb6!19sChIJvfkOTR3PBjsRFuRPX5NZj8Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mekala-dental-and-implant-centre-sivakasi",
@@ -3576,7 +3606,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mekala+Dental+and+Implant+Centre/data=!4m7!3m6!1s0x3b06cfab34d76bfd:0x645820af587afe3!8m2!3d9.4538151!4d77.8063543!16s%2Fg%2F11hdss22m2!19sChIJ_WvXNKvPBjsR46-H9QqCRQY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mekala+Dental+and+Implant+Centre/data=!4m7!3m6!1s0x3b06cfab34d76bfd:0x645820af587afe3!8m2!3d9.4538151!4d77.8063543!16s%2Fg%2F11hdss22m2!19sChIJ_WvXNKvPBjsR46-H9QqCRQY?authuser=0&hl=en&rclk=1"
@@ -3642,10 +3672,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mekala+Dental+and+Implant+Centre/data=!4m7!3m6!1s0x3b06cfab34d76bfd:0x645820af587afe3!8m2!3d9.4538151!4d77.8063543!16s%2Fg%2F11hdss22m2!19sChIJ_WvXNKvPBjsR46-H9QqCRQY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "menaka-hospital-sivakasi",
@@ -3694,7 +3725,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Menaka+Hospital/data=!4m7!3m6!1s0x3b06cef97f075035:0x47dccf89209939dc!8m2!3d9.4576976!4d77.799052!16s%2Fg%2F11b7hmzr7q!19sChIJNVAHf_nOBjsR3DmZIInP3Ec?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Menaka+Hospital/data=!4m7!3m6!1s0x3b06cef97f075035:0x47dccf89209939dc!8m2!3d9.4576976!4d77.799052!16s%2Fg%2F11b7hmzr7q!19sChIJNVAHf_nOBjsR3DmZIInP3Ec?authuser=0&hl=en&rclk=1"
@@ -3763,7 +3794,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Menaka+Hospital/data=!4m7!3m6!1s0x3b06cef97f075035:0x47dccf89209939dc!8m2!3d9.4576976!4d77.799052!16s%2Fg%2F11b7hmzr7q!19sChIJNVAHf_nOBjsR3DmZIInP3Ec?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "narmatha-hospital-sivakasi",
@@ -3811,7 +3843,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Narmatha+Hospital/data=!4m7!3m6!1s0x3b06ceee4945f86d:0xe065f96687889584!8m2!3d9.4432409!4d77.8004012!16s%2Fg%2F11c0vwjmyr!19sChIJbfhFSe7OBjsRhJWIh2b5ZeA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narmatha+Hospital/data=!4m7!3m6!1s0x3b06ceee4945f86d:0xe065f96687889584!8m2!3d9.4432409!4d77.8004012!16s%2Fg%2F11c0vwjmyr!19sChIJbfhFSe7OBjsRhJWIh2b5ZeA?authuser=0&hl=en&rclk=1"
@@ -3880,7 +3912,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Narmatha+Hospital/data=!4m7!3m6!1s0x3b06ceee4945f86d:0xe065f96687889584!8m2!3d9.4432409!4d77.8004012!16s%2Fg%2F11c0vwjmyr!19sChIJbfhFSe7OBjsRhJWIh2b5ZeA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nehaa-surgical-center-sivakasi",
@@ -3929,7 +3962,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nehaa+surgical+center/data=!4m7!3m6!1s0x3b06cf203a6b1bc7:0xe6c7859dfb225470!8m2!3d9.4511587!4d77.7934651!16s%2Fg%2F11v3tmcdng!19sChIJxxtrOiDPBjsRcFQi-52Fx-Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nehaa+surgical+center/data=!4m7!3m6!1s0x3b06cf203a6b1bc7:0xe6c7859dfb225470!8m2!3d9.4511587!4d77.7934651!16s%2Fg%2F11v3tmcdng!19sChIJxxtrOiDPBjsRcFQi-52Fx-Y?authuser=0&hl=en&rclk=1"
@@ -3995,10 +4028,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nehaa+surgical+center/data=!4m7!3m6!1s0x3b06cf203a6b1bc7:0xe6c7859dfb225470!8m2!3d9.4511587!4d77.7934651!16s%2Fg%2F11v3tmcdng!19sChIJxxtrOiDPBjsRcFQi-52Fx-Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neuberg-diagnostics-blood-tests-cbc-tests-and-full-body-checkup-sivakasi",
@@ -4048,7 +4082,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/data=!4m7!3m6!1s0x3b06cf9674453b5f:0xe9b3963967e74ba7!8m2!3d9.4489641!4d77.8061987!16s%2Fg%2F11l5w1tqnw!19sChIJXztFdJbPBjsRp0vnZzmWs-k?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/data=!4m7!3m6!1s0x3b06cf9674453b5f:0xe9b3963967e74ba7!8m2!3d9.4489641!4d77.8061987!16s%2Fg%2F11l5w1tqnw!19sChIJXztFdJbPBjsRp0vnZzmWs-k?authuser=0&hl=en&rclk=1"
@@ -4114,10 +4148,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/data=!4m7!3m6!1s0x3b06cf9674453b5f:0xe9b3963967e74ba7!8m2!3d9.4489641!4d77.8061987!16s%2Fg%2F11l5w1tqnw!19sChIJXztFdJbPBjsRp0vnZzmWs-k?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neuberg-diagnostics-blood-tests-cbc-tests-and-full-body-checkup-sivakasi",
@@ -4167,7 +4202,7 @@
       "Google rating 1.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/data=!4m7!3m6!1s0x3b06cf6e957fb3cb:0xb4cf8321c907c81d!8m2!3d9.4532852!4d77.802417!16s%2Fg%2F11ydn5bk4m!19sChIJy7N_lW7PBjsRHcgHySGDz7Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/data=!4m7!3m6!1s0x3b06cf6e957fb3cb:0xb4cf8321c907c81d!8m2!3d9.4532852!4d77.802417!16s%2Fg%2F11ydn5bk4m!19sChIJy7N_lW7PBjsRHcgHySGDz7Q?authuser=0&hl=en&rclk=1"
@@ -4233,10 +4268,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/data=!4m7!3m6!1s0x3b06cf6e957fb3cb:0xb4cf8321c907c81d!8m2!3d9.4532852!4d77.802417!16s%2Fg%2F11ydn5bk4m!19sChIJy7N_lW7PBjsRHcgHySGDz7Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nivedhaa-advanced-dental-and-root-canal-centre-sivakasi",
@@ -4285,7 +4321,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Nivedhaa+Advanced+Dental+%26+Root+Canal+Centre/data=!4m7!3m6!1s0x3b06cf190c7f9961:0xac29526930bad3d7!8m2!3d9.4506503!4d77.8021012!16s%2Fg%2F11nyqg5ly7!19sChIJYZl_DBnPBjsR19O6MGlSKaw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nivedhaa+Advanced+Dental+%26+Root+Canal+Centre/data=!4m7!3m6!1s0x3b06cf190c7f9961:0xac29526930bad3d7!8m2!3d9.4506503!4d77.8021012!16s%2Fg%2F11nyqg5ly7!19sChIJYZl_DBnPBjsR19O6MGlSKaw?authuser=0&hl=en&rclk=1"
@@ -4351,10 +4387,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nivedhaa+Advanced+Dental+%26+Root+Canal+Centre/data=!4m7!3m6!1s0x3b06cf190c7f9961:0xac29526930bad3d7!8m2!3d9.4506503!4d77.8021012!16s%2Fg%2F11nyqg5ly7!19sChIJYZl_DBnPBjsR19O6MGlSKaw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pandian-hospital-sivakasi-sivakasi",
@@ -4402,7 +4439,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Pandian+Hospital,+Sivakasi/data=!4m7!3m6!1s0x3b06cfef48b66375:0xe310d1aa3f4b8eff!8m2!3d9.4512065!4d77.7939949!16s%2Fg%2F11h1kchwc7!19sChIJdWO2SO_PBjsR_45LP6rREOM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pandian+Hospital,+Sivakasi/data=!4m7!3m6!1s0x3b06cfef48b66375:0xe310d1aa3f4b8eff!8m2!3d9.4512065!4d77.7939949!16s%2Fg%2F11h1kchwc7!19sChIJdWO2SO_PBjsR_45LP6rREOM?authuser=0&hl=en&rclk=1"
@@ -4471,7 +4508,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pandian+Hospital,+Sivakasi/data=!4m7!3m6!1s0x3b06cfef48b66375:0xe310d1aa3f4b8eff!8m2!3d9.4512065!4d77.7939949!16s%2Fg%2F11h1kchwc7!19sChIJdWO2SO_PBjsR_45LP6rREOM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rjr-herbal-hospital-sivakasi-sivakasi",
@@ -4520,7 +4558,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RJR+Herbal+Hospital+-+Sivakasi/data=!4m7!3m6!1s0x3b06cf902fb85e3d:0x3000d85ab80c7988!8m2!3d9.4559065!4d77.8049433!16s%2Fg%2F11lfg6pg3n!19sChIJPV64L5DPBjsRiHkMuFrYADA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RJR+Herbal+Hospital+-+Sivakasi/data=!4m7!3m6!1s0x3b06cf902fb85e3d:0x3000d85ab80c7988!8m2!3d9.4559065!4d77.8049433!16s%2Fg%2F11lfg6pg3n!19sChIJPV64L5DPBjsRiHkMuFrYADA?authuser=0&hl=en&rclk=1"
@@ -4589,7 +4627,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RJR+Herbal+Hospital+-+Sivakasi/data=!4m7!3m6!1s0x3b06cf902fb85e3d:0x3000d85ab80c7988!8m2!3d9.4559065!4d77.8049433!16s%2Fg%2F11lfg6pg3n!19sChIJPV64L5DPBjsRiHkMuFrYADA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sathesh-dental-clinic-sivakasi",
@@ -4637,7 +4676,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/SATHESH+DENTAL+CLINIC/data=!4m7!3m6!1s0x3b06cf8f94c701ad:0xfff4623a052c4d72!8m2!3d9.4490056!4d77.8054506!16s%2Fg%2F11h_7mwhx_!19sChIJrQHHlI_PBjsRck0sBTpi9P8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SATHESH+DENTAL+CLINIC/data=!4m7!3m6!1s0x3b06cf8f94c701ad:0xfff4623a052c4d72!8m2!3d9.4490056!4d77.8054506!16s%2Fg%2F11h_7mwhx_!19sChIJrQHHlI_PBjsRck0sBTpi9P8?authuser=0&hl=en&rclk=1"
@@ -4706,7 +4745,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SATHESH+DENTAL+CLINIC/data=!4m7!3m6!1s0x3b06cf8f94c701ad:0xfff4623a052c4d72!8m2!3d9.4490056!4d77.8054506!16s%2Fg%2F11h_7mwhx_!19sChIJrQHHlI_PBjsRck0sBTpi9P8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sbj-health-centre-pvt-ltd-sivakasi",
@@ -4754,7 +4794,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/SBJ+HEALTH+CENTRE+PVT+LTD/data=!4m7!3m6!1s0x3b06cf22de9c50a1:0xed23a9cfc98b7845!8m2!3d9.4486501!4d77.8050541!16s%2Fg%2F11rck2qt4_!19sChIJoVCc3iLPBjsRRXiLyc-pI-0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SBJ+HEALTH+CENTRE+PVT+LTD/data=!4m7!3m6!1s0x3b06cf22de9c50a1:0xed23a9cfc98b7845!8m2!3d9.4486501!4d77.8050541!16s%2Fg%2F11rck2qt4_!19sChIJoVCc3iLPBjsRRXiLyc-pI-0?authuser=0&hl=en&rclk=1"
@@ -4823,7 +4863,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SBJ+HEALTH+CENTRE+PVT+LTD/data=!4m7!3m6!1s0x3b06cf22de9c50a1:0xed23a9cfc98b7845!8m2!3d9.4486501!4d77.8050541!16s%2Fg%2F11rck2qt4_!19sChIJoVCc3iLPBjsRRXiLyc-pI-0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shri-ram-hospital-sivakasi",
@@ -4871,7 +4912,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Ram+Hospital/data=!4m7!3m6!1s0x3b06cee63943d127:0x63c48683821bb200!8m2!3d9.4458474!4d77.8014007!16s%2Fg%2F11c3nyjf7x!19sChIJJ9FDOebOBjsRALIbgoOGxGM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Ram+Hospital/data=!4m7!3m6!1s0x3b06cee63943d127:0x63c48683821bb200!8m2!3d9.4458474!4d77.8014007!16s%2Fg%2F11c3nyjf7x!19sChIJJ9FDOebOBjsRALIbgoOGxGM?authuser=0&hl=en&rclk=1"
@@ -4940,7 +4981,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Ram+Hospital/data=!4m7!3m6!1s0x3b06cee63943d127:0x63c48683821bb200!8m2!3d9.4458474!4d77.8014007!16s%2Fg%2F11c3nyjf7x!19sChIJJ9FDOebOBjsRALIbgoOGxGM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sree-arasi-dental-clinic-sivakasi",
@@ -4988,7 +5030,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Arasi+Dental+Clinic/data=!4m7!3m6!1s0x3b06ceeee4587c1d:0x24562648a87952b2!8m2!3d9.4497742!4d77.8057796!16s%2Fg%2F11hd1p0dm3!19sChIJHXxY5O7OBjsRslJ5qEgmViQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Arasi+Dental+Clinic/data=!4m7!3m6!1s0x3b06ceeee4587c1d:0x24562648a87952b2!8m2!3d9.4497742!4d77.8057796!16s%2Fg%2F11hd1p0dm3!19sChIJHXxY5O7OBjsRslJ5qEgmViQ?authuser=0&hl=en&rclk=1"
@@ -5057,7 +5099,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Arasi+Dental+Clinic/data=!4m7!3m6!1s0x3b06ceeee4587c1d:0x24562648a87952b2!8m2!3d9.4497742!4d77.8057796!16s%2Fg%2F11hd1p0dm3!19sChIJHXxY5O7OBjsRslJ5qEgmViQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-krishna-hospital-thiruthangal",
@@ -5105,7 +5148,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SRI+KRISHNA+HOSPITAL+%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80+%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B7%E0%AF%8D%E0%AE%A3%E0%AE%BE+%E0%AE%AE%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%AE%E0%AE%A9%E0%AF%88/data=!4m7!3m6!1s0x3b06cf80fa7f4aa3:0x2b9894de6df77af6!8m2!3d9.4836825!4d77.8128997!16s%2Fg%2F11rvf__5kd!19sChIJo0p_-oDPBjsR9nr3bd6UmCs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+KRISHNA+HOSPITAL+%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80+%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B7%E0%AF%8D%E0%AE%A3%E0%AE%BE+%E0%AE%AE%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%AE%E0%AE%A9%E0%AF%88/data=!4m7!3m6!1s0x3b06cf80fa7f4aa3:0x2b9894de6df77af6!8m2!3d9.4836825!4d77.8128997!16s%2Fg%2F11rvf__5kd!19sChIJo0p_-oDPBjsR9nr3bd6UmCs?authuser=0&hl=en&rclk=1"
@@ -5171,10 +5214,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+KRISHNA+HOSPITAL+%E0%AE%B6%E0%AF%8D%E0%AE%B0%E0%AF%80+%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B7%E0%AF%8D%E0%AE%A3%E0%AE%BE+%E0%AE%AE%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%AE%E0%AE%A9%E0%AF%88/data=!4m7!3m6!1s0x3b06cf80fa7f4aa3:0x2b9894de6df77af6!8m2!3d9.4836825!4d77.8128997!16s%2Fg%2F11rvf__5kd!19sChIJo0p_-oDPBjsR9nr3bd6UmCs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-ram-dental-clinic-thiruthangal",
@@ -5222,7 +5266,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Ram+Dental+Clinic/data=!4m7!3m6!1s0x3b06cfd96b894775:0x417e6f815941bc19!8m2!3d9.4802322!4d77.8119347!16s%2Fg%2F11rk342d1s!19sChIJdUeJa9nPBjsRGbxBWYFvfkE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Ram+Dental+Clinic/data=!4m7!3m6!1s0x3b06cfd96b894775:0x417e6f815941bc19!8m2!3d9.4802322!4d77.8119347!16s%2Fg%2F11rk342d1s!19sChIJdUeJa9nPBjsRGbxBWYFvfkE?authuser=0&hl=en&rclk=1"
@@ -5291,7 +5335,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Ram+Dental+Clinic/data=!4m7!3m6!1s0x3b06cfd96b894775:0x417e6f815941bc19!8m2!3d9.4802322!4d77.8119347!16s%2Fg%2F11rk342d1s!19sChIJdUeJa9nPBjsRGbxBWYFvfkE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sridharan-dental-health-centre-sivakasi",
@@ -5339,7 +5384,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sridharan+Dental+Health+Centre/data=!4m7!3m6!1s0x3b06cfffdc1862e1:0xf7d1ccb6e3aabb96!8m2!3d9.4485378!4d77.8002127!16s%2Fg%2F11gk8prqnd!19sChIJ4WIY3P_PBjsRlruq47bM0fc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sridharan+Dental+Health+Centre/data=!4m7!3m6!1s0x3b06cfffdc1862e1:0xf7d1ccb6e3aabb96!8m2!3d9.4485378!4d77.8002127!16s%2Fg%2F11gk8prqnd!19sChIJ4WIY3P_PBjsRlruq47bM0fc?authuser=0&hl=en&rclk=1"
@@ -5408,7 +5453,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sridharan+Dental+Health+Centre/data=!4m7!3m6!1s0x3b06cfffdc1862e1:0xf7d1ccb6e3aabb96!8m2!3d9.4485378!4d77.8002127!16s%2Fg%2F11gk8prqnd!19sChIJ4WIY3P_PBjsRlruq47bM0fc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ssr-hospital-sivakasi",
@@ -5456,7 +5502,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/SSR+HOSPITAL/data=!4m7!3m6!1s0x3b06cef84d3dad89:0xbbbd25bc12613bf!8m2!3d9.4604759!4d77.8006469!16s%2Fg%2F11gf0fgv4w!19sChIJia09TfjOBjsRvxMmwVvSuws?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SSR+HOSPITAL/data=!4m7!3m6!1s0x3b06cef84d3dad89:0xbbbd25bc12613bf!8m2!3d9.4604759!4d77.8006469!16s%2Fg%2F11gf0fgv4w!19sChIJia09TfjOBjsRvxMmwVvSuws?authuser=0&hl=en&rclk=1"
@@ -5525,7 +5571,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SSR+HOSPITAL/data=!4m7!3m6!1s0x3b06cef84d3dad89:0xbbbd25bc12613bf!8m2!3d9.4604759!4d77.8006469!16s%2Fg%2F11gf0fgv4w!19sChIJia09TfjOBjsRvxMmwVvSuws?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "star-specialty-hospital-sivakasi",
@@ -5574,7 +5621,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Star+Specialty+Hospital/data=!4m7!3m6!1s0x3b06cf908963831b:0xe6cb152e76de7ca2!8m2!3d9.4439269!4d77.8007862!16s%2Fg%2F11xz81_lb6!19sChIJG4NjiZDPBjsRonzedi4Vy-Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+Specialty+Hospital/data=!4m7!3m6!1s0x3b06cf908963831b:0xe6cb152e76de7ca2!8m2!3d9.4439269!4d77.8007862!16s%2Fg%2F11xz81_lb6!19sChIJG4NjiZDPBjsRonzedi4Vy-Y?authuser=0&hl=en&rclk=1"
@@ -5643,7 +5690,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Star+Specialty+Hospital/data=!4m7!3m6!1s0x3b06cf908963831b:0xe6cb152e76de7ca2!8m2!3d9.4439269!4d77.8007862!16s%2Fg%2F11xz81_lb6!19sChIJG4NjiZDPBjsRonzedi4Vy-Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sudha-nursing-home-sivakasi",
@@ -5692,7 +5740,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sudha+Nursing+Home/data=!4m7!3m6!1s0x3b06cf4da2e93b7f:0x3f3d35f686eb9785!8m2!3d9.4486196!4d77.7990045!16s%2Fg%2F11h1k_25ct!19sChIJfzvpok3PBjsRhZfrhvY1PT8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudha+Nursing+Home/data=!4m7!3m6!1s0x3b06cf4da2e93b7f:0x3f3d35f686eb9785!8m2!3d9.4486196!4d77.7990045!16s%2Fg%2F11h1k_25ct!19sChIJfzvpok3PBjsRhZfrhvY1PT8?authuser=0&hl=en&rclk=1"
@@ -5761,7 +5809,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sudha+Nursing+Home/data=!4m7!3m6!1s0x3b06cf4da2e93b7f:0x3f3d35f686eb9785!8m2!3d9.4486196!4d77.7990045!16s%2Fg%2F11h1k_25ct!19sChIJfzvpok3PBjsRhZfrhvY1PT8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "thanga-thirupathi-hospital-sivakasi",
@@ -5809,7 +5858,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://www.google.com/maps/place/thanga+thirupathi+hospital/data=!4m7!3m6!1s0x3b06cf5c8a1d196d:0x9876945785282911!8m2!3d9.448404!4d77.799071!16s%2Fg%2F11f5_57kv6!19sChIJbRkdilzPBjsRESkohVeUdpg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/thanga+thirupathi+hospital/data=!4m7!3m6!1s0x3b06cf5c8a1d196d:0x9876945785282911!8m2!3d9.448404!4d77.799071!16s%2Fg%2F11f5_57kv6!19sChIJbRkdilzPBjsRESkohVeUdpg?authuser=0&hl=en&rclk=1"
@@ -5878,7 +5927,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/thanga+thirupathi+hospital/data=!4m7!3m6!1s0x3b06cf5c8a1d196d:0x9876945785282911!8m2!3d9.448404!4d77.799071!16s%2Fg%2F11f5_57kv6!19sChIJbRkdilzPBjsRESkohVeUdpg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-animalia-veterinary-care-animal-hospital-a-complete-animal-care-including-avian-and-poultry-sivakasi",
@@ -5926,7 +5976,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/THE+ANIMALIA+VETERINARY+CARE+ANIMAL+HOSPITAL+%28A+Complete+Animal+Care+including+Avian+and+Poultry%29/data=!4m7!3m6!1s0x3b06cf81ae547eb7:0x19bd4390ff015cf4!8m2!3d9.4676497!4d77.7656424!16s%2Fg%2F11rdsm9kpm!19sChIJt35UroHPBjsR9FwB_5BDvRk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/THE+ANIMALIA+VETERINARY+CARE+ANIMAL+HOSPITAL+%28A+Complete+Animal+Care+including+Avian+and+Poultry%29/data=!4m7!3m6!1s0x3b06cf81ae547eb7:0x19bd4390ff015cf4!8m2!3d9.4676497!4d77.7656424!16s%2Fg%2F11rdsm9kpm!19sChIJt35UroHPBjsR9FwB_5BDvRk?authuser=0&hl=en&rclk=1"
@@ -5995,7 +6045,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/THE+ANIMALIA+VETERINARY+CARE+ANIMAL+HOSPITAL+%28A+Complete+Animal+Care+including+Avian+and+Poultry%29/data=!4m7!3m6!1s0x3b06cf81ae547eb7:0x19bd4390ff015cf4!8m2!3d9.4676497!4d77.7656424!16s%2Fg%2F11rdsm9kpm!19sChIJt35UroHPBjsR9FwB_5BDvRk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "thilagar-dental-clinic-sivakasi",
@@ -6043,7 +6094,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Thilagar+Dental+Clinic/data=!4m7!3m6!1s0x3b06cee39410bf63:0x1a342308f6cc88ee!8m2!3d9.4550757!4d77.7898952!16s%2Fg%2F1hhh9zrxy!19sChIJY78QlOPOBjsR7ojM9ggjNBo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thilagar+Dental+Clinic/data=!4m7!3m6!1s0x3b06cee39410bf63:0x1a342308f6cc88ee!8m2!3d9.4550757!4d77.7898952!16s%2Fg%2F1hhh9zrxy!19sChIJY78QlOPOBjsR7ojM9ggjNBo?authuser=0&hl=en&rclk=1"
@@ -6112,7 +6163,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thilagar+Dental+Clinic/data=!4m7!3m6!1s0x3b06cee39410bf63:0x1a342308f6cc88ee!8m2!3d9.4550757!4d77.7898952!16s%2Fg%2F1hhh9zrxy!19sChIJY78QlOPOBjsR7ojM9ggjNBo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vasan-dental-clinic-sivakasi",
@@ -6160,7 +6212,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Vasan+Dental+Clinic/data=!4m7!3m6!1s0x3b06cefd44e5bc49:0xab823c569fc12b88!8m2!3d9.4538937!4d77.7918338!16s%2Fg%2F1tff60_r!19sChIJSbzlRP3OBjsRiCvBn1Y8gqs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vasan+Dental+Clinic/data=!4m7!3m6!1s0x3b06cefd44e5bc49:0xab823c569fc12b88!8m2!3d9.4538937!4d77.7918338!16s%2Fg%2F1tff60_r!19sChIJSbzlRP3OBjsRiCvBn1Y8gqs?authuser=0&hl=en&rclk=1"
@@ -6229,7 +6281,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vasan+Dental+Clinic/data=!4m7!3m6!1s0x3b06cefd44e5bc49:0xab823c569fc12b88!8m2!3d9.4538937!4d77.7918338!16s%2Fg%2F1tff60_r!19sChIJSbzlRP3OBjsRiCvBn1Y8gqs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vijaya-nursing-home-sivakasi",
@@ -6277,7 +6330,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Vijaya+Nursing+Home/data=!4m7!3m6!1s0x3b06cee6791f708b:0x223a9c03b60ed445!8m2!3d9.4475594!4d77.8000066!16s%2Fg%2F1tvw3cbk!19sChIJi3AfeebOBjsRRdQOtgOcOiI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijaya+Nursing+Home/data=!4m7!3m6!1s0x3b06cee6791f708b:0x223a9c03b60ed445!8m2!3d9.4475594!4d77.8000066!16s%2Fg%2F1tvw3cbk!19sChIJi3AfeebOBjsRRdQOtgOcOiI?authuser=0&hl=en&rclk=1"
@@ -6346,6 +6399,7 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vijaya+Nursing+Home/data=!4m7!3m6!1s0x3b06cee6791f708b:0x223a9c03b60ed445!8m2!3d9.4475594!4d77.8000066!16s%2Fg%2F1tvw3cbk!19sChIJi3AfeebOBjsRRdQOtgOcOiI?authuser=0&hl=en&rclk=1"
   }
 ]

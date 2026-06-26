@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/AAI+Homoeopathic+Clinic/@19.2607145,76.7820247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019dde136dfb7:0xf8b8f2dac9fa1cec!8m2!3d19.2607145!4d76.7820247!16s%2Fg%2F11hzxsbb_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AAI+Homoeopathic+Clinic/@19.2607145,76.7820247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019dde136dfb7:0xf8b8f2dac9fa1cec!8m2!3d19.2607145!4d76.7820247!16s%2Fg%2F11hzxsbb_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AAI+Homoeopathic+Clinic/@19.2607145,76.7820247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019dde136dfb7:0xf8b8f2dac9fa1cec!8m2!3d19.2607145!4d76.7820247!16s%2Fg%2F11hzxsbb_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aastha-clinic-parbhani",
@@ -162,7 +163,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/AASTHA+CLINIC/@19.2767819,76.7618893,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01798fcbe77f3:0xa9b129f73dc5d108!8m2!3d19.2767819!4d76.7618893!16s%2Fg%2F11ry5ggwqy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AASTHA+CLINIC/@19.2767819,76.7618893,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01798fcbe77f3:0xa9b129f73dc5d108!8m2!3d19.2767819!4d76.7618893!16s%2Fg%2F11ry5ggwqy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -231,7 +232,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AASTHA+CLINIC/@19.2767819,76.7618893,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01798fcbe77f3:0xa9b129f73dc5d108!8m2!3d19.2767819!4d76.7618893!16s%2Fg%2F11ry5ggwqy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aboli-hospital-parbhani",
@@ -279,7 +281,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Aboli+Hospital/@19.2617651,76.7815188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183294f30aab:0x568877ed35752e4e!8m2!3d19.2617651!4d76.7815188!16s%2Fg%2F11b6plyhrd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aboli+Hospital/@19.2617651,76.7815188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183294f30aab:0x568877ed35752e4e!8m2!3d19.2617651!4d76.7815188!16s%2Fg%2F11b6plyhrd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -348,7 +350,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aboli+Hospital/@19.2617651,76.7815188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183294f30aab:0x568877ed35752e4e!8m2!3d19.2617651!4d76.7815188!16s%2Fg%2F11b6plyhrd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "advait-dental-clinic-and-implant-center-parbhani",
@@ -396,7 +399,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Advait+Dental+clinic+and+Implant+center/@19.2605001,76.7713621,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019a26752dcdb:0xb6c167f18ceb3645!8m2!3d19.2605001!4d76.7713621!16s%2Fg%2F11pzt9gvr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Advait+Dental+clinic+and+Implant+center/@19.2605001,76.7713621,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019a26752dcdb:0xb6c167f18ceb3645!8m2!3d19.2605001!4d76.7713621!16s%2Fg%2F11pzt9gvr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -462,10 +465,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Advait+Dental+clinic+and+Implant+center/@19.2605001,76.7713621,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019a26752dcdb:0xb6c167f18ceb3645!8m2!3d19.2605001!4d76.7713621!16s%2Fg%2F11pzt9gvr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ahuja-hospital-parbhani",
@@ -513,7 +517,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Ahuja+Hospital/@19.2616823,76.7818654,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018331c4fcc03:0xacefef639ad1ceff!8m2!3d19.2616823!4d76.7818654!16s%2Fg%2F11b7xkc135?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahuja+Hospital/@19.2616823,76.7818654,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018331c4fcc03:0xacefef639ad1ceff!8m2!3d19.2616823!4d76.7818654!16s%2Fg%2F11b7xkc135?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -579,10 +583,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ahuja+Hospital/@19.2616823,76.7818654,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018331c4fcc03:0xacefef639ad1ceff!8m2!3d19.2616823!4d76.7818654!16s%2Fg%2F11b7xkc135?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ak-dentofacial-hospital-parbhani",
@@ -631,7 +636,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/AK+DENTOFACIAL+HOSPITAL/@19.2669401,76.7741158,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d324b58d0b:0x73e33da96d6f4ae!8m2!3d19.2669401!4d76.7741158!16s%2Fg%2F11g7z8whq1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AK+DENTOFACIAL+HOSPITAL/@19.2669401,76.7741158,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d324b58d0b:0x73e33da96d6f4ae!8m2!3d19.2669401!4d76.7741158!16s%2Fg%2F11g7z8whq1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -700,7 +705,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AK+DENTOFACIAL+HOSPITAL/@19.2669401,76.7741158,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d324b58d0b:0x73e33da96d6f4ae!8m2!3d19.2669401!4d76.7741158!16s%2Fg%2F11g7z8whq1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "akanksha-hospital-parbhani-parbhani",
@@ -748,7 +754,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Akanksha+Hospital,Parbhani./@19.2696181,76.7669188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d9c0b64bab:0x47ee24022d0a0d00!8m2!3d19.2696181!4d76.7669188!16s%2Fg%2F11hbfk76lt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akanksha+Hospital,Parbhani./@19.2696181,76.7669188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d9c0b64bab:0x47ee24022d0a0d00!8m2!3d19.2696181!4d76.7669188!16s%2Fg%2F11hbfk76lt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -817,7 +823,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Akanksha+Hospital,Parbhani./@19.2696181,76.7669188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d9c0b64bab:0x47ee24022d0a0d00!8m2!3d19.2696181!4d76.7669188!16s%2Fg%2F11hbfk76lt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "al-shifa-clinic-and-glow-skin-care-parbhani",
@@ -865,7 +872,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Al+Shifa+Clinic+%26+Glow+Skin+Care/@19.2656379,76.7671552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019da6604a095:0x7814e3e2f822fd03!8m2!3d19.2656379!4d76.7671552!16s%2Fg%2F11dxr59xcm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Al+Shifa+Clinic+%26+Glow+Skin+Care/@19.2656379,76.7671552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019da6604a095:0x7814e3e2f822fd03!8m2!3d19.2656379!4d76.7671552!16s%2Fg%2F11dxr59xcm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -934,7 +941,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Al+Shifa+Clinic+%26+Glow+Skin+Care/@19.2656379,76.7671552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019da6604a095:0x7814e3e2f822fd03!8m2!3d19.2656379!4d76.7671552!16s%2Fg%2F11dxr59xcm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ananya-hospital-parbhani",
@@ -982,7 +990,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Ananya+Hospital/@19.2606786,76.7730027,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0196be586c43b:0x3d77fcb387e0ee16!8m2!3d19.2606786!4d76.7730027!16s%2Fg%2F11j2chf39_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ananya+Hospital/@19.2606786,76.7730027,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0196be586c43b:0x3d77fcb387e0ee16!8m2!3d19.2606786!4d76.7730027!16s%2Fg%2F11j2chf39_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1051,7 +1059,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ananya+Hospital/@19.2606786,76.7730027,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0196be586c43b:0x3d77fcb387e0ee16!8m2!3d19.2606786!4d76.7730027!16s%2Fg%2F11j2chf39_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ankur-balrugnalay-parbhani-parbhani",
@@ -1099,7 +1108,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Ankur+Balrugnalay+Parbhani/@19.2598332,76.772871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce61277077:0x819f5706f58b3b83!8m2!3d19.2598332!4d76.772871!16s%2Fg%2F11g6mdwrfr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ankur+Balrugnalay+Parbhani/@19.2598332,76.772871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce61277077:0x819f5706f58b3b83!8m2!3d19.2598332!4d76.772871!16s%2Fg%2F11g6mdwrfr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1168,7 +1177,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ankur+Balrugnalay+Parbhani/@19.2598332,76.772871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce61277077:0x819f5706f58b3b83!8m2!3d19.2598332!4d76.772871!16s%2Fg%2F11g6mdwrfr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-diagnostics-blood-tests-home-collection-and-full-body-checkups-in-parbhani-parbhani",
@@ -1218,7 +1228,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Diagnostics+-+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups+in+Parbhani/@19.255865,76.785823,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018369eef9d99:0xd5d1d0570fe9ad1e!8m2!3d19.255865!4d76.785823!16s%2Fg%2F11g7z00jys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Diagnostics+-+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups+in+Parbhani/@19.255865,76.785823,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018369eef9d99:0xd5d1d0570fe9ad1e!8m2!3d19.255865!4d76.785823!16s%2Fg%2F11g7z00jys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1287,7 +1297,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Diagnostics+-+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups+in+Parbhani/@19.255865,76.785823,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018369eef9d99:0xd5d1d0570fe9ad1e!8m2!3d19.255865!4d76.785823!16s%2Fg%2F11g7z00jys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashirwad-hospital-fracture-accident-and-bone-parbhani",
@@ -1337,7 +1348,7 @@
       "Google rating 2.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ashirwad+Hospital+-+Fracture,+Accident+%26+Bone/data=!4m7!3m6!1s0x3bd017d587d088a5:0xdb1186f41db1229f!8m2!3d19.2777743!4d76.7623058!16s%2Fg%2F11mv14h_zz!19sChIJpYjQh9UX0DsRnyKxHfSGEds?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashirwad+Hospital+-+Fracture,+Accident+%26+Bone/data=!4m7!3m6!1s0x3bd017d587d088a5:0xdb1186f41db1229f!8m2!3d19.2777743!4d76.7623058!16s%2Fg%2F11mv14h_zz!19sChIJpYjQh9UX0DsRnyKxHfSGEds?authuser=0&hl=en&rclk=1"
@@ -1403,10 +1414,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 2.0,
+    "rating": 2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashirwad+Hospital+-+Fracture,+Accident+%26+Bone/data=!4m7!3m6!1s0x3bd017d587d088a5:0xdb1186f41db1229f!8m2!3d19.2777743!4d76.7623058!16s%2Fg%2F11mv14h_zz!19sChIJpYjQh9UX0DsRnyKxHfSGEds?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ashok-hospital-parbhani",
@@ -1454,7 +1466,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ashok+Hospital/@19.2605904,76.7710072,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0197787bdb0d5:0x5c068287824b21a0!8m2!3d19.2605904!4d76.7710072!16s%2Fg%2F11h3l0hr2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashok+Hospital/@19.2605904,76.7710072,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0197787bdb0d5:0x5c068287824b21a0!8m2!3d19.2605904!4d76.7710072!16s%2Fg%2F11h3l0hr2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1520,10 +1532,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashok+Hospital/@19.2605904,76.7710072,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0197787bdb0d5:0x5c068287824b21a0!8m2!3d19.2605904!4d76.7710072!16s%2Fg%2F11h3l0hr2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aswar-physiotherapy-clinic-parbhani",
@@ -1571,7 +1584,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ASWAR+PHYSIOTHERAPY+CLINIC+%F0%9F%8F%A5%F0%9F%A9%BA/@19.268542,76.7884205,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0192025925fb5:0xf62e584d0f2e9fc4!8m2!3d19.268542!4d76.7884205!16s%2Fg%2F11yd3ckn30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASWAR+PHYSIOTHERAPY+CLINIC+%F0%9F%8F%A5%F0%9F%A9%BA/@19.268542,76.7884205,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0192025925fb5:0xf62e584d0f2e9fc4!8m2!3d19.268542!4d76.7884205!16s%2Fg%2F11yd3ckn30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1637,10 +1650,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ASWAR+PHYSIOTHERAPY+CLINIC+%F0%9F%8F%A5%F0%9F%A9%BA/@19.268542,76.7884205,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0192025925fb5:0xf62e584d0f2e9fc4!8m2!3d19.268542!4d76.7884205!16s%2Fg%2F11yd3ckn30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhagat-surgical-clinic-parbhani",
@@ -1689,7 +1703,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bhagat+Surgical+Clinic/@19.2687312,76.7891924,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0196347cf4e9f:0x37f7f0df7c3e8bde!8m2!3d19.2687312!4d76.7891924!16s%2Fg%2F11vfbb88ht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagat+Surgical+Clinic/@19.2687312,76.7891924,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0196347cf4e9f:0x37f7f0df7c3e8bde!8m2!3d19.2687312!4d76.7891924!16s%2Fg%2F11vfbb88ht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1755,10 +1769,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhagat+Surgical+Clinic/@19.2687312,76.7891924,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0196347cf4e9f:0x37f7f0df7c3e8bde!8m2!3d19.2687312!4d76.7891924!16s%2Fg%2F11vfbb88ht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhavna-hospital-parbhani",
@@ -1806,7 +1821,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Bhavna+Hospital/@19.2596262,76.7745541,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cc2cd23493:0xa904998dfdad3e53!8m2!3d19.2596262!4d76.7745541!16s%2Fg%2F11d_d041ly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhavna+Hospital/@19.2596262,76.7745541,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cc2cd23493:0xa904998dfdad3e53!8m2!3d19.2596262!4d76.7745541!16s%2Fg%2F11d_d041ly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1875,7 +1890,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhavna+Hospital/@19.2596262,76.7745541,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cc2cd23493:0xa904998dfdad3e53!8m2!3d19.2596262!4d76.7745541!16s%2Fg%2F11d_d041ly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "care-clinic-parbhani",
@@ -1923,7 +1939,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Care+Clinic/@19.2714142,76.774459,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d5d311406d:0xfc668ae53b84a92f!8m2!3d19.2714142!4d76.774459!16s%2Fg%2F11bxc78b8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+Clinic/@19.2714142,76.774459,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d5d311406d:0xfc668ae53b84a92f!8m2!3d19.2714142!4d76.774459!16s%2Fg%2F11bxc78b8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1989,10 +2005,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Care+Clinic/@19.2714142,76.774459,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d5d311406d:0xfc668ae53b84a92f!8m2!3d19.2714142!4d76.774459!16s%2Fg%2F11bxc78b8k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chilgar-skin-care-and-eye-hospital-parbhani",
@@ -2041,7 +2058,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chilgar+Skin+care+and+Eye+Hospital/data=!4m7!3m6!1s0x3bd019ce49e91457:0x27af93e46c7a53f9!8m2!3d19.2607726!4d76.7804217!16s%2Fg%2F1hjhgktj5!19sChIJVxTpSc4Z0DsR-VN6bOSTryc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chilgar+Skin+care+and+Eye+Hospital/data=!4m7!3m6!1s0x3bd019ce49e91457:0x27af93e46c7a53f9!8m2!3d19.2607726!4d76.7804217!16s%2Fg%2F1hjhgktj5!19sChIJVxTpSc4Z0DsR-VN6bOSTryc?authuser=0&hl=en&rclk=1"
@@ -2110,7 +2127,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chilgar+Skin+care+and+Eye+Hospital/data=!4m7!3m6!1s0x3bd019ce49e91457:0x27af93e46c7a53f9!8m2!3d19.2607726!4d76.7804217!16s%2Fg%2F1hjhgktj5!19sChIJVxTpSc4Z0DsR-VN6bOSTryc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chirayu-hospital-parbhani",
@@ -2158,7 +2176,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Chirayu+Hospital/@19.2613323,76.7713355,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce331ea2c1:0x371bb248209d0244!8m2!3d19.2613323!4d76.7713355!16s%2Fg%2F1hm417tc7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chirayu+Hospital/@19.2613323,76.7713355,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce331ea2c1:0x371bb248209d0244!8m2!3d19.2613323!4d76.7713355!16s%2Fg%2F1hm417tc7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2227,7 +2245,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chirayu+Hospital/@19.2613323,76.7713355,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce331ea2c1:0x371bb248209d0244!8m2!3d19.2613323!4d76.7713355!16s%2Fg%2F1hm417tc7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "civil-hospital-parbhani",
@@ -2275,7 +2294,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://www.google.com/maps/place/Civil+Hospital/@19.2715657,76.7645755,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d8ee6c083b:0xc932e6e3582da655!8m2!3d19.2715657!4d76.7645755!16s%2Fg%2F11rrjrf9ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Civil+Hospital/@19.2715657,76.7645755,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d8ee6c083b:0xc932e6e3582da655!8m2!3d19.2715657!4d76.7645755!16s%2Fg%2F11rrjrf9ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2344,7 +2363,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Civil+Hospital/@19.2715657,76.7645755,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d8ee6c083b:0xc932e6e3582da655!8m2!3d19.2715657!4d76.7645755!16s%2Fg%2F11rrjrf9ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deosarkar-s-family-dental-care-and-implant-center-parbhani",
@@ -2392,7 +2412,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Deosarkar%E2%80%99s+Family+Dental+Care+and+Implant+Center/@19.2619217,76.7683176,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019a510e409b7:0x30f0f3a01490b3b3!8m2!3d19.2619217!4d76.7683176!16s%2Fg%2F11nz3l43sh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deosarkar%E2%80%99s+Family+Dental+Care+and+Implant+Center/@19.2619217,76.7683176,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019a510e409b7:0x30f0f3a01490b3b3!8m2!3d19.2619217!4d76.7683176!16s%2Fg%2F11nz3l43sh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2461,7 +2481,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deosarkar%E2%80%99s+Family+Dental+Care+and+Implant+Center/@19.2619217,76.7683176,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019a510e409b7:0x30f0f3a01490b3b3!8m2!3d19.2619217!4d76.7683176!16s%2Fg%2F11nz3l43sh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deshmukh-dental-care-and-implant-centre-parbhani-parbhani",
@@ -2510,7 +2531,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Deshmukh+Dental+Care+%26+Implant+Centre,+Parbhani/@19.2609124,76.7712612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0191881e5f7a9:0xe06da07f18c62aa!8m2!3d19.2609124!4d76.7712612!16s%2Fg%2F11jr5tdsx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deshmukh+Dental+Care+%26+Implant+Centre,+Parbhani/@19.2609124,76.7712612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0191881e5f7a9:0xe06da07f18c62aa!8m2!3d19.2609124!4d76.7712612!16s%2Fg%2F11jr5tdsx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2576,10 +2597,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deshmukh+Dental+Care+%26+Implant+Centre,+Parbhani/@19.2609124,76.7712612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0191881e5f7a9:0xe06da07f18c62aa!8m2!3d19.2609124!4d76.7712612!16s%2Fg%2F11jr5tdsx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deshpande-hospital-parbhani",
@@ -2627,7 +2649,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Deshpande+Hospital/@19.2668,76.7721679,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d13d92f2a1:0xa8fafeee77aa35b5!8m2!3d19.2668!4d76.7721679!16s%2Fg%2F11btvg911d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deshpande+Hospital/@19.2668,76.7721679,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d13d92f2a1:0xa8fafeee77aa35b5!8m2!3d19.2668!4d76.7721679!16s%2Fg%2F11btvg911d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2696,7 +2718,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deshpande+Hospital/@19.2668,76.7721679,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d13d92f2a1:0xa8fafeee77aa35b5!8m2!3d19.2668!4d76.7721679!16s%2Fg%2F11btvg911d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhanorkar-hospital-parbhani",
@@ -2744,7 +2767,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Dhanorkar+Hospital/@19.2624861,76.7706934,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019627769fe27:0x7b4a4c79d81f1ffb!8m2!3d19.2624861!4d76.7706934!16s%2Fg%2F11fl7n4kc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhanorkar+Hospital/@19.2624861,76.7706934,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019627769fe27:0x7b4a4c79d81f1ffb!8m2!3d19.2624861!4d76.7706934!16s%2Fg%2F11fl7n4kc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2813,7 +2836,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhanorkar+Hospital/@19.2624861,76.7706934,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019627769fe27:0x7b4a4c79d81f1ffb!8m2!3d19.2624861!4d76.7706934!16s%2Fg%2F11fl7n4kc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "district-hospital-parbhani-parbhani",
@@ -2861,7 +2885,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/District+Hospital,+Parbhani/data=!4m7!3m6!1s0x3bd019d8f686f8bf:0x83331f098820b839!8m2!3d19.2714119!4d76.7646413!16s%2Fg%2F1vlz8tsl!19sChIJv_iG9tgZ0DsRObggiAkfM4M?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital,+Parbhani/data=!4m7!3m6!1s0x3bd019d8f686f8bf:0x83331f098820b839!8m2!3d19.2714119!4d76.7646413!16s%2Fg%2F1vlz8tsl!19sChIJv_iG9tgZ0DsRObggiAkfM4M?authuser=0&hl=en&rclk=1"
@@ -2930,7 +2954,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+Hospital,+Parbhani/data=!4m7!3m6!1s0x3bd019d8f686f8bf:0x83331f098820b839!8m2!3d19.2714119!4d76.7646413!16s%2Fg%2F1vlz8tsl!19sChIJv_iG9tgZ0DsRObggiAkfM4M?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dnyansa-homeo-clinic-parbhani",
@@ -2978,7 +3003,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Dnyansa+homeo+clinic/@19.2709895,76.7671429,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019aa66ee354b:0xe7bdfa5735291bf2!8m2!3d19.2709895!4d76.7671429!16s%2Fg%2F11vczvrsjv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dnyansa+homeo+clinic/@19.2709895,76.7671429,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019aa66ee354b:0xe7bdfa5735291bf2!8m2!3d19.2709895!4d76.7671429!16s%2Fg%2F11vczvrsjv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3047,7 +3072,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dnyansa+homeo+clinic/@19.2709895,76.7671429,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019aa66ee354b:0xe7bdfa5735291bf2!8m2!3d19.2709895!4d76.7671429!16s%2Fg%2F11vczvrsjv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "faiz-clinic-parbhani",
@@ -3095,7 +3121,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Faiz+Clinic/@19.2682392,76.7785358,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d35dcbc567:0x1760f37cf17ae2e1!8m2!3d19.2682392!4d76.7785358!16s%2Fg%2F11gdkygx0n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Faiz+Clinic/@19.2682392,76.7785358,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d35dcbc567:0x1760f37cf17ae2e1!8m2!3d19.2682392!4d76.7785358!16s%2Fg%2F11gdkygx0n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3161,10 +3187,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Faiz+Clinic/@19.2682392,76.7785358,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d35dcbc567:0x1760f37cf17ae2e1!8m2!3d19.2682392!4d76.7785358!16s%2Fg%2F11gdkygx0n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ghandge-hospital-parbhani",
@@ -3210,7 +3237,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/ghandge+hospital/@19.2534691,76.7984902,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183f42be2835:0x90872b0c9f67c7a4!8m2!3d19.2534691!4d76.7984902!16s%2Fg%2F11gg5pmw6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ghandge+hospital/@19.2534691,76.7984902,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183f42be2835:0x90872b0c9f67c7a4!8m2!3d19.2534691!4d76.7984902!16s%2Fg%2F11gg5pmw6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3276,10 +3303,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ghandge+hospital/@19.2534691,76.7984902,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183f42be2835:0x90872b0c9f67c7a4!8m2!3d19.2534691!4d76.7984902!16s%2Fg%2F11gg5pmw6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "giram-hospital-parbhani-parbhani",
@@ -3327,7 +3355,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Giram+Hospital+Parbhani/data=!4m7!3m6!1s0x3bd01976cb4ac94f:0x8cb9385567aea71!8m2!3d19.2609941!4d76.7766377!16s%2Fg%2F11f768f5jx!19sChIJT8lKy3YZ0DsRcep6VoWTywg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Giram+Hospital+Parbhani/data=!4m7!3m6!1s0x3bd01976cb4ac94f:0x8cb9385567aea71!8m2!3d19.2609941!4d76.7766377!16s%2Fg%2F11f768f5jx!19sChIJT8lKy3YZ0DsRcep6VoWTywg?authuser=0&hl=en&rclk=1"
@@ -3396,7 +3424,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Giram+Hospital+Parbhani/data=!4m7!3m6!1s0x3bd01976cb4ac94f:0x8cb9385567aea71!8m2!3d19.2609941!4d76.7766377!16s%2Fg%2F11f768f5jx!19sChIJT8lKy3YZ0DsRcep6VoWTywg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "glory-beauty-parlour-best-beauty-parlour-in-parbhani-best-makeup-artist-in-parbhani-best-female-beauty-salon-in-parbhani-parbhani",
@@ -3445,7 +3474,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Glory+Beauty+Parlour+-Best+Beauty+Parlour+in+Parbhani+%7C+Best+Makeup+Artist+in+Parbhani+%7C+Best+Female+Beauty+Salon+in+Parbhani/@19.2734644,76.7650155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd017481659fc71:0xe64f84a157ac1694!8m2!3d19.2734644!4d76.7650155!16s%2Fg%2F11g0dg54h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Glory+Beauty+Parlour+-Best+Beauty+Parlour+in+Parbhani+%7C+Best+Makeup+Artist+in+Parbhani+%7C+Best+Female+Beauty+Salon+in+Parbhani/@19.2734644,76.7650155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd017481659fc71:0xe64f84a157ac1694!8m2!3d19.2734644!4d76.7650155!16s%2Fg%2F11g0dg54h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3514,7 +3543,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Glory+Beauty+Parlour+-Best+Beauty+Parlour+in+Parbhani+%7C+Best+Makeup+Artist+in+Parbhani+%7C+Best+Female+Beauty+Salon+in+Parbhani/@19.2734644,76.7650155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd017481659fc71:0xe64f84a157ac1694!8m2!3d19.2734644!4d76.7650155!16s%2Fg%2F11g0dg54h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "godawari-hospital-parbhani",
@@ -3562,7 +3592,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Godawari+Hospital/@19.2596971,76.7810903,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183323b71d09:0xc5380cc5b195786!8m2!3d19.2596971!4d76.7810903!16s%2Fg%2F1hc41g1jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Godawari+Hospital/@19.2596971,76.7810903,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183323b71d09:0xc5380cc5b195786!8m2!3d19.2596971!4d76.7810903!16s%2Fg%2F1hc41g1jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3628,10 +3658,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Godawari+Hospital/@19.2596971,76.7810903,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183323b71d09:0xc5380cc5b195786!8m2!3d19.2596971!4d76.7810903!16s%2Fg%2F1hc41g1jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-hospital-parbhani-parbhani",
@@ -3679,7 +3710,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Government+Hospital,+Parbhani/@19.2716851,76.772078,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d65b1d8a8d:0xb0d46e0f78e358b4!8m2!3d19.2716851!4d76.772078!16s%2Fg%2F11dym43nr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Hospital,+Parbhani/@19.2716851,76.772078,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d65b1d8a8d:0xb0d46e0f78e358b4!8m2!3d19.2716851!4d76.772078!16s%2Fg%2F11dym43nr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3748,7 +3779,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Hospital,+Parbhani/@19.2716851,76.772078,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d65b1d8a8d:0xb0d46e0f78e358b4!8m2!3d19.2716851!4d76.772078!16s%2Fg%2F11dym43nr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gurukrupa-clinic-parbhani",
@@ -3796,7 +3828,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gurukrupa+clinic/@19.2808599,76.751607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0178f03f58a3b:0x4e75a4c6eb005b4e!8m2!3d19.2808599!4d76.751607!16s%2Fg%2F11fqbytr7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurukrupa+clinic/@19.2808599,76.751607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0178f03f58a3b:0x4e75a4c6eb005b4e!8m2!3d19.2808599!4d76.751607!16s%2Fg%2F11fqbytr7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3862,10 +3894,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gurukrupa+clinic/@19.2808599,76.751607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0178f03f58a3b:0x4e75a4c6eb005b4e!8m2!3d19.2808599!4d76.751607!16s%2Fg%2F11fqbytr7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gynecare-clinic-parbhani",
@@ -3914,7 +3947,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gynecare+Clinic/@19.2693737,76.7536723,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01962fbb7ffff:0x1f3360cc9f68e6b5!8m2!3d19.2693737!4d76.7536723!16s%2Fg%2F11g48d6nzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gynecare+Clinic/@19.2693737,76.7536723,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01962fbb7ffff:0x1f3360cc9f68e6b5!8m2!3d19.2693737!4d76.7536723!16s%2Fg%2F11g48d6nzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3980,10 +4013,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gynecare+Clinic/@19.2693737,76.7536723,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01962fbb7ffff:0x1f3360cc9f68e6b5!8m2!3d19.2693737!4d76.7536723!16s%2Fg%2F11g48d6nzq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hayat-hospital-parbhani",
@@ -4031,7 +4065,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Hayat+Hospital/@19.26298,76.7679616,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019df77e57bcf:0x245da700358f604!8m2!3d19.26298!4d76.7679616!16s%2Fg%2F11g0q5knl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hayat+Hospital/@19.26298,76.7679616,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019df77e57bcf:0x245da700358f604!8m2!3d19.26298!4d76.7679616!16s%2Fg%2F11g0q5knl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4100,7 +4134,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hayat+Hospital/@19.26298,76.7679616,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019df77e57bcf:0x245da700358f604!8m2!3d19.26298!4d76.7679616!16s%2Fg%2F11g0q5knl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hirkani-hospital-best-test-tube-centre-in-parbhani-best-hospital-in-parbhani-best-children-s-hospital-in-parbhani-parbhani",
@@ -4150,7 +4185,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Hirkani+hospital+-+Best+Test+Tube+Centre+In+Parbhani+%7C+Best+Hospital+In+Parbhani+%7C+Best+Children's+Hospital+In+Parbhani/@19.2594924,76.7716727,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0198b1d9c7775:0xd20ed950500f179e!8m2!3d19.2594924!4d76.7716727!16s%2Fg%2F11rv5cf482?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hirkani+hospital+-+Best+Test+Tube+Centre+In+Parbhani+%7C+Best+Hospital+In+Parbhani+%7C+Best+Children's+Hospital+In+Parbhani/@19.2594924,76.7716727,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0198b1d9c7775:0xd20ed950500f179e!8m2!3d19.2594924!4d76.7716727!16s%2Fg%2F11rv5cf482?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4219,7 +4254,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hirkani+hospital+-+Best+Test+Tube+Centre+In+Parbhani+%7C+Best+Hospital+In+Parbhani+%7C+Best+Children's+Hospital+In+Parbhani/@19.2594924,76.7716727,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0198b1d9c7775:0xd20ed950500f179e!8m2!3d19.2594924!4d76.7716727!16s%2Fg%2F11rv5cf482?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hospital-parbhani",
@@ -4268,7 +4304,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Hospital/@19.2758921,76.7675563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0170b6d6d65ef:0x8645432dd1c06053!8m2!3d19.2758921!4d76.7675563!16s%2Fg%2F11ycl62zcm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hospital/@19.2758921,76.7675563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0170b6d6d65ef:0x8645432dd1c06053!8m2!3d19.2758921!4d76.7675563!16s%2Fg%2F11ycl62zcm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4334,10 +4370,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hospital/@19.2758921,76.7675563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0170b6d6d65ef:0x8645432dd1c06053!8m2!3d19.2758921!4d76.7675563!16s%2Fg%2F11ycl62zcm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hospital-heart-parbhani",
@@ -4384,7 +4421,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/hospital+heart/@19.2602343,76.7797624,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cd2b667d1f:0x5e7c58ab42c55e46!8m2!3d19.2602343!4d76.7797624!16s%2Fg%2F11hcym74fr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/hospital+heart/@19.2602343,76.7797624,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cd2b667d1f:0x5e7c58ab42c55e46!8m2!3d19.2602343!4d76.7797624!16s%2Fg%2F11hcym74fr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4450,10 +4487,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/hospital+heart/@19.2602343,76.7797624,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cd2b667d1f:0x5e7c58ab42c55e46!8m2!3d19.2602343!4d76.7797624!16s%2Fg%2F11hcym74fr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jayesh-neurosurgical-and-trauma-icu-parbhani",
@@ -4502,7 +4540,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Jayesh+Neurosurgical+%26+Trauma+ICU/@19.2558834,76.7847669,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019c98f6451a7:0x1ea94cd58a4e48ba!8m2!3d19.2558834!4d76.7847669!16s%2Fg%2F11jzs8l1pl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jayesh+Neurosurgical+%26+Trauma+ICU/@19.2558834,76.7847669,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019c98f6451a7:0x1ea94cd58a4e48ba!8m2!3d19.2558834!4d76.7847669!16s%2Fg%2F11jzs8l1pl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4568,10 +4606,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jayesh+Neurosurgical+%26+Trauma+ICU/@19.2558834,76.7847669,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019c98f6451a7:0x1ea94cd58a4e48ba!8m2!3d19.2558834!4d76.7847669!16s%2Fg%2F11jzs8l1pl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jethliya-hospital-parbhani",
@@ -4620,7 +4659,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jethliya+Hospital/@19.2601186,76.7817193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ccc5555555:0x879cb01ef849cda4!8m2!3d19.2601186!4d76.7817193!16s%2Fg%2F11ckvdz49m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jethliya+Hospital/@19.2601186,76.7817193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ccc5555555:0x879cb01ef849cda4!8m2!3d19.2601186!4d76.7817193!16s%2Fg%2F11ckvdz49m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4689,7 +4728,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jethliya+Hospital/@19.2601186,76.7817193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ccc5555555:0x879cb01ef849cda4!8m2!3d19.2601186!4d76.7817193!16s%2Fg%2F11ckvdz49m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jogad-skin-and-laser-center-parbhani",
@@ -4737,7 +4777,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Jogad+Skin+and+Laser+Center/@19.2619977,76.7707531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d0291a69fb:0x206eb64b0c69d16!8m2!3d19.2619977!4d76.7707531!16s%2Fg%2F1hjhfrcd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jogad+Skin+and+Laser+Center/@19.2619977,76.7707531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d0291a69fb:0x206eb64b0c69d16!8m2!3d19.2619977!4d76.7707531!16s%2Fg%2F1hjhfrcd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4806,7 +4846,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jogad+Skin+and+Laser+Center/@19.2619977,76.7707531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d0291a69fb:0x206eb64b0c69d16!8m2!3d19.2619977!4d76.7707531!16s%2Fg%2F1hjhfrcd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kadam-advanced-family-and-kids-dental-clinic-parbhani",
@@ -4854,7 +4895,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Kadam+Advanced+Family+and+Kids+Dental+Clinic/@19.25912,76.7702353,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019efd99a6947:0xe442d16a1a614de1!8m2!3d19.25912!4d76.7702353!16s%2Fg%2F11jz4cft97?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kadam+Advanced+Family+and+Kids+Dental+Clinic/@19.25912,76.7702353,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019efd99a6947:0xe442d16a1a614de1!8m2!3d19.25912!4d76.7702353!16s%2Fg%2F11jz4cft97?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4923,7 +4964,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kadam+Advanced+Family+and+Kids+Dental+Clinic/@19.25912,76.7702353,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019efd99a6947:0xe442d16a1a614de1!8m2!3d19.25912!4d76.7702353!16s%2Fg%2F11jz4cft97?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kadam-hospital-burns-care-wound-care-trauma-and-plastic-surgery-center-parbhani",
@@ -4971,7 +5013,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/KADAM+HOSPITAL+(Burns+Care,+Wound+Care,+Trauma+%26+Plastic+Surgery+Center)/@19.2623916,76.7707197,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019c9020fa013:0x1ddbfb8e79275f3!8m2!3d19.2623916!4d76.7707197!16s%2Fg%2F11fpmkbcmz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KADAM+HOSPITAL+(Burns+Care,+Wound+Care,+Trauma+%26+Plastic+Surgery+Center)/@19.2623916,76.7707197,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019c9020fa013:0x1ddbfb8e79275f3!8m2!3d19.2623916!4d76.7707197!16s%2Fg%2F11fpmkbcmz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5037,10 +5079,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KADAM+HOSPITAL+(Burns+Care,+Wound+Care,+Trauma+%26+Plastic+Surgery+Center)/@19.2623916,76.7707197,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019c9020fa013:0x1ddbfb8e79275f3!8m2!3d19.2623916!4d76.7707197!16s%2Fg%2F11fpmkbcmz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kausar-hospital-parbhani",
@@ -5088,7 +5131,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Kausar+Hospital/@19.2709694,76.774578,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d42efccf17:0x909bd20f893bce34!8m2!3d19.2709694!4d76.774578!16s%2Fg%2F11gbk4yjx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kausar+Hospital/@19.2709694,76.774578,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d42efccf17:0x909bd20f893bce34!8m2!3d19.2709694!4d76.774578!16s%2Fg%2F11gbk4yjx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5157,7 +5200,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kausar+Hospital/@19.2709694,76.774578,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d42efccf17:0x909bd20f893bce34!8m2!3d19.2709694!4d76.774578!16s%2Fg%2F11gbk4yjx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krsnaa-diagnostics-blood-test-and-diagnostic-centre-in-rp-hospital-and-research-institute-parbhani-parbhani",
@@ -5207,7 +5251,7 @@
       "Google rating 1.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Blood+Test+%26+Diagnostic+Centre+In+RP+Hospital+%26+Research+Institute,+Parbhani/@19.2544832,76.7552511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01baf7c747beb:0x56cf028702f2ab86!8m2!3d19.2544832!4d76.7552511!16s%2Fg%2F11nhyb57sx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Blood+Test+%26+Diagnostic+Centre+In+RP+Hospital+%26+Research+Institute,+Parbhani/@19.2544832,76.7552511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01baf7c747beb:0x56cf028702f2ab86!8m2!3d19.2544832!4d76.7552511!16s%2Fg%2F11nhyb57sx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5273,10 +5317,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Blood+Test+%26+Diagnostic+Centre+In+RP+Hospital+%26+Research+Institute,+Parbhani/@19.2544832,76.7552511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01baf7c747beb:0x56cf028702f2ab86!8m2!3d19.2544832!4d76.7552511!16s%2Fg%2F11nhyb57sx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lifecare-clinic-parbhani",
@@ -5324,7 +5369,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lifecare+Clinic/@19.269688,76.7836014,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0196585152b39:0xd1e8900a7ded7304!8m2!3d19.269688!4d76.7836014!16s%2Fg%2F11k0g6q3rb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lifecare+Clinic/@19.269688,76.7836014,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0196585152b39:0xd1e8900a7ded7304!8m2!3d19.269688!4d76.7836014!16s%2Fg%2F11k0g6q3rb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5390,10 +5435,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lifecare+Clinic/@19.269688,76.7836014,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0196585152b39:0xd1e8900a7ded7304!8m2!3d19.269688!4d76.7836014!16s%2Fg%2F11k0g6q3rb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lupin-diagnostics-pathology-lab-and-full-body-checkup-in-parbhani-parbhani",
@@ -5442,7 +5488,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lupin+Diagnostics+%7C+Pathology+Lab+%26+Full+Body+Checkup+in+Parbhani/@19.279161,76.7625073,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd017f331326245:0x4b4fdf43fbf09473!8m2!3d19.279161!4d76.7625073!16s%2Fg%2F11y5q6c1r8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lupin+Diagnostics+%7C+Pathology+Lab+%26+Full+Body+Checkup+in+Parbhani/@19.279161,76.7625073,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd017f331326245:0x4b4fdf43fbf09473!8m2!3d19.279161!4d76.7625073!16s%2Fg%2F11y5q6c1r8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5508,10 +5554,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lupin+Diagnostics+%7C+Pathology+Lab+%26+Full+Body+Checkup+in+Parbhani/@19.279161,76.7625073,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd017f331326245:0x4b4fdf43fbf09473!8m2!3d19.279161!4d76.7625073!16s%2Fg%2F11y5q6c1r8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maauli-hospital-parbhani",
@@ -5559,7 +5606,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Maauli+Hospital/@19.2590699,76.7943766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183bcda965fb:0x1e2cbb1d37bdf7e6!8m2!3d19.2590699!4d76.7943766!16s%2Fg%2F11g9ndb62b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maauli+Hospital/@19.2590699,76.7943766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183bcda965fb:0x1e2cbb1d37bdf7e6!8m2!3d19.2590699!4d76.7943766!16s%2Fg%2F11g9ndb62b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5628,7 +5675,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maauli+Hospital/@19.2590699,76.7943766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183bcda965fb:0x1e2cbb1d37bdf7e6!8m2!3d19.2590699!4d76.7943766!16s%2Fg%2F11g9ndb62b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhavbaug-cardiac-clinic-parbhani",
@@ -5677,7 +5725,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/MADHAVBAUG+CARDIAC+CLINIC/@19.2597672,76.78103,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f7bf5e2411:0xef91ba85e9f6a31b!8m2!3d19.2597672!4d76.78103!16s%2Fg%2F11sgg3rkyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MADHAVBAUG+CARDIAC+CLINIC/@19.2597672,76.78103,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f7bf5e2411:0xef91ba85e9f6a31b!8m2!3d19.2597672!4d76.78103!16s%2Fg%2F11sgg3rkyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5746,7 +5794,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MADHAVBAUG+CARDIAC+CLINIC/@19.2597672,76.78103,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f7bf5e2411:0xef91ba85e9f6a31b!8m2!3d19.2597672!4d76.78103!16s%2Fg%2F11sgg3rkyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-and-panchakarma-center-parbhani-parbhani",
@@ -5796,7 +5845,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Parbhani)/@19.259942,76.7817607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0191a96ec39e1:0x79749e4bc5037f85!8m2!3d19.259942!4d76.7817607!16s%2Fg%2F11rk1_52tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Parbhani)/@19.259942,76.7817607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0191a96ec39e1:0x79749e4bc5037f85!8m2!3d19.259942!4d76.7817607!16s%2Fg%2F11rk1_52tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5865,7 +5914,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Parbhani)/@19.259942,76.7817607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0191a96ec39e1:0x79749e4bc5037f85!8m2!3d19.259942!4d76.7817607!16s%2Fg%2F11rk1_52tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mantri-clinic-parbhani",
@@ -5913,7 +5963,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mantri+Clinic/@19.2554368,76.7972013,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183f2ad3892d:0xab41dae15ee48e10!8m2!3d19.2554368!4d76.7972013!16s%2Fg%2F11c60jj0qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mantri+Clinic/@19.2554368,76.7972013,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183f2ad3892d:0xab41dae15ee48e10!8m2!3d19.2554368!4d76.7972013!16s%2Fg%2F11c60jj0qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5979,10 +6029,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mantri+Clinic/@19.2554368,76.7972013,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183f2ad3892d:0xab41dae15ee48e10!8m2!3d19.2554368!4d76.7972013!16s%2Fg%2F11c60jj0qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "matoshri-dental-clinic-parbhani",
@@ -6031,7 +6082,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Matoshri+Dental+Clinic/@19.2597845,76.7715166,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce6c047b27:0x8704fb615f6be55d!8m2!3d19.2597845!4d76.7715166!16s%2Fg%2F11b7q7_ms5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matoshri+Dental+Clinic/@19.2597845,76.7715166,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce6c047b27:0x8704fb615f6be55d!8m2!3d19.2597845!4d76.7715166!16s%2Fg%2F11b7q7_ms5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6100,7 +6151,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Matoshri+Dental+Clinic/@19.2597845,76.7715166,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce6c047b27:0x8704fb615f6be55d!8m2!3d19.2597845!4d76.7715166!16s%2Fg%2F11b7q7_ms5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mauli-hospital-joint-and-spine-clinic-parbhani",
@@ -6150,7 +6202,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Mauli+Hospital+joint+and+spine+clinic/@19.2774596,76.7617694,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0174ec59817b3:0x32f7f3ed3ba082a8!8m2!3d19.2774596!4d76.7617694!16s%2Fg%2F11p01_ssr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mauli+Hospital+joint+and+spine+clinic/@19.2774596,76.7617694,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0174ec59817b3:0x32f7f3ed3ba082a8!8m2!3d19.2774596!4d76.7617694!16s%2Fg%2F11p01_ssr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6219,7 +6271,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mauli+Hospital+joint+and+spine+clinic/@19.2774596,76.7617694,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0174ec59817b3:0x32f7f3ed3ba082a8!8m2!3d19.2774596!4d76.7617694!16s%2Fg%2F11p01_ssr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medical-parbhani",
@@ -6268,7 +6321,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Medical/@19.2776432,76.7615514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd017614277c9ad:0xd7d9aa5c21228e8d!8m2!3d19.2776432!4d76.7615514!16s%2Fg%2F11c61sy6t5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medical/@19.2776432,76.7615514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd017614277c9ad:0xd7d9aa5c21228e8d!8m2!3d19.2776432!4d76.7615514!16s%2Fg%2F11c61sy6t5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6334,10 +6387,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medical/@19.2776432,76.7615514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd017614277c9ad:0xd7d9aa5c21228e8d!8m2!3d19.2776432!4d76.7615514!16s%2Fg%2F11c61sy6t5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "moraya-dental-clinic-parbhani",
@@ -6385,7 +6439,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Moraya+dental+clinic/@19.2592829,76.7717232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0190036ca0537:0xce015e95ddb09a0c!8m2!3d19.2592829!4d76.7717232!16s%2Fg%2F11rkgl2xmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Moraya+dental+clinic/@19.2592829,76.7717232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0190036ca0537:0xce015e95ddb09a0c!8m2!3d19.2592829!4d76.7717232!16s%2Fg%2F11rkgl2xmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6451,10 +6505,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Moraya+dental+clinic/@19.2592829,76.7717232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0190036ca0537:0xce015e95ddb09a0c!8m2!3d19.2592829!4d76.7717232!16s%2Fg%2F11rkgl2xmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "morya-hospital-parbhani",
@@ -6502,7 +6557,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Morya+Hospital/@19.2589136,76.7795555,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cccbf607b5:0xb9ebb085ee7c0f86!8m2!3d19.2589136!4d76.7795555!16s%2Fg%2F11hblbcb2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Morya+Hospital/@19.2589136,76.7795555,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cccbf607b5:0xb9ebb085ee7c0f86!8m2!3d19.2589136!4d76.7795555!16s%2Fg%2F11hblbcb2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6571,7 +6626,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Morya+Hospital/@19.2589136,76.7795555,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cccbf607b5:0xb9ebb085ee7c0f86!8m2!3d19.2589136!4d76.7795555!16s%2Fg%2F11hblbcb2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mundada-clinic-parbhani",
@@ -6620,7 +6676,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mundada+Clinic/@19.2637499,76.7686904,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019c9c479a631:0x56987987f3ca9414!8m2!3d19.2637499!4d76.7686904!16s%2Fg%2F11fl5dhc6q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mundada+Clinic/@19.2637499,76.7686904,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019c9c479a631:0x56987987f3ca9414!8m2!3d19.2637499!4d76.7686904!16s%2Fg%2F11fl5dhc6q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6689,7 +6745,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mundada+Clinic/@19.2637499,76.7686904,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019c9c479a631:0x56987987f3ca9414!8m2!3d19.2637499!4d76.7686904!16s%2Fg%2F11fl5dhc6q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "muskan-children-s-hospital-parbhani",
@@ -6738,7 +6795,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Muskan+Children's+Hospital/@19.2672764,76.7742698,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d0f8130b19:0x8bd776d463fc10c6!8m2!3d19.2672764!4d76.7742698!16s%2Fg%2F11c30wlc96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Muskan+Children's+Hospital/@19.2672764,76.7742698,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d0f8130b19:0x8bd776d463fc10c6!8m2!3d19.2672764!4d76.7742698!16s%2Fg%2F11c30wlc96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6807,7 +6864,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Muskan+Children's+Hospital/@19.2672764,76.7742698,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d0f8130b19:0x8bd776d463fc10c6!8m2!3d19.2672764!4d76.7742698!16s%2Fg%2F11c30wlc96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "navandar-hospital-parbhani",
@@ -6855,7 +6913,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Navandar+Hospital/@19.2610698,76.7804965,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01832cf6632cb:0x6385c7a53c433e9c!8m2!3d19.2610698!4d76.7804965!16s%2Fg%2F11bzzvbjf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navandar+Hospital/@19.2610698,76.7804965,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01832cf6632cb:0x6385c7a53c433e9c!8m2!3d19.2610698!4d76.7804965!16s%2Fg%2F11bzzvbjf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6924,7 +6982,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Navandar+Hospital/@19.2610698,76.7804965,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01832cf6632cb:0x6385c7a53c433e9c!8m2!3d19.2610698!4d76.7804965!16s%2Fg%2F11bzzvbjf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "navjeevan-hospital-parbhani",
@@ -6973,7 +7032,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Navjeevan+Hospital/@19.2596725,76.7745603,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cdd33f519f:0x953409c525b42b5c!8m2!3d19.2596725!4d76.7745603!16s%2Fg%2F1tcwdfln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navjeevan+Hospital/@19.2596725,76.7745603,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cdd33f519f:0x953409c525b42b5c!8m2!3d19.2596725!4d76.7745603!16s%2Fg%2F1tcwdfln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7042,7 +7101,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Navjeevan+Hospital/@19.2596725,76.7745603,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cdd33f519f:0x953409c525b42b5c!8m2!3d19.2596725!4d76.7745603!16s%2Fg%2F1tcwdfln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nexon-dental-hospital-parbhani",
@@ -7091,7 +7151,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NEXON+DENTAL+HOSPITAL/@19.2704818,76.76349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019c465afd509:0xd8723063390ac400!8m2!3d19.2704818!4d76.76349!16s%2Fg%2F11xflrb9tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEXON+DENTAL+HOSPITAL/@19.2704818,76.76349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019c465afd509:0xd8723063390ac400!8m2!3d19.2704818!4d76.76349!16s%2Fg%2F11xflrb9tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7157,10 +7217,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEXON+DENTAL+HOSPITAL/@19.2704818,76.76349,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019c465afd509:0xd8723063390ac400!8m2!3d19.2704818!4d76.76349!16s%2Fg%2F11xflrb9tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "niras-netralaya-parbhani",
@@ -7209,7 +7270,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NIRAS+NETRALAYA/@19.2612518,76.7677845,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019a5eea44bad:0x7fbfb2582a0793ac!8m2!3d19.2612518!4d76.7677845!16s%2Fg%2F11tsg5hql3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NIRAS+NETRALAYA/@19.2612518,76.7677845,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019a5eea44bad:0x7fbfb2582a0793ac!8m2!3d19.2612518!4d76.7677845!16s%2Fg%2F11tsg5hql3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7275,10 +7336,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NIRAS+NETRALAYA/@19.2612518,76.7677845,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019a5eea44bad:0x7fbfb2582a0793ac!8m2!3d19.2612518!4d76.7677845!16s%2Fg%2F11tsg5hql3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parbhani-dental-hospital-and-oral-cancer-diagnostic-centre-parbhani",
@@ -7324,7 +7386,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/PARBHANI+DENTAL+HOSPITAL+AND+ORAL+CANCER+DIAGNOSTIC+CENTRE/@19.2598164,76.7715152,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01984d4b109af:0x3b3c207d88e7acd3!8m2!3d19.2598164!4d76.7715152!16s%2Fg%2F11hmz3p58g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PARBHANI+DENTAL+HOSPITAL+AND+ORAL+CANCER+DIAGNOSTIC+CENTRE/@19.2598164,76.7715152,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01984d4b109af:0x3b3c207d88e7acd3!8m2!3d19.2598164!4d76.7715152!16s%2Fg%2F11hmz3p58g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7390,10 +7452,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PARBHANI+DENTAL+HOSPITAL+AND+ORAL+CANCER+DIAGNOSTIC+CENTRE/@19.2598164,76.7715152,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01984d4b109af:0x3b3c207d88e7acd3!8m2!3d19.2598164!4d76.7715152!16s%2Fg%2F11hmz3p58g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parbhani-icu-parbhani",
@@ -7441,7 +7504,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/parbhani+ICU/@19.2609943,76.7766377,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f40dce4afb:0x6a76c43e61251469!8m2!3d19.2609943!4d76.7766377!16s%2Fg%2F11gqnx_7_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/parbhani+ICU/@19.2609943,76.7766377,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f40dce4afb:0x6a76c43e61251469!8m2!3d19.2609943!4d76.7766377!16s%2Fg%2F11gqnx_7_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7510,7 +7573,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/parbhani+ICU/@19.2609943,76.7766377,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f40dce4afb:0x6a76c43e61251469!8m2!3d19.2609943!4d76.7766377!16s%2Fg%2F11gqnx_7_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parbhani-icu-and-trauma-care-centre-parbhani",
@@ -7558,7 +7622,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Parbhani+ICU+%26+Trauma+Care+Centre/@19.2614089,76.7713517,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce6bf2c181:0x9bed63f23d7c204f!8m2!3d19.2614089!4d76.7713517!16s%2Fg%2F124t0d_z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parbhani+ICU+%26+Trauma+Care+Centre/@19.2614089,76.7713517,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce6bf2c181:0x9bed63f23d7c204f!8m2!3d19.2614089!4d76.7713517!16s%2Fg%2F124t0d_z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7627,7 +7691,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parbhani+ICU+%26+Trauma+Care+Centre/@19.2614089,76.7713517,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce6bf2c181:0x9bed63f23d7c204f!8m2!3d19.2614089!4d76.7713517!16s%2Fg%2F124t0d_z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parbhani-pet-clinic-parbhani",
@@ -7676,7 +7741,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Parbhani+Pet+Clinic/@19.2538101,76.7909501,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018379183eb29:0x8adec87f08a875f0!8m2!3d19.2538101!4d76.7909501!16s%2Fg%2F11jzqpv1qy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parbhani+Pet+Clinic/@19.2538101,76.7909501,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018379183eb29:0x8adec87f08a875f0!8m2!3d19.2538101!4d76.7909501!16s%2Fg%2F11jzqpv1qy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7745,7 +7810,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parbhani+Pet+Clinic/@19.2538101,76.7909501,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018379183eb29:0x8adec87f08a875f0!8m2!3d19.2538101!4d76.7909501!16s%2Fg%2F11jzqpv1qy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "partani-hospital-parbhani",
@@ -7794,7 +7860,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Partani+hospital/@19.2607204,76.7729586,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01989656ade6b:0x2a5c02018a008488!8m2!3d19.2607204!4d76.7729586!16s%2Fg%2F11h4yxrrlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Partani+hospital/@19.2607204,76.7729586,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01989656ade6b:0x2a5c02018a008488!8m2!3d19.2607204!4d76.7729586!16s%2Fg%2F11h4yxrrlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7863,7 +7929,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Partani+hospital/@19.2607204,76.7729586,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01989656ade6b:0x2a5c02018a008488!8m2!3d19.2607204!4d76.7729586!16s%2Fg%2F11h4yxrrlh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patil-hospital-parbhani",
@@ -7911,7 +7978,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/PATIL+HOSPITAL/@19.2743433,76.7599209,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01761cb8c0a49:0xe26c7a29bd188092!8m2!3d19.2743433!4d76.7599209!16s%2Fg%2F11c1l4fz72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PATIL+HOSPITAL/@19.2743433,76.7599209,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01761cb8c0a49:0xe26c7a29bd188092!8m2!3d19.2743433!4d76.7599209!16s%2Fg%2F11c1l4fz72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7980,7 +8047,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PATIL+HOSPITAL/@19.2743433,76.7599209,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01761cb8c0a49:0xe26c7a29bd188092!8m2!3d19.2743433!4d76.7599209!16s%2Fg%2F11c1l4fz72?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "patil-hospital-parbhani",
@@ -8028,7 +8096,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Patil+Hospital/@19.2608643,76.7721524,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce477597b5:0x345b25cbeafdb5bf!8m2!3d19.2608643!4d76.7721524!16s%2Fg%2F1pp2xb4bb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Patil+Hospital/@19.2608643,76.7721524,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce477597b5:0x345b25cbeafdb5bf!8m2!3d19.2608643!4d76.7721524!16s%2Fg%2F1pp2xb4bb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8097,7 +8165,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Patil+Hospital/@19.2608643,76.7721524,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce477597b5:0x345b25cbeafdb5bf!8m2!3d19.2608643!4d76.7721524!16s%2Fg%2F1pp2xb4bb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pawar-ent-hospital-parbhani",
@@ -8145,7 +8214,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/PAWAR+ENT+HOSPITAL/@19.2632199,76.7694332,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d0169e15bf:0xfd701b74262940cf!8m2!3d19.2632199!4d76.7694332!16s%2Fg%2F11c2qmkc5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PAWAR+ENT+HOSPITAL/@19.2632199,76.7694332,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d0169e15bf:0xfd701b74262940cf!8m2!3d19.2632199!4d76.7694332!16s%2Fg%2F11c2qmkc5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8214,7 +8283,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PAWAR+ENT+HOSPITAL/@19.2632199,76.7694332,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d0169e15bf:0xfd701b74262940cf!8m2!3d19.2632199!4d76.7694332!16s%2Fg%2F11c2qmkc5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pmc-parbhani-medical-college-rp-hospital-pedgaon",
@@ -8262,7 +8332,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/PMC+Parbhani+Medical+College,+RP+Hospital/@19.2979041,76.6946977,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd011659860d2ff:0x6c38ba43bb8f6dd3!8m2!3d19.2979041!4d76.6946977!16s%2Fg%2F11vlh7j1_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PMC+Parbhani+Medical+College,+RP+Hospital/@19.2979041,76.6946977,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd011659860d2ff:0x6c38ba43bb8f6dd3!8m2!3d19.2979041!4d76.6946977!16s%2Fg%2F11vlh7j1_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8331,7 +8401,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PMC+Parbhani+Medical+College,+RP+Hospital/@19.2979041,76.6946977,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd011659860d2ff:0x6c38ba43bb8f6dd3!8m2!3d19.2979041!4d76.6946977!16s%2Fg%2F11vlh7j1_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "porwal-diagnostic-and-lithotripsy-centre-parbhani",
@@ -8380,7 +8451,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Porwal+Diagnostic+and+lithotripsy+Centre/@19.2625185,76.7688642,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d00482ef63:0xa444963ec05aa563!8m2!3d19.2625185!4d76.7688642!16s%2Fg%2F11bw5_pktn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Porwal+Diagnostic+and+lithotripsy+Centre/@19.2625185,76.7688642,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d00482ef63:0xa444963ec05aa563!8m2!3d19.2625185!4d76.7688642!16s%2Fg%2F11bw5_pktn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8449,7 +8520,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Porwal+Diagnostic+and+lithotripsy+Centre/@19.2625185,76.7688642,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d00482ef63:0xa444963ec05aa563!8m2!3d19.2625185!4d76.7688642!16s%2Fg%2F11bw5_pktn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pradnya-clinic-parbhani",
@@ -8497,7 +8569,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/PRADNYA+Clinic/@19.2716153,76.7763231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019dd5a0f8535:0xe21dfc1d86993288!8m2!3d19.2716153!4d76.7763231!16s%2Fg%2F11gkxc2_d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRADNYA+Clinic/@19.2716153,76.7763231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019dd5a0f8535:0xe21dfc1d86993288!8m2!3d19.2716153!4d76.7763231!16s%2Fg%2F11gkxc2_d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8563,10 +8635,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PRADNYA+Clinic/@19.2716153,76.7763231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019dd5a0f8535:0xe21dfc1d86993288!8m2!3d19.2716153!4d76.7763231!16s%2Fg%2F11gkxc2_d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prasad-hospital-maternity-and-level-lll-nicu-gavhane-chowk",
@@ -8614,7 +8687,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/PRASAD+HOSPITAL+Maternity+%26+Level+lll+NICU/@19.2626072,76.7691433,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d0157ffde9:0xe29ada90a2e908c1!8m2!3d19.2626072!4d76.7691433!16s%2Fg%2F11b8tx9jdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRASAD+HOSPITAL+Maternity+%26+Level+lll+NICU/@19.2626072,76.7691433,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d0157ffde9:0xe29ada90a2e908c1!8m2!3d19.2626072!4d76.7691433!16s%2Fg%2F11b8tx9jdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8680,10 +8753,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PRASAD+HOSPITAL+Maternity+%26+Level+lll+NICU/@19.2626072,76.7691433,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d0157ffde9:0xe29ada90a2e908c1!8m2!3d19.2626072!4d76.7691433!16s%2Fg%2F11b8tx9jdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pulp-dental-studio-clinic-best-dentist-near-me-in-parbhani-parbhani",
@@ -8732,7 +8806,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/PULP+DENTAL+STUDIO+CLINIC+%7C+Best+Dentist+Near+Me+in+Parbhani/@19.2631742,76.7808424,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f8ba87b6f7:0x5bc54cad33898ee1!8m2!3d19.2631742!4d76.7808424!16s%2Fg%2F11gxrc7b_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PULP+DENTAL+STUDIO+CLINIC+%7C+Best+Dentist+Near+Me+in+Parbhani/@19.2631742,76.7808424,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f8ba87b6f7:0x5bc54cad33898ee1!8m2!3d19.2631742!4d76.7808424!16s%2Fg%2F11gxrc7b_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8798,10 +8872,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PULP+DENTAL+STUDIO+CLINIC+%7C+Best+Dentist+Near+Me+in+Parbhani/@19.2631742,76.7808424,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f8ba87b6f7:0x5bc54cad33898ee1!8m2!3d19.2631742!4d76.7808424!16s%2Fg%2F11gxrc7b_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rahat-hospital-parbhani",
@@ -8849,7 +8924,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Rahat+hospital/@19.2734749,76.7509419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019dfba581823:0xc5aa766a4dfb3618!8m2!3d19.2734749!4d76.7509419!16s%2Fg%2F11b6p9k_pg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rahat+hospital/@19.2734749,76.7509419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019dfba581823:0xc5aa766a4dfb3618!8m2!3d19.2734749!4d76.7509419!16s%2Fg%2F11b6p9k_pg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8918,7 +8993,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rahat+hospital/@19.2734749,76.7509419,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019dfba581823:0xc5aa766a4dfb3618!8m2!3d19.2734749!4d76.7509419!16s%2Fg%2F11b6p9k_pg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ramdhave-ent-hospital-parbhani",
@@ -8966,7 +9042,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ramdhave+ENT+Hospital/@19.2603419,76.771408,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0197e1fc28349:0xb7813e1a818611e8!8m2!3d19.2603419!4d76.771408!16s%2Fg%2F11j2nrtf9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ramdhave+ENT+Hospital/@19.2603419,76.771408,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0197e1fc28349:0xb7813e1a818611e8!8m2!3d19.2603419!4d76.771408!16s%2Fg%2F11j2nrtf9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9032,10 +9108,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ramdhave+ENT+Hospital/@19.2603419,76.771408,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0197e1fc28349:0xb7813e1a818611e8!8m2!3d19.2603419!4d76.771408!16s%2Fg%2F11j2nrtf9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rathod-hospital-parbhani",
@@ -9083,7 +9160,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rathod+Hospital/data=!4m7!3m6!1s0x3bd01761dc531b39:0x5aa9a857a2c3c7d9!8m2!3d19.2737322!4d76.7609059!16s%2Fg%2F11csqh1m7s!19sChIJORtT3GEX0DsR2cfDoleoqVo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rathod+Hospital/data=!4m7!3m6!1s0x3bd01761dc531b39:0x5aa9a857a2c3c7d9!8m2!3d19.2737322!4d76.7609059!16s%2Fg%2F11csqh1m7s!19sChIJORtT3GEX0DsR2cfDoleoqVo?authuser=0&hl=en&rclk=1"
@@ -9149,10 +9226,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rathod+Hospital/data=!4m7!3m6!1s0x3bd01761dc531b39:0x5aa9a857a2c3c7d9!8m2!3d19.2737322!4d76.7609059!16s%2Fg%2F11csqh1m7s!19sChIJORtT3GEX0DsR2cfDoleoqVo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "renge-chest-hospital-parbhani",
@@ -9201,7 +9279,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Renge+Chest+Hospital/@19.2640763,76.7708583,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cd4e959267:0x143e61a0500492b4!8m2!3d19.2640763!4d76.7708583!16s%2Fg%2F11rf8zvsf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renge+Chest+Hospital/@19.2640763,76.7708583,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cd4e959267:0x143e61a0500492b4!8m2!3d19.2640763!4d76.7708583!16s%2Fg%2F11rf8zvsf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9270,7 +9348,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Renge+Chest+Hospital/@19.2640763,76.7708583,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cd4e959267:0x143e61a0500492b4!8m2!3d19.2640763!4d76.7708583!16s%2Fg%2F11rf8zvsf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rukmini-clinic-parbhani",
@@ -9318,7 +9397,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Rukmini+Clinic/@19.2603424,76.7734855,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce7a2298eb:0x5eb19b3e2d620cfc!8m2!3d19.2603424!4d76.7734855!16s%2Fg%2F11ddxd99ml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rukmini+Clinic/@19.2603424,76.7734855,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce7a2298eb:0x5eb19b3e2d620cfc!8m2!3d19.2603424!4d76.7734855!16s%2Fg%2F11ddxd99ml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9387,7 +9466,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rukmini+Clinic/@19.2603424,76.7734855,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce7a2298eb:0x5eb19b3e2d620cfc!8m2!3d19.2603424!4d76.7734855!16s%2Fg%2F11ddxd99ml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rukmini-physiotherapy-and-rehabilitation-centre-parbhani",
@@ -9435,7 +9515,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rukmini+physiotherapy+and+rehabilitation+centre/@19.2638942,76.7681034,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019006eef6f55:0x62e7b81315839ae9!8m2!3d19.2638942!4d76.7681034!16s%2Fg%2F11y7kv5mvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rukmini+physiotherapy+and+rehabilitation+centre/@19.2638942,76.7681034,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019006eef6f55:0x62e7b81315839ae9!8m2!3d19.2638942!4d76.7681034!16s%2Fg%2F11y7kv5mvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9501,10 +9581,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rukmini+physiotherapy+and+rehabilitation+centre/@19.2638942,76.7681034,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019006eef6f55:0x62e7b81315839ae9!8m2!3d19.2638942!4d76.7681034!16s%2Fg%2F11y7kv5mvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sabu-hospital-parbhani-parbhani",
@@ -9552,7 +9633,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Sabu+Hospital+Parbhani/@19.2618847,76.780071,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f7f3bed243:0x5ccb8b15bf048c97!8m2!3d19.2618847!4d76.780071!16s%2Fg%2F11ghs530lz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sabu+Hospital+Parbhani/@19.2618847,76.780071,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f7f3bed243:0x5ccb8b15bf048c97!8m2!3d19.2618847!4d76.780071!16s%2Fg%2F11ghs530lz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9621,7 +9702,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sabu+Hospital+Parbhani/@19.2618847,76.780071,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f7f3bed243:0x5ccb8b15bf048c97!8m2!3d19.2618847!4d76.780071!16s%2Fg%2F11ghs530lz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sahyadri-hospital-parbhani-parbhani",
@@ -9669,7 +9751,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Sahyadri+Hospital+Parbhani/@19.258699,76.7813254,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01832df0023cf:0xcd7ee5ffeae50283!8m2!3d19.258699!4d76.7813254!16s%2Fg%2F11g88txsry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahyadri+Hospital+Parbhani/@19.258699,76.7813254,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01832df0023cf:0xcd7ee5ffeae50283!8m2!3d19.258699!4d76.7813254!16s%2Fg%2F11g88txsry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9738,7 +9820,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sahyadri+Hospital+Parbhani/@19.258699,76.7813254,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01832df0023cf:0xcd7ee5ffeae50283!8m2!3d19.258699!4d76.7813254!16s%2Fg%2F11g88txsry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samad-dental-care-parbhani",
@@ -9786,7 +9869,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Samad+Dental+Care/@19.2599237,76.7684023,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01943779335db:0xa78f29a00613fc0c!8m2!3d19.2599237!4d76.7684023!16s%2Fg%2F11h90qfr93?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samad+Dental+Care/@19.2599237,76.7684023,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01943779335db:0xa78f29a00613fc0c!8m2!3d19.2599237!4d76.7684023!16s%2Fg%2F11h90qfr93?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9852,10 +9935,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samad+Dental+Care/@19.2599237,76.7684023,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01943779335db:0xa78f29a00613fc0c!8m2!3d19.2599237!4d76.7684023!16s%2Fg%2F11h90qfr93?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sangave-hospital-and-kaveri-pathology-lab-parbhani",
@@ -9903,7 +9987,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sangave+Hospital+%26+Kaveri+Pathology+Lab./@19.2738578,76.760916,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01761dcc83949:0x59f830d6de1bc38b!8m2!3d19.2738578!4d76.760916!16s%2Fg%2F1ptxmrhv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sangave+Hospital+%26+Kaveri+Pathology+Lab./@19.2738578,76.760916,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01761dcc83949:0x59f830d6de1bc38b!8m2!3d19.2738578!4d76.760916!16s%2Fg%2F1ptxmrhv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9969,10 +10053,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sangave+Hospital+%26+Kaveri+Pathology+Lab./@19.2738578,76.760916,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01761dcc83949:0x59f830d6de1bc38b!8m2!3d19.2738578!4d76.760916!16s%2Fg%2F1ptxmrhv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sangle-hospital-parbhani-parbhani",
@@ -10020,7 +10105,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sangle+Hospital,+Parbhani/@19.2760878,76.7604064,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01786dc8e99a9:0x315030ed09e2575e!8m2!3d19.2760878!4d76.7604064!16s%2Fg%2F11l6xgsfvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sangle+Hospital,+Parbhani/@19.2760878,76.7604064,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01786dc8e99a9:0x315030ed09e2575e!8m2!3d19.2760878!4d76.7604064!16s%2Fg%2F11l6xgsfvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10089,7 +10174,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sangle+Hospital,+Parbhani/@19.2760878,76.7604064,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01786dc8e99a9:0x315030ed09e2575e!8m2!3d19.2760878!4d76.7604064!16s%2Fg%2F11l6xgsfvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saraswati-dhanwantari-dental-college-and-hospital-parbhani-parbhani",
@@ -10139,7 +10225,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Saraswati+Dhanwantari+Dental+College+%26+Hospital+Parbhani/@19.2900747,76.735539,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0174b7f200e89:0x1edaa6b72144c0ad!8m2!3d19.2900747!4d76.735539!16s%2Fm%2F0kfyhqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saraswati+Dhanwantari+Dental+College+%26+Hospital+Parbhani/@19.2900747,76.735539,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0174b7f200e89:0x1edaa6b72144c0ad!8m2!3d19.2900747!4d76.735539!16s%2Fm%2F0kfyhqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10208,7 +10294,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saraswati+Dhanwantari+Dental+College+%26+Hospital+Parbhani/@19.2900747,76.735539,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0174b7f200e89:0x1edaa6b72144c0ad!8m2!3d19.2900747!4d76.735539!16s%2Fm%2F0kfyhqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sdmesoc-foundation-s-ayurvedic-hospital-parbhani",
@@ -10257,7 +10344,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SDMESOC+Foundation%27s+Ayurvedic+Hospital/data=!4m7!3m6!1s0x3bd0174b9d1d6137:0xa6dd92dffe00d200!8m2!3d19.2896848!4d76.7366959!16s%2Fg%2F11c3_9m3qj!19sChIJN2EdnUsX0DsRANIA_t-S3aY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SDMESOC+Foundation%27s+Ayurvedic+Hospital/data=!4m7!3m6!1s0x3bd0174b9d1d6137:0xa6dd92dffe00d200!8m2!3d19.2896848!4d76.7366959!16s%2Fg%2F11c3_9m3qj!19sChIJN2EdnUsX0DsRANIA_t-S3aY?authuser=0&hl=en&rclk=1"
@@ -10326,7 +10413,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SDMESOC+Foundation%27s+Ayurvedic+Hospital/data=!4m7!3m6!1s0x3bd0174b9d1d6137:0xa6dd92dffe00d200!8m2!3d19.2896848!4d76.7366959!16s%2Fg%2F11c3_9m3qj!19sChIJN2EdnUsX0DsRANIA_t-S3aY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shantoday-dental-clinic-parbhani",
@@ -10374,7 +10462,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/shantoday+dental+clinic/@19.2545875,76.789618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019e2cf4ce3bd:0xf7f32ac5a1e9bd4c!8m2!3d19.2545875!4d76.789618!16s%2Fg%2F11tsmz4sfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/shantoday+dental+clinic/@19.2545875,76.789618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019e2cf4ce3bd:0xf7f32ac5a1e9bd4c!8m2!3d19.2545875!4d76.789618!16s%2Fg%2F11tsmz4sfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10440,10 +10528,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/shantoday+dental+clinic/@19.2545875,76.789618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019e2cf4ce3bd:0xf7f32ac5a1e9bd4c!8m2!3d19.2545875!4d76.789618!16s%2Fg%2F11tsmz4sfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivdev-ayurveda-and-panchakarma-clinic-parbhani",
@@ -10491,7 +10580,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shivdev+Ayurveda+%26+Panchakarma+Clinic/@19.2705408,76.770866,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d704094241:0xa04f0555822efa84!8m2!3d19.2705408!4d76.770866!16s%2Fg%2F11fxvrxcc8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivdev+Ayurveda+%26+Panchakarma+Clinic/@19.2705408,76.770866,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d704094241:0xa04f0555822efa84!8m2!3d19.2705408!4d76.770866!16s%2Fg%2F11fxvrxcc8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10560,7 +10649,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivdev+Ayurveda+%26+Panchakarma+Clinic/@19.2705408,76.770866,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d704094241:0xa04f0555822efa84!8m2!3d19.2705408!4d76.770866!16s%2Fg%2F11fxvrxcc8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-dental-clinic-and-implant-center-best-dentist-in-parbhani-parbhani",
@@ -10609,7 +10699,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Dental+Clinic+And+Implant+Center+-+Best+Dentist+in+%E0%A4%AA%E0%A4%B0%E0%A4%AD%E0%A4%A3%E0%A5%80+-+Parbhani/@19.2603116,76.7806577,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0193cd2a8f7e3:0x11ba06bee856a09a!8m2!3d19.2603116!4d76.7806577!16s%2Fg%2F11w4g31n2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Dental+Clinic+And+Implant+Center+-+Best+Dentist+in+%E0%A4%AA%E0%A4%B0%E0%A4%AD%E0%A4%A3%E0%A5%80+-+Parbhani/@19.2603116,76.7806577,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0193cd2a8f7e3:0x11ba06bee856a09a!8m2!3d19.2603116!4d76.7806577!16s%2Fg%2F11w4g31n2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10678,7 +10768,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Dental+Clinic+And+Implant+Center+-+Best+Dentist+in+%E0%A4%AA%E0%A4%B0%E0%A4%AD%E0%A4%A3%E0%A5%80+-+Parbhani/@19.2603116,76.7806577,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0193cd2a8f7e3:0x11ba06bee856a09a!8m2!3d19.2603116!4d76.7806577!16s%2Fg%2F11w4g31n2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-diagnostic-center-parbhani",
@@ -10727,7 +10818,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Diagnostic+Center/@19.2632531,76.7692838,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0194d190f248f:0x4894f6cfe2fa7455!8m2!3d19.2632531!4d76.7692838!16s%2Fg%2F11ptsc6dnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Diagnostic+Center/@19.2632531,76.7692838,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0194d190f248f:0x4894f6cfe2fa7455!8m2!3d19.2632531!4d76.7692838!16s%2Fg%2F11ptsc6dnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10796,7 +10887,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Diagnostic+Center/@19.2632531,76.7692838,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0194d190f248f:0x4894f6cfe2fa7455!8m2!3d19.2632531!4d76.7692838!16s%2Fg%2F11ptsc6dnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-hari-ayurved-chikitsalaya-and-panchakarma-centre-parbhani-parbhani",
@@ -10844,7 +10936,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Hari+Ayurved+Chikitsalaya+and+Panchakarma+Centre,+Parbhani/@19.2602055,76.7726565,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0190ea541a531:0xeccf0f6cf5c488b!8m2!3d19.2602055!4d76.7726565!16s%2Fg%2F11yjsf3_gj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Hari+Ayurved+Chikitsalaya+and+Panchakarma+Centre,+Parbhani/@19.2602055,76.7726565,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0190ea541a531:0xeccf0f6cf5c488b!8m2!3d19.2602055!4d76.7726565!16s%2Fg%2F11yjsf3_gj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10913,7 +11005,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Hari+Ayurved+Chikitsalaya+and+Panchakarma+Centre,+Parbhani/@19.2602055,76.7726565,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0190ea541a531:0xeccf0f6cf5c488b!8m2!3d19.2602055!4d76.7726565!16s%2Fg%2F11yjsf3_gj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-siddhivinayak-bal-rugnalaya-and-critical-care-centre-parbhani",
@@ -10961,7 +11054,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Siddhivinayak+Bal+Rugnalaya+%26+Critical+Care+Centre/@19.2614981,76.7715551,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce323af83f:0x59b14460b898c1af!8m2!3d19.2614981!4d76.7715551!16s%2Fg%2F11b6svylgp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Siddhivinayak+Bal+Rugnalaya+%26+Critical+Care+Centre/@19.2614981,76.7715551,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce323af83f:0x59b14460b898c1af!8m2!3d19.2614981!4d76.7715551!16s%2Fg%2F11b6svylgp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11030,7 +11123,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Siddhivinayak+Bal+Rugnalaya+%26+Critical+Care+Centre/@19.2614981,76.7715551,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ce323af83f:0x59b14460b898c1af!8m2!3d19.2614981!4d76.7715551!16s%2Fg%2F11b6svylgp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smart-hair-transplant-and-cosmetic-clinic-parbhani",
@@ -11079,7 +11173,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SMART+HAIR+TRANSPLANT+%26+COSMETIC+CLINIC/@19.2528014,76.8013775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ed20f4dd6f:0x480eb91e16ac280a!8m2!3d19.2528014!4d76.8013775!16s%2Fg%2F11y22skmqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMART+HAIR+TRANSPLANT+%26+COSMETIC+CLINIC/@19.2528014,76.8013775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ed20f4dd6f:0x480eb91e16ac280a!8m2!3d19.2528014!4d76.8013775!16s%2Fg%2F11y22skmqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11148,7 +11242,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SMART+HAIR+TRANSPLANT+%26+COSMETIC+CLINIC/@19.2528014,76.8013775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019ed20f4dd6f:0x480eb91e16ac280a!8m2!3d19.2528014!4d76.8013775!16s%2Fg%2F11y22skmqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sncu-parbhani-parbhani",
@@ -11196,7 +11291,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/SNCU+Parbhani/@19.2693752,76.7588191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019a092a3fe69:0x29c7182208db9505!8m2!3d19.2693752!4d76.7588191!16s%2Fg%2F11kk85fxdx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SNCU+Parbhani/@19.2693752,76.7588191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019a092a3fe69:0x29c7182208db9505!8m2!3d19.2693752!4d76.7588191!16s%2Fg%2F11kk85fxdx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11265,7 +11360,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SNCU+Parbhani/@19.2693752,76.7588191,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019a092a3fe69:0x29c7182208db9505!8m2!3d19.2693752!4d76.7588191!16s%2Fg%2F11kk85fxdx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "solanke-hospital-and-maternity-home-parbhani",
@@ -11313,7 +11409,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Solanke+Hospital+And+Maternity+Home/@19.2619281,76.781036,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019000cfa8e21:0xb48999e6dcbe16d4!8m2!3d19.2619281!4d76.781036!16s%2Fg%2F11wpztqvyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Solanke+Hospital+And+Maternity+Home/@19.2619281,76.781036,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019000cfa8e21:0xb48999e6dcbe16d4!8m2!3d19.2619281!4d76.781036!16s%2Fg%2F11wpztqvyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11382,7 +11478,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Solanke+Hospital+And+Maternity+Home/@19.2619281,76.781036,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019000cfa8e21:0xb48999e6dcbe16d4!8m2!3d19.2619281!4d76.781036!16s%2Fg%2F11wpztqvyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "somani-netralay-and-retina-care-centre-parbhani",
@@ -11430,7 +11527,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Somani+Netralay+and+Retina+Care+Centre/@19.2610727,76.7718335,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019b96abebd73:0x80385c95fd3f712f!8m2!3d19.2610727!4d76.7718335!16s%2Fg%2F11w2jm0356?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Somani+Netralay+and+Retina+Care+Centre/@19.2610727,76.7718335,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019b96abebd73:0x80385c95fd3f712f!8m2!3d19.2610727!4d76.7718335!16s%2Fg%2F11w2jm0356?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11499,7 +11596,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Somani+Netralay+and+Retina+Care+Centre/@19.2610727,76.7718335,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019b96abebd73:0x80385c95fd3f712f!8m2!3d19.2610727!4d76.7718335!16s%2Fg%2F11w2jm0356?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spandan-hospital-parbhani",
@@ -11547,7 +11645,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Spandan+Hospital+,/@19.2599125,76.7805102,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183317635f51:0x9ba07101eb0f29a1!8m2!3d19.2599125!4d76.7805102!16s%2Fg%2F1tsjc3h0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spandan+Hospital+,/@19.2599125,76.7805102,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183317635f51:0x9ba07101eb0f29a1!8m2!3d19.2599125!4d76.7805102!16s%2Fg%2F1tsjc3h0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11616,7 +11714,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spandan+Hospital+,/@19.2599125,76.7805102,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0183317635f51:0x9ba07101eb0f29a1!8m2!3d19.2599125!4d76.7805102!16s%2Fg%2F1tsjc3h0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surwase-hospital-parbhani-parbhani",
@@ -11664,7 +11763,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Surwase+Hospital+Parbhani/@19.276833,76.7607989,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cda114d9f7:0xc9b946b4be23ff37!8m2!3d19.276833!4d76.7607989!16s%2Fg%2F11gdqqnpb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surwase+Hospital+Parbhani/@19.276833,76.7607989,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cda114d9f7:0xc9b946b4be23ff37!8m2!3d19.276833!4d76.7607989!16s%2Fg%2F11gdqqnpb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11730,10 +11829,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surwase+Hospital+Parbhani/@19.276833,76.7607989,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019cda114d9f7:0xc9b946b4be23ff37!8m2!3d19.276833!4d76.7607989!16s%2Fg%2F11gdqqnpb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surya-i-c-u-hospital-parbhani",
@@ -11781,7 +11881,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Surya+I.C.U.+Hospital/@19.2634594,76.7702733,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d030c46fcf:0x71147c19c8a093b2!8m2!3d19.2634594!4d76.7702733!16s%2Fg%2F1q62jyyy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+I.C.U.+Hospital/@19.2634594,76.7702733,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d030c46fcf:0x71147c19c8a093b2!8m2!3d19.2634594!4d76.7702733!16s%2Fg%2F1q62jyyy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11847,10 +11947,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surya+I.C.U.+Hospital/@19.2634594,76.7702733,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d030c46fcf:0x71147c19c8a093b2!8m2!3d19.2634594!4d76.7702733!16s%2Fg%2F1q62jyyy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swati-criticare-icu-hospital-best-critical-care-center-in-parbhani-best-icu-in-parbhani-best-vertigo-treatment-parbhani",
@@ -11898,7 +11999,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Swati+Criticare+Icu+Hospital+-+Best+Critical+Care+Center+in+Parbhani+%7C+Best+ICU+in+Parbhani+%7C+Best+Vertigo+treatment/@19.2594184,76.7815602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018331759b89d:0x86c86aea2665e868!8m2!3d19.2594184!4d76.7815602!16s%2Fg%2F11fzt2qnp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swati+Criticare+Icu+Hospital+-+Best+Critical+Care+Center+in+Parbhani+%7C+Best+ICU+in+Parbhani+%7C+Best+Vertigo+treatment/@19.2594184,76.7815602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018331759b89d:0x86c86aea2665e868!8m2!3d19.2594184!4d76.7815602!16s%2Fg%2F11fzt2qnp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11967,7 +12068,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swati+Criticare+Icu+Hospital+-+Best+Critical+Care+Center+in+Parbhani+%7C+Best+ICU+in+Parbhani+%7C+Best+Vertigo+treatment/@19.2594184,76.7815602,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018331759b89d:0x86c86aea2665e868!8m2!3d19.2594184!4d76.7815602!16s%2Fg%2F11fzt2qnp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swayam-clinic-and-laser-center-parbhani",
@@ -12015,7 +12117,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Swayam+Clinic+AND+LASER+CENTER/@19.2626132,76.7703575,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019b5a7fa0bf3:0x82bb9256346a0d98!8m2!3d19.2626132!4d76.7703575!16s%2Fg%2F11rw_qljyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swayam+Clinic+AND+LASER+CENTER/@19.2626132,76.7703575,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019b5a7fa0bf3:0x82bb9256346a0d98!8m2!3d19.2626132!4d76.7703575!16s%2Fg%2F11rw_qljyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12081,10 +12183,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swayam+Clinic+AND+LASER+CENTER/@19.2626132,76.7703575,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019b5a7fa0bf3:0x82bb9256346a0d98!8m2!3d19.2626132!4d76.7703575!16s%2Fg%2F11rw_qljyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tamboli-hospital-parbhani",
@@ -12132,7 +12235,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Tamboli+Hospital/@19.2661357,76.7789652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d3266d4d6b:0x5291496a08917d31!8m2!3d19.2661357!4d76.7789652!16s%2Fg%2F1hc25hf32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tamboli+Hospital/@19.2661357,76.7789652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d3266d4d6b:0x5291496a08917d31!8m2!3d19.2661357!4d76.7789652!16s%2Fg%2F1hc25hf32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12201,7 +12304,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tamboli+Hospital/@19.2661357,76.7789652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d3266d4d6b:0x5291496a08917d31!8m2!3d19.2661357!4d76.7789652!16s%2Fg%2F1hc25hf32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tambule-ent-clinic-parbhani",
@@ -12250,7 +12354,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Tambule+ENT+clinic/@19.2601026,76.7714386,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0196dfb0c1d01:0x39874e12b4396f64!8m2!3d19.2601026!4d76.7714386!16s%2Fg%2F11p737qcyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tambule+ENT+clinic/@19.2601026,76.7714386,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0196dfb0c1d01:0x39874e12b4396f64!8m2!3d19.2601026!4d76.7714386!16s%2Fg%2F11p737qcyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12316,10 +12420,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tambule+ENT+clinic/@19.2601026,76.7714386,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0196dfb0c1d01:0x39874e12b4396f64!8m2!3d19.2601026!4d76.7714386!16s%2Fg%2F11p737qcyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tejas-hospital-parbhani",
@@ -12367,7 +12472,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Tejas+Hospital/@19.2545438,76.7924746,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01838373acc5f:0xcb60a53c1926203a!8m2!3d19.2545438!4d76.7924746!16s%2Fg%2F11fx9bjddb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tejas+Hospital/@19.2545438,76.7924746,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01838373acc5f:0xcb60a53c1926203a!8m2!3d19.2545438!4d76.7924746!16s%2Fg%2F11fx9bjddb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12436,7 +12541,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tejas+Hospital/@19.2545438,76.7924746,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01838373acc5f:0xcb60a53c1926203a!8m2!3d19.2545438!4d76.7924746!16s%2Fg%2F11fx9bjddb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "varad-clinic-ahilyadevi-holkar-chowk-near-khandoba-mandir-parbhani-parbhani",
@@ -12484,7 +12590,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/VARAD+CLINIC,+AHILYADEVI+HOLKAR+CHOWK,+NEAR+KHANDOBA+MANDIR,+PARBHANI/@19.2688239,76.7775055,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01963c28e80a1:0xf1b36fa4421402bd!8m2!3d19.2688239!4d76.7775055!16s%2Fg%2F11vhgq088j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VARAD+CLINIC,+AHILYADEVI+HOLKAR+CHOWK,+NEAR+KHANDOBA+MANDIR,+PARBHANI/@19.2688239,76.7775055,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01963c28e80a1:0xf1b36fa4421402bd!8m2!3d19.2688239!4d76.7775055!16s%2Fg%2F11vhgq088j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12550,10 +12656,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VARAD+CLINIC,+AHILYADEVI+HOLKAR+CHOWK,+NEAR+KHANDOBA+MANDIR,+PARBHANI/@19.2688239,76.7775055,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01963c28e80a1:0xf1b36fa4421402bd!8m2!3d19.2688239!4d76.7775055!16s%2Fg%2F11vhgq088j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vasundhara-hospital-and-ivf-centre-parbhani",
@@ -12602,7 +12709,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Vasundhara+Hospital+and+IVF+Centre/data=!4m7!3m6!1s0x3bd01836a027117f:0xc93ea922c85ef144!8m2!3d19.260036!4d76.7726937!16s%2Fg%2F11cn96fsyv!19sChIJfxEnoDYY0DsRRPFeyCKpPsk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vasundhara+Hospital+and+IVF+Centre/data=!4m7!3m6!1s0x3bd01836a027117f:0xc93ea922c85ef144!8m2!3d19.260036!4d76.7726937!16s%2Fg%2F11cn96fsyv!19sChIJfxEnoDYY0DsRRPFeyCKpPsk?authuser=0&hl=en&rclk=1"
@@ -12671,7 +12778,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vasundhara+Hospital+and+IVF+Centre/data=!4m7!3m6!1s0x3bd01836a027117f:0xc93ea922c85ef144!8m2!3d19.260036!4d76.7726937!16s%2Fg%2F11cn96fsyv!19sChIJfxEnoDYY0DsRRPFeyCKpPsk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vatsalya-maternity-home-parbhani",
@@ -12719,7 +12827,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Vatsalya+Maternity+Home/@19.2560926,76.7845443,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0192581cd70c7:0x6e652a9587322b0!8m2!3d19.2560926!4d76.7845443!16s%2Fg%2F11h94fyypv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vatsalya+Maternity+Home/@19.2560926,76.7845443,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0192581cd70c7:0x6e652a9587322b0!8m2!3d19.2560926!4d76.7845443!16s%2Fg%2F11h94fyypv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12788,7 +12896,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vatsalya+Maternity+Home/@19.2560926,76.7845443,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0192581cd70c7:0x6e652a9587322b0!8m2!3d19.2560926!4d76.7845443!16s%2Fg%2F11h94fyypv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ved-dental-clinic-parbhani-best-dentist-in-parbhani-best-dental-clinic-in-parbhani-parbhani",
@@ -12836,7 +12945,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ved+dental+clinic+parbhani+%2F+Best+dentist+in+parbhani%2F+Best+dental+clinic+in+parbhani/@19.2589738,76.7728932,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0199c72c32291:0xb1f0f86aa63d6e92!8m2!3d19.2589738!4d76.7728932!16s%2Fg%2F11ldkn8n0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ved+dental+clinic+parbhani+%2F+Best+dentist+in+parbhani%2F+Best+dental+clinic+in+parbhani/@19.2589738,76.7728932,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0199c72c32291:0xb1f0f86aa63d6e92!8m2!3d19.2589738!4d76.7728932!16s%2Fg%2F11ldkn8n0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12902,10 +13011,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ved+dental+clinic+parbhani+%2F+Best+dentist+in+parbhani%2F+Best+dental+clinic+in+parbhani/@19.2589738,76.7728932,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0199c72c32291:0xb1f0f86aa63d6e92!8m2!3d19.2589738!4d76.7728932!16s%2Fg%2F11ldkn8n0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vithai-dental-clinic-and-oral-cancer-diagnostic-centere-parbhani",
@@ -12953,7 +13063,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/VITHAI+DENTAL+CLINIC+AND+ORAL+CANCER+DIAGNOSTIC+CENTERE/@19.2776369,76.7614026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0173296c2c2cf:0x861748ffc0c3466f!8m2!3d19.2776369!4d76.7614026!16s%2Fg%2F11s04bw2hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VITHAI+DENTAL+CLINIC+AND+ORAL+CANCER+DIAGNOSTIC+CENTERE/@19.2776369,76.7614026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0173296c2c2cf:0x861748ffc0c3466f!8m2!3d19.2776369!4d76.7614026!16s%2Fg%2F11s04bw2hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13019,10 +13129,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VITHAI+DENTAL+CLINIC+AND+ORAL+CANCER+DIAGNOSTIC+CENTERE/@19.2776369,76.7614026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0173296c2c2cf:0x861748ffc0c3466f!8m2!3d19.2776369!4d76.7614026!16s%2Fg%2F11s04bw2hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vithai-surgical-icu-and-trauma-center-parbhani",
@@ -13070,7 +13181,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Vithai+Surgical+ICU+%26+Trauma+Center/@19.2600182,76.7726858,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0190e2f8d5581:0xf10262822076422a!8m2!3d19.2600182!4d76.7726858!16s%2Fg%2F11fnxp6vr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vithai+Surgical+ICU+%26+Trauma+Center/@19.2600182,76.7726858,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0190e2f8d5581:0xf10262822076422a!8m2!3d19.2600182!4d76.7726858!16s%2Fg%2F11fnxp6vr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13139,7 +13250,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vithai+Surgical+ICU+%26+Trauma+Center/@19.2600182,76.7726858,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0190e2f8d5581:0xf10262822076422a!8m2!3d19.2600182!4d76.7726858!16s%2Fg%2F11fnxp6vr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vyankatesh-hospital-parbhani",
@@ -13187,7 +13299,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Vyankatesh+Hospital/@19.28007,76.7588186,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd017673cbfb1b3:0x9e047dde896b2fdc!8m2!3d19.28007!4d76.7588186!16s%2Fg%2F11c49m0x21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vyankatesh+Hospital/@19.28007,76.7588186,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd017673cbfb1b3:0x9e047dde896b2fdc!8m2!3d19.28007!4d76.7588186!16s%2Fg%2F11c49m0x21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13256,7 +13368,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vyankatesh+Hospital/@19.28007,76.7588186,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd017673cbfb1b3:0x9e047dde896b2fdc!8m2!3d19.28007!4d76.7588186!16s%2Fg%2F11c49m0x21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wagh-hospital-me-and-mummy-test-tube-baby-centre-parbhani",
@@ -13304,7 +13417,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Wagh+Hospital,Me+and+mummy+test+tube+baby+centre/@19.2760488,76.7614689,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0176198b841d3:0xb40adea3b09c3083!8m2!3d19.2760488!4d76.7614689!16s%2Fg%2F11f53h43b8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wagh+Hospital,Me+and+mummy+test+tube+baby+centre/@19.2760488,76.7614689,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0176198b841d3:0xb40adea3b09c3083!8m2!3d19.2760488!4d76.7614689!16s%2Fg%2F11f53h43b8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13370,10 +13483,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Wagh+Hospital,Me+and+mummy+test+tube+baby+centre/@19.2760488,76.7614689,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd0176198b841d3:0xb40adea3b09c3083!8m2!3d19.2760488!4d76.7614689!16s%2Fg%2F11f53h43b8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wankhede-bal-rugnalaya-parbhani",
@@ -13421,7 +13535,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/WANKHEDE+BAL+RUGNALAYA/@19.2632824,76.7704437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01997e56144dd:0x36b3cc8e7a48ef6e!8m2!3d19.2632824!4d76.7704437!16s%2Fg%2F11rr1bpz0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/WANKHEDE+BAL+RUGNALAYA/@19.2632824,76.7704437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01997e56144dd:0x36b3cc8e7a48ef6e!8m2!3d19.2632824!4d76.7704437!16s%2Fg%2F11rr1bpz0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13490,7 +13604,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/WANKHEDE+BAL+RUGNALAYA/@19.2632824,76.7704437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd01997e56144dd:0x36b3cc8e7a48ef6e!8m2!3d19.2632824!4d76.7704437!16s%2Fg%2F11rr1bpz0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wellness-forever-pharmacy-ambilwade-complex-near-union-bank-parbhani-parbhani",
@@ -13540,7 +13655,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Wellness+Forever+Pharmacy+-+Ambilwade+Complex,+Near+Union+Bank,+Parbhani/@19.2727697,76.7693194,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019482198cd05:0x744dec6e6e81af61!8m2!3d19.2727697!4d76.7693194!16s%2Fg%2F11t866zlp2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wellness+Forever+Pharmacy+-+Ambilwade+Complex,+Near+Union+Bank,+Parbhani/@19.2727697,76.7693194,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019482198cd05:0x744dec6e6e81af61!8m2!3d19.2727697!4d76.7693194!16s%2Fg%2F11t866zlp2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13609,7 +13724,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Wellness+Forever+Pharmacy+-+Ambilwade+Complex,+Near+Union+Bank,+Parbhani/@19.2727697,76.7693194,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019482198cd05:0x744dec6e6e81af61!8m2!3d19.2727697!4d76.7693194!16s%2Fg%2F11t866zlp2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "womens-hospital-parbhani-parbhani",
@@ -13658,7 +13774,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Womens+Hospital+parbhani/@19.2696808,76.7587545,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019002dc5f33b:0x4ede8abbab6d76a6!8m2!3d19.2696808!4d76.7587545!16s%2Fg%2F11vk5nsh7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Womens+Hospital+parbhani/@19.2696808,76.7587545,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019002dc5f33b:0x4ede8abbab6d76a6!8m2!3d19.2696808!4d76.7587545!16s%2Fg%2F11vk5nsh7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13727,7 +13843,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Womens+Hospital+parbhani/@19.2696808,76.7587545,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019002dc5f33b:0x4ede8abbab6d76a6!8m2!3d19.2696808!4d76.7587545!16s%2Fg%2F11vk5nsh7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "zarkar-hostpital-parbhani",
@@ -13773,7 +13890,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Zarkar+Hostpital/@19.2600811,76.7814094,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018331e484ce9:0x62ee33b1d01bdcf1!8m2!3d19.2600811!4d76.7814094!16s%2Fg%2F1tm8j0lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zarkar+Hostpital/@19.2600811,76.7814094,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018331e484ce9:0x62ee33b1d01bdcf1!8m2!3d19.2600811!4d76.7814094!16s%2Fg%2F1tm8j0lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13839,10 +13956,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zarkar+Hostpital/@19.2600811,76.7814094,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd018331e484ce9:0x62ee33b1d01bdcf1!8m2!3d19.2600811!4d76.7814094!16s%2Fg%2F1tm8j0lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "zikria-hospital-parbhani",
@@ -13890,7 +14008,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Zikria+Hospital/@19.2655866,76.7784536,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f894c56f9f:0xb36deea57b071dd3!8m2!3d19.2655866!4d76.7784536!16s%2Fg%2F11gtz32f3b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zikria+Hospital/@19.2655866,76.7784536,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f894c56f9f:0xb36deea57b071dd3!8m2!3d19.2655866!4d76.7784536!16s%2Fg%2F11gtz32f3b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13959,7 +14077,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zikria+Hospital/@19.2655866,76.7784536,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019f894c56f9f:0xb36deea57b071dd3!8m2!3d19.2655866!4d76.7784536!16s%2Fg%2F11gtz32f3b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "parbhani",
@@ -14005,7 +14124,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/%E0%A4%A4%E0%A5%87%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A5%80+%E0%A4%B9%E0%A5%8B%E0%A4%AE%E0%A4%BF%E0%A4%93%E0%A4%AA%E0%A5%85%E0%A4%A5%E0%A5%80%E0%A4%95+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@19.266205,76.7795682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d32b8a00c1:0xe2addb09f25d6237!8m2!3d19.266205!4d76.7795682!16s%2Fg%2F11v62w9slp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%E0%A4%A4%E0%A5%87%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A5%80+%E0%A4%B9%E0%A5%8B%E0%A4%AE%E0%A4%BF%E0%A4%93%E0%A4%AA%E0%A5%85%E0%A4%A5%E0%A5%80%E0%A4%95+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@19.266205,76.7795682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d32b8a00c1:0xe2addb09f25d6237!8m2!3d19.266205!4d76.7795682!16s%2Fg%2F11v62w9slp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14071,9 +14190,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%E0%A4%A4%E0%A5%87%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A5%80+%E0%A4%B9%E0%A5%8B%E0%A4%AE%E0%A4%BF%E0%A4%93%E0%A4%AA%E0%A5%85%E0%A4%A5%E0%A5%80%E0%A4%95+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@19.266205,76.7795682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd019d32b8a00c1:0xe2addb09f25d6237!8m2!3d19.266205!4d76.7795682!16s%2Fg%2F11v62w9slp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

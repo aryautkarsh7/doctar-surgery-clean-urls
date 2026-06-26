@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/A-one+dental+and+cosmetic+hospital,+NABH+accredited/data=!4m7!3m6!1s0x3973a3ecb972e9b9:0x58fd58de621d5cd0!8m2!3d27.2089789!4d77.5036758!16s%2Fg%2F11sjccxj7g!19sChIJuelyueyjczkR0FwdYt5Y_Vg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A-one+dental+and+cosmetic+hospital,+NABH+accredited/data=!4m7!3m6!1s0x3973a3ecb972e9b9:0x58fd58de621d5cd0!8m2!3d27.2089789!4d77.5036758!16s%2Fg%2F11sjccxj7g!19sChIJuelyueyjczkR0FwdYt5Y_Vg?authuser=0&hl=en&rclk=1"
@@ -111,10 +111,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A-one+dental+and+cosmetic+hospital,+NABH+accredited/data=!4m7!3m6!1s0x3973a3ecb972e9b9:0x58fd58de621d5cd0!8m2!3d27.2089789!4d77.5036758!16s%2Fg%2F11sjccxj7g!19sChIJuelyueyjczkR0FwdYt5Y_Vg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "apex-dental-hospital-dentist-orthodontic-centre-dental-clinic-and-implant-centre-bharatpur",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Apex+Dental+Hospital+-+Dentist,+Orthodontic+Centre,+Dental+Clinic+%26+Implant+Centre/data=!4m7!3m6!1s0x3973a3c12bd53919:0x4152ee609ee99860!8m2!3d27.2102497!4d77.4792802!16s%2Fg%2F11flgddk7p!19sChIJGTnVK8GjczkRYJjpnmDuUkE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Dental+Hospital+-+Dentist,+Orthodontic+Centre,+Dental+Clinic+%26+Implant+Centre/data=!4m7!3m6!1s0x3973a3c12bd53919:0x4152ee609ee99860!8m2!3d27.2102497!4d77.4792802!16s%2Fg%2F11flgddk7p!19sChIJGTnVK8GjczkRYJjpnmDuUkE?authuser=0&hl=en&rclk=1"
@@ -232,7 +233,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+Dental+Hospital+-+Dentist,+Orthodontic+Centre,+Dental+Clinic+%26+Implant+Centre/data=!4m7!3m6!1s0x3973a3c12bd53919:0x4152ee609ee99860!8m2!3d27.2102497!4d77.4792802!16s%2Fg%2F11flgddk7p!19sChIJGTnVK8GjczkRYJjpnmDuUkE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "arora-hospital-krishna-nagar-bharatpur-bharatpur",
@@ -281,7 +283,7 @@
       "Google rating 3.4",
       "10+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Arora+Hospital+Krishna+Nagar+Bharatpur/@27.217524,77.505824,17z/data=!3m1!4b1!4m6!3m5!1s0x3973a3063e370077:0x4bcb38a9cd7e6f5f!8m2!3d27.217524!4d77.505824!16s%2Fg%2F1hdztkcpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arora+Hospital+Krishna+Nagar+Bharatpur/@27.217524,77.505824,17z/data=!3m1!4b1!4m6!3m5!1s0x3973a3063e370077:0x4bcb38a9cd7e6f5f!8m2!3d27.217524!4d77.505824!16s%2Fg%2F1hdztkcpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -350,7 +352,8 @@
     "rating": 3.4,
     "reviews": 10,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arora+Hospital+Krishna+Nagar+Bharatpur/@27.217524,77.505824,17z/data=!3m1!4b1!4m6!3m5!1s0x3973a3063e370077:0x4bcb38a9cd7e6f5f!8m2!3d27.217524!4d77.505824!16s%2Fg%2F1hdztkcpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "asha-dental-care-home-bharatpur",
@@ -398,7 +401,7 @@
     "metrics": [
       "Google rating 2.5"
     ],
-    "image": "https://www.google.com/maps/place/Asha+Dental+Care+Home/data=!4m7!3m6!1s0x3973a3b199ce3483:0x70eed37b4dd00f57!8m2!3d27.2286005!4d77.4928101!16s%2Fg%2F11h9124bxx!19sChIJgzTOmbGjczkRVw_QTXvT7nA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Asha+Dental+Care+Home/data=!4m7!3m6!1s0x3973a3b199ce3483:0x70eed37b4dd00f57!8m2!3d27.2286005!4d77.4928101!16s%2Fg%2F11h9124bxx!19sChIJgzTOmbGjczkRVw_QTXvT7nA?authuser=0&hl=en&rclk=1"
@@ -467,7 +470,8 @@
     "rating": 2.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Asha+Dental+Care+Home/data=!4m7!3m6!1s0x3973a3b199ce3483:0x70eed37b4dd00f57!8m2!3d27.2286005!4d77.4928101!16s%2Fg%2F11h9124bxx!19sChIJgzTOmbGjczkRVw_QTXvT7nA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ashok-hospital-bharatpur",
@@ -516,7 +520,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Ashok+Hospital/data=!4m7!3m6!1s0x3973a37afbcb2481:0x6990ce7f68123432!8m2!3d27.2102639!4d77.4793305!16s%2Fg%2F11gg6_80gl!19sChIJgSTL-3qjczkRMjQSaH_OkGk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashok+Hospital/data=!4m7!3m6!1s0x3973a37afbcb2481:0x6990ce7f68123432!8m2!3d27.2102639!4d77.4793305!16s%2Fg%2F11gg6_80gl!19sChIJgSTL-3qjczkRMjQSaH_OkGk?authuser=0&hl=en&rclk=1"
@@ -585,7 +589,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashok+Hospital/data=!4m7!3m6!1s0x3973a37afbcb2481:0x6990ce7f68123432!8m2!3d27.2102639!4d77.4793305!16s%2Fg%2F11gg6_80gl!19sChIJgSTL-3qjczkRMjQSaH_OkGk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bharadwaj-dental-clinic-bharatpur",
@@ -635,7 +640,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bharadwaj+Dental+Clinic/data=!4m7!3m6!1s0x3973a3a73fb04679:0xf478c707b7f646bf!8m2!3d27.2204252!4d77.5011893!16s%2Fg%2F11byz41pp5!19sChIJeUawP6ejczkRv0b2twfHePQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharadwaj+Dental+Clinic/data=!4m7!3m6!1s0x3973a3a73fb04679:0xf478c707b7f646bf!8m2!3d27.2204252!4d77.5011893!16s%2Fg%2F11byz41pp5!19sChIJeUawP6ejczkRv0b2twfHePQ?authuser=0&hl=en&rclk=1"
@@ -701,10 +706,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bharadwaj+Dental+Clinic/data=!4m7!3m6!1s0x3973a3a73fb04679:0xf478c707b7f646bf!8m2!3d27.2204252!4d77.5011893!16s%2Fg%2F11byz41pp5!19sChIJeUawP6ejczkRv0b2twfHePQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "cancer-hospital-bharatpur",
@@ -752,7 +758,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Cancer+Hospital/data=!4m7!3m6!1s0x3973a37bd4504ea3:0x231197520891bee6!8m2!3d27.2174057!4d77.4677596!16s%2Fg%2F11c1qn42x3!19sChIJo05Q1HujczkR5r6RCFKXESM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cancer+Hospital/data=!4m7!3m6!1s0x3973a37bd4504ea3:0x231197520891bee6!8m2!3d27.2174057!4d77.4677596!16s%2Fg%2F11c1qn42x3!19sChIJo05Q1HujczkR5r6RCFKXESM?authuser=0&hl=en&rclk=1"
@@ -818,10 +824,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cancer+Hospital/data=!4m7!3m6!1s0x3973a37bd4504ea3:0x231197520891bee6!8m2!3d27.2174057!4d77.4677596!16s%2Fg%2F11c1qn42x3!19sChIJo05Q1HujczkR5r6RCFKXESM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chaitanya-dental-and-facial-trauma-clinic-bharatpur",
@@ -869,7 +876,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Chaitanya+Dental+And+Facial+Trauma+Clinic/data=!4m7!3m6!1s0x3973a3313ba5fe65:0x93cef340ce043261!8m2!3d27.21934!4d77.50611!16s%2Fg%2F11fd6c_71_!19sChIJZf6lOzGjczkRYTIEzkDzzpM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaitanya+Dental+And+Facial+Trauma+Clinic/data=!4m7!3m6!1s0x3973a3313ba5fe65:0x93cef340ce043261!8m2!3d27.21934!4d77.50611!16s%2Fg%2F11fd6c_71_!19sChIJZf6lOzGjczkRYTIEzkDzzpM?authuser=0&hl=en&rclk=1"
@@ -938,7 +945,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chaitanya+Dental+And+Facial+Trauma+Clinic/data=!4m7!3m6!1s0x3973a3313ba5fe65:0x93cef340ce043261!8m2!3d27.21934!4d77.50611!16s%2Fg%2F11fd6c_71_!19sChIJZf6lOzGjczkRYTIEzkDzzpM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chaudhary-hospital-bharatpur",
@@ -987,7 +995,7 @@
       "Google rating 4.7",
       "10+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/CHAUDHARY+HOSPITAL/data=!4m7!3m6!1s0x3973a34416693a23:0x898062d2f5332305!8m2!3d27.2024479!4d77.5176996!16s%2Fg%2F11ry0n8bzg!19sChIJIzppFkSjczkRBSMz9dJigIk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CHAUDHARY+HOSPITAL/data=!4m7!3m6!1s0x3973a34416693a23:0x898062d2f5332305!8m2!3d27.2024479!4d77.5176996!16s%2Fg%2F11ry0n8bzg!19sChIJIzppFkSjczkRBSMz9dJigIk?authuser=0&hl=en&rclk=1"
@@ -1056,7 +1064,8 @@
     "rating": 4.7,
     "reviews": 10,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CHAUDHARY+HOSPITAL/data=!4m7!3m6!1s0x3973a34416693a23:0x898062d2f5332305!8m2!3d27.2024479!4d77.5176996!16s%2Fg%2F11ry0n8bzg!19sChIJIzppFkSjczkRBSMz9dJigIk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "city-hospital-bharatpur",
@@ -1104,7 +1113,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/City+Hospital/data=!4m7!3m6!1s0x3973a3aa0d544713:0xabd2af9ba1b864bd!8m2!3d27.2180297!4d77.5061617!16s%2Fg%2F11r8t4pdch!19sChIJE0dUDaqjczkRvWS4oZuv0qs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Hospital/data=!4m7!3m6!1s0x3973a3aa0d544713:0xabd2af9ba1b864bd!8m2!3d27.2180297!4d77.5061617!16s%2Fg%2F11r8t4pdch!19sChIJE0dUDaqjczkRvWS4oZuv0qs?authuser=0&hl=en&rclk=1"
@@ -1170,10 +1179,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Hospital/data=!4m7!3m6!1s0x3973a3aa0d544713:0xabd2af9ba1b864bd!8m2!3d27.2180297!4d77.5061617!16s%2Fg%2F11r8t4pdch!19sChIJE0dUDaqjczkRvWS4oZuv0qs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "deshwar-hospital-fracture-and-eye-surgery-center-for-arthroscopy-ligament-surgery-joint-replacement-ilizarov-lrs-surgery-bharatpur",
@@ -1222,7 +1232,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Deshwar+Hospital+Fracture+and+Eye+Surgery+Center+for+Arthroscopy+Ligament+Surgery,+Joint+Replacement+Ilizarov+LRS+Surgery/data=!4m7!3m6!1s0x3973a304613fc065:0x58ab7f02f47222eb!8m2!3d27.2137427!4d77.5089049!16s%2Fg%2F11c2nh7z3j!19sChIJZcA_YQSjczkR6yJy9AJ_q1g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deshwar+Hospital+Fracture+and+Eye+Surgery+Center+for+Arthroscopy+Ligament+Surgery,+Joint+Replacement+Ilizarov+LRS+Surgery/data=!4m7!3m6!1s0x3973a304613fc065:0x58ab7f02f47222eb!8m2!3d27.2137427!4d77.5089049!16s%2Fg%2F11c2nh7z3j!19sChIJZcA_YQSjczkR6yJy9AJ_q1g?authuser=0&hl=en&rclk=1"
@@ -1291,7 +1301,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deshwar+Hospital+Fracture+and+Eye+Surgery+Center+for+Arthroscopy+Ligament+Surgery,+Joint+Replacement+Ilizarov+LRS+Surgery/data=!4m7!3m6!1s0x3973a304613fc065:0x58ab7f02f47222eb!8m2!3d27.2137427!4d77.5089049!16s%2Fg%2F11c2nh7z3j!19sChIJZcA_YQSjczkR6yJy9AJ_q1g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "garg-dental-clinic-and-trauma-hospital-best-dental-clinic-bharatpur",
@@ -1340,7 +1351,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Garg+Dental+Clinic+and+Trauma+Hospital-+Best+Dental+Clinic/data=!4m7!3m6!1s0x3973a3b75f59bf01:0x39aaa2be14d0c67c!8m2!3d27.2269924!4d77.4777493!16s%2Fg%2F11hz0k2fdl!19sChIJAb9ZX7ejczkRfMbQFL6iqjk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Garg+Dental+Clinic+and+Trauma+Hospital-+Best+Dental+Clinic/data=!4m7!3m6!1s0x3973a3b75f59bf01:0x39aaa2be14d0c67c!8m2!3d27.2269924!4d77.4777493!16s%2Fg%2F11hz0k2fdl!19sChIJAb9ZX7ejczkRfMbQFL6iqjk?authuser=0&hl=en&rclk=1"
@@ -1406,10 +1417,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Garg+Dental+Clinic+and+Trauma+Hospital-+Best+Dental+Clinic/data=!4m7!3m6!1s0x3973a3b75f59bf01:0x39aaa2be14d0c67c!8m2!3d27.2269924!4d77.4777493!16s%2Fg%2F11hz0k2fdl!19sChIJAb9ZX7ejczkRfMbQFL6iqjk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gayatri-dental-hospital-kali-ki-bagichi-bharatpur-bharatpur",
@@ -1457,7 +1469,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gayatri+Dental+Hospital,+Kali+ki+bagichi+Bharatpur/data=!4m7!3m6!1s0x3973a3fc6f1d597b:0xf0e9c49255177290!8m2!3d27.2073975!4d77.4946894!16s%2Fg%2F11yhxqd7j7!19sChIJe1kdb_yjczkRkHIXVZLE6fA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gayatri+Dental+Hospital,+Kali+ki+bagichi+Bharatpur/data=!4m7!3m6!1s0x3973a3fc6f1d597b:0xf0e9c49255177290!8m2!3d27.2073975!4d77.4946894!16s%2Fg%2F11yhxqd7j7!19sChIJe1kdb_yjczkRkHIXVZLE6fA?authuser=0&hl=en&rclk=1"
@@ -1523,10 +1535,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gayatri+Dental+Hospital,+Kali+ki+bagichi+Bharatpur/data=!4m7!3m6!1s0x3973a3fc6f1d597b:0xf0e9c49255177290!8m2!3d27.2073975!4d77.4946894!16s%2Fg%2F11yhxqd7j7!19sChIJe1kdb_yjczkRkHIXVZLE6fA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "goyal-dental-care-bharatpur",
@@ -1574,7 +1587,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Goyal+Dental+Care/data=!4m7!3m6!1s0x3973a371094999ab:0x952be227aeac9ac9!8m2!3d27.2116956!4d77.4855337!16s%2Fg%2F11csb0lqyp!19sChIJq5lJCXGjczkRyZqsrifiK5U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goyal+Dental+Care/data=!4m7!3m6!1s0x3973a371094999ab:0x952be227aeac9ac9!8m2!3d27.2116956!4d77.4855337!16s%2Fg%2F11csb0lqyp!19sChIJq5lJCXGjczkRyZqsrifiK5U?authuser=0&hl=en&rclk=1"
@@ -1643,7 +1656,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goyal+Dental+Care/data=!4m7!3m6!1s0x3973a371094999ab:0x952be227aeac9ac9!8m2!3d27.2116956!4d77.4855337!16s%2Fg%2F11csb0lqyp!19sChIJq5lJCXGjczkRyZqsrifiK5U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hariom-dental-health-care-bharatpur",
@@ -1691,7 +1705,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Hariom+dental+health+care/data=!4m7!3m6!1s0x3973a34887451a27:0xcaa73287fbae1a89!8m2!3d27.2102161!4d77.4813151!16s%2Fg%2F11f657cjdc!19sChIJJxpFh0ijczkRiRqu-4cyp8o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hariom+dental+health+care/data=!4m7!3m6!1s0x3973a34887451a27:0xcaa73287fbae1a89!8m2!3d27.2102161!4d77.4813151!16s%2Fg%2F11f657cjdc!19sChIJJxpFh0ijczkRiRqu-4cyp8o?authuser=0&hl=en&rclk=1"
@@ -1760,7 +1774,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hariom+dental+health+care/data=!4m7!3m6!1s0x3973a34887451a27:0xcaa73287fbae1a89!8m2!3d27.2102161!4d77.4813151!16s%2Fg%2F11f657cjdc!19sChIJJxpFh0ijczkRiRqu-4cyp8o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "healthassure-rigved-hospital-diagnostic-centre-bharatpur-imaging-and-diagnostics-blood-tests-and-ultrasound-bharatpur",
@@ -1810,7 +1825,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HealthAssure+-+Rigved+Hospital+%7C+Diagnostic+centre+Bharatpur%7C+Imaging+And+Diagnostics+%7C+Blood+Tests+%26+Ultrasound/data=!4m7!3m6!1s0x3973a3bbfd7206e7:0x1da56b1127e43ae0!8m2!3d27.2100272!4d77.4779081!16s%2Fg%2F11xkdc5gr0!19sChIJ5wZy_bujczkR4DrkJxFrpR0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HealthAssure+-+Rigved+Hospital+%7C+Diagnostic+centre+Bharatpur%7C+Imaging+And+Diagnostics+%7C+Blood+Tests+%26+Ultrasound/data=!4m7!3m6!1s0x3973a3bbfd7206e7:0x1da56b1127e43ae0!8m2!3d27.2100272!4d77.4779081!16s%2Fg%2F11xkdc5gr0!19sChIJ5wZy_bujczkR4DrkJxFrpR0?authuser=0&hl=en&rclk=1"
@@ -1876,10 +1891,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HealthAssure+-+Rigved+Hospital+%7C+Diagnostic+centre+Bharatpur%7C+Imaging+And+Diagnostics+%7C+Blood+Tests+%26+Ultrasound/data=!4m7!3m6!1s0x3973a3bbfd7206e7:0x1da56b1127e43ae0!8m2!3d27.2100272!4d77.4779081!16s%2Fg%2F11xkdc5gr0!19sChIJ5wZy_bujczkR4DrkJxFrpR0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "j-p-hospital-bharatpur",
@@ -1927,7 +1943,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/J+P+Hospital/data=!4m7!3m6!1s0x3973a363a2016f9d:0x7e92f9fd95c0a7c7!8m2!3d27.2270435!4d77.4904066!16s%2Fg%2F11kmpl31j6!19sChIJnW8BomOjczkRx6fAlf35kn4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J+P+Hospital/data=!4m7!3m6!1s0x3973a363a2016f9d:0x7e92f9fd95c0a7c7!8m2!3d27.2270435!4d77.4904066!16s%2Fg%2F11kmpl31j6!19sChIJnW8BomOjczkRx6fAlf35kn4?authuser=0&hl=en&rclk=1"
@@ -1996,7 +2012,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/J+P+Hospital/data=!4m7!3m6!1s0x3973a363a2016f9d:0x7e92f9fd95c0a7c7!8m2!3d27.2270435!4d77.4904066!16s%2Fg%2F11kmpl31j6!19sChIJnW8BomOjczkRx6fAlf35kn4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "janana-hospital-bharatpur-bharatpur",
@@ -2045,7 +2062,7 @@
       "Google rating 3.6",
       "6+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Janana+hospital,+Bharatpur/data=!4m7!3m6!1s0x3973a309699eb8dd:0x481768b2bb87700e!8m2!3d27.2182304!4d77.4993369!16s%2Fg%2F11c5sbl5n8!19sChIJ3bieaQmjczkRDnCHu7JoF0g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janana+hospital,+Bharatpur/data=!4m7!3m6!1s0x3973a309699eb8dd:0x481768b2bb87700e!8m2!3d27.2182304!4d77.4993369!16s%2Fg%2F11c5sbl5n8!19sChIJ3bieaQmjczkRDnCHu7JoF0g?authuser=0&hl=en&rclk=1"
@@ -2114,7 +2131,8 @@
     "rating": 3.6,
     "reviews": 6,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Janana+hospital,+Bharatpur/data=!4m7!3m6!1s0x3973a309699eb8dd:0x481768b2bb87700e!8m2!3d27.2182304!4d77.4993369!16s%2Fg%2F11c5sbl5n8!19sChIJ3bieaQmjczkRDnCHu7JoF0g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "janvi-dental-and-homeopathy-clinic-bharatpur",
@@ -2162,7 +2180,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Janvi+Dental+and+Homeopathy+Clinic/data=!4m7!3m6!1s0x3973a3f31fe5687d:0xa0051b466e76ad3!8m2!3d27.2269818!4d77.501261!16s%2Fg%2F11j_98s_qm!19sChIJfWjlH_OjczkR02rnZrRRAAo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janvi+Dental+and+Homeopathy+Clinic/data=!4m7!3m6!1s0x3973a3f31fe5687d:0xa0051b466e76ad3!8m2!3d27.2269818!4d77.501261!16s%2Fg%2F11j_98s_qm!19sChIJfWjlH_OjczkR02rnZrRRAAo?authuser=0&hl=en&rclk=1"
@@ -2228,10 +2246,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Janvi+Dental+and+Homeopathy+Clinic/data=!4m7!3m6!1s0x3973a3f31fe5687d:0xa0051b466e76ad3!8m2!3d27.2269818!4d77.501261!16s%2Fg%2F11j_98s_qm!19sChIJfWjlH_OjczkR02rnZrRRAAo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kaushik-dental-hospital-best-dental-clinic-best-dentist-best-dental-hospital-bharatpur",
@@ -2279,7 +2298,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Kaushik+Dental+Hospital+-+Best+Dental+Clinic+%7C+Best+Dentist+%7C+Best+Dental+hospital/data=!4m7!3m6!1s0x3973a30f3b7821cd:0x753749e4d947977f!8m2!3d27.2149232!4d77.5027798!16s%2Fg%2F11fyx64km0!19sChIJzSF4Ow-jczkRf5dH2eRJN3U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kaushik+Dental+Hospital+-+Best+Dental+Clinic+%7C+Best+Dentist+%7C+Best+Dental+hospital/data=!4m7!3m6!1s0x3973a30f3b7821cd:0x753749e4d947977f!8m2!3d27.2149232!4d77.5027798!16s%2Fg%2F11fyx64km0!19sChIJzSF4Ow-jczkRf5dH2eRJN3U?authuser=0&hl=en&rclk=1"
@@ -2348,7 +2367,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kaushik+Dental+Hospital+-+Best+Dental+Clinic+%7C+Best+Dentist+%7C+Best+Dental+hospital/data=!4m7!3m6!1s0x3973a30f3b7821cd:0x753749e4d947977f!8m2!3d27.2149232!4d77.5027798!16s%2Fg%2F11fyx64km0!19sChIJzSF4Ow-jczkRf5dH2eRJN3U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "looks-hair-studios-bharatpur",
@@ -2397,7 +2417,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/LOOKS+HAIR+STUDIOS/data=!4m7!3m6!1s0x3973a355f25ea583:0x4d1f677824ab1f31!8m2!3d27.2063008!4d77.5124301!16s%2Fg%2F11wh432xkv!19sChIJg6Ve8lWjczkRMR-rJHhnH00?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LOOKS+HAIR+STUDIOS/data=!4m7!3m6!1s0x3973a355f25ea583:0x4d1f677824ab1f31!8m2!3d27.2063008!4d77.5124301!16s%2Fg%2F11wh432xkv!19sChIJg6Ve8lWjczkRMR-rJHhnH00?authuser=0&hl=en&rclk=1"
@@ -2463,10 +2483,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LOOKS+HAIR+STUDIOS/data=!4m7!3m6!1s0x3973a355f25ea583:0x4d1f677824ab1f31!8m2!3d27.2063008!4d77.5124301!16s%2Fg%2F11wh432xkv!19sChIJg6Ve8lWjczkRMR-rJHhnH00?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "m-j-hospitals-pvt-ltd-bharatpur",
@@ -2514,7 +2535,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/M.J.+Hospitals+Pvt+Ltd/data=!4m7!3m6!1s0x3973a3a80e4d47cb:0x265b3f934d81e9f4!8m2!3d27.2228445!4d77.5050621!16s%2Fg%2F11bx8rjrqt!19sChIJy0dNDqijczkR9OmBTZM_WyY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.J.+Hospitals+Pvt+Ltd/data=!4m7!3m6!1s0x3973a3a80e4d47cb:0x265b3f934d81e9f4!8m2!3d27.2228445!4d77.5050621!16s%2Fg%2F11bx8rjrqt!19sChIJy0dNDqijczkR9OmBTZM_WyY?authuser=0&hl=en&rclk=1"
@@ -2583,7 +2604,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M.J.+Hospitals+Pvt+Ltd/data=!4m7!3m6!1s0x3973a3a80e4d47cb:0x265b3f934d81e9f4!8m2!3d27.2228445!4d77.5050621!16s%2Fg%2F11bx8rjrqt!19sChIJy0dNDqijczkR9OmBTZM_WyY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "m-s-dental-orthodontic-and-implant-clinic-best-dental-clinic-best-orthodontist-best-dental-implant-clinic-in-bharatpur-bharatpur",
@@ -2632,7 +2654,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/M.S.Dental+orthodontic+and+implant+clinic+-+Best+Dental+Clinic+%7C+Best+Orthodontist+%7C+Best+Dental+Implant+Clinic+in+Bharatpur/data=!4m7!3m6!1s0x3973a313f1c6caa3:0x6d2034c476f5b88d!8m2!3d27.2046072!4d77.4980259!16s%2Fg%2F11bzrp6q6n!19sChIJo8rG8ROjczkRjbj1dsQ0IG0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.S.Dental+orthodontic+and+implant+clinic+-+Best+Dental+Clinic+%7C+Best+Orthodontist+%7C+Best+Dental+Implant+Clinic+in+Bharatpur/data=!4m7!3m6!1s0x3973a313f1c6caa3:0x6d2034c476f5b88d!8m2!3d27.2046072!4d77.4980259!16s%2Fg%2F11bzrp6q6n!19sChIJo8rG8ROjczkRjbj1dsQ0IG0?authuser=0&hl=en&rclk=1"
@@ -2701,7 +2723,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M.S.Dental+orthodontic+and+implant+clinic+-+Best+Dental+Clinic+%7C+Best+Orthodontist+%7C+Best+Dental+Implant+Clinic+in+Bharatpur/data=!4m7!3m6!1s0x3973a313f1c6caa3:0x6d2034c476f5b88d!8m2!3d27.2046072!4d77.4980259!16s%2Fg%2F11bzrp6q6n!19sChIJo8rG8ROjczkRjbj1dsQ0IG0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "meda-daulati-dental-and-craniofacial-hospital-bharatpur",
@@ -2750,7 +2773,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Meda+Daulati+Dental+%26+Craniofacial+Hospital/data=!4m7!3m6!1s0x3973a3bca795e1a5:0x442532fa6a7bd11d!8m2!3d27.2086162!4d77.5037405!16s%2Fg%2F11wy01gv0p!19sChIJpeGVp7yjczkRHdF7avoyJUQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meda+Daulati+Dental+%26+Craniofacial+Hospital/data=!4m7!3m6!1s0x3973a3bca795e1a5:0x442532fa6a7bd11d!8m2!3d27.2086162!4d77.5037405!16s%2Fg%2F11wy01gv0p!19sChIJpeGVp7yjczkRHdF7avoyJUQ?authuser=0&hl=en&rclk=1"
@@ -2816,10 +2839,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meda+Daulati+Dental+%26+Craniofacial+Hospital/data=!4m7!3m6!1s0x3973a3bca795e1a5:0x442532fa6a7bd11d!8m2!3d27.2086162!4d77.5037405!16s%2Fg%2F11wy01gv0p!19sChIJpeGVp7yjczkRHdF7avoyJUQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "metro-dental-and-implant-clinic-bharatpur",
@@ -2867,7 +2891,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/METRO+DENTAL+%26+IMPLANT+CLINIC/data=!4m7!3m6!1s0x3973a3e419cb54a3:0xdf8db349c491f4d!8m2!3d27.2155587!4d77.517455!16s%2Fg%2F11rstm33fh!19sChIJo1TLGeSjczkRTR9JnDTb-A0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/METRO+DENTAL+%26+IMPLANT+CLINIC/data=!4m7!3m6!1s0x3973a3e419cb54a3:0xdf8db349c491f4d!8m2!3d27.2155587!4d77.517455!16s%2Fg%2F11rstm33fh!19sChIJo1TLGeSjczkRTR9JnDTb-A0?authuser=0&hl=en&rclk=1"
@@ -2936,7 +2960,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/METRO+DENTAL+%26+IMPLANT+CLINIC/data=!4m7!3m6!1s0x3973a3e419cb54a3:0xdf8db349c491f4d!8m2!3d27.2155587!4d77.517455!16s%2Fg%2F11rstm33fh!19sChIJo1TLGeSjczkRTR9JnDTb-A0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "om-prakash-dental-clinic-bharatpur",
@@ -2984,7 +3009,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/OM+PRAKASH+DENTAL+CLINIC/data=!4m7!3m6!1s0x3973a514e19d9d05:0x67d601458296e38!8m2!3d27.2330103!4d77.4913283!16s%2Fg%2F11pyc6r0xw!19sChIJBZ2d4RSlczkROG4pWBRgfQY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OM+PRAKASH+DENTAL+CLINIC/data=!4m7!3m6!1s0x3973a514e19d9d05:0x67d601458296e38!8m2!3d27.2330103!4d77.4913283!16s%2Fg%2F11pyc6r0xw!19sChIJBZ2d4RSlczkROG4pWBRgfQY?authuser=0&hl=en&rclk=1"
@@ -3050,10 +3075,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OM+PRAKASH+DENTAL+CLINIC/data=!4m7!3m6!1s0x3973a514e19d9d05:0x67d601458296e38!8m2!3d27.2330103!4d77.4913283!16s%2Fg%2F11pyc6r0xw!19sChIJBZ2d4RSlczkROG4pWBRgfQY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pradeep-hospital-and-fracture-clinic-and-heart-centre-bharatpur",
@@ -3103,7 +3129,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pradeep+Hospital+and+Fracture+Clinic+and+Heart+Centre/data=!4m7!3m6!1s0x3973a30d97a0e9e7:0xf0e42f3eccff2307!8m2!3d27.2108619!4d77.497135!16s%2Fg%2F1tf5nmxf!19sChIJ5-mglw2jczkRByP_zD4v5PA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pradeep+Hospital+and+Fracture+Clinic+and+Heart+Centre/data=!4m7!3m6!1s0x3973a30d97a0e9e7:0xf0e42f3eccff2307!8m2!3d27.2108619!4d77.497135!16s%2Fg%2F1tf5nmxf!19sChIJ5-mglw2jczkRByP_zD4v5PA?authuser=0&hl=en&rclk=1"
@@ -3172,7 +3198,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pradeep+Hospital+and+Fracture+Clinic+and+Heart+Centre/data=!4m7!3m6!1s0x3973a30d97a0e9e7:0xf0e42f3eccff2307!8m2!3d27.2108619!4d77.497135!16s%2Fg%2F1tf5nmxf!19sChIJ5-mglw2jczkRByP_zD4v5PA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pribbgom-test-tube-baby-center-and-infertility-hospital-bharatpur",
@@ -3222,7 +3249,7 @@
       "Google rating 4.5",
       "4+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Pribbgom+Test+Tube+Baby+Center+%26+Infertility+Hospital/data=!4m7!3m6!1s0x3973a312949e5939:0x991ef1a557ffb79d!8m2!3d27.2078463!4d77.4948528!16s%2Fg%2F11f50wzz34!19sChIJOVmelBKjczkRnbf_V6XxHpk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pribbgom+Test+Tube+Baby+Center+%26+Infertility+Hospital/data=!4m7!3m6!1s0x3973a312949e5939:0x991ef1a557ffb79d!8m2!3d27.2078463!4d77.4948528!16s%2Fg%2F11f50wzz34!19sChIJOVmelBKjczkRnbf_V6XxHpk?authuser=0&hl=en&rclk=1"
@@ -3291,7 +3318,8 @@
     "rating": 4.5,
     "reviews": 4,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pribbgom+Test+Tube+Baby+Center+%26+Infertility+Hospital/data=!4m7!3m6!1s0x3973a312949e5939:0x991ef1a557ffb79d!8m2!3d27.2078463!4d77.4948528!16s%2Fg%2F11f50wzz34!19sChIJOVmelBKjczkRnbf_V6XxHpk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "r-b-m-hospital-bharatpur",
@@ -3340,7 +3368,7 @@
       "Google rating 3.6",
       "1+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/R.+B.+M.+Hospital/data=!4m7!3m6!1s0x3973a3a984c07bbf:0x4fbdb4fe2b1556eb!8m2!3d27.2236363!4d77.5058915!16s%2Fg%2F1tgxrym3!19sChIJv3vAhKmjczkR61YVK_60vU8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.+B.+M.+Hospital/data=!4m7!3m6!1s0x3973a3a984c07bbf:0x4fbdb4fe2b1556eb!8m2!3d27.2236363!4d77.5058915!16s%2Fg%2F1tgxrym3!19sChIJv3vAhKmjczkR61YVK_60vU8?authuser=0&hl=en&rclk=1"
@@ -3409,7 +3437,8 @@
     "rating": 3.6,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R.+B.+M.+Hospital/data=!4m7!3m6!1s0x3973a3a984c07bbf:0x4fbdb4fe2b1556eb!8m2!3d27.2236363!4d77.5058915!16s%2Fg%2F1tgxrym3!19sChIJv3vAhKmjczkR61YVK_60vU8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "raj-neuro-trauma-hospital-bharatpur",
@@ -3459,7 +3488,7 @@
       "Google rating 3.3",
       "1+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/RAJ+NEURO+TRAUMA+HOSPITAL/data=!4m7!3m6!1s0x3973a307025077af:0xf18f4c6eef936c99!8m2!3d27.2074041!4d77.4949821!16s%2Fg%2F11c32lrphc!19sChIJr3dQAgejczkRmWyT725Mj_E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RAJ+NEURO+TRAUMA+HOSPITAL/data=!4m7!3m6!1s0x3973a307025077af:0xf18f4c6eef936c99!8m2!3d27.2074041!4d77.4949821!16s%2Fg%2F11c32lrphc!19sChIJr3dQAgejczkRmWyT725Mj_E?authuser=0&hl=en&rclk=1"
@@ -3528,7 +3557,8 @@
     "rating": 3.3,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RAJ+NEURO+TRAUMA+HOSPITAL/data=!4m7!3m6!1s0x3973a307025077af:0xf18f4c6eef936c99!8m2!3d27.2074041!4d77.4949821!16s%2Fg%2F11c32lrphc!19sChIJr3dQAgejczkRmWyT725Mj_E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "raj-trauma-centre-bharatpur",
@@ -3576,7 +3606,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/RAJ+TRAUMA+CENTRE/data=!4m7!3m6!1s0x3973a38f6303cbbb:0x52034f51607e09c7!8m2!3d27.2014039!4d77.4959543!16s%2Fg%2F11vkhsmz66!19sChIJu8sDY4-jczkRxwl-YFFPA1I?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RAJ+TRAUMA+CENTRE/data=!4m7!3m6!1s0x3973a38f6303cbbb:0x52034f51607e09c7!8m2!3d27.2014039!4d77.4959543!16s%2Fg%2F11vkhsmz66!19sChIJu8sDY4-jczkRxwl-YFFPA1I?authuser=0&hl=en&rclk=1"
@@ -3645,7 +3675,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RAJ+TRAUMA+CENTRE/data=!4m7!3m6!1s0x3973a38f6303cbbb:0x52034f51607e09c7!8m2!3d27.2014039!4d77.4959543!16s%2Fg%2F11vkhsmz66!19sChIJu8sDY4-jczkRxwl-YFFPA1I?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rama-dental-clinic-bharatpur",
@@ -3694,7 +3725,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rama+dental+clinic+%28%E0%A4%A1%E0%A4%BE.%E0%A4%85%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%A8%E0%A5%80+%E0%A4%AA%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%B0%29/data=!4m7!3m6!1s0x3973a3224b6f8fa7:0xcf06f396b65921d3!8m2!3d27.2102441!4d77.4818537!16s%2Fg%2F11l6rc5v_8!19sChIJp49vSyKjczkR0yFZtpbzBs8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rama+dental+clinic+%28%E0%A4%A1%E0%A4%BE.%E0%A4%85%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%A8%E0%A5%80+%E0%A4%AA%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%B0%29/data=!4m7!3m6!1s0x3973a3224b6f8fa7:0xcf06f396b65921d3!8m2!3d27.2102441!4d77.4818537!16s%2Fg%2F11l6rc5v_8!19sChIJp49vSyKjczkR0yFZtpbzBs8?authuser=0&hl=en&rclk=1"
@@ -3760,10 +3791,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rama+dental+clinic+%28%E0%A4%A1%E0%A4%BE.%E0%A4%85%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%A8%E0%A5%80+%E0%A4%AA%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%B0%29/data=!4m7!3m6!1s0x3973a3224b6f8fa7:0xcf06f396b65921d3!8m2!3d27.2102441!4d77.4818537!16s%2Fg%2F11l6rc5v_8!19sChIJp49vSyKjczkR0yFZtpbzBs8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rastogi-hospital-and-maternity-home-bharatpur",
@@ -3811,7 +3843,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Rastogi+Hospital+%26+Maternity+Home/data=!4m7!3m6!1s0x3973a399d9d53503:0x8deb58be631484c8!8m2!3d27.231707!4d77.48955!16s%2Fg%2F1hjh9t5dj!19sChIJAzXV2ZmjczkRyIQUY75Y640?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rastogi+Hospital+%26+Maternity+Home/data=!4m7!3m6!1s0x3973a399d9d53503:0x8deb58be631484c8!8m2!3d27.231707!4d77.48955!16s%2Fg%2F1hjh9t5dj!19sChIJAzXV2ZmjczkRyIQUY75Y640?authuser=0&hl=en&rclk=1"
@@ -3880,7 +3912,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rastogi+Hospital+%26+Maternity+Home/data=!4m7!3m6!1s0x3973a399d9d53503:0x8deb58be631484c8!8m2!3d27.231707!4d77.48955!16s%2Fg%2F1hjh9t5dj!19sChIJAzXV2ZmjczkRyIQUY75Y640?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rvm-dental-hospital-bharatpur",
@@ -3928,7 +3961,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/RVM+DENTAL+HOSPITAL/data=!4m7!3m6!1s0x3973a30440afd1fb:0x500632935e73db06!8m2!3d27.2169878!4d77.5128033!16s%2Fg%2F11g8lrh34n!19sChIJ-9GvQASjczkRBttzXpMyBlA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RVM+DENTAL+HOSPITAL/data=!4m7!3m6!1s0x3973a30440afd1fb:0x500632935e73db06!8m2!3d27.2169878!4d77.5128033!16s%2Fg%2F11g8lrh34n!19sChIJ-9GvQASjczkRBttzXpMyBlA?authuser=0&hl=en&rclk=1"
@@ -3997,7 +4030,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RVM+DENTAL+HOSPITAL/data=!4m7!3m6!1s0x3973a30440afd1fb:0x500632935e73db06!8m2!3d27.2169878!4d77.5128033!16s%2Fg%2F11g8lrh34n!19sChIJ-9GvQASjczkRBttzXpMyBlA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sgn-hospital-bharatpur",
@@ -4045,7 +4079,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/SGN+Hospital/data=!4m7!3m6!1s0x3973a399a3b67367:0xe4502a339ad076f5!8m2!3d27.2068739!4d77.5116939!16s%2Fg%2F11cmfdwr0n!19sChIJZ3O2o5mjczkR9XbQmjMqUOQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SGN+Hospital/data=!4m7!3m6!1s0x3973a399a3b67367:0xe4502a339ad076f5!8m2!3d27.2068739!4d77.5116939!16s%2Fg%2F11cmfdwr0n!19sChIJZ3O2o5mjczkR9XbQmjMqUOQ?authuser=0&hl=en&rclk=1"
@@ -4114,7 +4148,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SGN+Hospital/data=!4m7!3m6!1s0x3973a399a3b67367:0xe4502a339ad076f5!8m2!3d27.2068739!4d77.5116939!16s%2Fg%2F11cmfdwr0n!19sChIJZ3O2o5mjczkR9XbQmjMqUOQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shobha-dental-clinic-bharatpur",
@@ -4162,7 +4197,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Shobha+Dental+Clinic/data=!4m7!3m6!1s0x3973a3066a415033:0xb6283b24617ff5cc!8m2!3d27.2171932!4d77.5077694!16s%2Fg%2F11h0x0kg6k!19sChIJM1BBagajczkRzPV_YSQ7KLY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shobha+Dental+Clinic/data=!4m7!3m6!1s0x3973a3066a415033:0xb6283b24617ff5cc!8m2!3d27.2171932!4d77.5077694!16s%2Fg%2F11h0x0kg6k!19sChIJM1BBagajczkRzPV_YSQ7KLY?authuser=0&hl=en&rclk=1"
@@ -4231,7 +4266,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shobha+Dental+Clinic/data=!4m7!3m6!1s0x3973a3066a415033:0xb6283b24617ff5cc!8m2!3d27.2171932!4d77.5077694!16s%2Fg%2F11h0x0kg6k!19sChIJM1BBagajczkRzPV_YSQ7KLY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-balaji-dental-clinic-bharatpur",
@@ -4277,7 +4313,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Shree+Balaji+Dental+Clinic/data=!4m7!3m6!1s0x3973a33be5f50293:0xaea82b692b08c028!8m2!3d27.2029614!4d77.5158275!16s%2Fg%2F11rgc15dwm!19sChIJkwL15TujczkRKMAIK2krqK4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Balaji+Dental+Clinic/data=!4m7!3m6!1s0x3973a33be5f50293:0xaea82b692b08c028!8m2!3d27.2029614!4d77.5158275!16s%2Fg%2F11rgc15dwm!19sChIJkwL15TujczkRKMAIK2krqK4?authuser=0&hl=en&rclk=1"
@@ -4343,10 +4379,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Balaji+Dental+Clinic/data=!4m7!3m6!1s0x3973a33be5f50293:0xaea82b692b08c028!8m2!3d27.2029614!4d77.5158275!16s%2Fg%2F11rgc15dwm!19sChIJkwL15TujczkRKMAIK2krqK4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shree-ram-dental-clinic-bharatpur",
@@ -4394,7 +4431,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shree+ram+dental+clinic/data=!4m7!3m6!1s0x3973a34d12ff1959:0x2f0f21430907ce5d!8m2!3d27.2171862!4d77.512926!16s%2Fg%2F11vf6sryyv!19sChIJWRn_Ek2jczkRXc4HCUMhDy8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+ram+dental+clinic/data=!4m7!3m6!1s0x3973a34d12ff1959:0x2f0f21430907ce5d!8m2!3d27.2171862!4d77.512926!16s%2Fg%2F11vf6sryyv!19sChIJWRn_Ek2jczkRXc4HCUMhDy8?authuser=0&hl=en&rclk=1"
@@ -4460,10 +4497,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+ram+dental+clinic/data=!4m7!3m6!1s0x3973a34d12ff1959:0x2f0f21430907ce5d!8m2!3d27.2171862!4d77.512926!16s%2Fg%2F11vf6sryyv!19sChIJWRn_Ek2jczkRXc4HCUMhDy8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shreeji-dental-care-and-cosmetic-centre-dentist-bharatpur",
@@ -4512,7 +4550,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Shreeji+Dental+Care+%26+Cosmetic+Centre+-+Dentist/data=!4m7!3m6!1s0x3973a3046aaaaaab:0xb1b365293d599f0e!8m2!3d27.21475!4d77.508694!16s%2Fg%2F11b8v9l9hm!19sChIJq6qqagSjczkRDp9ZPSlls7E?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shreeji+Dental+Care+%26+Cosmetic+Centre+-+Dentist/data=!4m7!3m6!1s0x3973a3046aaaaaab:0xb1b365293d599f0e!8m2!3d27.21475!4d77.508694!16s%2Fg%2F11b8v9l9hm!19sChIJq6qqagSjczkRDp9ZPSlls7E?authuser=0&hl=en&rclk=1"
@@ -4581,7 +4619,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shreeji+Dental+Care+%26+Cosmetic+Centre+-+Dentist/data=!4m7!3m6!1s0x3973a3046aaaaaab:0xb1b365293d599f0e!8m2!3d27.21475!4d77.508694!16s%2Fg%2F11b8v9l9hm!19sChIJq6qqagSjczkRDp9ZPSlls7E?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "singhal-dental-care-bharatpur",
@@ -4629,7 +4668,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Singhal+Dental+Care/data=!4m7!3m6!1s0x3973a37cca3763b3:0x8ec41c950572bce8!8m2!3d27.2075402!4d77.4743695!16s%2Fg%2F11f0kxp5y7!19sChIJs2M3ynyjczkR6LxyBZUcxI4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Singhal+Dental+Care/data=!4m7!3m6!1s0x3973a37cca3763b3:0x8ec41c950572bce8!8m2!3d27.2075402!4d77.4743695!16s%2Fg%2F11f0kxp5y7!19sChIJs2M3ynyjczkR6LxyBZUcxI4?authuser=0&hl=en&rclk=1"
@@ -4698,7 +4737,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Singhal+Dental+Care/data=!4m7!3m6!1s0x3973a37cca3763b3:0x8ec41c950572bce8!8m2!3d27.2075402!4d77.4743695!16s%2Fg%2F11f0kxp5y7!19sChIJs2M3ynyjczkR6LxyBZUcxI4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sishu-fertility-clinic-and-ivf-center-best-iui-ivf-center-in-nepal-bharatpur",
@@ -4748,7 +4788,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sishu+Fertility+Clinic+%26+IVF+center+%7C+Best+IUI,+IVF+center+in+Nepal/data=!4m7!3m6!1s0x3994fb9575641ac7:0x143edf45b920c929!8m2!3d27.684688!4d84.4351314!16s%2Fg%2F11swwvn8bv!19sChIJxxpkdZX7lDkRKckguUXfPhQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sishu+Fertility+Clinic+%26+IVF+center+%7C+Best+IUI,+IVF+center+in+Nepal/data=!4m7!3m6!1s0x3994fb9575641ac7:0x143edf45b920c929!8m2!3d27.684688!4d84.4351314!16s%2Fg%2F11swwvn8bv!19sChIJxxpkdZX7lDkRKckguUXfPhQ?authuser=0&hl=en&rclk=1"
@@ -4817,7 +4857,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sishu+Fertility+Clinic+%26+IVF+center+%7C+Best+IUI,+IVF+center+in+Nepal/data=!4m7!3m6!1s0x3994fb9575641ac7:0x143edf45b920c929!8m2!3d27.684688!4d84.4351314!16s%2Fg%2F11swwvn8bv!19sChIJxxpkdZX7lDkRKckguUXfPhQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tara-mahendra-hospital-and-fracture-clinic-bharatpur",
@@ -4865,7 +4906,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Tara+Mahendra+Hospital+And+Fracture+Clinic/data=!4m7!3m6!1s0x3973a30d8fe10f97:0x58eb736fd40ccfe7!8m2!3d27.2100963!4d77.4968452!16s%2Fg%2F1260q02xp!19sChIJlw_hjw2jczkR588M1G9z61g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tara+Mahendra+Hospital+And+Fracture+Clinic/data=!4m7!3m6!1s0x3973a30d8fe10f97:0x58eb736fd40ccfe7!8m2!3d27.2100963!4d77.4968452!16s%2Fg%2F1260q02xp!19sChIJlw_hjw2jczkR588M1G9z61g?authuser=0&hl=en&rclk=1"
@@ -4934,7 +4975,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tara+Mahendra+Hospital+And+Fracture+Clinic/data=!4m7!3m6!1s0x3973a30d8fe10f97:0x58eb736fd40ccfe7!8m2!3d27.2100963!4d77.4968452!16s%2Fg%2F1260q02xp!19sChIJlw_hjw2jczkR588M1G9z61g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "the-solanki-hospital-bharatpur",
@@ -4984,7 +5026,7 @@
       "6+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Solanki+Hospital/data=!4m7!3m6!1s0x3973a31e1f75e769:0xb99c640b4fe10c13!8m2!3d27.2040229!4d77.5160303!16s%2Fg%2F1tscmdgp!19sChIJaed1Hx6jczkREwzhTwtknLk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Solanki+Hospital/data=!4m7!3m6!1s0x3973a31e1f75e769:0xb99c640b4fe10c13!8m2!3d27.2040229!4d77.5160303!16s%2Fg%2F1tscmdgp!19sChIJaed1Hx6jczkREwzhTwtknLk?authuser=0&hl=en&rclk=1"
@@ -5053,7 +5095,8 @@
     "rating": 3.8,
     "reviews": 6,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Solanki+Hospital/data=!4m7!3m6!1s0x3973a31e1f75e769:0xb99c640b4fe10c13!8m2!3d27.2040229!4d77.5160303!16s%2Fg%2F1tscmdgp!19sChIJaed1Hx6jczkREwzhTwtknLk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vandana-hospital-and-fracture-clinic-bharatpur",
@@ -5101,7 +5144,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Vandana+Hospital+And+Fracture+Clinic/data=!4m7!3m6!1s0x3973a31a10586321:0xe890c3be9e7ab7aa!8m2!3d27.2053222!4d77.5055629!16s%2Fg%2F12lssy0km!19sChIJIWNYEBqjczkRqrd6nr7DkOg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vandana+Hospital+And+Fracture+Clinic/data=!4m7!3m6!1s0x3973a31a10586321:0xe890c3be9e7ab7aa!8m2!3d27.2053222!4d77.5055629!16s%2Fg%2F12lssy0km!19sChIJIWNYEBqjczkRqrd6nr7DkOg?authuser=0&hl=en&rclk=1"
@@ -5170,7 +5213,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vandana+Hospital+And+Fracture+Clinic/data=!4m7!3m6!1s0x3973a31a10586321:0xe890c3be9e7ab7aa!8m2!3d27.2053222!4d77.5055629!16s%2Fg%2F12lssy0km!19sChIJIWNYEBqjczkRqrd6nr7DkOg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vyom-dental-care-in-bharatpur-braces-veneers-implants-bharatpur",
@@ -5219,7 +5263,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vyom+Dental+Care+in+Bharatpur+-+Braces+%7C+Veneers+%7C+Implants/data=!4m7!3m6!1s0x3973a38f44fc7c0d:0xc861d09e755ea295!8m2!3d27.2075783!4d77.512168!16s%2Fg%2F11v3mffjz6!19sChIJDXz8RI-jczkRlaJedZ7QYcg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vyom+Dental+Care+in+Bharatpur+-+Braces+%7C+Veneers+%7C+Implants/data=!4m7!3m6!1s0x3973a38f44fc7c0d:0xc861d09e755ea295!8m2!3d27.2075783!4d77.512168!16s%2Fg%2F11v3mffjz6!19sChIJDXz8RI-jczkRlaJedZ7QYcg?authuser=0&hl=en&rclk=1"
@@ -5288,6 +5332,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vyom+Dental+Care+in+Bharatpur+-+Braces+%7C+Veneers+%7C+Implants/data=!4m7!3m6!1s0x3973a38f44fc7c0d:0xc861d09e755ea295!8m2!3d27.2075783!4d77.512168!16s%2Fg%2F11v3mffjz6!19sChIJDXz8RI-jczkRlaJedZ7QYcg?authuser=0&hl=en&rclk=1"
   }
 ]

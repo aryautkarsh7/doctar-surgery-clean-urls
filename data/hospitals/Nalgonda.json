@@ -43,7 +43,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Aadhya+health+care,GreenLands+Hospital/@17.0536909,79.2765365,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb295cf5d0ea05:0xf9ae966c29d1ac40!8m2!3d17.0536909!4d79.2765365!16s%2Fg%2F11k48n5p5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aadhya+health+care,GreenLands+Hospital/@17.0536909,79.2765365,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb295cf5d0ea05:0xf9ae966c29d1ac40!8m2!3d17.0536909!4d79.2765365!16s%2Fg%2F11k48n5p5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -109,10 +109,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aadhya+health+care,GreenLands+Hospital/@17.0536909,79.2765365,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb295cf5d0ea05:0xf9ae966c29d1ac40!8m2!3d17.0536909!4d79.2765365!16s%2Fg%2F11k48n5p5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aayush-ortho-neuro-physiotherapy-and-neuro-rehabilitation-chiropractic-clinic-nalgonda",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aayush+Ortho+,+Neuro+Physiotherapy+and+Neuro+Rehabilitation+,chiropractic+clinic/@17.0591517,79.2742639,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2988714ab083:0x853bfcb741d311bf!8m2!3d17.0591517!4d79.2742639!16s%2Fg%2F11qby2rrpt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aayush+Ortho+,+Neuro+Physiotherapy+and+Neuro+Rehabilitation+,chiropractic+clinic/@17.0591517,79.2742639,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2988714ab083:0x853bfcb741d311bf!8m2!3d17.0591517!4d79.2742639!16s%2Fg%2F11qby2rrpt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -229,10 +230,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aayush+Ortho+,+Neuro+Physiotherapy+and+Neuro+Rehabilitation+,chiropractic+clinic/@17.0591517,79.2742639,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2988714ab083:0x853bfcb741d311bf!8m2!3d17.0591517!4d79.2742639!16s%2Fg%2F11qby2rrpt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "adhvik-dental-clinic-and-implant-center-nalgonda",
@@ -280,7 +282,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Adhvik+Dental+Clinic+And+Implant+Center/@17.0646925,79.2698872,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb296d70492711:0xd7c7cfe9eabef520!8m2!3d17.0646925!4d79.2698872!16s%2Fg%2F11c1nf66zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adhvik+Dental+Clinic+And+Implant+Center/@17.0646925,79.2698872,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb296d70492711:0xd7c7cfe9eabef520!8m2!3d17.0646925!4d79.2698872!16s%2Fg%2F11c1nf66zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -349,7 +351,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Adhvik+Dental+Clinic+And+Implant+Center/@17.0646925,79.2698872,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb296d70492711:0xd7c7cfe9eabef520!8m2!3d17.0646925!4d79.2698872!16s%2Fg%2F11c1nf66zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aditri-cancer-hospital-best-cancer-hospital-in-nalgonda-nalgonda",
@@ -399,7 +402,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ADITRI+CANCER+HOSPITAL+-+Best+Cancer+Hospital+in+Nalgonda/@17.0537765,79.2723848,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2924236e7f19:0x291cb94878ee9075!8m2!3d17.0537765!4d79.2723848!16s%2Fg%2F11m77r8z6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ADITRI+CANCER+HOSPITAL+-+Best+Cancer+Hospital+in+Nalgonda/@17.0537765,79.2723848,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2924236e7f19:0x291cb94878ee9075!8m2!3d17.0537765!4d79.2723848!16s%2Fg%2F11m77r8z6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -465,10 +468,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ADITRI+CANCER+HOSPITAL+-+Best+Cancer+Hospital+in+Nalgonda/@17.0537765,79.2723848,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2924236e7f19:0x291cb94878ee9075!8m2!3d17.0537765!4d79.2723848!16s%2Fg%2F11m77r8z6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anoos-hospital-skin-specialist-nalgonda",
@@ -516,7 +520,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Anoos+hospital+skin+specialist/@17.0550739,79.2786543,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297786967fe3:0x34a0092d9abbf01e!8m2!3d17.0550739!4d79.2786543!16s%2Fg%2F11g9j4cwh4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anoos+hospital+skin+specialist/@17.0550739,79.2786543,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297786967fe3:0x34a0092d9abbf01e!8m2!3d17.0550739!4d79.2786543!16s%2Fg%2F11g9j4cwh4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -582,10 +586,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anoos+hospital+skin+specialist/@17.0550739,79.2786543,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297786967fe3:0x34a0092d9abbf01e!8m2!3d17.0550739!4d79.2786543!16s%2Fg%2F11g9j4cwh4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anurag-children-s-hospital-nalgonda",
@@ -635,7 +640,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Anurag+Children's+Hospital/@17.054026,79.268777,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29757319e585:0x4989cc2b6f136748!8m2!3d17.054026!4d79.268777!16s%2Fg%2F1vqtf7hc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anurag+Children's+Hospital/@17.054026,79.268777,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29757319e585:0x4989cc2b6f136748!8m2!3d17.054026!4d79.268777!16s%2Fg%2F1vqtf7hc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -704,7 +709,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anurag+Children's+Hospital/@17.054026,79.268777,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29757319e585:0x4989cc2b6f136748!8m2!3d17.054026!4d79.268777!16s%2Fg%2F1vqtf7hc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anus-eye-care-hospital-nalgonda",
@@ -752,7 +758,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Anus+Eye+Care+Hospital/data=!4m7!3m6!1s0x3bcb29763497e40f:0x7056f3fe2a56f3bd!8m2!3d17.0538524!4d79.2760146!16s%2Fg%2F11c316c3tp!19sChIJD-SXNHYpyzsRvfNWKv7zVnA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anus+Eye+Care+Hospital/data=!4m7!3m6!1s0x3bcb29763497e40f:0x7056f3fe2a56f3bd!8m2!3d17.0538524!4d79.2760146!16s%2Fg%2F11c316c3tp!19sChIJD-SXNHYpyzsRvfNWKv7zVnA?authuser=0&hl=en&rclk=1"
@@ -821,7 +827,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anus+Eye+Care+Hospital/data=!4m7!3m6!1s0x3bcb29763497e40f:0x7056f3fe2a56f3bd!8m2!3d17.0538524!4d79.2760146!16s%2Fg%2F11c316c3tp!19sChIJD-SXNHYpyzsRvfNWKv7zVnA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "anusha-children-s-hospital-dvk-road-nalgonda-nalgonda",
@@ -870,7 +877,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/ANUSHA+CHILDREN'S+HOSPITAL+DVK+Road,+Nalgonda./@17.0461687,79.2669442,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2961f237fa43:0xab0aa72255999ebe!8m2!3d17.0461687!4d79.2669442!16s%2Fg%2F11jmx4373f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANUSHA+CHILDREN'S+HOSPITAL+DVK+Road,+Nalgonda./@17.0461687,79.2669442,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2961f237fa43:0xab0aa72255999ebe!8m2!3d17.0461687!4d79.2669442!16s%2Fg%2F11jmx4373f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -939,7 +946,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ANUSHA+CHILDREN'S+HOSPITAL+DVK+Road,+Nalgonda./@17.0461687,79.2669442,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2961f237fa43:0xab0aa72255999ebe!8m2!3d17.0461687!4d79.2669442!16s%2Fg%2F11jmx4373f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anvaya-dental-care-nalgonda",
@@ -987,7 +995,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Anvaya+Dental+Care/@17.0411173,79.2652346,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29232d62e1a1:0x37dbd3d3fadf8b30!8m2!3d17.0411173!4d79.2652346!16s%2Fg%2F11t9d8n_7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anvaya+Dental+Care/@17.0411173,79.2652346,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29232d62e1a1:0x37dbd3d3fadf8b30!8m2!3d17.0411173!4d79.2652346!16s%2Fg%2F11t9d8n_7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1053,10 +1061,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anvaya+Dental+Care/@17.0411173,79.2652346,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29232d62e1a1:0x37dbd3d3fadf8b30!8m2!3d17.0411173!4d79.2652346!16s%2Fg%2F11t9d8n_7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anvaya-eye-hospital-nalgonda-nalgonda",
@@ -1104,7 +1113,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Anvaya+Eye+Hospital,+Nalgonda/@17.0410625,79.2650625,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2927e1b44dc3:0x1200720d90b681a4!8m2!3d17.0410625!4d79.2650625!16s%2Fg%2F11llgpch52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anvaya+Eye+Hospital,+Nalgonda/@17.0410625,79.2650625,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2927e1b44dc3:0x1200720d90b681a4!8m2!3d17.0410625!4d79.2650625!16s%2Fg%2F11llgpch52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1173,7 +1182,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anvaya+Eye+Hospital,+Nalgonda/@17.0410625,79.2650625,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2927e1b44dc3:0x1200720d90b681a4!8m2!3d17.0410625!4d79.2650625!16s%2Fg%2F11llgpch52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aparna-hospital-and-scan-centre-nalgonda",
@@ -1221,7 +1231,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Aparna+Hospital+%26+Scan+Centre/@17.053789,79.27568,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29763693ce39:0x674151c8eda26ab1!8m2!3d17.053789!4d79.27568!16s%2Fg%2F1q5hrqwc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aparna+Hospital+%26+Scan+Centre/@17.053789,79.27568,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29763693ce39:0x674151c8eda26ab1!8m2!3d17.053789!4d79.27568!16s%2Fg%2F1q5hrqwc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1290,7 +1300,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aparna+Hospital+%26+Scan+Centre/@17.053789,79.27568,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29763693ce39:0x674151c8eda26ab1!8m2!3d17.053789!4d79.27568!16s%2Fg%2F1q5hrqwc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apex-care-hospitals-and-apex-scan-center-nalgonda",
@@ -1338,7 +1349,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Apex+Care+Hospitals+%26+Apex+Scan+Center/@17.0539081,79.2683644,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29accce93955:0x730262790f43382d!8m2!3d17.0539081!4d79.2683644!16s%2Fg%2F11ynm10vwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Care+Hospitals+%26+Apex+Scan+Center/@17.0539081,79.2683644,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29accce93955:0x730262790f43382d!8m2!3d17.0539081!4d79.2683644!16s%2Fg%2F11ynm10vwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1404,10 +1415,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+Care+Hospitals+%26+Apex+Scan+Center/@17.0539081,79.2683644,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29accce93955:0x730262790f43382d!8m2!3d17.0539081!4d79.2683644!16s%2Fg%2F11ynm10vwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashfaq-ahmed-khan-nalgonda",
@@ -1455,7 +1467,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ASHFAQ+AHMED+KHAN/data=!4m7!3m6!1s0x3bcb29f8ff28414b:0xc2f1d6ccc217b10a!8m2!3d17.0527077!4d79.2626126!16s%2Fg%2F11lq790kqj!19sChIJS0Eo__gpyzsRCrEXwszW8cI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASHFAQ+AHMED+KHAN/data=!4m7!3m6!1s0x3bcb29f8ff28414b:0xc2f1d6ccc217b10a!8m2!3d17.0527077!4d79.2626126!16s%2Fg%2F11lq790kqj!19sChIJS0Eo__gpyzsRCrEXwszW8cI?authuser=0&hl=en&rclk=1"
@@ -1521,10 +1533,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ASHFAQ+AHMED+KHAN/data=!4m7!3m6!1s0x3bcb29f8ff28414b:0xc2f1d6ccc217b10a!8m2!3d17.0527077!4d79.2626126!16s%2Fg%2F11lq790kqj!19sChIJS0Eo__gpyzsRCrEXwszW8cI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "balaji-hospital-and-diagnostic-center-nalgonda",
@@ -1572,7 +1585,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Balaji+hospital+and+diagnostic+center/@17.0573894,79.2748218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2976a5592b3b:0x211d6d7436eb4929!8m2!3d17.0573894!4d79.2748218!16s%2Fg%2F11bzsfy2kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Balaji+hospital+and+diagnostic+center/@17.0573894,79.2748218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2976a5592b3b:0x211d6d7436eb4929!8m2!3d17.0573894!4d79.2748218!16s%2Fg%2F11bzsfy2kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1641,7 +1654,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Balaji+hospital+and+diagnostic+center/@17.0573894,79.2748218,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2976a5592b3b:0x211d6d7436eb4929!8m2!3d17.0573894!4d79.2748218!16s%2Fg%2F11bzsfy2kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bharath-hospitals-and-diagnostics-in-nalgonda-nalgonda",
@@ -1690,7 +1704,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bharath+Hospitals+%26+Diagnostics+In+Nalgonda/@17.0546978,79.2690534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29704627d225:0x27a3a4ef6a925e86!8m2!3d17.0546978!4d79.2690534!16s%2Fg%2F11wqx_118q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharath+Hospitals+%26+Diagnostics+In+Nalgonda/@17.0546978,79.2690534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29704627d225:0x27a3a4ef6a925e86!8m2!3d17.0546978!4d79.2690534!16s%2Fg%2F11wqx_118q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1756,10 +1770,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bharath+Hospitals+%26+Diagnostics+In+Nalgonda/@17.0546978,79.2690534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29704627d225:0x27a3a4ef6a925e86!8m2!3d17.0546978!4d79.2690534!16s%2Fg%2F11wqx_118q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhrigu-maharishi-ayurvedic-hospital-nalgonda",
@@ -1807,7 +1822,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Bhrigu+Maharishi+Ayurvedic+Hospital/@17.0546805,79.2691304,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb292052fa2953:0xbcf100b83267cac!8m2!3d17.0546805!4d79.2691304!16s%2Fg%2F11gj74j3_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhrigu+Maharishi+Ayurvedic+Hospital/@17.0546805,79.2691304,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb292052fa2953:0xbcf100b83267cac!8m2!3d17.0546805!4d79.2691304!16s%2Fg%2F11gj74j3_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1876,7 +1891,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhrigu+Maharishi+Ayurvedic+Hospital/@17.0546805,79.2691304,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb292052fa2953:0xbcf100b83267cac!8m2!3d17.0546805!4d79.2691304!16s%2Fg%2F11gj74j3_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "brain-and-spine-hospital-nalgonda-nalgonda",
@@ -1926,7 +1942,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Brain+and+spine+hospital+Nalgonda/@17.064603,79.2777114,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29737c62fb0f:0x5634d29d1ba16eb5!8m2!3d17.064603!4d79.2777114!16s%2Fg%2F11v5zgy7hx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Brain+and+spine+hospital+Nalgonda/@17.064603,79.2777114,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29737c62fb0f:0x5634d29d1ba16eb5!8m2!3d17.064603!4d79.2777114!16s%2Fg%2F11v5zgy7hx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1992,10 +2008,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Brain+and+spine+hospital+Nalgonda/@17.064603,79.2777114,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29737c62fb0f:0x5634d29d1ba16eb5!8m2!3d17.064603!4d79.2777114!16s%2Fg%2F11v5zgy7hx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chakilam-hospitals-nalgonda",
@@ -2043,7 +2060,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Chakilam+Hospitals/@17.0518344,79.275912,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb298f59ee35e9:0x918265b8749dc382!8m2!3d17.0518344!4d79.275912!16s%2Fg%2F11v08l9pd_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chakilam+Hospitals/@17.0518344,79.275912,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb298f59ee35e9:0x918265b8749dc382!8m2!3d17.0518344!4d79.275912!16s%2Fg%2F11v08l9pd_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2112,7 +2129,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chakilam+Hospitals/@17.0518344,79.275912,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb298f59ee35e9:0x918265b8749dc382!8m2!3d17.0518344!4d79.275912!16s%2Fg%2F11v08l9pd_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chetana-kidney-centre-nalgonda",
@@ -2161,7 +2179,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Chetana+kidney+centre/@17.0511583,79.2673797,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2f92da53212d:0xcef11e0175715ebb!8m2!3d17.0511583!4d79.2673797!16s%2Fg%2F11hm5p3450?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chetana+kidney+centre/@17.0511583,79.2673797,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2f92da53212d:0xcef11e0175715ebb!8m2!3d17.0511583!4d79.2673797!16s%2Fg%2F11hm5p3450?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2227,10 +2245,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chetana+kidney+centre/@17.0511583,79.2673797,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2f92da53212d:0xcef11e0175715ebb!8m2!3d17.0511583!4d79.2673797!16s%2Fg%2F11hm5p3450?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chinmayi-hospital-nalgonda",
@@ -2280,7 +2299,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CHINMAYI+HOSPITAL/@17.054531,79.27675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb292be3735db5:0xd07e2daa055c4a4c!8m2!3d17.054531!4d79.27675!16s%2Fg%2F11qn0v12xm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CHINMAYI+HOSPITAL/@17.054531,79.27675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb292be3735db5:0xd07e2daa055c4a4c!8m2!3d17.054531!4d79.27675!16s%2Fg%2F11qn0v12xm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2346,10 +2365,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CHINMAYI+HOSPITAL/@17.054531,79.27675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb292be3735db5:0xd07e2daa055c4a4c!8m2!3d17.054531!4d79.27675!16s%2Fg%2F11qn0v12xm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ck-hospital-nalgonda",
@@ -2397,7 +2417,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/CK+Hospital/@17.0537245,79.274231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29453cc839f7:0x4643829d824e583!8m2!3d17.0537245!4d79.274231!16s%2Fg%2F11fl7flx5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CK+Hospital/@17.0537245,79.274231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29453cc839f7:0x4643829d824e583!8m2!3d17.0537245!4d79.274231!16s%2Fg%2F11fl7flx5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2466,7 +2486,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CK+Hospital/@17.0537245,79.274231,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29453cc839f7:0x4643829d824e583!8m2!3d17.0537245!4d79.274231!16s%2Fg%2F11fl7flx5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "devi-dental-hospital-nalgonda-nalgonda",
@@ -2516,7 +2537,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Devi+Dental+Hospital+Nalgonda/@17.0540683,79.2690937,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99cb866f69db:0x58d5e99f664c10ce!8m2!3d17.0540683!4d79.2690937!16s%2Fg%2F11ff4v4tbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Devi+Dental+Hospital+Nalgonda/@17.0540683,79.2690937,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99cb866f69db:0x58d5e99f664c10ce!8m2!3d17.0540683!4d79.2690937!16s%2Fg%2F11ff4v4tbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2582,10 +2603,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Devi+Dental+Hospital+Nalgonda/@17.0540683,79.2690937,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99cb866f69db:0x58d5e99f664c10ce!8m2!3d17.0540683!4d79.2690937!16s%2Fg%2F11ff4v4tbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "district-government-general-hospital-nalgonda-nalgonda",
@@ -2633,7 +2655,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/District+government+general+hospital+nalgonda/@17.0555092,79.2774986,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297933779f69:0x32bc9174e9361270!8m2!3d17.0555092!4d79.2774986!16s%2Fg%2F11tczkm7hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+government+general+hospital+nalgonda/@17.0555092,79.2774986,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297933779f69:0x32bc9174e9361270!8m2!3d17.0555092!4d79.2774986!16s%2Fg%2F11tczkm7hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2702,7 +2724,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+government+general+hospital+nalgonda/@17.0555092,79.2774986,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297933779f69:0x32bc9174e9361270!8m2!3d17.0555092!4d79.2774986!16s%2Fg%2F11tczkm7hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "diya-ortho-clinic-nalgonda",
@@ -2751,7 +2774,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Diya+ortho+clinic/@17.054115,79.268815,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb299f00159765:0x93de03bf0efde3b2!8m2!3d17.054115!4d79.268815!16s%2Fg%2F11ll47rlbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Diya+ortho+clinic/@17.054115,79.268815,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb299f00159765:0x93de03bf0efde3b2!8m2!3d17.054115!4d79.268815!16s%2Fg%2F11ll47rlbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2817,10 +2840,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Diya+ortho+clinic/@17.054115,79.268815,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb299f00159765:0x93de03bf0efde3b2!8m2!3d17.054115!4d79.268815!16s%2Fg%2F11ll47rlbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "focus-river-diagnostic-center-nalgonda-mri-ct-scan-ultrasound-nalgonda",
@@ -2869,7 +2893,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Focus+River+Diagnostic+Center+Nalgonda+-+MRI,+CT+Scan,+Ultrasound/@17.0547727,79.2767334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb296ba29999b1:0xef05e4122391e827!8m2!3d17.0547727!4d79.2767334!16s%2Fg%2F11hf3z5n8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Focus+River+Diagnostic+Center+Nalgonda+-+MRI,+CT+Scan,+Ultrasound/@17.0547727,79.2767334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb296ba29999b1:0xef05e4122391e827!8m2!3d17.0547727!4d79.2767334!16s%2Fg%2F11hf3z5n8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -2938,7 +2962,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Focus+River+Diagnostic+Center+Nalgonda+-+MRI,+CT+Scan,+Ultrasound/@17.0547727,79.2767334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb296ba29999b1:0xef05e4122391e827!8m2!3d17.0547727!4d79.2767334!16s%2Fg%2F11hf3z5n8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "g-k-hospital-nalgonda",
@@ -2986,7 +3011,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/G.K.+Hospital/data=!4m7!3m6!1s0x3bcb2912886b82e3:0x870a7877c2422890!8m2!3d17.064357!4d79.2650137!16s%2Fg%2F11g9ldjfg5!19sChIJ44JriBIpyzsRkChCwnd4Coc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/G.K.+Hospital/data=!4m7!3m6!1s0x3bcb2912886b82e3:0x870a7877c2422890!8m2!3d17.064357!4d79.2650137!16s%2Fg%2F11g9ldjfg5!19sChIJ44JriBIpyzsRkChCwnd4Coc?authuser=0&hl=en&rclk=1"
@@ -3052,10 +3077,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/G.K.+Hospital/data=!4m7!3m6!1s0x3bcb2912886b82e3:0x870a7877c2422890!8m2!3d17.064357!4d79.2650137!16s%2Fg%2F11g9ldjfg5!19sChIJ44JriBIpyzsRkChCwnd4Coc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gms-dental-hospital-nalgonda",
@@ -3103,7 +3129,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/GMS+Dental+Hospital/@17.054216,79.2683468,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29753a8bfca5:0xa7283367a221ca43!8m2!3d17.054216!4d79.2683468!16s%2Fg%2F1ttp8rrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GMS+Dental+Hospital/@17.054216,79.2683468,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29753a8bfca5:0xa7283367a221ca43!8m2!3d17.054216!4d79.2683468!16s%2Fg%2F1ttp8rrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3172,7 +3198,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GMS+Dental+Hospital/@17.054216,79.2683468,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29753a8bfca5:0xa7283367a221ca43!8m2!3d17.054216!4d79.2683468!16s%2Fg%2F1ttp8rrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "govt-hospital-nalgonda",
@@ -3218,7 +3245,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Govt+hospital/@17.0577054,79.2683623,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29005edf411b:0xcc0d783555a97492!8m2!3d17.0577054!4d79.2683623!16s%2Fg%2F11yh8qrvth?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt+hospital/@17.0577054,79.2683623,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29005edf411b:0xcc0d783555a97492!8m2!3d17.0577054!4d79.2683623!16s%2Fg%2F11yh8qrvth?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3284,10 +3311,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govt+hospital/@17.0577054,79.2683623,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29005edf411b:0xcc0d783555a97492!8m2!3d17.0577054!4d79.2683623!16s%2Fg%2F11yh8qrvth?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "govt-hospital-nalgonda-mother-and-child-helth-center-nalgonda",
@@ -3336,7 +3364,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Govt+Hospital+Nalgonda.Mother+And+Child+Helth+Center./@17.0565601,79.27751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29b4733f7e7f:0xf095e8c2d5e5e18f!8m2!3d17.0565601!4d79.27751!16s%2Fg%2F11f9y5lz9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Govt+Hospital+Nalgonda.Mother+And+Child+Helth+Center./@17.0565601,79.27751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29b4733f7e7f:0xf095e8c2d5e5e18f!8m2!3d17.0565601!4d79.27751!16s%2Fg%2F11f9y5lz9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3405,7 +3433,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Govt+Hospital+Nalgonda.Mother+And+Child+Helth+Center./@17.0565601,79.27751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29b4733f7e7f:0xf095e8c2d5e5e18f!8m2!3d17.0565601!4d79.27751!16s%2Fg%2F11f9y5lz9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "green-lands-hospital-nalgonda",
@@ -3453,7 +3482,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Green+Lands+Hospital/@17.0542373,79.2756325,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297648e64e8b:0xb9034c96c2216369!8m2!3d17.0542373!4d79.2756325!16s%2Fg%2F11xbjzghl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Green+Lands+Hospital/@17.0542373,79.2756325,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297648e64e8b:0xb9034c96c2216369!8m2!3d17.0542373!4d79.2756325!16s%2Fg%2F11xbjzghl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3519,10 +3548,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Green+Lands+Hospital/@17.0542373,79.2756325,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297648e64e8b:0xb9034c96c2216369!8m2!3d17.0542373!4d79.2756325!16s%2Fg%2F11xbjzghl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hanna-diagnostic-best-labs-home-sample-collection-available-nalgonda",
@@ -3571,7 +3601,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/HANNA+DIAGNOSTIC%2FBEST+LABS+(Home+sample+collection+available)/@17.0539227,79.2762373,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29af029e8fd3:0xa168e5d0a461bae!8m2!3d17.0539227!4d79.2762373!16s%2Fg%2F11ksl050fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HANNA+DIAGNOSTIC%2FBEST+LABS+(Home+sample+collection+available)/@17.0539227,79.2762373,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29af029e8fd3:0xa168e5d0a461bae!8m2!3d17.0539227!4d79.2762373!16s%2Fg%2F11ksl050fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3637,10 +3667,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HANNA+DIAGNOSTIC%2FBEST+LABS+(Home+sample+collection+available)/@17.0539227,79.2762373,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29af029e8fd3:0xa168e5d0a461bae!8m2!3d17.0539227!4d79.2762373!16s%2Fg%2F11ksl050fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "i-ramulu-memorial-ortho-and-trauma-center-nalgonda",
@@ -3689,7 +3720,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/I+RAMULU+MEMORIAL+ORTHO+%26+TRAUMA+CENTER/@17.0548437,79.2663766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29b206e3db85:0x7d6a9ac639cd8c69!8m2!3d17.0548437!4d79.2663766!16s%2Fg%2F11g079g081?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/I+RAMULU+MEMORIAL+ORTHO+%26+TRAUMA+CENTER/@17.0548437,79.2663766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29b206e3db85:0x7d6a9ac639cd8c69!8m2!3d17.0548437!4d79.2663766!16s%2Fg%2F11g079g081?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3755,10 +3786,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/I+RAMULU+MEMORIAL+ORTHO+%26+TRAUMA+CENTER/@17.0548437,79.2663766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29b206e3db85:0x7d6a9ac639cd8c69!8m2!3d17.0548437!4d79.2663766!16s%2Fg%2F11g079g081?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "isha-eye-hospital-nalgonda",
@@ -3806,7 +3838,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Isha+Eye+Hospital/@17.0552629,79.2730202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2992ae72b6ab:0xe91b679d79ef268!8m2!3d17.0552629!4d79.2730202!16s%2Fg%2F11st8gvwjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Isha+Eye+Hospital/@17.0552629,79.2730202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2992ae72b6ab:0xe91b679d79ef268!8m2!3d17.0552629!4d79.2730202!16s%2Fg%2F11st8gvwjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3872,10 +3904,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Isha+Eye+Hospital/@17.0552629,79.2730202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2992ae72b6ab:0xe91b679d79ef268!8m2!3d17.0552629!4d79.2730202!16s%2Fg%2F11st8gvwjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jagini-dental-care-advanced-dental-clinic-and-best-dentist-in-nalgonda-nalgonda",
@@ -3923,7 +3956,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/JAGINI+DENTAL+CARE-+Advanced+Dental+Clinic+%26+Best+Dentist+in+Nalgonda/@17.0639512,79.2657007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29257112cc01:0x448621d2a78b032e!8m2!3d17.0639512!4d79.2657007!16s%2Fg%2F11j53mkbh5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JAGINI+DENTAL+CARE-+Advanced+Dental+Clinic+%26+Best+Dentist+in+Nalgonda/@17.0639512,79.2657007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29257112cc01:0x448621d2a78b032e!8m2!3d17.0639512!4d79.2657007!16s%2Fg%2F11j53mkbh5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -3992,7 +4025,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JAGINI+DENTAL+CARE-+Advanced+Dental+Clinic+%26+Best+Dentist+in+Nalgonda/@17.0639512,79.2657007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29257112cc01:0x448621d2a78b032e!8m2!3d17.0639512!4d79.2657007!16s%2Fg%2F11j53mkbh5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jayakumar-skin-care-hospital-nalgonda",
@@ -4040,7 +4074,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Jayakumar+Skin+Care+Hospital/@17.0546513,79.2772171,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb298d8edc1a5f:0x6e17272b7f2bbd6d!8m2!3d17.0546513!4d79.2772171!16s%2Fg%2F11gxft7tm6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jayakumar+Skin+Care+Hospital/@17.0546513,79.2772171,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb298d8edc1a5f:0x6e17272b7f2bbd6d!8m2!3d17.0546513!4d79.2772171!16s%2Fg%2F11gxft7tm6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4106,10 +4140,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jayakumar+Skin+Care+Hospital/@17.0546513,79.2772171,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb298d8edc1a5f:0x6e17272b7f2bbd6d!8m2!3d17.0546513!4d79.2772171!16s%2Fg%2F11gxft7tm6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jds-dental-specialities-nalgonda",
@@ -4157,7 +4192,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/JDS+Dental+specialities/@17.056769,79.268496,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29e31eb56c0b:0xd21a20c6367e608d!8m2!3d17.056769!4d79.268496!16s%2Fg%2F11g10nr6_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JDS+Dental+specialities/@17.056769,79.268496,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29e31eb56c0b:0xd21a20c6367e608d!8m2!3d17.056769!4d79.268496!16s%2Fg%2F11g10nr6_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4223,10 +4258,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JDS+Dental+specialities/@17.056769,79.268496,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29e31eb56c0b:0xd21a20c6367e608d!8m2!3d17.056769!4d79.268496!16s%2Fg%2F11g10nr6_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jhansi-ayurvedic-clinic-nalgonda",
@@ -4274,7 +4310,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Jhansi+Ayurvedic+Clinic/@17.0538243,79.2686552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb291e3c9f325d:0xfc5435ad1769cd37!8m2!3d17.0538243!4d79.2686552!16s%2Fg%2F11rqjcty22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jhansi+Ayurvedic+Clinic/@17.0538243,79.2686552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb291e3c9f325d:0xfc5435ad1769cd37!8m2!3d17.0538243!4d79.2686552!16s%2Fg%2F11rqjcty22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4343,7 +4379,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jhansi+Ayurvedic+Clinic/@17.0538243,79.2686552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb291e3c9f325d:0xfc5435ad1769cd37!8m2!3d17.0538243!4d79.2686552!16s%2Fg%2F11rqjcty22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jyothi-hospital-nalgonda-nalgonda",
@@ -4391,7 +4428,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/JYOTHI+HOSPITAL+NALGONDA/@17.0569298,79.2805621,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29005e50e423:0xca070efd90021036!8m2!3d17.0569298!4d79.2805621!16s%2Fg%2F11xrr8f691?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JYOTHI+HOSPITAL+NALGONDA/@17.0569298,79.2805621,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29005e50e423:0xca070efd90021036!8m2!3d17.0569298!4d79.2805621!16s%2Fg%2F11xrr8f691?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4457,10 +4494,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JYOTHI+HOSPITAL+NALGONDA/@17.0569298,79.2805621,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29005e50e423:0xca070efd90021036!8m2!3d17.0569298!4d79.2805621!16s%2Fg%2F11xrr8f691?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kadimi-hospital-nalgonda",
@@ -4508,7 +4546,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Kadimi+Hospital/@17.053697,79.277402,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977c1858d01:0x4264b6091e70df8b!8m2!3d17.053697!4d79.277402!16s%2Fg%2F1hd_3zch4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kadimi+Hospital/@17.053697,79.277402,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977c1858d01:0x4264b6091e70df8b!8m2!3d17.053697!4d79.277402!16s%2Fg%2F1hd_3zch4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4577,7 +4615,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kadimi+Hospital/@17.053697,79.277402,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977c1858d01:0x4264b6091e70df8b!8m2!3d17.053697!4d79.277402!16s%2Fg%2F1hd_3zch4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kavitha-hospital-nalgonda",
@@ -4625,7 +4664,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kavitha+Hospital/@17.054531,79.27675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2940cad456a7:0xb471f04c4763e01e!8m2!3d17.054531!4d79.27675!16s%2Fg%2F11gxrwfjj7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kavitha+Hospital/@17.054531,79.27675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2940cad456a7:0xb471f04c4763e01e!8m2!3d17.054531!4d79.27675!16s%2Fg%2F11gxrwfjj7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4691,10 +4730,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kavitha+Hospital/@17.054531,79.27675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2940cad456a7:0xb471f04c4763e01e!8m2!3d17.054531!4d79.27675!16s%2Fg%2F11gxrwfjj7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kiran-neuro-care-nalgonda",
@@ -4743,7 +4783,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kiran+Neuro+Care/@17.0539208,79.2682741,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977e6f41a49:0xebacfe47b71ca16e!8m2!3d17.0539208!4d79.2682741!16s%2Fg%2F11l_4966kk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kiran+Neuro+Care/@17.0539208,79.2682741,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977e6f41a49:0xebacfe47b71ca16e!8m2!3d17.0539208!4d79.2682741!16s%2Fg%2F11l_4966kk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4809,10 +4849,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kiran+Neuro+Care/@17.0539208,79.2682741,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977e6f41a49:0xebacfe47b71ca16e!8m2!3d17.0539208!4d79.2682741!16s%2Fg%2F11l_4966kk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lahari-skin-and-hair-clinic-nalgonda",
@@ -4860,7 +4901,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lahari+skin+and+hair+clinic/@17.0514252,79.2668279,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29be7c38eb83:0xb09450a33d9e7b0e!8m2!3d17.0514252!4d79.2668279!16s%2Fg%2F11txpm9nks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lahari+skin+and+hair+clinic/@17.0514252,79.2668279,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29be7c38eb83:0xb09450a33d9e7b0e!8m2!3d17.0514252!4d79.2668279!16s%2Fg%2F11txpm9nks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -4926,10 +4967,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lahari+skin+and+hair+clinic/@17.0514252,79.2668279,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29be7c38eb83:0xb09450a33d9e7b0e!8m2!3d17.0514252!4d79.2668279!16s%2Fg%2F11txpm9nks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lalithya-skin-and-laser-clinic-nalgonda",
@@ -4977,7 +5019,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Lalithya+skin+and+laser+clinic/@17.0541136,79.2772437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2939490286ad:0xa67b537a069fbdb1!8m2!3d17.0541136!4d79.2772437!16s%2Fg%2F11rspp_7r6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lalithya+skin+and+laser+clinic/@17.0541136,79.2772437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2939490286ad:0xa67b537a069fbdb1!8m2!3d17.0541136!4d79.2772437!16s%2Fg%2F11rspp_7r6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5046,7 +5088,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lalithya+skin+and+laser+clinic/@17.0541136,79.2772437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2939490286ad:0xa67b537a069fbdb1!8m2!3d17.0541136!4d79.2772437!16s%2Fg%2F11rspp_7r6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "leelavathi-hospital-nalgonda",
@@ -5094,7 +5137,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Leelavathi+Hospital/@17.0587488,79.2807662,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297a26d8a9b3:0x51790144cbca3239!8m2!3d17.0587488!4d79.2807662!16s%2Fg%2F11cl_hqk34?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Leelavathi+Hospital/@17.0587488,79.2807662,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297a26d8a9b3:0x51790144cbca3239!8m2!3d17.0587488!4d79.2807662!16s%2Fg%2F11cl_hqk34?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5163,7 +5206,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Leelavathi+Hospital/@17.0587488,79.2807662,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297a26d8a9b3:0x51790144cbca3239!8m2!3d17.0587488!4d79.2807662!16s%2Fg%2F11cl_hqk34?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "leprosy-health-center-nalgonda",
@@ -5211,7 +5255,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Leprosy+Health+Center/@17.0349653,79.2687313,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29960eb49681:0xe07a16bd87f9a72d!8m2!3d17.0349653!4d79.2687313!16s%2Fg%2F11csqjp0bl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Leprosy+Health+Center/@17.0349653,79.2687313,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29960eb49681:0xe07a16bd87f9a72d!8m2!3d17.0349653!4d79.2687313!16s%2Fg%2F11csqjp0bl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5280,7 +5324,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Leprosy+Health+Center/@17.0349653,79.2687313,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29960eb49681:0xe07a16bd87f9a72d!8m2!3d17.0349653!4d79.2687313!16s%2Fg%2F11csqjp0bl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lifecare-clinic-nalgonda",
@@ -5329,7 +5374,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lifecare+Clinic/@17.0511043,79.2727721,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29cd00621d01:0x8248ef882ccd82d7!8m2!3d17.0511043!4d79.2727721!16s%2Fg%2F11s7fqfj56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lifecare+Clinic/@17.0511043,79.2727721,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29cd00621d01:0x8248ef882ccd82d7!8m2!3d17.0511043!4d79.2727721!16s%2Fg%2F11s7fqfj56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5395,10 +5440,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lifecare+Clinic/@17.0511043,79.2727721,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29cd00621d01:0x8248ef882ccd82d7!8m2!3d17.0511043!4d79.2727721!16s%2Fg%2F11s7fqfj56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mamatha-clinic-nalgonda",
@@ -5446,7 +5492,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Mamatha+Clinic/@17.0645263,79.2676341,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2912b2b6809d:0xbfa950225cb1051f!8m2!3d17.0645263!4d79.2676341!16s%2Fg%2F11g9q7k927?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mamatha+Clinic/@17.0645263,79.2676341,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2912b2b6809d:0xbfa950225cb1051f!8m2!3d17.0645263!4d79.2676341!16s%2Fg%2F11g9q7k927?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5515,7 +5561,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mamatha+Clinic/@17.0645263,79.2676341,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2912b2b6809d:0xbfa950225cb1051f!8m2!3d17.0645263!4d79.2676341!16s%2Fg%2F11g9q7k927?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mamatha-physiotherapy-and-rehab-clinic-nalgonda",
@@ -5564,7 +5611,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mamatha+Physiotherapy+and+Rehab+clinic/@17.0406594,79.252642,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29eb21ec6a07:0x4be6d42f21b165e2!8m2!3d17.0406594!4d79.252642!16s%2Fg%2F11x8v2zphh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mamatha+Physiotherapy+and+Rehab+clinic/@17.0406594,79.252642,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29eb21ec6a07:0x4be6d42f21b165e2!8m2!3d17.0406594!4d79.252642!16s%2Fg%2F11x8v2zphh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5630,10 +5677,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mamatha+Physiotherapy+and+Rehab+clinic/@17.0406594,79.252642,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29eb21ec6a07:0x4be6d42f21b165e2!8m2!3d17.0406594!4d79.252642!16s%2Fg%2F11x8v2zphh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manjira-hospital-nalgonda",
@@ -5681,7 +5729,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/MANJIRA+HOSPITAL/@17.0582667,79.2742183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297133ffffff:0xe66dfd49ba408e0!8m2!3d17.0582667!4d79.2742183!16s%2Fg%2F11f5hv76w7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MANJIRA+HOSPITAL/@17.0582667,79.2742183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297133ffffff:0xe66dfd49ba408e0!8m2!3d17.0582667!4d79.2742183!16s%2Fg%2F11f5hv76w7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5750,7 +5798,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MANJIRA+HOSPITAL/@17.0582667,79.2742183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297133ffffff:0xe66dfd49ba408e0!8m2!3d17.0582667!4d79.2742183!16s%2Fg%2F11f5hv76w7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "manohar-hospital-nalgonda",
@@ -5798,7 +5847,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/MANOHAR+HOSPITAL/@17.0590015,79.2765639,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2970d05ff289:0xe541db3eb66ca719!8m2!3d17.0590015!4d79.2765639!16s%2Fg%2F11clgvtx1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MANOHAR+HOSPITAL/@17.0590015,79.2765639,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2970d05ff289:0xe541db3eb66ca719!8m2!3d17.0590015!4d79.2765639!16s%2Fg%2F11clgvtx1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5867,7 +5916,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MANOHAR+HOSPITAL/@17.0590015,79.2765639,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2970d05ff289:0xe541db3eb66ca719!8m2!3d17.0590015!4d79.2765639!16s%2Fg%2F11clgvtx1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "max-care-hospital-miryalaguda",
@@ -5916,7 +5966,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Max+Care+Hospital/@16.8691828,79.5627007,17z/data=!3m1!4b1!4m6!3m5!1s0x3a35255c0aafed4b:0x942f86a983a0e798!8m2!3d16.8691828!4d79.5627007!16s%2Fg%2F11pvz7hrjq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Max+Care+Hospital/@16.8691828,79.5627007,17z/data=!3m1!4b1!4m6!3m5!1s0x3a35255c0aafed4b:0x942f86a983a0e798!8m2!3d16.8691828!4d79.5627007!16s%2Fg%2F11pvz7hrjq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5985,7 +6035,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Max+Care+Hospital/@16.8691828,79.5627007,17z/data=!3m1!4b1!4m6!3m5!1s0x3a35255c0aafed4b:0x942f86a983a0e798!8m2!3d16.8691828!4d79.5627007!16s%2Fg%2F11pvz7hrjq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medical-nalgonda",
@@ -6031,7 +6082,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/MEDICAL/@17.0539059,79.2680251,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2928e5c67357:0xd9307ea026dffdff!8m2!3d17.0539059!4d79.2680251!16s%2Fg%2F11s0zf9ql8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEDICAL/@17.0539059,79.2680251,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2928e5c67357:0xd9307ea026dffdff!8m2!3d17.0539059!4d79.2680251!16s%2Fg%2F11s0zf9ql8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6097,10 +6148,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MEDICAL/@17.0539059,79.2680251,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2928e5c67357:0xd9307ea026dffdff!8m2!3d17.0539059!4d79.2680251!16s%2Fg%2F11s0zf9ql8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medicenter-hospital-nalgonda",
@@ -6148,7 +6200,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Medicenter+Hospital/@17.0592668,79.2691828,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29736af216d7:0x66034c4816b1fd2f!8m2!3d17.0592668!4d79.2691828!16s%2Fg%2F11c1ph5cfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicenter+Hospital/@17.0592668,79.2691828,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29736af216d7:0x66034c4816b1fd2f!8m2!3d17.0592668!4d79.2691828!16s%2Fg%2F11c1ph5cfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6217,7 +6269,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicenter+Hospital/@17.0592668,79.2691828,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29736af216d7:0x66034c4816b1fd2f!8m2!3d17.0592668!4d79.2691828!16s%2Fg%2F11c1ph5cfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nalgonda-scan-centre-and-specialty-clinics-nalgonda",
@@ -6267,7 +6320,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Nalgonda+Scan+Centre+and+specialty+clinics/@17.0538078,79.2754269,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29f430453209:0x1b9e79ec3bbda0b7!8m2!3d17.0538078!4d79.2754269!16s%2Fg%2F11jjpfvvry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nalgonda+Scan+Centre+and+specialty+clinics/@17.0538078,79.2754269,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29f430453209:0x1b9e79ec3bbda0b7!8m2!3d17.0538078!4d79.2754269!16s%2Fg%2F11jjpfvvry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6336,7 +6389,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nalgonda+Scan+Centre+and+specialty+clinics/@17.0538078,79.2754269,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29f430453209:0x1b9e79ec3bbda0b7!8m2!3d17.0538078!4d79.2754269!16s%2Fg%2F11jjpfvvry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephrocare-dialysis-center-nalgonda",
@@ -6382,7 +6436,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Nephrocare+Dialysis+Center/@17.0726503,79.2838581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290acb17f467:0xbc285497366f67ad!8m2!3d17.0726503!4d79.2838581!16s%2Fg%2F11g6rl7bp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephrocare+Dialysis+Center/@17.0726503,79.2838581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290acb17f467:0xbc285497366f67ad!8m2!3d17.0726503!4d79.2838581!16s%2Fg%2F11g6rl7bp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6448,10 +6502,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nephrocare+Dialysis+Center/@17.0726503,79.2838581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290acb17f467:0xbc285497366f67ad!8m2!3d17.0726503!4d79.2838581!16s%2Fg%2F11g6rl7bp7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nephroplus-dialysis-and-kidney-care-clinic-in-nalgonda-nalgonda",
@@ -6502,7 +6557,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NephroPlus-+Dialysis+%26+Kidney+Care+Clinic+in+Nalgonda/@17.0543626,79.2687247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29753b2c5f93:0x2a87f0e4520bd6d9!8m2!3d17.0543626!4d79.2687247!16s%2Fg%2F11b7lpd9gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NephroPlus-+Dialysis+%26+Kidney+Care+Clinic+in+Nalgonda/@17.0543626,79.2687247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29753b2c5f93:0x2a87f0e4520bd6d9!8m2!3d17.0543626!4d79.2687247!16s%2Fg%2F11b7lpd9gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6568,10 +6623,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NephroPlus-+Dialysis+%26+Kidney+Care+Clinic+in+Nalgonda/@17.0543626,79.2687247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29753b2c5f93:0x2a87f0e4520bd6d9!8m2!3d17.0543626!4d79.2687247!16s%2Fg%2F11b7lpd9gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nest-children-s-hospital-nalgonda",
@@ -6621,7 +6677,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NEST+CHILDREN'S+HOSPITAL/@17.0539703,79.2758598,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290e8c95b32f:0xafcee8d9ad2884c!8m2!3d17.0539703!4d79.2758598!16s%2Fg%2F11y0pkhk_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NEST+CHILDREN'S+HOSPITAL/@17.0539703,79.2758598,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290e8c95b32f:0xafcee8d9ad2884c!8m2!3d17.0539703!4d79.2758598!16s%2Fg%2F11y0pkhk_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6687,10 +6743,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NEST+CHILDREN'S+HOSPITAL/@17.0539703,79.2758598,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290e8c95b32f:0xafcee8d9ad2884c!8m2!3d17.0539703!4d79.2758598!16s%2Fg%2F11y0pkhk_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nims-nalgonda-institute-of-medical-sciences-nalgonda",
@@ -6739,7 +6796,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Nims+Nalgonda+institute+of+medical+sciences/@17.05904,79.26912,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29405fed94b9:0x4b17d226f9d21aa9!8m2!3d17.05904!4d79.26912!16s%2Fg%2F11qg085t1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nims+Nalgonda+institute+of+medical+sciences/@17.05904,79.26912,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29405fed94b9:0x4b17d226f9d21aa9!8m2!3d17.05904!4d79.26912!16s%2Fg%2F11qg085t1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6808,7 +6865,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nims+Nalgonda+institute+of+medical+sciences/@17.05904,79.26912,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29405fed94b9:0x4b17d226f9d21aa9!8m2!3d17.05904!4d79.26912!16s%2Fg%2F11qg085t1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "noble-hospital-nalgonda",
@@ -6856,7 +6914,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Noble+Hospital/@17.0538351,79.2676449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290acb4753dd:0x987410a9456ac062!8m2!3d17.0538351!4d79.2676449!16s%2Fg%2F12646stkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Noble+Hospital/@17.0538351,79.2676449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290acb4753dd:0x987410a9456ac062!8m2!3d17.0538351!4d79.2676449!16s%2Fg%2F12646stkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -6925,7 +6983,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Noble+Hospital/@17.0538351,79.2676449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290acb4753dd:0x987410a9456ac062!8m2!3d17.0538351!4d79.2676449!16s%2Fg%2F12646stkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "omni-dental-care-nalgonda",
@@ -6973,7 +7032,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/omni%2B+dental+care/@17.0557456,79.2762649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29dc83fc18d7:0xa21ff3752b237c4!8m2!3d17.0557456!4d79.2762649!16s%2Fg%2F11kk7nyxhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/omni%2B+dental+care/@17.0557456,79.2762649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29dc83fc18d7:0xa21ff3752b237c4!8m2!3d17.0557456!4d79.2762649!16s%2Fg%2F11kk7nyxhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7039,10 +7098,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/omni%2B+dental+care/@17.0557456,79.2762649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29dc83fc18d7:0xa21ff3752b237c4!8m2!3d17.0557456!4d79.2762649!16s%2Fg%2F11kk7nyxhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "padma-devi-clinic-nalgonda",
@@ -7090,7 +7150,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Padma+Devi+Clinic/@17.0633675,79.270524,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29727d8e134d:0x15274b3c150bdc8b!8m2!3d17.0633675!4d79.270524!16s%2Fg%2F11c1xfwn5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Padma+Devi+Clinic/@17.0633675,79.270524,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29727d8e134d:0x15274b3c150bdc8b!8m2!3d17.0633675!4d79.270524!16s%2Fg%2F11c1xfwn5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7159,7 +7219,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Padma+Devi+Clinic/@17.0633675,79.270524,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29727d8e134d:0x15274b3c150bdc8b!8m2!3d17.0633675!4d79.270524!16s%2Fg%2F11c1xfwn5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "padma-hospital-nlg-nalgonda",
@@ -7207,7 +7268,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/PADMA+HOSPITAL+NLG/@17.0539996,79.2688761,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29753c36af63:0xcfb62de5b00fbb14!8m2!3d17.0539996!4d79.2688761!16s%2Fg%2F11f4t5zfy5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PADMA+HOSPITAL+NLG/@17.0539996,79.2688761,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29753c36af63:0xcfb62de5b00fbb14!8m2!3d17.0539996!4d79.2688761!16s%2Fg%2F11f4t5zfy5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7276,7 +7337,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PADMA+HOSPITAL+NLG/@17.0539996,79.2688761,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29753c36af63:0xcfb62de5b00fbb14!8m2!3d17.0539996!4d79.2688761!16s%2Fg%2F11f4t5zfy5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "partha-dental-clinic-nalgonda-invisalign-provider-aligners-braces-root-canal-and-implants-nalgonda",
@@ -7325,7 +7387,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Nalgonda+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Aligners,+Braces,+Root+Canal+%26+Implants/@17.0541553,79.2689711,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29753d179751:0xedb5154c26af31!8m2!3d17.0541553!4d79.2689711!16s%2Fg%2F11gh2t53dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Nalgonda+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Aligners,+Braces,+Root+Canal+%26+Implants/@17.0541553,79.2689711,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29753d179751:0xedb5154c26af31!8m2!3d17.0541553!4d79.2689711!16s%2Fg%2F11gh2t53dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7394,7 +7456,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Nalgonda+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Aligners,+Braces,+Root+Canal+%26+Implants/@17.0541553,79.2689711,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29753d179751:0xedb5154c26af31!8m2!3d17.0541553!4d79.2689711!16s%2Fg%2F11gh2t53dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "praja-clinic-nalgonda",
@@ -7442,7 +7505,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Praja+Clinic/@17.0542833,79.2662687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290add631ded:0x1dc94fbd77912b1b!8m2!3d17.0542833!4d79.2662687!16s%2Fg%2F11cs3f7hwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Praja+Clinic/@17.0542833,79.2662687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290add631ded:0x1dc94fbd77912b1b!8m2!3d17.0542833!4d79.2662687!16s%2Fg%2F11cs3f7hwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7511,7 +7574,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Praja+Clinic/@17.0542833,79.2662687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290add631ded:0x1dc94fbd77912b1b!8m2!3d17.0542833!4d79.2662687!16s%2Fg%2F11cs3f7hwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "procare-dental-clinic-nalgonda",
@@ -7559,7 +7623,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Procare+Dental+Clinic/@17.0504149,79.2676798,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb299f8a80fb9b:0xd99a70f93a2bbfe4!8m2!3d17.0504149!4d79.2676798!16s%2Fg%2F1pp2tzm29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Procare+Dental+Clinic/@17.0504149,79.2676798,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb299f8a80fb9b:0xd99a70f93a2bbfe4!8m2!3d17.0504149!4d79.2676798!16s%2Fg%2F1pp2tzm29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7625,10 +7689,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Procare+Dental+Clinic/@17.0504149,79.2676798,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb299f8a80fb9b:0xd99a70f93a2bbfe4!8m2!3d17.0504149!4d79.2676798!16s%2Fg%2F1pp2tzm29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "queens-beauty-clinic-nalgonda",
@@ -7677,7 +7742,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Queens+Beauty+Clinic/@17.0622155,79.2731342,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297226cd0c6f:0x1ea38a928321088e!8m2!3d17.0622155!4d79.2731342!16s%2Fg%2F11g8w_6k_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Queens+Beauty+Clinic/@17.0622155,79.2731342,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297226cd0c6f:0x1ea38a928321088e!8m2!3d17.0622155!4d79.2731342!16s%2Fg%2F11g8w_6k_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7746,7 +7811,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Queens+Beauty+Clinic/@17.0622155,79.2731342,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297226cd0c6f:0x1ea38a928321088e!8m2!3d17.0622155!4d79.2731342!16s%2Fg%2F11g8w_6k_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajeshwari-hospital-nalgonda",
@@ -7795,7 +7861,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rajeshwari+Hospital/@17.0538758,79.2768147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977c7fb8165:0xa5d1ba020b5d1bd4!8m2!3d17.0538758!4d79.2768147!16s%2Fg%2F11c44w_7hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajeshwari+Hospital/@17.0538758,79.2768147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977c7fb8165:0xa5d1ba020b5d1bd4!8m2!3d17.0538758!4d79.2768147!16s%2Fg%2F11c44w_7hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7864,7 +7930,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajeshwari+Hospital/@17.0538758,79.2768147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977c7fb8165:0xa5d1ba020b5d1bd4!8m2!3d17.0538758!4d79.2768147!16s%2Fg%2F11c44w_7hs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rakesh-chest-and-general-hospital-nalgonda",
@@ -7912,7 +7979,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Rakesh+Chest+And+General+Hospital/@17.0536891,79.2691323,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2918abeee1a9:0xa0c7673ac41c6002!8m2!3d17.0536891!4d79.2691323!16s%2Fg%2F11vdk9ssj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rakesh+Chest+And+General+Hospital/@17.0536891,79.2691323,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2918abeee1a9:0xa0c7673ac41c6002!8m2!3d17.0536891!4d79.2691323!16s%2Fg%2F11vdk9ssj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7981,7 +8048,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rakesh+Chest+And+General+Hospital/@17.0536891,79.2691323,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2918abeee1a9:0xa0c7673ac41c6002!8m2!3d17.0536891!4d79.2691323!16s%2Fg%2F11vdk9ssj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rathna-eye-hospital-nalgonda-nalgonda",
@@ -8029,7 +8097,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Rathna+Eye+Hospital,+Nalgonda/@17.0577013,79.2759002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2976d711da59:0x8b7fad663a884c19!8m2!3d17.0577013!4d79.2759002!16s%2Fg%2F11g87lwggs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rathna+Eye+Hospital,+Nalgonda/@17.0577013,79.2759002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2976d711da59:0x8b7fad663a884c19!8m2!3d17.0577013!4d79.2759002!16s%2Fg%2F11g87lwggs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8098,7 +8166,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rathna+Eye+Hospital,+Nalgonda/@17.0577013,79.2759002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2976d711da59:0x8b7fad663a884c19!8m2!3d17.0577013!4d79.2759002!16s%2Fg%2F11g87lwggs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "river-nims-hospital-nalgonda-institute-of-medical-sciences-nalgonda",
@@ -8147,7 +8216,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RIVER+NIMS+HOSPITAL(NALGONDA+INSTITUTE+OF+MEDICAL+SCIENCES+)/@17.05904,79.2691226,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290702c9cf69:0x8518812feb4eedcf!8m2!3d17.05904!4d79.2691226!16s%2Fg%2F11rwlp6vvx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RIVER+NIMS+HOSPITAL(NALGONDA+INSTITUTE+OF+MEDICAL+SCIENCES+)/@17.05904,79.2691226,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290702c9cf69:0x8518812feb4eedcf!8m2!3d17.05904!4d79.2691226!16s%2Fg%2F11rwlp6vvx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8216,7 +8285,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RIVER+NIMS+HOSPITAL(NALGONDA+INSTITUTE+OF+MEDICAL+SCIENCES+)/@17.05904,79.2691226,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290702c9cf69:0x8518812feb4eedcf!8m2!3d17.05904!4d79.2691226!16s%2Fg%2F11rwlp6vvx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rjr-herbal-hospital-nalgonda-nalgonda",
@@ -8265,7 +8335,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RJR+Herbal+Hospital+-+NALGONDA/@17.0743984,79.2618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29252a65e977:0xa158d1b8671c30d!8m2!3d17.0743984!4d79.2618!16s%2Fg%2F11rt_2wstl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RJR+Herbal+Hospital+-+NALGONDA/@17.0743984,79.2618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29252a65e977:0xa158d1b8671c30d!8m2!3d17.0743984!4d79.2618!16s%2Fg%2F11rt_2wstl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8334,7 +8404,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RJR+Herbal+Hospital+-+NALGONDA/@17.0743984,79.2618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29252a65e977:0xa158d1b8671c30d!8m2!3d17.0743984!4d79.2618!16s%2Fg%2F11rt_2wstl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rohit-ent-eye-and-advanced-laser-centre-head-and-neck-hospital-in-nalgonda-30-years-of-trusted-care-nalgonda",
@@ -8383,7 +8454,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rohit+ENT,+Eye+%26+Advanced+Laser+Centre+%7C+Head+%26+Neck+Hospital+in+Nalgonda+%7C+30+Years+of+Trusted+Care/@17.0538933,79.274363,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29766aa34535:0x5e6ebe9e9534c924!8m2!3d17.0538933!4d79.274363!16s%2Fg%2F1hg50x3fw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rohit+ENT,+Eye+%26+Advanced+Laser+Centre+%7C+Head+%26+Neck+Hospital+in+Nalgonda+%7C+30+Years+of+Trusted+Care/@17.0538933,79.274363,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29766aa34535:0x5e6ebe9e9534c924!8m2!3d17.0538933!4d79.274363!16s%2Fg%2F1hg50x3fw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8452,7 +8523,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rohit+ENT,+Eye+%26+Advanced+Laser+Centre+%7C+Head+%26+Neck+Hospital+in+Nalgonda+%7C+30+Years+of+Trusted+Care/@17.0538933,79.274363,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29766aa34535:0x5e6ebe9e9534c924!8m2!3d17.0538933!4d79.274363!16s%2Fg%2F1hg50x3fw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rohit-eye-hospital-and-laser-centre-nalgonda",
@@ -8500,7 +8572,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ROHIT+EYE+HOSPITAL+%26LASER+CENTRE/@17.0539963,79.2745649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb294de7ba9d73:0x430bbde12bb05ce5!8m2!3d17.0539963!4d79.2745649!16s%2Fg%2F11tjq0v8d9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ROHIT+EYE+HOSPITAL+%26LASER+CENTRE/@17.0539963,79.2745649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb294de7ba9d73:0x430bbde12bb05ce5!8m2!3d17.0539963!4d79.2745649!16s%2Fg%2F11tjq0v8d9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8566,10 +8638,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ROHIT+EYE+HOSPITAL+%26LASER+CENTRE/@17.0539963,79.2745649,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb294de7ba9d73:0x430bbde12bb05ce5!8m2!3d17.0539963!4d79.2745649!16s%2Fg%2F11tjq0v8d9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rushank-physiotherapy-and-pain-clinic-nalgonda",
@@ -8618,7 +8691,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rushank+physiotherapy+and+pain+clinic/@17.0569414,79.2739691,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db4655c89189:0x8e1586ada9e5533b!8m2!3d17.0569414!4d79.2739691!16s%2Fg%2F11frp27sjk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rushank+physiotherapy+and+pain+clinic/@17.0569414,79.2739691,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db4655c89189:0x8e1586ada9e5533b!8m2!3d17.0569414!4d79.2739691!16s%2Fg%2F11frp27sjk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8684,10 +8757,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rushank+physiotherapy+and+pain+clinic/@17.0569414,79.2739691,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db4655c89189:0x8e1586ada9e5533b!8m2!3d17.0569414!4d79.2739691!16s%2Fg%2F11frp27sjk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sahasra-hospital-nalgonda",
@@ -8735,7 +8809,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SAHASRA+HOSPITAL/@17.0541963,79.2701125,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29ba4d5fdf9f:0xc6db4ed041a1ad76!8m2!3d17.0541963!4d79.2701125!16s%2Fg%2F11tr_z1xj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAHASRA+HOSPITAL/@17.0541963,79.2701125,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29ba4d5fdf9f:0xc6db4ed041a1ad76!8m2!3d17.0541963!4d79.2701125!16s%2Fg%2F11tr_z1xj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8801,10 +8875,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAHASRA+HOSPITAL/@17.0541963,79.2701125,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29ba4d5fdf9f:0xc6db4ed041a1ad76!8m2!3d17.0541963!4d79.2701125!16s%2Fg%2F11tr_z1xj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saibarathi-dental-clinic-nalgonda",
@@ -8852,7 +8927,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SaiBarathi+Dental+Clinic/@17.0540621,79.2681753,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29e174f4fc15:0x26fd1a44e12a458!8m2!3d17.0540621!4d79.2681753!16s%2Fg%2F11h6cs1kc_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SaiBarathi+Dental+Clinic/@17.0540621,79.2681753,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29e174f4fc15:0x26fd1a44e12a458!8m2!3d17.0540621!4d79.2681753!16s%2Fg%2F11h6cs1kc_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8918,10 +8993,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SaiBarathi+Dental+Clinic/@17.0540621,79.2681753,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29e174f4fc15:0x26fd1a44e12a458!8m2!3d17.0540621!4d79.2681753!16s%2Fg%2F11h6cs1kc_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sarojini-eye-hospital-nalgonda",
@@ -8970,7 +9046,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Sarojini+Eye+Hospital/@17.0540683,79.2690937,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2975161ab01d:0x88825c79a0ce5d0!8m2!3d17.0540683!4d79.2690937!16s%2Fg%2F1hd_pjhx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sarojini+Eye+Hospital/@17.0540683,79.2690937,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2975161ab01d:0x88825c79a0ce5d0!8m2!3d17.0540683!4d79.2690937!16s%2Fg%2F1hd_pjhx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9039,7 +9115,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sarojini+Eye+Hospital/@17.0540683,79.2690937,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2975161ab01d:0x88825c79a0ce5d0!8m2!3d17.0540683!4d79.2690937!16s%2Fg%2F1hd_pjhx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivamani-dental-hospital-nalgonda",
@@ -9088,7 +9165,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shivamani+Dental+Hospital/@17.0541605,79.2771973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977b8cf3873:0x2b2bf4a710356150!8m2!3d17.0541605!4d79.2771973!16s%2Fg%2F11c5_t7xfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivamani+Dental+Hospital/@17.0541605,79.2771973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977b8cf3873:0x2b2bf4a710356150!8m2!3d17.0541605!4d79.2771973!16s%2Fg%2F11c5_t7xfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9157,7 +9234,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivamani+Dental+Hospital/@17.0541605,79.2771973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977b8cf3873:0x2b2bf4a710356150!8m2!3d17.0541605!4d79.2771973!16s%2Fg%2F11c5_t7xfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-shrikara-hospital-nalgonda-nalgonda",
@@ -9205,7 +9283,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Shrikara+Hospital+,Nalgonda/@17.0519261,79.2730236,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2937c8e5c339:0x826c4960da2bf43e!8m2!3d17.0519261!4d79.2730236!16s%2Fg%2F11xtn7jpwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Shrikara+Hospital+,Nalgonda/@17.0519261,79.2730236,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2937c8e5c339:0x826c4960da2bf43e!8m2!3d17.0519261!4d79.2730236!16s%2Fg%2F11xtn7jpwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9274,7 +9352,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Shrikara+Hospital+,Nalgonda/@17.0519261,79.2730236,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2937c8e5c339:0x826c4960da2bf43e!8m2!3d17.0519261!4d79.2730236!16s%2Fg%2F11xtn7jpwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "siddhartha-speciality-clinic-nalgonda",
@@ -9326,7 +9405,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Siddhartha+Speciality+Clinic/@17.0617573,79.2727828,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2976faaaaaab:0x57d2c8e40841c472!8m2!3d17.0617573!4d79.2727828!16s%2Fg%2F11l27cq1f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siddhartha+Speciality+Clinic/@17.0617573,79.2727828,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2976faaaaaab:0x57d2c8e40841c472!8m2!3d17.0617573!4d79.2727828!16s%2Fg%2F11l27cq1f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9392,10 +9471,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Siddhartha+Speciality+Clinic/@17.0617573,79.2727828,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2976faaaaaab:0x57d2c8e40841c472!8m2!3d17.0617573!4d79.2727828!16s%2Fg%2F11l27cq1f3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sindhura-multi-specility-hospital-nalgonda",
@@ -9444,7 +9524,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sindhura+Multi+Specility+Hospital/@17.0583851,79.2805386,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297538efffff:0xfcaebe772bf77e87!8m2!3d17.0583851!4d79.2805386!16s%2Fg%2F11rdcgjgr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sindhura+Multi+Specility+Hospital/@17.0583851,79.2805386,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297538efffff:0xfcaebe772bf77e87!8m2!3d17.0583851!4d79.2805386!16s%2Fg%2F11rdcgjgr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9513,7 +9593,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sindhura+Multi+Specility+Hospital/@17.0583851,79.2805386,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297538efffff:0xfcaebe772bf77e87!8m2!3d17.0583851!4d79.2805386!16s%2Fg%2F11rdcgjgr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skanda-lifeline-hospital-nalgonda",
@@ -9562,7 +9643,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SKANDA+LIFELINE+HOSPITAL/@17.0541515,79.2695307,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb295a5008a511:0x2ef4a7405bd64a71!8m2!3d17.0541515!4d79.2695307!16s%2Fg%2F11ydb2llyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SKANDA+LIFELINE+HOSPITAL/@17.0541515,79.2695307,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb295a5008a511:0x2ef4a7405bd64a71!8m2!3d17.0541515!4d79.2695307!16s%2Fg%2F11ydb2llyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9631,7 +9712,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SKANDA+LIFELINE+HOSPITAL/@17.0541515,79.2695307,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb295a5008a511:0x2ef4a7405bd64a71!8m2!3d17.0541515!4d79.2695307!16s%2Fg%2F11ydb2llyj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sn-cosmetic-clinic-nalgonda",
@@ -9680,7 +9762,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SN+Cosmetic+Clinic/@17.038942,79.2572095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb296d994e6a95:0xb1681f2dd603ceff!8m2!3d17.038942!4d79.2572095!16s%2Fg%2F11krh3xj8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SN+Cosmetic+Clinic/@17.038942,79.2572095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb296d994e6a95:0xb1681f2dd603ceff!8m2!3d17.038942!4d79.2572095!16s%2Fg%2F11krh3xj8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9746,10 +9828,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SN+Cosmetic+Clinic/@17.038942,79.2572095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb296d994e6a95:0xb1681f2dd603ceff!8m2!3d17.038942!4d79.2572095!16s%2Fg%2F11krh3xj8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sreelatha-hospital-infertility-laparoscopic-centre-nalgonda",
@@ -9798,7 +9881,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Sreelatha+Hospital+Infertility+Laparoscopic+Centre/@17.0536677,79.2748141,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297637e10dfd:0xb0e30593757167f6!8m2!3d17.0536677!4d79.2748141!16s%2Fg%2F11c5hyrkby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sreelatha+Hospital+Infertility+Laparoscopic+Centre/@17.0536677,79.2748141,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297637e10dfd:0xb0e30593757167f6!8m2!3d17.0536677!4d79.2748141!16s%2Fg%2F11c5hyrkby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9867,7 +9950,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sreelatha+Hospital+Infertility+Laparoscopic+Centre/@17.0536677,79.2748141,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297637e10dfd:0xb0e30593757167f6!8m2!3d17.0536677!4d79.2748141!16s%2Fg%2F11c5hyrkby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-ashwini-children-s-hospital-nalgonda",
@@ -9916,7 +10000,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Ashwini+Children's+Hospital/@17.0608797,79.2718551,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2973b4cae7e3:0xcd06f61b2e338f8b!8m2!3d17.0608797!4d79.2718551!16s%2Fg%2F11b6ggf1xh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Ashwini+Children's+Hospital/@17.0608797,79.2718551,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2973b4cae7e3:0xcd06f61b2e338f8b!8m2!3d17.0608797!4d79.2718551!16s%2Fg%2F11b6ggf1xh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9985,7 +10069,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Ashwini+Children's+Hospital/@17.0608797,79.2718551,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2973b4cae7e3:0xcd06f61b2e338f8b!8m2!3d17.0608797!4d79.2718551!16s%2Fg%2F11b6ggf1xh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-rl-skin-and-ent-hospital-nalgonda",
@@ -10034,7 +10119,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+RL+skin+%26+ENT+hospital/@21.0680074,82.7525294,5z/data=!3m1!4b1!4m6!3m5!1s0x3bcb291d84250a41:0xddde975fcd986425!8m2!3d21.0680074!4d82.7525294!16s%2Fg%2F11xfdk14vw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+RL+skin+%26+ENT+hospital/@21.0680074,82.7525294,5z/data=!3m1!4b1!4m6!3m5!1s0x3bcb291d84250a41:0xddde975fcd986425!8m2!3d21.0680074!4d82.7525294!16s%2Fg%2F11xfdk14vw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10103,7 +10188,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+RL+skin+%26+ENT+hospital/@21.0680074,82.7525294,5z/data=!3m1!4b1!4m6!3m5!1s0x3bcb291d84250a41:0xddde975fcd986425!8m2!3d21.0680074!4d82.7525294!16s%2Fg%2F11xfdk14vw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-sai-raksha-hospital-nalgonda",
@@ -10151,7 +10237,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sai+Raksha+Hospital/@17.0538947,79.276985,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2976283d2549:0x3fdc3642cfea8839!8m2!3d17.0538947!4d79.276985!16s%2Fg%2F11hc_wb6nq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sai+Raksha+Hospital/@17.0538947,79.276985,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2976283d2549:0x3fdc3642cfea8839!8m2!3d17.0538947!4d79.276985!16s%2Fg%2F11hc_wb6nq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10217,10 +10303,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sai+Raksha+Hospital/@17.0538947,79.276985,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2976283d2549:0x3fdc3642cfea8839!8m2!3d17.0538947!4d79.276985!16s%2Fg%2F11hc_wb6nq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-santhoshi-matha-hospital-nalgonda",
@@ -10268,7 +10355,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Santhoshi+Matha+Hospital/@17.0595009,79.2733319,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29ca7478e30b:0x75e8456ee1385e36!8m2!3d17.0595009!4d79.2733319!16s%2Fg%2F11g0m3cb9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Santhoshi+Matha+Hospital/@17.0595009,79.2733319,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29ca7478e30b:0x75e8456ee1385e36!8m2!3d17.0595009!4d79.2733319!16s%2Fg%2F11g0m3cb9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10337,7 +10424,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Santhoshi+Matha+Hospital/@17.0595009,79.2733319,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29ca7478e30b:0x75e8456ee1385e36!8m2!3d17.0595009!4d79.2733319!16s%2Fg%2F11g0m3cb9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-tulasi-hospitals-nalgonda",
@@ -10385,7 +10473,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Tulasi+Hospitals/@17.0395798,79.2573566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29c30cd5ac7f:0xdd446b425f18ccda!8m2!3d17.0395798!4d79.2573566!16s%2Fg%2F11rz9bs22l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Tulasi+Hospitals/@17.0395798,79.2573566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29c30cd5ac7f:0xdd446b425f18ccda!8m2!3d17.0395798!4d79.2573566!16s%2Fg%2F11rz9bs22l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10454,7 +10542,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Tulasi+Hospitals/@17.0395798,79.2573566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29c30cd5ac7f:0xdd446b425f18ccda!8m2!3d17.0395798!4d79.2573566!16s%2Fg%2F11rz9bs22l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srilatha-dental-clinic-nalgonda",
@@ -10503,7 +10592,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Srilatha+Dental+Clinic/@17.054234,79.2695535,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29082f60d6d5:0x400e7fae38d46dce!8m2!3d17.054234!4d79.2695535!16s%2Fg%2F11s7krmkn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srilatha+Dental+Clinic/@17.054234,79.2695535,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29082f60d6d5:0x400e7fae38d46dce!8m2!3d17.054234!4d79.2695535!16s%2Fg%2F11s7krmkn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10569,10 +10658,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srilatha+Dental+Clinic/@17.054234,79.2695535,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29082f60d6d5:0x400e7fae38d46dce!8m2!3d17.054234!4d79.2695535!16s%2Fg%2F11s7krmkn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srujana-dental-hospital-nalgonda-nalgonda",
@@ -10621,7 +10711,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Srujana+Dental+Hospital+Nalgonda/@17.0538175,79.275182,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb292c63fa34b3:0x429bf5855ed11575!8m2!3d17.0538175!4d79.275182!16s%2Fg%2F11j2nk3db6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srujana+Dental+Hospital+Nalgonda/@17.0538175,79.275182,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb292c63fa34b3:0x429bf5855ed11575!8m2!3d17.0538175!4d79.275182!16s%2Fg%2F11j2nk3db6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10687,10 +10777,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srujana+Dental+Hospital+Nalgonda/@17.0538175,79.275182,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb292c63fa34b3:0x429bf5855ed11575!8m2!3d17.0538175!4d79.275182!16s%2Fg%2F11j2nk3db6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surya-hospital-nalgonda-nalgonda",
@@ -10738,7 +10829,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Surya+hospital,+nalgonda/@17.0403539,79.264533,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297e88b22163:0x8d8a0f85510a1294!8m2!3d17.0403539!4d79.264533!16s%2Fg%2F11h5rpqphg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+hospital,+nalgonda/@17.0403539,79.264533,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297e88b22163:0x8d8a0f85510a1294!8m2!3d17.0403539!4d79.264533!16s%2Fg%2F11h5rpqphg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10807,7 +10898,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surya+hospital,+nalgonda/@17.0403539,79.264533,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297e88b22163:0x8d8a0f85510a1294!8m2!3d17.0403539!4d79.264533!16s%2Fg%2F11h5rpqphg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "susrutha-clinic-and-diagnostic-centre-nalgonda",
@@ -10855,7 +10947,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Susrutha+Clinic+%26+Diagnostic+Centre/@17.0512256,79.2675942,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb299c40c22c5d:0x9c70a4215c8d9172!8m2!3d17.0512256!4d79.2675942!16s%2Fg%2F11tfcpv7y6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Susrutha+Clinic+%26+Diagnostic+Centre/@17.0512256,79.2675942,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb299c40c22c5d:0x9c70a4215c8d9172!8m2!3d17.0512256!4d79.2675942!16s%2Fg%2F11tfcpv7y6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10921,10 +11013,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Susrutha+Clinic+%26+Diagnostic+Centre/@17.0512256,79.2675942,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb299c40c22c5d:0x9c70a4215c8d9172!8m2!3d17.0512256!4d79.2675942!16s%2Fg%2F11tfcpv7y6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "svr-dental-clinic-and-implant-center-nalgonda",
@@ -10972,7 +11065,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SVR+Dental+Clinic+and+Implant+Center/@17.0507978,79.2704436,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29837ca0a5cd:0x3c8dac547d9e78a9!8m2!3d17.0507978!4d79.2704436!16s%2Fg%2F11f54957qg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SVR+Dental+Clinic+and+Implant+Center/@17.0507978,79.2704436,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29837ca0a5cd:0x3c8dac547d9e78a9!8m2!3d17.0507978!4d79.2704436!16s%2Fg%2F11f54957qg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11038,10 +11131,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SVR+Dental+Clinic+and+Implant+Center/@17.0507978,79.2704436,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29837ca0a5cd:0x3c8dac547d9e78a9!8m2!3d17.0507978!4d79.2704436!16s%2Fg%2F11f54957qg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -11091,7 +11185,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
@@ -11157,10 +11251,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "triveni-hospital-nalgonda",
@@ -11208,7 +11303,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Triveni+Hospital/@17.0543752,79.276517,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2954cf4063b9:0xcdc3c2dfae9208ab!8m2!3d17.0543752!4d79.276517!16s%2Fg%2F11hdz7q2vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Triveni+Hospital/@17.0543752,79.276517,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2954cf4063b9:0xcdc3c2dfae9208ab!8m2!3d17.0543752!4d79.276517!16s%2Fg%2F11hdz7q2vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11277,7 +11372,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Triveni+Hospital/@17.0543752,79.276517,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2954cf4063b9:0xcdc3c2dfae9208ab!8m2!3d17.0543752!4d79.276517!16s%2Fg%2F11hdz7q2vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tulips-children-s-hospital-nalgonda",
@@ -11326,7 +11422,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Tulips+children%E2%80%99s+hospital/@17.0544399,79.2773464,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29a992671847:0x4031cf1088e232a6!8m2!3d17.0544399!4d79.2773464!16s%2Fg%2F11j8lz7fld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tulips+children%E2%80%99s+hospital/@17.0544399,79.2773464,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29a992671847:0x4031cf1088e232a6!8m2!3d17.0544399!4d79.2773464!16s%2Fg%2F11j8lz7fld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11395,7 +11491,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tulips+children%E2%80%99s+hospital/@17.0544399,79.2773464,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29a992671847:0x4031cf1088e232a6!8m2!3d17.0544399!4d79.2773464!16s%2Fg%2F11j8lz7fld?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "uday-hospital-nalgonda",
@@ -11443,7 +11540,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/UDAY+HOSPITAL/@17.0393925,79.2550566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29a8e3fc7931:0x47f11f7cad2fd87d!8m2!3d17.0393925!4d79.2550566!16s%2Fg%2F11rkbp4t8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UDAY+HOSPITAL/@17.0393925,79.2550566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29a8e3fc7931:0x47f11f7cad2fd87d!8m2!3d17.0393925!4d79.2550566!16s%2Fg%2F11rkbp4t8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11509,10 +11606,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/UDAY+HOSPITAL/@17.0393925,79.2550566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29a8e3fc7931:0x47f11f7cad2fd87d!8m2!3d17.0393925!4d79.2550566!16s%2Fg%2F11rkbp4t8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "udaya-sree-maternity-and-laparoscopy-hospital-nalgonda",
@@ -11561,7 +11659,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Udaya+Sree+maternity+and+laparoscopy+hospital/@17.0580203,79.2760015,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29df395a2c6b:0xf8aaaabafb8957a4!8m2!3d17.0580203!4d79.2760015!16s%2Fg%2F11qprw3nfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Udaya+Sree+maternity+and+laparoscopy+hospital/@17.0580203,79.2760015,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29df395a2c6b:0xf8aaaabafb8957a4!8m2!3d17.0580203!4d79.2760015!16s%2Fg%2F11qprw3nfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11630,7 +11728,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Udaya+Sree+maternity+and+laparoscopy+hospital/@17.0580203,79.2760015,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29df395a2c6b:0xf8aaaabafb8957a4!8m2!3d17.0580203!4d79.2760015!16s%2Fg%2F11qprw3nfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "unicare-homeopathy-nalgonda-nalgonda",
@@ -11679,7 +11778,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/UNICARE+HOMEOPATHY+NALGONDA/@17.0541664,79.2689124,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297726d82fc5:0x91dae528f37f5c40!8m2!3d17.0541664!4d79.2689124!16s%2Fg%2F11z3kvsyw9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UNICARE+HOMEOPATHY+NALGONDA/@17.0541664,79.2689124,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297726d82fc5:0x91dae528f37f5c40!8m2!3d17.0541664!4d79.2689124!16s%2Fg%2F11z3kvsyw9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -11745,10 +11844,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/UNICARE+HOMEOPATHY+NALGONDA/@17.0541664,79.2689124,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297726d82fc5:0x91dae528f37f5c40!8m2!3d17.0541664!4d79.2689124!16s%2Fg%2F11z3kvsyw9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "urovision-hospital-nalgonda",
@@ -11796,7 +11896,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/UROVISION+HOSPITAL/@17.0578896,79.2805625,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb294af72c61cf:0x84fb075a9d9596cd!8m2!3d17.0578896!4d79.2805625!16s%2Fg%2F11fmp8m_h9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/UROVISION+HOSPITAL/@17.0578896,79.2805625,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb294af72c61cf:0x84fb075a9d9596cd!8m2!3d17.0578896!4d79.2805625!16s%2Fg%2F11fmp8m_h9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11865,7 +11965,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/UROVISION+HOSPITAL/@17.0578896,79.2805625,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb294af72c61cf:0x84fb075a9d9596cd!8m2!3d17.0578896!4d79.2805625!16s%2Fg%2F11fmp8m_h9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vijay-hospital-and-diagnostic-center-nalgonda",
@@ -11913,7 +12014,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/VIJAY+HOSPITAL+%26+DIAGNOSTIC+CENTER/@17.0538125,79.2731875,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb291f44a0ad61:0x8d9221723d803873!8m2!3d17.0538125!4d79.2731875!16s%2Fg%2F11j1m66slh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIJAY+HOSPITAL+%26+DIAGNOSTIC+CENTER/@17.0538125,79.2731875,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb291f44a0ad61:0x8d9221723d803873!8m2!3d17.0538125!4d79.2731875!16s%2Fg%2F11j1m66slh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11982,7 +12083,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VIJAY+HOSPITAL+%26+DIAGNOSTIC+CENTER/@17.0538125,79.2731875,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb291f44a0ad61:0x8d9221723d803873!8m2!3d17.0538125!4d79.2731875!16s%2Fg%2F11j1m66slh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vijaya-dental-clinic-laser-and-implant-centre-nalgonda",
@@ -12030,7 +12132,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vijaya+Dental+Clinic+-+Laser+%26+Implant+Centre/@17.0542769,79.268906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297533da1871:0xbfdd05e7021d24e4!8m2!3d17.0542769!4d79.268906!16s%2Fg%2F11b5pkllcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijaya+Dental+Clinic+-+Laser+%26+Implant+Centre/@17.0542769,79.268906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297533da1871:0xbfdd05e7021d24e4!8m2!3d17.0542769!4d79.268906!16s%2Fg%2F11b5pkllcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12096,10 +12198,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vijaya+Dental+Clinic+-+Laser+%26+Implant+Centre/@17.0542769,79.268906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297533da1871:0xbfdd05e7021d24e4!8m2!3d17.0542769!4d79.268906!16s%2Fg%2F11b5pkllcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vijaya-diagnostic-centre-nalgonda-nalgonda",
@@ -12148,7 +12251,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/VIJAYA+DIAGNOSTIC+CENTRE+NALGONDA/@17.054305,79.2688368,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297522d78815:0x1b064c4736795544!8m2!3d17.054305!4d79.2688368!16s%2Fg%2F11gg9d11vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIJAYA+DIAGNOSTIC+CENTRE+NALGONDA/@17.054305,79.2688368,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297522d78815:0x1b064c4736795544!8m2!3d17.054305!4d79.2688368!16s%2Fg%2F11gg9d11vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12217,7 +12320,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VIJAYA+DIAGNOSTIC+CENTRE+NALGONDA/@17.054305,79.2688368,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb297522d78815:0x1b064c4736795544!8m2!3d17.054305!4d79.2688368!16s%2Fg%2F11gg9d11vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vikram-dental-hospital-nalgonda",
@@ -12265,7 +12369,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vikram+Dental+Hospital/@17.0526456,79.2680514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29b348dd4b1f:0xb1774eda04233f25!8m2!3d17.0526456!4d79.2680514!16s%2Fg%2F11h7r_mgft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vikram+Dental+Hospital/@17.0526456,79.2680514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29b348dd4b1f:0xb1774eda04233f25!8m2!3d17.0526456!4d79.2680514!16s%2Fg%2F11h7r_mgft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12331,10 +12435,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vikram+Dental+Hospital/@17.0526456,79.2680514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb29b348dd4b1f:0xb1774eda04233f25!8m2!3d17.0526456!4d79.2680514!16s%2Fg%2F11h7r_mgft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "viswa-hrudaya-hospitals-nalgonda",
@@ -12382,7 +12487,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Viswa+Hrudaya+Hospitals/@17.0579352,79.2763991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977aaaaaaab:0x14ce4ea3b9dc58ca!8m2!3d17.0579352!4d79.2763991!16s%2Fg%2F11fx8gk1d2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Viswa+Hrudaya+Hospitals/@17.0579352,79.2763991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977aaaaaaab:0x14ce4ea3b9dc58ca!8m2!3d17.0579352!4d79.2763991!16s%2Fg%2F11fx8gk1d2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12451,7 +12556,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Viswa+Hrudaya+Hospitals/@17.0579352,79.2763991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb2977aaaaaaab:0x14ce4ea3b9dc58ca!8m2!3d17.0579352!4d79.2763991!16s%2Fg%2F11fx8gk1d2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wonder-clinic-nalgonda",
@@ -12499,7 +12605,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/WONDER+CLINIC/@17.0509773,79.2777484,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb299d3fb03fc5:0xcd9011509b72e49a!8m2!3d17.0509773!4d79.2777484!16s%2Fg%2F11vd_k3k52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/WONDER+CLINIC/@17.0509773,79.2777484,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb299d3fb03fc5:0xcd9011509b72e49a!8m2!3d17.0509773!4d79.2777484!16s%2Fg%2F11vd_k3k52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12568,7 +12674,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/WONDER+CLINIC/@17.0509773,79.2777484,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb299d3fb03fc5:0xcd9011509b72e49a!8m2!3d17.0509773!4d79.2777484!16s%2Fg%2F11vd_k3k52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yashoda-hospitals-medical-information-centre-nalgonda-nalgonda",
@@ -12616,7 +12723,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+%7C+Nalgonda/@17.0557515,79.2757701,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290f10c17293:0x874a84e6be655bc0!8m2!3d17.0557515!4d79.2757701!16s%2Fg%2F11x0fzc_hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+%7C+Nalgonda/@17.0557515,79.2757701,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290f10c17293:0x874a84e6be655bc0!8m2!3d17.0557515!4d79.2757701!16s%2Fg%2F11x0fzc_hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12682,10 +12789,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+%7C+Nalgonda/@17.0557515,79.2757701,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290f10c17293:0x874a84e6be655bc0!8m2!3d17.0557515!4d79.2757701!16s%2Fg%2F11x0fzc_hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yogaswi-children-s-hospital-nalgonda",
@@ -12734,7 +12842,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Yogaswi+Children's+Hospital/@17.0570237,79.2751893,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290f40000001:0xc4a90ea02ba294!8m2!3d17.0570237!4d79.2751893!16s%2Fg%2F11bw1h7rkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yogaswi+Children's+Hospital/@17.0570237,79.2751893,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290f40000001:0xc4a90ea02ba294!8m2!3d17.0570237!4d79.2751893!16s%2Fg%2F11bw1h7rkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12803,6 +12911,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yogaswi+Children's+Hospital/@17.0570237,79.2751893,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb290f40000001:0xc4a90ea02ba294!8m2!3d17.0570237!4d79.2751893!16s%2Fg%2F11bw1h7rkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

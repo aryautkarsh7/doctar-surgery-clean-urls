@@ -47,7 +47,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aalind+Heart+Centre/@23.1505065,79.9271125,17z/data=!3m1!4b1!4m6!3m5!1s0x3981ad8565b291d7:0x3841aad4c8799c6!8m2!3d23.1505065!4d79.9271125!16s%2Fg%2F11tc2l8xds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aalind+Heart+Centre/@23.1505065,79.9271125,17z/data=!3m1!4b1!4m6!3m5!1s0x3981ad8565b291d7:0x3841aad4c8799c6!8m2!3d23.1505065!4d79.9271125!16s%2Fg%2F11tc2l8xds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -116,7 +116,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aalind+Heart+Centre/@23.1505065,79.9271125,17z/data=!3m1!4b1!4m6!3m5!1s0x3981ad8565b291d7:0x3841aad4c8799c6!8m2!3d23.1505065!4d79.9271125!16s%2Fg%2F11tc2l8xds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "adi-shankar-hospital-jabalpur",
@@ -165,7 +166,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Adi+Shankar+Hospital/data=!4m7!3m6!1s0x3981ad4881544d81:0x8df741cc56258122!8m2!3d23.1504565!4d79.9271726!16s%2Fg%2F11t1rcmy0l!19sChIJgU1UgUitgTkRIoElVsxB940?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adi+Shankar+Hospital/data=!4m7!3m6!1s0x3981ad4881544d81:0x8df741cc56258122!8m2!3d23.1504565!4d79.9271726!16s%2Fg%2F11t1rcmy0l!19sChIJgU1UgUitgTkRIoElVsxB940?authuser=0&hl=en&rclk=1"
@@ -234,7 +235,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Adi+Shankar+Hospital/data=!4m7!3m6!1s0x3981ad4881544d81:0x8df741cc56258122!8m2!3d23.1504565!4d79.9271726!16s%2Fg%2F11t1rcmy0l!19sChIJgU1UgUitgTkRIoElVsxB940?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aditya-hospital-jabalpur",
@@ -283,7 +285,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aditya+Hospital/@23.1606231,79.9286051,17z/data=!3m1!4b1!4m6!3m5!1s0x3981ae05da6fc401:0x7d49fbb00672c4b5!8m2!3d23.1606231!4d79.9286051!16s%2Fg%2F1jkwj8y6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditya+Hospital/@23.1606231,79.9286051,17z/data=!3m1!4b1!4m6!3m5!1s0x3981ae05da6fc401:0x7d49fbb00672c4b5!8m2!3d23.1606231!4d79.9286051!16s%2Fg%2F1jkwj8y6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -352,7 +354,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aditya+Hospital/@23.1606231,79.9286051,17z/data=!3m1!4b1!4m6!3m5!1s0x3981ae05da6fc401:0x7d49fbb00672c4b5!8m2!3d23.1606231!4d79.9286051!16s%2Fg%2F1jkwj8y6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-jbp-hospitals-jabalpur",
@@ -401,7 +404,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+JBP+Hospitals/data=!4m7!3m6!1s0x3981b1006fdccaa7:0x516c3bc846089e6f!8m2!3d23.2000799!4d79.8841179!16s%2Fg%2F11wg8nb99c!19sChIJp8rcbwCxgTkRb54IRsg7bFE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+JBP+Hospitals/data=!4m7!3m6!1s0x3981b1006fdccaa7:0x516c3bc846089e6f!8m2!3d23.2000799!4d79.8841179!16s%2Fg%2F11wg8nb99c!19sChIJp8rcbwCxgTkRb54IRsg7bFE?authuser=0&hl=en&rclk=1"
@@ -470,7 +473,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+JBP+Hospitals/data=!4m7!3m6!1s0x3981b1006fdccaa7:0x516c3bc846089e6f!8m2!3d23.2000799!4d79.8841179!16s%2Fg%2F11wg8nb99c!19sChIJp8rcbwCxgTkRb54IRsg7bFE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "baderia-metro-prime-hospital-jabalpur-jabalpur",
@@ -519,7 +523,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Baderia+Metro+Prime+Hospital+-+Jabalpur/@23.1865908,79.9281764,17z/data=!3m1!4b1!4m6!3m5!1s0x3981afa778449755:0xa8e6ab19d204e4d!8m2!3d23.1865908!4d79.9281764!16s%2Fg%2F1tfkp4jt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Baderia+Metro+Prime+Hospital+-+Jabalpur/@23.1865908,79.9281764,17z/data=!3m1!4b1!4m6!3m5!1s0x3981afa778449755:0xa8e6ab19d204e4d!8m2!3d23.1865908!4d79.9281764!16s%2Fg%2F1tfkp4jt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -588,7 +592,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Baderia+Metro+Prime+Hospital+-+Jabalpur/@23.1865908,79.9281764,17z/data=!3m1!4b1!4m6!3m5!1s0x3981afa778449755:0xa8e6ab19d204e4d!8m2!3d23.1865908!4d79.9281764!16s%2Fg%2F1tfkp4jt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "baharani-healthcare-heart-kidney-and-bp-specialist-hospital-in-jabalpur-jabalpur",
@@ -638,7 +643,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Baharani+HealthCare+%E2%80%93+Heart,+Kidney+%26+BP+Specialist+Hospital+in+Jabalpur/data=!4m7!3m6!1s0x3981afd66099850b:0xb9716e2c36ad3804!8m2!3d23.1617495!4d79.9354794!16s%2Fg%2F11wxksg1kw!19sChIJC4WZYNavgTkRBDitNixucbk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Baharani+HealthCare+%E2%80%93+Heart,+Kidney+%26+BP+Specialist+Hospital+in+Jabalpur/data=!4m7!3m6!1s0x3981afd66099850b:0xb9716e2c36ad3804!8m2!3d23.1617495!4d79.9354794!16s%2Fg%2F11wxksg1kw!19sChIJC4WZYNavgTkRBDitNixucbk?authuser=0&hl=en&rclk=1"
@@ -707,7 +712,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Baharani+HealthCare+%E2%80%93+Heart,+Kidney+%26+BP+Specialist+Hospital+in+Jabalpur/data=!4m7!3m6!1s0x3981afd66099850b:0xb9716e2c36ad3804!8m2!3d23.1617495!4d79.9354794!16s%2Fg%2F11wxksg1kw!19sChIJC4WZYNavgTkRBDitNixucbk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "golden-heart-hospital-jabalpur-jabalpur",
@@ -757,7 +763,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Golden+Heart+Hospital+Jabalpur/@23.16671,79.925635,17z/data=!3m1!4b1!4m6!3m5!1s0x3981afc800a58a5b:0xb2cd63c4042d2408!8m2!3d23.16671!4d79.925635!16s%2Fg%2F11t7j4j518?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Golden+Heart+Hospital+Jabalpur/@23.16671,79.925635,17z/data=!3m1!4b1!4m6!3m5!1s0x3981afc800a58a5b:0xb2cd63c4042d2408!8m2!3d23.16671!4d79.925635!16s%2Fg%2F11t7j4j518?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -826,7 +832,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Golden+Heart+Hospital+Jabalpur/@23.16671,79.925635,17z/data=!3m1!4b1!4m6!3m5!1s0x3981afc800a58a5b:0xb2cd63c4042d2408!8m2!3d23.16671!4d79.925635!16s%2Fg%2F11t7j4j518?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "infinity-heart-institute-jabalpur",
@@ -875,7 +882,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Infinity+Heart+Institute/@23.1658809,79.9390139,17z/data=!3m1!4b1!4m6!3m5!1s0x3981ae0d82eb366f:0xc857ed27a26cf102!8m2!3d23.1658809!4d79.9390139!16s%2Fg%2F11b7256xh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Infinity+Heart+Institute/@23.1658809,79.9390139,17z/data=!3m1!4b1!4m6!3m5!1s0x3981ae0d82eb366f:0xc857ed27a26cf102!8m2!3d23.1658809!4d79.9390139!16s%2Fg%2F11b7256xh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -944,7 +951,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Infinity+Heart+Institute/@23.1658809,79.9390139,17z/data=!3m1!4b1!4m6!3m5!1s0x3981ae0d82eb366f:0xc857ed27a26cf102!8m2!3d23.1658809!4d79.9390139!16s%2Fg%2F11b7256xh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jivanta-health-care-centre-jabalpur",
@@ -993,7 +1001,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/jivanta+health+care+centre/data=!4m7!3m6!1s0x3981afd3ef063189:0x9642e68acd1d70d!8m2!3d23.1646832!4d79.9172819!16s%2Fg%2F11kq2y4qh7!19sChIJiTEG79OvgTkRDdfRrGguZAk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/jivanta+health+care+centre/data=!4m7!3m6!1s0x3981afd3ef063189:0x9642e68acd1d70d!8m2!3d23.1646832!4d79.9172819!16s%2Fg%2F11kq2y4qh7!19sChIJiTEG79OvgTkRDdfRrGguZAk?authuser=0&hl=en&rclk=1"
@@ -1059,10 +1067,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/jivanta+health+care+centre/data=!4m7!3m6!1s0x3981afd3ef063189:0x9642e68acd1d70d!8m2!3d23.1646832!4d79.9172819!16s%2Fg%2F11kq2y4qh7!19sChIJiTEG79OvgTkRDdfRrGguZAk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mahakoshal-hospital-best-hospital-in-jabalpur-jabalpur",
@@ -1111,7 +1120,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mahakoshal+Hospital:+Best+Hospital+in+Jabalpur/data=!4m7!3m6!1s0x3981ae04bd0af817:0x5104f0b7ca518b30!8m2!3d23.1644029!4d79.9256912!16s%2Fg%2F11r97hqyg!19sChIJF_gKvQSugTkRMItRyrfwBFE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahakoshal+Hospital:+Best+Hospital+in+Jabalpur/data=!4m7!3m6!1s0x3981ae04bd0af817:0x5104f0b7ca518b30!8m2!3d23.1644029!4d79.9256912!16s%2Fg%2F11r97hqyg!19sChIJF_gKvQSugTkRMItRyrfwBFE?authuser=0&hl=en&rclk=1"
@@ -1180,7 +1189,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahakoshal+Hospital:+Best+Hospital+in+Jabalpur/data=!4m7!3m6!1s0x3981ae04bd0af817:0x5104f0b7ca518b30!8m2!3d23.1644029!4d79.9256912!16s%2Fg%2F11r97hqyg!19sChIJF_gKvQSugTkRMItRyrfwBFE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "marble-city-hospital-jabalpur",
@@ -1229,7 +1239,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Marble+City+Hospital/@23.1634606,79.9354324,17z/data=!3m1!4b1!4m6!3m5!1s0x3981ae0e87bba6cd:0x9c8cf4075ec94ac4!8m2!3d23.1634606!4d79.9354324!16s%2Fg%2F11b5zx1dy9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Marble+City+Hospital/@23.1634606,79.9354324,17z/data=!3m1!4b1!4m6!3m5!1s0x3981ae0e87bba6cd:0x9c8cf4075ec94ac4!8m2!3d23.1634606!4d79.9354324!16s%2Fg%2F11b5zx1dy9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1298,7 +1308,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Marble+City+Hospital/@23.1634606,79.9354324,17z/data=!3m1!4b1!4m6!3m5!1s0x3981ae0e87bba6cd:0x9c8cf4075ec94ac4!8m2!3d23.1634606!4d79.9354324!16s%2Fg%2F11b5zx1dy9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "national-hospital-and-heart-institute-jabalpur",
@@ -1347,7 +1358,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/National+Hospital+%26+Heart+Institute/data=!4m7!3m6!1s0x3981ae1bb6698353:0x461152c2ef4c49!8m2!3d23.1707273!4d79.9286707!16s%2Fg%2F11b6cjcm22!19sChIJU4NpthuugTkRSUzvwlIRRgA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/National+Hospital+%26+Heart+Institute/data=!4m7!3m6!1s0x3981ae1bb6698353:0x461152c2ef4c49!8m2!3d23.1707273!4d79.9286707!16s%2Fg%2F11b6cjcm22!19sChIJU4NpthuugTkRSUzvwlIRRgA?authuser=0&hl=en&rclk=1"
@@ -1416,7 +1427,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/National+Hospital+%26+Heart+Institute/data=!4m7!3m6!1s0x3981ae1bb6698353:0x461152c2ef4c49!8m2!3d23.1707273!4d79.9286707!16s%2Fg%2F11b6cjcm22!19sChIJU4NpthuugTkRSUzvwlIRRgA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nema-heart-hospital-jabalpur",
@@ -1466,7 +1478,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nema+Heart+Hospital/@23.1937108,79.9129832,17z/data=!3m1!4b1!4m6!3m5!1s0x3981b05aaaaaaa99:0xc79d7c86b2e2cb0a!8m2!3d23.1937108!4d79.9129832!16s%2Fg%2F11gf4cv_nn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nema+Heart+Hospital/@23.1937108,79.9129832,17z/data=!3m1!4b1!4m6!3m5!1s0x3981b05aaaaaaa99:0xc79d7c86b2e2cb0a!8m2!3d23.1937108!4d79.9129832!16s%2Fg%2F11gf4cv_nn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1535,6 +1547,7 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nema+Heart+Hospital/@23.1937108,79.9129832,17z/data=!3m1!4b1!4m6!3m5!1s0x3981b05aaaaaaa99:0xc79d7c86b2e2cb0a!8m2!3d23.1937108!4d79.9129832!16s%2Fg%2F11gf4cv_nn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

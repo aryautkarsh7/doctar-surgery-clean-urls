@@ -46,7 +46,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/AARYA+NEURO+CARE/@14.4705905,78.822834,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373fd39124f9d:0x371cad3af0884f87!8m2!3d14.4705905!4d78.822834!16s%2Fg%2F11h_8t4ssn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AARYA+NEURO+CARE/@14.4705905,78.822834,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373fd39124f9d:0x371cad3af0884f87!8m2!3d14.4705905!4d78.822834!16s%2Fg%2F11h_8t4ssn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AARYA+NEURO+CARE/@14.4705905,78.822834,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373fd39124f9d:0x371cad3af0884f87!8m2!3d14.4705905!4d78.822834!16s%2Fg%2F11h_8t4ssn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aashika-heart-and-brain-care-kadapa-kadapa",
@@ -165,7 +166,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/AASHIKA+HEART+%26+BRAIN+CARE+%7C+Kadapa/@14.4759039,78.8232871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3734053eaf8d9:0x170b6f4db23d3113!8m2!3d14.4759039!4d78.8232871!16s%2Fg%2F11yjbwr20g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AASHIKA+HEART+%26+BRAIN+CARE+%7C+Kadapa/@14.4759039,78.8232871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3734053eaf8d9:0x170b6f4db23d3113!8m2!3d14.4759039!4d78.8232871!16s%2Fg%2F11yjbwr20g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -234,7 +235,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AASHIKA+HEART+%26+BRAIN+CARE+%7C+Kadapa/@14.4759039,78.8232871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3734053eaf8d9:0x170b6f4db23d3113!8m2!3d14.4759039!4d78.8232871!16s%2Fg%2F11yjbwr20g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ainithi-neuro-care-hospital-kadapa",
@@ -283,7 +285,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Ainithi+Neuro+Care+hospital/@14.4627558,78.8237028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373670dd7e0ad:0xa959c3a0d2cb97d6!8m2!3d14.4627558!4d78.8237028!16s%2Fg%2F11gx_jp3hy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ainithi+Neuro+Care+hospital/@14.4627558,78.8237028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373670dd7e0ad:0xa959c3a0d2cb97d6!8m2!3d14.4627558!4d78.8237028!16s%2Fg%2F11gx_jp3hy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -352,7 +354,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ainithi+Neuro+Care+hospital/@14.4627558,78.8237028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373670dd7e0ad:0xa959c3a0d2cb97d6!8m2!3d14.4627558!4d78.8237028!16s%2Fg%2F11gx_jp3hy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aman-cancer-surgery-and-maternity-clinic-hospital-kadapa",
@@ -401,7 +404,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aman+Cancer+Surgery+%26+Maternity+Clinic+%2F+Hospital/@14.4744497,78.823816,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373782403664f:0xec2598408fa8e2e!8m2!3d14.4744497!4d78.823816!16s%2Fg%2F11wbdsfnsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aman+Cancer+Surgery+%26+Maternity+Clinic+%2F+Hospital/@14.4744497,78.823816,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373782403664f:0xec2598408fa8e2e!8m2!3d14.4744497!4d78.823816!16s%2Fg%2F11wbdsfnsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -467,10 +470,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aman+Cancer+Surgery+%26+Maternity+Clinic+%2F+Hospital/@14.4744497,78.823816,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373782403664f:0xec2598408fa8e2e!8m2!3d14.4744497!4d78.823816!16s%2Fg%2F11wbdsfnsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amrutha-mind-care-kadapa",
@@ -518,7 +522,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Amrutha+Mind+Care/data=!4m7!3m6!1s0x3bb3737177083971:0xcc800b10be99a26d!8m2!3d14.470062!4d78.8232324!16s%2Fg%2F11fjy4dlvz!19sChIJcTkId3FzszsRbaKZvhALgMw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrutha+Mind+Care/data=!4m7!3m6!1s0x3bb3737177083971:0xcc800b10be99a26d!8m2!3d14.470062!4d78.8232324!16s%2Fg%2F11fjy4dlvz!19sChIJcTkId3FzszsRbaKZvhALgMw?authuser=0&hl=en&rclk=1"
@@ -587,7 +591,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrutha+Mind+Care/data=!4m7!3m6!1s0x3bb3737177083971:0xcc800b10be99a26d!8m2!3d14.470062!4d78.8232324!16s%2Fg%2F11fjy4dlvz!19sChIJcTkId3FzszsRbaKZvhALgMw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ananya-children-s-surgical-clinic-kadapa",
@@ -636,7 +641,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/ANANYA+CHILDREN%E2%80%99s+SURGICAL+CLINIC/@14.4747721,78.8237424,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3736c39e7a797:0xe8d5fda8865b76a!8m2!3d14.4747721!4d78.8237424!16s%2Fg%2F11p6rhy_5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ANANYA+CHILDREN%E2%80%99s+SURGICAL+CLINIC/@14.4747721,78.8237424,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3736c39e7a797:0xe8d5fda8865b76a!8m2!3d14.4747721!4d78.8237424!16s%2Fg%2F11p6rhy_5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -705,7 +710,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ANANYA+CHILDREN%E2%80%99s+SURGICAL+CLINIC/@14.4747721,78.8237424,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3736c39e7a797:0xe8d5fda8865b76a!8m2!3d14.4747721!4d78.8237424!16s%2Fg%2F11p6rhy_5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ananya-dental-clinic-kadapa",
@@ -754,7 +760,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Ananya+Dental+Clinic/@14.4759221,78.8235147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3738e564ed68b:0x44608e07858d7f66!8m2!3d14.4759221!4d78.8235147!16s%2Fg%2F11ks2mndxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ananya+Dental+Clinic/@14.4759221,78.8235147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3738e564ed68b:0x44608e07858d7f66!8m2!3d14.4759221!4d78.8235147!16s%2Fg%2F11ks2mndxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -820,10 +826,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ananya+Dental+Clinic/@14.4759221,78.8235147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3738e564ed68b:0x44608e07858d7f66!8m2!3d14.4759221!4d78.8235147!16s%2Fg%2F11ks2mndxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ananya-laparoscopic-and-surgical-clinic-kadapa",
@@ -869,7 +876,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Ananya+Laparoscopic+%26+Surgical+Clinic/@14.4747873,78.8237597,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a598c7bdd:0x4af4e3596bc6226a!8m2!3d14.4747873!4d78.8237597!16s%2Fg%2F11dxqdp309?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ananya+Laparoscopic+%26+Surgical+Clinic/@14.4747873,78.8237597,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a598c7bdd:0x4af4e3596bc6226a!8m2!3d14.4747873!4d78.8237597!16s%2Fg%2F11dxqdp309?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -935,10 +942,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ananya+Laparoscopic+%26+Surgical+Clinic/@14.4747873,78.8237597,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a598c7bdd:0x4af4e3596bc6226a!8m2!3d14.4747873!4d78.8237597!16s%2Fg%2F11dxqdp309?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anji-dental-clinic-kadapa",
@@ -986,7 +994,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Anji+Dental+Clinic/@14.4754953,78.8233156,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373da3e930fc3:0x2f7b8117c3c1491e!8m2!3d14.4754953!4d78.8233156!16s%2Fg%2F11ln5fvmdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anji+Dental+Clinic/@14.4754953,78.8233156,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373da3e930fc3:0x2f7b8117c3c1491e!8m2!3d14.4754953!4d78.8233156!16s%2Fg%2F11ln5fvmdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1052,10 +1060,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anji+Dental+Clinic/@14.4754953,78.8233156,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373da3e930fc3:0x2f7b8117c3c1491e!8m2!3d14.4754953!4d78.8233156!16s%2Fg%2F11ln5fvmdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arem-s-dental-care-and-implant-centre-kadapa",
@@ -1104,7 +1113,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AREM%E2%80%99S+DENTAL+CARE+%26+IMPLANT+CENTRE/data=!4m7!3m6!1s0x3bb373003dfc16b1:0x9a6872059137955!8m2!3d14.4700559!4d78.8236293!16s%2Fg%2F11vqwz8_p5!19sChIJsRb8PQBzszsRVXkTWSCHpgk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AREM%E2%80%99S+DENTAL+CARE+%26+IMPLANT+CENTRE/data=!4m7!3m6!1s0x3bb373003dfc16b1:0x9a6872059137955!8m2!3d14.4700559!4d78.8236293!16s%2Fg%2F11vqwz8_p5!19sChIJsRb8PQBzszsRVXkTWSCHpgk?authuser=0&hl=en&rclk=1"
@@ -1173,7 +1182,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AREM%E2%80%99S+DENTAL+CARE+%26+IMPLANT+CENTRE/data=!4m7!3m6!1s0x3bb373003dfc16b1:0x9a6872059137955!8m2!3d14.4700559!4d78.8236293!16s%2Fg%2F11vqwz8_p5!19sChIJsRb8PQBzszsRVXkTWSCHpgk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "arjun-dental-care-3-205-rajaram-complex-christian-lane",
@@ -1222,7 +1232,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Arjun+Dental+Care/@14.4759691,78.8247371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3738b687157a9:0xc2411ab1bf494cd2!8m2!3d14.4759691!4d78.8247371!16s%2Fg%2F11rwwzb8gq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arjun+Dental+Care/@14.4759691,78.8247371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3738b687157a9:0xc2411ab1bf494cd2!8m2!3d14.4759691!4d78.8247371!16s%2Fg%2F11rwwzb8gq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1291,7 +1301,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arjun+Dental+Care/@14.4759691,78.8247371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3738b687157a9:0xc2411ab1bf494cd2!8m2!3d14.4759691!4d78.8247371!16s%2Fg%2F11rwwzb8gq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arjun-hospital-kadapa",
@@ -1340,7 +1351,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Arjun+Hospital/@14.4753288,78.8282379,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373bac764cb6d:0xa553ca503ca9fb1f!8m2!3d14.4753288!4d78.8282379!16s%2Fg%2F11m6v0nt4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arjun+Hospital/@14.4753288,78.8282379,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373bac764cb6d:0xa553ca503ca9fb1f!8m2!3d14.4753288!4d78.8282379!16s%2Fg%2F11m6v0nt4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1409,7 +1420,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arjun+Hospital/@14.4753288,78.8282379,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373bac764cb6d:0xa553ca503ca9fb1f!8m2!3d14.4753288!4d78.8282379!16s%2Fg%2F11m6v0nt4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arunachala-hospital-kadapa",
@@ -1458,7 +1470,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ARUNACHALA+HOSPITAL/@14.4683336,78.8227506,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373276cc937c9:0xe135a48c6bfa0eb5!8m2!3d14.4683336!4d78.8227506!16s%2Fg%2F11lkfzfcgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ARUNACHALA+HOSPITAL/@14.4683336,78.8227506,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373276cc937c9:0xe135a48c6bfa0eb5!8m2!3d14.4683336!4d78.8227506!16s%2Fg%2F11lkfzfcgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -1524,10 +1536,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ARUNACHALA+HOSPITAL/@14.4683336,78.8227506,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373276cc937c9:0xe135a48c6bfa0eb5!8m2!3d14.4683336!4d78.8227506!16s%2Fg%2F11lkfzfcgm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashwini-hospital-kadapa",
@@ -1575,7 +1588,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Ashwini+Hospital/@14.4637763,78.8227432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721374aac45d:0xc05567cfda344d91!8m2!3d14.4637763!4d78.8227432!16s%2Fg%2F11b807v_l_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashwini+Hospital/@14.4637763,78.8227432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721374aac45d:0xc05567cfda344d91!8m2!3d14.4637763!4d78.8227432!16s%2Fg%2F11b807v_l_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1644,7 +1657,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashwini+Hospital/@14.4637763,78.8227432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721374aac45d:0xc05567cfda344d91!8m2!3d14.4637763!4d78.8227432!16s%2Fg%2F11b807v_l_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "avis-vascular-centre-best-varicose-veins-hospital-in-kadapa-kadapa",
@@ -1693,7 +1707,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Avis+Vascular+Centre+-+Best+Varicose+Veins+Hospital+in+Kadapa/@14.4753488,78.8242893,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3733aab435149:0xb69d3640890200c5!8m2!3d14.4753488!4d78.8242893!16s%2Fg%2F11vr0079dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avis+Vascular+Centre+-+Best+Varicose+Veins+Hospital+in+Kadapa/@14.4753488,78.8242893,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3733aab435149:0xb69d3640890200c5!8m2!3d14.4753488!4d78.8242893!16s%2Fg%2F11vr0079dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1759,10 +1773,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Avis+Vascular+Centre+-+Best+Varicose+Veins+Hospital+in+Kadapa/@14.4753488,78.8242893,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3733aab435149:0xb69d3640890200c5!8m2!3d14.4753488!4d78.8242893!16s%2Fg%2F11vr0079dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "avvaru-hospital-is-arjun-hospital-now-kadapa",
@@ -1810,7 +1825,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Avvaru+Hospital+is+Arjun+Hospital+now/@14.4752536,78.8282573,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373a839749f6d:0xf0b4fbf0ad7b1cec!8m2!3d14.4752536!4d78.8282573!16s%2Fg%2F11h4n9lndj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avvaru+Hospital+is+Arjun+Hospital+now/@14.4752536,78.8282573,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373a839749f6d:0xf0b4fbf0ad7b1cec!8m2!3d14.4752536!4d78.8282573!16s%2Fg%2F11h4n9lndj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1879,7 +1894,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Avvaru+Hospital+is+Arjun+Hospital+now/@14.4752536,78.8282573,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373a839749f6d:0xf0b4fbf0ad7b1cec!8m2!3d14.4752536!4d78.8282573!16s%2Fg%2F11h4n9lndj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bharathi-eye-hospital-and-insight-refractive-center-excellence-in-eye-care-kadapa",
@@ -1927,7 +1943,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Bharathi+Eye+Hospital+%26+Insight+Refractive+Center-+Excellence+in+eye+care/@14.4607601,78.8237381,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3726cd6d86763:0xc816df4110b89a02!8m2!3d14.4607601!4d78.8237381!16s%2Fg%2F1hjghdx89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharathi+Eye+Hospital+%26+Insight+Refractive+Center-+Excellence+in+eye+care/@14.4607601,78.8237381,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3726cd6d86763:0xc816df4110b89a02!8m2!3d14.4607601!4d78.8237381!16s%2Fg%2F1hjghdx89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1996,7 +2012,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bharathi+Eye+Hospital+%26+Insight+Refractive+Center-+Excellence+in+eye+care/@14.4607601,78.8237381,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3726cd6d86763:0xc816df4110b89a02!8m2!3d14.4607601!4d78.8237381!16s%2Fg%2F1hjghdx89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhudav-plastic-and-cosmetic-surgery-clinic-chinna-chauku",
@@ -2044,7 +2061,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Bhudav+plastic+and+cosmetic+surgery+clinic/@14.4666273,78.8319227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37213a166d97d:0xcd4955cc4a0b9799!8m2!3d14.4666273!4d78.8319227!16s%2Fg%2F11hchrh573?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhudav+plastic+and+cosmetic+surgery+clinic/@14.4666273,78.8319227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37213a166d97d:0xcd4955cc4a0b9799!8m2!3d14.4666273!4d78.8319227!16s%2Fg%2F11hchrh573?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2113,7 +2130,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhudav+plastic+and+cosmetic+surgery+clinic/@14.4666273,78.8319227,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37213a166d97d:0xcd4955cc4a0b9799!8m2!3d14.4666273!4d78.8319227!16s%2Fg%2F11hchrh573?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "care-dental-hospital-kadapa",
@@ -2161,7 +2179,7 @@
     "metrics": [
       "Google rating 2.0"
     ],
-    "image": "https://www.google.com/maps/place/CARE+DENTAL+HOSPITAL/data=!4m7!3m6!1s0x3bb3721b0abf86c7:0x6037bf96706939f!8m2!3d14.4769729!4d78.8241943!16s%2Fg%2F11f5dp4nsr!19sChIJx4a_ChtyszsRn5MGZ_l7AwY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CARE+DENTAL+HOSPITAL/data=!4m7!3m6!1s0x3bb3721b0abf86c7:0x6037bf96706939f!8m2!3d14.4769729!4d78.8241943!16s%2Fg%2F11f5dp4nsr!19sChIJx4a_ChtyszsRn5MGZ_l7AwY?authuser=0&hl=en&rclk=1"
@@ -2227,10 +2245,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 2.0,
+    "rating": 2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CARE+DENTAL+HOSPITAL/data=!4m7!3m6!1s0x3bb3721b0abf86c7:0x6037bf96706939f!8m2!3d14.4769729!4d78.8241943!16s%2Fg%2F11f5dp4nsr!19sChIJx4a_ChtyszsRn5MGZ_l7AwY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chaitanya-hospital-kadapa",
@@ -2278,7 +2297,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Chaitanya+Hospital/@14.466075,78.831955,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3733117bbc779:0x833afed3722627a2!8m2!3d14.466075!4d78.831955!16s%2Fg%2F11jmxrlh7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaitanya+Hospital/@14.466075,78.831955,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3733117bbc779:0x833afed3722627a2!8m2!3d14.466075!4d78.831955!16s%2Fg%2F11jmxrlh7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2347,7 +2366,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chaitanya+Hospital/@14.466075,78.831955,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3733117bbc779:0x833afed3722627a2!8m2!3d14.466075!4d78.831955!16s%2Fg%2F11jmxrlh7k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chennai-cardiac-centre-kadapa",
@@ -2396,7 +2416,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/CHENNAI+CARDIAC+CENTRE/@14.461954,78.8236687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3731312782b1f:0xfdc82e217229216e!8m2!3d14.461954!4d78.8236687!16s%2Fg%2F11t27jlr4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CHENNAI+CARDIAC+CENTRE/@14.461954,78.8236687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3731312782b1f:0xfdc82e217229216e!8m2!3d14.461954!4d78.8236687!16s%2Fg%2F11t27jlr4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2465,7 +2485,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CHENNAI+CARDIAC+CENTRE/@14.461954,78.8236687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3731312782b1f:0xfdc82e217229216e!8m2!3d14.461954!4d78.8236687!16s%2Fg%2F11t27jlr4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-dental-hospital-kadapa",
@@ -2514,7 +2535,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/City+Dental+Hospital/@14.4771835,78.8244206,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d2f9c98dcb:0x8fce866c3faa7f1c!8m2!3d14.4771835!4d78.8244206!16s%2Fg%2F11c46k38zx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Dental+Hospital/@14.4771835,78.8244206,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d2f9c98dcb:0x8fce866c3faa7f1c!8m2!3d14.4771835!4d78.8244206!16s%2Fg%2F11c46k38zx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2583,7 +2604,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Dental+Hospital/@14.4771835,78.8244206,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d2f9c98dcb:0x8fce866c3faa7f1c!8m2!3d14.4771835!4d78.8244206!16s%2Fg%2F11c46k38zx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cure-hospitals-kadapa",
@@ -2631,7 +2653,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Cure+Hospitals/@14.4723885,78.8225912,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3730037b987ad:0x71779cdbc0115540!8m2!3d14.4723885!4d78.8225912!16s%2Fg%2F11w2cgnz9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cure+Hospitals/@14.4723885,78.8225912,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3730037b987ad:0x71779cdbc0115540!8m2!3d14.4723885!4d78.8225912!16s%2Fg%2F11w2cgnz9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2700,7 +2722,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cure+Hospitals/@14.4723885,78.8225912,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3730037b987ad:0x71779cdbc0115540!8m2!3d14.4723885!4d78.8225912!16s%2Fg%2F11w2cgnz9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deepak-skin-and-hair-clinic-nagarajupeta",
@@ -2748,7 +2771,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Deepak+Skin+%26+Hair+Clinic/@14.4647614,78.8189158,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373e53938bd43:0x446f3095569adc83!8m2!3d14.4647614!4d78.8189158!16s%2Fg%2F11qh1_6gmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deepak+Skin+%26+Hair+Clinic/@14.4647614,78.8189158,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373e53938bd43:0x446f3095569adc83!8m2!3d14.4647614!4d78.8189158!16s%2Fg%2F11qh1_6gmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2817,7 +2840,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deepak+Skin+%26+Hair+Clinic/@14.4647614,78.8189158,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373e53938bd43:0x446f3095569adc83!8m2!3d14.4647614!4d78.8189158!16s%2Fg%2F11qh1_6gmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhruva-hospitals-kadapa-kadapa",
@@ -2865,7 +2889,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dhruva+Hospitals,+Kadapa/@14.4643667,78.8227563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373c82b1a61ab:0x9b0e503d88df328c!8m2!3d14.4643667!4d78.8227563!16s%2Fg%2F11nhknmfz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhruva+Hospitals,+Kadapa/@14.4643667,78.8227563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373c82b1a61ab:0x9b0e503d88df328c!8m2!3d14.4643667!4d78.8227563!16s%2Fg%2F11nhknmfz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -2931,10 +2955,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhruva+Hospitals,+Kadapa/@14.4643667,78.8227563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373c82b1a61ab:0x9b0e503d88df328c!8m2!3d14.4643667!4d78.8227563!16s%2Fg%2F11nhknmfz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "elite-dental-care-aligners-and-implant-centre-kadapa",
@@ -2983,7 +3008,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ELITE+DENTAL+CARE+-+Aligners+%26+Implant+Centre+%E0%B0%8E%E0%B0%B2%E0%B1%88%E0%B0%9F%E0%B1%8D+%E0%B0%86%E0%B0%A7%E0%B1%81%E0%B0%A8%E0%B0%BF%E0%B0%95+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2/data=!4m7!3m6!1s0x3bb3737e465f5697:0x16373b0557cf0f97!8m2!3d14.4778968!4d78.8250165!16s%2Fg%2F11h5ty86n8!19sChIJl1ZfRn5zszsRlw_PVwU7NxY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ELITE+DENTAL+CARE+-+Aligners+%26+Implant+Centre+%E0%B0%8E%E0%B0%B2%E0%B1%88%E0%B0%9F%E0%B1%8D+%E0%B0%86%E0%B0%A7%E0%B1%81%E0%B0%A8%E0%B0%BF%E0%B0%95+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2/data=!4m7!3m6!1s0x3bb3737e465f5697:0x16373b0557cf0f97!8m2!3d14.4778968!4d78.8250165!16s%2Fg%2F11h5ty86n8!19sChIJl1ZfRn5zszsRlw_PVwU7NxY?authuser=0&hl=en&rclk=1"
@@ -3049,10 +3074,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ELITE+DENTAL+CARE+-+Aligners+%26+Implant+Centre+%E0%B0%8E%E0%B0%B2%E0%B1%88%E0%B0%9F%E0%B1%8D+%E0%B0%86%E0%B0%A7%E0%B1%81%E0%B0%A8%E0%B0%BF%E0%B0%95+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2/data=!4m7!3m6!1s0x3bb3737e465f5697:0x16373b0557cf0f97!8m2!3d14.4778968!4d78.8250165!16s%2Fg%2F11h5ty86n8!19sChIJl1ZfRn5zszsRlw_PVwU7NxY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "empire-dental-care-and-implant-centre-kadapa",
@@ -3100,7 +3126,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/EMPIRE+DENTAL+CARE+AND+IMPLANT+CENTRE/@14.4677214,78.8239864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37372ac1e63e7:0xe503ee31d601325f!8m2!3d14.4677214!4d78.8239864!16s%2Fg%2F11hdnlp603?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/EMPIRE+DENTAL+CARE+AND+IMPLANT+CENTRE/@14.4677214,78.8239864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37372ac1e63e7:0xe503ee31d601325f!8m2!3d14.4677214!4d78.8239864!16s%2Fg%2F11hdnlp603?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3166,10 +3192,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/EMPIRE+DENTAL+CARE+AND+IMPLANT+CENTRE/@14.4677214,78.8239864,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37372ac1e63e7:0xe503ee31d601325f!8m2!3d14.4677214!4d78.8239864!16s%2Fg%2F11hdnlp603?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "family-dental-hub-kadapa",
@@ -3218,7 +3245,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Family+Dental+Hub/data=!4m7!3m6!1s0x3bb373c4998c3e03:0xff871eeb624c9f17!8m2!3d14.4663741!4d78.835597!16s%2Fg%2F11p66558nc!19sChIJAz6MmcRzszsRF59MYuseh_8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Family+Dental+Hub/data=!4m7!3m6!1s0x3bb373c4998c3e03:0xff871eeb624c9f17!8m2!3d14.4663741!4d78.835597!16s%2Fg%2F11p66558nc!19sChIJAz6MmcRzszsRF59MYuseh_8?authuser=0&hl=en&rclk=1"
@@ -3284,10 +3311,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Family+Dental+Hub/data=!4m7!3m6!1s0x3bb373c4998c3e03:0xff871eeb624c9f17!8m2!3d14.4663741!4d78.835597!16s%2Fg%2F11p66558nc!19sChIJAz6MmcRzszsRF59MYuseh_8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "g-k-reddy-neuro-and-mind-clinic-kadapa",
@@ -3336,7 +3364,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/G.K.+Reddy+Neuro+%26+mind+clinic/@14.4668893,78.8274371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720b7171daa5:0x93c2534a5d958103!8m2!3d14.4668893!4d78.8274371!16s%2Fg%2F11f0l4x5x4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/G.K.+Reddy+Neuro+%26+mind+clinic/@14.4668893,78.8274371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720b7171daa5:0x93c2534a5d958103!8m2!3d14.4668893!4d78.8274371!16s%2Fg%2F11f0l4x5x4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3405,7 +3433,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/G.K.+Reddy+Neuro+%26+mind+clinic/@14.4668893,78.8274371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720b7171daa5:0x93c2534a5d958103!8m2!3d14.4668893!4d78.8274371!16s%2Fg%2F11f0l4x5x4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "g-s-r-heart-care-centre-kadapa",
@@ -3454,7 +3483,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/G.S.R.+Heart+Care+Centre/data=!4m7!3m6!1s0x3bb37205aa5c5c8b:0x6f20dad20fe1b8d8!8m2!3d14.4755841!4d78.8296556!16s%2Fg%2F11dxm4y62h!19sChIJi1xcqgVyszsR2LjhD9LaIG8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/G.S.R.+Heart+Care+Centre/data=!4m7!3m6!1s0x3bb37205aa5c5c8b:0x6f20dad20fe1b8d8!8m2!3d14.4755841!4d78.8296556!16s%2Fg%2F11dxm4y62h!19sChIJi1xcqgVyszsR2LjhD9LaIG8?authuser=0&hl=en&rclk=1"
@@ -3520,10 +3549,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/G.S.R.+Heart+Care+Centre/data=!4m7!3m6!1s0x3bb37205aa5c5c8b:0x6f20dad20fe1b8d8!8m2!3d14.4755841!4d78.8296556!16s%2Fg%2F11dxm4y62h!19sChIJi1xcqgVyszsR2LjhD9LaIG8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gajjala-ramakrishna-reddy-gsr-heart-care-centre-kadapa",
@@ -3572,7 +3602,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Gajjala+ramakrishna+reddy+GSR+Heart+care+centre/@14.4756951,78.829952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37205ab2456dd:0xa530adba93d8b15d!8m2!3d14.4756951!4d78.829952!16s%2Fg%2F11dz_xkft6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gajjala+ramakrishna+reddy+GSR+Heart+care+centre/@14.4756951,78.829952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37205ab2456dd:0xa530adba93d8b15d!8m2!3d14.4756951!4d78.829952!16s%2Fg%2F11dz_xkft6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3641,7 +3671,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gajjala+ramakrishna+reddy+GSR+Heart+care+centre/@14.4756951,78.829952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37205ab2456dd:0xa530adba93d8b15d!8m2!3d14.4756951!4d78.829952!16s%2Fg%2F11dz_xkft6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ganjikunta-dental-kadapa",
@@ -3689,7 +3720,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Ganjikunta+Dental/@14.4771375,78.824373,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b74bf7ce1:0x8fff7d5f2a2cdb1d!8m2!3d14.4771375!4d78.824373!16s%2Fg%2F11c20d0w7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ganjikunta+Dental/@14.4771375,78.824373,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b74bf7ce1:0x8fff7d5f2a2cdb1d!8m2!3d14.4771375!4d78.824373!16s%2Fg%2F11c20d0w7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3758,7 +3789,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ganjikunta+Dental/@14.4771375,78.824373,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b74bf7ce1:0x8fff7d5f2a2cdb1d!8m2!3d14.4771375!4d78.824373!16s%2Fg%2F11c20d0w7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gontu-mukkala-subbarayudu-dental-clinic-kadapa",
@@ -3807,7 +3839,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/GONTU+MUKKALA+SUBBARAYUDU+DENTAL+CLINIC/@14.4783659,78.8212815,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37351a309d1b5:0x6445738f10c12f7d!8m2!3d14.4783659!4d78.8212815!16s%2Fg%2F11gy0hmblk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GONTU+MUKKALA+SUBBARAYUDU+DENTAL+CLINIC/@14.4783659,78.8212815,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37351a309d1b5:0x6445738f10c12f7d!8m2!3d14.4783659!4d78.8212815!16s%2Fg%2F11gy0hmblk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3873,10 +3905,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GONTU+MUKKALA+SUBBARAYUDU+DENTAL+CLINIC/@14.4783659,78.8212815,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37351a309d1b5:0x6445738f10c12f7d!8m2!3d14.4783659!4d78.8212815!16s%2Fg%2F11gy0hmblk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-dental-college-and-hospital-puttampalli",
@@ -3925,7 +3958,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Government+Dental+College+%26+Hospital/@14.4338784,78.8604699,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb36d73514f96bd:0x7d4331b3d0e2eca4!8m2!3d14.4338784!4d78.8604699!16s%2Fg%2F1hhjt690n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Dental+College+%26+Hospital/@14.4338784,78.8604699,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb36d73514f96bd:0x7d4331b3d0e2eca4!8m2!3d14.4338784!4d78.8604699!16s%2Fg%2F1hhjt690n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3994,7 +4027,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Dental+College+%26+Hospital/@14.4338784,78.8604699,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb36d73514f96bd:0x7d4331b3d0e2eca4!8m2!3d14.4338784!4d78.8604699!16s%2Fg%2F1hhjt690n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gowri-cordiologist-hospital-kadapa",
@@ -4042,7 +4076,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gowri+Cordiologist+Hospital/@14.4759709,78.8233341,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721bb1eee7bd:0x241c2c0711fac19d!8m2!3d14.4759709!4d78.8233341!16s%2Fg%2F11g6bvj5jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gowri+Cordiologist+Hospital/@14.4759709,78.8233341,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721bb1eee7bd:0x241c2c0711fac19d!8m2!3d14.4759709!4d78.8233341!16s%2Fg%2F11g6bvj5jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4108,10 +4142,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gowri+Cordiologist+Hospital/@14.4759709,78.8233341,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721bb1eee7bd:0x241c2c0711fac19d!8m2!3d14.4759709!4d78.8233341!16s%2Fg%2F11g6bvj5jq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "grace-dental-clinic-kadapa",
@@ -4159,7 +4194,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/grace+dental+clinic/@14.4703044,78.8274548,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373622b706bf9:0xa959d8afaffc1a18!8m2!3d14.4703044!4d78.8274548!16s%2Fg%2F11fhn6v5_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/grace+dental+clinic/@14.4703044,78.8274548,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373622b706bf9:0xa959d8afaffc1a18!8m2!3d14.4703044!4d78.8274548!16s%2Fg%2F11fhn6v5_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4228,7 +4263,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/grace+dental+clinic/@14.4703044,78.8274548,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373622b706bf9:0xa959d8afaffc1a18!8m2!3d14.4703044!4d78.8274548!16s%2Fg%2F11fhn6v5_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gurijala-skin-clinic-kadapa",
@@ -4277,7 +4313,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gurijala+skin+clinic/data=!4m7!3m6!1s0x3bb37316c3e2d7c5:0x3c33bae72d2d09b4!8m2!3d14.4674936!4d78.8232398!16s%2Fg%2F11k583k17t!19sChIJxdfiwxZzszsRtAktLee6Mzw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurijala+skin+clinic/data=!4m7!3m6!1s0x3bb37316c3e2d7c5:0x3c33bae72d2d09b4!8m2!3d14.4674936!4d78.8232398!16s%2Fg%2F11k583k17t!19sChIJxdfiwxZzszsRtAktLee6Mzw?authuser=0&hl=en&rclk=1"
@@ -4346,7 +4382,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gurijala+skin+clinic/data=!4m7!3m6!1s0x3bb37316c3e2d7c5:0x3c33bae72d2d09b4!8m2!3d14.4674936!4d78.8232398!16s%2Fg%2F11k583k17t!19sChIJxdfiwxZzszsRtAktLee6Mzw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "haripriya-dental-care-kadapa",
@@ -4394,7 +4431,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/HARIPRIYA+DENTAL+CARE/@14.4747582,78.8227789,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373ebd23454f9:0x50c239c69f06c420!8m2!3d14.4747582!4d78.8227789!16s%2Fg%2F11ww8b0mpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HARIPRIYA+DENTAL+CARE/@14.4747582,78.8227789,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373ebd23454f9:0x50c239c69f06c420!8m2!3d14.4747582!4d78.8227789!16s%2Fg%2F11ww8b0mpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4463,7 +4500,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HARIPRIYA+DENTAL+CARE/@14.4747582,78.8227789,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373ebd23454f9:0x50c239c69f06c420!8m2!3d14.4747582!4d78.8227789!16s%2Fg%2F11ww8b0mpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hemanth-children-s-hospital-open-24-7-kadapa",
@@ -4513,7 +4551,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hemanth+Children%E2%80%99s+Hospital%28OPEN+24%2F7%29/data=!4m7!3m6!1s0x3bb3732f7ce17a2b:0xab14dcf4d8ba384f!8m2!3d14.4755072!4d78.8232025!16s%2Fg%2F11pvg6q0q5!19sChIJK3rhfC9zszsRTzi62PTcFKs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hemanth+Children%E2%80%99s+Hospital%28OPEN+24%2F7%29/data=!4m7!3m6!1s0x3bb3732f7ce17a2b:0xab14dcf4d8ba384f!8m2!3d14.4755072!4d78.8232025!16s%2Fg%2F11pvg6q0q5!19sChIJK3rhfC9zszsRTzi62PTcFKs?authuser=0&hl=en&rclk=1"
@@ -4579,10 +4617,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hemanth+Children%E2%80%99s+Hospital%28OPEN+24%2F7%29/data=!4m7!3m6!1s0x3bb3732f7ce17a2b:0xab14dcf4d8ba384f!8m2!3d14.4755072!4d78.8232025!16s%2Fg%2F11pvg6q0q5!19sChIJK3rhfC9zszsRTzi62PTcFKs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "himabindu-maternity-hospital-kadapa",
@@ -4630,7 +4669,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Himabindu+Maternity+Hospital/@14.4636613,78.8227852,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a0ae6f113:0x7ce0453b3262436f!8m2!3d14.4636613!4d78.8227852!16s%2Fg%2F11g70wyqdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Himabindu+Maternity+Hospital/@14.4636613,78.8227852,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a0ae6f113:0x7ce0453b3262436f!8m2!3d14.4636613!4d78.8227852!16s%2Fg%2F11g70wyqdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -4699,7 +4738,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Himabindu+Maternity+Hospital/@14.4636613,78.8227852,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a0ae6f113:0x7ce0453b3262436f!8m2!3d14.4636613!4d78.8227852!16s%2Fg%2F11g70wyqdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "identity-dental-hospital-12-263-6",
@@ -4747,7 +4787,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Identity+dental+hospital/@14.4774997,78.8263749,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b45e1a723:0x16eb88b32c80e7fc!8m2!3d14.4774997!4d78.8263749!16s%2Fg%2F11cn92cclt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Identity+dental+hospital/@14.4774997,78.8263749,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b45e1a723:0x16eb88b32c80e7fc!8m2!3d14.4774997!4d78.8263749!16s%2Fg%2F11cn92cclt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4816,7 +4856,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Identity+dental+hospital/@14.4774997,78.8263749,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b45e1a723:0x16eb88b32c80e7fc!8m2!3d14.4774997!4d78.8263749!16s%2Fg%2F11cn92cclt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jagadeesh-neuro-care-and-sri-lakshmi-scans-kadapa",
@@ -4865,7 +4906,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Jagadeesh+Neuro+Care+%26+Sri+Lakshmi+Scans/@14.4703025,78.8237024,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b13a875b9:0x7ebf34ce71fc46ee!8m2!3d14.4703025!4d78.8237024!16s%2Fg%2F11c37zgdvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jagadeesh+Neuro+Care+%26+Sri+Lakshmi+Scans/@14.4703025,78.8237024,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b13a875b9:0x7ebf34ce71fc46ee!8m2!3d14.4703025!4d78.8237024!16s%2Fg%2F11c37zgdvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4934,7 +4975,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jagadeesh+Neuro+Care+%26+Sri+Lakshmi+Scans/@14.4703025,78.8237024,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b13a875b9:0x7ebf34ce71fc46ee!8m2!3d14.4703025!4d78.8237024!16s%2Fg%2F11c37zgdvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jagannadham-hospital-kadapa",
@@ -4982,7 +5024,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Jagannadham+Hospital/@14.4736749,78.8285616,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3732a304f903b:0x855befc70ca3922!8m2!3d14.4736749!4d78.8285616!16s%2Fg%2F11j0jg_zdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jagannadham+Hospital/@14.4736749,78.8285616,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3732a304f903b:0x855befc70ca3922!8m2!3d14.4736749!4d78.8285616!16s%2Fg%2F11j0jg_zdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5051,7 +5093,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jagannadham+Hospital/@14.4736749,78.8285616,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3732a304f903b:0x855befc70ca3922!8m2!3d14.4736749!4d78.8285616!16s%2Fg%2F11j0jg_zdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "janapati-dental-care-chinna-chauku",
@@ -5099,7 +5142,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/JANAPATI+Dental+Care/@14.4757987,78.8377785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373beff3c8653:0x195bc402eaf2474!8m2!3d14.4757987!4d78.8377785!16s%2Fg%2F11krpshqb6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JANAPATI+Dental+Care/@14.4757987,78.8377785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373beff3c8653:0x195bc402eaf2474!8m2!3d14.4757987!4d78.8377785!16s%2Fg%2F11krpshqb6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5165,10 +5208,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JANAPATI+Dental+Care/@14.4757987,78.8377785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373beff3c8653:0x195bc402eaf2474!8m2!3d14.4757987!4d78.8377785!16s%2Fg%2F11krpshqb6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jyothi-s-dental-care-kadapa",
@@ -5216,7 +5260,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Jyothi's+Dental+Care/@14.4788396,78.8284783,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d974ee0c09:0xba2f597a04de31dd!8m2!3d14.4788396!4d78.8284783!16s%2Fg%2F11l75w7d30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jyothi's+Dental+Care/@14.4788396,78.8284783,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d974ee0c09:0xba2f597a04de31dd!8m2!3d14.4788396!4d78.8284783!16s%2Fg%2F11l75w7d30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5285,7 +5329,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jyothi's+Dental+Care/@14.4788396,78.8284783,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d974ee0c09:0xba2f597a04de31dd!8m2!3d14.4788396!4d78.8284783!16s%2Fg%2F11l75w7d30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jyoti-nursing-home-kadapa",
@@ -5333,7 +5378,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Jyoti+Nursing+Home/data=!4m7!3m6!1s0x3bb3721088a9b3a5:0xff154252780e71c1!8m2!3d14.4720063!4d78.8237852!16s%2Fg%2F11c7pbh9lp!19sChIJpbOpiBByszsRwXEOeFJCFf8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jyoti+Nursing+Home/data=!4m7!3m6!1s0x3bb3721088a9b3a5:0xff154252780e71c1!8m2!3d14.4720063!4d78.8237852!16s%2Fg%2F11c7pbh9lp!19sChIJpbOpiBByszsRwXEOeFJCFf8?authuser=0&hl=en&rclk=1"
@@ -5402,7 +5447,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jyoti+Nursing+Home/data=!4m7!3m6!1s0x3bb3721088a9b3a5:0xff154252780e71c1!8m2!3d14.4720063!4d78.8237852!16s%2Fg%2F11c7pbh9lp!19sChIJpbOpiBByszsRwXEOeFJCFf8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jyotiea-c-kadapa",
@@ -5451,7 +5497,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Jyotiea+C/@14.4693988,78.8270729,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d5a367b7ab:0x2e8d33e2e76da6ab!8m2!3d14.4693988!4d78.8270729!16s%2Fg%2F11rsrnn510?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jyotiea+C/@14.4693988,78.8270729,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d5a367b7ab:0x2e8d33e2e76da6ab!8m2!3d14.4693988!4d78.8270729!16s%2Fg%2F11rsrnn510?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5520,7 +5566,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jyotiea+C/@14.4693988,78.8270729,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d5a367b7ab:0x2e8d33e2e76da6ab!8m2!3d14.4693988!4d78.8270729!16s%2Fg%2F11rsrnn510?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kadapa-cancer-and-maternity-hospital-kadapa",
@@ -5568,7 +5615,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Kadapa+Cancer+%26+Maternity+Hospital/@14.4757853,78.8233079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37329df287715:0xeb395214143e2563!8m2!3d14.4757853!4d78.8233079!16s%2Fg%2F11y5d_4bp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kadapa+Cancer+%26+Maternity+Hospital/@14.4757853,78.8233079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37329df287715:0xeb395214143e2563!8m2!3d14.4757853!4d78.8233079!16s%2Fg%2F11y5d_4bp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -5637,7 +5684,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kadapa+Cancer+%26+Maternity+Hospital/@14.4757853,78.8233079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37329df287715:0xeb395214143e2563!8m2!3d14.4757853!4d78.8233079!16s%2Fg%2F11y5d_4bp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kadapa-hospitals-kch-kadapa",
@@ -5685,7 +5733,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://www.google.com/maps/place/KADAPA+HOSPITALS+%28KCH%29/data=!4m7!3m6!1s0x3bb3721a5669949d:0xcb21f9dbfb4923c2!8m2!3d14.4750785!4d78.8239114!16s%2Fg%2F11cn95qsg2!19sChIJnZRpVhpyszsRwiNJ-9v5Ics?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KADAPA+HOSPITALS+%28KCH%29/data=!4m7!3m6!1s0x3bb3721a5669949d:0xcb21f9dbfb4923c2!8m2!3d14.4750785!4d78.8239114!16s%2Fg%2F11cn95qsg2!19sChIJnZRpVhpyszsRwiNJ-9v5Ics?authuser=0&hl=en&rclk=1"
@@ -5754,7 +5802,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KADAPA+HOSPITALS+%28KCH%29/data=!4m7!3m6!1s0x3bb3721a5669949d:0xcb21f9dbfb4923c2!8m2!3d14.4750785!4d78.8239114!16s%2Fg%2F11cn95qsg2!19sChIJnZRpVhpyszsRwiNJ-9v5Ics?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kalyan-dental-kadapa",
@@ -5803,7 +5852,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Kalyan+dental/@14.4606104,78.8236751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3730055ed7037:0x579e4ffe129fd52b!8m2!3d14.4606104!4d78.8236751!16s%2Fg%2F11xmkrg8g_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalyan+dental/@14.4606104,78.8236751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3730055ed7037:0x579e4ffe129fd52b!8m2!3d14.4606104!4d78.8236751!16s%2Fg%2F11xmkrg8g_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5872,7 +5921,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalyan+dental/@14.4606104,78.8236751,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3730055ed7037:0x579e4ffe129fd52b!8m2!3d14.4606104!4d78.8236751!16s%2Fg%2F11xmkrg8g_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kartheek-s-dental-and-maxillofacial-centre-kadapa",
@@ -5922,7 +5972,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kartheek's+Dental+%26+Maxillofacial+Centre/@14.4712535,78.8229207,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373e514762d41:0x789659953fe306f7!8m2!3d14.4712535!4d78.8229207!16s%2Fg%2F11jzgybh03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kartheek's+Dental+%26+Maxillofacial+Centre/@14.4712535,78.8229207,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373e514762d41:0x789659953fe306f7!8m2!3d14.4712535!4d78.8229207!16s%2Fg%2F11jzgybh03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5988,10 +6038,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kartheek's+Dental+%26+Maxillofacial+Centre/@14.4712535,78.8229207,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373e514762d41:0x789659953fe306f7!8m2!3d14.4712535!4d78.8229207!16s%2Fg%2F11jzgybh03?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "karthikeya-hospital-kadapa",
@@ -6039,7 +6090,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Karthikeya+hospital/@14.462078,78.8245567,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37349e33938c1:0x7276a1da14b7abab!8m2!3d14.462078!4d78.8245567!16s%2Fg%2F11r76tnv66?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karthikeya+hospital/@14.462078,78.8245567,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37349e33938c1:0x7276a1da14b7abab!8m2!3d14.462078!4d78.8245567!16s%2Fg%2F11r76tnv66?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6108,7 +6159,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Karthikeya+hospital/@14.462078,78.8245567,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37349e33938c1:0x7276a1da14b7abab!8m2!3d14.462078!4d78.8245567!16s%2Fg%2F11r76tnv66?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khaleel-nursing-home-kadapa",
@@ -6156,7 +6208,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Khaleel+Nursing+Home/data=!4m7!3m6!1s0x3bb3721c9be287e3:0xbd5e4340ec170dac!8m2!3d14.4789716!4d78.8251344!16s%2Fg%2F1tdbjfkc!19sChIJ44fimxxyszsRrA0X7EBDXr0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khaleel+Nursing+Home/data=!4m7!3m6!1s0x3bb3721c9be287e3:0xbd5e4340ec170dac!8m2!3d14.4789716!4d78.8251344!16s%2Fg%2F1tdbjfkc!19sChIJ44fimxxyszsRrA0X7EBDXr0?authuser=0&hl=en&rclk=1"
@@ -6225,7 +6277,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khaleel+Nursing+Home/data=!4m7!3m6!1s0x3bb3721c9be287e3:0xbd5e4340ec170dac!8m2!3d14.4789716!4d78.8251344!16s%2Fg%2F1tdbjfkc!19sChIJ44fimxxyszsRrA0X7EBDXr0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kings-hospital-kadapa",
@@ -6273,7 +6326,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Kings+Hospital/data=!4m7!3m6!1s0x3bb372108378acab:0xc76c9b832b701a58!8m2!3d14.4755738!4d78.8233931!16s%2Fg%2F11rm6c97nk!19sChIJq6x4gxByszsRWBpwK4ObbMc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kings+Hospital/data=!4m7!3m6!1s0x3bb372108378acab:0xc76c9b832b701a58!8m2!3d14.4755738!4d78.8233931!16s%2Fg%2F11rm6c97nk!19sChIJq6x4gxByszsRWBpwK4ObbMc?authuser=0&hl=en&rclk=1"
@@ -6342,7 +6395,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kings+Hospital/data=!4m7!3m6!1s0x3bb372108378acab:0xc76c9b832b701a58!8m2!3d14.4755738!4d78.8233931!16s%2Fg%2F11rm6c97nk!19sChIJq6x4gxByszsRWBpwK4ObbMc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kranthi-s-smile-centre-kadapa",
@@ -6391,7 +6445,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/KRANTHI'S+SMILE+CENTRE/@14.4768463,78.8239723,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721ba0f9dd8d:0xd6354c16270133f7!8m2!3d14.4768463!4d78.8239723!16s%2Fg%2F11v_4x4bfl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KRANTHI'S+SMILE+CENTRE/@14.4768463,78.8239723,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721ba0f9dd8d:0xd6354c16270133f7!8m2!3d14.4768463!4d78.8239723!16s%2Fg%2F11v_4x4bfl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6460,7 +6514,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KRANTHI'S+SMILE+CENTRE/@14.4768463,78.8239723,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721ba0f9dd8d:0xd6354c16270133f7!8m2!3d14.4768463!4d78.8239723!16s%2Fg%2F11v_4x4bfl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kuldeep-ent-and-eye-hospital-kadapa",
@@ -6508,7 +6563,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Kuldeep+ENT+and+Eye+Hospital/@14.4761881,78.8285372,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720504608897:0xf48a3a4ab915c3e0!8m2!3d14.4761881!4d78.8285372!16s%2Fg%2F11hb2t2j5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kuldeep+ENT+and+Eye+Hospital/@14.4761881,78.8285372,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720504608897:0xf48a3a4ab915c3e0!8m2!3d14.4761881!4d78.8285372!16s%2Fg%2F11hb2t2j5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6577,7 +6632,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kuldeep+ENT+and+Eye+Hospital/@14.4761881,78.8285372,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720504608897:0xf48a3a4ab915c3e0!8m2!3d14.4761881!4d78.8285372!16s%2Fg%2F11hb2t2j5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "latha-dental-clinic-kadapa",
@@ -6625,7 +6681,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/LATHA+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb373daba45ead5:0xe98061b9330d9b3!8m2!3d14.4681941!4d78.8217484!16s%2Fg%2F11v3jhgxjl!19sChIJ1epFutpzszsRs9kwkxsGmA4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LATHA+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb373daba45ead5:0xe98061b9330d9b3!8m2!3d14.4681941!4d78.8217484!16s%2Fg%2F11v3jhgxjl!19sChIJ1epFutpzszsRs9kwkxsGmA4?authuser=0&hl=en&rclk=1"
@@ -6691,10 +6747,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LATHA+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb373daba45ead5:0xe98061b9330d9b3!8m2!3d14.4681941!4d78.8217484!16s%2Fg%2F11v3jhgxjl!19sChIJ1epFutpzszsRs9kwkxsGmA4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "life-line-hospital-kadapa",
@@ -6742,7 +6799,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Life+Line+Hospital/@14.4776695,78.8247651,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3737810c0521d:0x3ddfa328f202cee0!8m2!3d14.4776695!4d78.8247651!16s%2Fg%2F11j10r0th9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Life+Line+Hospital/@14.4776695,78.8247651,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3737810c0521d:0x3ddfa328f202cee0!8m2!3d14.4776695!4d78.8247651!16s%2Fg%2F11j10r0th9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6811,7 +6868,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Life+Line+Hospital/@14.4776695,78.8247651,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3737810c0521d:0x3ddfa328f202cee0!8m2!3d14.4776695!4d78.8247651!16s%2Fg%2F11j10r0th9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "likhith-dental-care-kadapa",
@@ -6859,7 +6917,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Likhith+Dental+Care+%F0%9F%A6%B7/data=!4m7!3m6!1s0x3bb37300061b2015:0x8e691687e8c6160f!8m2!3d14.4771225!4d78.8243355!16s%2Fg%2F11z3yzg_hj!19sChIJFSAbBgBzszsRDxbG6IcWaY4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Likhith+Dental+Care+%F0%9F%A6%B7/data=!4m7!3m6!1s0x3bb37300061b2015:0x8e691687e8c6160f!8m2!3d14.4771225!4d78.8243355!16s%2Fg%2F11z3yzg_hj!19sChIJFSAbBgBzszsRDxbG6IcWaY4?authuser=0&hl=en&rclk=1"
@@ -6925,10 +6983,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Likhith+Dental+Care+%F0%9F%A6%B7/data=!4m7!3m6!1s0x3bb37300061b2015:0x8e691687e8c6160f!8m2!3d14.4771225!4d78.8243355!16s%2Fg%2F11z3yzg_hj!19sChIJFSAbBgBzszsRDxbG6IcWaY4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "m-r-hospital-sugar-thyroid-harmone-and-pediatric-center-chemmumiyapeta",
@@ -6976,7 +7035,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/M.R+HOSPITAL+(SUGAR,THYROID,HARMONE+%26+PEDIATRIC+CENTER)/@14.4648193,78.8161002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37333d2109455:0x8538e0a252e9cef7!8m2!3d14.4648193!4d78.8161002!16s%2Fg%2F11f9d2hq9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.R+HOSPITAL+(SUGAR,THYROID,HARMONE+%26+PEDIATRIC+CENTER)/@14.4648193,78.8161002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37333d2109455:0x8538e0a252e9cef7!8m2!3d14.4648193!4d78.8161002!16s%2Fg%2F11f9d2hq9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7042,10 +7101,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M.R+HOSPITAL+(SUGAR,THYROID,HARMONE+%26+PEDIATRIC+CENTER)/@14.4648193,78.8161002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37333d2109455:0x8538e0a252e9cef7!8m2!3d14.4648193!4d78.8161002!16s%2Fg%2F11f9d2hq9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mahesh-dental-care-kadapa",
@@ -7092,7 +7152,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/MAHESH+DENTAL+CARE/@14.4755689,78.8242449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721afe2d08b1:0xf88a453bfbc92b3b!8m2!3d14.4755689!4d78.8242449!16s%2Fg%2F11vxpkwghf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAHESH+DENTAL+CARE/@14.4755689,78.8242449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721afe2d08b1:0xf88a453bfbc92b3b!8m2!3d14.4755689!4d78.8242449!16s%2Fg%2F11vxpkwghf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7158,10 +7218,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MAHESH+DENTAL+CARE/@14.4755689,78.8242449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721afe2d08b1:0xf88a453bfbc92b3b!8m2!3d14.4755689!4d78.8242449!16s%2Fg%2F11vxpkwghf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mallika-hospital-yerramukkapalli",
@@ -7210,7 +7271,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MALLIKA+HOSPITAL/@14.469128,78.82379,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721108b179c3:0xb32c1717b9b30370!8m2!3d14.469128!4d78.82379!16s%2Fg%2F11fz9x2t_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MALLIKA+HOSPITAL/@14.469128,78.82379,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721108b179c3:0xb32c1717b9b30370!8m2!3d14.469128!4d78.82379!16s%2Fg%2F11fz9x2t_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7279,7 +7340,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MALLIKA+HOSPITAL/@14.469128,78.82379,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721108b179c3:0xb32c1717b9b30370!8m2!3d14.469128!4d78.82379!16s%2Fg%2F11fz9x2t_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "max-plus-hospitals-kadapa",
@@ -7328,7 +7390,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Max+Plus+Hospitals/@14.4633906,78.8233989,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3737d7446aa1f:0x4dfae323d62e8490!8m2!3d14.4633906!4d78.8233989!16s%2Fg%2F11sv7vkdzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Max+Plus+Hospitals/@14.4633906,78.8233989,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3737d7446aa1f:0x4dfae323d62e8490!8m2!3d14.4633906!4d78.8233989!16s%2Fg%2F11sv7vkdzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7397,7 +7459,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Max+Plus+Hospitals/@14.4633906,78.8233989,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3737d7446aa1f:0x4dfae323d62e8490!8m2!3d14.4633906!4d78.8233989!16s%2Fg%2F11sv7vkdzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mehathab-hospital-chinna-chauku",
@@ -7445,7 +7508,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mehathab+hospital/@14.4776971,78.8332474,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3732708be92cb:0x5712f9e434281273!8m2!3d14.4776971!4d78.8332474!16s%2Fg%2F11trv2f7zy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mehathab+hospital/@14.4776971,78.8332474,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3732708be92cb:0x5712f9e434281273!8m2!3d14.4776971!4d78.8332474!16s%2Fg%2F11trv2f7zy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7511,10 +7574,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mehathab+hospital/@14.4776971,78.8332474,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3732708be92cb:0x5712f9e434281273!8m2!3d14.4776971!4d78.8332474!16s%2Fg%2F11trv2f7zy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mrudula-hospital-kadapa",
@@ -7562,7 +7626,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/MRUDULA+HOSPITAL/@14.4621598,78.8241463,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37212d88176d3:0x7783280b1e49528!8m2!3d14.4621598!4d78.8241463!16s%2Fg%2F11ckvvkwdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MRUDULA+HOSPITAL/@14.4621598,78.8241463,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37212d88176d3:0x7783280b1e49528!8m2!3d14.4621598!4d78.8241463!16s%2Fg%2F11ckvvkwdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -7631,7 +7695,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MRUDULA+HOSPITAL/@14.4621598,78.8241463,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37212d88176d3:0x7783280b1e49528!8m2!3d14.4621598!4d78.8241463!16s%2Fg%2F11ckvvkwdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "murali-kidney-and-eye-hospital-kadapa",
@@ -7680,7 +7745,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Murali+Kidney+and+Eye+Hospital/@14.4618006,78.8227106,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3734d025d9e15:0x1cbe0561cb3fa9e2!8m2!3d14.4618006!4d78.8227106!16s%2Fg%2F11vzpxznb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Murali+Kidney+and+Eye+Hospital/@14.4618006,78.8227106,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3734d025d9e15:0x1cbe0561cb3fa9e2!8m2!3d14.4618006!4d78.8227106!16s%2Fg%2F11vzpxznb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7749,7 +7814,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Murali+Kidney+and+Eye+Hospital/@14.4618006,78.8227106,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3734d025d9e15:0x1cbe0561cb3fa9e2!8m2!3d14.4618006!4d78.8227106!16s%2Fg%2F11vzpxznb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "murali-madav-hospital-kadapa",
@@ -7797,7 +7863,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Murali+Madav+Hospital/@14.4715327,78.8229262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3a24b3c75a333:0xb077fa54fdc35e44!8m2!3d14.4715327!4d78.8229262!16s%2Fg%2F11f5dtvs9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Murali+Madav+Hospital/@14.4715327,78.8229262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3a24b3c75a333:0xb077fa54fdc35e44!8m2!3d14.4715327!4d78.8229262!16s%2Fg%2F11f5dtvs9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7866,7 +7932,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Murali+Madav+Hospital/@14.4715327,78.8229262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3a24b3c75a333:0xb077fa54fdc35e44!8m2!3d14.4715327!4d78.8229262!16s%2Fg%2F11f5dtvs9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mythri-gastro-and-pediatric-centre-kadapa",
@@ -7915,7 +7982,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/MYTHRI+GASTRO+AND+PEDIATRIC+CENTRE/data=!4m7!3m6!1s0x3bb373304c23a8db:0xe9d4e2edc68860aa!8m2!3d14.4703085!4d78.8233562!16s%2Fg%2F11ry5z3t94!19sChIJ26gjTDBzszsRqmCIxu3i1Ok?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MYTHRI+GASTRO+AND+PEDIATRIC+CENTRE/data=!4m7!3m6!1s0x3bb373304c23a8db:0xe9d4e2edc68860aa!8m2!3d14.4703085!4d78.8233562!16s%2Fg%2F11ry5z3t94!19sChIJ26gjTDBzszsRqmCIxu3i1Ok?authuser=0&hl=en&rclk=1"
@@ -7984,7 +8051,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MYTHRI+GASTRO+AND+PEDIATRIC+CENTRE/data=!4m7!3m6!1s0x3bb373304c23a8db:0xe9d4e2edc68860aa!8m2!3d14.4703085!4d78.8233562!16s%2Fg%2F11ry5z3t94!19sChIJ26gjTDBzszsRqmCIxu3i1Ok?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nagarjuna-dental-care-kadapa",
@@ -8032,7 +8100,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Nagarjuna+Dental+Care/@14.4755431,78.8233374,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721bb2a231a9:0x5582b3e02ed08db7!8m2!3d14.4755431!4d78.8233374!16s%2Fg%2F11d_84lhrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nagarjuna+Dental+Care/@14.4755431,78.8233374,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721bb2a231a9:0x5582b3e02ed08db7!8m2!3d14.4755431!4d78.8233374!16s%2Fg%2F11d_84lhrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8101,7 +8169,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nagarjuna+Dental+Care/@14.4755431,78.8233374,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721bb2a231a9:0x5582b3e02ed08db7!8m2!3d14.4755431!4d78.8233374!16s%2Fg%2F11d_84lhrn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "narendra-hospital-s-kadapa",
@@ -8149,7 +8218,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/NARENDRA+HOSPITAL%27S+%28+%E0%B0%A8%E0%B0%B0%E0%B1%87%E0%B0%82%E0%B0%A6%E0%B1%8D%E0%B0%B0+%E0%B0%B9%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%AA%E0%B0%BF%E0%B0%9F%E0%B0%B2%E0%B1%8D%29/data=!4m7!3m6!1s0x3bb373001b9c9f5b:0x1431004d407a5ef7!8m2!3d14.4619245!4d78.8239545!16s%2Fg%2F11y698pnmy!19sChIJW5-cGwBzszsR9156QE0AMRQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NARENDRA+HOSPITAL%27S+%28+%E0%B0%A8%E0%B0%B0%E0%B1%87%E0%B0%82%E0%B0%A6%E0%B1%8D%E0%B0%B0+%E0%B0%B9%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%AA%E0%B0%BF%E0%B0%9F%E0%B0%B2%E0%B1%8D%29/data=!4m7!3m6!1s0x3bb373001b9c9f5b:0x1431004d407a5ef7!8m2!3d14.4619245!4d78.8239545!16s%2Fg%2F11y698pnmy!19sChIJW5-cGwBzszsR9156QE0AMRQ?authuser=0&hl=en&rclk=1"
@@ -8218,7 +8287,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NARENDRA+HOSPITAL%27S+%28+%E0%B0%A8%E0%B0%B0%E0%B1%87%E0%B0%82%E0%B0%A6%E0%B1%8D%E0%B0%B0+%E0%B0%B9%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%AA%E0%B0%BF%E0%B0%9F%E0%B0%B2%E0%B1%8D%29/data=!4m7!3m6!1s0x3bb373001b9c9f5b:0x1431004d407a5ef7!8m2!3d14.4619245!4d78.8239545!16s%2Fg%2F11y698pnmy!19sChIJW5-cGwBzszsR9156QE0AMRQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "naveen-dental-clinic-and-implant-center-kadapa",
@@ -8266,7 +8336,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Naveen+dental+clinic+and+implant+center/@14.4774304,78.8261182,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37327e3d69c21:0xdc5d45dc80387c3d!8m2!3d14.4774304!4d78.8261182!16s%2Fg%2F11xd9qy5gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Naveen+dental+clinic+and+implant+center/@14.4774304,78.8261182,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37327e3d69c21:0xdc5d45dc80387c3d!8m2!3d14.4774304!4d78.8261182!16s%2Fg%2F11xd9qy5gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8332,10 +8402,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Naveen+dental+clinic+and+implant+center/@14.4774304,78.8261182,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37327e3d69c21:0xdc5d45dc80387c3d!8m2!3d14.4774304!4d78.8261182!16s%2Fg%2F11xd9qy5gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nk-celebrity-looks-clinic-kadapa",
@@ -8385,7 +8456,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NK+CELEBRITY+LOOKS+CLINIC/@14.4596208,78.8290829,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37395032c58db:0xfca65a5cbea52f0f!8m2!3d14.4596208!4d78.8290829!16s%2Fg%2F11lcgtxc5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NK+CELEBRITY+LOOKS+CLINIC/@14.4596208,78.8290829,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37395032c58db:0xfca65a5cbea52f0f!8m2!3d14.4596208!4d78.8290829!16s%2Fg%2F11lcgtxc5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8451,10 +8522,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NK+CELEBRITY+LOOKS+CLINIC/@14.4596208,78.8290829,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37395032c58db:0xfca65a5cbea52f0f!8m2!3d14.4596208!4d78.8290829!16s%2Fg%2F11lcgtxc5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "palla-hospitals-kadapa",
@@ -8503,7 +8575,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/PALLA+Hospitals/@14.47591,78.8233785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373421afeed27:0x115509ef4707f55!8m2!3d14.47591!4d78.8233785!16s%2Fg%2F11t6kx_v5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PALLA+Hospitals/@14.47591,78.8233785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373421afeed27:0x115509ef4707f55!8m2!3d14.47591!4d78.8233785!16s%2Fg%2F11t6kx_v5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -8572,7 +8644,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PALLA+Hospitals/@14.47591,78.8233785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373421afeed27:0x115509ef4707f55!8m2!3d14.47591!4d78.8233785!16s%2Fg%2F11t6kx_v5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "partha-dental-clinic-kadapa-invisalign-provider-root-canal-and-dental-implant-centre-kadapa",
@@ -8621,7 +8694,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Kadapa+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Root+Canal+%26+Dental+Implant+Centre/@14.4777735,78.8261421,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721181f93dd7:0x7d3764dbcaa900e5!8m2!3d14.4777735!4d78.8261421!16s%2Fg%2F11g_n_d7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Kadapa+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Root+Canal+%26+Dental+Implant+Centre/@14.4777735,78.8261421,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721181f93dd7:0x7d3764dbcaa900e5!8m2!3d14.4777735!4d78.8261421!16s%2Fg%2F11g_n_d7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8690,7 +8763,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Partha+Dental+Clinic+%E2%80%93+Kadapa+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider+%7C+Root+Canal+%26+Dental+Implant+Centre/@14.4777735,78.8261421,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721181f93dd7:0x7d3764dbcaa900e5!8m2!3d14.4777735!4d78.8261421!16s%2Fg%2F11g_n_d7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pavan-dental-care-kadapa",
@@ -8738,7 +8812,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/pavan+dental+care/@14.4740964,78.8224206,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a3e29d2fd:0x68f8d6718abd72c6!8m2!3d14.4740964!4d78.8224206!16s%2Fg%2F11dxd8yx2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/pavan+dental+care/@14.4740964,78.8224206,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a3e29d2fd:0x68f8d6718abd72c6!8m2!3d14.4740964!4d78.8224206!16s%2Fg%2F11dxd8yx2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8807,7 +8881,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/pavan+dental+care/@14.4740964,78.8224206,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a3e29d2fd:0x68f8d6718abd72c6!8m2!3d14.4740964!4d78.8224206!16s%2Fg%2F11dxd8yx2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "physio-life-advanced-rehab-and-pain-clinic-physiotherapy-kadapa",
@@ -8856,7 +8931,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Physio+Life+advanced+Rehab+and+Pain+Clinic.+physiotherapy/@14.4745681,78.8224731,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a31a62339:0x68e1703b79f8920f!8m2!3d14.4745681!4d78.8224731!16s%2Fg%2F11g8pb9dx9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Physio+Life+advanced+Rehab+and+Pain+Clinic.+physiotherapy/@14.4745681,78.8224731,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a31a62339:0x68e1703b79f8920f!8m2!3d14.4745681!4d78.8224731!16s%2Fg%2F11g8pb9dx9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8922,10 +8997,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Physio+Life+advanced+Rehab+and+Pain+Clinic.+physiotherapy/@14.4745681,78.8224731,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a31a62339:0x68e1703b79f8920f!8m2!3d14.4745681!4d78.8224731!16s%2Fg%2F11g8pb9dx9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "piles-clinic-kadapa",
@@ -8973,7 +9049,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Piles+clinic/@14.4785243,78.8270139,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37204aad7a2c3:0x2ec149a6fcb15d48!8m2!3d14.4785243!4d78.8270139!16s%2Fg%2F11c3k2wx7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Piles+clinic/@14.4785243,78.8270139,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37204aad7a2c3:0x2ec149a6fcb15d48!8m2!3d14.4785243!4d78.8270139!16s%2Fg%2F11c3k2wx7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9042,7 +9118,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Piles+clinic/@14.4785243,78.8270139,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37204aad7a2c3:0x2ec149a6fcb15d48!8m2!3d14.4785243!4d78.8270139!16s%2Fg%2F11c3k2wx7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pluto-s-skin-hair-and-laser-clinic-chinna-chauku",
@@ -9090,7 +9167,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Pluto's+Skin+Hair+%26+Laser+Clinic/@14.4761396,78.8374287,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373fbbcc45def:0x8f05e2e3ff9fe945!8m2!3d14.4761396!4d78.8374287!16s%2Fg%2F11sb2mr9tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pluto's+Skin+Hair+%26+Laser+Clinic/@14.4761396,78.8374287,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373fbbcc45def:0x8f05e2e3ff9fe945!8m2!3d14.4761396!4d78.8374287!16s%2Fg%2F11sb2mr9tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9156,10 +9233,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pluto's+Skin+Hair+%26+Laser+Clinic/@14.4761396,78.8374287,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373fbbcc45def:0x8f05e2e3ff9fe945!8m2!3d14.4761396!4d78.8374287!16s%2Fg%2F11sb2mr9tg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pramoda-hospital-kadapa",
@@ -9207,7 +9285,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Pramoda+hospital/@14.4662455,78.8320002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373a5c399ad75:0xf415a9e51a376332!8m2!3d14.4662455!4d78.8320002!16s%2Fg%2F11fmzgjcgh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pramoda+hospital/@14.4662455,78.8320002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373a5c399ad75:0xf415a9e51a376332!8m2!3d14.4662455!4d78.8320002!16s%2Fg%2F11fmzgjcgh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9273,10 +9351,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pramoda+hospital/@14.4662455,78.8320002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373a5c399ad75:0xf415a9e51a376332!8m2!3d14.4662455!4d78.8320002!16s%2Fg%2F11fmzgjcgh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prashanth-fertility-centre-kadapa-kadapa",
@@ -9326,7 +9405,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Prashanth+Fertility+Centre+Kadapa/@14.4783659,78.8212815,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373959928e32d:0x2bf18d7837ae35f4!8m2!3d14.4783659!4d78.8212815!16s%2Fg%2F11j31gb2zw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prashanth+Fertility+Centre+Kadapa/@14.4783659,78.8212815,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373959928e32d:0x2bf18d7837ae35f4!8m2!3d14.4783659!4d78.8212815!16s%2Fg%2F11j31gb2zw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9392,10 +9471,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prashanth+Fertility+Centre+Kadapa/@14.4783659,78.8212815,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373959928e32d:0x2bf18d7837ae35f4!8m2!3d14.4783659!4d78.8212815!16s%2Fg%2F11j31gb2zw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prathyusha-skin-clinic-kadapa",
@@ -9443,7 +9523,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Prathyusha+Skin+Clinic/@14.4748118,78.8237711,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3730ad7ca0867:0x1bcfd245bf123d5e!8m2!3d14.4748118!4d78.8237711!16s%2Fg%2F11hyc5t2mp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prathyusha+Skin+Clinic/@14.4748118,78.8237711,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3730ad7ca0867:0x1bcfd245bf123d5e!8m2!3d14.4748118!4d78.8237711!16s%2Fg%2F11hyc5t2mp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9512,7 +9592,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prathyusha+Skin+Clinic/@14.4748118,78.8237711,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3730ad7ca0867:0x1bcfd245bf123d5e!8m2!3d14.4748118!4d78.8237711!16s%2Fg%2F11hyc5t2mp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prime-hospitals-kadapa",
@@ -9560,7 +9641,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/PRIME+HOSPITALS/@14.462089,78.8245077,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373386fd0f8e1:0xcc02242ee7a0fe93!8m2!3d14.462089!4d78.8245077!16s%2Fg%2F11s7dmpcft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PRIME+HOSPITALS/@14.462089,78.8245077,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373386fd0f8e1:0xcc02242ee7a0fe93!8m2!3d14.462089!4d78.8245077!16s%2Fg%2F11s7dmpcft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9629,7 +9710,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PRIME+HOSPITALS/@14.462089,78.8245077,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373386fd0f8e1:0xcc02242ee7a0fe93!8m2!3d14.462089!4d78.8245077!16s%2Fg%2F11s7dmpcft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "private-hospitals-kadapa",
@@ -9675,7 +9757,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Private+Hospitals/data=!4m7!3m6!1s0x3bb3736cb8b0b2c3:0xd2f0791e76b91e63!8m2!3d14.4756295!4d78.8292074!16s%2Fg%2F11mvq2x9kj!19sChIJw7KwuGxzszsRYx65dh558NI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Private+Hospitals/data=!4m7!3m6!1s0x3bb3736cb8b0b2c3:0xd2f0791e76b91e63!8m2!3d14.4756295!4d78.8292074!16s%2Fg%2F11mvq2x9kj!19sChIJw7KwuGxzszsRYx65dh558NI?authuser=0&hl=en&rclk=1"
@@ -9741,10 +9823,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Private+Hospitals/data=!4m7!3m6!1s0x3bb3736cb8b0b2c3:0xd2f0791e76b91e63!8m2!3d14.4756295!4d78.8292074!16s%2Fg%2F11mvq2x9kj!19sChIJw7KwuGxzszsRYx65dh558NI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "priyatham-hospital-kadapa",
@@ -9792,7 +9875,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Priyatham+Hospital/@14.4735642,78.8291225,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37205655a9fd7:0x4d4a7f4661f9c09e!8m2!3d14.4735642!4d78.8291225!16s%2Fg%2F11bwhb503v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Priyatham+Hospital/@14.4735642,78.8291225,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37205655a9fd7:0x4d4a7f4661f9c09e!8m2!3d14.4735642!4d78.8291225!16s%2Fg%2F11bwhb503v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -9861,7 +9944,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Priyatham+Hospital/@14.4735642,78.8291225,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37205655a9fd7:0x4d4a7f4661f9c09e!8m2!3d14.4735642!4d78.8291225!16s%2Fg%2F11bwhb503v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "r-r-hospital-cardio-and-general-care-kadapa-kadapa",
@@ -9909,7 +9993,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/R+R+Hospital+%7C+Cardio+%26+General+Care,+Kadapa/@14.4627042,78.8229033,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3738b8a8fb1cf:0x88d07db2b90c6919!8m2!3d14.4627042!4d78.8229033!16s%2Fg%2F11mnk6t8md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+R+Hospital+%7C+Cardio+%26+General+Care,+Kadapa/@14.4627042,78.8229033,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3738b8a8fb1cf:0x88d07db2b90c6919!8m2!3d14.4627042!4d78.8229033!16s%2Fg%2F11mnk6t8md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9975,10 +10059,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R+R+Hospital+%7C+Cardio+%26+General+Care,+Kadapa/@14.4627042,78.8229033,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3738b8a8fb1cf:0x88d07db2b90c6919!8m2!3d14.4627042!4d78.8229033!16s%2Fg%2F11mnk6t8md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rain-shine-hospital-kadapa",
@@ -10026,7 +10111,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Rain+Shine+Hospital/@14.4630767,78.8240082,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373735aeafc8f:0xbce365f8b4e30ab0!8m2!3d14.4630767!4d78.8240082!16s%2Fg%2F11ryr11s2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rain+Shine+Hospital/@14.4630767,78.8240082,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373735aeafc8f:0xbce365f8b4e30ab0!8m2!3d14.4630767!4d78.8240082!16s%2Fg%2F11ryr11s2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -10095,7 +10180,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rain+Shine+Hospital/@14.4630767,78.8240082,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373735aeafc8f:0xbce365f8b4e30ab0!8m2!3d14.4630767!4d78.8240082!16s%2Fg%2F11ryr11s2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rama-s-sreekara-hospital-kadapa",
@@ -10143,7 +10229,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Rama's+sreekara+hospital/@14.472437,78.822675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37357b3c1e1bb:0x7e418f47e02477aa!8m2!3d14.472437!4d78.822675!16s%2Fg%2F11fvcd93c0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rama's+sreekara+hospital/@14.472437,78.822675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37357b3c1e1bb:0x7e418f47e02477aa!8m2!3d14.472437!4d78.822675!16s%2Fg%2F11fvcd93c0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10209,10 +10295,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rama's+sreekara+hospital/@14.472437,78.822675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37357b3c1e1bb:0x7e418f47e02477aa!8m2!3d14.472437!4d78.822675!16s%2Fg%2F11fvcd93c0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ravi-dental-clinic-kadapa",
@@ -10261,7 +10348,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ravi+dental+clinic/data=!4m7!3m6!1s0x3bb3739128cfddd3:0x55082e810b0990e1!8m2!3d14.4830633!4d78.8235994!16s%2Fg%2F11rs2q6tkd!19sChIJ093PKJFzszsR4ZAJC4EuCFU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ravi+dental+clinic/data=!4m7!3m6!1s0x3bb3739128cfddd3:0x55082e810b0990e1!8m2!3d14.4830633!4d78.8235994!16s%2Fg%2F11rs2q6tkd!19sChIJ093PKJFzszsR4ZAJC4EuCFU?authuser=0&hl=en&rclk=1"
@@ -10327,10 +10414,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ravi+dental+clinic/data=!4m7!3m6!1s0x3bb3739128cfddd3:0x55082e810b0990e1!8m2!3d14.4830633!4d78.8235994!16s%2Fg%2F11rs2q6tkd!19sChIJ093PKJFzszsR4ZAJC4EuCFU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "reddy-and-reddy-dental-clinic-kadapa",
@@ -10379,7 +10467,7 @@
     "metrics": [
       "Google rating 1.8"
     ],
-    "image": "https://www.google.com/maps/place/REDDY%26REDDY+DENTAL+CLINIC/@14.4767316,78.8237652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373c35c90bc0d:0x634f57e81bd15e0a!8m2!3d14.4767316!4d78.8237652!16s%2Fg%2F11fj18bjyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/REDDY%26REDDY+DENTAL+CLINIC/@14.4767316,78.8237652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373c35c90bc0d:0x634f57e81bd15e0a!8m2!3d14.4767316!4d78.8237652!16s%2Fg%2F11fj18bjyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10448,7 +10536,8 @@
     "rating": 1.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/REDDY%26REDDY+DENTAL+CLINIC/@14.4767316,78.8237652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373c35c90bc0d:0x634f57e81bd15e0a!8m2!3d14.4767316!4d78.8237652!16s%2Fg%2F11fj18bjyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rewish-beauty-international-kadapa",
@@ -10497,7 +10586,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/REWISH+BEAUTY+INTERNATIONAL/data=!4m7!3m6!1s0x3bb3735225b5d01d:0xaa2657e6cd0e5617!8m2!3d14.4635051!4d78.8240394!16s%2Fg%2F11sd6704rg!19sChIJHdC1JVJzszsRF1YOzeZXJqo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/REWISH+BEAUTY+INTERNATIONAL/data=!4m7!3m6!1s0x3bb3735225b5d01d:0xaa2657e6cd0e5617!8m2!3d14.4635051!4d78.8240394!16s%2Fg%2F11sd6704rg!19sChIJHdC1JVJzszsRF1YOzeZXJqo?authuser=0&hl=en&rclk=1"
@@ -10563,10 +10652,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/REWISH+BEAUTY+INTERNATIONAL/data=!4m7!3m6!1s0x3bb3735225b5d01d:0xaa2657e6cd0e5617!8m2!3d14.4635051!4d78.8240394!16s%2Fg%2F11sd6704rg!19sChIJHdC1JVJzszsRF1YOzeZXJqo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rv-aesthetics-chinna-chauku",
@@ -10614,7 +10704,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/RV+Aesthetics/@14.4638037,78.8317671,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37330cb6c4ef1:0x1540dd00797a1aeb!8m2!3d14.4638037!4d78.8317671!16s%2Fg%2F11yd5w4cc_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RV+Aesthetics/@14.4638037,78.8317671,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37330cb6c4ef1:0x1540dd00797a1aeb!8m2!3d14.4638037!4d78.8317671!16s%2Fg%2F11yd5w4cc_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10683,7 +10773,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RV+Aesthetics/@14.4638037,78.8317671,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37330cb6c4ef1:0x1540dd00797a1aeb!8m2!3d14.4638037!4d78.8317671!16s%2Fg%2F11yd5w4cc_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rv-dental-kadapa",
@@ -10732,7 +10823,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/RV+Dental/data=!4m7!3m6!1s0x3bb373996e222691:0xb91f63e6e1e41373!8m2!3d14.4617789!4d78.8294728!16s%2Fg%2F11ms87kcp0!19sChIJkSYibplzszsRcxPk4eZjH7k?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RV+Dental/data=!4m7!3m6!1s0x3bb373996e222691:0xb91f63e6e1e41373!8m2!3d14.4617789!4d78.8294728!16s%2Fg%2F11ms87kcp0!19sChIJkSYibplzszsRcxPk4eZjH7k?authuser=0&hl=en&rclk=1"
@@ -10798,10 +10889,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RV+Dental/data=!4m7!3m6!1s0x3bb373996e222691:0xb91f63e6e1e41373!8m2!3d14.4617789!4d78.8294728!16s%2Fg%2F11ms87kcp0!19sChIJkSYibplzszsRcxPk4eZjH7k?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sai-geeta-neuro-and-maternity-hospital-chinna-chauku",
@@ -10850,7 +10942,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Geeta+Neuro+%26+Maternity+Hospital/@14.4777169,78.8331272,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37206a3a7d9dd:0xdd34fc5f010de82!8m2!3d14.4777169!4d78.8331272!16s%2Fg%2F11c5bg9n8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Geeta+Neuro+%26+Maternity+Hospital/@14.4777169,78.8331272,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37206a3a7d9dd:0xdd34fc5f010de82!8m2!3d14.4777169!4d78.8331272!16s%2Fg%2F11c5bg9n8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10919,7 +11011,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Geeta+Neuro+%26+Maternity+Hospital/@14.4777169,78.8331272,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37206a3a7d9dd:0xdd34fc5f010de82!8m2!3d14.4777169!4d78.8331272!16s%2Fg%2F11c5bg9n8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-maanasa-dental-and-maxillofacial-hospital-kadapa",
@@ -10968,7 +11061,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Maanasa+Dental+and+MaxilloFacial+Hospital/@14.4793667,78.8211772,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37317d0c34687:0x7af6f29d4eb9891b!8m2!3d14.4793667!4d78.8211772!16s%2Fg%2F11hyxst6tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Maanasa+Dental+and+MaxilloFacial+Hospital/@14.4793667,78.8211772,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37317d0c34687:0x7af6f29d4eb9891b!8m2!3d14.4793667!4d78.8211772!16s%2Fg%2F11hyxst6tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11037,7 +11130,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Maanasa+Dental+and+MaxilloFacial+Hospital/@14.4793667,78.8211772,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37317d0c34687:0x7af6f29d4eb9891b!8m2!3d14.4793667!4d78.8211772!16s%2Fg%2F11hyxst6tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-prasad-s-dental-kadapa",
@@ -11085,7 +11179,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Prasad's+Dental/@14.4766634,78.8235998,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721ba19b2bd1:0x1e81a0f869f5ed4d!8m2!3d14.4766634!4d78.8235998!16s%2Fg%2F11dxq4ntqt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Prasad's+Dental/@14.4766634,78.8235998,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721ba19b2bd1:0x1e81a0f869f5ed4d!8m2!3d14.4766634!4d78.8235998!16s%2Fg%2F11dxq4ntqt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11154,7 +11248,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Prasad's+Dental/@14.4766634,78.8235998,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721ba19b2bd1:0x1e81a0f869f5ed4d!8m2!3d14.4766634!4d78.8235998!16s%2Fg%2F11dxq4ntqt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samhitha-hospital-kadapa",
@@ -11202,7 +11297,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/SAMHITHA+HOSPITAL/data=!4m7!3m6!1s0x3bb3737a3dadbb4d:0xa55536b515b2f61b!8m2!3d14.4616472!4d78.8228924!16s%2Fg%2F11sm6_77r3!19sChIJTbutPXpzszsRG_ayFbU2VaU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAMHITHA+HOSPITAL/data=!4m7!3m6!1s0x3bb3737a3dadbb4d:0xa55536b515b2f61b!8m2!3d14.4616472!4d78.8228924!16s%2Fg%2F11sm6_77r3!19sChIJTbutPXpzszsRG_ayFbU2VaU?authuser=0&hl=en&rclk=1"
@@ -11271,7 +11366,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAMHITHA+HOSPITAL/data=!4m7!3m6!1s0x3bb3737a3dadbb4d:0xa55536b515b2f61b!8m2!3d14.4616472!4d78.8228924!16s%2Fg%2F11sm6_77r3!19sChIJTbutPXpzszsRG_ayFbU2VaU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "satna-hospital-kadapa",
@@ -11319,7 +11415,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Satna+Hospital/@14.4758049,78.824606,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b47574e9d:0xad02937f5339ca5c!8m2!3d14.4758049!4d78.824606!16s%2Fg%2F11bbrgntrp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Satna+Hospital/@14.4758049,78.824606,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b47574e9d:0xad02937f5339ca5c!8m2!3d14.4758049!4d78.824606!16s%2Fg%2F11bbrgntrp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11388,7 +11484,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Satna+Hospital/@14.4758049,78.824606,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b47574e9d:0xad02937f5339ca5c!8m2!3d14.4758049!4d78.824606!16s%2Fg%2F11bbrgntrp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "seelam-surgical-and-laparoscopic-hospital-kadapa",
@@ -11436,7 +11533,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Seelam+Surgical+And+Laparoscopic+Hospital/@14.4741378,78.8239899,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a5bceae99:0xc5df81fe49c9d51c!8m2!3d14.4741378!4d78.8239899!16s%2Fg%2F11cn92g12d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seelam+Surgical+And+Laparoscopic+Hospital/@14.4741378,78.8239899,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a5bceae99:0xc5df81fe49c9d51c!8m2!3d14.4741378!4d78.8239899!16s%2Fg%2F11cn92g12d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -11505,7 +11602,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seelam+Surgical+And+Laparoscopic+Hospital/@14.4741378,78.8239899,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a5bceae99:0xc5df81fe49c9d51c!8m2!3d14.4741378!4d78.8239899!16s%2Fg%2F11cn92g12d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shavali-dental-care-kadapa",
@@ -11553,7 +11651,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shavali+Dental+Care/@14.4769958,78.8347836,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3736c088a07cb:0xd41d222a91e7486b!8m2!3d14.4769958!4d78.8347836!16s%2Fg%2F11ygp3p4hx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shavali+Dental+Care/@14.4769958,78.8347836,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3736c088a07cb:0xd41d222a91e7486b!8m2!3d14.4769958!4d78.8347836!16s%2Fg%2F11ygp3p4hx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11619,10 +11717,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shavali+Dental+Care/@14.4769958,78.8347836,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3736c088a07cb:0xd41d222a91e7486b!8m2!3d14.4769958!4d78.8347836!16s%2Fg%2F11ygp3p4hx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-svs-dental-clinic-kadapa",
@@ -11668,7 +11767,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Shree+SVS+Dental+clinic/@14.4839817,78.8185229,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3711ba7b96c35:0xa946cc15434a8903!8m2!3d14.4839817!4d78.8185229!16s%2Fg%2F11k99mysjr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+SVS+Dental+clinic/@14.4839817,78.8185229,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3711ba7b96c35:0xa946cc15434a8903!8m2!3d14.4839817!4d78.8185229!16s%2Fg%2F11k99mysjr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11734,10 +11833,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+SVS+Dental+clinic/@14.4839817,78.8185229,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3711ba7b96c35:0xa946cc15434a8903!8m2!3d14.4839817!4d78.8185229!16s%2Fg%2F11k99mysjr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-tulasi-dental-care-chinna-chauku",
@@ -11785,7 +11885,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SHREE+TULASI+DENTAL+CARE/@14.4762417,78.8366755,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3734190226381:0xd545c6b8940ab7f1!8m2!3d14.4762417!4d78.8366755!16s%2Fg%2F11fqbxxxby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+TULASI+DENTAL+CARE/@14.4762417,78.8366755,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3734190226381:0xd545c6b8940ab7f1!8m2!3d14.4762417!4d78.8366755!16s%2Fg%2F11fqbxxxby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11854,7 +11954,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHREE+TULASI+DENTAL+CARE/@14.4762417,78.8366755,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3734190226381:0xd545c6b8940ab7f1!8m2!3d14.4762417!4d78.8366755!16s%2Fg%2F11fqbxxxby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-krishna-dental-care-kadapa-kadapa",
@@ -11904,7 +12005,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Krishna+Dental+Care+Kadapa/@14.4692034,78.8237595,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a72d525a1:0x1498d667c96376d4!8m2!3d14.4692034!4d78.8237595!16s%2Fg%2F11gdm6v4xs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Krishna+Dental+Care+Kadapa/@14.4692034,78.8237595,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a72d525a1:0x1498d667c96376d4!8m2!3d14.4692034!4d78.8237595!16s%2Fg%2F11gdm6v4xs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11973,7 +12074,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Krishna+Dental+Care+Kadapa/@14.4692034,78.8237595,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721a72d525a1:0x1498d667c96376d4!8m2!3d14.4692034!4d78.8237595!16s%2Fg%2F11gdm6v4xs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-surya-dental-care-kadapa-kadapa",
@@ -12021,7 +12123,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SHRI+SURYA+DENTAL+CARE,+KADAPA./@14.4772433,78.8242333,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373005ed8633b:0x711b829f92695531!8m2!3d14.4772433!4d78.8242333!16s%2Fg%2F11zj_jts6q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHRI+SURYA+DENTAL+CARE,+KADAPA./@14.4772433,78.8242333,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373005ed8633b:0x711b829f92695531!8m2!3d14.4772433!4d78.8242333!16s%2Fg%2F11zj_jts6q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12087,10 +12189,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHRI+SURYA+DENTAL+CARE,+KADAPA./@14.4772433,78.8242333,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373005ed8633b:0x711b829f92695531!8m2!3d14.4772433!4d78.8242333!16s%2Fg%2F11zj_jts6q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "siddartha-neuro-care-kadapa",
@@ -12140,7 +12243,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/SIDDARTHA+NEURO+CARE/@14.4711872,78.8229095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373784df002cf:0x30652215394d98ee!8m2!3d14.4711872!4d78.8229095!16s%2Fg%2F11jsxhkmbl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SIDDARTHA+NEURO+CARE/@14.4711872,78.8229095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373784df002cf:0x30652215394d98ee!8m2!3d14.4711872!4d78.8229095!16s%2Fg%2F11jsxhkmbl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12209,7 +12312,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SIDDARTHA+NEURO+CARE/@14.4711872,78.8229095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373784df002cf:0x30652215394d98ee!8m2!3d14.4711872!4d78.8229095!16s%2Fg%2F11jsxhkmbl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "siva-dental-care-nagarajupeta",
@@ -12257,7 +12361,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Siva+dental+care/@14.4756565,78.8181134,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37308ffdf9553:0x99e8eb6ac4db4062!8m2!3d14.4756565!4d78.8181134!16s%2Fg%2F11j7d9vhmf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siva+dental+care/@14.4756565,78.8181134,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37308ffdf9553:0x99e8eb6ac4db4062!8m2!3d14.4756565!4d78.8181134!16s%2Fg%2F11j7d9vhmf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12326,7 +12430,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Siva+dental+care/@14.4756565,78.8181134,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37308ffdf9553:0x99e8eb6ac4db4062!8m2!3d14.4756565!4d78.8181134!16s%2Fg%2F11j7d9vhmf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-harshitha-maternity-and-general-hospital-kadapa",
@@ -12374,7 +12479,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Harshitha+Maternity+and+General+Hospital/@14.4768741,78.8249085,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37318d2aa3ce5:0x33ae015a007e41bf!8m2!3d14.4768741!4d78.8249085!16s%2Fg%2F11ll7cjs7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Harshitha+Maternity+and+General+Hospital/@14.4768741,78.8249085,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37318d2aa3ce5:0x33ae015a007e41bf!8m2!3d14.4768741!4d78.8249085!16s%2Fg%2F11ll7cjs7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12443,7 +12548,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Harshitha+Maternity+and+General+Hospital/@14.4768741,78.8249085,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37318d2aa3ce5:0x33ae015a007e41bf!8m2!3d14.4768741!4d78.8249085!16s%2Fg%2F11ll7cjs7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-hospital-top-surgical-and-gynaecology-hospital-in-kadapa-thyroid-surgery-infertility-treatment-kadapa",
@@ -12493,7 +12599,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Hospital+%7C+Top+Surgical+%26+Gynaecology+Hospital+in+Kadapa+%7C+Thyroid+Surgery,+Infertility+Treatment/@14.463067,78.8232043,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721316643b39:0x1f00b80d0ccfb0fd!8m2!3d14.463067!4d78.8232043!16s%2Fg%2F11c0rr0jbw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Hospital+%7C+Top+Surgical+%26+Gynaecology+Hospital+in+Kadapa+%7C+Thyroid+Surgery,+Infertility+Treatment/@14.463067,78.8232043,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721316643b39:0x1f00b80d0ccfb0fd!8m2!3d14.463067!4d78.8232043!16s%2Fg%2F11c0rr0jbw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12562,7 +12668,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Hospital+%7C+Top+Surgical+%26+Gynaecology+Hospital+in+Kadapa+%7C+Thyroid+Surgery,+Infertility+Treatment/@14.463067,78.8232043,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721316643b39:0x1f00b80d0ccfb0fd!8m2!3d14.463067!4d78.8232043!16s%2Fg%2F11c0rr0jbw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-mohan-hospitals-kadapa",
@@ -12610,7 +12717,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Mohan+Hospitals/@14.4654936,78.8327844,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721955555555:0x93fd1152be97abbc!8m2!3d14.4654936!4d78.8327844!16s%2Fg%2F11kbn9_7t3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Mohan+Hospitals/@14.4654936,78.8327844,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721955555555:0x93fd1152be97abbc!8m2!3d14.4654936!4d78.8327844!16s%2Fg%2F11kbn9_7t3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12679,7 +12786,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Mohan+Hospitals/@14.4654936,78.8327844,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721955555555:0x93fd1152be97abbc!8m2!3d14.4654936!4d78.8327844!16s%2Fg%2F11kbn9_7t3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-narayani-care-hospital-maternity-and-advanced-skin-care-kadapa",
@@ -12727,7 +12835,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Narayani+Care+Hospital+(Maternity+%26+Advanced+skin+care)/@14.4690624,78.823749,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3735d5a551a39:0x419c44778a17b22a!8m2!3d14.4690624!4d78.823749!16s%2Fg%2F11vblr7b7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Narayani+Care+Hospital+(Maternity+%26+Advanced+skin+care)/@14.4690624,78.823749,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3735d5a551a39:0x419c44778a17b22a!8m2!3d14.4690624!4d78.823749!16s%2Fg%2F11vblr7b7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -12796,7 +12904,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Narayani+Care+Hospital+(Maternity+%26+Advanced+skin+care)/@14.4690624,78.823749,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3735d5a551a39:0x419c44778a17b22a!8m2!3d14.4690624!4d78.823749!16s%2Fg%2F11vblr7b7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-satya-dental-and-orthodontic-centre-kadapa",
@@ -12845,7 +12954,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sree+satya+dental+%26+orthodontic+centre/@14.4759329,78.8243742,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37313968c3b03:0x12b41ca7a32f0b27!8m2!3d14.4759329!4d78.8243742!16s%2Fg%2F11rfrpjhqv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+satya+dental+%26+orthodontic+centre/@14.4759329,78.8243742,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37313968c3b03:0x12b41ca7a32f0b27!8m2!3d14.4759329!4d78.8243742!16s%2Fg%2F11rfrpjhqv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12914,7 +13023,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+satya+dental+%26+orthodontic+centre/@14.4759329,78.8243742,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37313968c3b03:0x12b41ca7a32f0b27!8m2!3d14.4759329!4d78.8243742!16s%2Fg%2F11rfrpjhqv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-bindu-hospital-kadapa",
@@ -12963,7 +13073,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Bindu+Hospital/@14.4682707,78.8229427,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373a9ac3434d9:0x6f264b755a0b69b5!8m2!3d14.4682707!4d78.8229427!16s%2Fg%2F11y4xztmb6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Bindu+Hospital/@14.4682707,78.8229427,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373a9ac3434d9:0x6f264b755a0b69b5!8m2!3d14.4682707!4d78.8229427!16s%2Fg%2F11y4xztmb6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13032,7 +13142,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Bindu+Hospital/@14.4682707,78.8229427,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373a9ac3434d9:0x6f264b755a0b69b5!8m2!3d14.4682707!4d78.8229427!16s%2Fg%2F11y4xztmb6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-lakshmi-hospital-kadapa",
@@ -13080,7 +13191,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/SRI+LAKSHMI+HOSPITAL/data=!4m7!3m6!1s0x3bb3721accb72bc1:0x47110530ccce6519!8m2!3d14.4718524!4d78.8229354!16s%2Fg%2F1ptyy23pw!19sChIJwSu3zBpyszsRGWXOzDAFEUc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+LAKSHMI+HOSPITAL/data=!4m7!3m6!1s0x3bb3721accb72bc1:0x47110530ccce6519!8m2!3d14.4718524!4d78.8229354!16s%2Fg%2F1ptyy23pw!19sChIJwSu3zBpyszsRGWXOzDAFEUc?authuser=0&hl=en&rclk=1"
@@ -13149,7 +13260,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+LAKSHMI+HOSPITAL/data=!4m7!3m6!1s0x3bb3721accb72bc1:0x47110530ccce6519!8m2!3d14.4718524!4d78.8229354!16s%2Fg%2F1ptyy23pw!19sChIJwSu3zBpyszsRGWXOzDAFEUc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-lakshmi-hospital-best-dental-hospital-best-skin-cosmetic-hospital-kadapa",
@@ -13198,7 +13310,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SRI+LAKSHMI+HOSPITAL%2F+BEST+DENTAL+HOSPITAL+%2FBEST+SKIN+COSMETIC+HOSPITAL/data=!4m7!3m6!1s0x3bb3721ba3e9ab99:0x6da1e9d844ec7fbd!8m2!3d14.476301!4d78.8236704!16s%2Fg%2F11f2drpm0l!19sChIJmavpoxtyszsRvX_sRNjpoW0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+LAKSHMI+HOSPITAL%2F+BEST+DENTAL+HOSPITAL+%2FBEST+SKIN+COSMETIC+HOSPITAL/data=!4m7!3m6!1s0x3bb3721ba3e9ab99:0x6da1e9d844ec7fbd!8m2!3d14.476301!4d78.8236704!16s%2Fg%2F11f2drpm0l!19sChIJmavpoxtyszsRvX_sRNjpoW0?authuser=0&hl=en&rclk=1"
@@ -13267,7 +13379,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+LAKSHMI+HOSPITAL%2F+BEST+DENTAL+HOSPITAL+%2FBEST+SKIN+COSMETIC+HOSPITAL/data=!4m7!3m6!1s0x3bb3721ba3e9ab99:0x6da1e9d844ec7fbd!8m2!3d14.476301!4d78.8236704!16s%2Fg%2F11f2drpm0l!19sChIJmavpoxtyszsRvX_sRNjpoW0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-p-t-veera-reddy-memorial-dental-hospital-kadapa",
@@ -13316,7 +13429,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SRI+P+T+VEERA+REDDY+MEMORIAL+DENTAL+HOSPITAL/@14.4771673,78.8243194,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3735577e762ed:0xf0ec66f778bc4428!8m2!3d14.4771673!4d78.8243194!16s%2Fg%2F11h2d7d5rx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+P+T+VEERA+REDDY+MEMORIAL+DENTAL+HOSPITAL/@14.4771673,78.8243194,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3735577e762ed:0xf0ec66f778bc4428!8m2!3d14.4771673!4d78.8243194!16s%2Fg%2F11h2d7d5rx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13382,10 +13495,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+P+T+VEERA+REDDY+MEMORIAL+DENTAL+HOSPITAL/@14.4771673,78.8243194,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3735577e762ed:0xf0ec66f778bc4428!8m2!3d14.4771673!4d78.8243194!16s%2Fg%2F11h2d7d5rx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-ram-hospital-ortho-trauma-gynaec-and-metarnity-care-kadapa",
@@ -13434,7 +13548,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SRI+RAM+HOSPITAL+ORTHO+TRAUMA+GYNAEC+AND+METARNITY+CARE/data=!4m7!3m6!1s0x3bb37326f274ac6f:0x6eb4ab40a990afb7!8m2!3d14.4727613!4d78.8223606!16s%2Fg%2F11gjhfpqpz!19sChIJb6x08iZzszsRt6-QqUCrtG4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+RAM+HOSPITAL+ORTHO+TRAUMA+GYNAEC+AND+METARNITY+CARE/data=!4m7!3m6!1s0x3bb37326f274ac6f:0x6eb4ab40a990afb7!8m2!3d14.4727613!4d78.8223606!16s%2Fg%2F11gjhfpqpz!19sChIJb6x08iZzszsRt6-QqUCrtG4?authuser=0&hl=en&rclk=1"
@@ -13503,7 +13617,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+RAM+HOSPITAL+ORTHO+TRAUMA+GYNAEC+AND+METARNITY+CARE/data=!4m7!3m6!1s0x3bb37326f274ac6f:0x6eb4ab40a990afb7!8m2!3d14.4727613!4d78.8223606!16s%2Fg%2F11gjhfpqpz!19sChIJb6x08iZzszsRt6-QqUCrtG4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-satya-sai-dental-clinic-chinna-chauku",
@@ -13551,7 +13666,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Satya+Sai+Dental+Clinic/@14.4641519,78.8325138,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720c8218810b:0x1a176614e847d50b!8m2!3d14.4641519!4d78.8325138!16s%2Fg%2F11h9rpb_kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Satya+Sai+Dental+Clinic/@14.4641519,78.8325138,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720c8218810b:0x1a176614e847d50b!8m2!3d14.4641519!4d78.8325138!16s%2Fg%2F11h9rpb_kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -13620,7 +13735,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Satya+Sai+Dental+Clinic/@14.4641519,78.8325138,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720c8218810b:0x1a176614e847d50b!8m2!3d14.4641519!4d78.8325138!16s%2Fg%2F11h9rpb_kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-satya-sai-gokul-dental-clinic-kadapa",
@@ -13668,7 +13784,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Satya+Sai+GOKUL+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb373b437f1d2b3:0x79c9aa6b38169f87!8m2!3d14.4784994!4d78.8242341!16s%2Fg%2F1hhgrgqld!19sChIJs9LxN7RzszsRh58WOGuqyXk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Satya+Sai+GOKUL+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb373b437f1d2b3:0x79c9aa6b38169f87!8m2!3d14.4784994!4d78.8242341!16s%2Fg%2F1hhgrgqld!19sChIJs9LxN7RzszsRh58WOGuqyXk?authuser=0&hl=en&rclk=1"
@@ -13737,7 +13853,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Satya+Sai+GOKUL+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb373b437f1d2b3:0x79c9aa6b38169f87!8m2!3d14.4784994!4d78.8242341!16s%2Fg%2F1hhgrgqld!19sChIJs9LxN7RzszsRh58WOGuqyXk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-sri-holistic-hospitals-kadapa-kadapa",
@@ -13786,7 +13903,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sri+Holistic+Hospitals+%7C+Kadapa/@14.474629,78.823976,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721aff455945:0xb38133cac2ee2e77!8m2!3d14.474629!4d78.823976!16s%2Fg%2F11fxd_3vpf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sri+Holistic+Hospitals+%7C+Kadapa/@14.474629,78.823976,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721aff455945:0xb38133cac2ee2e77!8m2!3d14.474629!4d78.823976!16s%2Fg%2F11fxd_3vpf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13852,10 +13969,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sri+Holistic+Hospitals+%7C+Kadapa/@14.474629,78.823976,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721aff455945:0xb38133cac2ee2e77!8m2!3d14.474629!4d78.823976!16s%2Fg%2F11fxd_3vpf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-srinivasa-hospital-kadapa",
@@ -13903,7 +14021,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/SRI+SRINIVASA+HOSPITAL/@14.4726293,78.8231854,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3736ba9c7b74f:0xe75f0b66af496c22!8m2!3d14.4726293!4d78.8231854!16s%2Fg%2F11c5hj0hfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+SRINIVASA+HOSPITAL/@14.4726293,78.8231854,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3736ba9c7b74f:0xe75f0b66af496c22!8m2!3d14.4726293!4d78.8231854!16s%2Fg%2F11c5hj0hfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -13972,7 +14090,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+SRINIVASA+HOSPITAL/@14.4726293,78.8231854,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3736ba9c7b74f:0xe75f0b66af496c22!8m2!3d14.4726293!4d78.8231854!16s%2Fg%2F11c5hj0hfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-sruthi-hospital-medical-and-maternity-kadapa",
@@ -14020,7 +14139,7 @@
     "metrics": [
       "Google rating 2.8"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sruthi+Hospital+Medical+%26+Maternity/@14.4715328,78.8229261,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373958ffd5d13:0x58dcd2786a59fe15!8m2!3d14.4715328!4d78.8229261!16s%2Fg%2F11j4pmgp8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sruthi+Hospital+Medical+%26+Maternity/@14.4715328,78.8229261,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373958ffd5d13:0x58dcd2786a59fe15!8m2!3d14.4715328!4d78.8229261!16s%2Fg%2F11j4pmgp8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -14089,7 +14208,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sruthi+Hospital+Medical+%26+Maternity/@14.4715328,78.8229261,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373958ffd5d13:0x58dcd2786a59fe15!8m2!3d14.4715328!4d78.8229261!16s%2Fg%2F11j4pmgp8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-vinayaka-kidney-centre-merged-in-vedanta-hospital-kadapa-akkayapalle",
@@ -14138,7 +14258,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sri+vinayaka+kidney+centre+%28Merged+in+Vedanta+hospital+kadapa%29/data=!4m7!3m6!1s0x3bb37308ba0fbf71:0xe5b866fd43cf8044!8m2!3d14.4744262!4d78.8108062!16s%2Fg%2F11ty4j8p5b!19sChIJcb8PughzszsRRIDPQ_1muOU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+vinayaka+kidney+centre+%28Merged+in+Vedanta+hospital+kadapa%29/data=!4m7!3m6!1s0x3bb37308ba0fbf71:0xe5b866fd43cf8044!8m2!3d14.4744262!4d78.8108062!16s%2Fg%2F11ty4j8p5b!19sChIJcb8PughzszsRRIDPQ_1muOU?authuser=0&hl=en&rclk=1"
@@ -14207,7 +14327,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+vinayaka+kidney+centre+%28Merged+in+Vedanta+hospital+kadapa%29/data=!4m7!3m6!1s0x3bb37308ba0fbf71:0xe5b866fd43cf8044!8m2!3d14.4744262!4d78.8108062!16s%2Fg%2F11ty4j8p5b!19sChIJcb8PughzszsRRIDPQ_1muOU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srija-rainbow-children-and-dental-hospital-chinna-chauku",
@@ -14256,7 +14377,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Srija+rainbow+children+and+Dental+hospital/@14.4771598,78.832585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb372069252225f:0xa6cab602752a333!8m2!3d14.4771598!4d78.832585!16s%2Fg%2F1ptxwtcjt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srija+rainbow+children+and+Dental+hospital/@14.4771598,78.832585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb372069252225f:0xa6cab602752a333!8m2!3d14.4771598!4d78.832585!16s%2Fg%2F1ptxwtcjt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14325,7 +14446,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srija+rainbow+children+and+Dental+hospital/@14.4771598,78.832585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb372069252225f:0xa6cab602752a333!8m2!3d14.4771598!4d78.832585!16s%2Fg%2F1ptxwtcjt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srinivasa-hospitals-ent-and-multispecialities-kadapa",
@@ -14373,7 +14495,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/SRINIVASA+HOSPITALS(ENT+%26+Multispecialities)/@14.461947,78.8238846,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721bac4cc01d:0x2eff62804dbe36b4!8m2!3d14.461947!4d78.8238846!16s%2Fg%2F11g731_4wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRINIVASA+HOSPITALS(ENT+%26+Multispecialities)/@14.461947,78.8238846,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721bac4cc01d:0x2eff62804dbe36b4!8m2!3d14.461947!4d78.8238846!16s%2Fg%2F11g731_4wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14439,10 +14561,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRINIVASA+HOSPITALS(ENT+%26+Multispecialities)/@14.461947,78.8238846,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721bac4cc01d:0x2eff62804dbe36b4!8m2!3d14.461947!4d78.8238846!16s%2Fg%2F11g731_4wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "star-dental-clinic-kadapa-kadapa",
@@ -14490,7 +14613,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Star+Dental+clinic,+Kadapa/@14.4767885,78.8240984,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d90c0b62e5:0x1c01ead09ab86863!8m2!3d14.4767885!4d78.8240984!16s%2Fg%2F11stpwjl48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Star+Dental+clinic,+Kadapa/@14.4767885,78.8240984,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d90c0b62e5:0x1c01ead09ab86863!8m2!3d14.4767885!4d78.8240984!16s%2Fg%2F11stpwjl48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14556,10 +14679,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Star+Dental+clinic,+Kadapa/@14.4767885,78.8240984,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d90c0b62e5:0x1c01ead09ab86863!8m2!3d14.4767885!4d78.8240984!16s%2Fg%2F11stpwjl48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "subha-krishna-children-hospital-chinna-chauku",
@@ -14608,7 +14732,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Subha+Krishna+Children+Hospital/@14.4770557,78.8343702,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37206e4c8973d:0x22db6707ea18bf34!8m2!3d14.4770557!4d78.8343702!16s%2Fg%2F1hm1y1hd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Subha+Krishna+Children+Hospital/@14.4770557,78.8343702,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37206e4c8973d:0x22db6707ea18bf34!8m2!3d14.4770557!4d78.8343702!16s%2Fg%2F1hm1y1hd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -14677,7 +14801,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Subha+Krishna+Children+Hospital/@14.4770557,78.8343702,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37206e4c8973d:0x22db6707ea18bf34!8m2!3d14.4770557!4d78.8343702!16s%2Fg%2F1hm1y1hd7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "subhadra-dental-care-kadapa",
@@ -14725,7 +14850,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Subhadra+Dental+Care/@14.4775192,78.8245289,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b705b1ed1:0x5e454fa4963ecabc!8m2!3d14.4775192!4d78.8245289!16s%2Fg%2F11f3zydz0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Subhadra+Dental+Care/@14.4775192,78.8245289,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b705b1ed1:0x5e454fa4963ecabc!8m2!3d14.4775192!4d78.8245289!16s%2Fg%2F11f3zydz0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -14791,10 +14916,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Subhadra+Dental+Care/@14.4775192,78.8245289,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721b705b1ed1:0x5e454fa4963ecabc!8m2!3d14.4775192!4d78.8245289!16s%2Fg%2F11f3zydz0x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sudha-test-tube-baby-centre-kadapa",
@@ -14842,7 +14968,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Sudha+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x3bb3733e6f3cbee1:0xd8c3e25824e178b5!8m2!3d14.4760879!4d78.8372118!16s%2Fg%2F11yswj3z5z!19sChIJ4b48bz5zszsRtXjhJFjiw9g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudha+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x3bb3733e6f3cbee1:0xd8c3e25824e178b5!8m2!3d14.4760879!4d78.8372118!16s%2Fg%2F11yswj3z5z!19sChIJ4b48bz5zszsRtXjhJFjiw9g?authuser=0&hl=en&rclk=1"
@@ -14911,7 +15037,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sudha+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x3bb3733e6f3cbee1:0xd8c3e25824e178b5!8m2!3d14.4760879!4d78.8372118!16s%2Fg%2F11yswj3z5z!19sChIJ4b48bz5zszsRtXjhJFjiw9g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sudhakar-reddy-dental-hospital-kadapa",
@@ -14959,7 +15086,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sudhakar+Reddy+Dental+Hospital/@14.471708,78.82291,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37210945e99d1:0x6023d763ee8ec664!8m2!3d14.471708!4d78.82291!16s%2Fg%2F11g8d93vzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudhakar+Reddy+Dental+Hospital/@14.471708,78.82291,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37210945e99d1:0x6023d763ee8ec664!8m2!3d14.471708!4d78.82291!16s%2Fg%2F11g8d93vzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15028,7 +15155,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sudhakar+Reddy+Dental+Hospital/@14.471708,78.82291,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37210945e99d1:0x6023d763ee8ec664!8m2!3d14.471708!4d78.82291!16s%2Fg%2F11g8d93vzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sudiksha-hospital-kadapa",
@@ -15076,7 +15204,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SUDIKSHA+HOSPITAL/data=!4m7!3m6!1s0x3bb373de89c72e9f:0xcf3a72c5265ee42e!8m2!3d14.4715583!4d78.8240598!16s%2Fg%2F11rxv3bg1v!19sChIJny7Hid5zszsRLuReJsVyOs8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUDIKSHA+HOSPITAL/data=!4m7!3m6!1s0x3bb373de89c72e9f:0xcf3a72c5265ee42e!8m2!3d14.4715583!4d78.8240598!16s%2Fg%2F11rxv3bg1v!19sChIJny7Hid5zszsRLuReJsVyOs8?authuser=0&hl=en&rclk=1"
@@ -15142,10 +15270,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SUDIKSHA+HOSPITAL/data=!4m7!3m6!1s0x3bb373de89c72e9f:0xcf3a72c5265ee42e!8m2!3d14.4715583!4d78.8240598!16s%2Fg%2F11rxv3bg1v!19sChIJny7Hid5zszsRLuReJsVyOs8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "suresh-allergy-and-chest-hospital-kadapa",
@@ -15193,7 +15322,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Suresh+Allergy+%26+Chest+Hospital/data=!4m7!3m6!1s0x3bb3721ba54aca9b:0xe6e6843452686489!8m2!3d14.475341!4d78.8240846!16s%2Fg%2F11g732hsrf!19sChIJm8pKpRtyszsRiWRoUjSE5uY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Suresh+Allergy+%26+Chest+Hospital/data=!4m7!3m6!1s0x3bb3721ba54aca9b:0xe6e6843452686489!8m2!3d14.475341!4d78.8240846!16s%2Fg%2F11g732hsrf!19sChIJm8pKpRtyszsRiWRoUjSE5uY?authuser=0&hl=en&rclk=1"
@@ -15262,7 +15391,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Suresh+Allergy+%26+Chest+Hospital/data=!4m7!3m6!1s0x3bb3721ba54aca9b:0xe6e6843452686489!8m2!3d14.475341!4d78.8240846!16s%2Fg%2F11g732hsrf!19sChIJm8pKpRtyszsRiWRoUjSE5uY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "surya-hospital-kadapa",
@@ -15310,7 +15440,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://www.google.com/maps/place/Surya+Hospital/@14.4662902,78.8306198,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373df8915005b:0xc370e305c477b0ee!8m2!3d14.4662902!4d78.8306198!16s%2Fg%2F11j2flyfg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surya+Hospital/@14.4662902,78.8306198,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373df8915005b:0xc370e305c477b0ee!8m2!3d14.4662902!4d78.8306198!16s%2Fg%2F11j2flyfg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15379,7 +15509,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surya+Hospital/@14.4662902,78.8306198,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373df8915005b:0xc370e305c477b0ee!8m2!3d14.4662902!4d78.8306198!16s%2Fg%2F11j2flyfg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swetha-dental-clinic-kadapa",
@@ -15427,7 +15558,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Swetha+Dental+Clinic/@14.4768184,78.8244678,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373ba21878c87:0xa5bf1206703cbbf!8m2!3d14.4768184!4d78.8244678!16s%2Fg%2F11q4k9963j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swetha+Dental+Clinic/@14.4768184,78.8244678,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373ba21878c87:0xa5bf1206703cbbf!8m2!3d14.4768184!4d78.8244678!16s%2Fg%2F11q4k9963j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15493,10 +15624,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swetha+Dental+Clinic/@14.4768184,78.8244678,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373ba21878c87:0xa5bf1206703cbbf!8m2!3d14.4768184!4d78.8244678!16s%2Fg%2F11q4k9963j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "syamala-hospital-y-junctiom-opposite-ambedkar-bhavan",
@@ -15544,7 +15676,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Syamala+Hospital/@14.4663338,78.8360469,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720a373cb9f7:0x6d7d1e5c7a0c6411!8m2!3d14.4663338!4d78.8360469!16s%2Fg%2F11bzsgdzbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Syamala+Hospital/@14.4663338,78.8360469,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720a373cb9f7:0x6d7d1e5c7a0c6411!8m2!3d14.4663338!4d78.8360469!16s%2Fg%2F11bzsgdzbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -15613,7 +15745,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Syamala+Hospital/@14.4663338,78.8360469,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720a373cb9f7:0x6d7d1e5c7a0c6411!8m2!3d14.4663338!4d78.8360469!16s%2Fg%2F11bzsgdzbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thulasamma-hospital-kadapa",
@@ -15661,7 +15794,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Thulasamma+Hospital/@14.4703227,78.8235261,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37210a224b66d:0x1afd4fe1272e0e71!8m2!3d14.4703227!4d78.8235261!16s%2Fg%2F1tgd9vqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thulasamma+Hospital/@14.4703227,78.8235261,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37210a224b66d:0x1afd4fe1272e0e71!8m2!3d14.4703227!4d78.8235261!16s%2Fg%2F1tgd9vqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -15730,7 +15863,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thulasamma+Hospital/@14.4703227,78.8235261,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37210a224b66d:0x1afd4fe1272e0e71!8m2!3d14.4703227!4d78.8235261!16s%2Fg%2F1tgd9vqj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "uma-maheswari-hospital-kadapa",
@@ -15778,7 +15912,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Uma+Maheswari+Hospital/@14.4753766,78.8242287,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721aff5aa955:0x6b004920ed68ee84!8m2!3d14.4753766!4d78.8242287!16s%2Fg%2F11g72g3dmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Uma+Maheswari+Hospital/@14.4753766,78.8242287,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721aff5aa955:0x6b004920ed68ee84!8m2!3d14.4753766!4d78.8242287!16s%2Fg%2F11g72g3dmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -15844,10 +15978,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Uma+Maheswari+Hospital/@14.4753766,78.8242287,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3721aff5aa955:0x6b004920ed68ee84!8m2!3d14.4753766!4d78.8242287!16s%2Fg%2F11g72g3dmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "usharani-nursing-home-kadapa",
@@ -15896,7 +16031,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Usharani+Nursing+Home/@14.4640959,78.8227183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37213a07668f1:0x2020a5239a6286da!8m2!3d14.4640959!4d78.8227183!16s%2Fg%2F11c1_tjzsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Usharani+Nursing+Home/@14.4640959,78.8227183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37213a07668f1:0x2020a5239a6286da!8m2!3d14.4640959!4d78.8227183!16s%2Fg%2F11c1_tjzsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -15965,7 +16100,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Usharani+Nursing+Home/@14.4640959,78.8227183,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37213a07668f1:0x2020a5239a6286da!8m2!3d14.4640959!4d78.8227183!16s%2Fg%2F11c1_tjzsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vb-dental-clinic-opposite-reddy-chicken-centre",
@@ -16015,7 +16151,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VB+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb36de4502f4ae5:0x634ab9a59a8a7f2b!8m2!3d14.4756707!4d78.83843!16s%2Fg%2F11n05j6n8q!19sChIJ5UovUORtszsRK3-KmqW5SmM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VB+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb36de4502f4ae5:0x634ab9a59a8a7f2b!8m2!3d14.4756707!4d78.83843!16s%2Fg%2F11n05j6n8q!19sChIJ5UovUORtszsRK3-KmqW5SmM?authuser=0&hl=en&rclk=1"
@@ -16081,10 +16217,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VB+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bb36de4502f4ae5:0x634ab9a59a8a7f2b!8m2!3d14.4756707!4d78.83843!16s%2Fg%2F11n05j6n8q!19sChIJ5UovUORtszsRK3-KmqW5SmM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vijay-clinic-and-diabetes-centre-kadapa",
@@ -16133,7 +16270,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/VIJAY+CLINIC+%26+Diabetes+Centre/data=!4m7!3m6!1s0x3bb3721afdfc132d:0xb897f4a479cd93f4!8m2!3d14.4755172!4d78.8241511!16s%2Fg%2F11fy99br_t!19sChIJLRP8_RpyszsR9JPNeaT0l7g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIJAY+CLINIC+%26+Diabetes+Centre/data=!4m7!3m6!1s0x3bb3721afdfc132d:0xb897f4a479cd93f4!8m2!3d14.4755172!4d78.8241511!16s%2Fg%2F11fy99br_t!19sChIJLRP8_RpyszsR9JPNeaT0l7g?authuser=0&hl=en&rclk=1"
@@ -16202,7 +16339,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VIJAY+CLINIC+%26+Diabetes+Centre/data=!4m7!3m6!1s0x3bb3721afdfc132d:0xb897f4a479cd93f4!8m2!3d14.4755172!4d78.8241511!16s%2Fg%2F11fy99br_t!19sChIJLRP8_RpyszsR9JPNeaT0l7g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vijaya-hospital-and-dental-care-kadapa",
@@ -16250,7 +16388,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/VIJAYA+HOSPITAL+and+DENTAL+CARE/@14.4768055,78.8284162,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37309acef29cb:0x87f21b6ce9647e99!8m2!3d14.4768055!4d78.8284162!16s%2Fg%2F11qknwg034?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VIJAYA+HOSPITAL+and+DENTAL+CARE/@14.4768055,78.8284162,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37309acef29cb:0x87f21b6ce9647e99!8m2!3d14.4768055!4d78.8284162!16s%2Fg%2F11qknwg034?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -16319,7 +16457,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VIJAYA+HOSPITAL+and+DENTAL+CARE/@14.4768055,78.8284162,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb37309acef29cb:0x87f21b6ce9647e99!8m2!3d14.4768055!4d78.8284162!16s%2Fg%2F11qknwg034?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vinay-surgical-clinic-kadapa",
@@ -16367,7 +16506,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Vinay+Surgical+Clinic/data=!4m7!3m6!1s0x3bb3721b049d895b:0x21f2cf7570aeec2c!8m2!3d14.475996!4d78.8247084!16s%2Fg%2F11c716qbtm!19sChIJW4mdBBtyszsRLOyucHXP8iE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vinay+Surgical+Clinic/data=!4m7!3m6!1s0x3bb3721b049d895b:0x21f2cf7570aeec2c!8m2!3d14.475996!4d78.8247084!16s%2Fg%2F11c716qbtm!19sChIJW4mdBBtyszsRLOyucHXP8iE?authuser=0&hl=en&rclk=1"
@@ -16433,10 +16572,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vinay+Surgical+Clinic/data=!4m7!3m6!1s0x3bb3721b049d895b:0x21f2cf7570aeec2c!8m2!3d14.475996!4d78.8247084!16s%2Fg%2F11c716qbtm!19sChIJW4mdBBtyszsRLOyucHXP8iE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vr-hospital-kadapa",
@@ -16484,7 +16624,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/VR+Hospital/@14.469198,78.823725,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d22a3e3629:0x38bac1b49674ef92!8m2!3d14.469198!4d78.823725!16s%2Fg%2F11k2662fst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VR+Hospital/@14.469198,78.823725,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d22a3e3629:0x38bac1b49674ef92!8m2!3d14.469198!4d78.823725!16s%2Fg%2F11k2662fst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -16550,10 +16690,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VR+Hospital/@14.469198,78.823725,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb373d22a3e3629:0x38bac1b49674ef92!8m2!3d14.469198!4d78.823725!16s%2Fg%2F11k2662fst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vurimi-savithramma-hospital-chinna-chauku",
@@ -16601,7 +16742,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/VURIMI+SAVITHRAMMA+HOSPITAL/@14.4721543,78.8362743,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720868db8777:0xe3d24b953b27611e!8m2!3d14.4721543!4d78.8362743!16s%2Fg%2F11dxbn1sgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VURIMI+SAVITHRAMMA+HOSPITAL/@14.4721543,78.8362743,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720868db8777:0xe3d24b953b27611e!8m2!3d14.4721543!4d78.8362743!16s%2Fg%2F11dxbn1sgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -16670,7 +16811,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VURIMI+SAVITHRAMMA+HOSPITAL/@14.4721543,78.8362743,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3720868db8777:0xe3d24b953b27611e!8m2!3d14.4721543!4d78.8362743!16s%2Fg%2F11dxbn1sgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "yashoda-hospitals-medical-information-centre-kadapa-kadapa",
@@ -16720,7 +16862,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+-+Kadapa/@14.4621295,78.8244897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3738cf57a398b:0x65215e7465b0a34c!8m2!3d14.4621295!4d78.8244897!16s%2Fg%2F11lcqx1j20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+-+Kadapa/@14.4621295,78.8244897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3738cf57a398b:0x65215e7465b0a34c!8m2!3d14.4621295!4d78.8244897!16s%2Fg%2F11lcqx1j20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -16789,6 +16931,7 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashoda+Hospitals+Medical+Information+Centre+-+Kadapa/@14.4621295,78.8244897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb3738cf57a398b:0x65215e7465b0a34c!8m2!3d14.4621295!4d78.8244897!16s%2Fg%2F11lcqx1j20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

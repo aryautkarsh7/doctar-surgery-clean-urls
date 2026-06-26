@@ -46,7 +46,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Arihant+Hospital/@25.1824182,75.8967583,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9b21d01733cb:0xf4e45c205932b29f!8m2!3d25.1824182!4d75.8967583!16s%2Fg%2F11h3bgngdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arihant+Hospital/@25.1824182,75.8967583,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9b21d01733cb:0xf4e45c205932b29f!8m2!3d25.1824182!4d75.8967583!16s%2Fg%2F11h3bgngdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -115,7 +115,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arihant+Hospital/@25.1824182,75.8967583,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9b21d01733cb:0xf4e45c205932b29f!8m2!3d25.1824182!4d75.8967583!16s%2Fg%2F11h3bgngdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arshi-fertility-and-ivf-research-institute-kota",
@@ -164,7 +165,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Arshi+Fertility+and+IVF+Research+Institute/data=!4m7!3m6!1s0x396f84b4bc469dc7:0x4b2b207a3dbfa611!8m2!3d25.1631622!4d75.8256996!16s%2Fg%2F11b864tty6!19sChIJx51GvLSEbzkREaa_PXogK0s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arshi+Fertility+and+IVF+Research+Institute/data=!4m7!3m6!1s0x396f84b4bc469dc7:0x4b2b207a3dbfa611!8m2!3d25.1631622!4d75.8256996!16s%2Fg%2F11b864tty6!19sChIJx51GvLSEbzkREaa_PXogK0s?authuser=0&hl=en&rclk=1"
@@ -233,7 +234,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arshi+Fertility+and+IVF+Research+Institute/data=!4m7!3m6!1s0x396f84b4bc469dc7:0x4b2b207a3dbfa611!8m2!3d25.1631622!4d75.8256996!16s%2Fg%2F11b864tty6!19sChIJx51GvLSEbzkREaa_PXogK0s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bharat-vikas-parishad-hospital-kota",
@@ -282,7 +284,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bharat+Vikas+Parishad+Hospital/@25.1624838,75.8314471,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84ca938058c1:0x916fea37eef65dff!8m2!3d25.1624838!4d75.8314471!16s%2Fg%2F1tdlspg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bharat+Vikas+Parishad+Hospital/@25.1624838,75.8314471,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84ca938058c1:0x916fea37eef65dff!8m2!3d25.1624838!4d75.8314471!16s%2Fg%2F1tdlspg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -351,7 +353,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bharat+Vikas+Parishad+Hospital/@25.1624838,75.8314471,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84ca938058c1:0x916fea37eef65dff!8m2!3d25.1624838!4d75.8314471!16s%2Fg%2F1tdlspg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "blm-physiotherapy-joint-and-spine-research-centre-kota",
@@ -402,7 +405,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/BLM+Physiotherapy+,+Joint+%26+Spine+Research+Centre/@25.2190201,75.8327544,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84c00f178d5b:0x82b320afa3901d56!8m2!3d25.2190201!4d75.8327544!16s%2Fg%2F11gb3m_7nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BLM+Physiotherapy+,+Joint+%26+Spine+Research+Centre/@25.2190201,75.8327544,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84c00f178d5b:0x82b320afa3901d56!8m2!3d25.2190201!4d75.8327544!16s%2Fg%2F11gb3m_7nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -468,10 +471,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BLM+Physiotherapy+,+Joint+%26+Spine+Research+Centre/@25.2190201,75.8327544,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84c00f178d5b:0x82b320afa3901d56!8m2!3d25.2190201!4d75.8327544!16s%2Fg%2F11gb3m_7nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chanddni-hospital-kota",
@@ -520,7 +524,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chanddni+Hospital/data=!4m7!3m6!1s0x396f84c27f96e20b:0xe2e457d68562c01!8m2!3d25.1423807!4d75.8393452!16s%2Fg%2F1tm86tzf!19sChIJC-KWf8KEbzkRASxWaH1FLg4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chanddni+Hospital/data=!4m7!3m6!1s0x396f84c27f96e20b:0xe2e457d68562c01!8m2!3d25.1423807!4d75.8393452!16s%2Fg%2F1tm86tzf!19sChIJC-KWf8KEbzkRASxWaH1FLg4?authuser=0&hl=en&rclk=1"
@@ -589,7 +593,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chanddni+Hospital/data=!4m7!3m6!1s0x396f84c27f96e20b:0xe2e457d68562c01!8m2!3d25.1423807!4d75.8393452!16s%2Fg%2F1tm86tzf!19sChIJC-KWf8KEbzkRASxWaH1FLg4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "d-d-eye-institute-and-lasik-laser-center-kota",
@@ -639,7 +644,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/D+D+Eye+Institute+%26+Lasik+Laser+Center/data=!4m7!3m6!1s0x396f84b5dfed11eb:0x50e6ac0ab13237d1!8m2!3d25.161977!4d75.8351965!16s%2Fg%2F124t0wlyb!19sChIJ6xHt37WEbzkR0TcysQqs5lA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D+D+Eye+Institute+%26+Lasik+Laser+Center/data=!4m7!3m6!1s0x396f84b5dfed11eb:0x50e6ac0ab13237d1!8m2!3d25.161977!4d75.8351965!16s%2Fg%2F124t0wlyb!19sChIJ6xHt37WEbzkR0TcysQqs5lA?authuser=0&hl=en&rclk=1"
@@ -708,7 +713,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/D+D+Eye+Institute+%26+Lasik+Laser+Center/data=!4m7!3m6!1s0x396f84b5dfed11eb:0x50e6ac0ab13237d1!8m2!3d25.161977!4d75.8351965!16s%2Fg%2F124t0wlyb!19sChIJ6xHt37WEbzkR0TcysQqs5lA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dhakar-hospital-kota",
@@ -757,7 +763,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dhakar+Hospital/data=!4m7!3m6!1s0x396f9b13ef573235:0xd5ac8de8e575ed6b!8m2!3d25.1948269!4d75.8352994!16s%2Fg%2F11hbkhxtq5!19sChIJNTJX7xObbzkRa-115eiNrNU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhakar+Hospital/data=!4m7!3m6!1s0x396f9b13ef573235:0xd5ac8de8e575ed6b!8m2!3d25.1948269!4d75.8352994!16s%2Fg%2F11hbkhxtq5!19sChIJNTJX7xObbzkRa-115eiNrNU?authuser=0&hl=en&rclk=1"
@@ -826,7 +832,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhakar+Hospital/data=!4m7!3m6!1s0x396f9b13ef573235:0xd5ac8de8e575ed6b!8m2!3d25.1948269!4d75.8352994!16s%2Fg%2F11hbkhxtq5!19sChIJNTJX7xObbzkRa-115eiNrNU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "durva-hospital-kota",
@@ -875,7 +882,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Durva+Hospital/data=!4m7!3m6!1s0x396f9b8d9b5dd9a3:0x47ddcd01f54f718b!8m2!3d25.1720852!4d75.8676619!16s%2Fg%2F11y623wj8l!19sChIJo9ldm42bbzkRi3FP9QHN3Uc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Durva+Hospital/data=!4m7!3m6!1s0x396f9b8d9b5dd9a3:0x47ddcd01f54f718b!8m2!3d25.1720852!4d75.8676619!16s%2Fg%2F11y623wj8l!19sChIJo9ldm42bbzkRi3FP9QHN3Uc?authuser=0&hl=en&rclk=1"
@@ -944,7 +951,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Durva+Hospital/data=!4m7!3m6!1s0x396f9b8d9b5dd9a3:0x47ddcd01f54f718b!8m2!3d25.1720852!4d75.8676619!16s%2Fg%2F11y623wj8l!19sChIJo9ldm42bbzkRi3FP9QHN3Uc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ethos-hospital-best-hospital-in-kota-kota",
@@ -993,7 +1001,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ethos+Hospital+-+Best+Hospital+in+Kota/data=!4m7!3m6!1s0x396f8535e4e28b53:0x2dac9359a34128d4!8m2!3d25.1235656!4d75.8130527!16s%2Fg%2F11nxswrtsk!19sChIJU4vi5DWFbzkR1ChBo1mTrC0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ethos+Hospital+-+Best+Hospital+in+Kota/data=!4m7!3m6!1s0x396f8535e4e28b53:0x2dac9359a34128d4!8m2!3d25.1235656!4d75.8130527!16s%2Fg%2F11nxswrtsk!19sChIJU4vi5DWFbzkR1ChBo1mTrC0?authuser=0&hl=en&rclk=1"
@@ -1062,7 +1070,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ethos+Hospital+-+Best+Hospital+in+Kota/data=!4m7!3m6!1s0x396f8535e4e28b53:0x2dac9359a34128d4!8m2!3d25.1235656!4d75.8130527!16s%2Fg%2F11nxswrtsk!19sChIJU4vi5DWFbzkR1ChBo1mTrC0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "government-medical-college-kota-kota",
@@ -1111,7 +1120,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Government+Medical+College,+Kota/@25.1235758,75.8296463,17z/data=!3m1!4b1!4m6!3m5!1s0x396f848ca7c95863:0x4fdc925233cafb1!8m2!3d25.1235758!4d75.8296463!16s%2Fm%2F063yphf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Medical+College,+Kota/@25.1235758,75.8296463,17z/data=!3m1!4b1!4m6!3m5!1s0x396f848ca7c95863:0x4fdc925233cafb1!8m2!3d25.1235758!4d75.8296463!16s%2Fm%2F063yphf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1180,7 +1189,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Medical+College,+Kota/@25.1235758,75.8296463,17z/data=!3m1!4b1!4m6!3m5!1s0x396f848ca7c95863:0x4fdc925233cafb1!8m2!3d25.1235758!4d75.8296463!16s%2Fm%2F063yphf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goyal-hospital-endo-laproscopy-center-surgery-center-in-kota-kota",
@@ -1229,7 +1239,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/GOYAL+HOSPITAL+ENDO-LAPROSCOPY+CENTER+%7C+Surgery+center+in+Kota/@25.1454242,75.8264914,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84be55555555:0x89ebb528cdff02fa!8m2!3d25.1454242!4d75.8264914!16s%2Fg%2F11hd2509kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GOYAL+HOSPITAL+ENDO-LAPROSCOPY+CENTER+%7C+Surgery+center+in+Kota/@25.1454242,75.8264914,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84be55555555:0x89ebb528cdff02fa!8m2!3d25.1454242!4d75.8264914!16s%2Fg%2F11hd2509kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1298,7 +1308,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GOYAL+HOSPITAL+ENDO-LAPROSCOPY+CENTER+%7C+Surgery+center+in+Kota/@25.1454242,75.8264914,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84be55555555:0x89ebb528cdff02fa!8m2!3d25.1454242!4d75.8264914!16s%2Fg%2F11hd2509kq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jain-surgical-hospital-kota",
@@ -1347,7 +1358,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jain+Surgical+Hospital/@25.1343165,75.8238891,17z/data=!3m1!4b1!4m6!3m5!1s0x396f8497ac948a49:0x7184f1587c027fa2!8m2!3d25.1343165!4d75.8238891!16s%2Fg%2F11b6dyxf74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jain+Surgical+Hospital/@25.1343165,75.8238891,17z/data=!3m1!4b1!4m6!3m5!1s0x396f8497ac948a49:0x7184f1587c027fa2!8m2!3d25.1343165!4d75.8238891!16s%2Fg%2F11b6dyxf74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1416,7 +1427,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jain+Surgical+Hospital/@25.1343165,75.8238891,17z/data=!3m1!4b1!4m6!3m5!1s0x396f8497ac948a49:0x7184f1587c027fa2!8m2!3d25.1343165!4d75.8238891!16s%2Fg%2F11b6dyxf74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kota-heart-institute-and-general-hospital-kota",
@@ -1466,7 +1478,7 @@
       "Google rating 2.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kota+Heart+Institute+and+General+Hospital/@25.150395,75.8525458,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84db22376541:0x3e8ea47e784e3cfe!8m2!3d25.150395!4d75.8525458!16s%2Fg%2F11bc70zkyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kota+Heart+Institute+and+General+Hospital/@25.150395,75.8525458,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84db22376541:0x3e8ea47e784e3cfe!8m2!3d25.150395!4d75.8525458!16s%2Fg%2F11bc70zkyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1535,7 +1547,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kota+Heart+Institute+and+General+Hospital/@25.150395,75.8525458,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84db22376541:0x3e8ea47e784e3cfe!8m2!3d25.150395!4d75.8525458!16s%2Fg%2F11bc70zkyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "maitri-hospital-kota",
@@ -1584,7 +1597,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Maitri+Hospital/@25.1489017,75.8526855,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84db3fee7fcf:0x8a940582a4b93bfa!8m2!3d25.1489017!4d75.8526855!16s%2Fg%2F11b6j7nscx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maitri+Hospital/@25.1489017,75.8526855,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84db3fee7fcf:0x8a940582a4b93bfa!8m2!3d25.1489017!4d75.8526855!16s%2Fg%2F11b6j7nscx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1653,7 +1666,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maitri+Hospital/@25.1489017,75.8526855,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84db3fee7fcf:0x8a940582a4b93bfa!8m2!3d25.1489017!4d75.8526855!16s%2Fg%2F11b6j7nscx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mangal-ortho-and-maternity-care-durva-hospital-kota",
@@ -1702,7 +1716,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Mangal+Ortho+%26+Maternity+Care+(+Durva+hospital)/@25.1720801,75.867665,17z/data=!3m1!4b1!4m6!3m5!1s0x396f85168e8f7b95:0xd91b94780fa14cfd!8m2!3d25.1720801!4d75.867665!16s%2Fg%2F11h7kr_7np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mangal+Ortho+%26+Maternity+Care+(+Durva+hospital)/@25.1720801,75.867665,17z/data=!3m1!4b1!4m6!3m5!1s0x396f85168e8f7b95:0xd91b94780fa14cfd!8m2!3d25.1720801!4d75.867665!16s%2Fg%2F11h7kr_7np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1771,7 +1785,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mangal+Ortho+%26+Maternity+Care+(+Durva+hospital)/@25.1720801,75.867665,17z/data=!3m1!4b1!4m6!3m5!1s0x396f85168e8f7b95:0xd91b94780fa14cfd!8m2!3d25.1720801!4d75.867665!16s%2Fg%2F11h7kr_7np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-medical-college-hospital-kota",
@@ -1819,7 +1834,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/New+Medical+College+Hospital/data=!4m7!3m6!1s0x396f84f53b37bd95:0x5833771fa2d650e2!8m2!3d25.11973!4d75.8310018!16s%2Fg%2F12hn0zcqs!19sChIJlb03O_WEbzkR4lDWoh93M1g?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Medical+College+Hospital/data=!4m7!3m6!1s0x396f84f53b37bd95:0x5833771fa2d650e2!8m2!3d25.11973!4d75.8310018!16s%2Fg%2F12hn0zcqs!19sChIJlb03O_WEbzkR4lDWoh93M1g?authuser=0&hl=en&rclk=1"
@@ -1885,10 +1900,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Medical+College+Hospital/data=!4m7!3m6!1s0x396f84f53b37bd95:0x5833771fa2d650e2!8m2!3d25.11973!4d75.8310018!16s%2Fg%2F12hn0zcqs!19sChIJlb03O_WEbzkR4lDWoh93M1g?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "om-hospital-kota",
@@ -1936,7 +1952,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Om+Hospital/data=!4m7!3m6!1s0x396f84d83fd5f613:0x9afcba30321f6a38!8m2!3d25.1533356!4d75.8518295!16s%2Fg%2F11b8_br3zn!19sChIJE_bVP9iEbzkROGofMjC6_Jo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Hospital/data=!4m7!3m6!1s0x396f84d83fd5f613:0x9afcba30321f6a38!8m2!3d25.1533356!4d75.8518295!16s%2Fg%2F11b8_br3zn!19sChIJE_bVP9iEbzkROGofMjC6_Jo?authuser=0&hl=en&rclk=1"
@@ -2005,7 +2021,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Om+Hospital/data=!4m7!3m6!1s0x396f84d83fd5f613:0x9afcba30321f6a38!8m2!3d25.1533356!4d75.8518295!16s%2Fg%2F11b8_br3zn!19sChIJE_bVP9iEbzkROGofMjC6_Jo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "opera-hospital-medical-and-research-centre-kota",
@@ -2053,7 +2070,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Opera+Hospital+Medical+%26+Research+Centre/data=!4m7!3m6!1s0x396f84e797f376ff:0x978ba1ea047652cb!8m2!3d25.140882!4d75.8440528!16s%2Fg%2F1w0sb8f0!19sChIJ_3bzl-eEbzkRy1J2BOqhi5c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Opera+Hospital+Medical+%26+Research+Centre/data=!4m7!3m6!1s0x396f84e797f376ff:0x978ba1ea047652cb!8m2!3d25.140882!4d75.8440528!16s%2Fg%2F1w0sb8f0!19sChIJ_3bzl-eEbzkRy1J2BOqhi5c?authuser=0&hl=en&rclk=1"
@@ -2122,7 +2139,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Opera+Hospital+Medical+%26+Research+Centre/data=!4m7!3m6!1s0x396f84e797f376ff:0x978ba1ea047652cb!8m2!3d25.140882!4d75.8440528!16s%2Fg%2F1w0sb8f0!19sChIJ_3bzl-eEbzkRy1J2BOqhi5c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "physiosfirst-physiotherapy-clinic-best-physiotherapist-center-top-physiotherapy-clinic-in-kota-kota",
@@ -2172,7 +2190,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/PHYSIOSFIRST+PHYSIOTHERAPY+CLINIC+-+best+physiotherapist+center+%7C+top+physiotherapy+clinic+in+kota/@25.1789045,75.8509706,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9b98f3db9c51:0x1ddee29dbb65ec58!8m2!3d25.1789045!4d75.8509706!16s%2Fg%2F11nxc1dmzm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PHYSIOSFIRST+PHYSIOTHERAPY+CLINIC+-+best+physiotherapist+center+%7C+top+physiotherapy+clinic+in+kota/@25.1789045,75.8509706,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9b98f3db9c51:0x1ddee29dbb65ec58!8m2!3d25.1789045!4d75.8509706!16s%2Fg%2F11nxc1dmzm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2238,10 +2256,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PHYSIOSFIRST+PHYSIOTHERAPY+CLINIC+-+best+physiotherapist+center+%7C+top+physiotherapy+clinic+in+kota/@25.1789045,75.8509706,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9b98f3db9c51:0x1ddee29dbb65ec58!8m2!3d25.1789045!4d75.8509706!16s%2Fg%2F11nxc1dmzm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-hari-hospital-kota",
@@ -2290,7 +2309,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Hari+hospital/@25.2020482,75.8354169,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9b533ee13fb5:0x959082b76988dd35!8m2!3d25.2020482!4d75.8354169!16s%2Fg%2F11sdnvr34j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Hari+hospital/@25.2020482,75.8354169,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9b533ee13fb5:0x959082b76988dd35!8m2!3d25.2020482!4d75.8354169!16s%2Fg%2F11sdnvr34j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2359,7 +2378,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Hari+hospital/@25.2020482,75.8354169,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9b533ee13fb5:0x959082b76988dd35!8m2!3d25.2020482!4d75.8354169!16s%2Fg%2F11sdnvr34j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shubh-hospital-kota",
@@ -2407,7 +2427,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Shubh+Hospital/data=!4m7!3m6!1s0x396f85dff3c2c719:0x2e11534bf121a6e7!8m2!3d25.1255023!4d75.8271701!16s%2Fg%2F11jhy3w_wn!19sChIJGcfC89-FbzkR56Yh8UtTES4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shubh+Hospital/data=!4m7!3m6!1s0x396f85dff3c2c719:0x2e11534bf121a6e7!8m2!3d25.1255023!4d75.8271701!16s%2Fg%2F11jhy3w_wn!19sChIJGcfC89-FbzkR56Yh8UtTES4?authuser=0&hl=en&rclk=1"
@@ -2476,7 +2496,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shubh+Hospital/data=!4m7!3m6!1s0x396f85dff3c2c719:0x2e11534bf121a6e7!8m2!3d25.1255023!4d75.8271701!16s%2Fg%2F11jhy3w_wn!19sChIJGcfC89-FbzkR56Yh8UtTES4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "smile-and-sujok-dental-clinic-and-orthodontics-aligner-braces-implants-i-best-dentist-in-kota-mds-ortho-kota",
@@ -2527,7 +2548,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+and+Sujok+Dental+Clinic+%26+Orthodontics+%7C+Aligner,+Braces,+Implants+I+Best+Dentist+in+Kota+%7C+MDS+Ortho/@25.1479727,75.8452054,17z/data=!3m1!4b1!4m6!3m5!1s0x396f85926f74ffbb:0xf596cf97c760aa0!8m2!3d25.1479727!4d75.8452054!16s%2Fg%2F11gmt7f7sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+and+Sujok+Dental+Clinic+%26+Orthodontics+%7C+Aligner,+Braces,+Implants+I+Best+Dentist+in+Kota+%7C+MDS+Ortho/@25.1479727,75.8452054,17z/data=!3m1!4b1!4m6!3m5!1s0x396f85926f74ffbb:0xf596cf97c760aa0!8m2!3d25.1479727!4d75.8452054!16s%2Fg%2F11gmt7f7sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2593,10 +2614,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+and+Sujok+Dental+Clinic+%26+Orthodontics+%7C+Aligner,+Braces,+Implants+I+Best+Dentist+in+Kota+%7C+MDS+Ortho/@25.1479727,75.8452054,17z/data=!3m1!4b1!4m6!3m5!1s0x396f85926f74ffbb:0xf596cf97c760aa0!8m2!3d25.1479727!4d75.8452054!16s%2Fg%2F11gmt7f7sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sunrise-physiotherapy-clinic-best-physiotherapist-center-top-physiotherapy-clinic-in-kota-best-chiropractor-in-kota-kota",
@@ -2646,7 +2668,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SUNRISE+PHYSIOTHERAPY+CLINIC+%7C+Best+Physiotherapist+Center+%7C+Top+Physiotherapy+Clinic+in+Kota+%7C+Best+Chiropractor+in+Kota/@25.178996,75.86281,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9ad0784010a5:0x782876b8ef6760a0!8m2!3d25.178996!4d75.86281!16s%2Fg%2F11cs60d0fd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SUNRISE+PHYSIOTHERAPY+CLINIC+%7C+Best+Physiotherapist+Center+%7C+Top+Physiotherapy+Clinic+in+Kota+%7C+Best+Chiropractor+in+Kota/@25.178996,75.86281,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9ad0784010a5:0x782876b8ef6760a0!8m2!3d25.178996!4d75.86281!16s%2Fg%2F11cs60d0fd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2715,7 +2737,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SUNRISE+PHYSIOTHERAPY+CLINIC+%7C+Best+Physiotherapist+Center+%7C+Top+Physiotherapy+Clinic+in+Kota+%7C+Best+Chiropractor+in+Kota/@25.178996,75.86281,17z/data=!3m1!4b1!4m6!3m5!1s0x396f9ad0784010a5:0x782876b8ef6760a0!8m2!3d25.178996!4d75.86281!16s%2Fg%2F11cs60d0fd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tt-hospital-kota",
@@ -2763,7 +2786,7 @@
     "metrics": [
       "Google rating 2.7"
     ],
-    "image": "https://www.google.com/maps/place/TT+Hospital/data=!4m7!3m6!1s0x396f84c430e55555:0x710c178e8aeb0c0c!8m2!3d25.1497165!4d75.8369178!16s%2Fg%2F11sscs22v5!19sChIJVVXlMMSEbzkRDAzrio4XDHE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TT+Hospital/data=!4m7!3m6!1s0x396f84c430e55555:0x710c178e8aeb0c0c!8m2!3d25.1497165!4d75.8369178!16s%2Fg%2F11sscs22v5!19sChIJVVXlMMSEbzkRDAzrio4XDHE?authuser=0&hl=en&rclk=1"
@@ -2832,7 +2855,8 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TT+Hospital/data=!4m7!3m6!1s0x396f84c430e55555:0x710c178e8aeb0c0c!8m2!3d25.1497165!4d75.8369178!16s%2Fg%2F11sscs22v5!19sChIJVVXlMMSEbzkRDAzrio4XDHE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "utkarsh-hospital-kota-kota",
@@ -2881,7 +2905,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Utkarsh+Hospital+Kota/data=!4m7!3m6!1s0x396f853091e34d4f:0xb6d2c3a71ded4178!8m2!3d25.1453714!4d75.8262062!16s%2Fg%2F11rsftb56w!19sChIJT03jkTCFbzkReEHtHafD0rY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Utkarsh+Hospital+Kota/data=!4m7!3m6!1s0x396f853091e34d4f:0xb6d2c3a71ded4178!8m2!3d25.1453714!4d75.8262062!16s%2Fg%2F11rsftb56w!19sChIJT03jkTCFbzkReEHtHafD0rY?authuser=0&hl=en&rclk=1"
@@ -2950,7 +2974,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Utkarsh+Hospital+Kota/data=!4m7!3m6!1s0x396f853091e34d4f:0xb6d2c3a71ded4178!8m2!3d25.1453714!4d75.8262062!16s%2Fg%2F11rsftb56w!19sChIJT03jkTCFbzkReEHtHafD0rY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "yadav-hospital-kota",
@@ -2998,7 +3023,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Yadav+Hospital/@25.1452266,75.8282646,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84bf442ff2b1:0x5d0e9004cb9b85da!8m2!3d25.1452266!4d75.8282646!16s%2Fg%2F11c1pgfxlb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yadav+Hospital/@25.1452266,75.8282646,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84bf442ff2b1:0x5d0e9004cb9b85da!8m2!3d25.1452266!4d75.8282646!16s%2Fg%2F11c1pgfxlb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3067,7 +3092,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yadav+Hospital/@25.1452266,75.8282646,17z/data=!3m1!4b1!4m6!3m5!1s0x396f84bf442ff2b1:0x5d0e9004cb9b85da!8m2!3d25.1452266!4d75.8282646!16s%2Fg%2F11c1pgfxlb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "and-best-multispeciaity-hospital-in-kota-best-hospital-in-kota-kota",
@@ -3116,7 +3142,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%BC%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%98%F0%9D%97%BB%F0%9D%98%81+%26+%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B9%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+-+Best+Multispeciaity+Hospital+in+Kota+%7C+Best+Hospital+in+Kota/@25.1499375,75.8594544,17z/data=!3m1!4b1!4m6!3m5!1s0x396f85021a8f9dc9:0x4ac339267b486f60!8m2!3d25.1499375!4d75.8594544!16s%2Fg%2F11h7dd_3n0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%BC%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%98%F0%9D%97%BB%F0%9D%98%81+%26+%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B9%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+-+Best+Multispeciaity+Hospital+in+Kota+%7C+Best+Hospital+in+Kota/@25.1499375,75.8594544,17z/data=!3m1!4b1!4m6!3m5!1s0x396f85021a8f9dc9:0x4ac339267b486f60!8m2!3d25.1499375!4d75.8594544!16s%2Fg%2F11h7dd_3n0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3185,6 +3211,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%BC%F0%9D%98%86%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%98%F0%9D%97%BB%F0%9D%98%81+%26+%F0%9D%97%A0%F0%9D%98%82%F0%9D%97%B9%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+-+Best+Multispeciaity+Hospital+in+Kota+%7C+Best+Hospital+in+Kota/@25.1499375,75.8594544,17z/data=!3m1!4b1!4m6!3m5!1s0x396f85021a8f9dc9:0x4ac339267b486f60!8m2!3d25.1499375!4d75.8594544!16s%2Fg%2F11h7dd_3n0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

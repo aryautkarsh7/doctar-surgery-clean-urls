@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/32+Pearlz+Dental+Clinic/@31.6966709,76.5003069,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d458b15db0e5:0x8f1c74e0ee4c64e0!8m2!3d31.6966709!4d76.5003069!16s%2Fg%2F11fy4761ds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+Pearlz+Dental+Clinic/@31.6966709,76.5003069,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d458b15db0e5:0x8f1c74e0ee4c64e0!8m2!3d31.6966709!4d76.5003069!16s%2Fg%2F11fy4761ds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -111,10 +111,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/32+Pearlz+Dental+Clinic/@31.6966709,76.5003069,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d458b15db0e5:0x8f1c74e0ee4c64e0!8m2!3d31.6966709!4d76.5003069!16s%2Fg%2F11fy4761ds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aadya-ivf-una",
@@ -165,7 +166,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aadya+IVF/@31.4653227,76.27868,17z/data=!3m1!4b1!4m6!3m5!1s0x391ad16b2b9a2513:0xe4e91068b8b6f86b!8m2!3d31.4653227!4d76.27868!16s%2Fg%2F11y2l33y_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aadya+IVF/@31.4653227,76.27868,17z/data=!3m1!4b1!4m6!3m5!1s0x391ad16b2b9a2513:0xe4e91068b8b6f86b!8m2!3d31.4653227!4d76.27868!16s%2Fg%2F11y2l33y_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -231,10 +232,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aadya+IVF/@31.4653227,76.27868,17z/data=!3m1!4b1!4m6!3m5!1s0x391ad16b2b9a2513:0xe4e91068b8b6f86b!8m2!3d31.4653227!4d76.27868!16s%2Fg%2F11y2l33y_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aaress-surgicals-hamirpur",
@@ -282,7 +284,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Aaress+Surgicals/@31.6861745,76.5213091,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5561018642b:0x1a62dbbb0550fd27!8m2!3d31.6861745!4d76.5213091!16s%2Fg%2F11fmbz34c4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aaress+Surgicals/@31.6861745,76.5213091,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5561018642b:0x1a62dbbb0550fd27!8m2!3d31.6861745!4d76.5213091!16s%2Fg%2F11fmbz34c4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -351,7 +353,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aaress+Surgicals/@31.6861745,76.5213091,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5561018642b:0x1a62dbbb0550fd27!8m2!3d31.6861745!4d76.5213091!16s%2Fg%2F11fmbz34c4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aastha-hospital-and-ivf-centre-hospital-in-hamirpur-hamirpur",
@@ -401,7 +404,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aastha+Hospital+%26+IVF+Centre+-+Hospital+in+Hamirpur/@31.6960075,76.5014791,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d44bea630bc7:0x272c50efc6ae937c!8m2!3d31.6960075!4d76.5014791!16s%2Fg%2F1hm417syv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aastha+Hospital+%26+IVF+Centre+-+Hospital+in+Hamirpur/@31.6960075,76.5014791,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d44bea630bc7:0x272c50efc6ae937c!8m2!3d31.6960075!4d76.5014791!16s%2Fg%2F1hm417syv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -467,10 +470,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aastha+Hospital+%26+IVF+Centre+-+Hospital+in+Hamirpur/@31.6960075,76.5014791,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d44bea630bc7:0x272c50efc6ae937c!8m2!3d31.6960075!4d76.5014791!16s%2Fg%2F1hm417syv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anjali-dental-clinic-hamirpur",
@@ -518,7 +522,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Anjali+Dental+Clinic/@31.6808796,76.5249252,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5b56807d3cd:0x8eb74ee63f65b4e!8m2!3d31.6808796!4d76.5249252!16s%2Fg%2F1tds523l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anjali+Dental+Clinic/@31.6808796,76.5249252,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5b56807d3cd:0x8eb74ee63f65b4e!8m2!3d31.6808796!4d76.5249252!16s%2Fg%2F1tds523l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -587,7 +591,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anjali+Dental+Clinic/@31.6808796,76.5249252,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5b56807d3cd:0x8eb74ee63f65b4e!8m2!3d31.6808796!4d76.5249252!16s%2Fg%2F1tds523l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhandari-hospital-dulehra",
@@ -635,7 +640,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Bhandari+Hospital/@31.6829727,76.5139785,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5c56297d8ef:0x4ca2bbd6adc73306!8m2!3d31.6829727!4d76.5139785!16s%2Fg%2F11kwkzlr10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhandari+Hospital/@31.6829727,76.5139785,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5c56297d8ef:0x4ca2bbd6adc73306!8m2!3d31.6829727!4d76.5139785!16s%2Fg%2F11kwkzlr10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -704,7 +709,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhandari+Hospital/@31.6829727,76.5139785,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5c56297d8ef:0x4ca2bbd6adc73306!8m2!3d31.6829727!4d76.5139785!16s%2Fg%2F11kwkzlr10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chambyal-dental-clinic-hamirpur",
@@ -753,7 +759,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chambyal+Dental+Clinic/@31.5278124,76.4637485,17z/data=!3m1!4b1!4m6!3m5!1s0x39052cb1b19c63ad:0x9bd70a4397354b74!8m2!3d31.5278124!4d76.4637485!16s%2Fg%2F11c52k7qnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chambyal+Dental+Clinic/@31.5278124,76.4637485,17z/data=!3m1!4b1!4m6!3m5!1s0x39052cb1b19c63ad:0x9bd70a4397354b74!8m2!3d31.5278124!4d76.4637485!16s%2Fg%2F11c52k7qnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -819,10 +825,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chambyal+Dental+Clinic/@31.5278124,76.4637485,17z/data=!3m1!4b1!4m6!3m5!1s0x39052cb1b19c63ad:0x9bd70a4397354b74!8m2!3d31.5278124!4d76.4637485!16s%2Fg%2F11c52k7qnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-planet-hamirpur",
@@ -870,7 +877,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Planet/@31.6743208,76.5320545,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5a58b5df06f:0x784f1c12e47d61d!8m2!3d31.6743208!4d76.5320545!16s%2Fg%2F11sj6mz6z7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Planet/@31.6743208,76.5320545,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5a58b5df06f:0x784f1c12e47d61d!8m2!3d31.6743208!4d76.5320545!16s%2Fg%2F11sj6mz6z7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -939,7 +946,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Planet/@31.6743208,76.5320545,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5a58b5df06f:0x784f1c12e47d61d!8m2!3d31.6743208!4d76.5320545!16s%2Fg%2F11sj6mz6z7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-solutions-hamirpur",
@@ -988,7 +996,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Solutions/@31.6821516,76.5241603,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d573444466b1:0x613f4ff456f2bab7!8m2!3d31.6821516!4d76.5241603!16s%2Fg%2F11h1m9kt7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Solutions/@31.6821516,76.5241603,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d573444466b1:0x613f4ff456f2bab7!8m2!3d31.6821516!4d76.5241603!16s%2Fg%2F11h1m9kt7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1057,7 +1065,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Solutions/@31.6821516,76.5241603,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d573444466b1:0x613f4ff456f2bab7!8m2!3d31.6821516!4d76.5241603!16s%2Fg%2F11h1m9kt7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "design-hospital-hamirpur",
@@ -1105,7 +1114,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Design+Hospital/@31.6802386,76.5172372,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d50f85479ec5:0xcf365e9dbe145e35!8m2!3d31.6802386!4d76.5172372!16s%2Fg%2F11vssw3x9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Design+Hospital/@31.6802386,76.5172372,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d50f85479ec5:0xcf365e9dbe145e35!8m2!3d31.6802386!4d76.5172372!16s%2Fg%2F11vssw3x9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1174,7 +1183,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Design+Hospital/@31.6802386,76.5172372,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d50f85479ec5:0xcf365e9dbe145e35!8m2!3d31.6802386!4d76.5172372!16s%2Fg%2F11vssw3x9n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ekdantamm-smilewala-dental-clinic-hamirpur",
@@ -1223,7 +1233,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ekdantamm+Smilewala+Dental+Clinic/@31.6805943,76.5268027,17z/data=!3m1!4b1!4m6!3m5!1s0x391b2b10ef1c935d:0xcb41913c35a6e486!8m2!3d31.6805943!4d76.5268027!16s%2Fg%2F11bxgnn6ww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ekdantamm+Smilewala+Dental+Clinic/@31.6805943,76.5268027,17z/data=!3m1!4b1!4m6!3m5!1s0x391b2b10ef1c935d:0xcb41913c35a6e486!8m2!3d31.6805943!4d76.5268027!16s%2Fg%2F11bxgnn6ww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1292,7 +1302,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ekdantamm+Smilewala+Dental+Clinic/@31.6805943,76.5268027,17z/data=!3m1!4b1!4m6!3m5!1s0x391b2b10ef1c935d:0xcb41913c35a6e486!8m2!3d31.6805943!4d76.5268027!16s%2Fg%2F11bxgnn6ww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "family-medical-clinic-skin-morbid-obesity-htn-diabetic-clinic-hamirpur",
@@ -1341,7 +1352,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Family+Medical+Clinic+-+Skin+%2F+Morbid+Obesity+%2F+HTN+%2FDiabetic+Clinic/@31.6925501,76.5016634,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5db0780b8ff:0xf242f75f319cc5c5!8m2!3d31.6925501!4d76.5016634!16s%2Fg%2F11hm7jm7p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Family+Medical+Clinic+-+Skin+%2F+Morbid+Obesity+%2F+HTN+%2FDiabetic+Clinic/@31.6925501,76.5016634,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5db0780b8ff:0xf242f75f319cc5c5!8m2!3d31.6925501!4d76.5016634!16s%2Fg%2F11hm7jm7p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1407,10 +1418,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Family+Medical+Clinic+-+Skin+%2F+Morbid+Obesity+%2F+HTN+%2FDiabetic+Clinic/@31.6925501,76.5016634,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5db0780b8ff:0xf242f75f319cc5c5!8m2!3d31.6925501!4d76.5016634!16s%2Fg%2F11hm7jm7p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gautam-hospital-hamirpur",
@@ -1458,7 +1470,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gautam+Hospital/@31.6566771,76.5367085,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5f377cfe7f9:0x6a217503703a0d21!8m2!3d31.6566771!4d76.5367085!16s%2Fg%2F11yhb9zx10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gautam+Hospital/@31.6566771,76.5367085,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5f377cfe7f9:0x6a217503703a0d21!8m2!3d31.6566771!4d76.5367085!16s%2Fg%2F11yhb9zx10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1524,10 +1536,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gautam+Hospital/@31.6566771,76.5367085,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5f377cfe7f9:0x6a217503703a0d21!8m2!3d31.6566771!4d76.5367085!16s%2Fg%2F11yhb9zx10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "glodha-hospital-hamirpur",
@@ -1575,7 +1588,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Glodha+Hospital/@31.6775907,76.5251633,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5b5f1760dc7:0x926236255c0b2f1e!8m2!3d31.6775907!4d76.5251633!16s%2Fg%2F11hctjkczl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Glodha+Hospital/@31.6775907,76.5251633,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5b5f1760dc7:0x926236255c0b2f1e!8m2!3d31.6775907!4d76.5251633!16s%2Fg%2F11hctjkczl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1644,7 +1657,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Glodha+Hospital/@31.6775907,76.5251633,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5b5f1760dc7:0x926236255c0b2f1e!8m2!3d31.6775907!4d76.5251633!16s%2Fg%2F11hctjkczl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gupta-hospital-awahdevi-general-medicine-and-anorectal-treatment-and-surgery-piles-fissure-etc-hamirpur",
@@ -1692,7 +1706,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Gupta+Hospital+Awahdevi+General+medicine+and+Anorectal+treatment+and+surgery,+Piles,+fissure+etc.../@31.7174045,76.6532381,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d9c2a11675a1:0xb6db893c6c611637!8m2!3d31.7174045!4d76.6532381!16s%2Fg%2F11cn93qbnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+Hospital+Awahdevi+General+medicine+and+Anorectal+treatment+and+surgery,+Piles,+fissure+etc.../@31.7174045,76.6532381,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d9c2a11675a1:0xb6db893c6c611637!8m2!3d31.7174045!4d76.6532381!16s%2Fg%2F11cn93qbnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1761,7 +1775,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gupta+Hospital+Awahdevi+General+medicine+and+Anorectal+treatment+and+surgery,+Piles,+fissure+etc.../@31.7174045,76.6532381,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d9c2a11675a1:0xb6db893c6c611637!8m2!3d31.7174045!4d76.6532381!16s%2Fg%2F11cn93qbnm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hamir-hospital-hamirpur",
@@ -1809,7 +1824,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Hamir+Hospital/@31.683054,76.5139131,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d504a2c67af3:0xf40f7e39a47ce53a!8m2!3d31.683054!4d76.5139131!16s%2Fg%2F11c6pr6gv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hamir+Hospital/@31.683054,76.5139131,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d504a2c67af3:0xf40f7e39a47ce53a!8m2!3d31.683054!4d76.5139131!16s%2Fg%2F11c6pr6gv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1878,7 +1893,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hamir+Hospital/@31.683054,76.5139131,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d504a2c67af3:0xf40f7e39a47ce53a!8m2!3d31.683054!4d76.5139131!16s%2Fg%2F11c6pr6gv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hamirpur-hamirpur",
@@ -1924,7 +1940,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Hamirpur,+Himachal+Pradesh/@31.690808,76.5185307,14z/data=!3m1!4b1!4m6!3m5!1s0x3904d44c8c5639a5:0x2315ba2666cfba94!8m2!3d31.6861745!4d76.5213092!16zL20vMDlkZjRq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hamirpur,+Himachal+Pradesh/@31.690808,76.5185307,14z/data=!3m1!4b1!4m6!3m5!1s0x3904d44c8c5639a5:0x2315ba2666cfba94!8m2!3d31.6861745!4d76.5213092!16zL20vMDlkZjRq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1990,10 +2006,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hamirpur,+Himachal+Pradesh/@31.690808,76.5185307,14z/data=!3m1!4b1!4m6!3m5!1s0x3904d44c8c5639a5:0x2315ba2666cfba94!8m2!3d31.6861745!4d76.5213092!16zL20vMDlkZjRq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hamirpur-govt-hospital-sujanpur-tira",
@@ -2039,7 +2056,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Hamirpur+govt+hospital/@31.8338663,76.5055567,17z/data=!3m1!4b1!4m6!3m5!1s0x3904cd003590fc15:0xaef7383e76dc650e!8m2!3d31.8338663!4d76.5055567!16s%2Fg%2F11xg3hjyt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hamirpur+govt+hospital/@31.8338663,76.5055567,17z/data=!3m1!4b1!4m6!3m5!1s0x3904cd003590fc15:0xaef7383e76dc650e!8m2!3d31.8338663!4d76.5055567!16s%2Fg%2F11xg3hjyt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2105,10 +2122,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hamirpur+govt+hospital/@31.8338663,76.5055567,17z/data=!3m1!4b1!4m6!3m5!1s0x3904cd003590fc15:0xaef7383e76dc650e!8m2!3d31.8338663!4d76.5055567!16s%2Fg%2F11xg3hjyt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "himalaya-arthritis-and-medical-centre-at-hamirpur-hamirpur",
@@ -2157,7 +2175,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Himalaya+arthritis+and+Medical+centre+at+Hamirpur/@31.6850301,76.5128629,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d50106de12e9:0xb65df74e6adbb1ab!8m2!3d31.6850301!4d76.5128629!16s%2Fg%2F11n0j4pfn6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Himalaya+arthritis+and+Medical+centre+at+Hamirpur/@31.6850301,76.5128629,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d50106de12e9:0xb65df74e6adbb1ab!8m2!3d31.6850301!4d76.5128629!16s%2Fg%2F11n0j4pfn6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2226,7 +2244,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Himalaya+arthritis+and+Medical+centre+at+Hamirpur/@31.6850301,76.5128629,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d50106de12e9:0xb65df74e6adbb1ab!8m2!3d31.6850301!4d76.5128629!16s%2Fg%2F11n0j4pfn6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-kangra-best-ivf-centre-kangra",
@@ -2276,7 +2295,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Kangra+-+Best+IVF+Centre/@32.1141978,76.2812299,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4fe48c295189:0x2b231eeb0dbcc56!8m2!3d32.1141978!4d76.2812299!16s%2Fg%2F11wnmt0vdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Kangra+-+Best+IVF+Centre/@32.1141978,76.2812299,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4fe48c295189:0x2b231eeb0dbcc56!8m2!3d32.1141978!4d76.2812299!16s%2Fg%2F11wnmt0vdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2345,7 +2364,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Kangra+-+Best+IVF+Centre/@32.1141978,76.2812299,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4fe48c295189:0x2b231eeb0dbcc56!8m2!3d32.1141978!4d76.2812299!16s%2Fg%2F11wnmt0vdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "janam-fertility-centre-best-ivf-centre-in-himachal-pradesh-nurpur",
@@ -2394,7 +2414,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Janam+Fertility+Centre+%7C+Best+IVF+Centre+in+Himachal+Pradesh/@32.3068609,75.8938646,17z/data=!3m1!4b1!4m6!3m5!1s0x391c836b09e844f1:0x73fbf199599692c8!8m2!3d32.3068609!4d75.8938646!16s%2Fg%2F11x78j89f1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janam+Fertility+Centre+%7C+Best+IVF+Centre+in+Himachal+Pradesh/@32.3068609,75.8938646,17z/data=!3m1!4b1!4m6!3m5!1s0x391c836b09e844f1:0x73fbf199599692c8!8m2!3d32.3068609!4d75.8938646!16s%2Fg%2F11x78j89f1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2460,10 +2480,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Janam+Fertility+Centre+%7C+Best+IVF+Centre+in+Himachal+Pradesh/@32.3068609,75.8938646,17z/data=!3m1!4b1!4m6!3m5!1s0x391c836b09e844f1:0x73fbf199599692c8!8m2!3d32.3068609!4d75.8938646!16s%2Fg%2F11x78j89f1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "janam-test-tube-baby-centre-kangra-best-ivf-centre-in-kangra-best-ivf-hospital-in-kangra-sunehr",
@@ -2513,7 +2534,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Janam+Test+Tube+Baby+Centre+Kangra+-+Best+IVF+Centre+in+Kangra,+Best+IVF+Hospital+in+Kangra/@32.1235976,76.2964029,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4f03aeed1b83:0x31c536ddce7cdebd!8m2!3d32.1235976!4d76.2964029!16s%2Fg%2F11vqz66051?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Janam+Test+Tube+Baby+Centre+Kangra+-+Best+IVF+Centre+in+Kangra,+Best+IVF+Hospital+in+Kangra/@32.1235976,76.2964029,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4f03aeed1b83:0x31c536ddce7cdebd!8m2!3d32.1235976!4d76.2964029!16s%2Fg%2F11vqz66051?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2579,10 +2600,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Janam+Test+Tube+Baby+Centre+Kangra+-+Best+IVF+Centre+in+Kangra,+Best+IVF+Hospital+in+Kangra/@32.1235976,76.2964029,17z/data=!3m1!4b1!4m6!3m5!1s0x391b4f03aeed1b83:0x31c536ddce7cdebd!8m2!3d32.1235976!4d76.2964029!16s%2Fg%2F11vqz66051?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krishana-hospital-hamirpur",
@@ -2630,7 +2652,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Krishana+Hospital/@31.6867981,76.5204507,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5e879a1c579:0x1b92fb6922fa94c9!8m2!3d31.6867981!4d76.5204507!16s%2Fg%2F11h2j6mk24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krishana+Hospital/@31.6867981,76.5204507,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5e879a1c579:0x1b92fb6922fa94c9!8m2!3d31.6867981!4d76.5204507!16s%2Fg%2F11h2j6mk24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2699,7 +2721,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krishana+Hospital/@31.6867981,76.5204507,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5e879a1c579:0x1b92fb6922fa94c9!8m2!3d31.6867981!4d76.5204507!16s%2Fg%2F11h2j6mk24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krsnaa-diagnostics-blood-test-and-diagnostic-centre-in-hamirpur-hamirpur",
@@ -2749,7 +2772,7 @@
       "Google rating 1.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Blood+Test+%26+Diagnostic+Centre+In+Hamirpur/@31.6799343,76.5273183,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5df95934d77:0x396bacbcce35edfe!8m2!3d31.6799343!4d76.5273183!16s%2Fg%2F11w2gt0dy8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Blood+Test+%26+Diagnostic+Centre+In+Hamirpur/@31.6799343,76.5273183,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5df95934d77:0x396bacbcce35edfe!8m2!3d31.6799343!4d76.5273183!16s%2Fg%2F11w2gt0dy8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2818,7 +2841,8 @@
     "rating": 1.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%7C+Blood+Test+%26+Diagnostic+Centre+In+Hamirpur/@31.6799343,76.5273183,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5df95934d77:0x396bacbcce35edfe!8m2!3d31.6799343!4d76.5273183!16s%2Fg%2F11w2gt0dy8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "malhotra-hospital-and-trauma-centre-ner",
@@ -2867,7 +2891,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Malhotra+Hospital+%26+Trauma+Centre/@31.6086039,76.9145835,17z/data=!3m1!4b1!4m6!3m5!1s0x39051ea1a727541d:0x8faca6d324822dc2!8m2!3d31.6086039!4d76.9145835!16s%2Fg%2F11c30xnsdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Malhotra+Hospital+%26+Trauma+Centre/@31.6086039,76.9145835,17z/data=!3m1!4b1!4m6!3m5!1s0x39051ea1a727541d:0x8faca6d324822dc2!8m2!3d31.6086039!4d76.9145835!16s%2Fg%2F11c30xnsdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2936,7 +2960,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Malhotra+Hospital+%26+Trauma+Centre/@31.6086039,76.9145835,17z/data=!3m1!4b1!4m6!3m5!1s0x39051ea1a727541d:0x8faca6d324822dc2!8m2!3d31.6086039!4d76.9145835!16s%2Fg%2F11c30xnsdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medicover-fertility-hamirpur-shimla-dharamshala-road-dugha",
@@ -2985,7 +3010,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Medicover+Fertility+-+Hamirpur/@31.1016929,77.1394157,17z/data=!3m1!4b1!4m6!3m5!1s0x3905796803c7d2bd:0x6356264a4ade77cc!8m2!3d31.1016929!4d77.1394157!16s%2Fg%2F11jcqm6sjb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicover+Fertility+-+Hamirpur/@31.1016929,77.1394157,17z/data=!3m1!4b1!4m6!3m5!1s0x3905796803c7d2bd:0x6356264a4ade77cc!8m2!3d31.1016929!4d77.1394157!16s%2Fg%2F11jcqm6sjb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3051,10 +3076,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicover+Fertility+-+Hamirpur/@31.1016929,77.1394157,17z/data=!3m1!4b1!4m6!3m5!1s0x3905796803c7d2bd:0x6356264a4ade77cc!8m2!3d31.1016929!4d77.1394157!16s%2Fg%2F11jcqm6sjb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medicover-fertility-clinic-ghurkari-khas",
@@ -3104,7 +3130,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medicover+Fertility+Clinic/data=!4m7!3m6!1s0x391b4d13694219bd:0x7152f30eaab0162d!8m2!3d32.1248691!4d76.2957729!16s%2Fg%2F11q45fwvkh!19sChIJvRlCaRNNGzkRLRawqg7zUnE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicover+Fertility+Clinic/data=!4m7!3m6!1s0x391b4d13694219bd:0x7152f30eaab0162d!8m2!3d32.1248691!4d76.2957729!16s%2Fg%2F11q45fwvkh!19sChIJvRlCaRNNGzkRLRawqg7zUnE?authuser=0&hl=en&rclk=1"
@@ -3173,7 +3199,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicover+Fertility+Clinic/data=!4m7!3m6!1s0x391b4d13694219bd:0x7152f30eaab0162d!8m2!3d32.1248691!4d76.2957729!16s%2Fg%2F11q45fwvkh!19sChIJvRlCaRNNGzkRLRawqg7zUnE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "medicover-fertility-clinic-best-ivf-center-in-mandi-himachal-pradesh-mandi",
@@ -3223,7 +3250,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medicover+Fertility+Clinic-+Best+IVF+Center+in+Mandi,+Himachal-Pradesh/@31.7074634,76.9287373,17z/data=!3m1!4b1!4m6!3m5!1s0x3904e3c75aea528b:0xaee3d9dcca9243fb!8m2!3d31.7074634!4d76.9287373!16s%2Fg%2F11nx2d_fcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicover+Fertility+Clinic-+Best+IVF+Center+in+Mandi,+Himachal-Pradesh/@31.7074634,76.9287373,17z/data=!3m1!4b1!4m6!3m5!1s0x3904e3c75aea528b:0xaee3d9dcca9243fb!8m2!3d31.7074634!4d76.9287373!16s%2Fg%2F11nx2d_fcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3289,10 +3316,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicover+Fertility+Clinic-+Best+IVF+Center+in+Mandi,+Himachal-Pradesh/@31.7074634,76.9287373,17z/data=!3m1!4b1!4m6!3m5!1s0x3904e3c75aea528b:0xaee3d9dcca9243fb!8m2!3d31.7074634!4d76.9287373!16s%2Fg%2F11nx2d_fcz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-hamirpur-hamirpur",
@@ -3342,7 +3370,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Hamirpur/@31.6803627,76.5280375,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d55323fb38c1:0xcf94ad117027d22!8m2!3d31.6803627!4d76.5280375!16s%2Fg%2F11zjpw_smg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Hamirpur/@31.6803627,76.5280375,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d55323fb38c1:0xcf94ad117027d22!8m2!3d31.6803627!4d76.5280375!16s%2Fg%2F11zjpw_smg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3408,10 +3436,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Hamirpur/@31.6803627,76.5280375,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d55323fb38c1:0xcf94ad117027d22!8m2!3d31.6803627!4d76.5280375!16s%2Fg%2F11zjpw_smg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nav-jeevan-hospital-jawalamukhi",
@@ -3460,7 +3489,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nav+Jeevan+Hospital/@31.8788793,76.3148905,17z/data=!3m1!4b1!4m6!3m5!1s0x391b30d5b60864a1:0xa199941a4575701e!8m2!3d31.8788793!4d76.3148905!16s%2Fg%2F11hbqchfnr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nav+Jeevan+Hospital/@31.8788793,76.3148905,17z/data=!3m1!4b1!4m6!3m5!1s0x391b30d5b60864a1:0xa199941a4575701e!8m2!3d31.8788793!4d76.3148905!16s%2Fg%2F11hbqchfnr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3529,7 +3558,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nav+Jeevan+Hospital/@31.8788793,76.3148905,17z/data=!3m1!4b1!4m6!3m5!1s0x391b30d5b60864a1:0xa199941a4575701e!8m2!3d31.8788793!4d76.3148905!16s%2Fg%2F11hbqchfnr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neelkanth-hospital-mandi",
@@ -3578,7 +3608,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Neelkanth+Hospital/@31.7085811,76.9284552,17z/data=!3m1!4b1!4m6!3m5!1s0x3904e224a1ba80f5:0xe2d8f91d5d5084!8m2!3d31.7085811!4d76.9284552!16s%2Fg%2F11bxgzhsl9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neelkanth+Hospital/@31.7085811,76.9284552,17z/data=!3m1!4b1!4m6!3m5!1s0x3904e224a1ba80f5:0xe2d8f91d5d5084!8m2!3d31.7085811!4d76.9284552!16s%2Fg%2F11bxgzhsl9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3647,7 +3677,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neelkanth+Hospital/@31.7085811,76.9284552,17z/data=!3m1!4b1!4m6!3m5!1s0x3904e224a1ba80f5:0xe2d8f91d5d5084!8m2!3d31.7085811!4d76.9284552!16s%2Fg%2F11bxgzhsl9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-hospital-and-ivf-center-hamirpur",
@@ -3697,7 +3728,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Hospital+%26+IVF+Center/@31.6707835,76.5360929,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5c53fa0f2df:0x3f97bd806c66a52!8m2!3d31.6707835!4d76.5360929!16s%2Fg%2F1tk9p43d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Hospital+%26+IVF+Center/@31.6707835,76.5360929,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5c53fa0f2df:0x3f97bd806c66a52!8m2!3d31.6707835!4d76.5360929!16s%2Fg%2F1tk9p43d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3766,7 +3797,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Hospital+%26+IVF+Center/@31.6707835,76.5360929,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5c53fa0f2df:0x3f97bd806c66a52!8m2!3d31.6707835!4d76.5360929!16s%2Fg%2F1tk9p43d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-ortho-and-spine-physiotherapy-clinic-hamirpur",
@@ -3818,7 +3850,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sai+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+Ortho+%26+Spine+Physiotherapy+Clinic/@31.703524,76.51612,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5de12c62e8b:0xcc8a49449728669a!8m2!3d31.703524!4d76.51612!16s%2Fg%2F11lh3jzxqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+Ortho+%26+Spine+Physiotherapy+Clinic/@31.703524,76.51612,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5de12c62e8b:0xcc8a49449728669a!8m2!3d31.703524!4d76.51612!16s%2Fg%2F11lh3jzxqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3884,10 +3916,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+Ortho+%26+Spine+Physiotherapy+Clinic/@31.703524,76.51612,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5de12c62e8b:0xcc8a49449728669a!8m2!3d31.703524!4d76.51612!16s%2Fg%2F11lh3jzxqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjeev-clinic-chintpurni",
@@ -3935,7 +3968,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeev+Clinic/@31.8085553,76.1047438,17z/data=!3m1!4b1!4m6!3m5!1s0x391b3d739413d729:0x5d5f83789d2db2b8!8m2!3d31.8085553!4d76.1047438!16s%2Fg%2F11gds4jmm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeev+Clinic/@31.8085553,76.1047438,17z/data=!3m1!4b1!4m6!3m5!1s0x391b3d739413d729:0x5d5f83789d2db2b8!8m2!3d31.8085553!4d76.1047438!16s%2Fg%2F11gds4jmm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4001,10 +4034,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeev+Clinic/@31.8085553,76.1047438,17z/data=!3m1!4b1!4m6!3m5!1s0x391b3d739413d729:0x5d5f83789d2db2b8!8m2!3d31.8085553!4d76.1047438!16s%2Fg%2F11gds4jmm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjeev-clinic-mairi",
@@ -4052,7 +4086,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeev+Clinic/@31.7009197,76.1635757,17z/data=!3m1!4b1!4m6!3m5!1s0x391b23ef07d2ab85:0xe2dbd98c4d7d8bb!8m2!3d31.7009197!4d76.1635757!16s%2Fg%2F11cn92wmmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeev+Clinic/@31.7009197,76.1635757,17z/data=!3m1!4b1!4m6!3m5!1s0x391b23ef07d2ab85:0xe2dbd98c4d7d8bb!8m2!3d31.7009197!4d76.1635757!16s%2Fg%2F11cn92wmmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4118,10 +4152,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeev+Clinic/@31.7009197,76.1635757,17z/data=!3m1!4b1!4m6!3m5!1s0x391b23ef07d2ab85:0xe2dbd98c4d7d8bb!8m2!3d31.7009197!4d76.1635757!16s%2Fg%2F11cn92wmmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sardar-ji-optical-center-hamirpur-hamirpur",
@@ -4170,7 +4205,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sardar+Ji+Optical+Center-+Hamirpur/@31.6804917,76.5270007,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5c0126f1509:0x18de7df479ccc8e0!8m2!3d31.6804917!4d76.5270007!16s%2Fg%2F11m9lxy5pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sardar+Ji+Optical+Center-+Hamirpur/@31.6804917,76.5270007,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5c0126f1509:0x18de7df479ccc8e0!8m2!3d31.6804917!4d76.5270007!16s%2Fg%2F11m9lxy5pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4236,10 +4271,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sardar+Ji+Optical+Center-+Hamirpur/@31.6804917,76.5270007,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5c0126f1509:0x18de7df479ccc8e0!8m2!3d31.6804917!4d76.5270007!16s%2Fg%2F11m9lxy5pc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shakuntla-gastropedia-health-care-center-dehar",
@@ -4288,7 +4324,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shakuntla+Gastropedia+Health+Care+Center/@31.4246086,76.8130266,17z/data=!3m1!4b1!4m6!3m5!1s0x39053d72a8a497f7:0x769295debd116e79!8m2!3d31.4246086!4d76.8130266!16s%2Fg%2F11hm_l6950?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shakuntla+Gastropedia+Health+Care+Center/@31.4246086,76.8130266,17z/data=!3m1!4b1!4m6!3m5!1s0x39053d72a8a497f7:0x769295debd116e79!8m2!3d31.4246086!4d76.8130266!16s%2Fg%2F11hm_l6950?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4354,10 +4390,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shakuntla+Gastropedia+Health+Care+Center/@31.4246086,76.8130266,17z/data=!3m1!4b1!4m6!3m5!1s0x39053d72a8a497f7:0x769295debd116e79!8m2!3d31.4246086!4d76.8130266!16s%2Fg%2F11hm_l6950?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shama-gyane-maternity-and-general-clinic-with-computerized-diagnostic-laboratory-hamirpur",
@@ -4406,7 +4443,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shama+gyane,+maternity+and+general+clinic+with+computerized+diagnostic+laboratory/@31.6819167,76.5250676,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5d92a381fa7:0xff62a036b91d69a5!8m2!3d31.6819167!4d76.5250676!16s%2Fg%2F11vlr88w28?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shama+gyane,+maternity+and+general+clinic+with+computerized+diagnostic+laboratory/@31.6819167,76.5250676,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5d92a381fa7:0xff62a036b91d69a5!8m2!3d31.6819167!4d76.5250676!16s%2Fg%2F11vlr88w28?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4472,10 +4509,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shama+gyane,+maternity+and+general+clinic+with+computerized+diagnostic+laboratory/@31.6819167,76.5250676,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5d92a381fa7:0xff62a036b91d69a5!8m2!3d31.6819167!4d76.5250676!16s%2Fg%2F11vlr88w28?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-krishna-hospital-hamirpur",
@@ -4521,7 +4559,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Shri+Krishna+Hospital/@31.455067,76.519568,17z/data=!3m1!4b1!4m6!3m5!1s0x3905333e9732afeb:0xcd2e15fd1f094ffc!8m2!3d31.455067!4d76.519568!16s%2Fg%2F11mcbll4q6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Krishna+Hospital/@31.455067,76.519568,17z/data=!3m1!4b1!4m6!3m5!1s0x3905333e9732afeb:0xcd2e15fd1f094ffc!8m2!3d31.455067!4d76.519568!16s%2Fg%2F11mcbll4q6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4587,10 +4625,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Krishna+Hospital/@31.455067,76.519568,17z/data=!3m1!4b1!4m6!3m5!1s0x3905333e9732afeb:0xcd2e15fd1f094ffc!8m2!3d31.455067!4d76.519568!16s%2Fg%2F11mcbll4q6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sr-clinic-hamirpur-kangoo",
@@ -4639,7 +4678,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SR+Clinic+Hamirpur/@31.6903116,76.4197046,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d567d61b2687:0x241ad1244a8c435c!8m2!3d31.6903116!4d76.4197046!16s%2Fg%2F11vf1_1wx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SR+Clinic+Hamirpur/@31.6903116,76.4197046,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d567d61b2687:0x241ad1244a8c435c!8m2!3d31.6903116!4d76.4197046!16s%2Fg%2F11vf1_1wx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4705,10 +4744,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SR+Clinic+Hamirpur/@31.6903116,76.4197046,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d567d61b2687:0x241ad1244a8c435c!8m2!3d31.6903116!4d76.4197046!16s%2Fg%2F11vf1_1wx7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sunrise-hospital-and-advanced-laparoscopic-center-una",
@@ -4756,7 +4796,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sunrise+Hospital+%26+Advanced+Laparoscopic+Center/@31.4725499,76.2719161,17z/data=!3m1!4b1!4m6!3m5!1s0x391ad1ee9ab9770d:0x1280422053e496cd!8m2!3d31.4725499!4d76.2719161!16s%2Fg%2F11j_17w9mm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sunrise+Hospital+%26+Advanced+Laparoscopic+Center/@31.4725499,76.2719161,17z/data=!3m1!4b1!4m6!3m5!1s0x391ad1ee9ab9770d:0x1280422053e496cd!8m2!3d31.4725499!4d76.2719161!16s%2Fg%2F11j_17w9mm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4825,7 +4865,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sunrise+Hospital+%26+Advanced+Laparoscopic+Center/@31.4725499,76.2719161,17z/data=!3m1!4b1!4m6!3m5!1s0x391ad1ee9ab9770d:0x1280422053e496cd!8m2!3d31.4725499!4d76.2719161!16s%2Fg%2F11j_17w9mm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swar-and-vani-speech-and-hearing-clinic-hearing-test-clinic-best-digital-hearing-aid-hearing-aid-clinic-in-hamirpur-hamirpur",
@@ -4874,7 +4915,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Swar+and+Vani+Speech+%26+Hearing+Clinic-+Hearing+Test+Clinic%2FBest+Digital+Hearing+aid%2FHearing+Aid+Clinic+in+Hamirpur/@31.6804273,76.5271872,17z/data=!3m1!4b1!4m6!3m5!1s0x39053f219dfe70bd:0xe396c3af98d856f6!8m2!3d31.6804273!4d76.5271872!16s%2Fg%2F11fktz8095?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swar+and+Vani+Speech+%26+Hearing+Clinic-+Hearing+Test+Clinic%2FBest+Digital+Hearing+aid%2FHearing+Aid+Clinic+in+Hamirpur/@31.6804273,76.5271872,17z/data=!3m1!4b1!4m6!3m5!1s0x39053f219dfe70bd:0xe396c3af98d856f6!8m2!3d31.6804273!4d76.5271872!16s%2Fg%2F11fktz8095?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4943,7 +4984,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swar+and+Vani+Speech+%26+Hearing+Clinic-+Hearing+Test+Clinic%2FBest+Digital+Hearing+aid%2FHearing+Aid+Clinic+in+Hamirpur/@31.6804273,76.5271872,17z/data=!3m1!4b1!4m6!3m5!1s0x39053f219dfe70bd:0xe396c3af98d856f6!8m2!3d31.6804273!4d76.5271872!16s%2Fg%2F11fktz8095?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thakur-maternity-home-hamirpur",
@@ -4991,7 +5033,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Thakur+Maternity+Home/@31.6885657,76.5167901,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d44e593c66c9:0x94de2ad894e8135f!8m2!3d31.6885657!4d76.5167901!16s%2Fg%2F1tglxbxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thakur+Maternity+Home/@31.6885657,76.5167901,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d44e593c66c9:0x94de2ad894e8135f!8m2!3d31.6885657!4d76.5167901!16s%2Fg%2F1tglxbxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5060,7 +5102,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thakur+Maternity+Home/@31.6885657,76.5167901,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d44e593c66c9:0x94de2ad894e8135f!8m2!3d31.6885657!4d76.5167901!16s%2Fg%2F1tglxbxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thakur-nursing-home-bhakreri-mehre-teh-barsar-distt-hamirpur-h-p-hamirpur",
@@ -5108,7 +5151,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Thakur+Nursing+Home+bhakreri+(mehre)+teh.+barsar+distt.+hamirpur+(h.p)/@31.5255129,76.4606468,17z/data=!3m1!4b1!4m6!3m5!1s0x39052ca54020c0b3:0x8366367776c0765f!8m2!3d31.5255129!4d76.4606468!16s%2Fg%2F11c1mzsncy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thakur+Nursing+Home+bhakreri+(mehre)+teh.+barsar+distt.+hamirpur+(h.p)/@31.5255129,76.4606468,17z/data=!3m1!4b1!4m6!3m5!1s0x39052ca54020c0b3:0x8366367776c0765f!8m2!3d31.5255129!4d76.4606468!16s%2Fg%2F11c1mzsncy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5177,7 +5220,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thakur+Nursing+Home+bhakreri+(mehre)+teh.+barsar+distt.+hamirpur+(h.p)/@31.5255129,76.4606468,17z/data=!3m1!4b1!4m6!3m5!1s0x39052ca54020c0b3:0x8366367776c0765f!8m2!3d31.5255129!4d76.4606468!16s%2Fg%2F11c1mzsncy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thakur-nursing-home-hamirpur-hamirpur",
@@ -5226,7 +5270,7 @@
     "metrics": [
       "Google rating 2.9"
     ],
-    "image": "https://www.google.com/maps/place/Thakur+nursing+home+Hamirpur/@31.688558,76.5168571,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d44b00000019:0x4c3c68760f0e5e12!8m2!3d31.688558!4d76.5168571!16s%2Fg%2F1tfv3hr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thakur+nursing+home+Hamirpur/@31.688558,76.5168571,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d44b00000019:0x4c3c68760f0e5e12!8m2!3d31.688558!4d76.5168571!16s%2Fg%2F1tfv3hr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5295,7 +5339,8 @@
     "rating": 2.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thakur+nursing+home+Hamirpur/@31.688558,76.5168571,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d44b00000019:0x4c3c68760f0e5e12!8m2!3d31.688558!4d76.5168571!16s%2Fg%2F1tfv3hr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "upadhya-dental-clinic-hamirpur",
@@ -5343,7 +5388,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Upadhya+dental+clinic/@31.6898573,76.5191066,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d57a68e4ddc9:0x6041d742912c37d1!8m2!3d31.6898573!4d76.5191066!16s%2Fg%2F11nxrfk56v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Upadhya+dental+clinic/@31.6898573,76.5191066,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d57a68e4ddc9:0x6041d742912c37d1!8m2!3d31.6898573!4d76.5191066!16s%2Fg%2F11nxrfk56v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5412,7 +5457,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Upadhya+dental+clinic/@31.6898573,76.5191066,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d57a68e4ddc9:0x6041d742912c37d1!8m2!3d31.6898573!4d76.5191066!16s%2Fg%2F11nxrfk56v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vcare-medical-centre-hamirpur",
@@ -5460,7 +5506,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Vcare+medical+centre/@31.6779109,76.5280293,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d574419ed853:0x976d2c2fb8f01386!8m2!3d31.6779109!4d76.5280293!16s%2Fg%2F11qn7xvrnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vcare+medical+centre/@31.6779109,76.5280293,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d574419ed853:0x976d2c2fb8f01386!8m2!3d31.6779109!4d76.5280293!16s%2Fg%2F11qn7xvrnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5529,7 +5575,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vcare+medical+centre/@31.6779109,76.5280293,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d574419ed853:0x976d2c2fb8f01386!8m2!3d31.6779109!4d76.5280293!16s%2Fg%2F11qn7xvrnx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vituscare-dialysis-centre-at-sai-hospital-hamirpur-hamirpur",
@@ -5579,7 +5626,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VitusCare+Dialysis+Centre+at+Sai+Hospital+-+Hamirpur/data=!4m7!3m6!1s0x3904d5cc00f2fdf5:0x5fdd220997382d8e!8m2!3d31.6707788!4d76.5360955!16s%2Fg%2F11x6c0_c8r!19sChIJ9f3yAMzVBDkRji04lwki3V8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VitusCare+Dialysis+Centre+at+Sai+Hospital+-+Hamirpur/data=!4m7!3m6!1s0x3904d5cc00f2fdf5:0x5fdd220997382d8e!8m2!3d31.6707788!4d76.5360955!16s%2Fg%2F11x6c0_c8r!19sChIJ9f3yAMzVBDkRji04lwki3V8?authuser=0&hl=en&rclk=1"
@@ -5645,10 +5692,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VitusCare+Dialysis+Centre+at+Sai+Hospital+-+Hamirpur/data=!4m7!3m6!1s0x3904d5cc00f2fdf5:0x5fdd220997382d8e!8m2!3d31.6707788!4d76.5360955!16s%2Fg%2F11x6c0_c8r!19sChIJ9f3yAMzVBDkRji04lwki3V8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ziva-skin-and-hair-clinic-hamirpur",
@@ -5697,7 +5745,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ZIVA+Skin+%26+Hair+Clinic/@31.6896121,76.5190547,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5622ba62cb9:0xb0e6fbf261d99e55!8m2!3d31.6896121!4d76.5190547!16s%2Fg%2F11pdvt3zc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ZIVA+Skin+%26+Hair+Clinic/@31.6896121,76.5190547,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5622ba62cb9:0xb0e6fbf261d99e55!8m2!3d31.6896121!4d76.5190547!16s%2Fg%2F11pdvt3zc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5766,6 +5814,7 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ZIVA+Skin+%26+Hair+Clinic/@31.6896121,76.5190547,17z/data=!3m1!4b1!4m6!3m5!1s0x3904d5622ba62cb9:0xb0e6fbf261d99e55!8m2!3d31.6896121!4d76.5190547!16s%2Fg%2F11pdvt3zc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

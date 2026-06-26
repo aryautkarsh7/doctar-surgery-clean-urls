@@ -46,7 +46,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/32+Intact+Dental+Clinic/@22.0883578,82.1259079,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c8245bbd653:0xf3035707d6c70ccc!8m2!3d22.0883578!4d82.1259079!16s%2Fg%2F1q629k083?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/32+Intact+Dental+Clinic/@22.0883578,82.1259079,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c8245bbd653:0xf3035707d6c70ccc!8m2!3d22.0883578!4d82.1259079!16s%2Fg%2F1q629k083?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -112,10 +112,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/32+Intact+Dental+Clinic/@22.0883578,82.1259079,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c8245bbd653:0xf3035707d6c70ccc!8m2!3d22.0883578!4d82.1259079!16s%2Fg%2F1q629k083?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aarogya-hospital-bilaspur",
@@ -164,7 +165,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aarogya+Hospital/@22.0851177,82.1264009,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c82c7f3ec25:0xe5621e9db2e16bbf!8m2!3d22.0851177!4d82.1264009!16s%2Fg%2F11cn3vcfy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogya+Hospital/@22.0851177,82.1264009,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c82c7f3ec25:0xe5621e9db2e16bbf!8m2!3d22.0851177!4d82.1264009!16s%2Fg%2F11cn3vcfy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -233,7 +234,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aarogya+Hospital/@22.0851177,82.1264009,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c82c7f3ec25:0xe5621e9db2e16bbf!8m2!3d22.0851177!4d82.1264009!16s%2Fg%2F11cn3vcfy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "adhishree-dental-clinic-gol-bazar",
@@ -282,7 +284,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Adhishree+Dental+Clinic/@22.088816,82.149926,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0cd46e6281:0x2e373bdaeea910b9!8m2!3d22.088816!4d82.149926!16s%2Fg%2F11c0rvmfb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adhishree+Dental+Clinic/@22.088816,82.149926,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0cd46e6281:0x2e373bdaeea910b9!8m2!3d22.088816!4d82.149926!16s%2Fg%2F11c0rvmfb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -351,7 +353,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Adhishree+Dental+Clinic/@22.088816,82.149926,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0cd46e6281:0x2e373bdaeea910b9!8m2!3d22.088816!4d82.149926!16s%2Fg%2F11c0rvmfb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-hospitals-best-hospital-in-bilaspur-bilaspur",
@@ -401,7 +404,7 @@
       "53+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Bilaspur/@22.0840714,82.1773395,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280afb46555559:0x399aeec43cf0ffb1!8m2!3d22.0840714!4d82.1773395!16s%2Fg%2F1wbrw5x8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Bilaspur/@22.0840714,82.1773395,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280afb46555559:0x399aeec43cf0ffb1!8m2!3d22.0840714!4d82.1773395!16s%2Fg%2F1wbrw5x8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -470,7 +473,8 @@
     "rating": 4.7,
     "reviews": 53,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Bilaspur/@22.0840714,82.1773395,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280afb46555559:0x399aeec43cf0ffb1!8m2!3d22.0840714!4d82.1773395!16s%2Fg%2F1wbrw5x8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arsh-family-dental-care-bilaspur",
@@ -520,7 +524,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ARSH+Family+Dental+Care/@22.0788511,82.1448784,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba725d24b27:0x2c9dac3ae3ad60cd!8m2!3d22.0788511!4d82.1448784!16s%2Fg%2F11fmf1jzb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ARSH+Family+Dental+Care/@22.0788511,82.1448784,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba725d24b27:0x2c9dac3ae3ad60cd!8m2!3d22.0788511!4d82.1448784!16s%2Fg%2F11fmf1jzb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -589,7 +593,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ARSH+Family+Dental+Care/@22.0788511,82.1448784,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba725d24b27:0x2c9dac3ae3ad60cd!8m2!3d22.0788511!4d82.1448784!16s%2Fg%2F11fmf1jzb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashish-dental-hospital-bilaspur",
@@ -638,7 +643,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ashish+Dental+Hospital/data=!4m7!3m6!1s0x3a280b7e1dad7c09:0x7b4f4c97e708d00!8m2!3d22.0912111!4d82.1283146!16s%2Fg%2F11b72r_g9v!19sChIJCXytHX4LKDoRAI1wfsn0tAc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashish+Dental+Hospital/data=!4m7!3m6!1s0x3a280b7e1dad7c09:0x7b4f4c97e708d00!8m2!3d22.0912111!4d82.1283146!16s%2Fg%2F11b72r_g9v!19sChIJCXytHX4LKDoRAI1wfsn0tAc?authuser=0&hl=en&rclk=1"
@@ -707,7 +712,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashish+Dental+Hospital/data=!4m7!3m6!1s0x3a280b7e1dad7c09:0x7b4f4c97e708d00!8m2!3d22.0912111!4d82.1283146!16s%2Fg%2F11b72r_g9v!19sChIJCXytHX4LKDoRAI1wfsn0tAc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "avinash-dental-care-sarkanda",
@@ -755,7 +761,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Avinash+Dental+Care/@22.0980054,82.1555736,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba74e4e09db:0xeeb4bbc5f74e1b08!8m2!3d22.0980054!4d82.1555736!16s%2Fg%2F11ck1kkln3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Avinash+Dental+Care/@22.0980054,82.1555736,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba74e4e09db:0xeeb4bbc5f74e1b08!8m2!3d22.0980054!4d82.1555736!16s%2Fg%2F11ck1kkln3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -821,10 +827,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Avinash+Dental+Care/@22.0980054,82.1555736,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba74e4e09db:0xeeb4bbc5f74e1b08!8m2!3d22.0980054!4d82.1555736!16s%2Fg%2F11ck1kkln3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "balani-dental-clinic-bilaspur",
@@ -874,7 +881,7 @@
       "8+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Balani+Dental+Clinic/@22.0953957,82.1192025,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dc79cedaf33:0xf555fdeba82acf38!8m2!3d22.0953957!4d82.1192025!16s%2Fg%2F11kbpf_fq9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Balani+Dental+Clinic/@22.0953957,82.1192025,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dc79cedaf33:0xf555fdeba82acf38!8m2!3d22.0953957!4d82.1192025!16s%2Fg%2F11kbpf_fq9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -943,7 +950,8 @@
     "rating": 4.8,
     "reviews": 8,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Balani+Dental+Clinic/@22.0953957,82.1192025,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dc79cedaf33:0xf555fdeba82acf38!8m2!3d22.0953957!4d82.1192025!16s%2Fg%2F11kbpf_fq9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhandari-dental-care-bilaspur",
@@ -993,7 +1001,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhandari+Dental+Care/@22.0853711,82.135321,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b1a4462d93b:0x499e6279f347df1!8m2!3d22.0853711!4d82.135321!16s%2Fg%2F12qg3g1lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhandari+Dental+Care/@22.0853711,82.135321,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b1a4462d93b:0x499e6279f347df1!8m2!3d22.0853711!4d82.135321!16s%2Fg%2F12qg3g1lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1062,7 +1070,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhandari+Dental+Care/@22.0853711,82.135321,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b1a4462d93b:0x499e6279f347df1!8m2!3d22.0853711!4d82.135321!16s%2Fg%2F12qg3g1lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhandari-dental-care-and-cbct-center-bilaspur",
@@ -1113,7 +1122,7 @@
       "24+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhandari+Dental+Care+%26+CBCT+Center/@22.0982483,82.1558844,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bd06dfafc47:0x7c372c79d2462db4!8m2!3d22.0982483!4d82.1558844!16s%2Fg%2F11g21r44vz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhandari+Dental+Care+%26+CBCT+Center/@22.0982483,82.1558844,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bd06dfafc47:0x7c372c79d2462db4!8m2!3d22.0982483!4d82.1558844!16s%2Fg%2F11g21r44vz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1182,7 +1191,8 @@
     "rating": 4.9,
     "reviews": 24,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhandari+Dental+Care+%26+CBCT+Center/@22.0982483,82.1558844,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bd06dfafc47:0x7c372c79d2462db4!8m2!3d22.0982483!4d82.1558844!16s%2Fg%2F11g21r44vz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bilaspur-dental-shop-clc-plaza-mangla-chowk",
@@ -1231,7 +1241,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Bilaspur+dental+shop/@22.0917427,82.1267667,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0a006fa201:0xfa06e12b2313d5cb!8m2!3d22.0917427!4d82.1267667!16s%2Fg%2F11flkbhwdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bilaspur+dental+shop/@22.0917427,82.1267667,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0a006fa201:0xfa06e12b2313d5cb!8m2!3d22.0917427!4d82.1267667!16s%2Fg%2F11flkbhwdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1300,7 +1310,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bilaspur+dental+shop/@22.0917427,82.1267667,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0a006fa201:0xfa06e12b2313d5cb!8m2!3d22.0917427!4d82.1267667!16s%2Fg%2F11flkbhwdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "breast-surgery-clinic-gynecomastia-bilaspur",
@@ -1349,7 +1360,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Breast+Surgery+Clinic%7CGynecomastia/data=!4m7!3m6!1s0x3a280bcd221bc949:0x3198d97ef774279f!8m2!3d22.0861368!4d82.1264731!16s%2Fg%2F11r1036zrp!19sChIJSckbIs0LKDoRnyd0937ZmDE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Breast+Surgery+Clinic%7CGynecomastia/data=!4m7!3m6!1s0x3a280bcd221bc949:0x3198d97ef774279f!8m2!3d22.0861368!4d82.1264731!16s%2Fg%2F11r1036zrp!19sChIJSckbIs0LKDoRnyd0937ZmDE?authuser=0&hl=en&rclk=1"
@@ -1415,10 +1426,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Breast+Surgery+Clinic%7CGynecomastia/data=!4m7!3m6!1s0x3a280bcd221bc949:0x3198d97ef774279f!8m2!3d22.0861368!4d82.1264731!16s%2Fg%2F11r1036zrp!19sChIJSckbIs0LKDoRnyd0937ZmDE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bright-dental-laboratory-bhartiya-nagar",
@@ -1467,7 +1479,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Bright+Dental+laboratory/@22.0709041,82.1423294,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b08ee70290f:0xbcc5b321f29a11ac!8m2!3d22.0709041!4d82.1423294!16s%2Fg%2F11ssq0sj5m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bright+Dental+laboratory/@22.0709041,82.1423294,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b08ee70290f:0xbcc5b321f29a11ac!8m2!3d22.0709041!4d82.1423294!16s%2Fg%2F11ssq0sj5m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1536,7 +1548,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bright+Dental+laboratory/@22.0709041,82.1423294,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b08ee70290f:0xbcc5b321f29a11ac!8m2!3d22.0709041!4d82.1423294!16s%2Fg%2F11ssq0sj5m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bright-smiles-dental-clinic-bilaspur",
@@ -1585,7 +1598,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bright+Smiles+Dental+Clinic/@22.0658915,82.1808135,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b33851f9e21:0xbfe1951fa1f1427e!8m2!3d22.0658915!4d82.1808135!16s%2Fg%2F11j2zb2dxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bright+Smiles+Dental+Clinic/@22.0658915,82.1808135,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b33851f9e21:0xbfe1951fa1f1427e!8m2!3d22.0658915!4d82.1808135!16s%2Fg%2F11j2zb2dxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1651,10 +1664,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bright+Smiles+Dental+Clinic/@22.0658915,82.1808135,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b33851f9e21:0xbfe1951fa1f1427e!8m2!3d22.0658915!4d82.1808135!16s%2Fg%2F11j2zb2dxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "burn-and-trauma-research-center-bilaspur-bilaspur",
@@ -1702,7 +1716,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Burn+%26+Trauma+Research+Center+Bilaspur/@22.071827,82.1507974,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3f9609701f:0xa583be394692f202!8m2!3d22.071827!4d82.1507974!16s%2Fg%2F11b5r8sd0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Burn+%26+Trauma+Research+Center+Bilaspur/@22.071827,82.1507974,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3f9609701f:0xa583be394692f202!8m2!3d22.071827!4d82.1507974!16s%2Fg%2F11b5r8sd0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1771,7 +1785,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Burn+%26+Trauma+Research+Center+Bilaspur/@22.071827,82.1507974,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3f9609701f:0xa583be394692f202!8m2!3d22.071827!4d82.1507974!16s%2Fg%2F11b5r8sd0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cg-dental-care-bilaspur",
@@ -1819,7 +1834,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/CG+DENTAL+CARE/@22.0986642,82.1544545,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba0b04d71d3:0xc3f51f669b09450!8m2!3d22.0986642!4d82.1544545!16s%2Fg%2F11gzn8b1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CG+DENTAL+CARE/@22.0986642,82.1544545,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba0b04d71d3:0xc3f51f669b09450!8m2!3d22.0986642!4d82.1544545!16s%2Fg%2F11gzn8b1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1888,7 +1903,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CG+DENTAL+CARE/@22.0986642,82.1544545,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba0b04d71d3:0xc3f51f669b09450!8m2!3d22.0986642!4d82.1544545!16s%2Fg%2F11gzn8b1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chaturvedi-dental-clinic-bilaspur",
@@ -1936,7 +1952,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Chaturvedi+Dental+clinic/@22.0869609,82.1374895,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7ce16fede1:0x746b19f7cd7361a4!8m2!3d22.0869609!4d82.1374895!16s%2Fg%2F11j8kztqmp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chaturvedi+Dental+clinic/@22.0869609,82.1374895,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7ce16fede1:0x746b19f7cd7361a4!8m2!3d22.0869609!4d82.1374895!16s%2Fg%2F11j8kztqmp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2005,7 +2021,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chaturvedi+Dental+clinic/@22.0869609,82.1374895,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7ce16fede1:0x746b19f7cd7361a4!8m2!3d22.0869609!4d82.1374895!16s%2Fg%2F11j8kztqmp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chhattisgarh-dental-care-bilaspur",
@@ -2053,7 +2070,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Chhattisgarh+Dental+Care/data=!4m7!3m6!1s0x3a280b3032a8f70b:0x30df99f2dd93403d!8m2!3d22.0985114!4d82.1548206!16s%2Fg%2F11h1m0trxr!19sChIJC_eoMjALKDoRPUCT3fKZ3zA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chhattisgarh+Dental+Care/data=!4m7!3m6!1s0x3a280b3032a8f70b:0x30df99f2dd93403d!8m2!3d22.0985114!4d82.1548206!16s%2Fg%2F11h1m0trxr!19sChIJC_eoMjALKDoRPUCT3fKZ3zA?authuser=0&hl=en&rclk=1"
@@ -2119,10 +2136,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chhattisgarh+Dental+Care/data=!4m7!3m6!1s0x3a280b3032a8f70b:0x30df99f2dd93403d!8m2!3d22.0985114!4d82.1548206!16s%2Fg%2F11h1m0trxr!19sChIJC_eoMjALKDoRPUCT3fKZ3zA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chouhan-dental-clinic-bilaspur",
@@ -2170,7 +2188,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Chouhan+Dental+Clinic/@22.077568,82.13986,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bab9f731601:0x9b802db08497c9a9!8m2!3d22.077568!4d82.13986!16s%2Fg%2F11kj97sl9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chouhan+Dental+Clinic/@22.077568,82.13986,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bab9f731601:0x9b802db08497c9a9!8m2!3d22.077568!4d82.13986!16s%2Fg%2F11kj97sl9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2236,10 +2254,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chouhan+Dental+Clinic/@22.077568,82.13986,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bab9f731601:0x9b802db08497c9a9!8m2!3d22.077568!4d82.13986!16s%2Fg%2F11kj97sl9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-dentist-clinic-bilaspur",
@@ -2287,7 +2306,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/CITY+DENTIST+CLINIC/@22.0836205,82.1819584,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b118fffdb07:0x200a611a91c4089e!8m2!3d22.0836205!4d82.1819584!16s%2Fg%2F11v3g9lc3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CITY+DENTIST+CLINIC/@22.0836205,82.1819584,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b118fffdb07:0x200a611a91c4089e!8m2!3d22.0836205!4d82.1819584!16s%2Fg%2F11v3g9lc3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2356,7 +2375,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CITY+DENTIST+CLINIC/@22.0836205,82.1819584,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b118fffdb07:0x200a611a91c4089e!8m2!3d22.0836205!4d82.1819584!16s%2Fg%2F11v3g9lc3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "complete-dental-care-bilaspur",
@@ -2405,7 +2425,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Complete+dental+care/@22.0932323,82.1276399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d3cd7fb1e9b:0xfe88073aec061175!8m2!3d22.0932323!4d82.1276399!16s%2Fg%2F11t14b8w48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Complete+dental+care/@22.0932323,82.1276399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d3cd7fb1e9b:0xfe88073aec061175!8m2!3d22.0932323!4d82.1276399!16s%2Fg%2F11t14b8w48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2471,10 +2491,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Complete+dental+care/@22.0932323,82.1276399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d3cd7fb1e9b:0xfe88073aec061175!8m2!3d22.0932323!4d82.1276399!16s%2Fg%2F11t14b8w48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "daya-heart-clinic-bilaspur",
@@ -2523,7 +2544,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Daya+Heart+Clinic/@22.0880012,82.1813455,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bfa446d8a03:0xb3976254bfd6f64!8m2!3d22.0880012!4d82.1813455!16s%2Fg%2F11mdpf7rkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Daya+Heart+Clinic/@22.0880012,82.1813455,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bfa446d8a03:0xb3976254bfd6f64!8m2!3d22.0880012!4d82.1813455!16s%2Fg%2F11mdpf7rkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2592,7 +2613,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Daya+Heart+Clinic/@22.0880012,82.1813455,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bfa446d8a03:0xb3976254bfd6f64!8m2!3d22.0880012!4d82.1813455!16s%2Fg%2F11mdpf7rkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-clinic-bilaspur",
@@ -2640,7 +2662,7 @@
     "metrics": [
       "Google rating 2.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Clinic/@22.0679869,82.1848707,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ac4f53617a7:0xd17c46df0523d410!8m2!3d22.0679869!4d82.1848707!16s%2Fg%2F11g7_f0drz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Clinic/@22.0679869,82.1848707,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ac4f53617a7:0xd17c46df0523d410!8m2!3d22.0679869!4d82.1848707!16s%2Fg%2F11g7_f0drz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2706,10 +2728,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 2.0,
+    "rating": 2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Clinic/@22.0679869,82.1848707,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ac4f53617a7:0xd17c46df0523d410!8m2!3d22.0679869!4d82.1848707!16s%2Fg%2F11g7_f0drz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "derma-cliniq-bilaspur",
@@ -2757,7 +2780,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Derma+Cliniq/@22.089595,82.1508133,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bcda2c90785:0x96ddd7f70221b6e0!8m2!3d22.089595!4d82.1508133!16s%2Fg%2F11qr9g1f32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Derma+Cliniq/@22.089595,82.1508133,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bcda2c90785:0x96ddd7f70221b6e0!8m2!3d22.089595!4d82.1508133!16s%2Fg%2F11qr9g1f32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2826,7 +2849,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Derma+Cliniq/@22.089595,82.1508133,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bcda2c90785:0x96ddd7f70221b6e0!8m2!3d22.089595!4d82.1508133!16s%2Fg%2F11qr9g1f32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gaurav-hospital-best-cardiology-hospital-in-bilaspur-best-hospital-for-heart-care-bilaspur",
@@ -2876,7 +2900,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gaurav+Hospital+:+Best+Cardiology+Hospital+in+Bilaspur+%7C+Best+Hospital+For+Heart+Care/@22.0952146,82.1285004,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b62ac00ed9f:0xb0a6815528eca92d!8m2!3d22.0952146!4d82.1285004!16s%2Fg%2F11srs378jj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gaurav+Hospital+:+Best+Cardiology+Hospital+in+Bilaspur+%7C+Best+Hospital+For+Heart+Care/@22.0952146,82.1285004,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b62ac00ed9f:0xb0a6815528eca92d!8m2!3d22.0952146!4d82.1285004!16s%2Fg%2F11srs378jj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2945,7 +2969,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gaurav+Hospital+:+Best+Cardiology+Hospital+in+Bilaspur+%7C+Best+Hospital+For+Heart+Care/@22.0952146,82.1285004,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b62ac00ed9f:0xb0a6815528eca92d!8m2!3d22.0952146!4d82.1285004!16s%2Fg%2F11srs378jj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ghosh-dental-clinic-bilaspur",
@@ -2993,7 +3018,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Ghosh+Dental+Clinic/@22.0857018,82.1457402,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3ccd882b31:0x3b0bae968fefb4df!8m2!3d22.0857018!4d82.1457402!16s%2Fg%2F11s2q2pyvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ghosh+Dental+Clinic/@22.0857018,82.1457402,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3ccd882b31:0x3b0bae968fefb4df!8m2!3d22.0857018!4d82.1457402!16s%2Fg%2F11s2q2pyvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3062,7 +3087,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ghosh+Dental+Clinic/@22.0857018,82.1457402,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3ccd882b31:0x3b0bae968fefb4df!8m2!3d22.0857018!4d82.1457402!16s%2Fg%2F11s2q2pyvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goyal-dental-care-bilaspur",
@@ -3111,7 +3137,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Goyal+Dental+Care/@22.0749367,82.1544962,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b9e6b314521:0x5d4f16822cea5cf4!8m2!3d22.0749367!4d82.1544962!16s%2Fg%2F11j1l3ypl6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goyal+Dental+Care/@22.0749367,82.1544962,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b9e6b314521:0x5d4f16822cea5cf4!8m2!3d22.0749367!4d82.1544962!16s%2Fg%2F11j1l3ypl6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3180,7 +3206,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goyal+Dental+Care/@22.0749367,82.1544962,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b9e6b314521:0x5d4f16822cea5cf4!8m2!3d22.0749367!4d82.1544962!16s%2Fg%2F11j1l3ypl6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "grace-dental-care-bilaspur",
@@ -3229,7 +3256,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Grace+Dental+Care/@22.0879931,82.1816983,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280afabc8470f7:0x5441163f09323533!8m2!3d22.0879931!4d82.1816983!16s%2Fg%2F11g8g4qr20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Grace+Dental+Care/@22.0879931,82.1816983,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280afabc8470f7:0x5441163f09323533!8m2!3d22.0879931!4d82.1816983!16s%2Fg%2F11g8g4qr20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3298,7 +3325,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Grace+Dental+Care/@22.0879931,82.1816983,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280afabc8470f7:0x5441163f09323533!8m2!3d22.0879931!4d82.1816983!16s%2Fg%2F11g8g4qr20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gurukripa-dant-chiktsalay-ameri-chowk",
@@ -3346,7 +3374,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gurukripa+Dant+Chiktsalay/@22.0845,82.129344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d0a8ef9087f:0xf7daef807a798bb6!8m2!3d22.0845!4d82.129344!16s%2Fg%2F11t4d_0skv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurukripa+Dant+Chiktsalay/@22.0845,82.129344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d0a8ef9087f:0xf7daef807a798bb6!8m2!3d22.0845!4d82.129344!16s%2Fg%2F11t4d_0skv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3412,10 +3440,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gurukripa+Dant+Chiktsalay/@22.0845,82.129344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d0a8ef9087f:0xf7daef807a798bb6!8m2!3d22.0845!4d82.129344!16s%2Fg%2F11t4d_0skv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gurunanak-dental-clinic-bilaspur",
@@ -3463,7 +3492,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gurunanak+Dental+Clinic/@22.0730025,82.1714299,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6b433731e9:0x9fa6e86d817c63e6!8m2!3d22.0730025!4d82.1714299!16s%2Fg%2F11rfn14tp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gurunanak+Dental+Clinic/@22.0730025,82.1714299,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6b433731e9:0x9fa6e86d817c63e6!8m2!3d22.0730025!4d82.1714299!16s%2Fg%2F11rfn14tp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3529,10 +3558,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gurunanak+Dental+Clinic/@22.0730025,82.1714299,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6b433731e9:0x9fa6e86d817c63e6!8m2!3d22.0730025!4d82.1714299!16s%2Fg%2F11rfn14tp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "healthy-smile-dental-clinic-bilaspur",
@@ -3580,7 +3610,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic/@22.069213,82.1402531,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b06991d1e75:0xc096e98c5dcf1d63!8m2!3d22.069213!4d82.1402531!16s%2Fg%2F11ygjg7lr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic/@22.069213,82.1402531,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b06991d1e75:0xc096e98c5dcf1d63!8m2!3d22.069213!4d82.1402531!16s%2Fg%2F11ygjg7lr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3646,10 +3676,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic/@22.069213,82.1402531,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b06991d1e75:0xc096e98c5dcf1d63!8m2!3d22.069213!4d82.1402531!16s%2Fg%2F11ygjg7lr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hi-tech-dental-clinic-bilaspur",
@@ -3698,7 +3729,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Hi+Tech+Dental+Clinic/@22.0719002,82.1588055,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2874d2a8a875c1:0xc6b9db46ec1df1fd!8m2!3d22.0719002!4d82.1588055!16s%2Fg%2F1yf4rdw91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hi+Tech+Dental+Clinic/@22.0719002,82.1588055,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2874d2a8a875c1:0xc6b9db46ec1df1fd!8m2!3d22.0719002!4d82.1588055!16s%2Fg%2F1yf4rdw91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3767,7 +3798,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hi+Tech+Dental+Clinic/@22.0719002,82.1588055,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2874d2a8a875c1:0xc6b9db46ec1df1fd!8m2!3d22.0719002!4d82.1588055!16s%2Fg%2F1yf4rdw91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "identified-complete-dental-clinic-bilaspur",
@@ -3816,7 +3848,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/identified+COMPLETE+DENTAL+CLINIC/@22.0679374,82.1215191,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dca99f2024b:0xd22f01c7009f8837!8m2!3d22.0679374!4d82.1215191!16s%2Fg%2F11rtz8_hzn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/identified+COMPLETE+DENTAL+CLINIC/@22.0679374,82.1215191,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dca99f2024b:0xd22f01c7009f8837!8m2!3d22.0679374!4d82.1215191!16s%2Fg%2F11rtz8_hzn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3882,10 +3914,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/identified+COMPLETE+DENTAL+CLINIC/@22.0679374,82.1215191,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dca99f2024b:0xd22f01c7009f8837!8m2!3d22.0679374!4d82.1215191!16s%2Fg%2F11rtz8_hzn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "j-k-dental-and-facial-surgery-centre-bilaspur",
@@ -3933,7 +3966,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/J+K+Dental+and+Facial+Surgery+centre/@22.0877139,82.2055678,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7aba878af7:0xf88e6014c99482a5!8m2!3d22.0877139!4d82.2055678!16s%2Fg%2F11kx3h2rlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/J+K+Dental+and+Facial+Surgery+centre/@22.0877139,82.2055678,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7aba878af7:0xf88e6014c99482a5!8m2!3d22.0877139!4d82.2055678!16s%2Fg%2F11kx3h2rlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4002,7 +4035,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/J+K+Dental+and+Facial+Surgery+centre/@22.0877139,82.2055678,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7aba878af7:0xf88e6014c99482a5!8m2!3d22.0877139!4d82.2055678!16s%2Fg%2F11kx3h2rlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jai-dant-chikitsalaya-bilaspur",
@@ -4050,7 +4084,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Jai+Dant+Chikitsalaya/@22.0830382,82.1437274,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b73b5648209:0x69ecf176924f15f6!8m2!3d22.0830382!4d82.1437274!16s%2Fg%2F11k4pr6y3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jai+Dant+Chikitsalaya/@22.0830382,82.1437274,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b73b5648209:0x69ecf176924f15f6!8m2!3d22.0830382!4d82.1437274!16s%2Fg%2F11k4pr6y3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4116,10 +4150,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jai+Dant+Chikitsalaya/@22.0830382,82.1437274,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b73b5648209:0x69ecf176924f15f6!8m2!3d22.0830382!4d82.1437274!16s%2Fg%2F11k4pr6y3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jaiswal-dental-clinic-and-implant-center-bilaspur",
@@ -4167,7 +4202,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/JAISWAL+DENTAL+CLINIC+AND+IMPLANT+CENTER/@22.0690642,82.161474,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3570f9a6a1:0x219523f93d3e55f4!8m2!3d22.0690642!4d82.161474!16s%2Fg%2F11rvk0k5mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JAISWAL+DENTAL+CLINIC+AND+IMPLANT+CENTER/@22.0690642,82.161474,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3570f9a6a1:0x219523f93d3e55f4!8m2!3d22.0690642!4d82.161474!16s%2Fg%2F11rvk0k5mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4236,7 +4271,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JAISWAL+DENTAL+CLINIC+AND+IMPLANT+CENTER/@22.0690642,82.161474,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3570f9a6a1:0x219523f93d3e55f4!8m2!3d22.0690642!4d82.161474!16s%2Fg%2F11rvk0k5mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jn-dental-clinic-bilaspur",
@@ -4285,7 +4321,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/JN+Dental+Clinic/@22.0837569,82.1527138,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b081b5a7cc5:0x370a31daa114e8ca!8m2!3d22.0837569!4d82.1527138!16s%2Fg%2F11dxkvrfp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JN+Dental+Clinic/@22.0837569,82.1527138,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b081b5a7cc5:0x370a31daa114e8ca!8m2!3d22.0837569!4d82.1527138!16s%2Fg%2F11dxkvrfp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4354,7 +4390,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JN+Dental+Clinic/@22.0837569,82.1527138,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b081b5a7cc5:0x370a31daa114e8ca!8m2!3d22.0837569!4d82.1527138!16s%2Fg%2F11dxkvrfp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khatri-dental-care-and-implant-centre-vidya-nagar",
@@ -4402,7 +4439,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Khatri+Dental+Care+and+Implant+Centre/@22.0708186,82.1540095,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bc38d85a1ff:0xfb840255a8b80943!8m2!3d22.0708186!4d82.1540095!16s%2Fg%2F11f760bzbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khatri+Dental+Care+and+Implant+Centre/@22.0708186,82.1540095,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bc38d85a1ff:0xfb840255a8b80943!8m2!3d22.0708186!4d82.1540095!16s%2Fg%2F11f760bzbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4471,7 +4508,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khatri+Dental+Care+and+Implant+Centre/@22.0708186,82.1540095,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bc38d85a1ff:0xfb840255a8b80943!8m2!3d22.0708186!4d82.1540095!16s%2Fg%2F11f760bzbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kids-and-family-dental-care-bilaspur",
@@ -4519,7 +4557,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kids+%26+Family+Dental+Care/@22.0743421,82.135784,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bd7c1c6e76f:0x52b5411f6b13b087!8m2!3d22.0743421!4d82.135784!16s%2Fg%2F11fpqlg5rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kids+%26+Family+Dental+Care/@22.0743421,82.135784,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bd7c1c6e76f:0x52b5411f6b13b087!8m2!3d22.0743421!4d82.135784!16s%2Fg%2F11fpqlg5rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4585,10 +4623,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kids+%26+Family+Dental+Care/@22.0743421,82.135784,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bd7c1c6e76f:0x52b5411f6b13b087!8m2!3d22.0743421!4d82.135784!16s%2Fg%2F11fpqlg5rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kripa-dental-clinic-bilaspur",
@@ -4636,7 +4675,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Kripa+Dental+Clinic/@22.0572137,82.1578173,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b317589a2b1:0xa27e172760e56d79!8m2!3d22.0572137!4d82.1578173!16s%2Fg%2F11f0kwx43t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kripa+Dental+Clinic/@22.0572137,82.1578173,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b317589a2b1:0xa27e172760e56d79!8m2!3d22.0572137!4d82.1578173!16s%2Fg%2F11f0kwx43t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4705,7 +4744,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kripa+Dental+Clinic/@22.0572137,82.1578173,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b317589a2b1:0xa27e172760e56d79!8m2!3d22.0572137!4d82.1578173!16s%2Fg%2F11f0kwx43t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lalchandani-dental-bilaspur",
@@ -4753,7 +4793,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lalchandani+Dental/@22.0687206,82.1763199,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0e5fcff82d:0x5703f24977bf54f1!8m2!3d22.0687206!4d82.1763199!16s%2Fg%2F11j8htfqxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lalchandani+Dental/@22.0687206,82.1763199,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0e5fcff82d:0x5703f24977bf54f1!8m2!3d22.0687206!4d82.1763199!16s%2Fg%2F11j8htfqxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4819,10 +4859,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lalchandani+Dental/@22.0687206,82.1763199,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0e5fcff82d:0x5703f24977bf54f1!8m2!3d22.0687206!4d82.1763199!16s%2Fg%2F11j8htfqxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "laser-care-skin-hair-clinic-bilaspur",
@@ -4871,7 +4912,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Laser+Care+Skin+Hair+Clinic/data=!4m7!3m6!1s0x3a280df3242168ad:0x7edc5575099d98db!8m2!3d22.0887072!4d82.1353756!16s%2Fg%2F11gmsqv01m!19sChIJrWghJPMNKDoR25idCXVV3H4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laser+Care+Skin+Hair+Clinic/data=!4m7!3m6!1s0x3a280df3242168ad:0x7edc5575099d98db!8m2!3d22.0887072!4d82.1353756!16s%2Fg%2F11gmsqv01m!19sChIJrWghJPMNKDoR25idCXVV3H4?authuser=0&hl=en&rclk=1"
@@ -4940,7 +4981,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laser+Care+Skin+Hair+Clinic/data=!4m7!3m6!1s0x3a280df3242168ad:0x7edc5575099d98db!8m2!3d22.0887072!4d82.1353756!16s%2Fg%2F11gmsqv01m!19sChIJrWghJPMNKDoR25idCXVV3H4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "laxmi-dentacare-bilaspur",
@@ -4989,7 +5031,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Laxmi+Dentacare/@22.0854954,82.1326729,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7ce7bdac5b:0xc459d99efca80521!8m2!3d22.0854954!4d82.1326729!16s%2Fg%2F11cnwjhddg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmi+Dentacare/@22.0854954,82.1326729,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7ce7bdac5b:0xc459d99efca80521!8m2!3d22.0854954!4d82.1326729!16s%2Fg%2F11cnwjhddg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5058,7 +5100,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laxmi+Dentacare/@22.0854954,82.1326729,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7ce7bdac5b:0xc459d99efca80521!8m2!3d22.0854954!4d82.1326729!16s%2Fg%2F11cnwjhddg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mahalaxmi-dental-clinic-bilaspur",
@@ -5106,7 +5149,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mahalaxmi+Dental+Clinic/@22.0725402,82.1398568,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b1351c6a2d5:0x86a8e8b938a82a8a!8m2!3d22.0725402!4d82.1398568!16s%2Fg%2F11fl4b7pyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahalaxmi+Dental+Clinic/@22.0725402,82.1398568,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b1351c6a2d5:0x86a8e8b938a82a8a!8m2!3d22.0725402!4d82.1398568!16s%2Fg%2F11fl4b7pyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5172,10 +5215,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahalaxmi+Dental+Clinic/@22.0725402,82.1398568,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b1351c6a2d5:0x86a8e8b938a82a8a!8m2!3d22.0725402!4d82.1398568!16s%2Fg%2F11fl4b7pyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mahamaya-dant-chikitsalaya-bilaspur",
@@ -5223,7 +5267,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/MAHAMAYA+DANT+CHIKITSALAYA/@22.1005108,82.1581875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b97ee76493d:0x8b5edffb0c809f4b!8m2!3d22.1005108!4d82.1581875!16s%2Fg%2F11ww90fqrh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MAHAMAYA+DANT+CHIKITSALAYA/@22.1005108,82.1581875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b97ee76493d:0x8b5edffb0c809f4b!8m2!3d22.1005108!4d82.1581875!16s%2Fg%2F11ww90fqrh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5289,10 +5333,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MAHAMAYA+DANT+CHIKITSALAYA/@22.1005108,82.1581875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b97ee76493d:0x8b5edffb0c809f4b!8m2!3d22.1005108!4d82.1581875!16s%2Fg%2F11ww90fqrh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mahi-dental-clinic-bilaspur",
@@ -5340,7 +5385,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Mahi+Dental+Clinic/@22.0677587,82.1534408,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3b74d59abd:0xd433919971a9637a!8m2!3d22.0677587!4d82.1534408!16s%2Fg%2F11c2k50cyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahi+Dental+Clinic/@22.0677587,82.1534408,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3b74d59abd:0xd433919971a9637a!8m2!3d22.0677587!4d82.1534408!16s%2Fg%2F11c2k50cyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5409,7 +5454,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahi+Dental+Clinic/@22.0677587,82.1534408,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3b74d59abd:0xd433919971a9637a!8m2!3d22.0677587!4d82.1534408!16s%2Fg%2F11c2k50cyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mark-hospital-bilaspur",
@@ -5458,7 +5504,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mark+Hospital/@22.0962627,82.1551287,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0d567d685d:0xb618f755c1f14727!8m2!3d22.0962627!4d82.1551287!16s%2Fg%2F1yg4m153l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mark+Hospital/@22.0962627,82.1551287,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0d567d685d:0xb618f755c1f14727!8m2!3d22.0962627!4d82.1551287!16s%2Fg%2F1yg4m153l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5527,7 +5573,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mark+Hospital/@22.0962627,82.1551287,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0d567d685d:0xb618f755c1f14727!8m2!3d22.0962627!4d82.1551287!16s%2Fg%2F1yg4m153l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "med-skin-clinic-bilaspur",
@@ -5575,7 +5622,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Med-Skin+Clinic/@22.0937383,82.1280263,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b11c1aae423:0xc522672b439d1c17!8m2!3d22.0937383!4d82.1280263!16s%2Fg%2F11pldlkm26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Med-Skin+Clinic/@22.0937383,82.1280263,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b11c1aae423:0xc522672b439d1c17!8m2!3d22.0937383!4d82.1280263!16s%2Fg%2F11pldlkm26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5641,10 +5688,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Med-Skin+Clinic/@22.0937383,82.1280263,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b11c1aae423:0xc522672b439d1c17!8m2!3d22.0937383!4d82.1280263!16s%2Fg%2F11pldlkm26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "meenakshi-dental-clinic-bilaspur",
@@ -5690,7 +5738,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/MEENAKSHI+DENTAL+CLINIC/@22.1036969,82.1649044,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b34ad404129:0x60c4b3a306a92339!8m2!3d22.1036969!4d82.1649044!16s%2Fg%2F11h91qb6w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MEENAKSHI+DENTAL+CLINIC/@22.1036969,82.1649044,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b34ad404129:0x60c4b3a306a92339!8m2!3d22.1036969!4d82.1649044!16s%2Fg%2F11h91qb6w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5756,10 +5804,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MEENAKSHI+DENTAL+CLINIC/@22.1036969,82.1649044,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b34ad404129:0x60c4b3a306a92339!8m2!3d22.1036969!4d82.1649044!16s%2Fg%2F11h91qb6w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mishra-dental-clinic-bilaspur",
@@ -5807,7 +5856,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Mishra+Dental+Clinic/@22.0883578,82.1345725,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7b991e52cb:0xc5de13a1cac02edf!8m2!3d22.0883578!4d82.1345725!16s%2Fg%2F11g6xcf276?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mishra+Dental+Clinic/@22.0883578,82.1345725,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7b991e52cb:0xc5de13a1cac02edf!8m2!3d22.0883578!4d82.1345725!16s%2Fg%2F11g6xcf276?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5876,7 +5925,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mishra+Dental+Clinic/@22.0883578,82.1345725,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7b991e52cb:0xc5de13a1cac02edf!8m2!3d22.0883578!4d82.1345725!16s%2Fg%2F11g6xcf276?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "new-life-heart-care-hospital-shanti-nagar",
@@ -5925,7 +5975,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/New+Life+Heart+Care+Hospital/@22.0881601,82.1246884,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c83b20705f5:0x71f9582b9bebbf1d!8m2!3d22.0881601!4d82.1246884!16s%2Fg%2F1hm3995zk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/New+Life+Heart+Care+Hospital/@22.0881601,82.1246884,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c83b20705f5:0x71f9582b9bebbf1d!8m2!3d22.0881601!4d82.1246884!16s%2Fg%2F1hm3995zk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5994,7 +6044,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/New+Life+Heart+Care+Hospital/@22.0881601,82.1246884,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c83b20705f5:0x71f9582b9bebbf1d!8m2!3d22.0881601!4d82.1246884!16s%2Fg%2F1hm3995zk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oplus-eecp-heart-centre-bilaspur-1-eecp-treatment-in-bilaspur-eecp-therapy-centre-bilaspur",
@@ -6044,7 +6095,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Oplus+EECP+Heart+Centre+Bilaspur+-+%231+EECP+Treatment+in+Bilaspur+%7C+EECP+Therapy+Centre/@22.0801572,82.1402841,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bda1a10e8e5:0x34ad4932efa53ace!8m2!3d22.0801572!4d82.1402841!16s%2Fg%2F11y4mzdym8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oplus+EECP+Heart+Centre+Bilaspur+-+%231+EECP+Treatment+in+Bilaspur+%7C+EECP+Therapy+Centre/@22.0801572,82.1402841,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bda1a10e8e5:0x34ad4932efa53ace!8m2!3d22.0801572!4d82.1402841!16s%2Fg%2F11y4mzdym8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6113,7 +6164,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oplus+EECP+Heart+Centre+Bilaspur+-+%231+EECP+Treatment+in+Bilaspur+%7C+EECP+Therapy+Centre/@22.0801572,82.1402841,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bda1a10e8e5:0x34ad4932efa53ace!8m2!3d22.0801572!4d82.1402841!16s%2Fg%2F11y4mzdym8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oral-care-dental-clinic-bilaspur",
@@ -6161,7 +6213,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oral+Care+Dental+Clinic/@22.06544,82.1812048,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0049ea739b:0xec42e4944e484780!8m2!3d22.06544!4d82.1812048!16s%2Fg%2F11x5d0dvq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oral+Care+Dental+Clinic/@22.06544,82.1812048,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0049ea739b:0xec42e4944e484780!8m2!3d22.06544!4d82.1812048!16s%2Fg%2F11x5d0dvq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6227,10 +6279,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oral+Care+Dental+Clinic/@22.06544,82.1812048,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0049ea739b:0xec42e4944e484780!8m2!3d22.06544!4d82.1812048!16s%2Fg%2F11x5d0dvq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oramax-dental-clinic-mopka",
@@ -6278,7 +6331,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oramax+Dental+clinic/@22.0871937,82.1920352,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bffa9ab17c9:0x647f1f1e2c60a097!8m2!3d22.0871937!4d82.1920352!16s%2Fg%2F11gnpqdj_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oramax+Dental+clinic/@22.0871937,82.1920352,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bffa9ab17c9:0x647f1f1e2c60a097!8m2!3d22.0871937!4d82.1920352!16s%2Fg%2F11gnpqdj_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6344,10 +6397,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oramax+Dental+clinic/@22.0871937,82.1920352,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bffa9ab17c9:0x647f1f1e2c60a097!8m2!3d22.0871937!4d82.1920352!16s%2Fg%2F11gnpqdj_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "panache-dental-and-facial-aesthetic-clinic-bilaspur",
@@ -6395,7 +6449,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Panache+Dental+%26+Facial+Aesthetic+Clinic/@22.0757164,82.1594969,17z/data=!3m1!4b1!4m6!3m5!1s0x460eda66d0d35913:0x1134cd8c3acd9d8f!8m2!3d22.0757164!4d82.1594969!16s%2Fg%2F11tj8s0y28?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Panache+Dental+%26+Facial+Aesthetic+Clinic/@22.0757164,82.1594969,17z/data=!3m1!4b1!4m6!3m5!1s0x460eda66d0d35913:0x1134cd8c3acd9d8f!8m2!3d22.0757164!4d82.1594969!16s%2Fg%2F11tj8s0y28?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6464,7 +6518,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Panache+Dental+%26+Facial+Aesthetic+Clinic/@22.0757164,82.1594969,17z/data=!3m1!4b1!4m6!3m5!1s0x460eda66d0d35913:0x1134cd8c3acd9d8f!8m2!3d22.0757164!4d82.1594969!16s%2Fg%2F11tj8s0y28?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pathak-dental-clinic-bilaspur",
@@ -6512,7 +6567,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Pathak+Dental+Clinic/@22.0992408,82.1458271,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b9e45b9ea73:0x72470ec6e4930863!8m2!3d22.0992408!4d82.1458271!16s%2Fg%2F11fjvvmx7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pathak+Dental+Clinic/@22.0992408,82.1458271,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b9e45b9ea73:0x72470ec6e4930863!8m2!3d22.0992408!4d82.1458271!16s%2Fg%2F11fjvvmx7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6581,7 +6636,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pathak+Dental+Clinic/@22.0992408,82.1458271,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b9e45b9ea73:0x72470ec6e4930863!8m2!3d22.0992408!4d82.1458271!16s%2Fg%2F11fjvvmx7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rai-dental-clinic-bilaspur-bilaspur",
@@ -6630,7 +6686,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rai+Dental+Clinic+Bilaspur/@22.0751447,82.1601902,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b17ee51edbd:0x1911ca59dfa6e242!8m2!3d22.0751447!4d82.1601902!16s%2Fg%2F11bwf7xnsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rai+Dental+Clinic+Bilaspur/@22.0751447,82.1601902,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b17ee51edbd:0x1911ca59dfa6e242!8m2!3d22.0751447!4d82.1601902!16s%2Fg%2F11bwf7xnsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6699,7 +6755,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rai+Dental+Clinic+Bilaspur/@22.0751447,82.1601902,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b17ee51edbd:0x1911ca59dfa6e242!8m2!3d22.0751447!4d82.1601902!16s%2Fg%2F11bwf7xnsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rakshit-dental-clinic-bilaspur",
@@ -6747,7 +6804,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Rakshit+Dental+Clinic/@22.0863209,82.151037,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b89557de03d:0x2b2aa09cecc5f3ba!8m2!3d22.0863209!4d82.151037!16s%2Fg%2F11hzsvdrtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rakshit+Dental+Clinic/@22.0863209,82.151037,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b89557de03d:0x2b2aa09cecc5f3ba!8m2!3d22.0863209!4d82.151037!16s%2Fg%2F11hzsvdrtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6816,7 +6873,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rakshit+Dental+Clinic/@22.0863209,82.151037,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b89557de03d:0x2b2aa09cecc5f3ba!8m2!3d22.0863209!4d82.151037!16s%2Fg%2F11hzsvdrtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saaol-heart-center-bilaspur",
@@ -6866,7 +6924,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Saaol+Heart+Center/@22.0780913,82.1318451,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b00379a0165:0x1b052fc2fc18e4e6!8m2!3d22.0780913!4d82.1318451!16s%2Fg%2F11g4dtsmkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saaol+Heart+Center/@22.0780913,82.1318451,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b00379a0165:0x1b052fc2fc18e4e6!8m2!3d22.0780913!4d82.1318451!16s%2Fg%2F11g4dtsmkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6935,7 +6993,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saaol+Heart+Center/@22.0780913,82.1318451,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b00379a0165:0x1b052fc2fc18e4e6!8m2!3d22.0780913!4d82.1318451!16s%2Fg%2F11g4dtsmkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sai-dental-care-and-implant-centre-bilaspur",
@@ -6983,7 +7042,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Dental+Care+And+Implant+Centre/@22.1009833,82.1476621,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6522ccd74d:0x6dd37c84c0b4674b!8m2!3d22.1009833!4d82.1476621!16s%2Fg%2F11rxzkkg58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Dental+Care+And+Implant+Centre/@22.1009833,82.1476621,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6522ccd74d:0x6dd37c84c0b4674b!8m2!3d22.1009833!4d82.1476621!16s%2Fg%2F11rxzkkg58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7052,7 +7111,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Dental+Care+And+Implant+Centre/@22.1009833,82.1476621,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6522ccd74d:0x6dd37c84c0b4674b!8m2!3d22.1009833!4d82.1476621!16s%2Fg%2F11rxzkkg58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "saluja-skin-clinic-bilaspur",
@@ -7101,7 +7161,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Saluja+Skin+Clinic/@22.0812607,82.1407013,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b371fec2821:0x1269c70d66a9cba3!8m2!3d22.0812607!4d82.1407013!16s%2Fg%2F11kckdqfd8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Saluja+Skin+Clinic/@22.0812607,82.1407013,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b371fec2821:0x1269c70d66a9cba3!8m2!3d22.0812607!4d82.1407013!16s%2Fg%2F11kckdqfd8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7170,7 +7230,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Saluja+Skin+Clinic/@22.0812607,82.1407013,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b371fec2821:0x1269c70d66a9cba3!8m2!3d22.0812607!4d82.1407013!16s%2Fg%2F11kckdqfd8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samriddhi-dental-care-bilaspur",
@@ -7218,7 +7279,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Samriddhi+Dental+Care/@22.0707342,82.1696227,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280babb94c6659:0xc05a981b30e00fbe!8m2!3d22.0707342!4d82.1696227!16s%2Fg%2F11vb_y6khw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samriddhi+Dental+Care/@22.0707342,82.1696227,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280babb94c6659:0xc05a981b30e00fbe!8m2!3d22.0707342!4d82.1696227!16s%2Fg%2F11vb_y6khw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7284,10 +7345,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samriddhi+Dental+Care/@22.0707342,82.1696227,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280babb94c6659:0xc05a981b30e00fbe!8m2!3d22.0707342!4d82.1696227!16s%2Fg%2F11vb_y6khw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sg-dental-clinic-bilaspur",
@@ -7335,7 +7397,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SG+dental+clinic/@22.0609736,82.1588244,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280beb5df0420d:0xcc95a395dffe99b4!8m2!3d22.0609736!4d82.1588244!16s%2Fg%2F11syrfl6z3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SG+dental+clinic/@22.0609736,82.1588244,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280beb5df0420d:0xcc95a395dffe99b4!8m2!3d22.0609736!4d82.1588244!16s%2Fg%2F11syrfl6z3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7404,7 +7466,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SG+dental+clinic/@22.0609736,82.1588244,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280beb5df0420d:0xcc95a395dffe99b4!8m2!3d22.0609736!4d82.1588244!16s%2Fg%2F11syrfl6z3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharda-dental-care-and-implant-bilaspur",
@@ -7453,7 +7516,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sharda+dental+care+and+implant/@22.0656643,82.1531171,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba95c3c5d33:0x70e410ca2328041e!8m2!3d22.0656643!4d82.1531171!16s%2Fg%2F11kn8vx3lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharda+dental+care+and+implant/@22.0656643,82.1531171,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba95c3c5d33:0x70e410ca2328041e!8m2!3d22.0656643!4d82.1531171!16s%2Fg%2F11kn8vx3lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7522,7 +7585,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sharda+dental+care+and+implant/@22.0656643,82.1531171,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba95c3c5d33:0x70e410ca2328041e!8m2!3d22.0656643!4d82.1531171!16s%2Fg%2F11kn8vx3lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sharma-burn-trauma-plastic-surgery-center-bilaspur",
@@ -7571,7 +7635,7 @@
       "Google rating 5.0",
       "23+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Sharma+Burn+Trauma+Plastic+Surgery+Center/@22.088518,82.1246897,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bf901c19147:0xadccd46b52e1e791!8m2!3d22.088518!4d82.1246897!16s%2Fg%2F11fhvfdtcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sharma+Burn+Trauma+Plastic+Surgery+Center/@22.088518,82.1246897,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bf901c19147:0xadccd46b52e1e791!8m2!3d22.088518!4d82.1246897!16s%2Fg%2F11fhvfdtcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7637,10 +7701,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 23,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sharma+Burn+Trauma+Plastic+Surgery+Center/@22.088518,82.1246897,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bf901c19147:0xadccd46b52e1e791!8m2!3d22.088518!4d82.1246897!16s%2Fg%2F11fhvfdtcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shome-dental-clinic-bilaspur",
@@ -7688,7 +7753,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shome+Dental+Clinic/@22.0689599,82.1546545,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b73c474dc89:0x899d7fad31804184!8m2!3d22.0689599!4d82.1546545!16s%2Fg%2F11xw8qcktm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shome+Dental+Clinic/@22.0689599,82.1546545,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b73c474dc89:0x899d7fad31804184!8m2!3d22.0689599!4d82.1546545!16s%2Fg%2F11xw8qcktm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7757,7 +7822,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shome+Dental+Clinic/@22.0689599,82.1546545,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b73c474dc89:0x899d7fad31804184!8m2!3d22.0689599!4d82.1546545!16s%2Fg%2F11xw8qcktm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-dental-clinic-shree-dant-chikitsalaya-near-birkona-mod",
@@ -7805,7 +7871,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC+(Shree+Dant+Chikitsalaya)/@22.1312269,82.1270699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d80a255a625:0x3d068eb30209f477!8m2!3d22.1312269!4d82.1270699!16s%2Fg%2F11rgcdz6_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC+(Shree+Dant+Chikitsalaya)/@22.1312269,82.1270699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d80a255a625:0x3d068eb30209f477!8m2!3d22.1312269!4d82.1270699!16s%2Fg%2F11rgcdz6_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7871,10 +7937,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC+(Shree+Dant+Chikitsalaya)/@22.1312269,82.1270699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d80a255a625:0x3d068eb30209f477!8m2!3d22.1312269!4d82.1270699!16s%2Fg%2F11rgcdz6_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-govind-institute-of-life-care-hospital-best-hospital-in-bilaspur-bilaspur",
@@ -7923,7 +7990,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Govind+Institute+Of+Life+Care+Hospital+-+Best+Hospital+in+Bilaspur./@22.0656871,82.181909,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7c3d368149:0x6aef61b4074c2bd8!8m2!3d22.0656871!4d82.181909!16s%2Fg%2F11sbptt6jg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Govind+Institute+Of+Life+Care+Hospital+-+Best+Hospital+in+Bilaspur./@22.0656871,82.181909,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7c3d368149:0x6aef61b4074c2bd8!8m2!3d22.0656871!4d82.181909!16s%2Fg%2F11sbptt6jg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7992,7 +8059,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Govind+Institute+Of+Life+Care+Hospital+-+Best+Hospital+in+Bilaspur./@22.0656871,82.181909,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7c3d368149:0x6aef61b4074c2bd8!8m2!3d22.0656871!4d82.181909!16s%2Fg%2F11sbptt6jg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-mangla-hospital-bilaspur",
@@ -8041,7 +8109,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Mangla+Hospital/@22.0901145,82.1284649,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dc3de91a9f1:0xb67a4bd19e9d5b94!8m2!3d22.0901145!4d82.1284649!16s%2Fg%2F11s5gvp53v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Mangla+Hospital/@22.0901145,82.1284649,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dc3de91a9f1:0xb67a4bd19e9d5b94!8m2!3d22.0901145!4d82.1284649!16s%2Fg%2F11s5gvp53v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8110,7 +8178,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Mangla+Hospital/@22.0901145,82.1284649,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dc3de91a9f1:0xb67a4bd19e9d5b94!8m2!3d22.0901145!4d82.1284649!16s%2Fg%2F11s5gvp53v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-sainath-dental-clinic-bilaspur",
@@ -8160,7 +8229,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+sainath+dental+clinic/@22.0862232,82.1818498,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b03fdecbdb7:0x8593ae00984ffd5!8m2!3d22.0862232!4d82.1818498!16s%2Fg%2F11q4gyjvxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+sainath+dental+clinic/@22.0862232,82.1818498,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b03fdecbdb7:0x8593ae00984ffd5!8m2!3d22.0862232!4d82.1818498!16s%2Fg%2F11q4gyjvxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8229,7 +8298,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+sainath+dental+clinic/@22.0862232,82.1818498,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b03fdecbdb7:0x8593ae00984ffd5!8m2!3d22.0862232!4d82.1818498!16s%2Fg%2F11q4gyjvxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-shyama-dental-and-face-hospital-bilaspur",
@@ -8278,7 +8348,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+shyama+Dental+%26+Face+hospital/@22.0619927,82.1856263,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bc88daad021:0xd10a518d20950453!8m2!3d22.0619927!4d82.1856263!16s%2Fg%2F11j0289vcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+shyama+Dental+%26+Face+hospital/@22.0619927,82.1856263,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bc88daad021:0xd10a518d20950453!8m2!3d22.0619927!4d82.1856263!16s%2Fg%2F11j0289vcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8344,10 +8414,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+shyama+Dental+%26+Face+hospital/@22.0619927,82.1856263,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bc88daad021:0xd10a518d20950453!8m2!3d22.0619927!4d82.1856263!16s%2Fg%2F11j0289vcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-ram-dental-clinic-tiwari-para",
@@ -8395,7 +8466,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Ram+Dental+Clinic/@22.08074,82.1405041,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b428f0bc003:0xb01d78123e689d6f!8m2!3d22.08074!4d82.1405041!16s%2Fg%2F11hzm266vt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Ram+Dental+Clinic/@22.08074,82.1405041,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b428f0bc003:0xb01d78123e689d6f!8m2!3d22.08074!4d82.1405041!16s%2Fg%2F11hzm266vt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8464,7 +8535,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Ram+Dental+Clinic/@22.08074,82.1405041,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b428f0bc003:0xb01d78123e689d6f!8m2!3d22.08074!4d82.1405041!16s%2Fg%2F11hzm266vt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shriram-dental-care-bilaspur",
@@ -8512,7 +8584,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shriram+Dental+Care/@22.0557258,82.1570942,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b33cfe9a6bf:0x472b7688d1c9ce16!8m2!3d22.0557258!4d82.1570942!16s%2Fg%2F11f3b47c0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shriram+Dental+Care/@22.0557258,82.1570942,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b33cfe9a6bf:0x472b7688d1c9ce16!8m2!3d22.0557258!4d82.1570942!16s%2Fg%2F11f3b47c0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8578,10 +8650,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shriram+Dental+Care/@22.0557258,82.1570942,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b33cfe9a6bf:0x472b7688d1c9ce16!8m2!3d22.0557258!4d82.1570942!16s%2Fg%2F11f3b47c0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skin-world-skin-clinic-bilaspur",
@@ -8630,7 +8703,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Skin+World+Skin+Clinic/@22.0838328,82.1509392,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bb0cec0b3c9:0xd7621286b8e8c6b4!8m2!3d22.0838328!4d82.1509392!16s%2Fg%2F11j8dr06q7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skin+World+Skin+Clinic/@22.0838328,82.1509392,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bb0cec0b3c9:0xd7621286b8e8c6b4!8m2!3d22.0838328!4d82.1509392!16s%2Fg%2F11j8dr06q7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8699,7 +8772,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skin+World+Skin+Clinic/@22.0838328,82.1509392,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bb0cec0b3c9:0xd7621286b8e8c6b4!8m2!3d22.0838328!4d82.1509392!16s%2Fg%2F11j8dr06q7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-dental-clinic-bilaspur",
@@ -8747,7 +8821,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Dental+Clinic/@22.0734318,82.1467347,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b41d5a02c85:0xee16e3e476675f37!8m2!3d22.0734318!4d82.1467347!16s%2Fg%2F11fz6h2h_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Dental+Clinic/@22.0734318,82.1467347,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b41d5a02c85:0xee16e3e476675f37!8m2!3d22.0734318!4d82.1467347!16s%2Fg%2F11fz6h2h_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8813,10 +8887,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Dental+Clinic/@22.0734318,82.1467347,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b41d5a02c85:0xee16e3e476675f37!8m2!3d22.0734318!4d82.1467347!16s%2Fg%2F11fz6h2h_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-dental-clinic-bilaspur",
@@ -8864,7 +8939,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Dental+Clinic/@22.0879969,82.136779,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7a586a5787:0xd25d9a0584cbcbd4!8m2!3d22.0879969!4d82.136779!16s%2Fg%2F11c5ss2zq4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Dental+Clinic/@22.0879969,82.136779,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7a586a5787:0xd25d9a0584cbcbd4!8m2!3d22.0879969!4d82.136779!16s%2Fg%2F11c5ss2zq4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8930,10 +9005,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Dental+Clinic/@22.0879969,82.136779,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7a586a5787:0xd25d9a0584cbcbd4!8m2!3d22.0879969!4d82.136779!16s%2Fg%2F11c5ss2zq4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-zone-dental-bilaspur",
@@ -8981,7 +9057,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Zone+Dental/@22.0677506,82.1478526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b24e5bb391b:0x37552b2529200f77!8m2!3d22.0677506!4d82.1478526!16s%2Fg%2F11qqyk5g32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Zone+Dental/@22.0677506,82.1478526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b24e5bb391b:0x37552b2529200f77!8m2!3d22.0677506!4d82.1478526!16s%2Fg%2F11qqyk5g32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9050,7 +9126,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Zone+Dental/@22.0677506,82.1478526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b24e5bb391b:0x37552b2529200f77!8m2!3d22.0677506!4d82.1478526!16s%2Fg%2F11qqyk5g32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swastik-dental-rootcare-and-implant-centre-bilaspur",
@@ -9098,7 +9175,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Swastik+Dental+RootCare+%26+Implant+Centre/@22.0952726,82.1446807,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b586834ccf1:0xe7bf697b5e544510!8m2!3d22.0952726!4d82.1446807!16s%2Fg%2F11v14mnccn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swastik+Dental+RootCare+%26+Implant+Centre/@22.0952726,82.1446807,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b586834ccf1:0xe7bf697b5e544510!8m2!3d22.0952726!4d82.1446807!16s%2Fg%2F11v14mnccn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9167,7 +9244,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swastik+Dental+RootCare+%26+Implant+Centre/@22.0952726,82.1446807,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b586834ccf1:0xe7bf697b5e544510!8m2!3d22.0952726!4d82.1446807!16s%2Fg%2F11v14mnccn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tripathi-dant-chikitsalaya-and-cbct-center-nabh-accredited-clinic-bilaspur",
@@ -9216,7 +9294,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Tripathi+Dant+Chikitsalaya+%26+CBCT+Center+NABH+ACCREDITED+CLINIC/@22.0895292,82.1263468,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c823d1a5bab:0x99db18e742904f0c!8m2!3d22.0895292!4d82.1263468!16s%2Fg%2F11bc6zlgkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tripathi+Dant+Chikitsalaya+%26+CBCT+Center+NABH+ACCREDITED+CLINIC/@22.0895292,82.1263468,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c823d1a5bab:0x99db18e742904f0c!8m2!3d22.0895292!4d82.1263468!16s%2Fg%2F11bc6zlgkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9285,7 +9363,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tripathi+Dant+Chikitsalaya+%26+CBCT+Center+NABH+ACCREDITED+CLINIC/@22.0895292,82.1263468,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c823d1a5bab:0x99db18e742904f0c!8m2!3d22.0895292!4d82.1263468!16s%2Fg%2F11bc6zlgkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "triveni-institute-of-dental-sciences-hospital-and-research-centre-bodri",
@@ -9335,7 +9414,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Triveni+Institute+of+Dental+Sciences,+Hospital+%26+Research+Centre/@22.0262451,82.1036003,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6f513e426f:0xb84489750a935c2b!8m2!3d22.0262451!4d82.1036003!16s%2Fg%2F1yf_9rrcx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Triveni+Institute+of+Dental+Sciences,+Hospital+%26+Research+Centre/@22.0262451,82.1036003,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6f513e426f:0xb84489750a935c2b!8m2!3d22.0262451!4d82.1036003!16s%2Fg%2F1yf_9rrcx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9404,7 +9483,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Triveni+Institute+of+Dental+Sciences,+Hospital+%26+Research+Centre/@22.0262451,82.1036003,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6f513e426f:0xb84489750a935c2b!8m2!3d22.0262451!4d82.1036003!16s%2Fg%2F1yf_9rrcx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "unity-smile-and-trauma-care-hospital-bilaspur",
@@ -9453,7 +9533,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Unity+Smile+and+Trauma+Care+Hospital/@22.0992805,82.1539676,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bb12c6833db:0x5238ecc9fef3b436!8m2!3d22.0992805!4d82.1539676!16s%2Fg%2F11x6qrpmk4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Unity+Smile+and+Trauma+Care+Hospital/@22.0992805,82.1539676,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bb12c6833db:0x5238ecc9fef3b436!8m2!3d22.0992805!4d82.1539676!16s%2Fg%2F11x6qrpmk4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9519,10 +9599,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Unity+Smile+and+Trauma+Care+Hospital/@22.0992805,82.1539676,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bb12c6833db:0x5238ecc9fef3b436!8m2!3d22.0992805!4d82.1539676!16s%2Fg%2F11x6qrpmk4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "usha-dental-clinic-shanti-nagar",
@@ -9571,7 +9652,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Usha+Dental+Clinic/@22.0913889,82.1263408,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d94a4c53ae3:0xe2304c557701bf81!8m2!3d22.0913889!4d82.1263408!16s%2Fg%2F11smlmsqhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Usha+Dental+Clinic/@22.0913889,82.1263408,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d94a4c53ae3:0xe2304c557701bf81!8m2!3d22.0913889!4d82.1263408!16s%2Fg%2F11smlmsqhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9637,10 +9718,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Usha+Dental+Clinic/@22.0913889,82.1263408,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d94a4c53ae3:0xe2304c557701bf81!8m2!3d22.0913889!4d82.1263408!16s%2Fg%2F11smlmsqhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vandana-dant-chikitsalaya-bilaspur",
@@ -9689,7 +9771,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vandana+Dant+Chikitsalaya/@22.0612623,82.1859059,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280acf1398d2e1:0xc7cc8513d33bc7d8!8m2!3d22.0612623!4d82.1859059!16s%2Fg%2F11c2kc01b8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vandana+Dant+Chikitsalaya/@22.0612623,82.1859059,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280acf1398d2e1:0xc7cc8513d33bc7d8!8m2!3d22.0612623!4d82.1859059!16s%2Fg%2F11c2kc01b8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9758,7 +9840,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vandana+Dant+Chikitsalaya/@22.0612623,82.1859059,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280acf1398d2e1:0xc7cc8513d33bc7d8!8m2!3d22.0612623!4d82.1859059!16s%2Fg%2F11c2kc01b8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vinayak-dental-clinic-main-branch-bilaspur",
@@ -9807,7 +9890,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vinayak+Dental+Clinic+-+Main+Branch/@22.077877,82.1542879,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b650606f4b1:0x959286fab11a314b!8m2!3d22.077877!4d82.1542879!16s%2Fg%2F11b77d68sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vinayak+Dental+Clinic+-+Main+Branch/@22.077877,82.1542879,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b650606f4b1:0x959286fab11a314b!8m2!3d22.077877!4d82.1542879!16s%2Fg%2F11b77d68sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9876,7 +9959,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vinayak+Dental+Clinic+-+Main+Branch/@22.077877,82.1542879,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b650606f4b1:0x959286fab11a314b!8m2!3d22.077877!4d82.1542879!16s%2Fg%2F11b77d68sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vinayak-dental-clinic-head-office-bilaspur",
@@ -9925,7 +10009,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vinayak+Dental+Clinic,+HEAD+OFFICE/@22.0624744,82.1332027,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b5855555557:0xe47aeae006aad6f8!8m2!3d22.0624744!4d82.1332027!16s%2Fg%2F11ggz62l7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vinayak+Dental+Clinic,+HEAD+OFFICE/@22.0624744,82.1332027,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b5855555557:0xe47aeae006aad6f8!8m2!3d22.0624744!4d82.1332027!16s%2Fg%2F11ggz62l7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9994,7 +10078,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vinayak+Dental+Clinic,+HEAD+OFFICE/@22.0624744,82.1332027,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b5855555557:0xe47aeae006aad6f8!8m2!3d22.0624744!4d82.1332027!16s%2Fg%2F11ggz62l7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bilaspur",
@@ -10043,7 +10128,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%90%94%F0%9D%90%8C%F0%9D%90%82%F0%9D%90%82-+%F0%9D%90%94%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9A+%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7+%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9E,+%F0%9D%90%92%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A7+%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D+%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%AB+%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%88%F0%9D%90%A7+%F0%9D%90%81%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%AE%F0%9D%90%AB/@22.0867827,82.137554,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b2d16f968d7:0xf1f9b671c5635412!8m2!3d22.0867827!4d82.137554!16s%2Fg%2F11v0l4pkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%90%94%F0%9D%90%8C%F0%9D%90%82%F0%9D%90%82-+%F0%9D%90%94%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9A+%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7+%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9E,+%F0%9D%90%92%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A7+%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D+%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%AB+%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%88%F0%9D%90%A7+%F0%9D%90%81%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%AE%F0%9D%90%AB/@22.0867827,82.137554,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b2d16f968d7:0xf1f9b671c5635412!8m2!3d22.0867827!4d82.137554!16s%2Fg%2F11v0l4pkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -10109,9 +10194,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%90%94%F0%9D%90%8C%F0%9D%90%82%F0%9D%90%82-+%F0%9D%90%94%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9A+%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7+%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9E,+%F0%9D%90%92%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A7+%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D+%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%AB+%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%88%F0%9D%90%A7+%F0%9D%90%81%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%AE%F0%9D%90%AB/@22.0867827,82.137554,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b2d16f968d7:0xf1f9b671c5635412!8m2!3d22.0867827!4d82.137554!16s%2Fg%2F11v0l4pkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

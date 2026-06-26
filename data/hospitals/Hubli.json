@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Akshay+Dental+Care/@15.3605954,75.1105652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d729a8f60b79:0xa97e83c0c75f1340!8m2!3d15.3605954!4d75.1105652!16s%2Fg%2F11b_00d9_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akshay+Dental+Care/@15.3605954,75.1105652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d729a8f60b79:0xa97e83c0c75f1340!8m2!3d15.3605954!4d75.1105652!16s%2Fg%2F11b_00d9_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Akshay+Dental+Care/@15.3605954,75.1105652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d729a8f60b79:0xa97e83c0c75f1340!8m2!3d15.3605954!4d75.1105652!16s%2Fg%2F11b_00d9_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "alfa-medical-center-hubballi",
@@ -163,7 +164,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Alfa+Medical+Center/data=!4m7!3m6!1s0x3bb8d7147f759437:0x95cc48e65c3dab8a!8m2!3d15.341296!4d75.128081!16s%2Fg%2F1pyqfj03v!19sChIJN5R1fxTXuDsRiqs9XOZIzJU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alfa+Medical+Center/data=!4m7!3m6!1s0x3bb8d7147f759437:0x95cc48e65c3dab8a!8m2!3d15.341296!4d75.128081!16s%2Fg%2F1pyqfj03v!19sChIJN5R1fxTXuDsRiqs9XOZIzJU?authuser=0&hl=en&rclk=1"
@@ -232,7 +233,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Alfa+Medical+Center/data=!4m7!3m6!1s0x3bb8d7147f759437:0x95cc48e65c3dab8a!8m2!3d15.341296!4d75.128081!16s%2Fg%2F1pyqfj03v!19sChIJN5R1fxTXuDsRiqs9XOZIzJU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "anjuman-e-islam-hospital-hubballi",
@@ -280,7 +282,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Anjuman-E-Islam+Hospital/@15.3482207,75.1451232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d76787754a31:0x6bfffc2331204304!8m2!3d15.3482207!4d75.1451232!16s%2Fg%2F1tctk6yw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anjuman-E-Islam+Hospital/@15.3482207,75.1451232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d76787754a31:0x6bfffc2331204304!8m2!3d15.3482207!4d75.1451232!16s%2Fg%2F1tctk6yw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -349,7 +351,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anjuman-E-Islam+Hospital/@15.3482207,75.1451232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d76787754a31:0x6bfffc2331204304!8m2!3d15.3482207!4d75.1451232!16s%2Fg%2F1tctk6yw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apex-dental-clinic-and-implant-center-hubballi",
@@ -397,7 +400,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Apex+dental+clinic+and+implant+center/@15.363364,75.1490687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d719691f3c1b:0xf2f87fc7ad58c89a!8m2!3d15.363364!4d75.1490687!16s%2Fg%2F11gy743mdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+dental+clinic+and+implant+center/@15.363364,75.1490687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d719691f3c1b:0xf2f87fc7ad58c89a!8m2!3d15.363364!4d75.1490687!16s%2Fg%2F11gy743mdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -466,7 +469,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+dental+clinic+and+implant+center/@15.363364,75.1490687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d719691f3c1b:0xf2f87fc7ad58c89a!8m2!3d15.363364!4d75.1490687!16s%2Fg%2F11gy743mdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arivu-health-care-polyclinic-hubballi",
@@ -515,7 +519,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Arivu+health+care+polyclinic/@15.363233,75.127018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73697eb71c3:0x7899a08266076f1b!8m2!3d15.363233!4d75.127018!16s%2Fg%2F11c2kgl0pb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arivu+health+care+polyclinic/@15.363233,75.127018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73697eb71c3:0x7899a08266076f1b!8m2!3d15.363233!4d75.127018!16s%2Fg%2F11c2kgl0pb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -581,10 +585,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arivu+health+care+polyclinic/@15.363233,75.127018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73697eb71c3:0x7899a08266076f1b!8m2!3d15.363233!4d75.127018!16s%2Fg%2F11c2kgl0pb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayushman-speciality-clinic-hubballi",
@@ -634,7 +639,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ayushman+Speciality+Clinic/@15.3533695,75.1395655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7f596d321f9:0x456daeb2989521c4!8m2!3d15.3533695!4d75.1395655!16s%2Fg%2F11tk1zrb0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayushman+Speciality+Clinic/@15.3533695,75.1395655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7f596d321f9:0x456daeb2989521c4!8m2!3d15.3533695!4d75.1395655!16s%2Fg%2F11tk1zrb0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -703,7 +708,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayushman+Speciality+Clinic/@15.3533695,75.1395655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7f596d321f9:0x456daeb2989521c4!8m2!3d15.3533695!4d75.1395655!16s%2Fg%2F11tk1zrb0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "balaji-hospitals-hubballi",
@@ -752,7 +758,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Balaji+Hospitals/@15.3566575,75.126056,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d738471c89a3:0xfe06f825896f3654!8m2!3d15.3566575!4d75.126056!16s%2Fg%2F12hpp3r27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Balaji+Hospitals/@15.3566575,75.126056,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d738471c89a3:0xfe06f825896f3654!8m2!3d15.3566575!4d75.126056!16s%2Fg%2F12hpp3r27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -821,7 +827,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Balaji+Hospitals/@15.3566575,75.126056,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d738471c89a3:0xfe06f825896f3654!8m2!3d15.3566575!4d75.126056!16s%2Fg%2F12hpp3r27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bethel-dental-clinic-hubballi",
@@ -870,7 +877,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/BETHEL+DENTAL+CLINIC/@15.3490812,75.1370569,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7418a7e45c5:0x87712edeebe03729!8m2!3d15.3490812!4d75.1370569!16s%2Fg%2F11krpspjky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BETHEL+DENTAL+CLINIC/@15.3490812,75.1370569,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7418a7e45c5:0x87712edeebe03729!8m2!3d15.3490812!4d75.1370569!16s%2Fg%2F11krpspjky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -936,10 +943,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BETHEL+DENTAL+CLINIC/@15.3490812,75.1370569,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7418a7e45c5:0x87712edeebe03729!8m2!3d15.3490812!4d75.1370569!16s%2Fg%2F11krpspjky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhat-dental-care-centre-hubballi",
@@ -988,7 +996,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhat+Dental+Care+Centre/@15.3589879,75.1465457,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75a7a82075b:0xbd07998670d7f728!8m2!3d15.3589879!4d75.1465457!16s%2Fg%2F11bzzpt640?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhat+Dental+Care+Centre/@15.3589879,75.1465457,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75a7a82075b:0xbd07998670d7f728!8m2!3d15.3589879!4d75.1465457!16s%2Fg%2F11bzzpt640?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1057,7 +1065,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhat+Dental+Care+Centre/@15.3589879,75.1465457,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75a7a82075b:0xbd07998670d7f728!8m2!3d15.3589879!4d75.1465457!16s%2Fg%2F11bzzpt640?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chirayu-clinic-hubballi",
@@ -1105,7 +1114,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Chirayu+Clinic/@15.3233566,75.1243107,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d1a277158e9b:0x5b5b49bbe509cf59!8m2!3d15.3233566!4d75.1243107!16s%2Fg%2F11tsm4zbdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chirayu+Clinic/@15.3233566,75.1243107,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d1a277158e9b:0x5b5b49bbe509cf59!8m2!3d15.3233566!4d75.1243107!16s%2Fg%2F11tsm4zbdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1171,10 +1180,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chirayu+Clinic/@15.3233566,75.1243107,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d1a277158e9b:0x5b5b49bbe509cf59!8m2!3d15.3233566!4d75.1243107!16s%2Fg%2F11tsm4zbdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-clinic-hubballi",
@@ -1223,7 +1233,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/City+Clinic/@15.3492811,75.1398725,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7425dd7773d:0x6d7b602f83bef4bd!8m2!3d15.3492811!4d75.1398725!16s%2Fg%2F11s4z39sd1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Clinic/@15.3492811,75.1398725,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7425dd7773d:0x6d7b602f83bef4bd!8m2!3d15.3492811!4d75.1398725!16s%2Fg%2F11s4z39sd1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1292,7 +1302,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Clinic/@15.3492811,75.1398725,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7425dd7773d:0x6d7b602f83bef4bd!8m2!3d15.3492811!4d75.1398725!16s%2Fg%2F11s4z39sd1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deeksha-dental-care-hubballi",
@@ -1340,7 +1351,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Deeksha+Dental+Care/@15.351839,75.1428947,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74e364103e7:0x961ac01a36b97f2f!8m2!3d15.351839!4d75.1428947!16s%2Fg%2F11sq_b_vqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deeksha+Dental+Care/@15.351839,75.1428947,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74e364103e7:0x961ac01a36b97f2f!8m2!3d15.351839!4d75.1428947!16s%2Fg%2F11sq_b_vqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1406,10 +1417,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deeksha+Dental+Care/@15.351839,75.1428947,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74e364103e7:0x961ac01a36b97f2f!8m2!3d15.351839!4d75.1428947!16s%2Fg%2F11sq_b_vqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deenar-dental-clinic-and-implant-centre-hubballi",
@@ -1457,7 +1469,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Deenar+Dental+Clinic+and+implant+centre/@15.3433563,75.1444057,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xb172c490fa4959c8!8m2!3d15.3433563!4d75.1444057!16s%2Fg%2F11f4pqyljg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deenar+Dental+Clinic+and+implant+centre/@15.3433563,75.1444057,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xb172c490fa4959c8!8m2!3d15.3433563!4d75.1444057!16s%2Fg%2F11f4pqyljg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1526,7 +1538,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deenar+Dental+Clinic+and+implant+centre/@15.3433563,75.1444057,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xb172c490fa4959c8!8m2!3d15.3433563!4d75.1444057!16s%2Fg%2F11f4pqyljg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-district-hubballi",
@@ -1574,7 +1587,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Dental+District/@15.3628907,75.1199786,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7cff9e14a75:0xd459a4ae77fe4cb3!8m2!3d15.3628907!4d75.1199786!16s%2Fg%2F11pwz8n4nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+District/@15.3628907,75.1199786,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7cff9e14a75:0xd459a4ae77fe4cb3!8m2!3d15.3628907!4d75.1199786!16s%2Fg%2F11pwz8n4nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1643,7 +1656,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+District/@15.3628907,75.1199786,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7cff9e14a75:0xd459a4ae77fe4cb3!8m2!3d15.3628907!4d75.1199786!16s%2Fg%2F11pwz8n4nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dev-clinic-hubballi",
@@ -1692,7 +1706,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dev+clinic/@15.363005,75.1269262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7348dfb6941:0xb7f8d07c42207a84!8m2!3d15.363005!4d75.1269262!16s%2Fg%2F11k5804t3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dev+clinic/@15.363005,75.1269262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7348dfb6941:0xb7f8d07c42207a84!8m2!3d15.363005!4d75.1269262!16s%2Fg%2F11k5804t3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1758,10 +1772,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dev+clinic/@15.363005,75.1269262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7348dfb6941:0xb7f8d07c42207a84!8m2!3d15.363005!4d75.1269262!16s%2Fg%2F11k5804t3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhotrad-health-and-maternity-hospital-hubballi",
@@ -1809,7 +1824,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Dhotrad+Health+and+Maternity+Hospital/@15.3523297,75.1031399,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d6d941e4de41:0x9678f3e3fe001016!8m2!3d15.3523297!4d75.1031399!16s%2Fg%2F11cmvn2f2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhotrad+Health+and+Maternity+Hospital/@15.3523297,75.1031399,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d6d941e4de41:0x9678f3e3fe001016!8m2!3d15.3523297!4d75.1031399!16s%2Fg%2F11cmvn2f2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1878,7 +1893,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhotrad+Health+and+Maternity+Hospital/@15.3523297,75.1031399,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d6d941e4de41:0x9678f3e3fe001016!8m2!3d15.3523297!4d75.1031399!16s%2Fg%2F11cmvn2f2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhotrad-s-sunny-dental-and-orthodontic-clinic-invisalign-aligners-and-braces-hubballi",
@@ -1928,7 +1944,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dhotrad's+Sunny+Dental+and+Orthodontic+Clinic+%7C+Invisalign+Aligners+and+Braces/@15.3524025,75.1031171,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d6b93aaaaaab:0xb3a404aa08d22f65!8m2!3d15.3524025!4d75.1031171!16s%2Fg%2F11c4wc77l9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhotrad's+Sunny+Dental+and+Orthodontic+Clinic+%7C+Invisalign+Aligners+and+Braces/@15.3524025,75.1031171,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d6b93aaaaaab:0xb3a404aa08d22f65!8m2!3d15.3524025!4d75.1031171!16s%2Fg%2F11c4wc77l9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1997,7 +2013,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhotrad's+Sunny+Dental+and+Orthodontic+Clinic+%7C+Invisalign+Aligners+and+Braces/@15.3524025,75.1031171,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d6b93aaaaaab:0xb3a404aa08d22f65!8m2!3d15.3524025!4d75.1031171!16s%2Fg%2F11c4wc77l9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhotrad-s-sunny-dental-clinic-hubballi",
@@ -2046,7 +2063,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dhotrad's+Sunny+Dental+Clinic/@15.3685167,75.1128487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d72b699d55a5:0x935b548887271ab8!8m2!3d15.3685167!4d75.1128487!16s%2Fg%2F11bzr70n17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhotrad's+Sunny+Dental+Clinic/@15.3685167,75.1128487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d72b699d55a5:0x935b548887271ab8!8m2!3d15.3685167!4d75.1128487!16s%2Fg%2F11bzr70n17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2112,10 +2129,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhotrad's+Sunny+Dental+Clinic/@15.3685167,75.1128487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d72b699d55a5:0x935b548887271ab8!8m2!3d15.3685167!4d75.1128487!16s%2Fg%2F11bzr70n17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eyesiri-m-m-joshi-eye-institute-hubballi",
@@ -2164,7 +2182,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/EyeSiri+-+M.+M.+Joshi+Eye+Institute/@15.3532148,75.1275262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ada2186227:0x28ad2633a1155173!8m2!3d15.3532148!4d75.1275262!16s%2Fg%2F11vqzqbq0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/EyeSiri+-+M.+M.+Joshi+Eye+Institute/@15.3532148,75.1275262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ada2186227:0x28ad2633a1155173!8m2!3d15.3532148!4d75.1275262!16s%2Fg%2F11vqzqbq0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2233,7 +2251,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/EyeSiri+-+M.+M.+Joshi+Eye+Institute/@15.3532148,75.1275262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ada2186227:0x28ad2633a1155173!8m2!3d15.3532148!4d75.1275262!16s%2Fg%2F11vqzqbq0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "g-square-clinic-skin-hair-and-plastic-surgery-hubballi",
@@ -2282,7 +2301,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/G+Square+Clinic+Skin,+Hair+and+Plastic+Surgery/@15.3565758,75.1250681,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7171d17291d:0x309aa5599c80c58c!8m2!3d15.3565758!4d75.1250681!16s%2Fg%2F11k9mmtj2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/G+Square+Clinic+Skin,+Hair+and+Plastic+Surgery/@15.3565758,75.1250681,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7171d17291d:0x309aa5599c80c58c!8m2!3d15.3565758!4d75.1250681!16s%2Fg%2F11k9mmtj2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2351,7 +2370,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/G+Square+Clinic+Skin,+Hair+and+Plastic+Surgery/@15.3565758,75.1250681,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7171d17291d:0x309aa5599c80c58c!8m2!3d15.3565758!4d75.1250681!16s%2Fg%2F11k9mmtj2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gums-and-teeth-dental-clinic-hubballi",
@@ -2400,7 +2420,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Gums+And+Teeth+Dental+Clinic/@15.3531222,75.1393058,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7418eea861d:0x2d78e191bab0152d!8m2!3d15.3531222!4d75.1393058!16s%2Fg%2F11g03r2kk9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gums+And+Teeth+Dental+Clinic/@15.3531222,75.1393058,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7418eea861d:0x2d78e191bab0152d!8m2!3d15.3531222!4d75.1393058!16s%2Fg%2F11g03r2kk9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2466,10 +2486,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gums+And+Teeth+Dental+Clinic/@15.3531222,75.1393058,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7418eea861d:0x2d78e191bab0152d!8m2!3d15.3531222!4d75.1393058!16s%2Fg%2F11g03r2kk9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hamsa-healthcare-hubballi",
@@ -2518,7 +2539,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hamsa+Healthcare/@15.3664656,75.1128396,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70005b9444b:0x93c39992a5d70ccd!8m2!3d15.3664656!4d75.1128396!16s%2Fg%2F11vqs7ptyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hamsa+Healthcare/@15.3664656,75.1128396,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70005b9444b:0x93c39992a5d70ccd!8m2!3d15.3664656!4d75.1128396!16s%2Fg%2F11vqs7ptyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2584,10 +2605,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hamsa+Healthcare/@15.3664656,75.1128396,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70005b9444b:0x93c39992a5d70ccd!8m2!3d15.3664656!4d75.1128396!16s%2Fg%2F11vqs7ptyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "happy-dentz-dental-clinic-hubballi",
@@ -2636,7 +2658,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Happy+Dentz+Dental+Clinic/@15.3376475,75.1155205,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75c3fd7895f:0xd20e5c3ce67d9069!8m2!3d15.3376475!4d75.1155205!16s%2Fg%2F11m6mkwlt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Happy+Dentz+Dental+Clinic/@15.3376475,75.1155205,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75c3fd7895f:0xd20e5c3ce67d9069!8m2!3d15.3376475!4d75.1155205!16s%2Fg%2F11m6mkwlt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2702,10 +2724,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Happy+Dentz+Dental+Clinic/@15.3376475,75.1155205,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75c3fd7895f:0xd20e5c3ce67d9069!8m2!3d15.3376475!4d75.1155205!16s%2Fg%2F11m6mkwlt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hcg-nmr-cancer-hospital-hubli-hubballi",
@@ -2755,7 +2778,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/HCG+NMR+Cancer+Hospital+Hubli/@15.3540542,75.1389776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7440fb4ba31:0x1f0f77c68cfe4fc0!8m2!3d15.3540542!4d75.1389776!16s%2Fg%2F11ddzcldnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HCG+NMR+Cancer+Hospital+Hubli/@15.3540542,75.1389776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7440fb4ba31:0x1f0f77c68cfe4fc0!8m2!3d15.3540542!4d75.1389776!16s%2Fg%2F11ddzcldnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2824,7 +2847,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HCG+NMR+Cancer+Hospital+Hubli/@15.3540542,75.1389776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7440fb4ba31:0x1f0f77c68cfe4fc0!8m2!3d15.3540542!4d75.1389776!16s%2Fg%2F11ddzcldnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "heart-clinic-hubballi",
@@ -2874,7 +2898,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Heart+Clinic/@15.3615989,75.1499397,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7573c2824d3:0xc5848283bbfd76a!8m2!3d15.3615989!4d75.1499397!16s%2Fg%2F11c48xgdyp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heart+Clinic/@15.3615989,75.1499397,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7573c2824d3:0xc5848283bbfd76a!8m2!3d15.3615989!4d75.1499397!16s%2Fg%2F11c48xgdyp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2940,10 +2964,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Heart+Clinic/@15.3615989,75.1499397,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7573c2824d3:0xc5848283bbfd76a!8m2!3d15.3615989!4d75.1499397!16s%2Fg%2F11c48xgdyp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hema-dental-hubballi",
@@ -2991,7 +3016,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Hema+Dental/@15.3636302,75.1492881,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d756c8aeb6e7:0x23465dfc9b039292!8m2!3d15.3636302!4d75.1492881!16s%2Fg%2F11bzwp7njy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hema+Dental/@15.3636302,75.1492881,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d756c8aeb6e7:0x23465dfc9b039292!8m2!3d15.3636302!4d75.1492881!16s%2Fg%2F11bzwp7njy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3060,7 +3085,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hema+Dental/@15.3636302,75.1492881,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d756c8aeb6e7:0x23465dfc9b039292!8m2!3d15.3636302!4d75.1492881!16s%2Fg%2F11bzwp7njy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hoskatti-medical-center-hubballi",
@@ -3108,7 +3134,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Hoskatti+Medical+center/@15.3495136,75.1243258,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73f77791fbf:0x108ae18706b97c1e!8m2!3d15.3495136!4d75.1243258!16s%2Fg%2F1hhwc8pb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hoskatti+Medical+center/@15.3495136,75.1243258,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73f77791fbf:0x108ae18706b97c1e!8m2!3d15.3495136!4d75.1243258!16s%2Fg%2F1hhwc8pb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3177,7 +3203,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hoskatti+Medical+center/@15.3495136,75.1243258,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73f77791fbf:0x108ae18706b97c1e!8m2!3d15.3495136!4d75.1243258!16s%2Fg%2F1hhwc8pb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hubli-dental-care-hubballi",
@@ -3225,7 +3252,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Hubli+Dental+Care/@15.3497732,75.1415104,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e23e0e4141:0x778fb19baeb78fae!8m2!3d15.3497732!4d75.1415104!16s%2Fg%2F11rvdjqvrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hubli+Dental+Care/@15.3497732,75.1415104,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e23e0e4141:0x778fb19baeb78fae!8m2!3d15.3497732!4d75.1415104!16s%2Fg%2F11rvdjqvrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3294,7 +3321,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hubli+Dental+Care/@15.3497732,75.1415104,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e23e0e4141:0x778fb19baeb78fae!8m2!3d15.3497732!4d75.1415104!16s%2Fg%2F11rvdjqvrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hubli-dental-clinics-hubballi",
@@ -3342,7 +3370,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Hubli+Dental+Clinics/@15.3523166,75.1032563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d798916543ff:0x5f17b05fa0096f49!8m2!3d15.3523166!4d75.1032563!16s%2Fg%2F11ghnqhc4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hubli+Dental+Clinics/@15.3523166,75.1032563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d798916543ff:0x5f17b05fa0096f49!8m2!3d15.3523166!4d75.1032563!16s%2Fg%2F11ghnqhc4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3411,7 +3439,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hubli+Dental+Clinics/@15.3523166,75.1032563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d798916543ff:0x5f17b05fa0096f49!8m2!3d15.3523166!4d75.1032563!16s%2Fg%2F11ghnqhc4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "inspire-clinic-center-for-ent-and-respiratory-diseases-hubli-hubballi",
@@ -3460,7 +3489,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Inspire+Clinic+,+Center+for+ENT+%26+Respiratory+Diseases,+Hubli/@15.3567985,75.1253079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d726378710c9:0x7105bc2155fee3a7!8m2!3d15.3567985!4d75.1253079!16s%2Fg%2F11wj3tgvj1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Inspire+Clinic+,+Center+for+ENT+%26+Respiratory+Diseases,+Hubli/@15.3567985,75.1253079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d726378710c9:0x7105bc2155fee3a7!8m2!3d15.3567985!4d75.1253079!16s%2Fg%2F11wj3tgvj1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3526,10 +3555,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Inspire+Clinic+,+Center+for+ENT+%26+Respiratory+Diseases,+Hubli/@15.3567985,75.1253079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d726378710c9:0x7105bc2155fee3a7!8m2!3d15.3567985!4d75.1253079!16s%2Fg%2F11wj3tgvj1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "institute-of-laparoscopy-and-gastroenterology-hubballi",
@@ -3580,7 +3610,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Institute+of+Laparoscopy+and+Gastroenterology/@15.3531671,75.142347,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e6bc66115d:0x5cf4a54a08726b20!8m2!3d15.3531671!4d75.142347!16s%2Fg%2F11j3s612p1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Institute+of+Laparoscopy+and+Gastroenterology/@15.3531671,75.142347,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e6bc66115d:0x5cf4a54a08726b20!8m2!3d15.3531671!4d75.142347!16s%2Fg%2F11j3s612p1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3649,7 +3679,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Institute+of+Laparoscopy+and+Gastroenterology/@15.3531671,75.142347,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e6bc66115d:0x5cf4a54a08726b20!8m2!3d15.3531671!4d75.142347!16s%2Fg%2F11j3s612p1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jashank-dental-clinic-and-implant-center-hubballi",
@@ -3698,7 +3729,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jashank+Dental+Clinic+and+Implant+Center/@15.3643809,75.1146337,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d748a926c35b:0x197760fb6ae1cfb0!8m2!3d15.3643809!4d75.1146337!16s%2Fg%2F11rqgfkrdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jashank+Dental+Clinic+and+Implant+Center/@15.3643809,75.1146337,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d748a926c35b:0x197760fb6ae1cfb0!8m2!3d15.3643809!4d75.1146337!16s%2Fg%2F11rqgfkrdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3764,10 +3795,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jashank+Dental+Clinic+and+Implant+Center/@15.3643809,75.1146337,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d748a926c35b:0x197760fb6ae1cfb0!8m2!3d15.3643809!4d75.1146337!16s%2Fg%2F11rqgfkrdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jayade-s-dental-world-hubballi",
@@ -3816,7 +3848,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jayade%E2%80%99s+Dental+World/@15.3470671,75.1423387,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d752af878bc5:0xd72bf56689221eab!8m2!3d15.3470671!4d75.1423387!16s%2Fg%2F11k6y393x2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jayade%E2%80%99s+Dental+World/@15.3470671,75.1423387,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d752af878bc5:0xd72bf56689221eab!8m2!3d15.3470671!4d75.1423387!16s%2Fg%2F11k6y393x2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3885,7 +3917,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jayade%E2%80%99s+Dental+World/@15.3470671,75.1423387,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d752af878bc5:0xd72bf56689221eab!8m2!3d15.3470671!4d75.1423387!16s%2Fg%2F11k6y393x2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jayapriya-hospital-hubballi",
@@ -3934,7 +3967,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jayapriya+Hospital/@15.3611345,75.1353943,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d748dd753ad9:0xbd43e3ed6e9b6844!8m2!3d15.3611345!4d75.1353943!16s%2Fg%2F11x9v_bfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jayapriya+Hospital/@15.3611345,75.1353943,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d748dd753ad9:0xbd43e3ed6e9b6844!8m2!3d15.3611345!4d75.1353943!16s%2Fg%2F11x9v_bfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4003,7 +4036,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jayapriya+Hospital/@15.3611345,75.1353943,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d748dd753ad9:0xbd43e3ed6e9b6844!8m2!3d15.3611345!4d75.1353943!16s%2Fg%2F11x9v_bfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevannavar-skin-care-clinic-hubballi",
@@ -4052,7 +4086,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/JEEVANNAVAR+SKIN+CARE+CLINIC/@15.3567105,75.1374267,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ec1c844189:0xc9349518c20e271a!8m2!3d15.3567105!4d75.1374267!16s%2Fg%2F11g10gnxcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JEEVANNAVAR+SKIN+CARE+CLINIC/@15.3567105,75.1374267,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ec1c844189:0xc9349518c20e271a!8m2!3d15.3567105!4d75.1374267!16s%2Fg%2F11g10gnxcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4121,7 +4155,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JEEVANNAVAR+SKIN+CARE+CLINIC/@15.3567105,75.1374267,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ec1c844189:0xc9349518c20e271a!8m2!3d15.3567105!4d75.1374267!16s%2Fg%2F11g10gnxcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jituri-s-infinity-dental-care-hubballi",
@@ -4169,7 +4204,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Jituri's+INFINITY+DENTAL+CARE/@15.3534964,75.1409121,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74361bf36d7:0xc8917d28f5ff954a!8m2!3d15.3534964!4d75.1409121!16s%2Fg%2F11fy5784lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jituri's+INFINITY+DENTAL+CARE/@15.3534964,75.1409121,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74361bf36d7:0xc8917d28f5ff954a!8m2!3d15.3534964!4d75.1409121!16s%2Fg%2F11fy5784lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4235,10 +4270,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jituri's+INFINITY+DENTAL+CARE/@15.3534964,75.1409121,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74361bf36d7:0xc8917d28f5ff954a!8m2!3d15.3534964!4d75.1409121!16s%2Fg%2F11fy5784lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "joshi-s-dental-hubballi",
@@ -4287,7 +4323,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Joshi%E2%80%99s+dental/@15.3537695,75.1420334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744a7b5011f:0xf3bed25fbd6281e!8m2!3d15.3537695!4d75.1420334!16s%2Fg%2F11c0x8g37z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Joshi%E2%80%99s+dental/@15.3537695,75.1420334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744a7b5011f:0xf3bed25fbd6281e!8m2!3d15.3537695!4d75.1420334!16s%2Fg%2F11c0x8g37z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4356,7 +4392,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Joshi%E2%80%99s+dental/@15.3537695,75.1420334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744a7b5011f:0xf3bed25fbd6281e!8m2!3d15.3537695!4d75.1420334!16s%2Fg%2F11c0x8g37z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalghatgi-hospital-hubballi",
@@ -4404,7 +4441,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Kalghatgi+Hospital/@15.3531448,75.1422898,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74346ead7ef:0x56851cc702a6959f!8m2!3d15.3531448!4d75.1422898!16s%2Fg%2F1tzvt_h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalghatgi+Hospital/@15.3531448,75.1422898,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74346ead7ef:0x56851cc702a6959f!8m2!3d15.3531448!4d75.1422898!16s%2Fg%2F1tzvt_h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4473,7 +4510,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalghatgi+Hospital/@15.3531448,75.1422898,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74346ead7ef:0x56851cc702a6959f!8m2!3d15.3531448!4d75.1422898!16s%2Fg%2F1tzvt_h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kareem-hospital-hubballi",
@@ -4521,7 +4559,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kareem+Hospital/@15.3372671,75.1298716,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d77300000001:0xe769f72b19cc45f7!8m2!3d15.3372671!4d75.1298716!16s%2Fg%2F1tdjplmw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kareem+Hospital/@15.3372671,75.1298716,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d77300000001:0xe769f72b19cc45f7!8m2!3d15.3372671!4d75.1298716!16s%2Fg%2F1tdjplmw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4587,10 +4625,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kareem+Hospital/@15.3372671,75.1298716,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d77300000001:0xe769f72b19cc45f7!8m2!3d15.3372671!4d75.1298716!16s%2Fg%2F1tdjplmw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kavlekar-dental-hubballi",
@@ -4638,7 +4677,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kavlekar+Dental/@15.3623439,75.1189991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d737731fa873:0x10ace9e8a5f43141!8m2!3d15.3623439!4d75.1189991!16s%2Fg%2F11g9nllg7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kavlekar+Dental/@15.3623439,75.1189991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d737731fa873:0x10ace9e8a5f43141!8m2!3d15.3623439!4d75.1189991!16s%2Fg%2F11g9nllg7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4704,10 +4743,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kavlekar+Dental/@15.3623439,75.1189991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d737731fa873:0x10ace9e8a5f43141!8m2!3d15.3623439!4d75.1189991!16s%2Fg%2F11g9nllg7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kdc-dental-care-hubballi",
@@ -4756,7 +4796,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KDC+Dental+Care/@15.3521405,75.1353005,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74137165c37:0xcae7325aa40f9c3d!8m2!3d15.3521405!4d75.1353005!16s%2Fg%2F11bzyndznc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KDC+Dental+Care/@15.3521405,75.1353005,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74137165c37:0xcae7325aa40f9c3d!8m2!3d15.3521405!4d75.1353005!16s%2Fg%2F11bzyndznc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4825,7 +4865,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KDC+Dental+Care/@15.3521405,75.1353005,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74137165c37:0xcae7325aa40f9c3d!8m2!3d15.3521405!4d75.1353005!16s%2Fg%2F11bzyndznc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kims-hospital-kusugal",
@@ -4874,7 +4915,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KIMS+Hospital/@15.3650859,75.2218524,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7362c696f51:0xf6ebcd495f43f41a!8m2!3d15.3650859!4d75.2218524!16s%2Fg%2F11h9y64s71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KIMS+Hospital/@15.3650859,75.2218524,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7362c696f51:0xf6ebcd495f43f41a!8m2!3d15.3650859!4d75.2218524!16s%2Fg%2F11h9y64s71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4943,7 +4984,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KIMS+Hospital/@15.3650859,75.2218524,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7362c696f51:0xf6ebcd495f43f41a!8m2!3d15.3650859!4d75.2218524!16s%2Fg%2F11h9y64s71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "konnur-hospital-hubballi",
@@ -4991,7 +5033,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Konnur+Hospital/@15.3368837,75.1294705,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71293839a95:0x2f1d1e5ed086dc83!8m2!3d15.3368837!4d75.1294705!16s%2Fg%2F11c0rqb6rg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Konnur+Hospital/@15.3368837,75.1294705,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71293839a95:0x2f1d1e5ed086dc83!8m2!3d15.3368837!4d75.1294705!16s%2Fg%2F11c0rqb6rg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5060,7 +5102,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Konnur+Hospital/@15.3368837,75.1294705,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71293839a95:0x2f1d1e5ed086dc83!8m2!3d15.3368837!4d75.1294705!16s%2Fg%2F11c0rqb6rg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lejoys-dental-care-hubballi",
@@ -5109,7 +5152,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Lejoys+Dental+Care/@15.3605137,75.1478528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d750baa4e89d:0x10248ae437bc6153!8m2!3d15.3605137!4d75.1478528!16s%2Fg%2F11gj0x51cb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lejoys+Dental+Care/@15.3605137,75.1478528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d750baa4e89d:0x10248ae437bc6153!8m2!3d15.3605137!4d75.1478528!16s%2Fg%2F11gj0x51cb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5178,7 +5221,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lejoys+Dental+Care/@15.3605137,75.1478528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d750baa4e89d:0x10248ae437bc6153!8m2!3d15.3605137!4d75.1478528!16s%2Fg%2F11gj0x51cb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "m-m-joshi-eye-hospital-hubli-hubballi",
@@ -5227,7 +5271,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/M+M+Joshi+Eye+Hospital+-+Hubli/@15.3533462,75.1304448,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70e0588863b:0x68749d2f03041d2f!8m2!3d15.3533462!4d75.1304448!16s%2Fg%2F1w97svlq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M+M+Joshi+Eye+Hospital+-+Hubli/@15.3533462,75.1304448,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70e0588863b:0x68749d2f03041d2f!8m2!3d15.3533462!4d75.1304448!16s%2Fg%2F1w97svlq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5296,7 +5340,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M+M+Joshi+Eye+Hospital+-+Hubli/@15.3533462,75.1304448,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70e0588863b:0x68749d2f03041d2f!8m2!3d15.3533462!4d75.1304448!16s%2Fg%2F1w97svlq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhavbaug-clinic-station-road-hubballi",
@@ -5344,7 +5389,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Madhavbaug+clinic+-+Station+Road/@15.3513262,75.1416741,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d79db987ec1f:0xb55979b28a58e9f!8m2!3d15.3513262!4d75.1416741!16s%2Fg%2F11mw777_gm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+clinic+-+Station+Road/@15.3513262,75.1416741,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d79db987ec1f:0xb55979b28a58e9f!8m2!3d15.3513262!4d75.1416741!16s%2Fg%2F11mw777_gm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5413,7 +5458,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+clinic+-+Station+Road/@15.3513262,75.1416741,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d79db987ec1f:0xb55979b28a58e9f!8m2!3d15.3513262!4d75.1416741!16s%2Fg%2F11mw777_gm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhavbaug-navanagar-hubli-cardiac-care-ayurvedic-clinic-and-panchakarma-center-hubballi",
@@ -5462,7 +5508,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Madhavbaug+Navanagar,+Hubli+%7C+Cardiac+Care+Ayurvedic+Clinic+%26+Panchakarma+Center/@15.39429,75.083258,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d1bc28ba2533:0x5630c13833abbd0b!8m2!3d15.39429!4d75.083258!16s%2Fg%2F11qnfdfd7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+Navanagar,+Hubli+%7C+Cardiac+Care+Ayurvedic+Clinic+%26+Panchakarma+Center/@15.39429,75.083258,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d1bc28ba2533:0x5630c13833abbd0b!8m2!3d15.39429!4d75.083258!16s%2Fg%2F11qnfdfd7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5531,7 +5577,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+Navanagar,+Hubli+%7C+Cardiac+Care+Ayurvedic+Clinic+%26+Panchakarma+Center/@15.39429,75.083258,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d1bc28ba2533:0x5630c13833abbd0b!8m2!3d15.39429!4d75.083258!16s%2Fg%2F11qnfdfd7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-and-panchakarma-center-vidyanagar-hubballi-hubballi",
@@ -5581,7 +5628,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Vidyanagar,+Hubballi)/@15.3639193,75.1234966,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d78a583e7727:0x26eeb17b3db8646d!8m2!3d15.3639193!4d75.1234966!16s%2Fg%2F11h12x4xbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Vidyanagar,+Hubballi)/@15.3639193,75.1234966,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d78a583e7727:0x26eeb17b3db8646d!8m2!3d15.3639193!4d75.1234966!16s%2Fg%2F11h12x4xbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5650,7 +5697,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Vidyanagar,+Hubballi)/@15.3639193,75.1234966,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d78a583e7727:0x26eeb17b3db8646d!8m2!3d15.3639193!4d75.1234966!16s%2Fg%2F11h12x4xbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "makaranda-clinic-hubballi",
@@ -5699,7 +5747,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Makaranda+Clinic/@15.3487866,75.110132,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d720f9c9f4d9:0x43afd474364e9a0e!8m2!3d15.3487866!4d75.110132!16s%2Fg%2F11cs6b9rpd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Makaranda+Clinic/@15.3487866,75.110132,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d720f9c9f4d9:0x43afd474364e9a0e!8m2!3d15.3487866!4d75.110132!16s%2Fg%2F11cs6b9rpd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5765,10 +5813,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Makaranda+Clinic/@15.3487866,75.110132,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d720f9c9f4d9:0x43afd474364e9a0e!8m2!3d15.3487866!4d75.110132!16s%2Fg%2F11cs6b9rpd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mohan-skin-care-clinic-hubli-hubballi",
@@ -5816,7 +5865,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Mohan+Skin+Care+Clinic+Hubli/@15.3487053,75.1418442,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d742bc437d8f:0xf7c198a9d631ecf4!8m2!3d15.3487053!4d75.1418442!16s%2Fg%2F11b6t5swmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mohan+Skin+Care+Clinic+Hubli/@15.3487053,75.1418442,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d742bc437d8f:0xf7c198a9d631ecf4!8m2!3d15.3487053!4d75.1418442!16s%2Fg%2F11b6t5swmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5885,7 +5934,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mohan+Skin+Care+Clinic+Hubli/@15.3487053,75.1418442,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d742bc437d8f:0xf7c198a9d631ecf4!8m2!3d15.3487053!4d75.1418442!16s%2Fg%2F11b6t5swmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "moon-maternity-hubballi-hubballi",
@@ -5934,7 +5984,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Moon+Maternity,+Hubballi/@15.3596436,75.109804,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d730533e7d91:0x87b2d55f3639773b!8m2!3d15.3596436!4d75.109804!16s%2Fg%2F11c0rtzxg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Moon+Maternity,+Hubballi/@15.3596436,75.109804,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d730533e7d91:0x87b2d55f3639773b!8m2!3d15.3596436!4d75.109804!16s%2Fg%2F11c0rtzxg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6003,7 +6053,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Moon+Maternity,+Hubballi/@15.3596436,75.109804,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d730533e7d91:0x87b2d55f3639773b!8m2!3d15.3596436!4d75.109804!16s%2Fg%2F11c0rtzxg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nakshatra-dental-clinic-hubballi",
@@ -6051,7 +6102,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Nakshatra+Dental+Clinic/@15.3478667,75.1403186,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74281a67681:0x91a4a524a4e2af2d!8m2!3d15.3478667!4d75.1403186!16s%2Fg%2F11fxzwkn4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nakshatra+Dental+Clinic/@15.3478667,75.1403186,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74281a67681:0x91a4a524a4e2af2d!8m2!3d15.3478667!4d75.1403186!16s%2Fg%2F11fxzwkn4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6117,10 +6168,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nakshatra+Dental+Clinic/@15.3478667,75.1403186,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74281a67681:0x91a4a524a4e2af2d!8m2!3d15.3478667!4d75.1403186!16s%2Fg%2F11fxzwkn4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nanjannavar-dental-clinic-hubballi",
@@ -6168,7 +6220,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Nanjannavar+Dental+Clinic/@15.3515811,75.1361096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7eff4f24bc1:0x79ccc9f67e86a098!8m2!3d15.3515811!4d75.1361096!16s%2Fg%2F11shy142w0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nanjannavar+Dental+Clinic/@15.3515811,75.1361096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7eff4f24bc1:0x79ccc9f67e86a098!8m2!3d15.3515811!4d75.1361096!16s%2Fg%2F11shy142w0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6237,7 +6289,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nanjannavar+Dental+Clinic/@15.3515811,75.1361096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7eff4f24bc1:0x79ccc9f67e86a098!8m2!3d15.3515811!4d75.1361096!16s%2Fg%2F11shy142w0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "narayana-general-hospital-24-7-specialty-hospital-in-hubli-hubballi",
@@ -6286,7 +6339,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Narayana+General+Hospital+%E2%80%93+24%2F7+Specialty+Hospital+in+Hubli/@15.3476616,75.1097371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d77858302713:0xb992e16f2b7e0999!8m2!3d15.3476616!4d75.1097371!16s%2Fg%2F11l2hppr55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Narayana+General+Hospital+%E2%80%93+24%2F7+Specialty+Hospital+in+Hubli/@15.3476616,75.1097371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d77858302713:0xb992e16f2b7e0999!8m2!3d15.3476616!4d75.1097371!16s%2Fg%2F11l2hppr55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6355,7 +6408,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Narayana+General+Hospital+%E2%80%93+24%2F7+Specialty+Hospital+in+Hubli/@15.3476616,75.1097371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d77858302713:0xb992e16f2b7e0999!8m2!3d15.3476616!4d75.1097371!16s%2Fg%2F11l2hppr55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nmr-scan-centre-hubballi",
@@ -6404,7 +6458,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Nmr+Scan+Centre/@15.3527097,75.1396332,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x97690cab2cc27954!8m2!3d15.3527097!4d75.1396332!16s%2Fg%2F1vcl26f4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nmr+Scan+Centre/@15.3527097,75.1396332,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x97690cab2cc27954!8m2!3d15.3527097!4d75.1396332!16s%2Fg%2F1vcl26f4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6470,10 +6524,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nmr+Scan+Centre/@15.3527097,75.1396332,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x97690cab2cc27954!8m2!3d15.3527097!4d75.1396332!16s%2Fg%2F1vcl26f4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nova-ivf-fertility-center-best-ivf-centre-in-hubli-hubballi",
@@ -6523,7 +6578,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+In+Hubli/@15.3508367,75.1061799,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74823a6d151:0xc148c068e6831eb6!8m2!3d15.3508367!4d75.1061799!16s%2Fg%2F11smm1pv5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+In+Hubli/@15.3508367,75.1061799,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74823a6d151:0xc148c068e6831eb6!8m2!3d15.3508367!4d75.1061799!16s%2Fg%2F11smm1pv5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6592,7 +6647,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+In+Hubli/@15.3508367,75.1061799,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74823a6d151:0xc148c068e6831eb6!8m2!3d15.3508367!4d75.1061799!16s%2Fg%2F11smm1pv5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "om-sairam-neelkamal-dental-clinic-hubballi",
@@ -6640,7 +6696,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Om+Sairam+Neelkamal+Dental+Clinic/@15.3631071,75.1216172,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73ab093db5b:0xe6b28620644c328a!8m2!3d15.3631071!4d75.1216172!16s%2Fg%2F11pc47ggsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Om+Sairam+Neelkamal+Dental+Clinic/@15.3631071,75.1216172,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73ab093db5b:0xe6b28620644c328a!8m2!3d15.3631071!4d75.1216172!16s%2Fg%2F11pc47ggsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6706,10 +6762,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Om+Sairam+Neelkamal+Dental+Clinic/@15.3631071,75.1216172,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73ab093db5b:0xe6b28620644c328a!8m2!3d15.3631071!4d75.1216172!16s%2Fg%2F11pc47ggsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oris-dental-hubballi",
@@ -6758,7 +6815,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Oris+Dental/@15.3643208,75.1235232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d733dcbef61b:0xce35bfee1133feca!8m2!3d15.3643208!4d75.1235232!16s%2Fg%2F11bzwmrmvn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oris+Dental/@15.3643208,75.1235232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d733dcbef61b:0xce35bfee1133feca!8m2!3d15.3643208!4d75.1235232!16s%2Fg%2F11bzwmrmvn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6827,7 +6884,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oris+Dental/@15.3643208,75.1235232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d733dcbef61b:0xce35bfee1133feca!8m2!3d15.3643208!4d75.1235232!16s%2Fg%2F11bzwmrmvn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "orthosquare-dental-clinic-vidya-nagar-hubballi-hubballi",
@@ -6877,7 +6935,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Vidya+Nagar,+Hubballi/@15.3549477,75.1318162,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7dc1ea37fe5:0xa0229fb5d5ddc2ce!8m2!3d15.3549477!4d75.1318162!16s%2Fg%2F11krhpqhpc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Vidya+Nagar,+Hubballi/@15.3549477,75.1318162,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7dc1ea37fe5:0xa0229fb5d5ddc2ce!8m2!3d15.3549477!4d75.1318162!16s%2Fg%2F11krhpqhpc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6946,7 +7004,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Vidya+Nagar,+Hubballi/@15.3549477,75.1318162,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7dc1ea37fe5:0xa0229fb5d5ddc2ce!8m2!3d15.3549477!4d75.1318162!16s%2Fg%2F11krhpqhpc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "paridhi-dental-care-and-implant-center-hubballi",
@@ -6994,7 +7053,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/PARIDHI+DENTAL+CARE+AND+IMPLANT+CENTER/@15.3536944,75.1402684,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74158000621:0x6e4c11f5065f3c83!8m2!3d15.3536944!4d75.1402684!16s%2Fg%2F11wy02fg7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PARIDHI+DENTAL+CARE+AND+IMPLANT+CENTER/@15.3536944,75.1402684,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74158000621:0x6e4c11f5065f3c83!8m2!3d15.3536944!4d75.1402684!16s%2Fg%2F11wy02fg7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7063,7 +7122,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PARIDHI+DENTAL+CARE+AND+IMPLANT+CENTER/@15.3536944,75.1402684,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74158000621:0x6e4c11f5065f3c83!8m2!3d15.3536944!4d75.1402684!16s%2Fg%2F11wy02fg7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pawar-skin-and-onco-care-clinic-hubballi",
@@ -7112,7 +7172,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pawar+Skin+and+Onco+Care+Clinic/@15.3621452,75.1520534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d9ff52623b87:0x52139f7f16946d6f!8m2!3d15.3621452!4d75.1520534!16s%2Fg%2F11s98c_ppd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pawar+Skin+and+Onco+Care+Clinic/@15.3621452,75.1520534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d9ff52623b87:0x52139f7f16946d6f!8m2!3d15.3621452!4d75.1520534!16s%2Fg%2F11s98c_ppd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7181,7 +7241,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pawar+Skin+and+Onco+Care+Clinic/@15.3621452,75.1520534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d9ff52623b87:0x52139f7f16946d6f!8m2!3d15.3621452!4d75.1520534!16s%2Fg%2F11s98c_ppd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pearl-dental-clinic-hubballi",
@@ -7230,7 +7291,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pearl+Dental+Clinic/@15.3480303,75.1149481,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e6be3baa53:0x4714b9bab42964d1!8m2!3d15.3480303!4d75.1149481!16s%2Fg%2F11rmq737kl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pearl+Dental+Clinic/@15.3480303,75.1149481,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e6be3baa53:0x4714b9bab42964d1!8m2!3d15.3480303!4d75.1149481!16s%2Fg%2F11rmq737kl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7296,10 +7357,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pearl+Dental+Clinic/@15.3480303,75.1149481,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e6be3baa53:0x4714b9bab42964d1!8m2!3d15.3480303!4d75.1149481!16s%2Fg%2F11rmq737kl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prabhu-dental-care-hubli-hubballi",
@@ -7347,7 +7409,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Prabhu+Dental+Care,+Hubli/@15.3498008,75.1390178,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74245809273:0x7becb65bac280077!8m2!3d15.3498008!4d75.1390178!16s%2Fg%2F11g8b5b1sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prabhu+Dental+Care,+Hubli/@15.3498008,75.1390178,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74245809273:0x7becb65bac280077!8m2!3d15.3498008!4d75.1390178!16s%2Fg%2F11g8b5b1sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7416,7 +7478,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prabhu+Dental+Care,+Hubli/@15.3498008,75.1390178,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74245809273:0x7becb65bac280077!8m2!3d15.3498008!4d75.1390178!16s%2Fg%2F11g8b5b1sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pragati-clinic-hubballi",
@@ -7464,7 +7527,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Pragati+Clinic/@15.3471207,75.1198906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d72a33c7bf2b:0xad52a219f2697e2c!8m2!3d15.3471207!4d75.1198906!16s%2Fg%2F11svqzydbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pragati+Clinic/@15.3471207,75.1198906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d72a33c7bf2b:0xad52a219f2697e2c!8m2!3d15.3471207!4d75.1198906!16s%2Fg%2F11svqzydbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7533,7 +7596,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pragati+Clinic/@15.3471207,75.1198906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d72a33c7bf2b:0xad52a219f2697e2c!8m2!3d15.3471207!4d75.1198906!16s%2Fg%2F11svqzydbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rakshiit-dental-clinic-hubballi",
@@ -7581,7 +7645,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Rakshiit+Dental+Clinic/@15.3493767,75.1389813,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d742439eee9d:0x29b0138d03c23c1a!8m2!3d15.3493767!4d75.1389813!16s%2Fg%2F1tfz8mwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rakshiit+Dental+Clinic/@15.3493767,75.1389813,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d742439eee9d:0x29b0138d03c23c1a!8m2!3d15.3493767!4d75.1389813!16s%2Fg%2F1tfz8mwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7650,7 +7714,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rakshiit+Dental+Clinic/@15.3493767,75.1389813,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d742439eee9d:0x29b0138d03c23c1a!8m2!3d15.3493767!4d75.1389813!16s%2Fg%2F1tfz8mwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "regenerative-center-hubballi",
@@ -7698,7 +7763,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Regenerative+Center/@15.3460577,75.1442514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d768f4bd4eb3:0x3833977d0c4fbfd9!8m2!3d15.3460577!4d75.1442514!16s%2Fg%2F11bztf1_13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Regenerative+Center/@15.3460577,75.1442514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d768f4bd4eb3:0x3833977d0c4fbfd9!8m2!3d15.3460577!4d75.1442514!16s%2Fg%2F11bztf1_13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7767,7 +7832,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Regenerative+Center/@15.3460577,75.1442514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d768f4bd4eb3:0x3833977d0c4fbfd9!8m2!3d15.3460577!4d75.1442514!16s%2Fg%2F11bztf1_13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "roots-dental-care-hubballi",
@@ -7816,7 +7882,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ROOTS+DENTAL+CARE/@15.3638299,75.1246429,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7a16311aa05:0xf35c2dbd1b28aed9!8m2!3d15.3638299!4d75.1246429!16s%2Fg%2F11k3kw2w_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ROOTS+DENTAL+CARE/@15.3638299,75.1246429,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7a16311aa05:0xf35c2dbd1b28aed9!8m2!3d15.3638299!4d75.1246429!16s%2Fg%2F11k3kw2w_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -7882,10 +7948,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ROOTS+DENTAL+CARE/@15.3638299,75.1246429,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7a16311aa05:0xf35c2dbd1b28aed9!8m2!3d15.3638299!4d75.1246429!16s%2Fg%2F11k3kw2w_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "royal-dental-clinic-hubballi",
@@ -7933,7 +8000,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Royal+Dental+Clinic/@15.3463072,75.1461424,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7670b9b1121:0x7022140551e71cec!8m2!3d15.3463072!4d75.1461424!16s%2Fg%2F11c0ts15qq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+Dental+Clinic/@15.3463072,75.1461424,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7670b9b1121:0x7022140551e71cec!8m2!3d15.3463072!4d75.1461424!16s%2Fg%2F11c0ts15qq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8002,7 +8069,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Royal+Dental+Clinic/@15.3463072,75.1461424,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7670b9b1121:0x7022140551e71cec!8m2!3d15.3463072!4d75.1461424!16s%2Fg%2F11c0ts15qq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-s-dental-hospital-hubballi",
@@ -8051,7 +8119,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/S.S+Dental+Hospital/@15.3586,75.1170561,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75dd20f2f9b:0xe930136ba0a8715f!8m2!3d15.3586!4d75.1170561!16s%2Fg%2F11sd6kclj1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S.S+Dental+Hospital/@15.3586,75.1170561,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75dd20f2f9b:0xe930136ba0a8715f!8m2!3d15.3586!4d75.1170561!16s%2Fg%2F11sd6kclj1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8120,7 +8188,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S.S+Dental+Hospital/@15.3586,75.1170561,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75dd20f2f9b:0xe930136ba0a8715f!8m2!3d15.3586!4d75.1170561!16s%2Fg%2F11sd6kclj1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samant-dental-clinic-hubballi",
@@ -8169,7 +8238,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/samant+dental+clinic/@15.356452,75.129905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73867ef68db:0x4f73994e22352f71!8m2!3d15.356452!4d75.129905!16s%2Fg%2F11g6_t9v7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/samant+dental+clinic/@15.356452,75.129905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73867ef68db:0x4f73994e22352f71!8m2!3d15.356452!4d75.129905!16s%2Fg%2F11g6_t9v7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8238,7 +8307,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/samant+dental+clinic/@15.356452,75.129905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73867ef68db:0x4f73994e22352f71!8m2!3d15.356452!4d75.129905!16s%2Fg%2F11g6_t9v7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjeevini-speciality-hospital-hubballi",
@@ -8287,7 +8357,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeevini+Speciality+Hospital/@15.3636531,75.1219662,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7682bbb0fed:0x6f1cb672f68f3a7b!8m2!3d15.3636531!4d75.1219662!16s%2Fg%2F1tgn_7fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeevini+Speciality+Hospital/@15.3636531,75.1219662,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7682bbb0fed:0x6f1cb672f68f3a7b!8m2!3d15.3636531!4d75.1219662!16s%2Fg%2F1tgn_7fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8353,10 +8423,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeevini+Speciality+Hospital/@15.3636531,75.1219662,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7682bbb0fed:0x6f1cb672f68f3a7b!8m2!3d15.3636531!4d75.1219662!16s%2Fg%2F1tgn_7fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sarvodaya-clinic-hubballi",
@@ -8404,7 +8475,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/SARVODAYA+CLINIC/@15.3605609,75.1127907,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74637d49839:0x9185adaaf005f891!8m2!3d15.3605609!4d75.1127907!16s%2Fg%2F11kc6nzl7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SARVODAYA+CLINIC/@15.3605609,75.1127907,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74637d49839:0x9185adaaf005f891!8m2!3d15.3605609!4d75.1127907!16s%2Fg%2F11kc6nzl7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8473,7 +8544,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SARVODAYA+CLINIC/@15.3605609,75.1127907,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74637d49839:0x9185adaaf005f891!8m2!3d15.3605609!4d75.1127907!16s%2Fg%2F11kc6nzl7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sattur-heart-care-hubballi",
@@ -8523,7 +8595,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sattur+Heart+Care/@15.3533094,75.1430015,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75b5166eefb:0xfd8c1cbe56c525bf!8m2!3d15.3533094!4d75.1430015!16s%2Fg%2F11j3wy37xf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sattur+Heart+Care/@15.3533094,75.1430015,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75b5166eefb:0xfd8c1cbe56c525bf!8m2!3d15.3533094!4d75.1430015!16s%2Fg%2F11j3wy37xf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8592,7 +8664,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sattur+Heart+Care/@15.3533094,75.1430015,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75b5166eefb:0xfd8c1cbe56c525bf!8m2!3d15.3533094!4d75.1430015!16s%2Fg%2F11j3wy37xf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sdm-narayana-heart-centre-dharwad-hubballi",
@@ -8642,7 +8715,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SDM+Narayana+Heart+Centre,+Dharwad/@15.4186213,75.0471687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d22e3fac3d8b:0x91441b15f3d6c7c6!8m2!3d15.4186213!4d75.0471687!16s%2Fg%2F11b6c979tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SDM+Narayana+Heart+Centre,+Dharwad/@15.4186213,75.0471687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d22e3fac3d8b:0x91441b15f3d6c7c6!8m2!3d15.4186213!4d75.0471687!16s%2Fg%2F11b6c979tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8711,7 +8784,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SDM+Narayana+Heart+Centre,+Dharwad/@15.4186213,75.0471687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d22e3fac3d8b:0x91441b15f3d6c7c6!8m2!3d15.4186213!4d75.0471687!16s%2Fg%2F11b6c979tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "secure-hospital-hubli-hubballi",
@@ -8760,7 +8834,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SeCURE+Hospital,+Hubli/@15.348902,75.1150028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7314dae0de1:0x977379937338e52f!8m2!3d15.348902!4d75.1150028!16s%2Fg%2F11j4qs4tsw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SeCURE+Hospital,+Hubli/@15.348902,75.1150028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7314dae0de1:0x977379937338e52f!8m2!3d15.348902!4d75.1150028!16s%2Fg%2F11j4qs4tsw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8829,7 +8903,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SeCURE+Hospital,+Hubli/@15.348902,75.1150028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7314dae0de1:0x977379937338e52f!8m2!3d15.348902!4d75.1150028!16s%2Fg%2F11j4qs4tsw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shakuntala-hospital-hubballi",
@@ -8877,7 +8952,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Shakuntala+Hospital/@15.3530729,75.1274017,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xbb82c9743a544b4c!8m2!3d15.3530729!4d75.1274017!16s%2Fg%2F1tp_4vdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shakuntala+Hospital/@15.3530729,75.1274017,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xbb82c9743a544b4c!8m2!3d15.3530729!4d75.1274017!16s%2Fg%2F1tp_4vdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -8946,7 +9021,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shakuntala+Hospital/@15.3530729,75.1274017,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xbb82c9743a544b4c!8m2!3d15.3530729!4d75.1274017!16s%2Fg%2F1tp_4vdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shatayu-hospital-and-research-institute-hubballi",
@@ -8995,7 +9071,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shatayu+Hospital+and+Research+Institute/@15.3536083,75.1306672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d738a501377d:0xdae2886f368dbac3!8m2!3d15.3536083!4d75.1306672!16s%2Fg%2F1tlnbwkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shatayu+Hospital+and+Research+Institute/@15.3536083,75.1306672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d738a501377d:0xdae2886f368dbac3!8m2!3d15.3536083!4d75.1306672!16s%2Fg%2F1tlnbwkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9064,7 +9140,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shatayu+Hospital+and+Research+Institute/@15.3536083,75.1306672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d738a501377d:0xdae2886f368dbac3!8m2!3d15.3536083!4d75.1306672!16s%2Fg%2F1tlnbwkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shiraganvi-dental-and-maxillofacial-centre-hubballi",
@@ -9113,7 +9190,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Shiraganvi+Dental+and+Maxillofacial+Centre/@15.3608628,75.1164047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71172edfa61:0x7660fd0205626801!8m2!3d15.3608628!4d75.1164047!16s%2Fg%2F11vbh_9qky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiraganvi+Dental+and+Maxillofacial+Centre/@15.3608628,75.1164047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71172edfa61:0x7660fd0205626801!8m2!3d15.3608628!4d75.1164047!16s%2Fg%2F11vbh_9qky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9179,10 +9256,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shiraganvi+Dental+and+Maxillofacial+Centre/@15.3608628,75.1164047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71172edfa61:0x7660fd0205626801!8m2!3d15.3608628!4d75.1164047!16s%2Fg%2F11vbh_9qky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivakrupa-hospital-dugani-hubballi",
@@ -9231,7 +9309,7 @@
       "Google rating 3.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shivakrupa+Hospital+(Dugani)/@15.3526763,75.1441253,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75cbc29d1c5:0x12c5922d4c6db6a7!8m2!3d15.3526763!4d75.1441253!16s%2Fg%2F1tf5c5md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shivakrupa+Hospital+(Dugani)/@15.3526763,75.1441253,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75cbc29d1c5:0x12c5922d4c6db6a7!8m2!3d15.3526763!4d75.1441253!16s%2Fg%2F1tf5c5md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9300,7 +9378,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shivakrupa+Hospital+(Dugani)/@15.3526763,75.1441253,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75cbc29d1c5:0x12c5922d4c6db6a7!8m2!3d15.3526763!4d75.1441253!16s%2Fg%2F1tf5c5md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shivapur-dental-clinic-and-implant-centre-hubballi",
@@ -9348,7 +9427,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SHIVAPUR+DENTAL+CLINIC+%26IMPLANT+CENTRE/@15.3567335,75.1251827,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d740bd4d5029:0xd9cefa2bf0f6c0ce!8m2!3d15.3567335!4d75.1251827!16s%2Fg%2F11rqgywgww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHIVAPUR+DENTAL+CLINIC+%26IMPLANT+CENTRE/@15.3567335,75.1251827,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d740bd4d5029:0xd9cefa2bf0f6c0ce!8m2!3d15.3567335!4d75.1251827!16s%2Fg%2F11rqgywgww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9414,10 +9493,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHIVAPUR+DENTAL+CLINIC+%26IMPLANT+CENTRE/@15.3567335,75.1251827,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d740bd4d5029:0xd9cefa2bf0f6c0ce!8m2!3d15.3567335!4d75.1251827!16s%2Fg%2F11rqgywgww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-bhanji-d-khimji-lifeline-hospital-hubballi-hubballi",
@@ -9466,7 +9546,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Bhanji+D+Khimji+Lifeline+Hospital+Hubballi/@15.3509566,75.1164074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x3ba02bcbf75805ef!8m2!3d15.3509566!4d75.1164074!16s%2Fg%2F1vxvg9hv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Bhanji+D+Khimji+Lifeline+Hospital+Hubballi/@15.3509566,75.1164074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x3ba02bcbf75805ef!8m2!3d15.3509566!4d75.1164074!16s%2Fg%2F1vxvg9hv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9535,7 +9615,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Bhanji+D+Khimji+Lifeline+Hospital+Hubballi/@15.3509566,75.1164074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x3ba02bcbf75805ef!8m2!3d15.3509566!4d75.1164074!16s%2Fg%2F1vxvg9hv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-sai-dental-care-hubballi",
@@ -9584,7 +9665,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Sai+Dental+Care/@15.3648881,75.1234437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x743f04eb408975f4!8m2!3d15.3648881!4d75.1234437!16s%2Fg%2F1tlvmzwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Sai+Dental+Care/@15.3648881,75.1234437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x743f04eb408975f4!8m2!3d15.3648881!4d75.1234437!16s%2Fg%2F1tlvmzwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9653,7 +9734,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Sai+Dental+Care/@15.3648881,75.1234437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x743f04eb408975f4!8m2!3d15.3648881!4d75.1234437!16s%2Fg%2F1tlvmzwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shrinidhi-dental-care-hubballi",
@@ -9702,7 +9784,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shrinidhi+Dental+Care/@15.3621561,75.1519522,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d791e7027377:0xab716a75ec1ae8fb!8m2!3d15.3621561!4d75.1519522!16s%2Fg%2F11tk6l13z9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shrinidhi+Dental+Care/@15.3621561,75.1519522,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d791e7027377:0xab716a75ec1ae8fb!8m2!3d15.3621561!4d75.1519522!16s%2Fg%2F11tk6l13z9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9771,7 +9853,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shrinidhi+Dental+Care/@15.3621561,75.1519522,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d791e7027377:0xab716a75ec1ae8fb!8m2!3d15.3621561!4d75.1519522!16s%2Fg%2F11tk6l13z9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shripriya-hospital-hubballi",
@@ -9819,7 +9902,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/SHRIPRIYA+HOSPITAL/@15.363115,75.1542566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d757a8affe7f:0x48ced421f75e9bda!8m2!3d15.363115!4d75.1542566!16s%2Fg%2F11c2pmjmk3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHRIPRIYA+HOSPITAL/@15.363115,75.1542566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d757a8affe7f:0x48ced421f75e9bda!8m2!3d15.363115!4d75.1542566!16s%2Fg%2F11c2pmjmk3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -9888,7 +9971,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHRIPRIYA+HOSPITAL/@15.363115,75.1542566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d757a8affe7f:0x48ced421f75e9bda!8m2!3d15.363115!4d75.1542566!16s%2Fg%2F11c2pmjmk3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-again-dental-clinic-hubballi",
@@ -9936,7 +10020,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Again+Dental+Clinic/@15.3556863,75.157906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d9f485ae04f5:0x1ff9257e795733f5!8m2!3d15.3556863!4d75.157906!16s%2Fg%2F11p61z30bf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Again+Dental+Clinic/@15.3556863,75.157906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d9f485ae04f5:0x1ff9257e795733f5!8m2!3d15.3556863!4d75.157906!16s%2Fg%2F11p61z30bf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10002,10 +10086,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Again+Dental+Clinic/@15.3556863,75.157906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d9f485ae04f5:0x1ff9257e795733f5!8m2!3d15.3556863!4d75.157906!16s%2Fg%2F11p61z30bf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-line-dental-clinic-hubballi",
@@ -10053,7 +10138,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Line+Dental+Clinic/@15.3551095,75.1413998,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x2f6a81843d731d28!8m2!3d15.3551095!4d75.1413998!16s%2Fg%2F1td1n9yc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Line+Dental+Clinic/@15.3551095,75.1413998,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x2f6a81843d731d28!8m2!3d15.3551095!4d75.1413998!16s%2Fg%2F1td1n9yc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10119,10 +10204,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Line+Dental+Clinic/@15.3551095,75.1413998,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x2f6a81843d731d28!8m2!3d15.3551095!4d75.1413998!16s%2Fg%2F1td1n9yc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-world-best-dentist-in-hubli-implant-centre-orthodontist-specialist-periodontist-cosmetic-dentist-in-hubli-hubballi",
@@ -10172,7 +10258,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Smile+world+-+Best+Dentist+in+Hubli+%7C+Implant+Centre+%7C+Orthodontist+Specialist+%7C+Periodontist+%7C+Cosmetic+Dentist+in+Hubli/@15.349742,75.141475,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7b7aaf62fe3:0x8f71ae61d931cd62!8m2!3d15.349742!4d75.141475!16s%2Fg%2F11pvmcpn5z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+world+-+Best+Dentist+in+Hubli+%7C+Implant+Centre+%7C+Orthodontist+Specialist+%7C+Periodontist+%7C+Cosmetic+Dentist+in+Hubli/@15.349742,75.141475,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7b7aaf62fe3:0x8f71ae61d931cd62!8m2!3d15.349742!4d75.141475!16s%2Fg%2F11pvmcpn5z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10238,10 +10324,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+world+-+Best+Dentist+in+Hubli+%7C+Implant+Centre+%7C+Orthodontist+Specialist+%7C+Periodontist+%7C+Cosmetic+Dentist+in+Hubli/@15.349742,75.141475,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7b7aaf62fe3:0x8f71ae61d931cd62!8m2!3d15.349742!4d75.141475!16s%2Fg%2F11pvmcpn5z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-32-hubballi",
@@ -10289,7 +10376,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Smile-32/@15.3670061,75.1383326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74c42bb87a1:0x5a54f83ff0ed4256!8m2!3d15.3670061!4d75.1383326!16s%2Fg%2F1tfqd7s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile-32/@15.3670061,75.1383326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74c42bb87a1:0x5a54f83ff0ed4256!8m2!3d15.3670061!4d75.1383326!16s%2Fg%2F1tfqd7s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10358,7 +10445,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile-32/@15.3670061,75.1383326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74c42bb87a1:0x5a54f83ff0ed4256!8m2!3d15.3670061!4d75.1383326!16s%2Fg%2F1tfqd7s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sona-dental-care-hubballi",
@@ -10407,7 +10495,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SONA+DENTAL+CARE/@15.3549851,75.1313607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e405c742a3:0x7474e46e73a7e98!8m2!3d15.3549851!4d75.1313607!16s%2Fg%2F11rspd50m0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SONA+DENTAL+CARE/@15.3549851,75.1313607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e405c742a3:0x7474e46e73a7e98!8m2!3d15.3549851!4d75.1313607!16s%2Fg%2F11rspd50m0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10473,10 +10561,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SONA+DENTAL+CARE/@15.3549851,75.1313607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e405c742a3:0x7474e46e73a7e98!8m2!3d15.3549851!4d75.1313607!16s%2Fg%2F11rspd50m0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sou-mandakini-memorial-hospital-hubli-karnataka-india-hubballi",
@@ -10527,7 +10616,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sou+Mandakini+Memorial+Hospital,+Hubli+Karnataka+India./@15.3565651,75.1359993,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d746c0000001:0x12a49241d1a76efc!8m2!3d15.3565651!4d75.1359993!16s%2Fg%2F1tk_h4kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sou+Mandakini+Memorial+Hospital,+Hubli+Karnataka+India./@15.3565651,75.1359993,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d746c0000001:0x12a49241d1a76efc!8m2!3d15.3565651!4d75.1359993!16s%2Fg%2F1tk_h4kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10596,7 +10685,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sou+Mandakini+Memorial+Hospital,+Hubli+Karnataka+India./@15.3565651,75.1359993,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d746c0000001:0x12a49241d1a76efc!8m2!3d15.3565651!4d75.1359993!16s%2Fg%2F1tk_h4kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "spatika-heart-and-lung-clinic-hubballi",
@@ -10645,7 +10735,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Spatika+Heart+%26+Lung+Clinic/@15.3503801,75.1095356,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d792aada761b:0x2cdbd217503eb4da!8m2!3d15.3503801!4d75.1095356!16s%2Fg%2F11xnbtvxnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spatika+Heart+%26+Lung+Clinic/@15.3503801,75.1095356,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d792aada761b:0x2cdbd217503eb4da!8m2!3d15.3503801!4d75.1095356!16s%2Fg%2F11xnbtvxnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10711,10 +10801,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spatika+Heart+%26+Lung+Clinic/@15.3503801,75.1095356,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d792aada761b:0x2cdbd217503eb4da!8m2!3d15.3503801!4d75.1095356!16s%2Fg%2F11xnbtvxnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sukruti-scan-centre-fetal-medicine-centre-hubballi",
@@ -10764,7 +10855,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Sukruti+Scan+Centre+%2F+Fetal+Medicine+Centre/@15.3512819,75.1374819,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7f57482ffa1:0x2077f15efab639ca!8m2!3d15.3512819!4d75.1374819!16s%2Fg%2F11n068dx4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sukruti+Scan+Centre+%2F+Fetal+Medicine+Centre/@15.3512819,75.1374819,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7f57482ffa1:0x2077f15efab639ca!8m2!3d15.3512819!4d75.1374819!16s%2Fg%2F11n068dx4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10833,7 +10924,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sukruti+Scan+Centre+%2F+Fetal+Medicine+Centre/@15.3512819,75.1374819,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7f57482ffa1:0x2077f15efab639ca!8m2!3d15.3512819!4d75.1374819!16s%2Fg%2F11n068dx4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tatwadarsha-hospital-hubballi",
@@ -10881,7 +10973,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Tatwadarsha+Hospital/@15.3560484,75.1181147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d725159e6ca9:0xc8f91414e5da9a34!8m2!3d15.3560484!4d75.1181147!16s%2Fg%2F11b7hlz17n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tatwadarsha+Hospital/@15.3560484,75.1181147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d725159e6ca9:0xc8f91414e5da9a34!8m2!3d15.3560484!4d75.1181147!16s%2Fg%2F11b7hlz17n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -10950,7 +11042,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tatwadarsha+Hospital/@15.3560484,75.1181147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d725159e6ca9:0xc8f91414e5da9a34!8m2!3d15.3560484!4d75.1181147!16s%2Fg%2F11b7hlz17n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-dental-and-physiotherapy-studio-hubballi",
@@ -10999,7 +11092,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Dental+%26+Physiotherapy+Studio/@15.3501005,75.108956,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7100da18c4b:0x9e437f982549ed22!8m2!3d15.3501005!4d75.108956!16s%2Fg%2F11fv_zy24j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dental+%26+Physiotherapy+Studio/@15.3501005,75.108956,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7100da18c4b:0x9e437f982549ed22!8m2!3d15.3501005!4d75.108956!16s%2Fg%2F11fv_zy24j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11068,7 +11161,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Dental+%26+Physiotherapy+Studio/@15.3501005,75.108956,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7100da18c4b:0x9e437f982549ed22!8m2!3d15.3501005!4d75.108956!16s%2Fg%2F11fv_zy24j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-dental-wellness-clinic-hubballi",
@@ -11116,7 +11210,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Dental+Wellness+Clinic/@15.3578542,75.1467554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d776ac706329:0xc7d622ab5bfddbeb!8m2!3d15.3578542!4d75.1467554!16s%2Fg%2F11vst0nvg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Dental+Wellness+Clinic/@15.3578542,75.1467554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d776ac706329:0xc7d622ab5bfddbeb!8m2!3d15.3578542!4d75.1467554!16s%2Fg%2F11vst0nvg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11182,10 +11276,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Dental+Wellness+Clinic/@15.3578542,75.1467554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d776ac706329:0xc7d622ab5bfddbeb!8m2!3d15.3578542!4d75.1467554!16s%2Fg%2F11vst0nvg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-karnatak-cancer-therapy-and-research-institute-hubballi",
@@ -11234,7 +11329,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Karnatak+Cancer+Therapy+%26+Research+Institute/@15.3949925,75.0847617,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x75dd88d64f0c7a5e!8m2!3d15.3949925!4d75.0847617!16s%2Fg%2F1th227n2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Karnatak+Cancer+Therapy+%26+Research+Institute/@15.3949925,75.0847617,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x75dd88d64f0c7a5e!8m2!3d15.3949925!4d75.0847617!16s%2Fg%2F1th227n2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11303,7 +11398,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Karnatak+Cancer+Therapy+%26+Research+Institute/@15.3949925,75.0847617,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x75dd88d64f0c7a5e!8m2!3d15.3949925!4d75.0847617!16s%2Fg%2F1th227n2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-tooth-place-hubballi",
@@ -11352,7 +11448,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/The+Tooth+Place/@15.3458032,75.1438826,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7140b0a1e99:0xd11a874137fcda8e!8m2!3d15.3458032!4d75.1438826!16s%2Fg%2F11gwggl3hp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Tooth+Place/@15.3458032,75.1438826,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7140b0a1e99:0xd11a874137fcda8e!8m2!3d15.3458032!4d75.1438826!16s%2Fg%2F11gwggl3hp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11421,7 +11517,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Tooth+Place/@15.3458032,75.1438826,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7140b0a1e99:0xd11a874137fcda8e!8m2!3d15.3458032!4d75.1438826!16s%2Fg%2F11gwggl3hp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "thousand-smiles-dental-hubballi",
@@ -11470,7 +11567,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Thousand+Smiles+Dental/@15.3504738,75.1151202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73a9a08eed9:0xc2ff068611daaa2b!8m2!3d15.3504738!4d75.1151202!16s%2Fg%2F11fl9h0yyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Thousand+Smiles+Dental/@15.3504738,75.1151202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73a9a08eed9:0xc2ff068611daaa2b!8m2!3d15.3504738!4d75.1151202!16s%2Fg%2F11fl9h0yyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11539,7 +11636,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Thousand+Smiles+Dental/@15.3504738,75.1151202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73a9a08eed9:0xc2ff068611daaa2b!8m2!3d15.3504738!4d75.1151202!16s%2Fg%2F11fl9h0yyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "trinity-dental-care-hubballi",
@@ -11587,7 +11685,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Trinity+Dental+Care/@15.3447812,75.1447513,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7664ebbe6b3:0x6a444fc3894b4a83!8m2!3d15.3447812!4d75.1447513!16s%2Fg%2F11crzy6m8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trinity+Dental+Care/@15.3447812,75.1447513,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7664ebbe6b3:0x6a444fc3894b4a83!8m2!3d15.3447812!4d75.1447513!16s%2Fg%2F11crzy6m8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11653,10 +11751,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Trinity+Dental+Care/@15.3447812,75.1447513,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7664ebbe6b3:0x6a444fc3894b4a83!8m2!3d15.3447812!4d75.1447513!16s%2Fg%2F11crzy6m8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "urban-dental-clinic-hubballi",
@@ -11705,7 +11804,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/URBAN+DENTAL+CLINIC/@15.3543792,75.1418264,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744bb0f576f:0xbdd5e4a21b79efae!8m2!3d15.3543792!4d75.1418264!16s%2Fg%2F11bzsg8mtl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/URBAN+DENTAL+CLINIC/@15.3543792,75.1418264,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744bb0f576f:0xbdd5e4a21b79efae!8m2!3d15.3543792!4d75.1418264!16s%2Fg%2F11bzsg8mtl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11774,7 +11873,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/URBAN+DENTAL+CLINIC/@15.3543792,75.1418264,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744bb0f576f:0xbdd5e4a21b79efae!8m2!3d15.3543792!4d75.1418264!16s%2Fg%2F11bzsg8mtl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vedaant-eye-hospital-and-health-centre-hubballi",
@@ -11824,7 +11924,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VEDAANT+EYE+HOSPITAL+AND+HEALTH+CENTRE/@15.3622406,75.1191871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d76bf5f6e9df:0xa9ec3ac5cbae8722!8m2!3d15.3622406!4d75.1191871!16s%2Fg%2F11rz954bj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VEDAANT+EYE+HOSPITAL+AND+HEALTH+CENTRE/@15.3622406,75.1191871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d76bf5f6e9df:0xa9ec3ac5cbae8722!8m2!3d15.3622406!4d75.1191871!16s%2Fg%2F11rz954bj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -11890,10 +11990,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VEDAANT+EYE+HOSPITAL+AND+HEALTH+CENTRE/@15.3622406,75.1191871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d76bf5f6e9df:0xa9ec3ac5cbae8722!8m2!3d15.3622406!4d75.1191871!16s%2Fg%2F11rz954bj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vijapur-dental-clinic-hubballi",
@@ -11941,7 +12042,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Vijapur+Dental+Clinic/@15.3490115,75.1399619,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xc4f59ae02d14ba31!8m2!3d15.3490115!4d75.1399619!16s%2Fg%2F1vpq59sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijapur+Dental+Clinic/@15.3490115,75.1399619,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xc4f59ae02d14ba31!8m2!3d15.3490115!4d75.1399619!16s%2Fg%2F1vpq59sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12010,7 +12111,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vijapur+Dental+Clinic/@15.3490115,75.1399619,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xc4f59ae02d14ba31!8m2!3d15.3490115!4d75.1399619!16s%2Fg%2F1vpq59sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vijapur-dental-maxillofacial-and-implant-center-hubballi",
@@ -12060,7 +12162,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vijapur+Dental,+Maxillofacial+%26+Implant+Center/@15.3627431,75.1086958,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70056de0215:0xa07c59cf80a31017!8m2!3d15.3627431!4d75.1086958!16s%2Fg%2F11x5p3w_27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vijapur+Dental,+Maxillofacial+%26+Implant+Center/@15.3627431,75.1086958,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70056de0215:0xa07c59cf80a31017!8m2!3d15.3627431!4d75.1086958!16s%2Fg%2F11x5p3w_27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12126,10 +12228,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vijapur+Dental,+Maxillofacial+%26+Implant+Center/@15.3627431,75.1086958,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70056de0215:0xa07c59cf80a31017!8m2!3d15.3627431!4d75.1086958!16s%2Fg%2F11x5p3w_27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vishal-dental-clinic-hubballi",
@@ -12175,7 +12278,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Vishal+Dental+Clinic/@15.3401682,75.1432237,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ba73f85517:0x801245f3e217dc9!8m2!3d15.3401682!4d75.1432237!16s%2Fg%2F11s0vk7yb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vishal+Dental+Clinic/@15.3401682,75.1432237,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ba73f85517:0x801245f3e217dc9!8m2!3d15.3401682!4d75.1432237!16s%2Fg%2F11s0vk7yb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12241,10 +12344,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vishal+Dental+Clinic/@15.3401682,75.1432237,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ba73f85517:0x801245f3e217dc9!8m2!3d15.3401682!4d75.1432237!16s%2Fg%2F11s0vk7yb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vivekanand-general-hospital-hubballi",
@@ -12293,7 +12397,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vivekanand+General+Hospital/@15.3550867,75.1403581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744f2f09e63:0x1af09274bead1a06!8m2!3d15.3550867!4d75.1403581!16s%2Fg%2F1td70f_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vivekanand+General+Hospital/@15.3550867,75.1403581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744f2f09e63:0x1af09274bead1a06!8m2!3d15.3550867!4d75.1403581!16s%2Fg%2F1td70f_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12362,7 +12466,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vivekanand+General+Hospital/@15.3550867,75.1403581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744f2f09e63:0x1af09274bead1a06!8m2!3d15.3550867!4d75.1403581!16s%2Fg%2F1td70f_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "we-care-hubballi",
@@ -12410,7 +12515,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/WE+CARE/@15.3349925,75.1312671,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71e490a6c27:0xfca8422743b31e6d!8m2!3d15.3349925!4d75.1312671!16s%2Fg%2F11n_v8ykx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/WE+CARE/@15.3349925,75.1312671,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71e490a6c27:0xfca8422743b31e6d!8m2!3d15.3349925!4d75.1312671!16s%2Fg%2F11n_v8ykx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -12476,9 +12581,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/WE+CARE/@15.3349925,75.1312671,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71e490a6c27:0xfca8422743b31e6d!8m2!3d15.3349925!4d75.1312671!16s%2Fg%2F11n_v8ykx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

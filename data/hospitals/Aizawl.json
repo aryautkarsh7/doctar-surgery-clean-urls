@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/A+%26+A+Clinic/@23.7285406,92.7236336,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94cf4ea216d1:0x8ee0c2d7526921b1!8m2!3d23.7285406!4d92.7236336!16s%2Fg%2F11shnzdmdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+%26+A+Clinic/@23.7285406,92.7236336,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94cf4ea216d1:0x8ee0c2d7526921b1!8m2!3d23.7285406!4d92.7236336!16s%2Fg%2F11shnzdmdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -111,10 +111,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A+%26+A+Clinic/@23.7285406,92.7236336,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94cf4ea216d1:0x8ee0c2d7526921b1!8m2!3d23.7285406!4d92.7236336!16s%2Fg%2F11shnzdmdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "a-and-b-dental-clinic-aizawl",
@@ -162,7 +163,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/A+%26+B+DENTAL+CLINIC/@23.7373773,92.7171719,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b56d9947fb:0x971b45966964c2c3!8m2!3d23.7373773!4d92.7171719!16s%2Fg%2F11y412jr5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+%26+B+DENTAL+CLINIC/@23.7373773,92.7171719,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b56d9947fb:0x971b45966964c2c3!8m2!3d23.7373773!4d92.7171719!16s%2Fg%2F11y412jr5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -228,10 +229,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A+%26+B+DENTAL+CLINIC/@23.7373773,92.7171719,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b56d9947fb:0x971b45966964c2c3!8m2!3d23.7373773!4d92.7171719!16s%2Fg%2F11y412jr5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ace-dental-clinic-aizawl",
@@ -280,7 +282,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ace+Dental+Clinic/@23.7195421,92.7288486,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95f915217e01:0x89998d17e7668d0a!8m2!3d23.7195421!4d92.7288486!16s%2Fg%2F11y135btgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ace+Dental+Clinic/@23.7195421,92.7288486,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95f915217e01:0x89998d17e7668d0a!8m2!3d23.7195421!4d92.7288486!16s%2Fg%2F11y135btgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -346,10 +348,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ace+Dental+Clinic/@23.7195421,92.7288486,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95f915217e01:0x89998d17e7668d0a!8m2!3d23.7195421!4d92.7288486!16s%2Fg%2F11y135btgz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "adventist-hospital-aizawl",
@@ -398,7 +401,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Adventist+Hospital/data=!4m7!3m6!1s0x374d94b261b030dd:0xce53072e78d79d63!8m2!3d23.7365458!4d92.7093774!16s%2Fm%2F07s6nmq!19sChIJ3TCwYbKUTTcRY53XeC4HU84?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adventist+Hospital/data=!4m7!3m6!1s0x374d94b261b030dd:0xce53072e78d79d63!8m2!3d23.7365458!4d92.7093774!16s%2Fm%2F07s6nmq!19sChIJ3TCwYbKUTTcRY53XeC4HU84?authuser=0&hl=en&rclk=1"
@@ -467,7 +470,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Adventist+Hospital/data=!4m7!3m6!1s0x374d94b261b030dd:0xce53072e78d79d63!8m2!3d23.7365458!4d92.7093774!16s%2Fm%2F07s6nmq!19sChIJ3TCwYbKUTTcRY53XeC4HU84?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aizawl-aizawl",
@@ -513,7 +517,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Aizawl,+Mizoram/@23.7443772,92.7115845,12z/data=!3m1!4b1!4m6!3m5!1s0x374d94b676913a3f:0xfa1b12590950db6c!8m2!3d23.7307175!4d92.7173106!16s%2Fg%2F11bc57bkj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aizawl,+Mizoram/@23.7443772,92.7115845,12z/data=!3m1!4b1!4m6!3m5!1s0x374d94b676913a3f:0xfa1b12590950db6c!8m2!3d23.7307175!4d92.7173106!16s%2Fg%2F11bc57bkj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -579,10 +583,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aizawl,+Mizoram/@23.7443772,92.7115845,12z/data=!3m1!4b1!4m6!3m5!1s0x374d94b676913a3f:0xfa1b12590950db6c!8m2!3d23.7307175!4d92.7173106!16s%2Fg%2F11bc57bkj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aizawl-dental-chamber-aizawl",
@@ -628,7 +633,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Aizawl+Dental+Chamber/@23.7407346,92.7171886,17z/data=!3m1!4b1!4m6!3m5!1s0x374debcdfcb324cd:0x8c80d4e3f7bc7bfc!8m2!3d23.7407346!4d92.7171886!16s%2Fg%2F11sdyw45ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aizawl+Dental+Chamber/@23.7407346,92.7171886,17z/data=!3m1!4b1!4m6!3m5!1s0x374debcdfcb324cd:0x8c80d4e3f7bc7bfc!8m2!3d23.7407346!4d92.7171886!16s%2Fg%2F11sdyw45ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -694,10 +699,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aizawl+Dental+Chamber/@23.7407346,92.7171886,17z/data=!3m1!4b1!4m6!3m5!1s0x374debcdfcb324cd:0x8c80d4e3f7bc7bfc!8m2!3d23.7407346!4d92.7171886!16s%2Fg%2F11sdyw45ll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aizawl-hospital-and-research-centre-arhc-peter-s-street-khatla-aizawl",
@@ -745,7 +751,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Aizawl+Hospital+%26+Research+Centre+(ARHC),+Peter'S+Street+Khatla/@23.7188251,92.7176091,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94bfc315deb3:0x44a0c2eb11fa2ea4!8m2!3d23.7188251!4d92.7176091!16s%2Fg%2F1trpjknc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aizawl+Hospital+%26+Research+Centre+(ARHC),+Peter'S+Street+Khatla/@23.7188251,92.7176091,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94bfc315deb3:0x44a0c2eb11fa2ea4!8m2!3d23.7188251!4d92.7176091!16s%2Fg%2F1trpjknc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -814,7 +820,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aizawl+Hospital+%26+Research+Centre+(ARHC),+Peter'S+Street+Khatla/@23.7188251,92.7176091,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94bfc315deb3:0x44a0c2eb11fa2ea4!8m2!3d23.7188251!4d92.7176091!16s%2Fg%2F1trpjknc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aizawl-orthodontics-centre-and-dental-clinic-aizawl",
@@ -864,7 +871,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/AIZAWL+ORTHODONTICS+CENTRE+%26+DENTAL+CLINIC/@23.7305951,92.7527905,17z/data=!3m1!4b1!4m6!3m5!1s0x374d954206cfa14d:0x56490f6cc8925e9f!8m2!3d23.7305951!4d92.7527905!16s%2Fg%2F11pzx94lmd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AIZAWL+ORTHODONTICS+CENTRE+%26+DENTAL+CLINIC/@23.7305951,92.7527905,17z/data=!3m1!4b1!4m6!3m5!1s0x374d954206cfa14d:0x56490f6cc8925e9f!8m2!3d23.7305951!4d92.7527905!16s%2Fg%2F11pzx94lmd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -930,10 +937,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AIZAWL+ORTHODONTICS+CENTRE+%26+DENTAL+CLINIC/@23.7305951,92.7527905,17z/data=!3m1!4b1!4m6!3m5!1s0x374d954206cfa14d:0x56490f6cc8925e9f!8m2!3d23.7305951!4d92.7527905!16s%2Fg%2F11pzx94lmd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aizawl-skin-care-aizawl",
@@ -981,7 +989,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aizawl+Skin+Care/@23.7337407,92.7166933,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95631a20cf45:0x78db05e291d5c3ab!8m2!3d23.7337407!4d92.7166933!16s%2Fg%2F11s_yysgxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aizawl+Skin+Care/@23.7337407,92.7166933,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95631a20cf45:0x78db05e291d5c3ab!8m2!3d23.7337407!4d92.7166933!16s%2Fg%2F11s_yysgxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1047,10 +1055,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aizawl+Skin+Care/@23.7337407,92.7166933,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95631a20cf45:0x78db05e291d5c3ab!8m2!3d23.7337407!4d92.7166933!16s%2Fg%2F11s_yysgxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aizawlplasticsurgerycentre-aizawl",
@@ -1097,7 +1106,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/aizawlplasticsurgerycentre/data=!4m7!3m6!1s0x374d95f3a3b84b6d:0x73a0c48fd728dc05!8m2!3d23.7313868!4d92.7170328!16s%2Fg%2F11w3863smm!19sChIJbUu4o_OVTTcRBdwo14_EoHM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/aizawlplasticsurgerycentre/data=!4m7!3m6!1s0x374d95f3a3b84b6d:0x73a0c48fd728dc05!8m2!3d23.7313868!4d92.7170328!16s%2Fg%2F11w3863smm!19sChIJbUu4o_OVTTcRBdwo14_EoHM?authuser=0&hl=en&rclk=1"
@@ -1163,10 +1172,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/aizawlplasticsurgerycentre/data=!4m7!3m6!1s0x374d95f3a3b84b6d:0x73a0c48fd728dc05!8m2!3d23.7313868!4d92.7170328!16s%2Fg%2F11w3863smm!19sChIJbUu4o_OVTTcRBdwo14_EoHM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aldo-s-dental-chamber-aizawl",
@@ -1214,7 +1224,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Aldo's+Dental+Chamber/@23.7480381,92.7229261,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb3f45cf9fbf:0xf90ea49f652fd226!8m2!3d23.7480381!4d92.7229261!16s%2Fg%2F11x34fxsjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aldo's+Dental+Chamber/@23.7480381,92.7229261,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb3f45cf9fbf:0xf90ea49f652fd226!8m2!3d23.7480381!4d92.7229261!16s%2Fg%2F11x34fxsjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1280,10 +1290,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aldo's+Dental+Chamber/@23.7480381,92.7229261,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb3f45cf9fbf:0xf90ea49f652fd226!8m2!3d23.7480381!4d92.7229261!16s%2Fg%2F11x34fxsjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "alovia-healthcare-aizawl",
@@ -1331,7 +1342,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Alovia+Healthcare/@23.7483297,92.7203268,17z/data=!3m1!4b1!4m6!3m5!1s0x374debc484641cd1:0x533496ec65cb7deb!8m2!3d23.7483297!4d92.7203268!16s%2Fg%2F11s5crtrh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alovia+Healthcare/@23.7483297,92.7203268,17z/data=!3m1!4b1!4m6!3m5!1s0x374debc484641cd1:0x533496ec65cb7deb!8m2!3d23.7483297!4d92.7203268!16s%2Fg%2F11s5crtrh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1397,10 +1408,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Alovia+Healthcare/@23.7483297,92.7203268,17z/data=!3m1!4b1!4m6!3m5!1s0x374debc484641cd1:0x533496ec65cb7deb!8m2!3d23.7483297!4d92.7203268!16s%2Fg%2F11s5crtrh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "alpha-dental-care-aizawl-aizawl",
@@ -1448,7 +1460,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Alpha+Dental+Care,Aizawl/@23.7322753,92.7169966,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b66ad7c373:0x6f156cc44c8d6000!8m2!3d23.7322753!4d92.7169966!16s%2Fg%2F11dx8l625n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alpha+Dental+Care,Aizawl/@23.7322753,92.7169966,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b66ad7c373:0x6f156cc44c8d6000!8m2!3d23.7322753!4d92.7169966!16s%2Fg%2F11dx8l625n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1514,10 +1526,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Alpha+Dental+Care,Aizawl/@23.7322753,92.7169966,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b66ad7c373:0x6f156cc44c8d6000!8m2!3d23.7322753!4d92.7169966!16s%2Fg%2F11dx8l625n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "alpha-heal-pain-and-laser-clinic-aizawl",
@@ -1566,7 +1579,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Alpha+Heal+Pain+%26+Laser+Clinic/@23.7293619,92.7162409,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95ed4e250035:0x7c1663bef4101cad!8m2!3d23.7293619!4d92.7162409!16s%2Fg%2F11spxh8y7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alpha+Heal+Pain+%26+Laser+Clinic/@23.7293619,92.7162409,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95ed4e250035:0x7c1663bef4101cad!8m2!3d23.7293619!4d92.7162409!16s%2Fg%2F11spxh8y7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1632,10 +1645,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Alpha+Heal+Pain+%26+Laser+Clinic/@23.7293619,92.7162409,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95ed4e250035:0x7c1663bef4101cad!8m2!3d23.7293619!4d92.7162409!16s%2Fg%2F11spxh8y7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "alpha-hospital-aizawl",
@@ -1683,7 +1697,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Alpha+Hospital/@23.7091681,92.719537,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94eca272614b:0xfc7b2d017dc3d069!8m2!3d23.7091681!4d92.719537!16s%2Fg%2F1260rk72z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Alpha+Hospital/@23.7091681,92.719537,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94eca272614b:0xfc7b2d017dc3d069!8m2!3d23.7091681!4d92.719537!16s%2Fg%2F1260rk72z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1752,7 +1766,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Alpha+Hospital/@23.7091681,92.719537,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94eca272614b:0xfc7b2d017dc3d069!8m2!3d23.7091681!4d92.719537!16s%2Fg%2F1260rk72z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "am-medical-centre-aizawl-aizawl",
@@ -1801,7 +1816,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AM+Medical+Centre+-+Aizawl/@23.7429578,92.7163423,17z/data=!3m1!4b1!4m6!3m5!1s0x374debb5acea2dff:0xa65ea71662b0bd28!8m2!3d23.7429578!4d92.7163423!16s%2Fg%2F11xd2vd46m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AM+Medical+Centre+-+Aizawl/@23.7429578,92.7163423,17z/data=!3m1!4b1!4m6!3m5!1s0x374debb5acea2dff:0xa65ea71662b0bd28!8m2!3d23.7429578!4d92.7163423!16s%2Fg%2F11xd2vd46m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1867,10 +1882,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AM+Medical+Centre+-+Aizawl/@23.7429578,92.7163423,17z/data=!3m1!4b1!4m6!3m5!1s0x374debb5acea2dff:0xa65ea71662b0bd28!8m2!3d23.7429578!4d92.7163423!16s%2Fg%2F11xd2vd46m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "antipas-dental-care-aizawl",
@@ -1918,7 +1934,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Antipas+Dental+Care/@23.7378772,92.7181256,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9571bbf8f5f7:0x9dce20a26ca77599!8m2!3d23.7378772!4d92.7181256!16s%2Fg%2F11xf_sll9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Antipas+Dental+Care/@23.7378772,92.7181256,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9571bbf8f5f7:0x9dce20a26ca77599!8m2!3d23.7378772!4d92.7181256!16s%2Fg%2F11xf_sll9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -1984,10 +2000,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Antipas+Dental+Care/@23.7378772,92.7181256,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9571bbf8f5f7:0x9dce20a26ca77599!8m2!3d23.7378772!4d92.7181256!16s%2Fg%2F11xf_sll9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-information-centre-aizawl-aizawl",
@@ -2035,7 +2052,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+Information+Centre+Aizawl/data=!4m7!3m6!1s0x374d959e71a23cd3:0x562fb965391d7f1b!8m2!3d23.7344766!4d92.7169596!16s%2Fg%2F11xf7j5jfq!19sChIJ0zyicZ6VTTcRG38dOWW5L1Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Information+Centre+Aizawl/data=!4m7!3m6!1s0x374d959e71a23cd3:0x562fb965391d7f1b!8m2!3d23.7344766!4d92.7169596!16s%2Fg%2F11xf7j5jfq!19sChIJ0zyicZ6VTTcRG38dOWW5L1Y?authuser=0&hl=en&rclk=1"
@@ -2101,10 +2118,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Information+Centre+Aizawl/data=!4m7!3m6!1s0x374d959e71a23cd3:0x562fb965391d7f1b!8m2!3d23.7344766!4d92.7169596!16s%2Fg%2F11xf7j5jfq!19sChIJ0zyicZ6VTTcRG38dOWW5L1Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bliss-dental-clinic-aizawl",
@@ -2152,7 +2170,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Bliss+Dental+Clinic/@23.7115866,92.7209398,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95302e91219b:0x7e249e4a92dccf1f!8m2!3d23.7115866!4d92.7209398!16s%2Fg%2F11fkcpwgvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bliss+Dental+Clinic/@23.7115866,92.7209398,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95302e91219b:0x7e249e4a92dccf1f!8m2!3d23.7115866!4d92.7209398!16s%2Fg%2F11fkcpwgvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2221,7 +2239,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bliss+Dental+Clinic/@23.7115866,92.7209398,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95302e91219b:0x7e249e4a92dccf1f!8m2!3d23.7115866!4d92.7209398!16s%2Fg%2F11fkcpwgvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bn-hospital-and-research-centre-aizawl",
@@ -2269,7 +2288,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/BN+Hospital+%26+Research+Centre/@23.711039,92.719462,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94eb403c42ad:0xe3ec8c36e807bdd5!8m2!3d23.711039!4d92.719462!16s%2Fg%2F1264bfpln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BN+Hospital+%26+Research+Centre/@23.711039,92.719462,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94eb403c42ad:0xe3ec8c36e807bdd5!8m2!3d23.711039!4d92.719462!16s%2Fg%2F1264bfpln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2338,7 +2357,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BN+Hospital+%26+Research+Centre/@23.711039,92.719462,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94eb403c42ad:0xe3ec8c36e807bdd5!8m2!3d23.711039!4d92.719462!16s%2Fg%2F1264bfpln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cee-vee-dental-care-aizawl",
@@ -2386,7 +2406,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Cee+Vee+Dental+Care/@23.7347585,92.7172235,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b5e201c453:0xc19f455a3ff7cd65!8m2!3d23.7347585!4d92.7172235!16s%2Fg%2F11g8v4_4qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cee+Vee+Dental+Care/@23.7347585,92.7172235,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b5e201c453:0xc19f455a3ff7cd65!8m2!3d23.7347585!4d92.7172235!16s%2Fg%2F11g8v4_4qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2452,10 +2472,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cee+Vee+Dental+Care/@23.7347585,92.7172235,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b5e201c453:0xc19f455a3ff7cd65!8m2!3d23.7347585!4d92.7172235!16s%2Fg%2F11g8v4_4qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "chuailo-skincare-aizawl",
@@ -2503,7 +2524,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Chuailo+Skincare/@23.7330551,92.7172977,17z/data=!3m1!4b1!4m6!3m5!1s0x374d959fe22c7555:0xc44b732d5e489a81!8m2!3d23.7330551!4d92.7172977!16s%2Fg%2F11sqqcq5vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chuailo+Skincare/@23.7330551,92.7172977,17z/data=!3m1!4b1!4m6!3m5!1s0x374d959fe22c7555:0xc44b732d5e489a81!8m2!3d23.7330551!4d92.7172977!16s%2Fg%2F11sqqcq5vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2569,10 +2590,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chuailo+Skincare/@23.7330551,92.7172977,17z/data=!3m1!4b1!4m6!3m5!1s0x374d959fe22c7555:0xc44b732d5e489a81!8m2!3d23.7330551!4d92.7172977!16s%2Fg%2F11sqqcq5vj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-hospital-mission-veng-aizawl",
@@ -2620,7 +2642,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/City+Hospital,+Mission+Veng/@23.7165752,92.7164595,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94bfc4f959e5:0x260c85f3da2476!8m2!3d23.7165752!4d92.7164595!16s%2Fg%2F11gfk19c6g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Hospital,+Mission+Veng/@23.7165752,92.7164595,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94bfc4f959e5:0x260c85f3da2476!8m2!3d23.7165752!4d92.7164595!16s%2Fg%2F11gfk19c6g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2689,7 +2711,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Hospital,+Mission+Veng/@23.7165752,92.7164595,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94bfc4f959e5:0x260c85f3da2476!8m2!3d23.7165752!4d92.7164595!16s%2Fg%2F11gfk19c6g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-polyclinic-aizawl",
@@ -2737,7 +2760,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/CITY+POLYCLINIC/@23.7316748,92.7171137,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95a1049c537f:0x43a30f2890c71312!8m2!3d23.7316748!4d92.7171137!16s%2Fg%2F11j38jrmcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CITY+POLYCLINIC/@23.7316748,92.7171137,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95a1049c537f:0x43a30f2890c71312!8m2!3d23.7316748!4d92.7171137!16s%2Fg%2F11j38jrmcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2806,7 +2829,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CITY+POLYCLINIC/@23.7316748,92.7171137,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95a1049c537f:0x43a30f2890c71312!8m2!3d23.7316748!4d92.7171137!16s%2Fg%2F11j38jrmcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "civil-hospital-aizawl-aizawl",
@@ -2855,7 +2879,7 @@
       "Google rating 3.7",
       "14+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Civil+Hospital,+Aizawl/@23.7323402,92.7165256,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b665e20dd9:0xb3325bc46c2ccb75!8m2!3d23.7323402!4d92.7165256!16s%2Fm%2F0hnd6zx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Civil+Hospital,+Aizawl/@23.7323402,92.7165256,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b665e20dd9:0xb3325bc46c2ccb75!8m2!3d23.7323402!4d92.7165256!16s%2Fm%2F0hnd6zx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -2924,7 +2948,8 @@
     "rating": 3.7,
     "reviews": 14,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Civil+Hospital,+Aizawl/@23.7323402,92.7165256,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b665e20dd9:0xb3325bc46c2ccb75!8m2!3d23.7323402!4d92.7165256!16s%2Fm%2F0hnd6zx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "clm-dental-clinic-aizawl",
@@ -2972,7 +2997,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/CLM+DENTAL+CLINIC/@23.7547139,92.7302183,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb6e8490abd9:0xff5961317b193d2!8m2!3d23.7547139!4d92.7302183!16s%2Fg%2F11r69s65fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CLM+DENTAL+CLINIC/@23.7547139,92.7302183,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb6e8490abd9:0xff5961317b193d2!8m2!3d23.7547139!4d92.7302183!16s%2Fg%2F11r69s65fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3038,10 +3063,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CLM+DENTAL+CLINIC/@23.7547139,92.7302183,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb6e8490abd9:0xff5961317b193d2!8m2!3d23.7547139!4d92.7302183!16s%2Fg%2F11r69s65fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "corban-dental-aizawl",
@@ -3089,7 +3115,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Corban+Dental/@23.7331013,92.7173538,17z/data=!3m1!4b1!4m6!3m5!1s0x374d952bfb700cdd:0x3a6a7d844e868954!8m2!3d23.7331013!4d92.7173538!16s%2Fg%2F11j84x5m9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Corban+Dental/@23.7331013,92.7173538,17z/data=!3m1!4b1!4m6!3m5!1s0x374d952bfb700cdd:0x3a6a7d844e868954!8m2!3d23.7331013!4d92.7173538!16s%2Fg%2F11j84x5m9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3155,10 +3181,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Corban+Dental/@23.7331013,92.7173538,17z/data=!3m1!4b1!4m6!3m5!1s0x374d952bfb700cdd:0x3a6a7d844e868954!8m2!3d23.7331013!4d92.7173538!16s%2Fg%2F11j84x5m9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cosderm-clinic-dawrpui-south-aizawl-aizawl",
@@ -3204,7 +3231,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/COSDERM+CLINIC,+Dawrpui+South+-+Aizawl/@23.7274388,92.7178912,17z/data=!3m1!4b1!4m6!3m5!1s0x374d953b77de655d:0xf27408014b19fd0c!8m2!3d23.7274388!4d92.7178912!16s%2Fg%2F11pzblg6hf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/COSDERM+CLINIC,+Dawrpui+South+-+Aizawl/@23.7274388,92.7178912,17z/data=!3m1!4b1!4m6!3m5!1s0x374d953b77de655d:0xf27408014b19fd0c!8m2!3d23.7274388!4d92.7178912!16s%2Fg%2F11pzblg6hf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3270,10 +3297,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/COSDERM+CLINIC,+Dawrpui+South+-+Aizawl/@23.7274388,92.7178912,17z/data=!3m1!4b1!4m6!3m5!1s0x374d953b77de655d:0xf27408014b19fd0c!8m2!3d23.7274388!4d92.7178912!16s%2Fg%2F11pzblg6hf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cr-dental-clinic-aizawl",
@@ -3321,7 +3349,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/CR+Dental+Clinic/@23.7479294,92.7205832,17z/data=!3m1!4b1!4m6!3m5!1s0x374debd4814f6b0b:0x29a625157cebf586!8m2!3d23.7479294!4d92.7205832!16s%2Fg%2F11x6nms51h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CR+Dental+Clinic/@23.7479294,92.7205832,17z/data=!3m1!4b1!4m6!3m5!1s0x374debd4814f6b0b:0x29a625157cebf586!8m2!3d23.7479294!4d92.7205832!16s%2Fg%2F11x6nms51h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3387,10 +3415,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CR+Dental+Clinic/@23.7479294,92.7205832,17z/data=!3m1!4b1!4m6!3m5!1s0x374debd4814f6b0b:0x29a625157cebf586!8m2!3d23.7479294!4d92.7205832!16s%2Fg%2F11x6nms51h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "daniel-denal-care-aizawl",
@@ -3438,7 +3467,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DANIEL+DENAL+CARE/@23.7337511,92.7147984,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95a2ff5d848d:0x2f71c736755678c6!8m2!3d23.7337511!4d92.7147984!16s%2Fg%2F11rqkv8lrx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DANIEL+DENAL+CARE/@23.7337511,92.7147984,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95a2ff5d848d:0x2f71c736755678c6!8m2!3d23.7337511!4d92.7147984!16s%2Fg%2F11rqkv8lrx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3504,10 +3533,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DANIEL+DENAL+CARE/@23.7337511,92.7147984,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95a2ff5d848d:0x2f71c736755678c6!8m2!3d23.7337511!4d92.7147984!16s%2Fg%2F11rqkv8lrx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dent-o-care-aizawl",
@@ -3555,7 +3585,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DENT+O+CARE/@23.7482603,92.7202717,17z/data=!3m1!4b1!4m6!3m5!1s0x374debb611f2448b:0x4642ac2a7e3957af!8m2!3d23.7482603!4d92.7202717!16s%2Fg%2F11mvmwm9pk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENT+O+CARE/@23.7482603,92.7202717,17z/data=!3m1!4b1!4m6!3m5!1s0x374debb611f2448b:0x4642ac2a7e3957af!8m2!3d23.7482603!4d92.7202717!16s%2Fg%2F11mvmwm9pk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3621,10 +3651,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENT+O+CARE/@23.7482603,92.7202717,17z/data=!3m1!4b1!4m6!3m5!1s0x374debb611f2448b:0x4642ac2a7e3957af!8m2!3d23.7482603!4d92.7202717!16s%2Fg%2F11mvmwm9pk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-avenue-aizawl",
@@ -3673,7 +3704,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Avenue/@23.7424223,92.7043351,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb0083d65919:0xdfdd6bbad9dfa7a0!8m2!3d23.7424223!4d92.7043351!16s%2Fg%2F11lnmwwldw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Avenue/@23.7424223,92.7043351,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb0083d65919:0xdfdd6bbad9dfa7a0!8m2!3d23.7424223!4d92.7043351!16s%2Fg%2F11lnmwwldw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3739,10 +3770,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Avenue/@23.7424223,92.7043351,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb0083d65919:0xdfdd6bbad9dfa7a0!8m2!3d23.7424223!4d92.7043351!16s%2Fg%2F11lnmwwldw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-cave-aizawl",
@@ -3790,7 +3822,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Cave/data=!4m7!3m6!1s0x374d94b66ab0cb75:0xc2f0d5c0a89479ef!8m2!3d23.7321533!4d92.7169965!16s%2Fg%2F11hbm26bd6!19sChIJdcuwaraUTTcR73mUqMDV8MI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Cave/data=!4m7!3m6!1s0x374d94b66ab0cb75:0xc2f0d5c0a89479ef!8m2!3d23.7321533!4d92.7169965!16s%2Fg%2F11hbm26bd6!19sChIJdcuwaraUTTcR73mUqMDV8MI?authuser=0&hl=en&rclk=1"
@@ -3856,10 +3888,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Cave/data=!4m7!3m6!1s0x374d94b66ab0cb75:0xc2f0d5c0a89479ef!8m2!3d23.7321533!4d92.7169965!16s%2Fg%2F11hbm26bd6!19sChIJdcuwaraUTTcR73mUqMDV8MI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dental-focus-aizawl",
@@ -3908,7 +3941,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Focus/@23.754568,92.7305744,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb368bf9a903:0xf9fe37772247ffc8!8m2!3d23.754568!4d92.7305744!16s%2Fg%2F11l6m88nhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Focus/@23.754568,92.7305744,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb368bf9a903:0xf9fe37772247ffc8!8m2!3d23.754568!4d92.7305744!16s%2Fg%2F11l6m88nhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -3974,10 +4007,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Focus/@23.754568,92.7305744,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb368bf9a903:0xf9fe37772247ffc8!8m2!3d23.754568!4d92.7305744!16s%2Fg%2F11l6m88nhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-haus-aizawl",
@@ -4025,7 +4059,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Haus/@23.7398004,92.7182476,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb4aaa4f16b3:0xc04852ad15aa63c!8m2!3d23.7398004!4d92.7182476!16s%2Fg%2F11kjzt42c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Haus/@23.7398004,92.7182476,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb4aaa4f16b3:0xc04852ad15aa63c!8m2!3d23.7398004!4d92.7182476!16s%2Fg%2F11kjzt42c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4094,7 +4128,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Haus/@23.7398004,92.7182476,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb4aaa4f16b3:0xc04852ad15aa63c!8m2!3d23.7398004!4d92.7182476!16s%2Fg%2F11kjzt42c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-oral-dental-clinic-aizawl",
@@ -4142,7 +4177,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Oral+Dental+Clinic/data=!4m7!3m6!1s0x374d9590e0448915:0x1bf98f134d9c1531!8m2!3d23.7289256!4d92.717095!16s%2Fg%2F11sqq5bwm1!19sChIJFYlE4JCVTTcRMRWcTROP-Rs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Oral+Dental+Clinic/data=!4m7!3m6!1s0x374d9590e0448915:0x1bf98f134d9c1531!8m2!3d23.7289256!4d92.717095!16s%2Fg%2F11sqq5bwm1!19sChIJFYlE4JCVTTcRMRWcTROP-Rs?authuser=0&hl=en&rclk=1"
@@ -4211,7 +4246,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Oral+Dental+Clinic/data=!4m7!3m6!1s0x374d9590e0448915:0x1bf98f134d9c1531!8m2!3d23.7289256!4d92.717095!16s%2Fg%2F11sqq5bwm1!19sChIJFYlE4JCVTTcRMRWcTROP-Rs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dental-plaza-aizawl",
@@ -4257,7 +4293,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Dental+Plaza/@23.7386384,92.7118883,17z/data=!3m1!4b1!4m6!3m5!1s0x374debe347b14db7:0xccd053bedb8f5be6!8m2!3d23.7386384!4d92.7118883!16s%2Fg%2F11srmd1tvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Plaza/@23.7386384,92.7118883,17z/data=!3m1!4b1!4m6!3m5!1s0x374debe347b14db7:0xccd053bedb8f5be6!8m2!3d23.7386384!4d92.7118883!16s%2Fg%2F11srmd1tvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4323,10 +4359,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Plaza/@23.7386384,92.7118883,17z/data=!3m1!4b1!4m6!3m5!1s0x374debe347b14db7:0xccd053bedb8f5be6!8m2!3d23.7386384!4d92.7118883!16s%2Fg%2F11srmd1tvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-plaza-zodin-square-aizawl",
@@ -4374,7 +4411,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Dental+plaza+,Zodin+Square/@23.7272608,92.71813,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b800d46985:0xce81337124d7b57c!8m2!3d23.7272608!4d92.71813!16s%2Fg%2F11f1vpcvfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+plaza+,Zodin+Square/@23.7272608,92.71813,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b800d46985:0xce81337124d7b57c!8m2!3d23.7272608!4d92.71813!16s%2Fg%2F11f1vpcvfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4443,7 +4480,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+plaza+,Zodin+Square/@23.7272608,92.71813,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b800d46985:0xce81337124d7b57c!8m2!3d23.7272608!4d92.71813!16s%2Fg%2F11f1vpcvfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-point-and-maxillofacial-surgery-clinic-aizawl",
@@ -4492,7 +4530,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Point+and+Maxillofacial+Surgery+Clinic/@23.7318032,92.7170427,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b6409184e1:0xd6e1a1eef4ced28!8m2!3d23.7318032!4d92.7170427!16s%2Fg%2F11c5t1m4zr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Point+and+Maxillofacial+Surgery+Clinic/@23.7318032,92.7170427,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b6409184e1:0xd6e1a1eef4ced28!8m2!3d23.7318032!4d92.7170427!16s%2Fg%2F11c5t1m4zr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4558,10 +4596,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Point+and+Maxillofacial+Surgery+Clinic/@23.7318032,92.7170427,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b6409184e1:0xd6e1a1eef4ced28!8m2!3d23.7318032!4d92.7170427!16s%2Fg%2F11c5t1m4zr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dentfield-dental-clinic-aizawl",
@@ -4609,7 +4648,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DENTFIELD+dental+clinic/@23.7213179,92.7173819,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95004720ec9b:0xebbfb2c8f4abd74d!8m2!3d23.7213179!4d92.7173819!16s%2Fg%2F11xt646nlw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTFIELD+dental+clinic/@23.7213179,92.7173819,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95004720ec9b:0xebbfb2c8f4abd74d!8m2!3d23.7213179!4d92.7173819!16s%2Fg%2F11xt646nlw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4675,10 +4714,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENTFIELD+dental+clinic/@23.7213179,92.7173819,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95004720ec9b:0xebbfb2c8f4abd74d!8m2!3d23.7213179!4d92.7173819!16s%2Fg%2F11xt646nlw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dentogenic-concept-dental-clinic-aizawl",
@@ -4726,7 +4766,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dentogenic+Concept+Dental+Clinic/@23.7356341,92.7175015,17z/data=!3m1!4b1!4m6!3m5!1s0x374d954f1291da4d:0x3e24c99217fa0bfc!8m2!3d23.7356341!4d92.7175015!16s%2Fg%2F11v07gkvfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentogenic+Concept+Dental+Clinic/@23.7356341,92.7175015,17z/data=!3m1!4b1!4m6!3m5!1s0x374d954f1291da4d:0x3e24c99217fa0bfc!8m2!3d23.7356341!4d92.7175015!16s%2Fg%2F11v07gkvfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4792,10 +4832,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dentogenic+Concept+Dental+Clinic/@23.7356341,92.7175015,17z/data=!3m1!4b1!4m6!3m5!1s0x374d954f1291da4d:0x3e24c99217fa0bfc!8m2!3d23.7356341!4d92.7175015!16s%2Fg%2F11v07gkvfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ebenezer-medical-center-aizawl",
@@ -4845,7 +4886,7 @@
       "13+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ebenezer+Medical+Center/@23.7312166,92.707811,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95a7002ade77:0xc087b3aaf46c3b4a!8m2!3d23.7312166!4d92.707811!16s%2Fg%2F11gxmdh2dk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ebenezer+Medical+Center/@23.7312166,92.707811,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95a7002ade77:0xc087b3aaf46c3b4a!8m2!3d23.7312166!4d92.707811!16s%2Fg%2F11gxmdh2dk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -4914,7 +4955,8 @@
     "rating": 4.2,
     "reviews": 13,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ebenezer+Medical+Center/@23.7312166,92.707811,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95a7002ade77:0xc087b3aaf46c3b4a!8m2!3d23.7312166!4d92.707811!16s%2Fg%2F11gxmdh2dk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "elegant-beauty-clinic-aizawl",
@@ -4961,7 +5003,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Elegant+Beauty+Clinic/@23.7356052,92.7139711,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95c3d5b1778d:0x870f05e8ee51357d!8m2!3d23.7356052!4d92.7139711!16s%2Fg%2F11sd8cxdr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Elegant+Beauty+Clinic/@23.7356052,92.7139711,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95c3d5b1778d:0x870f05e8ee51357d!8m2!3d23.7356052!4d92.7139711!16s%2Fg%2F11sd8cxdr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5027,10 +5069,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Elegant+Beauty+Clinic/@23.7356052,92.7139711,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95c3d5b1778d:0x870f05e8ee51357d!8m2!3d23.7356052!4d92.7139711!16s%2Fg%2F11sd8cxdr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eleos-dental-clinic-aizawl",
@@ -5078,7 +5121,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ELEOS+DENTAL+CLINIC/@23.7209892,92.7198327,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95007a527a21:0x21639feb67e65c01!8m2!3d23.7209892!4d92.7198327!16s%2Fg%2F11nb54xhc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ELEOS+DENTAL+CLINIC/@23.7209892,92.7198327,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95007a527a21:0x21639feb67e65c01!8m2!3d23.7209892!4d92.7198327!16s%2Fg%2F11nb54xhc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5144,10 +5187,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ELEOS+DENTAL+CLINIC/@23.7209892,92.7198327,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95007a527a21:0x21639feb67e65c01!8m2!3d23.7209892!4d92.7198327!16s%2Fg%2F11nb54xhc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "emau-physiotherapy-clinic-aizawl",
@@ -5195,7 +5239,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Emau+Physiotherapy+Clinic/@23.7394247,92.7042651,17z/data=!3m1!4b1!4m6!3m5!1s0x374d950bccc505e5:0x915216bdcf9f6017!8m2!3d23.7394247!4d92.7042651!16s%2Fg%2F11q8jn_181?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Emau+Physiotherapy+Clinic/@23.7394247,92.7042651,17z/data=!3m1!4b1!4m6!3m5!1s0x374d950bccc505e5:0x915216bdcf9f6017!8m2!3d23.7394247!4d92.7042651!16s%2Fg%2F11q8jn_181?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5261,10 +5305,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Emau+Physiotherapy+Clinic/@23.7394247,92.7042651,17z/data=!3m1!4b1!4m6!3m5!1s0x374d950bccc505e5:0x915216bdcf9f6017!8m2!3d23.7394247!4d92.7042651!16s%2Fg%2F11q8jn_181?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "eye-care-hospital-aizawl",
@@ -5313,7 +5358,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Eye+Care+Hospital/@23.7297238,92.7172068,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b614ba9ecb:0xf7b2037d1b5c1884!8m2!3d23.7297238!4d92.7172068!16s%2Fg%2F126406jvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Eye+Care+Hospital/@23.7297238,92.7172068,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b614ba9ecb:0xf7b2037d1b5c1884!8m2!3d23.7297238!4d92.7172068!16s%2Fg%2F126406jvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5382,7 +5427,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Eye+Care+Hospital/@23.7297238,92.7172068,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b614ba9ecb:0xf7b2037d1b5c1884!8m2!3d23.7297238!4d92.7172068!16s%2Fg%2F126406jvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "faith-dental-care-aizawl",
@@ -5431,7 +5477,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Faith+Dental+Care/@23.7419178,92.7031682,17z/data=!3m1!4b1!4m6!3m5!1s0x374ded119c285705:0xd96c8e980cd9b535!8m2!3d23.7419178!4d92.7031682!16s%2Fg%2F11vx7jqkfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Faith+Dental+Care/@23.7419178,92.7031682,17z/data=!3m1!4b1!4m6!3m5!1s0x374ded119c285705:0xd96c8e980cd9b535!8m2!3d23.7419178!4d92.7031682!16s%2Fg%2F11vx7jqkfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5500,7 +5546,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Faith+Dental+Care/@23.7419178,92.7031682,17z/data=!3m1!4b1!4m6!3m5!1s0x374ded119c285705:0xd96c8e980cd9b535!8m2!3d23.7419178!4d92.7031682!16s%2Fg%2F11vx7jqkfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "faith-dental-clinic-aizawl",
@@ -5548,7 +5595,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Faith+Dental+Clinic/@23.7172017,92.7184057,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9547866a6723:0x2ff7d4375f7a2cd5!8m2!3d23.7172017!4d92.7184057!16s%2Fg%2F11fd4kw1gw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Faith+Dental+Clinic/@23.7172017,92.7184057,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9547866a6723:0x2ff7d4375f7a2cd5!8m2!3d23.7172017!4d92.7184057!16s%2Fg%2F11fd4kw1gw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5617,7 +5664,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Faith+Dental+Clinic/@23.7172017,92.7184057,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9547866a6723:0x2ff7d4375f7a2cd5!8m2!3d23.7172017!4d92.7184057!16s%2Fg%2F11fd4kw1gw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "faith-physiotherapy-clinic-in-loving-memory-of-f-lalrintluanga-laser-clinic-aizawl",
@@ -5666,7 +5714,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Faith+Physiotherapy+Clinic+(In+loving+memory+of+F.Lalrintluanga)%2FLASER+CLINIC/@23.7151671,92.7191386,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94eaa48f0361:0xd32419fb215e67f1!8m2!3d23.7151671!4d92.7191386!16s%2Fg%2F11f5hlx7dr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Faith+Physiotherapy+Clinic+(In+loving+memory+of+F.Lalrintluanga)%2FLASER+CLINIC/@23.7151671,92.7191386,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94eaa48f0361:0xd32419fb215e67f1!8m2!3d23.7151671!4d92.7191386!16s%2Fg%2F11f5hlx7dr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5735,7 +5783,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Faith+Physiotherapy+Clinic+(In+loving+memory+of+F.Lalrintluanga)%2FLASER+CLINIC/@23.7151671,92.7191386,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94eaa48f0361:0xd32419fb215e67f1!8m2!3d23.7151671!4d92.7191386!16s%2Fg%2F11f5hlx7dr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fld-dental-clinic-aizawl",
@@ -5783,7 +5832,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/FLD+Dental+Clinic/@23.744679,92.7237849,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb4f20c7fb6d:0x63ec1164f9dcaecd!8m2!3d23.744679!4d92.7237849!16s%2Fg%2F11sc7fcvsg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FLD+Dental+Clinic/@23.744679,92.7237849,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb4f20c7fb6d:0x63ec1164f9dcaecd!8m2!3d23.744679!4d92.7237849!16s%2Fg%2F11sc7fcvsg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5849,10 +5898,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/FLD+Dental+Clinic/@23.744679,92.7237849,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb4f20c7fb6d:0x63ec1164f9dcaecd!8m2!3d23.744679!4d92.7237849!16s%2Fg%2F11sc7fcvsg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gratia-dental-care-near-congress-bhavan",
@@ -5900,7 +5950,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Gratia+Dental+Care/@23.7258825,92.718018,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b8738c4ccf:0x91da71850740e1bb!8m2!3d23.7258825!4d92.718018!16s%2Fg%2F11g6bpyk40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gratia+Dental+Care/@23.7258825,92.718018,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b8738c4ccf:0x91da71850740e1bb!8m2!3d23.7258825!4d92.718018!16s%2Fg%2F11g6bpyk40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -5969,7 +6019,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gratia+Dental+Care/@23.7258825,92.718018,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b8738c4ccf:0x91da71850740e1bb!8m2!3d23.7258825!4d92.718018!16s%2Fg%2F11g6bpyk40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "greenwood-hospital-pvt-ltd-aizawl",
@@ -6017,7 +6068,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Greenwood+Hospital+Pvt+Ltd/@23.7554666,92.7310241,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb245dd0de29:0xfc1fb8ba4393f1d7!8m2!3d23.7554666!4d92.7310241!16s%2Fg%2F11ckw2923w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Greenwood+Hospital+Pvt+Ltd/@23.7554666,92.7310241,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb245dd0de29:0xfc1fb8ba4393f1d7!8m2!3d23.7554666!4d92.7310241!16s%2Fg%2F11ckw2923w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6083,10 +6134,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Greenwood+Hospital+Pvt+Ltd/@23.7554666,92.7310241,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb245dd0de29:0xfc1fb8ba4393f1d7!8m2!3d23.7554666!4d92.7310241!16s%2Fg%2F11ckw2923w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hope-dental-and-facial-aesthetic-clinic-aizawl",
@@ -6134,7 +6186,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/HOPE+DENTAL+%26+FACIAL+AESTHETIC+CLINIC/data=!4m7!3m6!1s0x374deb88225dc22b:0xe164a9e77d5e5f2f!8m2!3d23.7458867!4d92.7230034!16s%2Fg%2F11s_zkb3_x!19sChIJK8JdIojrTTcRL19efeepZOE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HOPE+DENTAL+%26+FACIAL+AESTHETIC+CLINIC/data=!4m7!3m6!1s0x374deb88225dc22b:0xe164a9e77d5e5f2f!8m2!3d23.7458867!4d92.7230034!16s%2Fg%2F11s_zkb3_x!19sChIJK8JdIojrTTcRL19efeepZOE?authuser=0&hl=en&rclk=1"
@@ -6200,10 +6252,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HOPE+DENTAL+%26+FACIAL+AESTHETIC+CLINIC/data=!4m7!3m6!1s0x374deb88225dc22b:0xe164a9e77d5e5f2f!8m2!3d23.7458867!4d92.7230034!16s%2Fg%2F11s_zkb3_x!19sChIJK8JdIojrTTcRL19efeepZOE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hope-medicals-selection-centre-aizawl",
@@ -6251,7 +6304,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Hope+Medicals,+Selection+Centre/@23.7329763,92.7172118,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b60daf47d3:0xebed8ab9472dc92e!8m2!3d23.7329763!4d92.7172118!16s%2Fg%2F11d_z500_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hope+Medicals,+Selection+Centre/@23.7329763,92.7172118,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b60daf47d3:0xebed8ab9472dc92e!8m2!3d23.7329763!4d92.7172118!16s%2Fg%2F11d_z500_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6320,7 +6373,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hope+Medicals,+Selection+Centre/@23.7329763,92.7172118,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b60daf47d3:0xebed8ab9472dc92e!8m2!3d23.7329763!4d92.7172118!16s%2Fg%2F11d_z500_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jenny-s-dental-solutions-aizawl",
@@ -6368,7 +6422,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/JENNY%27S+DENTAL+SOLUTIONS/data=!4m7!3m6!1s0x374d952865733507:0x4e809c139d8ce2f8!8m2!3d23.7234182!4d92.7249267!16s%2Fg%2F11vbq31z55!19sChIJBzVzZSiVTTcR-OKMnROcgE4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JENNY%27S+DENTAL+SOLUTIONS/data=!4m7!3m6!1s0x374d952865733507:0x4e809c139d8ce2f8!8m2!3d23.7234182!4d92.7249267!16s%2Fg%2F11vbq31z55!19sChIJBzVzZSiVTTcR-OKMnROcgE4?authuser=0&hl=en&rclk=1"
@@ -6437,7 +6491,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JENNY%27S+DENTAL+SOLUTIONS/data=!4m7!3m6!1s0x374d952865733507:0x4e809c139d8ce2f8!8m2!3d23.7234182!4d92.7249267!16s%2Fg%2F11vbq31z55!19sChIJBzVzZSiVTTcR-OKMnROcgE4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jh-dental-clinic-aizawl",
@@ -6485,7 +6540,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/JH+Dental+Clinic/@23.7096248,92.7195927,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9544cbc23249:0x5b16293b7347c406!8m2!3d23.7096248!4d92.7195927!16s%2Fg%2F11m742r6zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/JH+Dental+Clinic/@23.7096248,92.7195927,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9544cbc23249:0x5b16293b7347c406!8m2!3d23.7096248!4d92.7195927!16s%2Fg%2F11m742r6zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6551,10 +6606,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/JH+Dental+Clinic/@23.7096248,92.7195927,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9544cbc23249:0x5b16293b7347c406!8m2!3d23.7096248!4d92.7195927!16s%2Fg%2F11m742r6zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "k2-skin-laser-and-aesthetic-clinique-aizawl",
@@ -6602,7 +6658,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/K2+Skin+Laser+And+Aesthetic+Clinique/@23.7188919,92.7131212,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95fe4436f7d7:0xa4b2933c715cd8b2!8m2!3d23.7188919!4d92.7131212!16s%2Fg%2F11ghfmh76m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/K2+Skin+Laser+And+Aesthetic+Clinique/@23.7188919,92.7131212,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95fe4436f7d7:0xa4b2933c715cd8b2!8m2!3d23.7188919!4d92.7131212!16s%2Fg%2F11ghfmh76m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6671,7 +6727,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/K2+Skin+Laser+And+Aesthetic+Clinique/@23.7188919,92.7131212,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95fe4436f7d7:0xa4b2933c715cd8b2!8m2!3d23.7188919!4d92.7131212!16s%2Fg%2F11ghfmh76m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kawlni-dental-care-aizawl",
@@ -6719,7 +6776,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Kawlni+Dental+Care/@23.7307186,92.7171904,17z/data=!3m1!4b1!4m6!3m5!1s0x374d951c23babb8b:0xc0aad68006e24c33!8m2!3d23.7307186!4d92.7171904!16s%2Fg%2F11ng7b05df?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kawlni+Dental+Care/@23.7307186,92.7171904,17z/data=!3m1!4b1!4m6!3m5!1s0x374d951c23babb8b:0xc0aad68006e24c33!8m2!3d23.7307186!4d92.7171904!16s%2Fg%2F11ng7b05df?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6785,10 +6842,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kawlni+Dental+Care/@23.7307186,92.7171904,17z/data=!3m1!4b1!4m6!3m5!1s0x374d951c23babb8b:0xc0aad68006e24c33!8m2!3d23.7307186!4d92.7171904!16s%2Fg%2F11ng7b05df?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kulikawn-healthcare-aizawl",
@@ -6837,7 +6895,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kulikawn+Healthcare/@23.7081547,92.7163973,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95fcfc7d75cd:0xdd2ac75432e05773!8m2!3d23.7081547!4d92.7163973!16s%2Fg%2F11w1n2prs9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kulikawn+Healthcare/@23.7081547,92.7163973,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95fcfc7d75cd:0xdd2ac75432e05773!8m2!3d23.7081547!4d92.7163973!16s%2Fg%2F11w1n2prs9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -6903,10 +6961,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kulikawn+Healthcare/@23.7081547,92.7163973,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95fcfc7d75cd:0xdd2ac75432e05773!8m2!3d23.7081547!4d92.7163973!16s%2Fg%2F11w1n2prs9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kulikawn-hospital-aizawl",
@@ -6955,7 +7014,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kulikawn+Hospital/@23.7551412,92.7189393,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94939f1a3373:0x53fb21bf7b15d056!8m2!3d23.7551412!4d92.7189393!16s%2Fg%2F1262dh81w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kulikawn+Hospital/@23.7551412,92.7189393,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94939f1a3373:0x53fb21bf7b15d056!8m2!3d23.7551412!4d92.7189393!16s%2Fg%2F1262dh81w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7024,7 +7083,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kulikawn+Hospital/@23.7551412,92.7189393,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94939f1a3373:0x53fb21bf7b15d056!8m2!3d23.7551412!4d92.7189393!16s%2Fg%2F1262dh81w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "laldinscans-aizawl",
@@ -7072,7 +7132,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Laldinscans/@23.7323557,92.7169821,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95d1ae23a825:0xc7f81910aab0560a!8m2!3d23.7323557!4d92.7169821!16s%2Fg%2F11syckb687?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laldinscans/@23.7323557,92.7169821,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95d1ae23a825:0xc7f81910aab0560a!8m2!3d23.7323557!4d92.7169821!16s%2Fg%2F11syckb687?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7138,10 +7198,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laldinscans/@23.7323557,92.7169821,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95d1ae23a825:0xc7f81910aab0560a!8m2!3d23.7323557!4d92.7169821!16s%2Fg%2F11syckb687?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lalrin-dental-clinic-aizawl",
@@ -7189,7 +7250,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Lalrin+Dental+Clinic/@23.7324914,92.7170348,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b6135369f3:0x48632799dea8e48a!8m2!3d23.7324914!4d92.7170348!16s%2Fg%2F11hb8l0cfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lalrin+Dental+Clinic/@23.7324914,92.7170348,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b6135369f3:0x48632799dea8e48a!8m2!3d23.7324914!4d92.7170348!16s%2Fg%2F11hb8l0cfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7255,10 +7316,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lalrin+Dental+Clinic/@23.7324914,92.7170348,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b6135369f3:0x48632799dea8e48a!8m2!3d23.7324914!4d92.7170348!16s%2Fg%2F11hb8l0cfy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "loyalty-orthodent-aizawl",
@@ -7305,7 +7367,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Loyalty+Orthodent/@23.7211061,92.7206916,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95e808895edf:0x24e8741f08fb4c4!8m2!3d23.7211061!4d92.7206916!16s%2Fg%2F11khhdr6hg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Loyalty+Orthodent/@23.7211061,92.7206916,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95e808895edf:0x24e8741f08fb4c4!8m2!3d23.7211061!4d92.7206916!16s%2Fg%2F11khhdr6hg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7371,10 +7433,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Loyalty+Orthodent/@23.7211061,92.7206916,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95e808895edf:0x24e8741f08fb4c4!8m2!3d23.7211061!4d92.7206916!16s%2Fg%2F11khhdr6hg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "lrm-hospital-aizawl-in-mizoram-aizawl",
@@ -7424,7 +7487,7 @@
       "6+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/LRM+Hospital+Aizawl+in+Mizoram/@23.7444112,92.7235642,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb33f6979755:0xf5e0809c7a5b5ead!8m2!3d23.7444112!4d92.7235642!16s%2Fg%2F11c2np0yx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LRM+Hospital+Aizawl+in+Mizoram/@23.7444112,92.7235642,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb33f6979755:0xf5e0809c7a5b5ead!8m2!3d23.7444112!4d92.7235642!16s%2Fg%2F11c2np0yx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7493,7 +7556,8 @@
     "rating": 3.8,
     "reviews": 6,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LRM+Hospital+Aizawl+in+Mizoram/@23.7444112,92.7235642,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb33f6979755:0xf5e0809c7a5b5ead!8m2!3d23.7444112!4d92.7235642!16s%2Fg%2F11c2np0yx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "meow-meow-aizawl",
@@ -7541,7 +7605,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Meow+Meow/data=!4m7!3m6!1s0x374d95bfb73bf8dd:0xc9821df435a691b7!8m2!3d23.7352143!4d92.7167599!16s%2Fg%2F11xm3s96zj!19sChIJ3fg7t7-VTTcRt5GmNfQdgsk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Meow+Meow/data=!4m7!3m6!1s0x374d95bfb73bf8dd:0xc9821df435a691b7!8m2!3d23.7352143!4d92.7167599!16s%2Fg%2F11xm3s96zj!19sChIJ3fg7t7-VTTcRt5GmNfQdgsk?authuser=0&hl=en&rclk=1"
@@ -7607,10 +7671,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Meow+Meow/data=!4m7!3m6!1s0x374d95bfb73bf8dd:0xc9821df435a691b7!8m2!3d23.7352143!4d92.7167599!16s%2Fg%2F11xm3s96zj!19sChIJ3fg7t7-VTTcRt5GmNfQdgsk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mercy-pet-care-aizawl",
@@ -7659,7 +7724,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Mercy+Pet+Care/@23.7445275,92.7227444,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb340ff977df:0xd30dff5e1dc5f59a!8m2!3d23.7445275!4d92.7227444!16s%2Fg%2F11c6wnrx1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mercy+Pet+Care/@23.7445275,92.7227444,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb340ff977df:0xd30dff5e1dc5f59a!8m2!3d23.7445275!4d92.7227444!16s%2Fg%2F11c6wnrx1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7728,7 +7793,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mercy+Pet+Care/@23.7445275,92.7227444,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb340ff977df:0xd30dff5e1dc5f59a!8m2!3d23.7445275!4d92.7227444!16s%2Fg%2F11c6wnrx1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mizoram-health-care-aizawl",
@@ -7776,7 +7842,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Mizoram+Health+Care/@23.7329333,92.7169749,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b673572e2f:0x38859e93c62d0d9c!8m2!3d23.7329333!4d92.7169749!16s%2Fg%2F11c6vw4x92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mizoram+Health+Care/@23.7329333,92.7169749,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b673572e2f:0x38859e93c62d0d9c!8m2!3d23.7329333!4d92.7169749!16s%2Fg%2F11c6vw4x92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -7845,7 +7911,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mizoram+Health+Care/@23.7329333,92.7169749,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b673572e2f:0x38859e93c62d0d9c!8m2!3d23.7329333!4d92.7169749!16s%2Fg%2F11c6vw4x92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mizoram-state-cancer-institute-aizawl",
@@ -7894,7 +7961,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mizoram+State+Cancer+Institute/data=!4m7!3m6!1s0x374d953170f225d1:0xb30736794aebac1b!8m2!3d23.7324141!4d92.7511813!16s%2Fg%2F1261gw_lr!19sChIJ0SXycDGVTTcRG6zrSnk2B7M?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mizoram+State+Cancer+Institute/data=!4m7!3m6!1s0x374d953170f225d1:0xb30736794aebac1b!8m2!3d23.7324141!4d92.7511813!16s%2Fg%2F1261gw_lr!19sChIJ0SXycDGVTTcRG6zrSnk2B7M?authuser=0&hl=en&rclk=1"
@@ -7963,7 +8030,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mizoram+State+Cancer+Institute/data=!4m7!3m6!1s0x374d953170f225d1:0xb30736794aebac1b!8m2!3d23.7324141!4d92.7511813!16s%2Fg%2F1261gw_lr!19sChIJ0SXycDGVTTcRG6zrSnk2B7M?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "my-dentist-aizawl",
@@ -8011,7 +8079,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/My+Dentist/@23.740667,92.7165536,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb4ac37b44f1:0xbb40b1fbfa667d6d!8m2!3d23.740667!4d92.7165536!16s%2Fg%2F11cn8xbps_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/My+Dentist/@23.740667,92.7165536,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb4ac37b44f1:0xbb40b1fbfa667d6d!8m2!3d23.740667!4d92.7165536!16s%2Fg%2F11cn8xbps_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8077,10 +8145,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/My+Dentist/@23.740667,92.7165536,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb4ac37b44f1:0xbb40b1fbfa667d6d!8m2!3d23.740667!4d92.7165536!16s%2Fg%2F11cn8xbps_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nazareth-dental-clinic-aizawl",
@@ -8128,7 +8197,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Nazareth+Dental+Clinic/@23.7486684,92.724256,17z/data=!3m1!4b1!4m6!3m5!1s0x374debebe5c990b3:0xfa638bf0c3452ea5!8m2!3d23.7486684!4d92.724256!16s%2Fg%2F11j3ncs7h9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nazareth+Dental+Clinic/@23.7486684,92.724256,17z/data=!3m1!4b1!4m6!3m5!1s0x374debebe5c990b3:0xfa638bf0c3452ea5!8m2!3d23.7486684!4d92.724256!16s%2Fg%2F11j3ncs7h9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8194,10 +8263,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nazareth+Dental+Clinic/@23.7486684,92.724256,17z/data=!3m1!4b1!4m6!3m5!1s0x374debebe5c990b3:0xfa638bf0c3452ea5!8m2!3d23.7486684!4d92.724256!16s%2Fg%2F11j3ncs7h9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nazareth-hospital-aizawl",
@@ -8245,7 +8315,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Nazareth+Hospital/data=!4m7!3m6!1s0x374deb30d8b48953:0xf58b3289b25baf32!8m2!3d23.7490147!4d92.7223908!16s%2Fg%2F1ts3jkyk!19sChIJU4m02DDrTTcRMq9bsokyi_U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nazareth+Hospital/data=!4m7!3m6!1s0x374deb30d8b48953:0xf58b3289b25baf32!8m2!3d23.7490147!4d92.7223908!16s%2Fg%2F1ts3jkyk!19sChIJU4m02DDrTTcRMq9bsokyi_U?authuser=0&hl=en&rclk=1"
@@ -8314,7 +8384,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nazareth+Hospital/data=!4m7!3m6!1s0x374deb30d8b48953:0xf58b3289b25baf32!8m2!3d23.7490147!4d92.7223908!16s%2Fg%2F1ts3jkyk!19sChIJU4m02DDrTTcRMq9bsokyi_U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "neurocare-brain-and-spine-clinic-aizawl-aizawl",
@@ -8364,7 +8435,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/NeuroCare+brain+and+spine+Clinic+Aizawl/data=!4m7!3m6!1s0x374deb0040ee238f:0xcf6cd3b90f7534fc!8m2!3d23.7501096!4d92.7279081!16s%2Fg%2F11z1kfw469!19sChIJjyPuQADrTTcR_DR1D7nTbM8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NeuroCare+brain+and+spine+Clinic+Aizawl/data=!4m7!3m6!1s0x374deb0040ee238f:0xcf6cd3b90f7534fc!8m2!3d23.7501096!4d92.7279081!16s%2Fg%2F11z1kfw469!19sChIJjyPuQADrTTcR_DR1D7nTbM8?authuser=0&hl=en&rclk=1"
@@ -8430,10 +8501,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NeuroCare+brain+and+spine+Clinic+Aizawl/data=!4m7!3m6!1s0x374deb0040ee238f:0xcf6cd3b90f7534fc!8m2!3d23.7501096!4d92.7279081!16s%2Fg%2F11z1kfw469!19sChIJjyPuQADrTTcR_DR1D7nTbM8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nkpc-kidney-clinic-aizawl",
@@ -8483,7 +8555,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1"
@@ -8552,7 +8624,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nui-mawi-dental-aizawl",
@@ -8600,7 +8673,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Nui+Mawi+Dental/@23.7365544,92.697337,17z/data=!3m1!4b1!4m6!3m5!1s0x374d93e0e11278db:0xa31f55fc595b7d0b!8m2!3d23.7365544!4d92.697337!16s%2Fg%2F11l662nf6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nui+Mawi+Dental/@23.7365544,92.697337,17z/data=!3m1!4b1!4m6!3m5!1s0x374d93e0e11278db:0xa31f55fc595b7d0b!8m2!3d23.7365544!4d92.697337!16s%2Fg%2F11l662nf6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8669,7 +8742,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nui+Mawi+Dental/@23.7365544,92.697337,17z/data=!3m1!4b1!4m6!3m5!1s0x374d93e0e11278db:0xa31f55fc595b7d0b!8m2!3d23.7365544!4d92.697337!16s%2Fg%2F11l662nf6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "o-smile-dental-clinic-aizawl",
@@ -8715,7 +8789,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/O-SMILE+DENTAL+CLINIC/@23.7188917,92.713121,17z/data=!3m1!4b1!4m6!3m5!1s0x374d950aca2ca2c5:0xbef974730426251d!8m2!3d23.7188917!4d92.713121!16s%2Fg%2F11kfc0gg24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/O-SMILE+DENTAL+CLINIC/@23.7188917,92.713121,17z/data=!3m1!4b1!4m6!3m5!1s0x374d950aca2ca2c5:0xbef974730426251d!8m2!3d23.7188917!4d92.713121!16s%2Fg%2F11kfc0gg24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8781,10 +8855,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/O-SMILE+DENTAL+CLINIC/@23.7188917,92.713121,17z/data=!3m1!4b1!4m6!3m5!1s0x374d950aca2ca2c5:0xbef974730426251d!8m2!3d23.7188917!4d92.713121!16s%2Fg%2F11kfc0gg24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "oriental-dental-clinic-aizawl",
@@ -8832,7 +8907,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Oriental+Dental+Clinic/@23.7203951,92.7161409,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95afbc057d63:0xed9c90b3c19987a6!8m2!3d23.7203951!4d92.7161409!16s%2Fg%2F11t2_rf0vy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oriental+Dental+Clinic/@23.7203951,92.7161409,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95afbc057d63:0xed9c90b3c19987a6!8m2!3d23.7203951!4d92.7161409!16s%2Fg%2F11t2_rf0vy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -8901,7 +8976,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oriental+Dental+Clinic/@23.7203951,92.7161409,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95afbc057d63:0xed9c90b3c19987a6!8m2!3d23.7203951!4d92.7161409!16s%2Fg%2F11t2_rf0vy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "r-k-dental-clinic-aizawl",
@@ -8949,7 +9025,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/R.K+Dental+Clinic/@23.7178419,92.7202362,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95219af0c29b:0xd28e9336ae72db60!8m2!3d23.7178419!4d92.7202362!16s%2Fg%2F11sh02vv_4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R.K+Dental+Clinic/@23.7178419,92.7202362,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95219af0c29b:0xd28e9336ae72db60!8m2!3d23.7178419!4d92.7202362!16s%2Fg%2F11sh02vv_4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9015,10 +9091,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R.K+Dental+Clinic/@23.7178419,92.7202362,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95219af0c29b:0xd28e9336ae72db60!8m2!3d23.7178419!4d92.7202362!16s%2Fg%2F11sh02vv_4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "radiant-dental-clinic-aizawl",
@@ -9066,7 +9143,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/RADIANT+DENTAL+CLINIC/@23.7202436,92.7230691,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95bb4db958c3:0x44082d977c3d985!8m2!3d23.7202436!4d92.7230691!16s%2Fg%2F11sd5ck8sb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RADIANT+DENTAL+CLINIC/@23.7202436,92.7230691,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95bb4db958c3:0x44082d977c3d985!8m2!3d23.7202436!4d92.7230691!16s%2Fg%2F11sd5ck8sb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9132,10 +9209,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RADIANT+DENTAL+CLINIC/@23.7202436,92.7230691,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95bb4db958c3:0x44082d977c3d985!8m2!3d23.7202436!4d92.7230691!16s%2Fg%2F11sd5ck8sb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "redeem-hospital-aizawl",
@@ -9183,7 +9261,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Redeem+Hospital/data=!4m7!3m6!1s0x374d94c4e23bedcd:0xf3dd3a1ec302f745!8m2!3d23.7242558!4d92.7266765!16s%2Fg%2F11f54sr7rq!19sChIJze074sSUTTcRRfcCwx463fM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Redeem+Hospital/data=!4m7!3m6!1s0x374d94c4e23bedcd:0xf3dd3a1ec302f745!8m2!3d23.7242558!4d92.7266765!16s%2Fg%2F11f54sr7rq!19sChIJze074sSUTTcRRfcCwx463fM?authuser=0&hl=en&rclk=1"
@@ -9252,7 +9330,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Redeem+Hospital/data=!4m7!3m6!1s0x374d94c4e23bedcd:0xf3dd3a1ec302f745!8m2!3d23.7242558!4d92.7266765!16s%2Fg%2F11f54sr7rq!19sChIJze074sSUTTcRRfcCwx463fM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "revive-skin-clinic-aizawl",
@@ -9300,7 +9379,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Revive+Skin+Clinic/@23.7501956,92.7274278,17z/data=!3m1!4b1!4m6!3m5!1s0x374debdf3f25caf5:0x8af8d6b033eebe73!8m2!3d23.7501956!4d92.7274278!16s%2Fg%2F11kpsmmvhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Revive+Skin+Clinic/@23.7501956,92.7274278,17z/data=!3m1!4b1!4m6!3m5!1s0x374debdf3f25caf5:0x8af8d6b033eebe73!8m2!3d23.7501956!4d92.7274278!16s%2Fg%2F11kpsmmvhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9366,10 +9445,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Revive+Skin+Clinic/@23.7501956,92.7274278,17z/data=!3m1!4b1!4m6!3m5!1s0x374debdf3f25caf5:0x8af8d6b033eebe73!8m2!3d23.7501956!4d92.7274278!16s%2Fg%2F11kpsmmvhz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rf-dental-clinic-aizawl",
@@ -9417,7 +9497,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/RF+DENTAL+CLINIC/data=!4m7!3m6!1s0x374d95bf5615e0cd:0x16567a2091944c3e!8m2!3d23.7271014!4d92.7174389!16s%2Fg%2F11q_hlbg_6!19sChIJzeAVVr-VTTcRPkyUkSB6VhY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RF+DENTAL+CLINIC/data=!4m7!3m6!1s0x374d95bf5615e0cd:0x16567a2091944c3e!8m2!3d23.7271014!4d92.7174389!16s%2Fg%2F11q_hlbg_6!19sChIJzeAVVr-VTTcRPkyUkSB6VhY?authuser=0&hl=en&rclk=1"
@@ -9483,10 +9563,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RF+DENTAL+CLINIC/data=!4m7!3m6!1s0x374d95bf5615e0cd:0x16567a2091944c3e!8m2!3d23.7271014!4d92.7174389!16s%2Fg%2F11q_hlbg_6!19sChIJzeAVVr-VTTcRPkyUkSB6VhY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rida-dental-clinic-aizawl",
@@ -9534,7 +9615,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Rida+dental+clinic/@23.7371489,92.7165442,17z/data=!3m1!4b1!4m6!3m5!1s0x374d952e7fb1231b:0xd09fb2b5eb598e65!8m2!3d23.7371489!4d92.7165442!16s%2Fg%2F11j1k3xpyl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rida+dental+clinic/@23.7371489,92.7165442,17z/data=!3m1!4b1!4m6!3m5!1s0x374d952e7fb1231b:0xd09fb2b5eb598e65!8m2!3d23.7371489!4d92.7165442!16s%2Fg%2F11j1k3xpyl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9600,10 +9681,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rida+dental+clinic/@23.7371489,92.7165442,17z/data=!3m1!4b1!4m6!3m5!1s0x374d952e7fb1231b:0xd09fb2b5eb598e65!8m2!3d23.7371489!4d92.7165442!16s%2Fg%2F11j1k3xpyl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rosang-dental-clinic-aizawl",
@@ -9651,7 +9733,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Rosang+Dental+Clinic/@23.7313791,92.7173533,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9500556d9a0f:0xe118f14ce89a09c2!8m2!3d23.7313791!4d92.7173533!16s%2Fg%2F11xfr1gz5n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rosang+Dental+Clinic/@23.7313791,92.7173533,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9500556d9a0f:0xe118f14ce89a09c2!8m2!3d23.7313791!4d92.7173533!16s%2Fg%2F11xfr1gz5n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9720,7 +9802,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rosang+Dental+Clinic/@23.7313791,92.7173533,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9500556d9a0f:0xe118f14ce89a09c2!8m2!3d23.7313791!4d92.7173533!16s%2Fg%2F11xfr1gz5n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rs-dental-clinic-aizawl",
@@ -9768,7 +9851,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/RS+Dental+Clinic/@23.7337234,92.716305,17z/data=!3m1!4b1!4m6!3m5!1s0x374d950047d0968f:0xc6bb881d99f90271!8m2!3d23.7337234!4d92.716305!16s%2Fg%2F11ln1w2qkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RS+Dental+Clinic/@23.7337234,92.716305,17z/data=!3m1!4b1!4m6!3m5!1s0x374d950047d0968f:0xc6bb881d99f90271!8m2!3d23.7337234!4d92.716305!16s%2Fg%2F11ln1w2qkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9834,10 +9917,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RS+Dental+Clinic/@23.7337234,92.716305,17z/data=!3m1!4b1!4m6!3m5!1s0x374d950047d0968f:0xc6bb881d99f90271!8m2!3d23.7337234!4d92.716305!16s%2Fg%2F11ln1w2qkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rz-dental-clinic-aizawl",
@@ -9885,7 +9969,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/RZ+Dental+Clinic/@23.7390718,92.7470267,17z/data=!3m1!4b1!4m6!3m5!1s0x374d951d3eabc567:0x63693d04371c2004!8m2!3d23.7390718!4d92.7470267!16s%2Fg%2F11sthr7py8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RZ+Dental+Clinic/@23.7390718,92.7470267,17z/data=!3m1!4b1!4m6!3m5!1s0x374d951d3eabc567:0x63693d04371c2004!8m2!3d23.7390718!4d92.7470267!16s%2Fg%2F11sthr7py8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -9954,7 +10038,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RZ+Dental+Clinic/@23.7390718,92.7470267,17z/data=!3m1!4b1!4m6!3m5!1s0x374d951d3eabc567:0x63693d04371c2004!8m2!3d23.7390718!4d92.7470267!16s%2Fg%2F11sthr7py8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "samari-neuro-rehabilitation-and-physiotherapy-centre-thakthing-aizawl",
@@ -10005,7 +10090,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Samari+Neuro-Rehabilitation+%26+Physiotherapy+Centre+-+Thakthing/@23.7121607,92.7211611,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95f9ee098075:0x56d9adeb16de237!8m2!3d23.7121607!4d92.7211611!16s%2Fg%2F11lkvjx8mv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Samari+Neuro-Rehabilitation+%26+Physiotherapy+Centre+-+Thakthing/@23.7121607,92.7211611,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95f9ee098075:0x56d9adeb16de237!8m2!3d23.7121607!4d92.7211611!16s%2Fg%2F11lkvjx8mv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -10071,10 +10156,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Samari+Neuro-Rehabilitation+%26+Physiotherapy+Centre+-+Thakthing/@23.7121607,92.7211611,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95f9ee098075:0x56d9adeb16de237!8m2!3d23.7121607!4d92.7211611!16s%2Fg%2F11lkvjx8mv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "seeds-of-innocence-ivf-centre-aizawl-mizoram-aizawl",
@@ -10123,7 +10209,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Seeds+of+Innocence+IVF+Centre+Aizawl+Mizoram/@23.6896352,92.7201375,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95614c2d0fd3:0x7ef71d3291782a64!8m2!3d23.6896352!4d92.7201375!16s%2Fg%2F11wmn93nk4?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seeds+of+Innocence+IVF+Centre+Aizawl+Mizoram/@23.6896352,92.7201375,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95614c2d0fd3:0x7ef71d3291782a64!8m2!3d23.6896352!4d92.7201375!16s%2Fg%2F11wmn93nk4?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -10189,10 +10275,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seeds+of+Innocence+IVF+Centre+Aizawl+Mizoram/@23.6896352,92.7201375,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95614c2d0fd3:0x7ef71d3291782a64!8m2!3d23.6896352!4d92.7201375!16s%2Fg%2F11wmn93nk4?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sic-mizoram-aizawl",
@@ -10241,7 +10328,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SiC+MIZORAM/@23.740464,92.7165563,17z/data=!3m1!4b1!4m6!3m5!1s0x374debdf2d82c479:0xf8e19f03bce1e214!8m2!3d23.740464!4d92.7165563!16s%2Fg%2F11kb58z7sv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SiC+MIZORAM/@23.740464,92.7165563,17z/data=!3m1!4b1!4m6!3m5!1s0x374debdf2d82c479:0xf8e19f03bce1e214!8m2!3d23.740464!4d92.7165563!16s%2Fg%2F11kb58z7sv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -10307,10 +10394,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SiC+MIZORAM/@23.740464,92.7165563,17z/data=!3m1!4b1!4m6!3m5!1s0x374debdf2d82c479:0xf8e19f03bce1e214!8m2!3d23.740464!4d92.7165563!16s%2Fg%2F11kb58z7sv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "siloam-eye-center-aizawl",
@@ -10358,7 +10446,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Siloam+eye+center/@23.7413378,92.7167069,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9570935b8cd5:0x5d981cf9b5c19a06!8m2!3d23.7413378!4d92.7167069!16s%2Fg%2F11h3wjxbny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Siloam+eye+center/@23.7413378,92.7167069,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9570935b8cd5:0x5d981cf9b5c19a06!8m2!3d23.7413378!4d92.7167069!16s%2Fg%2F11h3wjxbny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -10424,10 +10512,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Siloam+eye+center/@23.7413378,92.7167069,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9570935b8cd5:0x5d981cf9b5c19a06!8m2!3d23.7413378!4d92.7167069!16s%2Fg%2F11h3wjxbny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skinvestment-laser-and-aesthetic-clinic-aizawl",
@@ -10475,7 +10564,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Skinvestment+Laser+And+Aesthetic+Clinic/@23.7141973,92.7198971,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95f2baecd0a9:0x8e4d682431ca44bd!8m2!3d23.7141973!4d92.7198971!16s%2Fg%2F11tnh2hzsb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Skinvestment+Laser+And+Aesthetic+Clinic/@23.7141973,92.7198971,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95f2baecd0a9:0x8e4d682431ca44bd!8m2!3d23.7141973!4d92.7198971!16s%2Fg%2F11tnh2hzsb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -10544,7 +10633,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Skinvestment+Laser+And+Aesthetic+Clinic/@23.7141973,92.7198971,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95f2baecd0a9:0x8e4d682431ca44bd!8m2!3d23.7141973!4d92.7198971!16s%2Fg%2F11tnh2hzsb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-boulevard-dental-clinic-aizawl",
@@ -10593,7 +10683,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Boulevard+Dental+Clinic/@23.7515259,92.7244593,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb1f3dcdb9ef:0xf5968bdd29935661!8m2!3d23.7515259!4d92.7244593!16s%2Fg%2F11x62j87n4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Boulevard+Dental+Clinic/@23.7515259,92.7244593,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb1f3dcdb9ef:0xf5968bdd29935661!8m2!3d23.7515259!4d92.7244593!16s%2Fg%2F11x62j87n4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -10659,10 +10749,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Boulevard+Dental+Clinic/@23.7515259,92.7244593,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb1f3dcdb9ef:0xf5968bdd29935661!8m2!3d23.7515259!4d92.7244593!16s%2Fg%2F11x62j87n4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "step-up-physiotherapy-clinic-aizawl",
@@ -10711,7 +10802,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Step+Up+Physiotherapy+Clinic/data=!4m7!3m6!1s0x374d95a8b3632aab:0x31a2f5385985f6fa!8m2!3d23.7352152!4d92.7194622!16s%2Fg%2F11hf81tht8!19sChIJqypjs6iVTTcR-vaFWTj1ojE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Step+Up+Physiotherapy+Clinic/data=!4m7!3m6!1s0x374d95a8b3632aab:0x31a2f5385985f6fa!8m2!3d23.7352152!4d92.7194622!16s%2Fg%2F11hf81tht8!19sChIJqypjs6iVTTcR-vaFWTj1ojE?authuser=0&hl=en&rclk=1"
@@ -10780,7 +10871,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Step+Up+Physiotherapy+Clinic/data=!4m7!3m6!1s0x374d95a8b3632aab:0x31a2f5385985f6fa!8m2!3d23.7352152!4d92.7194622!16s%2Fg%2F11hf81tht8!19sChIJqypjs6iVTTcR-vaFWTj1ojE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "synod-hospital-durtlang-aizawl",
@@ -10829,7 +10921,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Synod+Hospital+Durtlang/data=!4m7!3m6!1s0x374deb1b210503d7:0x494329e0d07f4050!8m2!3d23.7722288!4d92.7310205!16s%2Fm%2F0kbh2wh!19sChIJ1wMFIRvrTTcRUEB_0OApQ0k?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Synod+Hospital+Durtlang/data=!4m7!3m6!1s0x374deb1b210503d7:0x494329e0d07f4050!8m2!3d23.7722288!4d92.7310205!16s%2Fm%2F0kbh2wh!19sChIJ1wMFIRvrTTcRUEB_0OApQ0k?authuser=0&hl=en&rclk=1"
@@ -10898,7 +10990,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Synod+Hospital+Durtlang/data=!4m7!3m6!1s0x374deb1b210503d7:0x494329e0d07f4050!8m2!3d23.7722288!4d92.7310205!16s%2Fm%2F0kbh2wh!19sChIJ1wMFIRvrTTcRUEB_0OApQ0k?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "t-and-t-medi-center-aizawl",
@@ -10946,7 +11039,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/T+%26+T+Medi+Center/@23.7147675,92.7192979,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95748032352f:0x3ab40f45b443e67c!8m2!3d23.7147675!4d92.7192979!16s%2Fg%2F11jv0vkpmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/T+%26+T+Medi+Center/@23.7147675,92.7192979,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95748032352f:0x3ab40f45b443e67c!8m2!3d23.7147675!4d92.7192979!16s%2Fg%2F11jv0vkpmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -11012,10 +11105,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/T+%26+T+Medi+Center/@23.7147675,92.7192979,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95748032352f:0x3ab40f45b443e67c!8m2!3d23.7147675!4d92.7192979!16s%2Fg%2F11jv0vkpmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-pet-division-aizawl",
@@ -11064,7 +11158,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/The+Pet+Division/@23.7099026,92.719484,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94eb5e32c4d9:0x6125b048f45e6b76!8m2!3d23.7099026!4d92.719484!16s%2Fg%2F12hkdwmhm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Pet+Division/@23.7099026,92.719484,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94eb5e32c4d9:0x6125b048f45e6b76!8m2!3d23.7099026!4d92.719484!16s%2Fg%2F12hkdwmhm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -11133,7 +11227,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Pet+Division/@23.7099026,92.719484,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94eb5e32c4d9:0x6125b048f45e6b76!8m2!3d23.7099026!4d92.719484!16s%2Fg%2F12hkdwmhm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "trinity-diagnostic-center-aizawl",
@@ -11182,7 +11277,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Trinity+Diagnostic+Center/@23.737854,92.716644,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b5168ab51f:0x4065ca963eea1020!8m2!3d23.737854!4d92.716644!16s%2Fg%2F11bzsg_cpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trinity+Diagnostic+Center/@23.737854,92.716644,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b5168ab51f:0x4065ca963eea1020!8m2!3d23.737854!4d92.716644!16s%2Fg%2F11bzsg_cpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -11251,7 +11346,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Trinity+Diagnostic+Center/@23.737854,92.716644,17z/data=!3m1!4b1!4m6!3m5!1s0x374d94b5168ab51f:0x4065ca963eea1020!8m2!3d23.737854!4d92.716644!16s%2Fg%2F11bzsg_cpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "trinity-hospital-aizawl",
@@ -11300,7 +11396,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Trinity+Hospital/data=!4m7!3m6!1s0x374d950f74629a55:0x387fcbd150937daf!8m2!3d23.6804863!4d92.7251475!16s%2Fg%2F11j7j4wzg2!19sChIJVZpidA-VTTcRr32TUNHLfzg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Trinity+Hospital/data=!4m7!3m6!1s0x374d950f74629a55:0x387fcbd150937daf!8m2!3d23.6804863!4d92.7251475!16s%2Fg%2F11j7j4wzg2!19sChIJVZpidA-VTTcRr32TUNHLfzg?authuser=0&hl=en&rclk=1"
@@ -11369,7 +11465,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Trinity+Hospital/data=!4m7!3m6!1s0x374d950f74629a55:0x387fcbd150937daf!8m2!3d23.6804863!4d92.7251475!16s%2Fg%2F11j7j4wzg2!19sChIJVZpidA-VTTcRr32TUNHLfzg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "united-dental-care-aizawl",
@@ -11417,7 +11514,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/United+Dental+Care/data=!4m7!3m6!1s0x374deb3697d66ee3:0x30f6189679a6adc8!8m2!3d23.7481916!4d92.7243903!16s%2Fg%2F11l2yfv9h5!19sChIJ427WlzbrTTcRyK2meZYY9jA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/United+Dental+Care/data=!4m7!3m6!1s0x374deb3697d66ee3:0x30f6189679a6adc8!8m2!3d23.7481916!4d92.7243903!16s%2Fg%2F11l2yfv9h5!19sChIJ427WlzbrTTcRyK2meZYY9jA?authuser=0&hl=en&rclk=1"
@@ -11483,10 +11580,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/United+Dental+Care/data=!4m7!3m6!1s0x374deb3697d66ee3:0x30f6189679a6adc8!8m2!3d23.7481916!4d92.7243903!16s%2Fg%2F11l2yfv9h5!19sChIJ427WlzbrTTcRyK2meZYY9jA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "v-l-bela-dental-clinic-vdc-aizawl",
@@ -11534,7 +11632,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/V.L+Bela+Dental+Clinic+(VDC)/@23.7345857,92.717917,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95cc20d4d811:0x8935e4c3eb44d76e!8m2!3d23.7345857!4d92.717917!16s%2Fg%2F11n_zp_vcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V.L+Bela+Dental+Clinic+(VDC)/@23.7345857,92.717917,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95cc20d4d811:0x8935e4c3eb44d76e!8m2!3d23.7345857!4d92.717917!16s%2Fg%2F11n_zp_vcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -11600,10 +11698,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/V.L+Bela+Dental+Clinic+(VDC)/@23.7345857,92.717917,17z/data=!3m1!4b1!4m6!3m5!1s0x374d95cc20d4d811:0x8935e4c3eb44d76e!8m2!3d23.7345857!4d92.717917!16s%2Fg%2F11n_zp_vcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vision-care-aizawl",
@@ -11652,7 +11751,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Vision+care/data=!4m7!3m6!1s0x374deba92acaf965:0x6b474d2f4493aced!8m2!3d23.7390642!4d92.7470715!16s%2Fg%2F11h1kwgxp3!19sChIJZfnKKqnrTTcR7ayTRC9NR2s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vision+care/data=!4m7!3m6!1s0x374deba92acaf965:0x6b474d2f4493aced!8m2!3d23.7390642!4d92.7470715!16s%2Fg%2F11h1kwgxp3!19sChIJZfnKKqnrTTcR7ayTRC9NR2s?authuser=0&hl=en&rclk=1"
@@ -11718,10 +11817,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vision+care/data=!4m7!3m6!1s0x374deba92acaf965:0x6b474d2f4493aced!8m2!3d23.7390642!4d92.7470715!16s%2Fg%2F11h1kwgxp3!19sChIJZfnKKqnrTTcR7ayTRC9NR2s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vr-healthcare-clinic-first-floor",
@@ -11769,7 +11869,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/VR+Healthcare+Clinic/@23.7335161,92.7167872,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9596445cbaad:0xe65a747009b3e9df!8m2!3d23.7335161!4d92.7167872!16s%2Fg%2F11h6m4nlz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VR+Healthcare+Clinic/@23.7335161,92.7167872,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9596445cbaad:0xe65a747009b3e9df!8m2!3d23.7335161!4d92.7167872!16s%2Fg%2F11h6m4nlz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -11838,7 +11938,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VR+Healthcare+Clinic/@23.7335161,92.7167872,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9596445cbaad:0xe65a747009b3e9df!8m2!3d23.7335161!4d92.7167872!16s%2Fg%2F11h6m4nlz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vr-medicals-aizawl",
@@ -11887,7 +11988,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/VR+MEDICALS/@23.73358,92.71713,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9553733cf64b:0x56a4e5528d3fdf55!8m2!3d23.73358!4d92.71713!16s%2Fg%2F11h9grddcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VR+MEDICALS/@23.73358,92.71713,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9553733cf64b:0x56a4e5528d3fdf55!8m2!3d23.73358!4d92.71713!16s%2Fg%2F11h9grddcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -11953,10 +12054,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VR+MEDICALS/@23.73358,92.71713,17z/data=!3m1!4b1!4m6!3m5!1s0x374d9553733cf64b:0x56a4e5528d3fdf55!8m2!3d23.73358!4d92.71713!16s%2Fg%2F11h9grddcp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vul-zual-dental-clinic-aizawl",
@@ -12004,7 +12106,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Vul+Zual+Dental+Clinic/@23.742858,92.7184539,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb0c62ea7d6f:0x45d5d8bda0b177ba!8m2!3d23.742858!4d92.7184539!16s%2Fg%2F11stz3mlx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vul+Zual+Dental+Clinic/@23.742858,92.7184539,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb0c62ea7d6f:0x45d5d8bda0b177ba!8m2!3d23.742858!4d92.7184539!16s%2Fg%2F11stz3mlx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -12073,7 +12175,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vul+Zual+Dental+Clinic/@23.742858,92.7184539,17z/data=!3m1!4b1!4m6!3m5!1s0x374deb0c62ea7d6f:0x45d5d8bda0b177ba!8m2!3d23.742858!4d92.7184539!16s%2Fg%2F11stz3mlx1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "zoram-dental-chamber-zdc-aizawl",
@@ -12121,7 +12224,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Zoram+Dental+Chamber+%28ZDC%29/data=!4m7!3m6!1s0x374d94b7b71647f9:0x741e27d014d3a839!8m2!3d23.7298689!4d92.7171296!16s%2Fg%2F1wzt0r0t!19sChIJ-UcWt7eUTTcROajTFNAnHnQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zoram+Dental+Chamber+%28ZDC%29/data=!4m7!3m6!1s0x374d94b7b71647f9:0x741e27d014d3a839!8m2!3d23.7298689!4d92.7171296!16s%2Fg%2F1wzt0r0t!19sChIJ-UcWt7eUTTcROajTFNAnHnQ?authuser=0&hl=en&rclk=1"
@@ -12190,7 +12293,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zoram+Dental+Chamber+%28ZDC%29/data=!4m7!3m6!1s0x374d94b7b71647f9:0x741e27d014d3a839!8m2!3d23.7298689!4d92.7171296!16s%2Fg%2F1wzt0r0t!19sChIJ-UcWt7eUTTcROajTFNAnHnQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "zoram-medical-college-and-hospital-aizawl",
@@ -12241,7 +12345,7 @@
       "6+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Zoram+Medical+College+and+Hospital/@23.6230191,92.7276124,17z/data=!3m1!4b1!4m6!3m5!1s0x374d969283e92879:0x4c92e76e111cf07c!8m2!3d23.6230191!4d92.7276124!16s%2Fm%2F0100g15q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zoram+Medical+College+and+Hospital/@23.6230191,92.7276124,17z/data=!3m1!4b1!4m6!3m5!1s0x374d969283e92879:0x4c92e76e111cf07c!8m2!3d23.6230191!4d92.7276124!16s%2Fm%2F0100g15q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
@@ -12310,7 +12414,8 @@
     "rating": 4.3,
     "reviews": 6,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zoram+Medical+College+and+Hospital/@23.6230191,92.7276124,17z/data=!3m1!4b1!4m6!3m5!1s0x374d969283e92879:0x4c92e76e111cf07c!8m2!3d23.6230191!4d92.7276124!16s%2Fm%2F0100g15q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "zotres-hospital-aizawl",
@@ -12358,7 +12463,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Zotres+hospital/data=!4m7!3m6!1s0x374d958b23bc57df:0x232dd1a2f2c8d9d4!8m2!3d23.6805535!4d92.725162!16s%2Fg%2F11gxnv6q6t!19sChIJ31e8I4uVTTcR1NnI8qLRLSM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Zotres+hospital/data=!4m7!3m6!1s0x374d958b23bc57df:0x232dd1a2f2c8d9d4!8m2!3d23.6805535!4d92.725162!16s%2Fg%2F11gxnv6q6t!19sChIJ31e8I4uVTTcR1NnI8qLRLSM?authuser=0&hl=en&rclk=1"
@@ -12424,9 +12529,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Zotres+hospital/data=!4m7!3m6!1s0x374d958b23bc57df:0x232dd1a2f2c8d9d4!8m2!3d23.6805535!4d92.725162!16s%2Fg%2F11gxnv6q6t!19sChIJ31e8I4uVTTcR1NnI8qLRLSM?authuser=0&hl=en&rclk=1"
   }
 ]

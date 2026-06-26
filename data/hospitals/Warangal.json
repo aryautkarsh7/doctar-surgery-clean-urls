@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/A+K+Hospitals/data=!4m7!3m6!1s0x3a334f6eb7f031c7:0xbb017b226f104ad4!8m2!3d17.9941411!4d79.5545177!16s%2Fg%2F11fmz9kz_b!19sChIJxzHwt25PMzoR1EoQbyJ7Abs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/A+K+Hospitals/data=!4m7!3m6!1s0x3a334f6eb7f031c7:0xbb017b226f104ad4!8m2!3d17.9941411!4d79.5545177!16s%2Fg%2F11fmz9kz_b!19sChIJxzHwt25PMzoR1EoQbyJ7Abs?authuser=0&hl=en&rclk=1"
@@ -114,7 +114,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/A+K+Hospitals/data=!4m7!3m6!1s0x3a334f6eb7f031c7:0xbb017b226f104ad4!8m2!3d17.9941411!4d79.5545177!16s%2Fg%2F11fmz9kz_b!19sChIJxzHwt25PMzoR1EoQbyJ7Abs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "abhaya-kidney-centre-hanamkonda",
@@ -163,7 +164,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/ABHAYA+KIDNEY+CENTRE/data=!4m7!3m6!1s0x3a33454d0062d479:0xde46db9054118fb1!8m2!3d18.0036152!4d79.5698237!16s%2Fg%2F11tmhnfv1g!19sChIJedRiAE1FMzoRsY8RVJDbRt4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ABHAYA+KIDNEY+CENTRE/data=!4m7!3m6!1s0x3a33454d0062d479:0xde46db9054118fb1!8m2!3d18.0036152!4d79.5698237!16s%2Fg%2F11tmhnfv1g!19sChIJedRiAE1FMzoRsY8RVJDbRt4?authuser=0&hl=en&rclk=1"
@@ -229,10 +230,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ABHAYA+KIDNEY+CENTRE/data=!4m7!3m6!1s0x3a33454d0062d479:0xde46db9054118fb1!8m2!3d18.0036152!4d79.5698237!16s%2Fg%2F11tmhnfv1g!19sChIJedRiAE1FMzoRsY8RVJDbRt4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "abhinay-gastro-and-liver-care-hanamkonda",
@@ -282,7 +284,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Abhinay+Gastro+and+Liver+Care/data=!4m7!3m6!1s0x3a3345fdd0129499:0x90f7fb4292a0e7c6!8m2!3d18.0054135!4d79.5670831!16s%2Fg%2F11sq_nxmrj!19sChIJmZQS0P1FMzoRxuegkkL795A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Abhinay+Gastro+and+Liver+Care/data=!4m7!3m6!1s0x3a3345fdd0129499:0x90f7fb4292a0e7c6!8m2!3d18.0054135!4d79.5670831!16s%2Fg%2F11sq_nxmrj!19sChIJmZQS0P1FMzoRxuegkkL795A?authuser=0&hl=en&rclk=1"
@@ -351,7 +353,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Abhinay+Gastro+and+Liver+Care/data=!4m7!3m6!1s0x3a3345fdd0129499:0x90f7fb4292a0e7c6!8m2!3d18.0054135!4d79.5670831!16s%2Fg%2F11sq_nxmrj!19sChIJmZQS0P1FMzoRxuegkkL795A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aditya-hospital-hanamkonda",
@@ -399,7 +402,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Aditya+Hospital/data=!4m7!3m6!1s0x3a334f7d7469bf13:0x34c18d94ddb273e7!8m2!3d18.0109012!4d79.5592339!16s%2Fg%2F1tdytsq9!19sChIJE79pdH1PMzoR53Oy3ZSNwTQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aditya+Hospital/data=!4m7!3m6!1s0x3a334f7d7469bf13:0x34c18d94ddb273e7!8m2!3d18.0109012!4d79.5592339!16s%2Fg%2F1tdytsq9!19sChIJE79pdH1PMzoR53Oy3ZSNwTQ?authuser=0&hl=en&rclk=1"
@@ -468,7 +471,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aditya+Hospital/data=!4m7!3m6!1s0x3a334f7d7469bf13:0x34c18d94ddb273e7!8m2!3d18.0109012!4d79.5592339!16s%2Fg%2F1tdytsq9!19sChIJE79pdH1PMzoR53Oy3ZSNwTQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aishwarya-dental-clinic-dental-implants-root-canal-clear-aligners-and-kids-dentist-hanamkonda-hanamkonda",
@@ -517,7 +521,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aishwarya+Dental+Clinic+%7C+Dental+Implants,+Root+Canal,+Clear+Aligners+%26+Kids+Dentist+%7C+Hanamkonda/data=!4m7!3m6!1s0x3a3345828ea0a587:0x3302fd6fd791b137!8m2!3d18.003794!4d79.5692814!16s%2Fg%2F11gff6mz25!19sChIJh6WgjoJFMzoRN7GR12_9AjM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aishwarya+Dental+Clinic+%7C+Dental+Implants,+Root+Canal,+Clear+Aligners+%26+Kids+Dentist+%7C+Hanamkonda/data=!4m7!3m6!1s0x3a3345828ea0a587:0x3302fd6fd791b137!8m2!3d18.003794!4d79.5692814!16s%2Fg%2F11gff6mz25!19sChIJh6WgjoJFMzoRN7GR12_9AjM?authuser=0&hl=en&rclk=1"
@@ -586,7 +590,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aishwarya+Dental+Clinic+%7C+Dental+Implants,+Root+Canal,+Clear+Aligners+%26+Kids+Dentist+%7C+Hanamkonda/data=!4m7!3m6!1s0x3a3345828ea0a587:0x3302fd6fd791b137!8m2!3d18.003794!4d79.5692814!16s%2Fg%2F11gff6mz25!19sChIJh6WgjoJFMzoRN7GR12_9AjM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aisri-cosmetic-clinic-hanamkonda",
@@ -634,7 +639,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/AISRI+COSMETIC+CLINIC/data=!4m7!3m6!1s0x3a334fd599365f43:0x55ddffdb9d24d5ac!8m2!3d18.0176502!4d79.5533858!16s%2Fg%2F11k548m1_r!19sChIJQ182mdVPMzoRrNUkndv_3VU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AISRI+COSMETIC+CLINIC/data=!4m7!3m6!1s0x3a334fd599365f43:0x55ddffdb9d24d5ac!8m2!3d18.0176502!4d79.5533858!16s%2Fg%2F11k548m1_r!19sChIJQ182mdVPMzoRrNUkndv_3VU?authuser=0&hl=en&rclk=1"
@@ -703,7 +708,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AISRI+COSMETIC+CLINIC/data=!4m7!3m6!1s0x3a334fd599365f43:0x55ddffdb9d24d5ac!8m2!3d18.0176502!4d79.5533858!16s%2Fg%2F11k548m1_r!19sChIJQ182mdVPMzoRrNUkndv_3VU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ajara-hospitals-warangal",
@@ -752,7 +758,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ajara+Hospitals/data=!4m7!3m6!1s0x3a3345d298d26771:0x9056288124229ca!8m2!3d18.0043833!4d79.5835764!16s%2Fg%2F11f7r4zmf0!19sChIJcWfSmNJFMzoRyilCEohiBQk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ajara+Hospitals/data=!4m7!3m6!1s0x3a3345d298d26771:0x9056288124229ca!8m2!3d18.0043833!4d79.5835764!16s%2Fg%2F11f7r4zmf0!19sChIJcWfSmNJFMzoRyilCEohiBQk?authuser=0&hl=en&rclk=1"
@@ -821,7 +827,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ajara+Hospitals/data=!4m7!3m6!1s0x3a3345d298d26771:0x9056288124229ca!8m2!3d18.0043833!4d79.5835764!16s%2Fg%2F11f7r4zmf0!19sChIJcWfSmNJFMzoRyilCEohiBQk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "akruti-plastic-and-cosmetic-surgery-hanamkonda",
@@ -870,7 +877,7 @@
       "Google rating 2.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery/@20.3194368,85.7964544,11z/data=!3m1!4b1!4m6!3m5!1s0x3a33456b02ea4dfb:0x1cb96b21d524bd50!8m2!3d18.0034367!4d79.5790022!16s%2Fg%2F11jgwkk62w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery/@20.3194368,85.7964544,11z/data=!3m1!4b1!4m6!3m5!1s0x3a33456b02ea4dfb:0x1cb96b21d524bd50!8m2!3d18.0034367!4d79.5790022!16s%2Fg%2F11jgwkk62w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -939,7 +946,8 @@
     "rating": 2.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery/@20.3194368,85.7964544,11z/data=!3m1!4b1!4m6!3m5!1s0x3a33456b02ea4dfb:0x1cb96b21d524bd50!8m2!3d18.0034367!4d79.5790022!16s%2Fg%2F11jgwkk62w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "amrutha-children-s-hospital-best-children-s-hospital-in-warangal-24-7-paediatric-hospital-hanamkonda",
@@ -989,7 +997,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Amrutha+Children%27s+Hospital+%7C+Best+Children%E2%80%99s+Hospital+in+Warangal+%7C+24%2F7+Paediatric+Hospital/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0x17418f9a4f18f2d1!8m2!3d18.0131534!4d79.5588356!16s%2Fg%2F1tf_fv1g!19sChIJ77fu-X5PMzoR0fIYT5qPQRc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amrutha+Children%27s+Hospital+%7C+Best+Children%E2%80%99s+Hospital+in+Warangal+%7C+24%2F7+Paediatric+Hospital/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0x17418f9a4f18f2d1!8m2!3d18.0131534!4d79.5588356!16s%2Fg%2F1tf_fv1g!19sChIJ77fu-X5PMzoR0fIYT5qPQRc?authuser=0&hl=en&rclk=1"
@@ -1058,7 +1066,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amrutha+Children%27s+Hospital+%7C+Best+Children%E2%80%99s+Hospital+in+Warangal+%7C+24%2F7+Paediatric+Hospital/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0x17418f9a4f18f2d1!8m2!3d18.0131534!4d79.5588356!16s%2Fg%2F1tf_fv1g!19sChIJ77fu-X5PMzoR0fIYT5qPQRc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "amyra-clinic-hanamkonda",
@@ -1106,7 +1115,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Amyra+Clinic/@18.0199943,79.5507741,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f72e5c20cb1:0xcd6d61cfbbed0906!8m2!3d18.0199943!4d79.5507741!16s%2Fg%2F11j218vn4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Amyra+Clinic/@18.0199943,79.5507741,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f72e5c20cb1:0xcd6d61cfbbed0906!8m2!3d18.0199943!4d79.5507741!16s%2Fg%2F11j218vn4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1175,7 +1184,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Amyra+Clinic/@18.0199943,79.5507741,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f72e5c20cb1:0xcd6d61cfbbed0906!8m2!3d18.0199943!4d79.5507741!16s%2Fg%2F11j218vn4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollo-dialysis-warangal",
@@ -1221,7 +1231,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Apollo+Dialysis/data=!4m7!3m6!1s0x3a334539591354dd:0xab6d94c4e323dc69!8m2!3d18.0327799!4d79.6311514!16s%2Fg%2F11xcrmnd26!19sChIJ3VQTWTlFMzoRadwj48SUbas?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+Dialysis/data=!4m7!3m6!1s0x3a334539591354dd:0xab6d94c4e323dc69!8m2!3d18.0327799!4d79.6311514!16s%2Fg%2F11xcrmnd26!19sChIJ3VQTWTlFMzoRadwj48SUbas?authuser=0&hl=en&rclk=1"
@@ -1287,10 +1297,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+Dialysis/data=!4m7!3m6!1s0x3a334539591354dd:0xab6d94c4e323dc69!8m2!3d18.0327799!4d79.6311514!16s%2Fg%2F11xcrmnd26!19sChIJ3VQTWTlFMzoRadwj48SUbas?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "aravinda-neuro-centre-dr-telugu-ramakrishna-hanamkonda",
@@ -1339,7 +1350,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Aravinda+Neuro+Centre+-Dr+Telugu+Ramakrishna/data=!4m7!3m6!1s0x3a3345cc68647461:0xb82885b21585a65c!8m2!3d18.0021058!4d79.5650125!16s%2Fg%2F11fn1wrkr3!19sChIJYXRkaMxFMzoRXKaFFbKFKLg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aravinda+Neuro+Centre+-Dr+Telugu+Ramakrishna/data=!4m7!3m6!1s0x3a3345cc68647461:0xb82885b21585a65c!8m2!3d18.0021058!4d79.5650125!16s%2Fg%2F11fn1wrkr3!19sChIJYXRkaMxFMzoRXKaFFbKFKLg?authuser=0&hl=en&rclk=1"
@@ -1408,7 +1419,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aravinda+Neuro+Centre+-Dr+Telugu+Ramakrishna/data=!4m7!3m6!1s0x3a3345cc68647461:0xb82885b21585a65c!8m2!3d18.0021058!4d79.5650125!16s%2Fg%2F11fn1wrkr3!19sChIJYXRkaMxFMzoRXKaFFbKFKLg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "atharva-hospitals-women-and-children-hanamkonda",
@@ -1457,7 +1469,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/ATHARVA+HOSPITALS+WOMEN+%26+CHILDREN/@18.0022013,79.5687794,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33459e49df0b25:0xc854a65daa18a8e1!8m2!3d18.0022013!4d79.5687794!16s%2Fg%2F11t9q2844c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ATHARVA+HOSPITALS+WOMEN+%26+CHILDREN/@18.0022013,79.5687794,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33459e49df0b25:0xc854a65daa18a8e1!8m2!3d18.0022013!4d79.5687794!16s%2Fg%2F11t9q2844c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1526,7 +1538,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ATHARVA+HOSPITALS+WOMEN+%26+CHILDREN/@18.0022013,79.5687794,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33459e49df0b25:0xc854a65daa18a8e1!8m2!3d18.0022013!4d79.5687794!16s%2Fg%2F11t9q2844c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayesha-clinic-hanamkonda",
@@ -1574,7 +1587,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Ayesha+Clinic/data=!4m7!3m6!1s0x3a334578a49c2c09:0x31035882a918f5c0!8m2!3d18.0059104!4d79.5793691!16s%2Fg%2F11s4s_zkpy!19sChIJCSycpHhFMzoRwPUYqYJYAzE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayesha+Clinic/data=!4m7!3m6!1s0x3a334578a49c2c09:0x31035882a918f5c0!8m2!3d18.0059104!4d79.5793691!16s%2Fg%2F11s4s_zkpy!19sChIJCSycpHhFMzoRwPUYqYJYAzE?authuser=0&hl=en&rclk=1"
@@ -1643,7 +1656,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayesha+Clinic/data=!4m7!3m6!1s0x3a334578a49c2c09:0x31035882a918f5c0!8m2!3d18.0059104!4d79.5793691!16s%2Fg%2F11s4s_zkpy!19sChIJCSycpHhFMzoRwPUYqYJYAzE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "b-braun-dialysis-center-warangal",
@@ -1689,7 +1703,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/B.+Braun+Dialysis+Center/data=!4m7!3m6!1s0x3a3345107f0e5869:0x6406341d244f543d!8m2!3d17.9896541!4d79.5939425!16s%2Fg%2F11c0thww58!19sChIJaVgOfxBFMzoRPVRPJB00BmQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/B.+Braun+Dialysis+Center/data=!4m7!3m6!1s0x3a3345107f0e5869:0x6406341d244f543d!8m2!3d17.9896541!4d79.5939425!16s%2Fg%2F11c0thww58!19sChIJaVgOfxBFMzoRPVRPJB00BmQ?authuser=0&hl=en&rclk=1"
@@ -1755,10 +1769,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/B.+Braun+Dialysis+Center/data=!4m7!3m6!1s0x3a3345107f0e5869:0x6406341d244f543d!8m2!3d17.9896541!4d79.5939425!16s%2Fg%2F11c0thww58!19sChIJaVgOfxBFMzoRPVRPJB00BmQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "baby-s-life-hospital-warangal",
@@ -1808,7 +1823,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BABY%E2%80%99S+LIFE+HOSPITAL/data=!4m7!3m6!1s0x3a334f9b5a839bed:0x12fb2d75b73e231c!8m2!3d18.0053686!4d79.5676245!16s%2Fg%2F124ylg8kb!19sChIJ7ZuDWptPMzoRHCM-t3Ut-xI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BABY%E2%80%99S+LIFE+HOSPITAL/data=!4m7!3m6!1s0x3a334f9b5a839bed:0x12fb2d75b73e231c!8m2!3d18.0053686!4d79.5676245!16s%2Fg%2F124ylg8kb!19sChIJ7ZuDWptPMzoRHCM-t3Ut-xI?authuser=0&hl=en&rclk=1"
@@ -1877,7 +1892,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BABY%E2%80%99S+LIFE+HOSPITAL/data=!4m7!3m6!1s0x3a334f9b5a839bed:0x12fb2d75b73e231c!8m2!3d18.0053686!4d79.5676245!16s%2Fg%2F124ylg8kb!19sChIJ7ZuDWptPMzoRHCM-t3Ut-xI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "bannu-hospitals-warangal",
@@ -1927,7 +1943,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bannu+Hospitals/@18.0011418,79.5822981,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345e52497df39:0x8c3d3f145394c185!8m2!3d18.0011418!4d79.5822981!16s%2Fg%2F11qr_06tpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bannu+Hospitals/@18.0011418,79.5822981,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345e52497df39:0x8c3d3f145394c185!8m2!3d18.0011418!4d79.5822981!16s%2Fg%2F11qr_06tpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -1996,7 +2012,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bannu+Hospitals/@18.0011418,79.5822981,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345e52497df39:0x8c3d3f145394c185!8m2!3d18.0011418!4d79.5822981!16s%2Fg%2F11qr_06tpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhageerath-cardiac-care-center-healing-hearts-hanamkonda",
@@ -2045,7 +2062,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Bhageerath+Cardiac+Care+Center+Healing+Hearts/data=!4m7!3m6!1s0x3a33450281156f01:0xff6a3895e07c55ab!8m2!3d18.0027256!4d79.5651399!16s%2Fg%2F11jj24ylxf!19sChIJAW8VgQJFMzoRq1V84JU4av8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhageerath+Cardiac+Care+Center+Healing+Hearts/data=!4m7!3m6!1s0x3a33450281156f01:0xff6a3895e07c55ab!8m2!3d18.0027256!4d79.5651399!16s%2Fg%2F11jj24ylxf!19sChIJAW8VgQJFMzoRq1V84JU4av8?authuser=0&hl=en&rclk=1"
@@ -2114,7 +2131,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhageerath+Cardiac+Care+Center+Healing+Hearts/data=!4m7!3m6!1s0x3a33450281156f01:0xff6a3895e07c55ab!8m2!3d18.0027256!4d79.5651399!16s%2Fg%2F11jj24ylxf!19sChIJAW8VgQJFMzoRq1V84JU4av8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "birthright-maternity-centre-by-rainbow-hospitals-warangal-hanamkonda",
@@ -2164,7 +2182,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/BirthRight+Maternity+Centre+by+Rainbow+Hospitals,+Warangal/data=!4m7!3m6!1s0x3a334577e9b58e73:0xae27a0d4b3f98b5a!8m2!3d18.001945!4d79.572897!16s%2Fg%2F11bv38r_39!19sChIJc4616XdFMzoRWov5s9SgJ64?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BirthRight+Maternity+Centre+by+Rainbow+Hospitals,+Warangal/data=!4m7!3m6!1s0x3a334577e9b58e73:0xae27a0d4b3f98b5a!8m2!3d18.001945!4d79.572897!16s%2Fg%2F11bv38r_39!19sChIJc4616XdFMzoRWov5s9SgJ64?authuser=0&hl=en&rclk=1"
@@ -2233,7 +2251,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BirthRight+Maternity+Centre+by+Rainbow+Hospitals,+Warangal/data=!4m7!3m6!1s0x3a334577e9b58e73:0xae27a0d4b3f98b5a!8m2!3d18.001945!4d79.572897!16s%2Fg%2F11bv38r_39!19sChIJc4616XdFMzoRWov5s9SgJ64?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "brm-sairaj-neuro-care-center-hanamkonda",
@@ -2282,7 +2301,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/BRM+SAIRAJ+NEURO+CARE+CENTER/data=!4m7!3m6!1s0x3a33450a6f978bf9:0x602d0b9e63484d47!8m2!3d18.004587!4d79.5682942!16s%2Fg%2F11pr3yk4w3!19sChIJ-YuXbwpFMzoRR01IY54LLWA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BRM+SAIRAJ+NEURO+CARE+CENTER/data=!4m7!3m6!1s0x3a33450a6f978bf9:0x602d0b9e63484d47!8m2!3d18.004587!4d79.5682942!16s%2Fg%2F11pr3yk4w3!19sChIJ-YuXbwpFMzoRR01IY54LLWA?authuser=0&hl=en&rclk=1"
@@ -2348,10 +2367,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BRM+SAIRAJ+NEURO+CARE+CENTER/data=!4m7!3m6!1s0x3a33450a6f978bf9:0x602d0b9e63484d47!8m2!3d18.004587!4d79.5682942!16s%2Fg%2F11pr3yk4w3!19sChIJ-YuXbwpFMzoRR01IY54LLWA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "byram-hospital-hanamkonda",
@@ -2399,7 +2419,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/BYRAM+HOSPITAL/data=!4m7!3m6!1s0x3a3345ec04e7b805:0xdc8f376276269449!8m2!3d18.0050337!4d79.5734371!16s%2Fg%2F11h2fgyvsr!19sChIJBbjnBOxFMzoRSZQmdmI3j9w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BYRAM+HOSPITAL/data=!4m7!3m6!1s0x3a3345ec04e7b805:0xdc8f376276269449!8m2!3d18.0050337!4d79.5734371!16s%2Fg%2F11h2fgyvsr!19sChIJBbjnBOxFMzoRSZQmdmI3j9w?authuser=0&hl=en&rclk=1"
@@ -2468,7 +2488,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BYRAM+HOSPITAL/data=!4m7!3m6!1s0x3a3345ec04e7b805:0xdc8f376276269449!8m2!3d18.0050337!4d79.5734371!16s%2Fg%2F11h2fgyvsr!19sChIJBbjnBOxFMzoRSZQmdmI3j9w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "care-365-dental-and-cosmetic-clinic-hanamkonda",
@@ -2516,7 +2537,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Care+365+dental+and+cosmetic+clinic/data=!4m7!3m6!1s0x3a334546c0d581e9:0x4f4ee2968812e9d7!8m2!3d18.0053777!4d79.5716454!16s%2Fg%2F11ryf5zq_m!19sChIJ6YHVwEZFMzoR1-kSiJbiTk8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+365+dental+and+cosmetic+clinic/data=!4m7!3m6!1s0x3a334546c0d581e9:0x4f4ee2968812e9d7!8m2!3d18.0053777!4d79.5716454!16s%2Fg%2F11ryf5zq_m!19sChIJ6YHVwEZFMzoR1-kSiJbiTk8?authuser=0&hl=en&rclk=1"
@@ -2585,7 +2606,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Care+365+dental+and+cosmetic+clinic/data=!4m7!3m6!1s0x3a334546c0d581e9:0x4f4ee2968812e9d7!8m2!3d18.0053777!4d79.5716454!16s%2Fg%2F11ryf5zq_m!19sChIJ6YHVwEZFMzoR1-kSiJbiTk8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chakravarthy-hospitals-hanamkonda",
@@ -2634,7 +2656,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/CHAKRAVARTHY+HOSPITALS/data=!4m7!3m6!1s0x3a334f1f5945a087:0xbf3894e0a6d42deb!8m2!3d17.9980045!4d79.5568206!16s%2Fg%2F11rtlsp1qx!19sChIJh6BFWR9PMzoR6y3UpuCUOL8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CHAKRAVARTHY+HOSPITALS/data=!4m7!3m6!1s0x3a334f1f5945a087:0xbf3894e0a6d42deb!8m2!3d17.9980045!4d79.5568206!16s%2Fg%2F11rtlsp1qx!19sChIJh6BFWR9PMzoR6y3UpuCUOL8?authuser=0&hl=en&rclk=1"
@@ -2703,7 +2725,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CHAKRAVARTHY+HOSPITALS/data=!4m7!3m6!1s0x3a334f1f5945a087:0xbf3894e0a6d42deb!8m2!3d17.9980045!4d79.5568206!16s%2Fg%2F11rtlsp1qx!19sChIJh6BFWR9PMzoR6y3UpuCUOL8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "chest-specialist-in-warangal-hanamkonda",
@@ -2751,7 +2774,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Chest+Specialist+in+Warangal/data=!4m7!3m6!1s0x3a3345826734cf51:0xc240e6c5eb9d9c30!8m2!3d18.0039738!4d79.5684165!16s%2Fg%2F11c57csffp!19sChIJUc80Z4JFMzoRMJyd68XmQMI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Chest+Specialist+in+Warangal/data=!4m7!3m6!1s0x3a3345826734cf51:0xc240e6c5eb9d9c30!8m2!3d18.0039738!4d79.5684165!16s%2Fg%2F11c57csffp!19sChIJUc80Z4JFMzoRMJyd68XmQMI?authuser=0&hl=en&rclk=1"
@@ -2820,7 +2843,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Chest+Specialist+in+Warangal/data=!4m7!3m6!1s0x3a3345826734cf51:0xc240e6c5eb9d9c30!8m2!3d18.0039738!4d79.5684165!16s%2Fg%2F11c57csffp!19sChIJUc80Z4JFMzoRMJyd68XmQMI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "curewell-hospital-warangal",
@@ -2868,7 +2892,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Curewell+Hospital/data=!4m7!3m6!1s0x3a33450fdfe6c961:0xc89af3c13f8d8be5!8m2!3d17.9927908!4d79.5936754!16s%2Fg%2F1pp2xb68s!19sChIJYcnm3w9FMzoR5YuNP8Hzmsg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Curewell+Hospital/data=!4m7!3m6!1s0x3a33450fdfe6c961:0xc89af3c13f8d8be5!8m2!3d17.9927908!4d79.5936754!16s%2Fg%2F1pp2xb68s!19sChIJYcnm3w9FMzoR5YuNP8Hzmsg?authuser=0&hl=en&rclk=1"
@@ -2937,7 +2961,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Curewell+Hospital/data=!4m7!3m6!1s0x3a33450fdfe6c961:0xc89af3c13f8d8be5!8m2!3d17.9927908!4d79.5936754!16s%2Fg%2F1pp2xb68s!19sChIJYcnm3w9FMzoR5YuNP8Hzmsg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "deepak-skin-and-laser-cosmotic-clinic-hanamkonda",
@@ -2985,7 +3010,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Deepak+Skin+and+Laser+Cosmotic+Clinic/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0xa13473383d9fe340!8m2!3d18.0021382!4d79.5671672!16s%2Fg%2F1vpfgzl7!19sChIJ77fu-X5PMzoRQOOfPThzNKE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deepak+Skin+and+Laser+Cosmotic+Clinic/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0xa13473383d9fe340!8m2!3d18.0021382!4d79.5671672!16s%2Fg%2F1vpfgzl7!19sChIJ77fu-X5PMzoRQOOfPThzNKE?authuser=0&hl=en&rclk=1"
@@ -3054,7 +3079,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deepak+Skin+and+Laser+Cosmotic+Clinic/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0xa13473383d9fe340!8m2!3d18.0021382!4d79.5671672!16s%2Fg%2F1vpfgzl7!19sChIJ77fu-X5PMzoRQOOfPThzNKE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dhatri-hospital-warangal",
@@ -3102,7 +3128,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/DHATRI+HOSPITAL/data=!4m7!3m6!1s0x3a3345589d70cf45:0xa02318e79ac172db!8m2!3d17.9840406!4d79.5993004!16s%2Fg%2F11sqd7ms8d!19sChIJRc9wnVhFMzoR23LBmucYI6A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DHATRI+HOSPITAL/data=!4m7!3m6!1s0x3a3345589d70cf45:0xa02318e79ac172db!8m2!3d17.9840406!4d79.5993004!16s%2Fg%2F11sqd7ms8d!19sChIJRc9wnVhFMzoR23LBmucYI6A?authuser=0&hl=en&rclk=1"
@@ -3171,7 +3197,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DHATRI+HOSPITAL/data=!4m7!3m6!1s0x3a3345589d70cf45:0xa02318e79ac172db!8m2!3d17.9840406!4d79.5993004!16s%2Fg%2F11sqd7ms8d!19sChIJRc9wnVhFMzoR23LBmucYI6A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "eva-ivf-hanamkonda",
@@ -3221,7 +3248,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/EVA+IVF/data=!4m7!3m6!1s0x3a33456eccd2f561:0xeb7b378e85052f5e!8m2!3d18.0011812!4d79.5639618!16s%2Fg%2F11rsb2y5yv!19sChIJYfXSzG5FMzoRXi8FhY43e-s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/EVA+IVF/data=!4m7!3m6!1s0x3a33456eccd2f561:0xeb7b378e85052f5e!8m2!3d18.0011812!4d79.5639618!16s%2Fg%2F11rsb2y5yv!19sChIJYfXSzG5FMzoRXi8FhY43e-s?authuser=0&hl=en&rclk=1"
@@ -3290,7 +3317,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/EVA+IVF/data=!4m7!3m6!1s0x3a33456eccd2f561:0xeb7b378e85052f5e!8m2!3d18.0011812!4d79.5639618!16s%2Fg%2F11rsb2y5yv!19sChIJYfXSzG5FMzoRXi8FhY43e-s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "female-surgical-ward-warangal",
@@ -3336,7 +3364,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Female+Surgical+Ward/data=!4m7!3m6!1s0x3a33450011d6499d:0x29b982c7150210af!8m2!3d17.9899328!4d79.5925407!16s%2Fg%2F11x7z7fz59!19sChIJnUnWEQBFMzoRrxACFceCuSk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Female+Surgical+Ward/data=!4m7!3m6!1s0x3a33450011d6499d:0x29b982c7150210af!8m2!3d17.9899328!4d79.5925407!16s%2Fg%2F11x7z7fz59!19sChIJnUnWEQBFMzoRrxACFceCuSk?authuser=0&hl=en&rclk=1"
@@ -3402,10 +3430,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Female+Surgical+Ward/data=!4m7!3m6!1s0x3a33450011d6499d:0x29b982c7150210af!8m2!3d17.9899328!4d79.5925407!16s%2Fg%2F11x7z7fz59!19sChIJnUnWEQBFMzoRrxACFceCuSk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ferty9-fertility-ivf-and-iui-center-best-ivf-clinic-in-warangal-telangana-hanamkonda",
@@ -3455,7 +3484,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ferty9+Fertility,+IVF+%26+IUI+Center+%7C+Best+IVF+Clinic+in+Warangal,+Telangana/data=!4m7!3m6!1s0x3a33458f4827cfe3:0x743fff098d993abe!8m2!3d18.0058857!4d79.5640357!16s%2Fg%2F11tm_myv_g!19sChIJ488nSI9FMzoRvjqZjQn_P3Q?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ferty9+Fertility,+IVF+%26+IUI+Center+%7C+Best+IVF+Clinic+in+Warangal,+Telangana/data=!4m7!3m6!1s0x3a33458f4827cfe3:0x743fff098d993abe!8m2!3d18.0058857!4d79.5640357!16s%2Fg%2F11tm_myv_g!19sChIJ488nSI9FMzoRvjqZjQn_P3Q?authuser=0&hl=en&rclk=1"
@@ -3524,7 +3553,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ferty9+Fertility,+IVF+%26+IUI+Center+%7C+Best+IVF+Clinic+in+Warangal,+Telangana/data=!4m7!3m6!1s0x3a33458f4827cfe3:0x743fff098d993abe!8m2!3d18.0058857!4d79.5640357!16s%2Fg%2F11tm_myv_g!19sChIJ488nSI9FMzoRvjqZjQn_P3Q?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "glaucoma-surgery-specialists-at-maxivision-eye-hospitals-in-hanamakonda-hanamkonda",
@@ -3573,7 +3603,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Glaucoma+Surgery+Specialists+at+Maxivision+Eye+Hospitals+in+-+Hanamakonda/data=!4m7!3m6!1s0x3a334552163c8e47:0x4ce81ce333cad383!8m2!3d18.0035036!4d79.5799494!16s%2Fg%2F11ynwrp4q4!19sChIJR448FlJFMzoRg9PKM-Mc6Ew?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Glaucoma+Surgery+Specialists+at+Maxivision+Eye+Hospitals+in+-+Hanamakonda/data=!4m7!3m6!1s0x3a334552163c8e47:0x4ce81ce333cad383!8m2!3d18.0035036!4d79.5799494!16s%2Fg%2F11ynwrp4q4!19sChIJR448FlJFMzoRg9PKM-Mc6Ew?authuser=0&hl=en&rclk=1"
@@ -3639,10 +3669,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Glaucoma+Surgery+Specialists+at+Maxivision+Eye+Hospitals+in+-+Hanamakonda/data=!4m7!3m6!1s0x3a334552163c8e47:0x4ce81ce333cad383!8m2!3d18.0035036!4d79.5799494!16s%2Fg%2F11ynwrp4q4!19sChIJR448FlJFMzoRg9PKM-Mc6Ew?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "gouda-ramesh-ent-hospital-hanamkonda",
@@ -3692,7 +3723,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gouda+Ramesh+ENT+Hospital/@18.0051109,79.5628022,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33458266f63b05:0xb46408204694d745!8m2!3d18.0051109!4d79.5628022!16s%2Fg%2F1thkvpl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gouda+Ramesh+ENT+Hospital/@18.0051109,79.5628022,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33458266f63b05:0xb46408204694d745!8m2!3d18.0051109!4d79.5628022!16s%2Fg%2F1thkvpl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -3761,7 +3792,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gouda+Ramesh+ENT+Hospital/@18.0051109,79.5628022,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33458266f63b05:0xb46408204694d745!8m2!3d18.0051109!4d79.5628022!16s%2Fg%2F1thkvpl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "heal-well-burns-and-plastic-surgery-clinic-warangal",
@@ -3809,7 +3841,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Heal+Well+Burns+%26+Plastic+Surgery+Clinic/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0x80c55ecd10586478!8m2!3d18.0032281!4d79.5785488!16s%2Fg%2F1tdzpk2v!19sChIJ77fu-X5PMzoReGRYEM1exYA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heal+Well+Burns+%26+Plastic+Surgery+Clinic/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0x80c55ecd10586478!8m2!3d18.0032281!4d79.5785488!16s%2Fg%2F1tdzpk2v!19sChIJ77fu-X5PMzoReGRYEM1exYA?authuser=0&hl=en&rclk=1"
@@ -3878,7 +3910,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Heal+Well+Burns+%26+Plastic+Surgery+Clinic/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0x80c55ecd10586478!8m2!3d18.0032281!4d79.5785488!16s%2Fg%2F1tdzpk2v!19sChIJ77fu-X5PMzoReGRYEM1exYA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hitam-cardiac-centre-hanamkonda",
@@ -3928,7 +3961,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Hitam+Cardiac+Centre/data=!4m7!3m6!1s0x3a334582f11d3a15:0x9a0aaf6326b15f7b!8m2!3d18.0037543!4d79.5612762!16s%2Fg%2F124yqs3fm!19sChIJFTod8YJFMzoRe1-xJmOvCpo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hitam+Cardiac+Centre/data=!4m7!3m6!1s0x3a334582f11d3a15:0x9a0aaf6326b15f7b!8m2!3d18.0037543!4d79.5612762!16s%2Fg%2F124yqs3fm!19sChIJFTod8YJFMzoRe1-xJmOvCpo?authuser=0&hl=en&rclk=1"
@@ -3997,7 +4030,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hitam+Cardiac+Centre/data=!4m7!3m6!1s0x3a334582f11d3a15:0x9a0aaf6326b15f7b!8m2!3d18.0037543!4d79.5612762!16s%2Fg%2F124yqs3fm!19sChIJFTod8YJFMzoRe1-xJmOvCpo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "hitha-dental-and-maxillofacial-clinic-warangal",
@@ -4046,7 +4080,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/HITHA+DENTAL+AND+MAXILLOFACIAL+CLINIC/data=!4m7!3m6!1s0x3a33453922f9d2e5:0xb8ca3a2ac3e3143c!8m2!3d17.9811157!4d79.5985415!16s%2Fg%2F11j124d42c!19sChIJ5dL5IjlFMzoRPBTjwyo6yrg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HITHA+DENTAL+AND+MAXILLOFACIAL+CLINIC/data=!4m7!3m6!1s0x3a33453922f9d2e5:0xb8ca3a2ac3e3143c!8m2!3d17.9811157!4d79.5985415!16s%2Fg%2F11j124d42c!19sChIJ5dL5IjlFMzoRPBTjwyo6yrg?authuser=0&hl=en&rclk=1"
@@ -4115,7 +4149,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HITHA+DENTAL+AND+MAXILLOFACIAL+CLINIC/data=!4m7!3m6!1s0x3a33453922f9d2e5:0xb8ca3a2ac3e3143c!8m2!3d17.9811157!4d79.5985415!16s%2Fg%2F11j124d42c!19sChIJ5dL5IjlFMzoRPBTjwyo6yrg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "indira-ivf-and-surya-fertility-ivf-icsi-and-iui-best-ivf-center-in-hanamkonda-telangana-hanamkonda",
@@ -4165,7 +4200,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+and+Surya+Fertility+IVF+ICSI+%26+IUI+-+Best+IVF+Center+in+Hanamkonda,+Telangana/data=!4m7!3m6!1s0x3a33457de0dd4a1f:0xe57f3d530cd4f519!8m2!3d18.003569!4d79.569885!16s%2Fg%2F11jcbj7bw7!19sChIJH0rd4H1FMzoRGfXUDFM9f-U?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+and+Surya+Fertility+IVF+ICSI+%26+IUI+-+Best+IVF+Center+in+Hanamkonda,+Telangana/data=!4m7!3m6!1s0x3a33457de0dd4a1f:0xe57f3d530cd4f519!8m2!3d18.003569!4d79.569885!16s%2Fg%2F11jcbj7bw7!19sChIJH0rd4H1FMzoRGfXUDFM9f-U?authuser=0&hl=en&rclk=1"
@@ -4234,7 +4269,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+and+Surya+Fertility+IVF+ICSI+%26+IUI+-+Best+IVF+Center+in+Hanamkonda,+Telangana/data=!4m7!3m6!1s0x3a33457de0dd4a1f:0xe57f3d530cd4f519!8m2!3d18.003569!4d79.569885!16s%2Fg%2F11jcbj7bw7!19sChIJH0rd4H1FMzoRGfXUDFM9f-U?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "iswarya-ivf-and-fertility-center-warangal-warangal",
@@ -4284,7 +4320,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Center+Warangal/data=!4m7!3m6!1s0x3a3345c1d176a643:0x99d4ae15f0fea4f9!8m2!3d17.9877791!4d79.5921463!16s%2Fg%2F11sw41x7zm!19sChIJQ6Z20cFFMzoR-aT-8BWu1Jk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Center+Warangal/data=!4m7!3m6!1s0x3a3345c1d176a643:0x99d4ae15f0fea4f9!8m2!3d17.9877791!4d79.5921463!16s%2Fg%2F11sw41x7zm!19sChIJQ6Z20cFFMzoR-aT-8BWu1Jk?authuser=0&hl=en&rclk=1"
@@ -4353,7 +4389,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Center+Warangal/data=!4m7!3m6!1s0x3a3345c1d176a643:0x99d4ae15f0fea4f9!8m2!3d17.9877791!4d79.5921463!16s%2Fg%2F11sw41x7zm!19sChIJQ6Z20cFFMzoR-aT-8BWu1Jk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ivies-skin-and-hair-clinic-hanamkonda",
@@ -4402,7 +4439,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/IVIES+SKIN+AND+HAIR+CLINIC/data=!4m7!3m6!1s0x3a334fb291dd33db:0x4d607b7ce4dab317!8m2!3d18.0031679!4d79.5515006!16s%2Fg%2F11gxskgnvq!19sChIJ2zPdkbJPMzoRF7Pa5Hx7YE0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IVIES+SKIN+AND+HAIR+CLINIC/data=!4m7!3m6!1s0x3a334fb291dd33db:0x4d607b7ce4dab317!8m2!3d18.0031679!4d79.5515006!16s%2Fg%2F11gxskgnvq!19sChIJ2zPdkbJPMzoRF7Pa5Hx7YE0?authuser=0&hl=en&rclk=1"
@@ -4471,7 +4508,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/IVIES+SKIN+AND+HAIR+CLINIC/data=!4m7!3m6!1s0x3a334fb291dd33db:0x4d607b7ce4dab317!8m2!3d18.0031679!4d79.5515006!16s%2Fg%2F11gxskgnvq!19sChIJ2zPdkbJPMzoRF7Pa5Hx7YE0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jagruthi-neuro-hospital-hanamkonda",
@@ -4520,7 +4558,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Jagruthi+neuro+hospital/data=!4m7!3m6!1s0x3a3345447cbed6b9:0x81b213ebb5e8d2d5!8m2!3d18.0061682!4d79.5614616!16s%2Fg%2F11h4pxvb1d!19sChIJuda-fERFMzoR1dLotesTsoE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jagruthi+neuro+hospital/data=!4m7!3m6!1s0x3a3345447cbed6b9:0x81b213ebb5e8d2d5!8m2!3d18.0061682!4d79.5614616!16s%2Fg%2F11h4pxvb1d!19sChIJuda-fERFMzoR1dLotesTsoE?authuser=0&hl=en&rclk=1"
@@ -4589,7 +4627,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jagruthi+neuro+hospital/data=!4m7!3m6!1s0x3a3345447cbed6b9:0x81b213ebb5e8d2d5!8m2!3d18.0061682!4d79.5614616!16s%2Fg%2F11h4pxvb1d!19sChIJuda-fERFMzoR1dLotesTsoE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jaya-hospitals-and-diagnostic-mri-centre-warangal",
@@ -4638,7 +4677,7 @@
       "Google rating 2.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jaya+Hospitals+%26+Diagnostic+MRi+Centre/data=!4m7!3m6!1s0x3a334582e67e5507:0xb38e9335d502fdfa!8m2!3d18.0056016!4d79.5695328!16s%2Fg%2F1q66p51b0!19sChIJB1V-5oJFMzoR-v0C1TWTjrM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaya+Hospitals+%26+Diagnostic+MRi+Centre/data=!4m7!3m6!1s0x3a334582e67e5507:0xb38e9335d502fdfa!8m2!3d18.0056016!4d79.5695328!16s%2Fg%2F1q66p51b0!19sChIJB1V-5oJFMzoR-v0C1TWTjrM?authuser=0&hl=en&rclk=1"
@@ -4707,7 +4746,8 @@
     "rating": 2.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jaya+Hospitals+%26+Diagnostic+MRi+Centre/data=!4m7!3m6!1s0x3a334582e67e5507:0xb38e9335d502fdfa!8m2!3d18.0056016!4d79.5695328!16s%2Fg%2F1q66p51b0!19sChIJB1V-5oJFMzoR-v0C1TWTjrM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "jaya-krishna-heart-clinic-hanamkonda",
@@ -4756,7 +4796,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Jaya+Krishna+Heart+Clinic/data=!4m7!3m6!1s0x3a3345825f061f43:0xf0ad33874095b2f4!8m2!3d18.0043083!4d79.56864!16s%2Fg%2F11bbrm3nyx!19sChIJQx8GX4JFMzoR9LKVQIczrfA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jaya+Krishna+Heart+Clinic/data=!4m7!3m6!1s0x3a3345825f061f43:0xf0ad33874095b2f4!8m2!3d18.0043083!4d79.56864!16s%2Fg%2F11bbrm3nyx!19sChIJQx8GX4JFMzoR9LKVQIczrfA?authuser=0&hl=en&rclk=1"
@@ -4822,10 +4862,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jaya+Krishna+Heart+Clinic/data=!4m7!3m6!1s0x3a3345825f061f43:0xf0ad33874095b2f4!8m2!3d18.0043083!4d79.56864!16s%2Fg%2F11bbrm3nyx!19sChIJQx8GX4JFMzoR9LKVQIczrfA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kalpana-care32-dental-clinic-warangal",
@@ -4873,7 +4914,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Kalpana+Care32+Dental+Clinic/data=!4m7!3m6!1s0x3a334503395e224f:0xef683ef43ad7394f!8m2!3d17.9816041!4d79.5988967!16s%2Fg%2F11fm4w1k8y!19sChIJTyJeOQNFMzoRTznXOvQ-aO8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalpana+Care32+Dental+Clinic/data=!4m7!3m6!1s0x3a334503395e224f:0xef683ef43ad7394f!8m2!3d17.9816041!4d79.5988967!16s%2Fg%2F11fm4w1k8y!19sChIJTyJeOQNFMzoRTznXOvQ-aO8?authuser=0&hl=en&rclk=1"
@@ -4942,7 +4983,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalpana+Care32+Dental+Clinic/data=!4m7!3m6!1s0x3a334503395e224f:0xef683ef43ad7394f!8m2!3d17.9816041!4d79.5988967!16s%2Fg%2F11fm4w1k8y!19sChIJTyJeOQNFMzoRTznXOvQ-aO8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "katakam-narender-clinic-warangal",
@@ -4991,7 +5033,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Katakam+Narender+Clinic/data=!4m7!3m6!1s0x3a33451af6e0efcf:0xd23a3aaadf7a1617!8m2!3d17.990195!4d79.5960804!16s%2Fg%2F1ptxshgdt!19sChIJz-_g9hpFMzoRFxZ636o6OtI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Katakam+Narender+Clinic/data=!4m7!3m6!1s0x3a33451af6e0efcf:0xd23a3aaadf7a1617!8m2!3d17.990195!4d79.5960804!16s%2Fg%2F1ptxshgdt!19sChIJz-_g9hpFMzoRFxZ636o6OtI?authuser=0&hl=en&rclk=1"
@@ -5060,7 +5102,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Katakam+Narender+Clinic/data=!4m7!3m6!1s0x3a33451af6e0efcf:0xd23a3aaadf7a1617!8m2!3d17.990195!4d79.5960804!16s%2Fg%2F1ptxshgdt!19sChIJz-_g9hpFMzoRFxZ636o6OtI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kiran-kidney-centre-hanamkonda",
@@ -5110,7 +5153,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kiran+kidney+centre/data=!4m7!3m6!1s0x3a33458118759471:0xda4abb85669d47eb!8m2!3d18.0028537!4d79.5698095!16s%2Fg%2F11t1j8_fwc!19sChIJcZR1GIFFMzoR60edZoW7Sto?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kiran+kidney+centre/data=!4m7!3m6!1s0x3a33458118759471:0xda4abb85669d47eb!8m2!3d18.0028537!4d79.5698095!16s%2Fg%2F11t1j8_fwc!19sChIJcZR1GIFFMzoR60edZoW7Sto?authuser=0&hl=en&rclk=1"
@@ -5179,7 +5222,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kiran+kidney+centre/data=!4m7!3m6!1s0x3a33458118759471:0xda4abb85669d47eb!8m2!3d18.0028537!4d79.5698095!16s%2Fg%2F11t1j8_fwc!19sChIJcZR1GIFFMzoR60edZoW7Sto?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "koorapati-laparoscopic-and-fertility-center-hanamkonda",
@@ -5229,7 +5273,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Koorapati+Laparoscopic+And+Fertility+Center/@18.0051699,79.5635478,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334581a985a333:0xdca995833a401e37!8m2!3d18.0051699!4d79.5635478!16s%2Fg%2F11b6pf1y3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Koorapati+Laparoscopic+And+Fertility+Center/@18.0051699,79.5635478,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334581a985a333:0xdca995833a401e37!8m2!3d18.0051699!4d79.5635478!16s%2Fg%2F11b6pf1y3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -5298,7 +5342,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Koorapati+Laparoscopic+And+Fertility+Center/@18.0051699,79.5635478,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334581a985a333:0xdca995833a401e37!8m2!3d18.0051699!4d79.5635478!16s%2Fg%2F11b6pf1y3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krithika-dental-care-warangal",
@@ -5347,7 +5392,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Krithika+Dental+Care/data=!4m7!3m6!1s0x3a3345ec1e00762b:0xaf229994a3243ad9!8m2!3d17.965945!4d79.5994263!16s%2Fg%2F11ty7c75r5!19sChIJK3YAHuxFMzoR2Toko5SZIq8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krithika+Dental+Care/data=!4m7!3m6!1s0x3a3345ec1e00762b:0xaf229994a3243ad9!8m2!3d17.965945!4d79.5994263!16s%2Fg%2F11ty7c75r5!19sChIJK3YAHuxFMzoR2Toko5SZIq8?authuser=0&hl=en&rclk=1"
@@ -5413,10 +5458,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krithika+Dental+Care/data=!4m7!3m6!1s0x3a3345ec1e00762b:0xaf229994a3243ad9!8m2!3d17.965945!4d79.5994263!16s%2Fg%2F11ty7c75r5!19sChIJK3YAHuxFMzoR2Toko5SZIq8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lalitha-sri-kidney-center-warangal",
@@ -5465,7 +5511,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/Lalitha+Sri+Kidney+Center/data=!4m7!3m6!1s0x3a33451aed5be257:0x5ee2fa14246eef93!8m2!3d17.9903421!4d79.5954301!16s%2Fg%2F11gdq14kps!19sChIJV-Jb7RpFMzoRk-9uJBT64l4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lalitha+Sri+Kidney+Center/data=!4m7!3m6!1s0x3a33451aed5be257:0x5ee2fa14246eef93!8m2!3d17.9903421!4d79.5954301!16s%2Fg%2F11gdq14kps!19sChIJV-Jb7RpFMzoRk-9uJBT64l4?authuser=0&hl=en&rclk=1"
@@ -5534,7 +5580,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lalitha+Sri+Kidney+Center/data=!4m7!3m6!1s0x3a33451aed5be257:0x5ee2fa14246eef93!8m2!3d17.9903421!4d79.5954301!16s%2Fg%2F11gdq14kps!19sChIJV-Jb7RpFMzoRk-9uJBT64l4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "latha-venkat-ortho-and-general-care-kazipet",
@@ -5583,7 +5630,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/LATHA+VENKAT+ORTHO+%26+GENERAL+CARE/data=!4m7!3m6!1s0x3a334fc23917f153:0xa3961cb57063a062!8m2!3d17.9778192!4d79.5116466!16s%2Fg%2F11j9ckhrgg!19sChIJU_EXOcJPMzoRYqBjcLUclqM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/LATHA+VENKAT+ORTHO+%26+GENERAL+CARE/data=!4m7!3m6!1s0x3a334fc23917f153:0xa3961cb57063a062!8m2!3d17.9778192!4d79.5116466!16s%2Fg%2F11j9ckhrgg!19sChIJU_EXOcJPMzoRYqBjcLUclqM?authuser=0&hl=en&rclk=1"
@@ -5652,7 +5699,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/LATHA+VENKAT+ORTHO+%26+GENERAL+CARE/data=!4m7!3m6!1s0x3a334fc23917f153:0xa3961cb57063a062!8m2!3d17.9778192!4d79.5116466!16s%2Fg%2F11j9ckhrgg!19sChIJU_EXOcJPMzoRYqBjcLUclqM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "lavanya-hospital-hanamkonda",
@@ -5700,7 +5748,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Lavanya+Hospital/data=!4m7!3m6!1s0x3a3345825df869e7:0x7d9a9d58f6959b76!8m2!3d18.0024931!4d79.5613535!16s%2Fg%2F1q645d5k7!19sChIJ52n4XYJFMzoRdpuV9lidmn0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Lavanya+Hospital/data=!4m7!3m6!1s0x3a3345825df869e7:0x7d9a9d58f6959b76!8m2!3d18.0024931!4d79.5613535!16s%2Fg%2F1q645d5k7!19sChIJ52n4XYJFMzoRdpuV9lidmn0?authuser=0&hl=en&rclk=1"
@@ -5766,10 +5814,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Lavanya+Hospital/data=!4m7!3m6!1s0x3a3345825df869e7:0x7d9a9d58f6959b76!8m2!3d18.0024931!4d79.5613535!16s%2Fg%2F1q645d5k7!19sChIJ52n4XYJFMzoRdpuV9lidmn0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "laxmi-narasimha-hospital-best-fertility-centre-in-hanamkonda-iui-centre-ivf-centre-fertility-clinic-hanamkonda",
@@ -5819,7 +5868,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Laxmi+Narasimha+Hospital+%7C+Best+Fertility+Centre+in+Hanamkonda+%7C+IUI+Centre+%7C+IVF+Centre+%7C+Fertility+clinic/data=!4m7!3m6!1s0x3a334f634991e0c3:0xe47a0bffe88accda!8m2!3d18.0137691!4d79.556103!16s%2Fg%2F1tc_728y!19sChIJw-CRSWNPMzoR2syK6P8LeuQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmi+Narasimha+Hospital+%7C+Best+Fertility+Centre+in+Hanamkonda+%7C+IUI+Centre+%7C+IVF+Centre+%7C+Fertility+clinic/data=!4m7!3m6!1s0x3a334f634991e0c3:0xe47a0bffe88accda!8m2!3d18.0137691!4d79.556103!16s%2Fg%2F1tc_728y!19sChIJw-CRSWNPMzoR2syK6P8LeuQ?authuser=0&hl=en&rclk=1"
@@ -5888,7 +5937,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laxmi+Narasimha+Hospital+%7C+Best+Fertility+Centre+in+Hanamkonda+%7C+IUI+Centre+%7C+IVF+Centre+%7C+Fertility+clinic/data=!4m7!3m6!1s0x3a334f634991e0c3:0xe47a0bffe88accda!8m2!3d18.0137691!4d79.556103!16s%2Fg%2F1tc_728y!19sChIJw-CRSWNPMzoR2syK6P8LeuQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "laxmi-sri-orthopeadic-clinic-warangal",
@@ -5937,7 +5987,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Laxmi+Sri+Orthopeadic+Clinic/@17.9818098,79.5989734,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334518b0821c19:0xb49012b4a57d9839!8m2!3d17.9818098!4d79.5989734!16s%2Fg%2F1ptvtrdl5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Laxmi+Sri+Orthopeadic+Clinic/@17.9818098,79.5989734,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334518b0821c19:0xb49012b4a57d9839!8m2!3d17.9818098!4d79.5989734!16s%2Fg%2F1ptvtrdl5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -6006,7 +6056,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Laxmi+Sri+Orthopeadic+Clinic/@17.9818098,79.5989734,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334518b0821c19:0xb49012b4a57d9839!8m2!3d17.9818098!4d79.5989734!16s%2Fg%2F1ptvtrdl5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "luminis-hospital-hanamkonda",
@@ -6054,7 +6105,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/Luminis+Hospital/data=!4m7!3m6!1s0x3a334f84a3c8e92f:0x3c9414032889fa7f!8m2!3d17.995346!4d79.5503765!16s%2Fg%2F1tklnzgk!19sChIJL-nIo4RPMzoRf_qJKAMUlDw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Luminis+Hospital/data=!4m7!3m6!1s0x3a334f84a3c8e92f:0x3c9414032889fa7f!8m2!3d17.995346!4d79.5503765!16s%2Fg%2F1tklnzgk!19sChIJL-nIo4RPMzoRf_qJKAMUlDw?authuser=0&hl=en&rclk=1"
@@ -6123,7 +6174,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Luminis+Hospital/data=!4m7!3m6!1s0x3a334f84a3c8e92f:0x3c9414032889fa7f!8m2!3d17.995346!4d79.5503765!16s%2Fg%2F1tklnzgk!19sChIJL-nIo4RPMzoRf_qJKAMUlDw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "luminis-hospital-ivf-fertility-hospital-in-warangal-maternity-hospital-in-warangal-ivf-center-in-warangal-hanamkonda",
@@ -6173,7 +6225,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Luminis+Hospital+%7C+IVF+Fertility+Hospital+in+Warangal+%7C+Maternity+Hospital+in+Warangal+%7C+IVF+Center+in+Warangal/data=!4m7!3m6!1s0x3a334f0031532b9b:0x2ea5c273b249fb01!8m2!3d17.9959195!4d79.5501825!16s%2Fg%2F11wk47m606!19sChIJmytTMQBPMzoRAftJsnPCpS4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Luminis+Hospital+%7C+IVF+Fertility+Hospital+in+Warangal+%7C+Maternity+Hospital+in+Warangal+%7C+IVF+Center+in+Warangal/data=!4m7!3m6!1s0x3a334f0031532b9b:0x2ea5c273b249fb01!8m2!3d17.9959195!4d79.5501825!16s%2Fg%2F11wk47m606!19sChIJmytTMQBPMzoRAftJsnPCpS4?authuser=0&hl=en&rclk=1"
@@ -6242,7 +6294,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Luminis+Hospital+%7C+IVF+Fertility+Hospital+in+Warangal+%7C+Maternity+Hospital+in+Warangal+%7C+IVF+Center+in+Warangal/data=!4m7!3m6!1s0x3a334f0031532b9b:0x2ea5c273b249fb01!8m2!3d17.9959195!4d79.5501825!16s%2Fg%2F11wk47m606!19sChIJmytTMQBPMzoRAftJsnPCpS4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maharshi-goshala-charitable-trust-beside-bgr-garden-chinthagattu-v-hasanparthy",
@@ -6291,7 +6344,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Maharshi+Goshala+Charitable+Trust/data=!4m7!3m6!1s0x3a334960bcd1f0a7:0xf5f9711f0abd42a0!8m2!3d18.048087!4d79.5242491!16s%2Fg%2F11grcb6wyw!19sChIJp_DRvGBJMzoRoEK9Ch9x-fU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maharshi+Goshala+Charitable+Trust/data=!4m7!3m6!1s0x3a334960bcd1f0a7:0xf5f9711f0abd42a0!8m2!3d18.048087!4d79.5242491!16s%2Fg%2F11grcb6wyw!19sChIJp_DRvGBJMzoRoEK9Ch9x-fU?authuser=0&hl=en&rclk=1"
@@ -6360,7 +6413,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maharshi+Goshala+Charitable+Trust/data=!4m7!3m6!1s0x3a334960bcd1f0a7:0xf5f9711f0abd42a0!8m2!3d18.048087!4d79.5242491!16s%2Fg%2F11grcb6wyw!19sChIJp_DRvGBJMzoRoEK9Ch9x-fU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mahi-hospital-warangal",
@@ -6409,7 +6463,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mahi+Hospital/data=!4m7!3m6!1s0x3a334faca1bb42eb:0x935c97485224393d!8m2!3d18.0017136!4d79.5614664!16s%2Fg%2F11gnq8jhv4!19sChIJ60K7oaxPMzoRPTkkUkiXXJM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahi+Hospital/data=!4m7!3m6!1s0x3a334faca1bb42eb:0x935c97485224393d!8m2!3d18.0017136!4d79.5614664!16s%2Fg%2F11gnq8jhv4!19sChIJ60K7oaxPMzoRPTkkUkiXXJM?authuser=0&hl=en&rclk=1"
@@ -6478,7 +6532,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahi+Hospital/data=!4m7!3m6!1s0x3a334faca1bb42eb:0x935c97485224393d!8m2!3d18.0017136!4d79.5614664!16s%2Fg%2F11gnq8jhv4!19sChIJ60K7oaxPMzoRPTkkUkiXXJM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "male-surgical-ward-units-5-6-warangal",
@@ -6524,7 +6579,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Male+Surgical+Ward+Units+-+5,6/data=!4m7!3m6!1s0x3a3345104324854b:0x742c838084e54ab4!8m2!3d17.990096!4d79.5924389!16s%2Fg%2F1tg59j9r!19sChIJS4UkQxBFMzoRtErlhICDLHQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Male+Surgical+Ward+Units+-+5,6/data=!4m7!3m6!1s0x3a3345104324854b:0x742c838084e54ab4!8m2!3d17.990096!4d79.5924389!16s%2Fg%2F1tg59j9r!19sChIJS4UkQxBFMzoRtErlhICDLHQ?authuser=0&hl=en&rclk=1"
@@ -6590,10 +6645,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Male+Surgical+Ward+Units+-+5,6/data=!4m7!3m6!1s0x3a3345104324854b:0x742c838084e54ab4!8m2!3d17.990096!4d79.5924389!16s%2Fg%2F1tg59j9r!19sChIJS4UkQxBFMzoRtErlhICDLHQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "male-surgical-ward-units-1-3-first-floor-warangal",
@@ -6639,7 +6695,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Male+Surgical+Ward+Units-+1,3+%28first+floor%29/data=!4m7!3m6!1s0x3a3345004c2136bd:0x7f8a54daf8f1665d!8m2!3d17.9900558!4d79.5928986!16s%2Fg%2F11x7z7yl5q!19sChIJvTYhTABFMzoRXWbx-NpUin8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Male+Surgical+Ward+Units-+1,3+%28first+floor%29/data=!4m7!3m6!1s0x3a3345004c2136bd:0x7f8a54daf8f1665d!8m2!3d17.9900558!4d79.5928986!16s%2Fg%2F11x7z7yl5q!19sChIJvTYhTABFMzoRXWbx-NpUin8?authuser=0&hl=en&rclk=1"
@@ -6705,10 +6761,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Male+Surgical+Ward+Units-+1,3+%28first+floor%29/data=!4m7!3m6!1s0x3a3345004c2136bd:0x7f8a54daf8f1665d!8m2!3d17.9900558!4d79.5928986!16s%2Fg%2F11x7z7yl5q!19sChIJvTYhTABFMzoRXWbx-NpUin8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mamatha-heart-clinic-hanamkonda",
@@ -6758,7 +6815,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mamatha+Heart+Clinic/data=!4m7!3m6!1s0x3a33459f4d91a65d:0xecf8e332490ff6bc!8m2!3d17.9990319!4d79.5604337!16s%2Fg%2F11f6f_f6d0!19sChIJXaaRTZ9FMzoRvPYPSTLj-Ow?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mamatha+Heart+Clinic/data=!4m7!3m6!1s0x3a33459f4d91a65d:0xecf8e332490ff6bc!8m2!3d17.9990319!4d79.5604337!16s%2Fg%2F11f6f_f6d0!19sChIJXaaRTZ9FMzoRvPYPSTLj-Ow?authuser=0&hl=en&rclk=1"
@@ -6827,7 +6884,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mamatha+Heart+Clinic/data=!4m7!3m6!1s0x3a33459f4d91a65d:0xecf8e332490ff6bc!8m2!3d17.9990319!4d79.5604337!16s%2Fg%2F11f6f_f6d0!19sChIJXaaRTZ9FMzoRvPYPSTLj-Ow?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "matrika-fertility-center-best-fertility-centre-in-hanamkonda-warangal-best-ivf-centre-in-hanamkonda-hanamkonda",
@@ -6877,7 +6935,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Matrika+Fertility+Center+-+Best+Fertility+Centre+in+Hanamkonda,+Warangal+,+Best+IVF+Centre+in+Hanamkonda/data=!4m7!3m6!1s0x3a334582c00ebf0d:0x38245bbb43982876!8m2!3d17.9991808!4d79.5599765!16s%2Fg%2F11s_y_f933!19sChIJDb8OwIJFMzoRdiiYQ7tbJDg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matrika+Fertility+Center+-+Best+Fertility+Centre+in+Hanamkonda,+Warangal+,+Best+IVF+Centre+in+Hanamkonda/data=!4m7!3m6!1s0x3a334582c00ebf0d:0x38245bbb43982876!8m2!3d17.9991808!4d79.5599765!16s%2Fg%2F11s_y_f933!19sChIJDb8OwIJFMzoRdiiYQ7tbJDg?authuser=0&hl=en&rclk=1"
@@ -6946,7 +7004,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Matrika+Fertility+Center+-+Best+Fertility+Centre+in+Hanamkonda,+Warangal+,+Best+IVF+Centre+in+Hanamkonda/data=!4m7!3m6!1s0x3a334582c00ebf0d:0x38245bbb43982876!8m2!3d17.9991808!4d79.5599765!16s%2Fg%2F11s_y_f933!19sChIJDb8OwIJFMzoRdiiYQ7tbJDg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "maxcare-hospital-hanakonda-hanamkonda",
@@ -6994,7 +7053,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Maxcare+Hospital+Hanakonda/data=!4m7!3m6!1s0x3a3345815ae5e585:0x6be092521fde22e3!8m2!3d18.0074484!4d79.5653732!16s%2Fg%2F11mhhy6239!19sChIJheXlWoFFMzoR4yLeH1KS4Gs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Maxcare+Hospital+Hanakonda/data=!4m7!3m6!1s0x3a3345815ae5e585:0x6be092521fde22e3!8m2!3d18.0074484!4d79.5653732!16s%2Fg%2F11mhhy6239!19sChIJheXlWoFFMzoR4yLeH1KS4Gs?authuser=0&hl=en&rclk=1"
@@ -7063,7 +7122,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Maxcare+Hospital+Hanakonda/data=!4m7!3m6!1s0x3a3345815ae5e585:0x6be092521fde22e3!8m2!3d18.0074484!4d79.5653732!16s%2Fg%2F11mhhy6239!19sChIJheXlWoFFMzoR4yLeH1KS4Gs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "medicare-general-hospital-warangal",
@@ -7112,7 +7172,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medicare+general+hospital/@17.971645,79.5787161,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345083499c74f:0xa7cc3e8616c82853!8m2!3d17.971645!4d79.5787161!16s%2Fg%2F11l5vqz0xr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicare+general+hospital/@17.971645,79.5787161,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345083499c74f:0xa7cc3e8616c82853!8m2!3d17.971645!4d79.5787161!16s%2Fg%2F11l5vqz0xr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -7181,7 +7241,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicare+general+hospital/@17.971645,79.5787161,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345083499c74f:0xa7cc3e8616c82853!8m2!3d17.971645!4d79.5787161!16s%2Fg%2F11l5vqz0xr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medicover-hospitals-best-hospital-in-warangal-hanamkonda",
@@ -7230,7 +7291,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Warangal/data=!4m7!3m6!1s0x3a33456640fb177b:0x8097f0212c5aeaac!8m2!3d17.9836321!4d79.5778649!16s%2Fg%2F11ks459jyz!19sChIJexf7QGZFMzoRrOpaLCHwl4A?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Warangal/data=!4m7!3m6!1s0x3a33456640fb177b:0x8097f0212c5aeaac!8m2!3d17.9836321!4d79.5778649!16s%2Fg%2F11ks459jyz!19sChIJexf7QGZFMzoRrOpaLCHwl4A?authuser=0&hl=en&rclk=1"
@@ -7299,7 +7360,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Warangal/data=!4m7!3m6!1s0x3a33456640fb177b:0x8097f0212c5aeaac!8m2!3d17.9836321!4d79.5778649!16s%2Fg%2F11ks459jyz!19sChIJexf7QGZFMzoRrOpaLCHwl4A?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mgm-hospital-warangal-warangal",
@@ -7348,7 +7410,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MGM+Hospital+Warangal/data=!4m7!3m6!1s0x3a334510048fe451:0x67ea2b4c8aba762f!8m2!3d17.9903134!4d79.5928432!16s%2Fm%2F05q8p49!19sChIJUeSPBBBFMzoRL3a6ikwr6mc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MGM+Hospital+Warangal/data=!4m7!3m6!1s0x3a334510048fe451:0x67ea2b4c8aba762f!8m2!3d17.9903134!4d79.5928432!16s%2Fm%2F05q8p49!19sChIJUeSPBBBFMzoRL3a6ikwr6mc?authuser=0&hl=en&rclk=1"
@@ -7417,7 +7479,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MGM+Hospital+Warangal/data=!4m7!3m6!1s0x3a334510048fe451:0x67ea2b4c8aba762f!8m2!3d17.9903134!4d79.5928432!16s%2Fm%2F05q8p49!19sChIJUeSPBBBFMzoRL3a6ikwr6mc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mokshita-hospitals-warangal",
@@ -7465,7 +7528,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Mokshita+Hospitals/data=!4m7!3m6!1s0x3a334526e6f0c5ff:0x270fe53864b05f6a!8m2!3d18.0024048!4d79.5720258!16s%2Fg%2F11s535rq0r!19sChIJ_8Xw5iZFMzoRal-wZDjlDyc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mokshita+Hospitals/data=!4m7!3m6!1s0x3a334526e6f0c5ff:0x270fe53864b05f6a!8m2!3d18.0024048!4d79.5720258!16s%2Fg%2F11s535rq0r!19sChIJ_8Xw5iZFMzoRal-wZDjlDyc?authuser=0&hl=en&rclk=1"
@@ -7531,10 +7594,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mokshita+Hospitals/data=!4m7!3m6!1s0x3a334526e6f0c5ff:0x270fe53864b05f6a!8m2!3d18.0024048!4d79.5720258!16s%2Fg%2F11s535rq0r!19sChIJ_8Xw5iZFMzoRal-wZDjlDyc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mourya-dental-hospital-warangal",
@@ -7582,7 +7646,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Mourya+Dental+Hospital/data=!4m7!3m6!1s0x3a334fafa0feadbd:0x18559c9a029a263d!8m2!3d18.0198516!4d79.5447371!16s%2Fg%2F11s7517wpb!19sChIJva3-oK9PMzoRPSaaApqcVRg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mourya+Dental+Hospital/data=!4m7!3m6!1s0x3a334fafa0feadbd:0x18559c9a029a263d!8m2!3d18.0198516!4d79.5447371!16s%2Fg%2F11s7517wpb!19sChIJva3-oK9PMzoRPSaaApqcVRg?authuser=0&hl=en&rclk=1"
@@ -7651,7 +7715,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mourya+Dental+Hospital/data=!4m7!3m6!1s0x3a334fafa0feadbd:0x18559c9a029a263d!8m2!3d18.0198516!4d79.5447371!16s%2Fg%2F11s7517wpb!19sChIJva3-oK9PMzoRPSaaApqcVRg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mourya-hospital-warangal",
@@ -7699,7 +7764,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Mourya+Hospital/data=!4m7!3m6!1s0x3a33451a92ba85c1:0x383146bb16551b65!8m2!3d17.9902234!4d79.5955519!16s%2Fg%2F1ptyz3cs_!19sChIJwYW6khpFMzoRZRtVFrtGMTg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mourya+Hospital/data=!4m7!3m6!1s0x3a33451a92ba85c1:0x383146bb16551b65!8m2!3d17.9902234!4d79.5955519!16s%2Fg%2F1ptyz3cs_!19sChIJwYW6khpFMzoRZRtVFrtGMTg?authuser=0&hl=en&rclk=1"
@@ -7768,7 +7833,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mourya+Hospital/data=!4m7!3m6!1s0x3a33451a92ba85c1:0x383146bb16551b65!8m2!3d17.9902234!4d79.5955519!16s%2Fg%2F1ptyz3cs_!19sChIJwYW6khpFMzoRZRtVFrtGMTg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "mythri-sri-fertility-centre-warangal-warangal",
@@ -7818,7 +7884,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mythri+Sri+fertility+centre+Warangal/data=!4m7!3m6!1s0x3a3345d252b61fd9:0x5c11cd463ffa9e3f!8m2!3d18.006208!4d79.5577968!16s%2Fg%2F11wgr39nrx!19sChIJ2R-2UtJFMzoRP576P0bNEVw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mythri+Sri+fertility+centre+Warangal/data=!4m7!3m6!1s0x3a3345d252b61fd9:0x5c11cd463ffa9e3f!8m2!3d18.006208!4d79.5577968!16s%2Fg%2F11wgr39nrx!19sChIJ2R-2UtJFMzoRP576P0bNEVw?authuser=0&hl=en&rclk=1"
@@ -7887,7 +7953,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mythri+Sri+fertility+centre+Warangal/data=!4m7!3m6!1s0x3a3345d252b61fd9:0x5c11cd463ffa9e3f!8m2!3d18.006208!4d79.5577968!16s%2Fg%2F11wgr39nrx!19sChIJ2R-2UtJFMzoRP576P0bNEVw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nephron-kidney-centre-warangal",
@@ -7937,7 +8004,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nephron+Kidney+Centre/data=!4m7!3m6!1s0x3a334502a9e9f1cb:0x16df4658b775aea5!8m2!3d17.9932478!4d79.6054953!16s%2Fg%2F11sbq_knnq!19sChIJy_HpqQJFMzoRpa51t1hG3xY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephron+Kidney+Centre/data=!4m7!3m6!1s0x3a334502a9e9f1cb:0x16df4658b775aea5!8m2!3d17.9932478!4d79.6054953!16s%2Fg%2F11sbq_knnq!19sChIJy_HpqQJFMzoRpa51t1hG3xY?authuser=0&hl=en&rclk=1"
@@ -8003,10 +8070,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nephron+Kidney+Centre/data=!4m7!3m6!1s0x3a334502a9e9f1cb:0x16df4658b775aea5!8m2!3d17.9932478!4d79.6054953!16s%2Fg%2F11sbq_knnq!19sChIJy_HpqQJFMzoRpa51t1hG3xY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nephron-kidney-centre-hanamkonda-warangal-kidney-specialist-best-urology-and-andrology-laser-kidney-stone-surgery-hanamkonda",
@@ -8056,7 +8124,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nephron+Kidney+Centre+-+Hanamkonda%2FWarangal+-+Kidney+Specialist+%7C+Best+Urology+%26+Andrology+%7C+Laser+Kidney+Stone+Surgery/data=!4m7!3m6!1s0x3a334582952b62ef:0x6f8537704f8e6de8!8m2!3d18.0042098!4d79.5700019!16s%2Fg%2F11hbr7x4ht!19sChIJ72IrlYJFMzoR6G2OT3A3hW8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephron+Kidney+Centre+-+Hanamkonda%2FWarangal+-+Kidney+Specialist+%7C+Best+Urology+%26+Andrology+%7C+Laser+Kidney+Stone+Surgery/data=!4m7!3m6!1s0x3a334582952b62ef:0x6f8537704f8e6de8!8m2!3d18.0042098!4d79.5700019!16s%2Fg%2F11hbr7x4ht!19sChIJ72IrlYJFMzoR6G2OT3A3hW8?authuser=0&hl=en&rclk=1"
@@ -8125,7 +8193,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nephron+Kidney+Centre+-+Hanamkonda%2FWarangal+-+Kidney+Specialist+%7C+Best+Urology+%26+Andrology+%7C+Laser+Kidney+Stone+Surgery/data=!4m7!3m6!1s0x3a334582952b62ef:0x6f8537704f8e6de8!8m2!3d18.0042098!4d79.5700019!16s%2Fg%2F11hbr7x4ht!19sChIJ72IrlYJFMzoR6G2OT3A3hW8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nephroplus-dialysis-clinic-in-warangal-warangal",
@@ -8174,7 +8243,7 @@
     "metrics": [
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nephroplus+Dialysis+Clinic+in+Warangal/data=!4m7!3m6!1s0x3a3345a569f3a3ad:0x367270f87eb96231!8m2!3d18.0040576!4d79.5700086!16s%2Fg%2F11m5zbvkfz!19sChIJraPzaaVFMzoRMWK5fvhwcjY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nephroplus+Dialysis+Clinic+in+Warangal/data=!4m7!3m6!1s0x3a3345a569f3a3ad:0x367270f87eb96231!8m2!3d18.0040576!4d79.5700086!16s%2Fg%2F11m5zbvkfz!19sChIJraPzaaVFMzoRMWK5fvhwcjY?authuser=0&hl=en&rclk=1"
@@ -8240,10 +8309,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nephroplus+Dialysis+Clinic+in+Warangal/data=!4m7!3m6!1s0x3a3345a569f3a3ad:0x367270f87eb96231!8m2!3d18.0040576!4d79.5700086!16s%2Fg%2F11m5zbvkfz!19sChIJraPzaaVFMzoRMWK5fvhwcjY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nihira-hospital-fever-diabetes-and-emergency-care-kashibugga-warangal",
@@ -8292,7 +8362,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Nihira+Hospital+%7C+Fever,+Diabetes+%26+Emergency+Care+Kashibugga/data=!4m7!3m6!1s0x3a334582c9011347:0x5c9dc66a8ac536f4!8m2!3d17.9843756!4d79.6116583!16s%2Fg%2F11qgdppx8j!19sChIJRxMByYJFMzoR9DbFimrGnVw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nihira+Hospital+%7C+Fever,+Diabetes+%26+Emergency+Care+Kashibugga/data=!4m7!3m6!1s0x3a334582c9011347:0x5c9dc66a8ac536f4!8m2!3d17.9843756!4d79.6116583!16s%2Fg%2F11qgdppx8j!19sChIJRxMByYJFMzoR9DbFimrGnVw?authuser=0&hl=en&rclk=1"
@@ -8361,7 +8431,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nihira+Hospital+%7C+Fever,+Diabetes+%26+Emergency+Care+Kashibugga/data=!4m7!3m6!1s0x3a334582c9011347:0x5c9dc66a8ac536f4!8m2!3d17.9843756!4d79.6116583!16s%2Fg%2F11qgdppx8j!19sChIJRxMByYJFMzoR9DbFimrGnVw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "nnr-hospital-warangal",
@@ -8409,7 +8480,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/NNR+Hospital/@17.9795492,79.6009221,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334521ead0c33b:0x268f2ec812a7f898!8m2!3d17.9795492!4d79.6009221!16s%2Fg%2F1w2ys8yn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/NNR+Hospital/@17.9795492,79.6009221,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334521ead0c33b:0x268f2ec812a7f898!8m2!3d17.9795492!4d79.6009221!16s%2Fg%2F1w2ys8yn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -8478,7 +8549,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/NNR+Hospital/@17.9795492,79.6009221,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334521ead0c33b:0x268f2ec812a7f898!8m2!3d17.9795492!4d79.6009221!16s%2Fg%2F1w2ys8yn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nova-ivf-fertility-center-best-ivf-centre-in-hanamkonda-warangal-hanamkonda",
@@ -8528,7 +8600,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Hanamkonda,+Warangal/data=!4m7!3m6!1s0x3a334f883a96ea6d:0x35d81cfa8032e26a!8m2!3d17.9976729!4d79.5550462!16s%2Fg%2F11vzxrwd5c!19sChIJbeqWOohPMzoRauIygPoc2DU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Hanamkonda,+Warangal/data=!4m7!3m6!1s0x3a334f883a96ea6d:0x35d81cfa8032e26a!8m2!3d17.9976729!4d79.5550462!16s%2Fg%2F11vzxrwd5c!19sChIJbeqWOohPMzoRauIygPoc2DU?authuser=0&hl=en&rclk=1"
@@ -8597,7 +8669,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Hanamkonda,+Warangal/data=!4m7!3m6!1s0x3a334f883a96ea6d:0x35d81cfa8032e26a!8m2!3d17.9976729!4d79.5550462!16s%2Fg%2F11vzxrwd5c!19sChIJbeqWOohPMzoRauIygPoc2DU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "oasis-fertility-best-ivf-centre-in-hanamkonda-hanamkonda",
@@ -8646,7 +8719,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Hanamkonda/data=!4m7!3m6!1s0x3a334f6a02d26671:0x47bb5ebc86e310b7!8m2!3d18.006335!4d79.5580187!16s%2Fg%2F11l1r59dq3!19sChIJcWbSAmpPMzoRtxDjhrxeu0c?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Hanamkonda/data=!4m7!3m6!1s0x3a334f6a02d26671:0x47bb5ebc86e310b7!8m2!3d18.006335!4d79.5580187!16s%2Fg%2F11l1r59dq3!19sChIJcWbSAmpPMzoRtxDjhrxeu0c?authuser=0&hl=en&rclk=1"
@@ -8712,10 +8785,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Hanamkonda/data=!4m7!3m6!1s0x3a334f6a02d26671:0x47bb5ebc86e310b7!8m2!3d18.006335!4d79.5580187!16s%2Fg%2F11l1r59dq3!19sChIJcWbSAmpPMzoRtxDjhrxeu0c?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "oasis-fertility-best-ivf-centre-in-warangal-hanamkonda-warangal",
@@ -8765,7 +8839,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Warangal,+Hanamkonda/data=!4m7!3m6!1s0x3a3345f9f9efdd69:0xfe975dcb7f261fdd!8m2!3d18.006464!4d79.557919!16s%2Fg%2F11f4__61t_!19sChIJad3v-flFMzoR3R8mf8tdl_4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Warangal,+Hanamkonda/data=!4m7!3m6!1s0x3a3345f9f9efdd69:0xfe975dcb7f261fdd!8m2!3d18.006464!4d79.557919!16s%2Fg%2F11f4__61t_!19sChIJad3v-flFMzoR3R8mf8tdl_4?authuser=0&hl=en&rclk=1"
@@ -8834,7 +8908,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Warangal,+Hanamkonda/data=!4m7!3m6!1s0x3a3345f9f9efdd69:0xfe975dcb7f261fdd!8m2!3d18.006464!4d79.557919!16s%2Fg%2F11f4__61t_!19sChIJad3v-flFMzoR3R8mf8tdl_4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "op-neuro-cure-pvt-ltd-hanamkonda",
@@ -8883,7 +8958,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/OP+NEURO+CURE+PVT+LTD/data=!4m7!3m6!1s0x3a33453591339ce5:0x8ad720a2e1fc088a!8m2!3d18.0030088!4d79.5698626!16s%2Fg%2F11ptqqz121!19sChIJ5ZwzkTVFMzoRigj84aIg14o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OP+NEURO+CURE+PVT+LTD/data=!4m7!3m6!1s0x3a33453591339ce5:0x8ad720a2e1fc088a!8m2!3d18.0030088!4d79.5698626!16s%2Fg%2F11ptqqz121!19sChIJ5ZwzkTVFMzoRigj84aIg14o?authuser=0&hl=en&rclk=1"
@@ -8952,7 +9027,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OP+NEURO+CURE+PVT+LTD/data=!4m7!3m6!1s0x3a33453591339ce5:0x8ad720a2e1fc088a!8m2!3d18.0030088!4d79.5698626!16s%2Fg%2F11ptqqz121!19sChIJ5ZwzkTVFMzoRigj84aIg14o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "origins-ivf-center-hanamkonda-hanamkonda",
@@ -9002,7 +9078,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Origins+IVF+Center+Hanamkonda/data=!4m7!3m6!1s0x3a33452ee1e5de45:0x198dad92bec539bb!8m2!3d17.9984643!4d79.5614338!16s%2Fg%2F11lsr5wh0p!19sChIJRd7l4S5FMzoRuznFvpKtjRk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Origins+IVF+Center+Hanamkonda/data=!4m7!3m6!1s0x3a33452ee1e5de45:0x198dad92bec539bb!8m2!3d17.9984643!4d79.5614338!16s%2Fg%2F11lsr5wh0p!19sChIJRd7l4S5FMzoRuznFvpKtjRk?authuser=0&hl=en&rclk=1"
@@ -9071,7 +9147,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Origins+IVF+Center+Hanamkonda/data=!4m7!3m6!1s0x3a33452ee1e5de45:0x198dad92bec539bb!8m2!3d17.9984643!4d79.5614338!16s%2Fg%2F11lsr5wh0p!19sChIJRd7l4S5FMzoRuznFvpKtjRk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "orugallugastro-warangal",
@@ -9120,7 +9197,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Orugallugastro/data=!4m7!3m6!1s0x3a33450d451ceb31:0xce2fd4e67a07c297!8m2!3d18.004462!4d79.5684216!16s%2Fg%2F11t3cyr7zq!19sChIJMescRQ1FMzoRl8IHeubUL84?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Orugallugastro/data=!4m7!3m6!1s0x3a33450d451ceb31:0xce2fd4e67a07c297!8m2!3d18.004462!4d79.5684216!16s%2Fg%2F11t3cyr7zq!19sChIJMescRQ1FMzoRl8IHeubUL84?authuser=0&hl=en&rclk=1"
@@ -9189,7 +9266,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Orugallugastro/data=!4m7!3m6!1s0x3a33450d451ceb31:0xce2fd4e67a07c297!8m2!3d18.004462!4d79.5684216!16s%2Fg%2F11t3cyr7zq!19sChIJMescRQ1FMzoRl8IHeubUL84?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "parnika-ent-and-dental-hospital-warangal",
@@ -9237,7 +9315,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Parnika+ENT+%26+Dental+Hospital/@17.9841275,79.5993178,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334509d9eada61:0x6b0946db9cf7ffd!8m2!3d17.9841275!4d79.5993178!16s%2Fg%2F11sd70489n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Parnika+ENT+%26+Dental+Hospital/@17.9841275,79.5993178,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334509d9eada61:0x6b0946db9cf7ffd!8m2!3d17.9841275!4d79.5993178!16s%2Fg%2F11sd70489n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9306,7 +9384,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Parnika+ENT+%26+Dental+Hospital/@17.9841275,79.5993178,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334509d9eada61:0x6b0946db9cf7ffd!8m2!3d17.9841275!4d79.5993178!16s%2Fg%2F11sd70489n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "partha-dental-clinic-hanamkonda-invisalign-provider-hanamkonda",
@@ -9355,7 +9434,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Hanamkonda+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider/@18.0035388,79.5694526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345829042bb1b:0x3c5c4370db4ef853!8m2!3d18.0035388!4d79.5694526!16s%2Fg%2F11c48s6rm4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Hanamkonda+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider/@18.0035388,79.5694526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345829042bb1b:0x3c5c4370db4ef853!8m2!3d18.0035388!4d79.5694526!16s%2Fg%2F11c48s6rm4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -9424,7 +9503,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Hanamkonda+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider/@18.0035388,79.5694526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345829042bb1b:0x3c5c4370db4ef853!8m2!3d18.0035388!4d79.5694526!16s%2Fg%2F11c48s6rm4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "partha-dental-clinic-warangal-invisalign-provider-aligners-braces-root-canal-and-dental-implants-warangal",
@@ -9473,7 +9553,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Warangal+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7CInvisalign+Provider+%7C+Aligners,+Braces,+Root+Canal+%26+Dental+Implants/data=!4m7!3m6!1s0x3a334518a84ee0df:0xb2c888e66b9194d!8m2!3d17.9809996!4d79.5991131!16s%2Fg%2F11hd9n_tys!19sChIJ3-BOqBhFMzoRTRm5Zo6ILAs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Warangal+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7CInvisalign+Provider+%7C+Aligners,+Braces,+Root+Canal+%26+Dental+Implants/data=!4m7!3m6!1s0x3a334518a84ee0df:0xb2c888e66b9194d!8m2!3d17.9809996!4d79.5991131!16s%2Fg%2F11hd9n_tys!19sChIJ3-BOqBhFMzoRTRm5Zo6ILAs?authuser=0&hl=en&rclk=1"
@@ -9542,7 +9622,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Warangal+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7CInvisalign+Provider+%7C+Aligners,+Braces,+Root+Canal+%26+Dental+Implants/data=!4m7!3m6!1s0x3a334518a84ee0df:0xb2c888e66b9194d!8m2!3d17.9809996!4d79.5991131!16s%2Fg%2F11hd9n_tys!19sChIJ3-BOqBhFMzoRTRm5Zo6ILAs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "piles-clinic-hanamkonda-hanamkonda",
@@ -9591,7 +9672,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Piles+Clinic+Hanamkonda/data=!4m7!3m6!1s0x3a334580f0c301a5:0x6992db3d223711e5!8m2!3d18.0022435!4d79.5667787!16s%2Fg%2F11hd4vhn68!19sChIJpQHD8IBFMzoR5RE3Ij3bkmk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Piles+Clinic+Hanamkonda/data=!4m7!3m6!1s0x3a334580f0c301a5:0x6992db3d223711e5!8m2!3d18.0022435!4d79.5667787!16s%2Fg%2F11hd4vhn68!19sChIJpQHD8IBFMzoR5RE3Ij3bkmk?authuser=0&hl=en&rclk=1"
@@ -9660,7 +9741,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Piles+Clinic+Hanamkonda/data=!4m7!3m6!1s0x3a334580f0c301a5:0x6992db3d223711e5!8m2!3d18.0022435!4d79.5667787!16s%2Fg%2F11hd4vhn68!19sChIJpQHD8IBFMzoR5RE3Ij3bkmk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "piles-clinic-warangal-warangal",
@@ -9708,7 +9790,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Piles+Clinic+Warangal/data=!4m7!3m6!1s0x3a3345fbe1b67a91:0xd287c64603346b96!8m2!3d17.9890764!4d79.6027964!16s%2Fg%2F11t4bt72kb!19sChIJkXq24ftFMzoRlms0A0bGh9I?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Piles+Clinic+Warangal/data=!4m7!3m6!1s0x3a3345fbe1b67a91:0xd287c64603346b96!8m2!3d17.9890764!4d79.6027964!16s%2Fg%2F11t4bt72kb!19sChIJkXq24ftFMzoRlms0A0bGh9I?authuser=0&hl=en&rclk=1"
@@ -9774,10 +9856,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Piles+Clinic+Warangal/data=!4m7!3m6!1s0x3a3345fbe1b67a91:0xd287c64603346b96!8m2!3d17.9890764!4d79.6027964!16s%2Fg%2F11t4bt72kb!19sChIJkXq24ftFMzoRlms0A0bGh9I?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "pramoda-hospital-warangal",
@@ -9825,7 +9908,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Pramoda+Hospital/data=!4m7!3m6!1s0x3a334f8103972ed9:0x780aaf0d896e661a!8m2!3d17.9984438!4d79.5580811!16s%2Fg%2F1vyn28nb!19sChIJ2S6XA4FPMzoRGmZuiQ2vCng?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pramoda+Hospital/data=!4m7!3m6!1s0x3a334f8103972ed9:0x780aaf0d896e661a!8m2!3d17.9984438!4d79.5580811!16s%2Fg%2F1vyn28nb!19sChIJ2S6XA4FPMzoRGmZuiQ2vCng?authuser=0&hl=en&rclk=1"
@@ -9894,7 +9977,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pramoda+Hospital/data=!4m7!3m6!1s0x3a334f8103972ed9:0x780aaf0d896e661a!8m2!3d17.9984438!4d79.5580811!16s%2Fg%2F1vyn28nb!19sChIJ2S6XA4FPMzoRGmZuiQ2vCng?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "prathima-cancer-institute-warangal-damera",
@@ -9942,7 +10026,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Prathima+Cancer+Institute+%7C+Warangal/@18.072383,79.6560462,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334557b1ac2735:0x346b7c156aad7c2b!8m2!3d18.072383!4d79.6560462!16s%2Fg%2F11f5k2h_fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prathima+Cancer+Institute+%7C+Warangal/@18.072383,79.6560462,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334557b1ac2735:0x346b7c156aad7c2b!8m2!3d18.072383!4d79.6560462!16s%2Fg%2F11f5k2h_fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10011,7 +10095,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prathima+Cancer+Institute+%7C+Warangal/@18.072383,79.6560462,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334557b1ac2735:0x346b7c156aad7c2b!8m2!3d18.072383!4d79.6560462!16s%2Fg%2F11f5k2h_fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prime-care-hospital-hanamkonda",
@@ -10060,7 +10145,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Prime+Care+Hospital/data=!4m7!3m6!1s0x3a3345737a3b58bd:0x121bb9cad70efb3b!8m2!3d18.0117319!4d79.5600228!16s%2Fg%2F11lf4g4qxg!19sChIJvVg7enNFMzoRO_sO18q5GxI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prime+Care+Hospital/data=!4m7!3m6!1s0x3a3345737a3b58bd:0x121bb9cad70efb3b!8m2!3d18.0117319!4d79.5600228!16s%2Fg%2F11lf4g4qxg!19sChIJvVg7enNFMzoRO_sO18q5GxI?authuser=0&hl=en&rclk=1"
@@ -10129,7 +10214,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prime+Care+Hospital/data=!4m7!3m6!1s0x3a3345737a3b58bd:0x121bb9cad70efb3b!8m2!3d18.0117319!4d79.5600228!16s%2Fg%2F11lf4g4qxg!19sChIJvVg7enNFMzoRO_sO18q5GxI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "raghu-hospital-hanamkonda",
@@ -10178,7 +10264,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Raghu+Hospital/data=!4m7!3m6!1s0x3a334582f50abc7f:0x685e3e094b2414d5!8m2!3d18.0044568!4d79.5688951!16s%2Fg%2F11f53mhy7l!19sChIJf7wK9YJFMzoR1RQkSwk-Xmg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Raghu+Hospital/data=!4m7!3m6!1s0x3a334582f50abc7f:0x685e3e094b2414d5!8m2!3d18.0044568!4d79.5688951!16s%2Fg%2F11f53mhy7l!19sChIJf7wK9YJFMzoR1RQkSwk-Xmg?authuser=0&hl=en&rclk=1"
@@ -10247,7 +10333,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Raghu+Hospital/data=!4m7!3m6!1s0x3a334582f50abc7f:0x685e3e094b2414d5!8m2!3d18.0044568!4d79.5688951!16s%2Fg%2F11f53mhy7l!19sChIJf7wK9YJFMzoR1RQkSwk-Xmg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rainbow-children-s-hospital-best-pediatric-hospital-by-prashanthi-hanamkonda",
@@ -10297,7 +10384,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rainbow+Children%27s+Hospital+-+Best+Pediatric+Hospital+by+Prashanthi/data=!4m7!3m6!1s0x3a3345cd0fc294e5:0xa732e7214b17a6bc!8m2!3d18.0019475!4d79.5728741!16s%2Fg%2F11xcg_v656!19sChIJ5ZTCD81FMzoRvKYXSyHnMqc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rainbow+Children%27s+Hospital+-+Best+Pediatric+Hospital+by+Prashanthi/data=!4m7!3m6!1s0x3a3345cd0fc294e5:0xa732e7214b17a6bc!8m2!3d18.0019475!4d79.5728741!16s%2Fg%2F11xcg_v656!19sChIJ5ZTCD81FMzoRvKYXSyHnMqc?authuser=0&hl=en&rclk=1"
@@ -10366,7 +10453,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rainbow+Children%27s+Hospital+-+Best+Pediatric+Hospital+by+Prashanthi/data=!4m7!3m6!1s0x3a3345cd0fc294e5:0xa732e7214b17a6bc!8m2!3d18.0019475!4d79.5728741!16s%2Fg%2F11xcg_v656!19sChIJ5ZTCD81FMzoRvKYXSyHnMqc?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rajiv-ranjan-chinta-neuro-center-ss-hanamkonda",
@@ -10415,7 +10503,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Rajiv+Ranjan+chinta+neuro+center-SS/data=!4m7!3m6!1s0x3a33450023af5a35:0x4b951319df92860f!8m2!3d18.0051823!4d79.5611736!16s%2Fg%2F11whs9d24h!19sChIJNVqvIwBFMzoRD4aS3xkTlUs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajiv+Ranjan+chinta+neuro+center-SS/data=!4m7!3m6!1s0x3a33450023af5a35:0x4b951319df92860f!8m2!3d18.0051823!4d79.5611736!16s%2Fg%2F11whs9d24h!19sChIJNVqvIwBFMzoRD4aS3xkTlUs?authuser=0&hl=en&rclk=1"
@@ -10484,7 +10572,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajiv+Ranjan+chinta+neuro+center-SS/data=!4m7!3m6!1s0x3a33450023af5a35:0x4b951319df92860f!8m2!3d18.0051823!4d79.5611736!16s%2Fg%2F11whs9d24h!19sChIJNVqvIwBFMzoRD4aS3xkTlUs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ramakrishna-hospitals-warangal",
@@ -10533,7 +10622,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ramakrishna+Hospitals/data=!4m7!3m6!1s0x3a3345e0ed46b05d:0x832afeba746e58e2!8m2!3d18.0030482!4d79.5698817!16s%2Fg%2F11fngz1r4b!19sChIJXbBG7eBFMzoR4lhudLr-KoM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ramakrishna+Hospitals/data=!4m7!3m6!1s0x3a3345e0ed46b05d:0x832afeba746e58e2!8m2!3d18.0030482!4d79.5698817!16s%2Fg%2F11fngz1r4b!19sChIJXbBG7eBFMzoR4lhudLr-KoM?authuser=0&hl=en&rclk=1"
@@ -10602,7 +10691,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ramakrishna+Hospitals/data=!4m7!3m6!1s0x3a3345e0ed46b05d:0x832afeba746e58e2!8m2!3d18.0030482!4d79.5698817!16s%2Fg%2F11fngz1r4b!19sChIJXbBG7eBFMzoR4lhudLr-KoM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "ramesh-hospital-hanamkonda",
@@ -10651,7 +10741,7 @@
       "Google rating 3.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ramesh+Hospital/@18.0044672,79.5682841,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33453c2254e9e5:0xb5c9109a2bdfc95b!8m2!3d18.0044672!4d79.5682841!16s%2Fg%2F11llfpv7cq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ramesh+Hospital/@18.0044672,79.5682841,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33453c2254e9e5:0xb5c9109a2bdfc95b!8m2!3d18.0044672!4d79.5682841!16s%2Fg%2F11llfpv7cq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -10720,7 +10810,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ramesh+Hospital/@18.0044672,79.5682841,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33453c2254e9e5:0xb5c9109a2bdfc95b!8m2!3d18.0044672!4d79.5682841!16s%2Fg%2F11llfpv7cq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "relief-hospital-prathima-relief-institute-of-medical-sciences-warangal",
@@ -10769,7 +10860,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Relief+Hospital+%28+Prathima+Relief+Institute+of+Medical+Sciences+%29/data=!4m7!3m6!1s0x3a3345a836a60171:0xacbbb3e5f921b8ac!8m2!3d18.0309293!4d79.6070803!16s%2Fg%2F11k9f1k6pr!19sChIJcQGmNqhFMzoRrLgh-eWzu6w?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Relief+Hospital+%28+Prathima+Relief+Institute+of+Medical+Sciences+%29/data=!4m7!3m6!1s0x3a3345a836a60171:0xacbbb3e5f921b8ac!8m2!3d18.0309293!4d79.6070803!16s%2Fg%2F11k9f1k6pr!19sChIJcQGmNqhFMzoRrLgh-eWzu6w?authuser=0&hl=en&rclk=1"
@@ -10838,7 +10929,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Relief+Hospital+%28+Prathima+Relief+Institute+of+Medical+Sciences+%29/data=!4m7!3m6!1s0x3a3345a836a60171:0xacbbb3e5f921b8ac!8m2!3d18.0309293!4d79.6070803!16s%2Fg%2F11k9f1k6pr!19sChIJcQGmNqhFMzoRrLgh-eWzu6w?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "renova-bannu-hospitals-best-cancer-hospital-warangal-warangal",
@@ -10887,7 +10979,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Renova+Bannu+Hospitals+%7C+Best+Cancer+Hospital+Warangal/data=!4m7!3m6!1s0x3a334fe82530ad4d:0xe1fcee30f5c09bfd!8m2!3d18.0012558!4d79.5824277!16s%2Fg%2F11yc8gcvgf!19sChIJTa0wJehPMzoR_ZvA9TDu_OE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renova+Bannu+Hospitals+%7C+Best+Cancer+Hospital+Warangal/data=!4m7!3m6!1s0x3a334fe82530ad4d:0xe1fcee30f5c09bfd!8m2!3d18.0012558!4d79.5824277!16s%2Fg%2F11yc8gcvgf!19sChIJTa0wJehPMzoR_ZvA9TDu_OE?authuser=0&hl=en&rclk=1"
@@ -10956,7 +11048,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Renova+Bannu+Hospitals+%7C+Best+Cancer+Hospital+Warangal/data=!4m7!3m6!1s0x3a334fe82530ad4d:0xe1fcee30f5c09bfd!8m2!3d18.0012558!4d79.5824277!16s%2Fg%2F11yc8gcvgf!19sChIJTa0wJehPMzoR_ZvA9TDu_OE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "riva-skin-and-plastic-surgery-hanamkonda",
@@ -11004,7 +11097,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/RiVa+Skin+And+Plastic+Surgery/data=!4m7!3m6!1s0x3a334f553b145a47:0x1315643c461f58b5!8m2!3d18.0059881!4d79.5557732!16s%2Fg%2F11nx5hvy8m!19sChIJR1oUO1VPMzoRtVgfRjxkFRM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/RiVa+Skin+And+Plastic+Surgery/data=!4m7!3m6!1s0x3a334f553b145a47:0x1315643c461f58b5!8m2!3d18.0059881!4d79.5557732!16s%2Fg%2F11nx5hvy8m!19sChIJR1oUO1VPMzoRtVgfRjxkFRM?authuser=0&hl=en&rclk=1"
@@ -11073,7 +11166,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/RiVa+Skin+And+Plastic+Surgery/data=!4m7!3m6!1s0x3a334f553b145a47:0x1315643c461f58b5!8m2!3d18.0059881!4d79.5557732!16s%2Fg%2F11nx5hvy8m!19sChIJR1oUO1VPMzoRtVgfRjxkFRM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rohini-nursing-centre-hanamkonda",
@@ -11122,7 +11216,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Rohini+nursing+Centre/data=!4m7!3m6!1s0x3a334f9b81b15ef1:0xfb7007159b7066e!8m2!3d17.9951081!4d79.5462624!16s%2Fg%2F1tg4v7z1!19sChIJ8V6xgZtPMzoRbga3WXEAtw8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rohini+nursing+Centre/data=!4m7!3m6!1s0x3a334f9b81b15ef1:0xfb7007159b7066e!8m2!3d17.9951081!4d79.5462624!16s%2Fg%2F1tg4v7z1!19sChIJ8V6xgZtPMzoRbga3WXEAtw8?authuser=0&hl=en&rclk=1"
@@ -11188,10 +11282,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rohini+nursing+Centre/data=!4m7!3m6!1s0x3a334f9b81b15ef1:0xfb7007159b7066e!8m2!3d17.9951081!4d79.5462624!16s%2Fg%2F1tg4v7z1!19sChIJ8V6xgZtPMzoRbga3WXEAtw8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sai-manasa-dental-clinic-best-advanced-dentist-in-hanamkonda-warangal-pediatric-dental-hospital-in-hanamkonda-warangal-hanamkonda",
@@ -11240,7 +11335,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Manasa+Dental+Clinic+Best+Advanced+Dentist+in+Hanamkonda+Warangal+%7C+Pediatric+Dental+Hospital+in+Hanamkonda+Warangal/data=!4m7!3m6!1s0x3a334f7fbb53a67f:0xf9c52ce9ff5aa816!8m2!3d18.0037936!4d79.5581586!16s%2Fg%2F11tms8ksz8!19sChIJf6ZTu39PMzoRFqha_-ksxfk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Manasa+Dental+Clinic+Best+Advanced+Dentist+in+Hanamkonda+Warangal+%7C+Pediatric+Dental+Hospital+in+Hanamkonda+Warangal/data=!4m7!3m6!1s0x3a334f7fbb53a67f:0xf9c52ce9ff5aa816!8m2!3d18.0037936!4d79.5581586!16s%2Fg%2F11tms8ksz8!19sChIJf6ZTu39PMzoRFqha_-ksxfk?authuser=0&hl=en&rclk=1"
@@ -11306,10 +11401,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Manasa+Dental+Clinic+Best+Advanced+Dentist+in+Hanamkonda+Warangal+%7C+Pediatric+Dental+Hospital+in+Hanamkonda+Warangal/data=!4m7!3m6!1s0x3a334f7fbb53a67f:0xf9c52ce9ff5aa816!8m2!3d18.0037936!4d79.5581586!16s%2Fg%2F11tms8ksz8!19sChIJf6ZTu39PMzoRFqha_-ksxfk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sai-shree-hospitals-warangal",
@@ -11357,7 +11453,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Sai+Shree+Hospitals/data=!4m7!3m6!1s0x3a33451ecd455835:0x8b1387a657ba5c79!8m2!3d17.9846228!4d79.599713!16s%2Fg%2F1ptw5d0gy!19sChIJNVhFzR5FMzoReVy6V6aHE4s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sai+Shree+Hospitals/data=!4m7!3m6!1s0x3a33451ecd455835:0x8b1387a657ba5c79!8m2!3d17.9846228!4d79.599713!16s%2Fg%2F1ptw5d0gy!19sChIJNVhFzR5FMzoReVy6V6aHE4s?authuser=0&hl=en&rclk=1"
@@ -11426,7 +11522,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sai+Shree+Hospitals/data=!4m7!3m6!1s0x3a33451ecd455835:0x8b1387a657ba5c79!8m2!3d17.9846228!4d79.599713!16s%2Fg%2F1ptw5d0gy!19sChIJNVhFzR5FMzoReVy6V6aHE4s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "samaira-dental-care-hanamkonda",
@@ -11475,7 +11572,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SAMAIRA+DENTAL+CARE/data=!4m7!3m6!1s0x3a334f00645c5bc7:0x29690d27ea482752!8m2!3d17.9844221!4d79.5226164!16s%2Fg%2F11vm52479m!19sChIJx1tcZABPMzoRUidI6icNaSk?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SAMAIRA+DENTAL+CARE/data=!4m7!3m6!1s0x3a334f00645c5bc7:0x29690d27ea482752!8m2!3d17.9844221!4d79.5226164!16s%2Fg%2F11vm52479m!19sChIJx1tcZABPMzoRUidI6icNaSk?authuser=0&hl=en&rclk=1"
@@ -11541,10 +11638,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SAMAIRA+DENTAL+CARE/data=!4m7!3m6!1s0x3a334f00645c5bc7:0x29690d27ea482752!8m2!3d17.9844221!4d79.5226164!16s%2Fg%2F11vm52479m!19sChIJx1tcZABPMzoRUidI6icNaSk?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sandeep-reddy-gastro-and-liver-clinic-endoscocpy-centre-hanamkonda",
@@ -11595,7 +11693,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sandeep+Reddy+Gastro+%26+Liver+Clinic,+Endoscocpy+Centre/data=!4m7!3m6!1s0x3a33457e2d0b2767:0x2df8a81d778500c!8m2!3d17.998954!4d79.560463!16s%2Fg%2F1q65cxd0z!19sChIJZycLLX5FMzoRDFB414GK3wI?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sandeep+Reddy+Gastro+%26+Liver+Clinic,+Endoscocpy+Centre/data=!4m7!3m6!1s0x3a33457e2d0b2767:0x2df8a81d778500c!8m2!3d17.998954!4d79.560463!16s%2Fg%2F1q65cxd0z!19sChIJZycLLX5FMzoRDFB414GK3wI?authuser=0&hl=en&rclk=1"
@@ -11664,7 +11762,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sandeep+Reddy+Gastro+%26+Liver+Clinic,+Endoscocpy+Centre/data=!4m7!3m6!1s0x3a33457e2d0b2767:0x2df8a81d778500c!8m2!3d17.998954!4d79.560463!16s%2Fg%2F1q65cxd0z!19sChIJZycLLX5FMzoRDFB414GK3wI?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sanjeev-neuro-clinic-hanamkonda",
@@ -11713,7 +11812,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Sanjeev+Neuro+Clinic/data=!4m7!3m6!1s0x3a3345013316d16d:0x8a9fc1cd5eda993f!8m2!3d18.004822!4d79.5695143!16s%2Fg%2F11hfn0kpc2!19sChIJbdEWMwFFMzoRP5naXs3Bn4o?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjeev+Neuro+Clinic/data=!4m7!3m6!1s0x3a3345013316d16d:0x8a9fc1cd5eda993f!8m2!3d18.004822!4d79.5695143!16s%2Fg%2F11hfn0kpc2!19sChIJbdEWMwFFMzoRP5naXs3Bn4o?authuser=0&hl=en&rclk=1"
@@ -11782,7 +11881,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjeev+Neuro+Clinic/data=!4m7!3m6!1s0x3a3345013316d16d:0x8a9fc1cd5eda993f!8m2!3d18.004822!4d79.5695143!16s%2Fg%2F11hfn0kpc2!19sChIJbdEWMwFFMzoRP5naXs3Bn4o?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "seven-hills-hospital-best-gynecology-best-dermatology-best-general-medicine-hanamkonda",
@@ -11830,7 +11930,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Seven+Hills+Hospital+%7C+Best+Gynecology+%7C+Best+Dermatology+%7C+Best+General+Medicine/data=!4m7!3m6!1s0x3a334f7d6386fca5:0xb55e686c11c7def9!8m2!3d18.0118884!4d79.5600539!16s%2Fg%2F11cjj1c_j1!19sChIJpfyGY31PMzoR-d7HEWxoXrU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Seven+Hills+Hospital+%7C+Best+Gynecology+%7C+Best+Dermatology+%7C+Best+General+Medicine/data=!4m7!3m6!1s0x3a334f7d6386fca5:0xb55e686c11c7def9!8m2!3d18.0118884!4d79.5600539!16s%2Fg%2F11cjj1c_j1!19sChIJpfyGY31PMzoR-d7HEWxoXrU?authuser=0&hl=en&rclk=1"
@@ -11899,7 +11999,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Seven+Hills+Hospital+%7C+Best+Gynecology+%7C+Best+Dermatology+%7C+Best+General+Medicine/data=!4m7!3m6!1s0x3a334f7d6386fca5:0xb55e686c11c7def9!8m2!3d18.0118884!4d79.5600539!16s%2Fg%2F11cjj1c_j1!19sChIJpfyGY31PMzoR-d7HEWxoXrU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shiva-hospital-warangal",
@@ -11947,7 +12048,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Shiva+Hospital/@17.9849182,79.5938912,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334519df67ac69:0xf72dd8770c74d21b!8m2!3d17.9849182!4d79.5938912!16s%2Fg%2F1thx7097?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shiva+Hospital/@17.9849182,79.5938912,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334519df67ac69:0xf72dd8770c74d21b!8m2!3d17.9849182!4d79.5938912!16s%2Fg%2F1thx7097?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12016,7 +12117,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shiva+Hospital/@17.9849182,79.5938912,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334519df67ac69:0xf72dd8770c74d21b!8m2!3d17.9849182!4d79.5938912!16s%2Fg%2F1thx7097?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sivva-poly-clinic-warangal",
@@ -12065,7 +12167,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sivva+Poly+Clinic/data=!4m7!3m6!1s0x3a3345197449d85d:0xfc58bdd4bab2e673!8m2!3d17.9861349!4d79.6001623!16s%2Fg%2F11n60v1d40!19sChIJXdhJdBlFMzoRc-ayutS9WPw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sivva+Poly+Clinic/data=!4m7!3m6!1s0x3a3345197449d85d:0xfc58bdd4bab2e673!8m2!3d17.9861349!4d79.6001623!16s%2Fg%2F11n60v1d40!19sChIJXdhJdBlFMzoRc-ayutS9WPw?authuser=0&hl=en&rclk=1"
@@ -12131,10 +12233,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sivva+Poly+Clinic/data=!4m7!3m6!1s0x3a3345197449d85d:0xfc58bdd4bab2e673!8m2!3d17.9861349!4d79.6001623!16s%2Fg%2F11n60v1d40!19sChIJXdhJdBlFMzoRc-ayutS9WPw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sowparnika-bone-hospital-hanamkonda",
@@ -12183,7 +12286,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Sowparnika+Bone+Hospital/data=!4m7!3m6!1s0x3a334f9d6e5674c1:0x3c4afdd8f59f3c27!8m2!3d18.0004947!4d79.5472261!16s%2Fg%2F11f3tk23l5!19sChIJwXRWbp1PMzoRJzyf9dj9Sjw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sowparnika+Bone+Hospital/data=!4m7!3m6!1s0x3a334f9d6e5674c1:0x3c4afdd8f59f3c27!8m2!3d18.0004947!4d79.5472261!16s%2Fg%2F11f3tk23l5!19sChIJwXRWbp1PMzoRJzyf9dj9Sjw?authuser=0&hl=en&rclk=1"
@@ -12252,7 +12355,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sowparnika+Bone+Hospital/data=!4m7!3m6!1s0x3a334f9d6e5674c1:0x3c4afdd8f59f3c27!8m2!3d18.0004947!4d79.5472261!16s%2Fg%2F11f3tk23l5!19sChIJwXRWbp1PMzoRJzyf9dj9Sjw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sree-balaji-hospital-hanamkonda",
@@ -12301,7 +12405,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Balaji+Hospital/data=!4m7!3m6!1s0x3a33458238769a21:0x4df864f61113ffc5!8m2!3d18.0046272!4d79.5674096!16s%2Fg%2F11gf0_wp72!19sChIJIZp2OIJFMzoRxf8TEfZk-E0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Balaji+Hospital/data=!4m7!3m6!1s0x3a33458238769a21:0x4df864f61113ffc5!8m2!3d18.0046272!4d79.5674096!16s%2Fg%2F11gf0_wp72!19sChIJIZp2OIJFMzoRxf8TEfZk-E0?authuser=0&hl=en&rclk=1"
@@ -12370,7 +12474,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Balaji+Hospital/data=!4m7!3m6!1s0x3a33458238769a21:0x4df864f61113ffc5!8m2!3d18.0046272!4d79.5674096!16s%2Fg%2F11gf0_wp72!19sChIJIZp2OIJFMzoRxf8TEfZk-E0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sree-laxmi-test-tube-center-warangal",
@@ -12419,7 +12524,7 @@
     "metrics": [
       "Google rating 3.6"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Laxmi+Test+Tube+Center/@18.0019963,79.5597968,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f7e5d2477c5:0x1c2ae57390a86d30!8m2!3d18.0019963!4d79.5597968!16s%2Fg%2F11f38y8sr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Laxmi+Test+Tube+Center/@18.0019963,79.5597968,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f7e5d2477c5:0x1c2ae57390a86d30!8m2!3d18.0019963!4d79.5597968!16s%2Fg%2F11f38y8sr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -12488,7 +12593,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Laxmi+Test+Tube+Center/@18.0019963,79.5597968,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f7e5d2477c5:0x1c2ae57390a86d30!8m2!3d18.0019963!4d79.5597968!16s%2Fg%2F11f38y8sr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-susmitha-dental-and-hair-transplant-centre-warangal",
@@ -12536,7 +12642,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Susmitha+Dental+%26+Hair+transplant+centre/data=!4m7!3m6!1s0x3a3345e71e74657b:0x215c7d705a793541!8m2!3d17.9774629!4d79.6091869!16s%2Fg%2F11l28j8gwl!19sChIJe2V0HudFMzoRQTV5WnB9XCE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Susmitha+Dental+%26+Hair+transplant+centre/data=!4m7!3m6!1s0x3a3345e71e74657b:0x215c7d705a793541!8m2!3d17.9774629!4d79.6091869!16s%2Fg%2F11l28j8gwl!19sChIJe2V0HudFMzoRQTV5WnB9XCE?authuser=0&hl=en&rclk=1"
@@ -12605,7 +12711,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Susmitha+Dental+%26+Hair+transplant+centre/data=!4m7!3m6!1s0x3a3345e71e74657b:0x215c7d705a793541!8m2!3d17.9774629!4d79.6091869!16s%2Fg%2F11l28j8gwl!19sChIJe2V0HudFMzoRQTV5WnB9XCE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-devi-hospital-obsterics-gynaecology-laser-cosmetic-gynaecology-paediatric-surgery-general-surgery-laser-piles-treatment-warangal",
@@ -12653,7 +12760,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Devi+Hospital-Obsterics,Gynaecology,Laser+Cosmetic+Gynaecology,Paediatric+Surgery,General+Surgery,Laser+Piles+Treatment/data=!4m7!3m6!1s0x3a334522ca9bf837:0xd57271dd847344e6!8m2!3d18.0048259!4d79.569272!16s%2Fg%2F11h5vlkjv2!19sChIJN_ibyiJFMzoR5kRzhN1xctU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Devi+Hospital-Obsterics,Gynaecology,Laser+Cosmetic+Gynaecology,Paediatric+Surgery,General+Surgery,Laser+Piles+Treatment/data=!4m7!3m6!1s0x3a334522ca9bf837:0xd57271dd847344e6!8m2!3d18.0048259!4d79.569272!16s%2Fg%2F11h5vlkjv2!19sChIJN_ibyiJFMzoR5kRzhN1xctU?authuser=0&hl=en&rclk=1"
@@ -12722,7 +12829,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Devi+Hospital-Obsterics,Gynaecology,Laser+Cosmetic+Gynaecology,Paediatric+Surgery,General+Surgery,Laser+Piles+Treatment/data=!4m7!3m6!1s0x3a334522ca9bf837:0xd57271dd847344e6!8m2!3d18.0048259!4d79.569272!16s%2Fg%2F11h5vlkjv2!19sChIJN_ibyiJFMzoR5kRzhN1xctU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-kakatiya-kidney-centre-hanamkonda",
@@ -12771,7 +12879,7 @@
     "metrics": [
       "Google rating 4.2"
     ],
-    "image": "https://www.google.com/maps/place/Sri+kakatiya+kidney+centre/data=!4m7!3m6!1s0x3a334521c18b0809:0x81b2025a2c54bed6!8m2!3d18.0014049!4d79.569253!16s%2Fg%2F11j4flk9zg!19sChIJCQiLwSFFMzoR1r5ULFoCsoE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+kakatiya+kidney+centre/data=!4m7!3m6!1s0x3a334521c18b0809:0x81b2025a2c54bed6!8m2!3d18.0014049!4d79.569253!16s%2Fg%2F11j4flk9zg!19sChIJCQiLwSFFMzoR1r5ULFoCsoE?authuser=0&hl=en&rclk=1"
@@ -12840,7 +12948,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+kakatiya+kidney+centre/data=!4m7!3m6!1s0x3a334521c18b0809:0x81b2025a2c54bed6!8m2!3d18.0014049!4d79.569253!16s%2Fg%2F11j4flk9zg!19sChIJCQiLwSFFMzoR1r5ULFoCsoE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-sai-nursing-home-hanamkonda",
@@ -12888,7 +12997,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sai+Nursing+Home/data=!4m7!3m6!1s0x3a334f9c8fe60903:0x6d381704bc53c01!8m2!3d17.9964187!4d79.5469564!16s%2Fg%2F11g6vm3xr1!19sChIJAwnmj5xPMzoRATzFS3CB0wY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sai+Nursing+Home/data=!4m7!3m6!1s0x3a334f9c8fe60903:0x6d381704bc53c01!8m2!3d17.9964187!4d79.5469564!16s%2Fg%2F11g6vm3xr1!19sChIJAwnmj5xPMzoRATzFS3CB0wY?authuser=0&hl=en&rclk=1"
@@ -12954,10 +13063,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sai+Nursing+Home/data=!4m7!3m6!1s0x3a334f9c8fe60903:0x6d381704bc53c01!8m2!3d17.9964187!4d79.5469564!16s%2Fg%2F11g6vm3xr1!19sChIJAwnmj5xPMzoRATzFS3CB0wY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-sri-cardiac-centre-hanamkonda",
@@ -13006,7 +13116,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sri+Cardiac+Centre/data=!4m7!3m6!1s0x3a33457875fbaf91:0xad412c16bf2899e5!8m2!3d18.000703!4d79.5635623!16s%2Fg%2F11fylw2c3y!19sChIJka_7dXhFMzoR5ZkovxYsQa0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sri+Cardiac+Centre/data=!4m7!3m6!1s0x3a33457875fbaf91:0xad412c16bf2899e5!8m2!3d18.000703!4d79.5635623!16s%2Fg%2F11fylw2c3y!19sChIJka_7dXhFMzoR5ZkovxYsQa0?authuser=0&hl=en&rclk=1"
@@ -13075,7 +13185,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sri+Cardiac+Centre/data=!4m7!3m6!1s0x3a33457875fbaf91:0xad412c16bf2899e5!8m2!3d18.000703!4d79.5635623!16s%2Fg%2F11fylw2c3y!19sChIJka_7dXhFMzoR5ZkovxYsQa0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-srusti-hospitals-om-birth-fertility-center-warangal",
@@ -13124,7 +13235,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sri+srusti+hospitals+%28Om+birth+fertility+center%29/data=!4m7!3m6!1s0x3a3345314f1169f7:0x56043055dd2b9839!8m2!3d17.9873992!4d79.6020321!16s%2Fg%2F11sm__233c!19sChIJ92kRTzFFMzoROZgr3VUwBFY?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+srusti+hospitals+%28Om+birth+fertility+center%29/data=!4m7!3m6!1s0x3a3345314f1169f7:0x56043055dd2b9839!8m2!3d17.9873992!4d79.6020321!16s%2Fg%2F11sm__233c!19sChIJ92kRTzFFMzoROZgr3VUwBFY?authuser=0&hl=en&rclk=1"
@@ -13193,7 +13304,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+srusti+hospitals+%28Om+birth+fertility+center%29/data=!4m7!3m6!1s0x3a3345314f1169f7:0x56043055dd2b9839!8m2!3d17.9873992!4d79.6020321!16s%2Fg%2F11sm__233c!19sChIJ92kRTzFFMzoROZgr3VUwBFY?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sri-sunlife-hospitals-warangal",
@@ -13241,7 +13353,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sunlife+hospitals/@17.9823829,79.5987796,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345267943a6ef:0xf65cb74491f67695!8m2!3d17.9823829!4d79.5987796!16s%2Fg%2F11t1jfq7r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sunlife+hospitals/@17.9823829,79.5987796,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345267943a6ef:0xf65cb74491f67695!8m2!3d17.9823829!4d79.5987796!16s%2Fg%2F11t1jfq7r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13310,7 +13422,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sunlife+hospitals/@17.9823829,79.5987796,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345267943a6ef:0xf65cb74491f67695!8m2!3d17.9823829!4d79.5987796!16s%2Fg%2F11t1jfq7r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-vijaya-hospital-hanamkonda",
@@ -13358,7 +13471,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/SRI+VIJAYA+HOSPITAL/data=!4m7!3m6!1s0x3a33450004f48021:0x1f021003698236df!8m2!3d18.004897!4d79.568864!16s%2Fg%2F11xgsk1ty8!19sChIJIYD0BABFMzoR3zaCaQMQAh8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SRI+VIJAYA+HOSPITAL/data=!4m7!3m6!1s0x3a33450004f48021:0x1f021003698236df!8m2!3d18.004897!4d79.568864!16s%2Fg%2F11xgsk1ty8!19sChIJIYD0BABFMzoR3zaCaQMQAh8?authuser=0&hl=en&rclk=1"
@@ -13424,10 +13537,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SRI+VIJAYA+HOSPITAL/data=!4m7!3m6!1s0x3a33450004f48021:0x1f021003698236df!8m2!3d18.004897!4d79.568864!16s%2Fg%2F11xgsk1ty8!19sChIJIYD0BABFMzoR3zaCaQMQAh8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sridevi-katakam-skin-hair-and-laser-clinic-warangal",
@@ -13475,7 +13589,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sridevi+Katakam+Skin,+Hair+%26+Laser+Clinic/data=!4m7!3m6!1s0x3a3345f1e497d8cf:0xfd600695c2f9719c!8m2!3d17.9901822!4d79.5961099!16s%2Fg%2F11rs2dhh8z!19sChIJz9iX5PFFMzoRnHH5wpUGYP0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sridevi+Katakam+Skin,+Hair+%26+Laser+Clinic/data=!4m7!3m6!1s0x3a3345f1e497d8cf:0xfd600695c2f9719c!8m2!3d17.9901822!4d79.5961099!16s%2Fg%2F11rs2dhh8z!19sChIJz9iX5PFFMzoRnHH5wpUGYP0?authuser=0&hl=en&rclk=1"
@@ -13544,7 +13658,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sridevi+Katakam+Skin,+Hair+%26+Laser+Clinic/data=!4m7!3m6!1s0x3a3345f1e497d8cf:0xfd600695c2f9719c!8m2!3d17.9901822!4d79.5961099!16s%2Fg%2F11rs2dhh8z!19sChIJz9iX5PFFMzoRnHH5wpUGYP0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srihitha-poly-clinic-hanamkonda",
@@ -13594,7 +13709,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Srihitha+Poly+Clinic/data=!4m7!3m6!1s0x3a3345761a1139c1:0x5188d3dc7779cb13!8m2!3d18.0047439!4d79.5694541!16s%2Fg%2F11sqxj9tb1!19sChIJwTkRGnZFMzoRE8t5d9zTiFE?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srihitha+Poly+Clinic/data=!4m7!3m6!1s0x3a3345761a1139c1:0x5188d3dc7779cb13!8m2!3d18.0047439!4d79.5694541!16s%2Fg%2F11sqxj9tb1!19sChIJwTkRGnZFMzoRE8t5d9zTiFE?authuser=0&hl=en&rclk=1"
@@ -13663,7 +13778,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srihitha+Poly+Clinic/data=!4m7!3m6!1s0x3a3345761a1139c1:0x5188d3dc7779cb13!8m2!3d18.0047439!4d79.5694541!16s%2Fg%2F11sqxj9tb1!19sChIJwTkRGnZFMzoRE8t5d9zTiFE?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srinivasa-heart-centre-hanamkonda",
@@ -13713,7 +13829,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Srinivasa+Heart+Centre/data=!4m7!3m6!1s0x3a334f7bdfb772c3:0xfe5aca2b944d5a85!8m2!3d18.0078148!4d79.553386!16s%2Fg%2F1tf8rj4p!19sChIJw3K333tPMzoRhVpNlCvKWv4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srinivasa+Heart+Centre/data=!4m7!3m6!1s0x3a334f7bdfb772c3:0xfe5aca2b944d5a85!8m2!3d18.0078148!4d79.553386!16s%2Fg%2F1tf8rj4p!19sChIJw3K333tPMzoRhVpNlCvKWv4?authuser=0&hl=en&rclk=1"
@@ -13782,7 +13898,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srinivasa+Heart+Centre/data=!4m7!3m6!1s0x3a334f7bdfb772c3:0xfe5aca2b944d5a85!8m2!3d18.0078148!4d79.553386!16s%2Fg%2F1tf8rj4p!19sChIJw3K333tPMzoRhVpNlCvKWv4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srinivasa-hospital-hanamkonda",
@@ -13830,7 +13947,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Srinivasa+Hospital/@18.0031373,79.5693079,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f9a889895a7:0x2e6247bc9fc64b7d!8m2!3d18.0031373!4d79.5693079!16s%2Fg%2F11b5yvy7qx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srinivasa+Hospital/@18.0031373,79.5693079,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f9a889895a7:0x2e6247bc9fc64b7d!8m2!3d18.0031373!4d79.5693079!16s%2Fg%2F11b5yvy7qx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -13899,7 +14016,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srinivasa+Hospital/@18.0031373,79.5693079,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f9a889895a7:0x2e6247bc9fc64b7d!8m2!3d18.0031373!4d79.5693079!16s%2Fg%2F11b5yvy7qx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srinivasa-kidney-and-maternity-hospital-hanamkonda",
@@ -13948,7 +14066,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Srinivasa+Kidney+%26+Maternity+Hospital/data=!4m7!3m6!1s0x3a3345fccc935881:0x5bf4af69ade420a7!8m2!3d18.00497!4d79.5752339!16s%2Fg%2F11sgkjwyb6!19sChIJgViTzPxFMzoRpyDkrWmv9Fs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srinivasa+Kidney+%26+Maternity+Hospital/data=!4m7!3m6!1s0x3a3345fccc935881:0x5bf4af69ade420a7!8m2!3d18.00497!4d79.5752339!16s%2Fg%2F11sgkjwyb6!19sChIJgViTzPxFMzoRpyDkrWmv9Fs?authuser=0&hl=en&rclk=1"
@@ -14017,7 +14135,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srinivasa+Kidney+%26+Maternity+Hospital/data=!4m7!3m6!1s0x3a3345fccc935881:0x5bf4af69ade420a7!8m2!3d18.00497!4d79.5752339!16s%2Fg%2F11sgkjwyb6!19sChIJgViTzPxFMzoRpyDkrWmv9Fs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "srinivasa-kidney-centre-warangal",
@@ -14064,7 +14183,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Srinivasa+Kidney+Centre/@18.0179219,79.5531166,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33457873eb37dd:0xa9a840552f27b5ef!8m2!3d18.0179219!4d79.5531166!16s%2Fg%2F11rgh77177?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srinivasa+Kidney+Centre/@18.0179219,79.5531166,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33457873eb37dd:0xa9a840552f27b5ef!8m2!3d18.0179219!4d79.5531166!16s%2Fg%2F11rgh77177?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14130,10 +14249,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srinivasa+Kidney+Centre/@18.0179219,79.5531166,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33457873eb37dd:0xa9a840552f27b5ef!8m2!3d18.0179219!4d79.5531166!16s%2Fg%2F11rgh77177?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "srinivasa-pinnacle-hospital-hanumakonda-warangal-hanamkonda",
@@ -14182,7 +14302,7 @@
       "Google rating 3.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Srinivasa+Pinnacle+Hospital,Hanumakonda,+Warangal/data=!4m7!3m6!1s0x3a33454ed8cae285:0x9bc6feb0af2364e4!8m2!3d18.0055854!4d79.5638416!16s%2Fg%2F11fj5c74dj!19sChIJheLK2E5FMzoR5GQjr7D-xps?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Srinivasa+Pinnacle+Hospital,Hanumakonda,+Warangal/data=!4m7!3m6!1s0x3a33454ed8cae285:0x9bc6feb0af2364e4!8m2!3d18.0055854!4d79.5638416!16s%2Fg%2F11fj5c74dj!19sChIJheLK2E5FMzoR5GQjr7D-xps?authuser=0&hl=en&rclk=1"
@@ -14251,7 +14371,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Srinivasa+Pinnacle+Hospital,Hanumakonda,+Warangal/data=!4m7!3m6!1s0x3a33454ed8cae285:0x9bc6feb0af2364e4!8m2!3d18.0055854!4d79.5638416!16s%2Fg%2F11fj5c74dj!19sChIJheLK2E5FMzoR5GQjr7D-xps?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sudha-fertility-centre-hanamkonda-hanamkonda",
@@ -14301,7 +14422,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sudha+Fertility+Centre+-+Hanamkonda/data=!4m7!3m6!1s0x3a334fbfa4e57bc9:0xec6abb959a112981!8m2!3d18.0119201!4d79.53885!16s%2Fg%2F11xdtpb79_!19sChIJyXvlpL9PMzoRgSkRmpW7auw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sudha+Fertility+Centre+-+Hanamkonda/data=!4m7!3m6!1s0x3a334fbfa4e57bc9:0xec6abb959a112981!8m2!3d18.0119201!4d79.53885!16s%2Fg%2F11xdtpb79_!19sChIJyXvlpL9PMzoRgSkRmpW7auw?authuser=0&hl=en&rclk=1"
@@ -14367,10 +14488,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sudha+Fertility+Centre+-+Hanamkonda/data=!4m7!3m6!1s0x3a334fbfa4e57bc9:0xec6abb959a112981!8m2!3d18.0119201!4d79.53885!16s%2Fg%2F11xdtpb79_!19sChIJyXvlpL9PMzoRgSkRmpW7auw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "sujatha-hospital-hanamkonda",
@@ -14418,7 +14540,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Sujatha+Hospital/data=!4m7!3m6!1s0x3a334573927ce5a7:0xad2982e5b536f98b!8m2!3d18.0043809!4d79.5682704!16s%2Fg%2F11gzpht1pw!19sChIJp-V8knNFMzoRi_k2teWCKa0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sujatha+Hospital/data=!4m7!3m6!1s0x3a334573927ce5a7:0xad2982e5b536f98b!8m2!3d18.0043809!4d79.5682704!16s%2Fg%2F11gzpht1pw!19sChIJp-V8knNFMzoRi_k2teWCKa0?authuser=0&hl=en&rclk=1"
@@ -14487,7 +14609,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sujatha+Hospital/data=!4m7!3m6!1s0x3a334573927ce5a7:0xad2982e5b536f98b!8m2!3d18.0043809!4d79.5682704!16s%2Fg%2F11gzpht1pw!19sChIJp-V8knNFMzoRi_k2teWCKa0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "surgery-op-warangal",
@@ -14533,7 +14656,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Surgery+OP/data=!4m7!3m6!1s0x3a33450064c287e5:0xf446f9b2d01fbf8c!8m2!3d17.9909767!4d79.5917939!16s%2Fg%2F11x7z7y5x6!19sChIJ5YfCZABFMzoRjL8f0LL5RvQ?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Surgery+OP/data=!4m7!3m6!1s0x3a33450064c287e5:0xf446f9b2d01fbf8c!8m2!3d17.9909767!4d79.5917939!16s%2Fg%2F11x7z7y5x6!19sChIJ5YfCZABFMzoRjL8f0LL5RvQ?authuser=0&hl=en&rclk=1"
@@ -14599,10 +14722,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Surgery+OP/data=!4m7!3m6!1s0x3a33450064c287e5:0xf446f9b2d01fbf8c!8m2!3d17.9909767!4d79.5917939!16s%2Fg%2F11x7z7y5x6!19sChIJ5YfCZABFMzoRjL8f0LL5RvQ?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tosacon-2022-warangal",
@@ -14650,7 +14774,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/TOSACON+2022/data=!4m7!3m6!1s0x3a33457d4e95f571:0xb9270d473a80da2e!8m2!3d17.9949131!4d79.5992707!16s%2Fg%2F11t0y29nz2!19sChIJcfWVTn1FMzoRLtqAOkcNJ7k?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/TOSACON+2022/data=!4m7!3m6!1s0x3a33457d4e95f571:0xb9270d473a80da2e!8m2!3d17.9949131!4d79.5992707!16s%2Fg%2F11t0y29nz2!19sChIJcfWVTn1FMzoRLtqAOkcNJ7k?authuser=0&hl=en&rclk=1"
@@ -14716,10 +14840,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/TOSACON+2022/data=!4m7!3m6!1s0x3a33457d4e95f571:0xb9270d473a80da2e!8m2!3d17.9949131!4d79.5992707!16s%2Fg%2F11t0y29nz2!19sChIJcfWVTn1FMzoRLtqAOkcNJ7k?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "v-b-hospital-warangal",
@@ -14767,7 +14892,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/V.B.+Hospital/@17.9708097,79.5985412,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334525c10ff0fd:0x90a32ce85bf9e2f9!8m2!3d17.9708097!4d79.5985412!16s%2Fg%2F1hg4sqyqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/V.B.+Hospital/@17.9708097,79.5985412,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334525c10ff0fd:0x90a32ce85bf9e2f9!8m2!3d17.9708097!4d79.5985412!16s%2Fg%2F1hg4sqyqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -14836,7 +14961,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/V.B.+Hospital/@17.9708097,79.5985412,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334525c10ff0fd:0x90a32ce85bf9e2f9!8m2!3d17.9708097!4d79.5985412!16s%2Fg%2F1hg4sqyqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vamshi-gastro-and-liver-clinic-hanamkonda",
@@ -14886,7 +15012,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Vamshi+Gastro+%26+Liver+Clinic/data=!4m7!3m6!1s0x3a33456731246f41:0x5c55b84cb16bf08!8m2!3d18.0029013!4d79.5698459!16s%2Fg%2F11qskt9wfg!19sChIJQW8kMWdFMzoRCL8Wy4RbxQU?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vamshi+Gastro+%26+Liver+Clinic/data=!4m7!3m6!1s0x3a33456731246f41:0x5c55b84cb16bf08!8m2!3d18.0029013!4d79.5698459!16s%2Fg%2F11qskt9wfg!19sChIJQW8kMWdFMzoRCL8Wy4RbxQU?authuser=0&hl=en&rclk=1"
@@ -14955,7 +15081,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vamshi+Gastro+%26+Liver+Clinic/data=!4m7!3m6!1s0x3a33456731246f41:0x5c55b84cb16bf08!8m2!3d18.0029013!4d79.5698459!16s%2Fg%2F11qskt9wfg!19sChIJQW8kMWdFMzoRCL8Wy4RbxQU?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "varun-hospital-warangal",
@@ -15003,7 +15130,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/VARUN+HOSPITAL+%F0%9F%8F%A5/@17.9833363,79.5991203,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345000154641d:0xbd9d1c56d4ce3226!8m2!3d17.9833363!4d79.5991203!16s%2Fg%2F11wnmw5dpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VARUN+HOSPITAL+%F0%9F%8F%A5/@17.9833363,79.5991203,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345000154641d:0xbd9d1c56d4ce3226!8m2!3d17.9833363!4d79.5991203!16s%2Fg%2F11wnmw5dpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -15069,10 +15196,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VARUN+HOSPITAL+%F0%9F%8F%A5/@17.9833363,79.5991203,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345000154641d:0xbd9d1c56d4ce3226!8m2!3d17.9833363!4d79.5991203!16s%2Fg%2F11wnmw5dpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "varuns-dental-warangal",
@@ -15120,7 +15248,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/VARUNS+DENTAL/@18.0062171,79.5618862,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33458055fd011b:0x7d8014bfeabcdb22!8m2!3d18.0062171!4d79.5618862!16s%2Fg%2F1q665zczt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VARUNS+DENTAL/@18.0062171,79.5618862,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33458055fd011b:0x7d8014bfeabcdb22!8m2!3d18.0062171!4d79.5618862!16s%2Fg%2F1q665zczt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
@@ -15189,7 +15317,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VARUNS+DENTAL/@18.0062171,79.5618862,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33458055fd011b:0x7d8014bfeabcdb22!8m2!3d18.0062171!4d79.5618862!16s%2Fg%2F1q665zczt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vcare-hair-and-skin-clinic-hanamkonda-skin-treatment-hair-treatment-hair-transplant-laser-hair-removal-skin-whitening-hanamkonda",
@@ -15238,7 +15367,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Hanamkonda+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3a334f6c1edd3069:0x6cecabf13c815770!8m2!3d18.0015458!4d79.5567023!16s%2Fg%2F11fnhph776!19sChIJaTDdHmxPMzoRcFeBPPGr7Gw?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Hanamkonda+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3a334f6c1edd3069:0x6cecabf13c815770!8m2!3d18.0015458!4d79.5567023!16s%2Fg%2F11fnhph776!19sChIJaTDdHmxPMzoRcFeBPPGr7Gw?authuser=0&hl=en&rclk=1"
@@ -15307,7 +15436,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Hanamkonda+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3a334f6c1edd3069:0x6cecabf13c815770!8m2!3d18.0015458!4d79.5567023!16s%2Fg%2F11fnhph776!19sChIJaTDdHmxPMzoRcFeBPPGr7Gw?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "vinoda-dental-hospital-best-dental-hospital-in-hanamkonda-hanamkonda",
@@ -15356,7 +15486,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/VINODA+DENTAL+HOSPITAL+%28Best+Dental+Hospital+In+Hanamkonda%29/data=!4m7!3m6!1s0x3a334f7d04e22c07:0x5ebbb45e04a5dd40!8m2!3d18.0006247!4d79.5635304!16s%2Fg%2F11bbt8qbb5!19sChIJByziBH1PMzoRQN2lBF60u14?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VINODA+DENTAL+HOSPITAL+%28Best+Dental+Hospital+In+Hanamkonda%29/data=!4m7!3m6!1s0x3a334f7d04e22c07:0x5ebbb45e04a5dd40!8m2!3d18.0006247!4d79.5635304!16s%2Fg%2F11bbt8qbb5!19sChIJByziBH1PMzoRQN2lBF60u14?authuser=0&hl=en&rclk=1"
@@ -15425,7 +15555,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VINODA+DENTAL+HOSPITAL+%28Best+Dental+Hospital+In+Hanamkonda%29/data=!4m7!3m6!1s0x3a334f7d04e22c07:0x5ebbb45e04a5dd40!8m2!3d18.0006247!4d79.5635304!16s%2Fg%2F11bbt8qbb5!19sChIJByziBH1PMzoRQN2lBF60u14?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "warangal-kidney-center-and-children-hospital-warangal",
@@ -15475,7 +15606,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Warangal+Kidney+Center+%26+Children+Hospital/data=!4m7!3m6!1s0x3a3345192d9c68b9:0xf33171b2c48b971d!8m2!3d17.9845655!4d79.5994572!16s%2Fg%2F11g873z047!19sChIJuWicLRlFMzoRHZeLxLJxMfM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Warangal+Kidney+Center+%26+Children+Hospital/data=!4m7!3m6!1s0x3a3345192d9c68b9:0xf33171b2c48b971d!8m2!3d17.9845655!4d79.5994572!16s%2Fg%2F11g873z047!19sChIJuWicLRlFMzoRHZeLxLJxMfM?authuser=0&hl=en&rclk=1"
@@ -15544,7 +15675,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Warangal+Kidney+Center+%26+Children+Hospital/data=!4m7!3m6!1s0x3a3345192d9c68b9:0xf33171b2c48b971d!8m2!3d17.9845655!4d79.5994572!16s%2Fg%2F11g873z047!19sChIJuWicLRlFMzoRHZeLxLJxMfM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "warangal-medical-and-surgicals-hanamkonda",
@@ -15591,7 +15723,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Warangal+Medical+and+surgicals/data=!4m7!3m6!1s0x3a3345167d8f8b1f:0x5da0a7d8d2b2be33!8m2!3d18.0050908!4d79.5687701!16s%2Fg%2F11vyhyddjp!19sChIJH4uPfRZFMzoRM76y0tinoF0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Warangal+Medical+and+surgicals/data=!4m7!3m6!1s0x3a3345167d8f8b1f:0x5da0a7d8d2b2be33!8m2!3d18.0050908!4d79.5687701!16s%2Fg%2F11vyhyddjp!19sChIJH4uPfRZFMzoRM76y0tinoF0?authuser=0&hl=en&rclk=1"
@@ -15657,10 +15789,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Warangal+Medical+and+surgicals/data=!4m7!3m6!1s0x3a3345167d8f8b1f:0x5da0a7d8d2b2be33!8m2!3d18.0050908!4d79.5687701!16s%2Fg%2F11vyhyddjp!19sChIJH4uPfRZFMzoRM76y0tinoF0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "yashoda-hospitals-warangal-hanamkonda-clinic-warangal",
@@ -15709,7 +15842,7 @@
       "Google rating 3.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Yashoda+Hospitals+-+Warangal+%28Hanamkonda%29+Clinic/data=!4m7!3m6!1s0x3a334f826aaaaa9f:0x779e909773eea5c8!8m2!3d17.9976515!4d79.5549012!16s%2Fg%2F11h9x3g6sd!19sChIJn6qqaoJPMzoRyKXuc5eQnnc?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Yashoda+Hospitals+-+Warangal+%28Hanamkonda%29+Clinic/data=!4m7!3m6!1s0x3a334f826aaaaa9f:0x779e909773eea5c8!8m2!3d17.9976515!4d79.5549012!16s%2Fg%2F11h9x3g6sd!19sChIJn6qqaoJPMzoRyKXuc5eQnnc?authuser=0&hl=en&rclk=1"
@@ -15778,6 +15911,7 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Yashoda+Hospitals+-+Warangal+%28Hanamkonda%29+Clinic/data=!4m7!3m6!1s0x3a334f826aaaaa9f:0x779e909773eea5c8!8m2!3d17.9976515!4d79.5549012!16s%2Fg%2F11h9x3g6sd!19sChIJn6qqaoJPMzoRyKXuc5eQnnc?authuser=0&hl=en&rclk=1"
   }
 ]

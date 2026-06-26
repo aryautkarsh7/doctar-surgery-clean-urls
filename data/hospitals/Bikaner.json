@@ -45,7 +45,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Aarogyam+Hospital/@28.0111534,73.3160477,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7876f4bcac7:0x11df91993563e58f!8m2!3d28.0111534!4d73.3160477!16s%2Fg%2F11c6rh6pm0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aarogyam+Hospital/@28.0111534,73.3160477,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7876f4bcac7:0x11df91993563e58f!8m2!3d28.0111534!4d73.3160477!16s%2Fg%2F11c6rh6pm0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -114,7 +114,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aarogyam+Hospital/@28.0111534,73.3160477,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7876f4bcac7:0x11df91993563e58f!8m2!3d28.0111534!4d73.3160477!16s%2Fg%2F11c6rh6pm0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aashirwad-nursing-home-bikaner",
@@ -164,7 +165,7 @@
       "Google rating 4.4",
       "6+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Aashirwad+Nursing+Home/@28.0219208,73.289583,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd456b8652c3:0x99f925c2c04bd889!8m2!3d28.0219208!4d73.289583!16s%2Fg%2F1hhj32x7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aashirwad+Nursing+Home/@28.0219208,73.289583,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd456b8652c3:0x99f925c2c04bd889!8m2!3d28.0219208!4d73.289583!16s%2Fg%2F1hhj32x7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -233,7 +234,8 @@
     "rating": 4.4,
     "reviews": 6,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aashirwad+Nursing+Home/@28.0219208,73.289583,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd456b8652c3:0x99f925c2c04bd889!8m2!3d28.0219208!4d73.289583!16s%2Fg%2F1hhj32x7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ahuja-dental-clinic-bikaner",
@@ -281,7 +283,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Ahuja+Dental+Clinic/@28.0103142,73.320515,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7ab8c57a813:0xbceb98811cd6fe8a!8m2!3d28.0103142!4d73.320515!16s%2Fg%2F11h045sh4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ahuja+Dental+Clinic/@28.0103142,73.320515,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7ab8c57a813:0xbceb98811cd6fe8a!8m2!3d28.0103142!4d73.320515!16s%2Fg%2F11h045sh4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -350,7 +352,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ahuja+Dental+Clinic/@28.0103142,73.320515,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7ab8c57a813:0xbceb98811cd6fe8a!8m2!3d28.0103142!4d73.320515!16s%2Fg%2F11h045sh4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ambika-dental-clinic-bikaner",
@@ -398,7 +401,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Ambika+Dental+Clinic/@28.0268507,73.3175261,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd1e103c3991:0x3441d1290fb50090!8m2!3d28.0268507!4d73.3175261!16s%2Fg%2F11fd19lp20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ambika+Dental+Clinic/@28.0268507,73.3175261,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd1e103c3991:0x3441d1290fb50090!8m2!3d28.0268507!4d73.3175261!16s%2Fg%2F11fd19lp20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -467,7 +470,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ambika+Dental+Clinic/@28.0268507,73.3175261,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd1e103c3991:0x3441d1290fb50090!8m2!3d28.0268507!4d73.3175261!16s%2Fg%2F11fd19lp20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apex-dental-clinic-offices",
@@ -515,7 +519,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Apex+dental+clinic/@28.0168214,73.3239335,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd1695265569:0xf26d24ee788ea9c3!8m2!3d28.0168214!4d73.3239335!16s%2Fg%2F11q_g376z1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+dental+clinic/@28.0168214,73.3239335,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd1695265569:0xf26d24ee788ea9c3!8m2!3d28.0168214!4d73.3239335!16s%2Fg%2F11q_g376z1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -581,10 +585,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+dental+clinic/@28.0168214,73.3239335,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd1695265569:0xf26d24ee788ea9c3!8m2!3d28.0168214!4d73.3239335!16s%2Fg%2F11q_g376z1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apex-hospital-bikaner-bikaner",
@@ -634,7 +639,7 @@
       "3+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apex+Hospital+Bikaner/@28.009523,73.318896,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7cbeff482fd:0xf92bf5de6b8c2e07!8m2!3d28.009523!4d73.318896!16s%2Fg%2F11sy70zbx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apex+Hospital+Bikaner/@28.009523,73.318896,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7cbeff482fd:0xf92bf5de6b8c2e07!8m2!3d28.009523!4d73.318896!16s%2Fg%2F11sy70zbx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -703,7 +708,8 @@
     "rating": 4.8,
     "reviews": 3,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apex+Hospital+Bikaner/@28.009523,73.318896,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7cbeff482fd:0xf92bf5de6b8c2e07!8m2!3d28.009523!4d73.318896!16s%2Fg%2F11sy70zbx_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "apollonia-dental-care-bikaner-bikaner",
@@ -753,7 +759,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollonia+Dental+Care+Bikaner/@28.0207366,73.2971694,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6037688e7f:0xd90ceab1cff95582!8m2!3d28.0207366!4d73.2971694!16s%2Fg%2F11vycy6k7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollonia+Dental+Care+Bikaner/@28.0207366,73.2971694,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6037688e7f:0xd90ceab1cff95582!8m2!3d28.0207366!4d73.2971694!16s%2Fg%2F11vycy6k7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -819,10 +825,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollonia+Dental+Care+Bikaner/@28.0207366,73.2971694,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6037688e7f:0xd90ceab1cff95582!8m2!3d28.0207366!4d73.2971694!16s%2Fg%2F11vycy6k7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "asg-eye-hospital-bikaner-bikaner",
@@ -871,7 +878,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Bikaner/@28.0103068,73.3187808,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe780db69e407:0x1c07440a6a0239b0!8m2!3d28.0103068!4d73.3187808!16s%2Fg%2F1hc28_qpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Bikaner/@28.0103068,73.3187808,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe780db69e407:0x1c07440a6a0239b0!8m2!3d28.0103068!4d73.3187808!16s%2Fg%2F1hc28_qpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -940,7 +947,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Bikaner/@28.0103068,73.3187808,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe780db69e407:0x1c07440a6a0239b0!8m2!3d28.0103068!4d73.3187808!16s%2Fg%2F1hc28_qpn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ashoka-medicity-best-mother-and-child-hospital-in-bikaner-bikaner",
@@ -990,7 +998,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ashoka+Medicity+%7C+Best+Mother+and+Child+Hospital+in+Bikaner+%7C/@28.0025211,73.3225734,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe73a31f26171:0x32199fc5c9bd925c!8m2!3d28.0025211!4d73.3225734!16s%2Fg%2F11p64rknj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ashoka+Medicity+%7C+Best+Mother+and+Child+Hospital+in+Bikaner+%7C/@28.0025211,73.3225734,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe73a31f26171:0x32199fc5c9bd925c!8m2!3d28.0025211!4d73.3225734!16s%2Fg%2F11p64rknj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1059,7 +1067,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ashoka+Medicity+%7C+Best+Mother+and+Child+Hospital+in+Bikaner+%7C/@28.0025211,73.3225734,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe73a31f26171:0x32199fc5c9bd925c!8m2!3d28.0025211!4d73.3225734!16s%2Fg%2F11p64rknj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayushman-heart-care-center-bikaner",
@@ -1109,7 +1118,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Ayushman+Heart+Care+Center/@28.0076983,73.3350232,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe70019b532ab:0xefe9f0ab69eaf0cb!8m2!3d28.0076983!4d73.3350232!16s%2Fg%2F11vz9_85h1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayushman+Heart+Care+Center/@28.0076983,73.3350232,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe70019b532ab:0xefe9f0ab69eaf0cb!8m2!3d28.0076983!4d73.3350232!16s%2Fg%2F11vz9_85h1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1178,7 +1187,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayushman+Heart+Care+Center/@28.0076983,73.3350232,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe70019b532ab:0xefe9f0ab69eaf0cb!8m2!3d28.0076983!4d73.3350232!16s%2Fg%2F11vz9_85h1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "balaji-dental-hospital-bikaner",
@@ -1227,7 +1237,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Balaji+dental+hospital/@28.0217026,73.3825078,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdf6ec2582f53:0x17c832d823baa7bd!8m2!3d28.0217026!4d73.3825078!16s%2Fg%2F11mhhb86k3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Balaji+dental+hospital/@28.0217026,73.3825078,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdf6ec2582f53:0x17c832d823baa7bd!8m2!3d28.0217026!4d73.3825078!16s%2Fg%2F11mhhb86k3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1293,10 +1303,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Balaji+dental+hospital/@28.0217026,73.3825078,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdf6ec2582f53:0x17c832d823baa7bd!8m2!3d28.0217026!4d73.3825078!16s%2Fg%2F11mhhb86k3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "beniwal-hospital-bikaner",
@@ -1344,7 +1355,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Beniwal+Hospital/@28.0157135,73.3362972,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd886db93a7d:0x3155d8ff67bbeaa9!8m2!3d28.0157135!4d73.3362972!16s%2Fg%2F11f2wc_wqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Beniwal+Hospital/@28.0157135,73.3362972,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd886db93a7d:0x3155d8ff67bbeaa9!8m2!3d28.0157135!4d73.3362972!16s%2Fg%2F11f2wc_wqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1410,10 +1421,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Beniwal+Hospital/@28.0157135,73.3362972,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd886db93a7d:0x3155d8ff67bbeaa9!8m2!3d28.0157135!4d73.3362972!16s%2Fg%2F11f2wc_wqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhargava-eye-centre-bikaner",
@@ -1463,7 +1475,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bhargava+Eye+Centre/@28.0144155,73.3532799,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe75e7b9492f1:0x28ab974ac0b532c8!8m2!3d28.0144155!4d73.3532799!16s%2Fg%2F1hm5f14wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhargava+Eye+Centre/@28.0144155,73.3532799,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe75e7b9492f1:0x28ab974ac0b532c8!8m2!3d28.0144155!4d73.3532799!16s%2Fg%2F1hm5f14wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1532,7 +1544,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhargava+Eye+Centre/@28.0144155,73.3532799,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe75e7b9492f1:0x28ab974ac0b532c8!8m2!3d28.0144155!4d73.3532799!16s%2Fg%2F1hm5f14wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bihani-dental-clinic-bikaner",
@@ -1580,7 +1593,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bihani+Dental+Clinic/@28.0120197,73.3384471,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7e3d39333c7:0x909aee87d120adbd!8m2!3d28.0120197!4d73.3384471!16s%2Fg%2F11vlny44wj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bihani+Dental+Clinic/@28.0120197,73.3384471,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7e3d39333c7:0x909aee87d120adbd!8m2!3d28.0120197!4d73.3384471!16s%2Fg%2F11vlny44wj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1646,10 +1659,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bihani+Dental+Clinic/@28.0120197,73.3384471,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7e3d39333c7:0x909aee87d120adbd!8m2!3d28.0120197!4d73.3384471!16s%2Fg%2F11vlny44wj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bikaner-nursing-home-bikaner",
@@ -1700,7 +1714,7 @@
       "1+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bikaner+Nursing+Home/@27.998678,73.3342877,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7ba7177a6ff:0x66ef20be82121909!8m2!3d27.998678!4d73.3342877!16s%2Fg%2F11j4ykm2r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bikaner+Nursing+Home/@27.998678,73.3342877,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7ba7177a6ff:0x66ef20be82121909!8m2!3d27.998678!4d73.3342877!16s%2Fg%2F11j4ykm2r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1769,7 +1783,8 @@
     "rating": 3.9,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bikaner+Nursing+Home/@27.998678,73.3342877,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7ba7177a6ff:0x66ef20be82121909!8m2!3d27.998678!4d73.3342877!16s%2Fg%2F11j4ykm2r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "binnani-bikaner",
@@ -1818,7 +1833,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Binnani/@27.9947105,73.3301097,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7731eaaaaab:0x5e3ffa87b5e65cf!8m2!3d27.9947105!4d73.3301097!16s%2Fg%2F11s1xzqlgb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Binnani/@27.9947105,73.3301097,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7731eaaaaab:0x5e3ffa87b5e65cf!8m2!3d27.9947105!4d73.3301097!16s%2Fg%2F11s1xzqlgb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1887,7 +1902,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Binnani/@27.9947105,73.3301097,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7731eaaaaab:0x5e3ffa87b5e65cf!8m2!3d27.9947105!4d73.3301097!16s%2Fg%2F11s1xzqlgb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bright-smile-dental-care-bikaner",
@@ -1935,7 +1951,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bright+Smile+Dental+Care/@28.0055796,73.3480507,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe75d5afcf389:0xa573750e8ddec3eb!8m2!3d28.0055796!4d73.3480507!16s%2Fg%2F11fyzdj4nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bright+Smile+Dental+Care/@28.0055796,73.3480507,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe75d5afcf389:0xa573750e8ddec3eb!8m2!3d28.0055796!4d73.3480507!16s%2Fg%2F11fyzdj4nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2001,10 +2017,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bright+Smile+Dental+Care/@28.0055796,73.3480507,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe75d5afcf389:0xa573750e8ddec3eb!8m2!3d28.0055796!4d73.3480507!16s%2Fg%2F11fyzdj4nk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "cosmodent-bikaner",
@@ -2053,7 +2070,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Cosmodent/@28.0327369,73.2974538,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdde23d9ef3b1:0xdae2704a21a606cd!8m2!3d28.0327369!4d73.2974538!16s%2Fg%2F11y8rftbml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Cosmodent/@28.0327369,73.2974538,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdde23d9ef3b1:0xdae2704a21a606cd!8m2!3d28.0327369!4d73.2974538!16s%2Fg%2F11y8rftbml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2119,10 +2136,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Cosmodent/@28.0327369,73.2974538,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdde23d9ef3b1:0xdae2704a21a606cd!8m2!3d28.0327369!4d73.2974538!16s%2Fg%2F11y8rftbml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dadhich-dental-clinic-bikaner",
@@ -2171,7 +2189,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Dadhich+Dental+clinic/@28.0115584,73.3228174,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe722bcf53893:0xa3050863515da1c0!8m2!3d28.0115584!4d73.3228174!16s%2Fg%2F11f64hd4_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dadhich+Dental+clinic/@28.0115584,73.3228174,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe722bcf53893:0xa3050863515da1c0!8m2!3d28.0115584!4d73.3228174!16s%2Fg%2F11f64hd4_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2240,7 +2258,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dadhich+Dental+clinic/@28.0115584,73.3228174,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe722bcf53893:0xa3050863515da1c0!8m2!3d28.0115584!4d73.3228174!16s%2Fg%2F11f64hd4_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-solutionz-bikaner",
@@ -2289,7 +2308,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DENTAL+SOLUTIONZ/@28.0268317,73.3206536,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd3d32980773:0xa9ce61ebaf056327!8m2!3d28.0268317!4d73.3206536!16s%2Fg%2F11xvthvm09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DENTAL+SOLUTIONZ/@28.0268317,73.3206536,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd3d32980773:0xa9ce61ebaf056327!8m2!3d28.0268317!4d73.3206536!16s%2Fg%2F11xvthvm09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2355,10 +2374,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DENTAL+SOLUTIONZ/@28.0268317,73.3206536,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd3d32980773:0xa9ce61ebaf056327!8m2!3d28.0268317!4d73.3206536!16s%2Fg%2F11xvthvm09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dhanvantri-dental-clinic-bikaner",
@@ -2406,7 +2426,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dhanvantri+Dental+Clinic/@28.0207728,73.3000853,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6c26806035:0x134d22d811d6886a!8m2!3d28.0207728!4d73.3000853!16s%2Fg%2F11pckfh8s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dhanvantri+Dental+Clinic/@28.0207728,73.3000853,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6c26806035:0x134d22d811d6886a!8m2!3d28.0207728!4d73.3000853!16s%2Fg%2F11pckfh8s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2472,10 +2492,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dhanvantri+Dental+Clinic/@28.0207728,73.3000853,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6c26806035:0x134d22d811d6886a!8m2!3d28.0207728!4d73.3000853!16s%2Fg%2F11pckfh8s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "divyam-hospital-bikaner",
@@ -2524,7 +2545,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DIVYAM+HOSPITAL/@27.9835763,73.3071926,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7b51656d4b3:0x52055cdab61b626f!8m2!3d27.9835763!4d73.3071926!16s%2Fg%2F11lmdg_2gq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DIVYAM+HOSPITAL/@27.9835763,73.3071926,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7b51656d4b3:0x52055cdab61b626f!8m2!3d27.9835763!4d73.3071926!16s%2Fg%2F11lmdg_2gq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2593,7 +2614,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DIVYAM+HOSPITAL/@27.9835763,73.3071926,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7b51656d4b3:0x52055cdab61b626f!8m2!3d27.9835763!4d73.3071926!16s%2Fg%2F11lmdg_2gq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "floral-hospital-bikaner",
@@ -2642,7 +2664,7 @@
       "Google rating 4.9",
       "15+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Floral+Hospital/@27.9974447,73.3143127,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe79a56fd8429:0x16f74e70135b4ef8!8m2!3d27.9974447!4d73.3143127!16s%2Fg%2F11df0qkdmq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Floral+Hospital/@27.9974447,73.3143127,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe79a56fd8429:0x16f74e70135b4ef8!8m2!3d27.9974447!4d73.3143127!16s%2Fg%2F11df0qkdmq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2711,7 +2733,8 @@
     "rating": 4.9,
     "reviews": 15,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Floral+Hospital/@27.9974447,73.3143127,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe79a56fd8429:0x16f74e70135b4ef8!8m2!3d27.9974447!4d73.3143127!16s%2Fg%2F11df0qkdmq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gesi-clinic-bikaner",
@@ -2761,7 +2784,7 @@
       "Google rating 1.8",
       "9+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/GESI+Clinic/@28.0146378,73.3233722,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd7f86a3731b:0x7b45d86e12bccd14!8m2!3d28.0146378!4d73.3233722!16s%2Fg%2F11cfcpr14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GESI+Clinic/@28.0146378,73.3233722,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd7f86a3731b:0x7b45d86e12bccd14!8m2!3d28.0146378!4d73.3233722!16s%2Fg%2F11cfcpr14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2830,7 +2853,8 @@
     "rating": 1.8,
     "reviews": 9,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GESI+Clinic/@28.0146378,73.3233722,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd7f86a3731b:0x7b45d86e12bccd14!8m2!3d28.0146378!4d73.3233722!16s%2Fg%2F11cfcpr14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "global-beechhwal-rural",
@@ -2878,7 +2902,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/GLOBAL/@28.0455296,73.3278233,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdda6434c4361:0x3336e33a89c71dad!8m2!3d28.0455296!4d73.3278233!16s%2Fg%2F11b6_0pjbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/GLOBAL/@28.0455296,73.3278233,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdda6434c4361:0x3336e33a89c71dad!8m2!3d28.0455296!4d73.3278233!16s%2Fg%2F11b6_0pjbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2947,7 +2971,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/GLOBAL/@28.0455296,73.3278233,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdda6434c4361:0x3336e33a89c71dad!8m2!3d28.0455296!4d73.3278233!16s%2Fg%2F11b6_0pjbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "goodwill-eye-bikaner",
@@ -2995,7 +3020,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Goodwill+Eye/@28.0003213,73.3297132,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe770cd2ac03d:0x634225cd6e305a72!8m2!3d28.0003213!4d73.3297132!16s%2Fg%2F11bz0dgbw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Goodwill+Eye/@28.0003213,73.3297132,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe770cd2ac03d:0x634225cd6e305a72!8m2!3d28.0003213!4d73.3297132!16s%2Fg%2F11bz0dgbw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3064,7 +3089,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Goodwill+Eye/@28.0003213,73.3297132,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe770cd2ac03d:0x634225cd6e305a72!8m2!3d28.0003213!4d73.3297132!16s%2Fg%2F11bz0dgbw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gupta-dental-clinic-bikaner",
@@ -3113,7 +3139,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Gupta+Dental+Clinic/@27.9982049,73.3316985,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77104a8e601:0xc21e193efac00550!8m2!3d27.9982049!4d73.3316985!16s%2Fg%2F11cmbjrzdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gupta+Dental+Clinic/@27.9982049,73.3316985,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77104a8e601:0xc21e193efac00550!8m2!3d27.9982049!4d73.3316985!16s%2Fg%2F11cmbjrzdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3182,7 +3208,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gupta+Dental+Clinic/@27.9982049,73.3316985,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77104a8e601:0xc21e193efac00550!8m2!3d27.9982049!4d73.3316985!16s%2Fg%2F11cmbjrzdm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "haldiram-moolchand-bikaner",
@@ -3231,7 +3258,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Haldiram+Moolchand/@28.011323,73.3299722,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77dd4000001:0xeee71a5f590902fc!8m2!3d28.011323!4d73.3299722!16s%2Fg%2F11sscs9q5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Haldiram+Moolchand/@28.011323,73.3299722,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77dd4000001:0xeee71a5f590902fc!8m2!3d28.011323!4d73.3299722!16s%2Fg%2F11sscs9q5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3300,7 +3327,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Haldiram+Moolchand/@28.011323,73.3299722,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77dd4000001:0xeee71a5f590902fc!8m2!3d28.011323!4d73.3299722!16s%2Fg%2F11sscs9q5v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "haldiram-moolchand-institute-of-cardiovascular-sciences-bikaner",
@@ -3349,7 +3377,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Haldiram+Moolchand+Institute+Of+Cardiovascular+Sciences/@28.0113035,73.3298601,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77dd65d8fed:0x5e6728482aa77aa9!8m2!3d28.0113035!4d73.3298601!16s%2Fg%2F11c0syhn1q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Haldiram+Moolchand+Institute+Of+Cardiovascular+Sciences/@28.0113035,73.3298601,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77dd65d8fed:0x5e6728482aa77aa9!8m2!3d28.0113035!4d73.3298601!16s%2Fg%2F11c0syhn1q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3415,10 +3443,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Haldiram+Moolchand+Institute+Of+Cardiovascular+Sciences/@28.0113035,73.3298601,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77dd65d8fed:0x5e6728482aa77aa9!8m2!3d28.0113035!4d73.3298601!16s%2Fg%2F11c0syhn1q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "harish-dental-and-implant-center-bikaner",
@@ -3466,7 +3495,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/HARISH+DENTAL+AND+IMPLANT+CENTER/@28.0266917,73.3001515,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd2c21c92d61:0xaf55c0838ab808b3!8m2!3d28.0266917!4d73.3001515!16s%2Fg%2F11gr2cdnr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/HARISH+DENTAL+AND+IMPLANT+CENTER/@28.0266917,73.3001515,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd2c21c92d61:0xaf55c0838ab808b3!8m2!3d28.0266917!4d73.3001515!16s%2Fg%2F11gr2cdnr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3532,10 +3561,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/HARISH+DENTAL+AND+IMPLANT+CENTER/@28.0266917,73.3001515,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd2c21c92d61:0xaf55c0838ab808b3!8m2!3d28.0266917!4d73.3001515!16s%2Fg%2F11gr2cdnr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "heart-centre-bikaner",
@@ -3584,7 +3614,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://www.google.com/maps/place/Heart+centre/@28.007972,73.3321607,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe74a5b305053:0xd6dda9255e906b96!8m2!3d28.007972!4d73.3321607!16s%2Fg%2F11j2zrlh1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Heart+centre/@28.007972,73.3321607,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe74a5b305053:0xd6dda9255e906b96!8m2!3d28.007972!4d73.3321607!16s%2Fg%2F11j2zrlh1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3650,10 +3680,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Heart+centre/@28.007972,73.3321607,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe74a5b305053:0xd6dda9255e906b96!8m2!3d28.007972!4d73.3321607!16s%2Fg%2F11j2zrlh1w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "himalaya-dental-care-dental-clinic-in-bikaner-bikaner",
@@ -3701,7 +3732,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Himalaya+Dental+Care+-+Dental+clinic+in+Bikaner/@28.017501,73.3468333,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd0012e2f28f:0x9d55e8f6c7f0c92c!8m2!3d28.017501!4d73.3468333!16s%2Fg%2F11xctxcl2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Himalaya+Dental+Care+-+Dental+clinic+in+Bikaner/@28.017501,73.3468333,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd0012e2f28f:0x9d55e8f6c7f0c92c!8m2!3d28.017501!4d73.3468333!16s%2Fg%2F11xctxcl2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3770,7 +3801,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Himalaya+Dental+Care+-+Dental+clinic+in+Bikaner/@28.017501,73.3468333,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd0012e2f28f:0x9d55e8f6c7f0c92c!8m2!3d28.017501!4d73.3468333!16s%2Fg%2F11xctxcl2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indira-ivf-fertility-centre-in-bikaner-best-ivf-centre-bikaner",
@@ -3820,7 +3852,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Bikaner+-+Best+IVF+Centre/@28.008064,73.3312913,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe715122c4aff:0x5018342b5f35f50c!8m2!3d28.008064!4d73.3312913!16s%2Fg%2F11fkvnvdw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Bikaner+-+Best+IVF+Centre/@28.008064,73.3312913,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe715122c4aff:0x5018342b5f35f50c!8m2!3d28.008064!4d73.3312913!16s%2Fg%2F11fkvnvdw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3886,10 +3918,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Bikaner+-+Best+IVF+Centre/@28.008064,73.3312913,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe715122c4aff:0x5018342b5f35f50c!8m2!3d28.008064!4d73.3312913!16s%2Fg%2F11fkvnvdw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeena-sikho-hiims-hospital-bikaner-bikaner",
@@ -3938,7 +3971,7 @@
       "Google rating 4.2",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Jeena+Sikho+HiiMS+Hospital+Bikaner/@28.040616,73.325629,17z/data=!3m1!4b1!4m6!3m5!1s0x393fddce44e8ef15:0x53666687639663f1!8m2!3d28.040616!4d73.325629!16s%2Fg%2F11hs31v8nh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeena+Sikho+HiiMS+Hospital+Bikaner/@28.040616,73.325629,17z/data=!3m1!4b1!4m6!3m5!1s0x393fddce44e8ef15:0x53666687639663f1!8m2!3d28.040616!4d73.325629!16s%2Fg%2F11hs31v8nh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4007,7 +4040,8 @@
     "rating": 4.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeena+Sikho+HiiMS+Hospital+Bikaner/@28.040616,73.325629,17z/data=!3m1!4b1!4m6!3m5!1s0x393fddce44e8ef15:0x53666687639663f1!8m2!3d28.040616!4d73.325629!16s%2Fg%2F11hs31v8nh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevan-raksha-bikaner",
@@ -4055,7 +4089,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Raksha/@28.014198,73.3290096,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd762be32a1d:0xcdef5505ab32c0e5!8m2!3d28.014198!4d73.3290096!16s%2Fg%2F11qh7jtz7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Raksha/@28.014198,73.3290096,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd762be32a1d:0xcdef5505ab32c0e5!8m2!3d28.014198!4d73.3290096!16s%2Fg%2F11qh7jtz7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4124,7 +4158,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Raksha/@28.014198,73.3290096,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd762be32a1d:0xcdef5505ab32c0e5!8m2!3d28.014198!4d73.3290096!16s%2Fg%2F11qh7jtz7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jeevan-raksha-hospital-bikaner",
@@ -4172,7 +4207,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Jeevan+Raksha+Hospital/@28.0139694,73.3339379,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe73a3a132e7f:0xf2ad62e4f0241ebd!8m2!3d28.0139694!4d73.3339379!16s%2Fg%2F11sgyz06xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jeevan+Raksha+Hospital/@28.0139694,73.3339379,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe73a3a132e7f:0xf2ad62e4f0241ebd!8m2!3d28.0139694!4d73.3339379!16s%2Fg%2F11sgyz06xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4241,7 +4276,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jeevan+Raksha+Hospital/@28.0139694,73.3339379,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe73a3a132e7f:0xf2ad62e4f0241ebd!8m2!3d28.0139694!4d73.3339379!16s%2Fg%2F11sgyz06xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalla-eye-and-general-hospital-bikaner",
@@ -4289,7 +4325,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Kalla+Eye+%26+General+Hospital/@28.0271028,73.2996903,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd41ff24bb3d:0x248178b85997f2c6!8m2!3d28.0271028!4d73.2996903!16s%2Fg%2F11d_9gkflj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalla+Eye+%26+General+Hospital/@28.0271028,73.2996903,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd41ff24bb3d:0x248178b85997f2c6!8m2!3d28.0271028!4d73.2996903!16s%2Fg%2F11d_9gkflj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4355,10 +4391,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalla+Eye+%26+General+Hospital/@28.0271028,73.2996903,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd41ff24bb3d:0x248178b85997f2c6!8m2!3d28.0271028!4d73.2996903!16s%2Fg%2F11d_9gkflj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kalra-dental-care-bikaner",
@@ -4407,7 +4444,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kalra+Dental+Care/@27.9998211,73.3337921,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe771b70964ff:0x37e7a9f0f761d603!8m2!3d27.9998211!4d73.3337921!16s%2Fg%2F1tfclr4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kalra+Dental+Care/@27.9998211,73.3337921,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe771b70964ff:0x37e7a9f0f761d603!8m2!3d27.9998211!4d73.3337921!16s%2Fg%2F1tfclr4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4476,7 +4513,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kalra+Dental+Care/@27.9998211,73.3337921,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe771b70964ff:0x37e7a9f0f761d603!8m2!3d27.9998211!4d73.3337921!16s%2Fg%2F1tfclr4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khusi-clinic-bikaner",
@@ -4525,7 +4563,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/KHUSI+CLINIC/@27.9951337,73.3346298,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe733d1031d91:0xd83440268ad6e676!8m2!3d27.9951337!4d73.3346298!16s%2Fg%2F11wp06pvq2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KHUSI+CLINIC/@27.9951337,73.3346298,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe733d1031d91:0xd83440268ad6e676!8m2!3d27.9951337!4d73.3346298!16s%2Fg%2F11wp06pvq2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4591,10 +4629,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KHUSI+CLINIC/@27.9951337,73.3346298,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe733d1031d91:0xd83440268ad6e676!8m2!3d27.9951337!4d73.3346298!16s%2Fg%2F11wp06pvq2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kothari-artemis-bikaner",
@@ -4643,7 +4682,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kothari+Artemis/@28.0258485,73.2984822,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd614a5f1b8d:0x28073966be286360!8m2!3d28.0258485!4d73.2984822!16s%2Fg%2F11txcf1ln0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kothari+Artemis/@28.0258485,73.2984822,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd614a5f1b8d:0x28073966be286360!8m2!3d28.0258485!4d73.2984822!16s%2Fg%2F11txcf1ln0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4712,7 +4751,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kothari+Artemis/@28.0258485,73.2984822,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd614a5f1b8d:0x28073966be286360!8m2!3d28.0258485!4d73.2984822!16s%2Fg%2F11txcf1ln0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kothari-hospital-and-research-center-bikaner",
@@ -4762,7 +4802,7 @@
       "15+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kothari+Hospital+and+Research+Center/@28.0261231,73.2983485,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd67bb5e9819:0x757fabd14db58a33!8m2!3d28.0261231!4d73.2983485!16s%2Fg%2F1tgnvm9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kothari+Hospital+and+Research+Center/@28.0261231,73.2983485,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd67bb5e9819:0x757fabd14db58a33!8m2!3d28.0261231!4d73.2983485!16s%2Fg%2F1tgnvm9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4831,7 +4871,8 @@
     "rating": 3.1,
     "reviews": 15,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kothari+Hospital+and+Research+Center/@28.0261231,73.2983485,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd67bb5e9819:0x757fabd14db58a33!8m2!3d28.0261231!4d73.2983485!16s%2Fg%2F1tgnvm9p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "m-n-hospital-and-research-centre-bikaner",
@@ -4880,7 +4921,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/M.+N.+Hospital+%26+Research+Centre/@28.0273,73.325357,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd9dc958e5ab:0xdf7dee5c2ddec8c0!8m2!3d28.0273!4d73.325357!16s%2Fg%2F1tflkv22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.+N.+Hospital+%26+Research+Centre/@28.0273,73.325357,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd9dc958e5ab:0xdf7dee5c2ddec8c0!8m2!3d28.0273!4d73.325357!16s%2Fg%2F1tflkv22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4949,7 +4990,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M.+N.+Hospital+%26+Research+Centre/@28.0273,73.325357,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd9dc958e5ab:0xdf7dee5c2ddec8c0!8m2!3d28.0273!4d73.325357!16s%2Fg%2F1tflkv22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "m-p-dental-clinic-bikaner",
@@ -4997,7 +5039,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/M.P.+Dental+Clinic/@28.0427767,73.2924979,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd3b36e92ddd:0xb5dd31bf9a02662b!8m2!3d28.0427767!4d73.2924979!16s%2Fg%2F11dfgt2_kl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/M.P.+Dental+Clinic/@28.0427767,73.2924979,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd3b36e92ddd:0xb5dd31bf9a02662b!8m2!3d28.0427767!4d73.2924979!16s%2Fg%2F11dfgt2_kl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5063,10 +5105,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/M.P.+Dental+Clinic/@28.0427767,73.2924979,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd3b36e92ddd:0xb5dd31bf9a02662b!8m2!3d28.0427767!4d73.2924979!16s%2Fg%2F11dfgt2_kl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "marwar-hospital-bikaner",
@@ -5116,7 +5159,7 @@
       "1+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Marwar+Hospital/@28.0146988,73.3222087,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd7fa04bdb93:0x4fc999e21765f921!8m2!3d28.0146988!4d73.3222087!16s%2Fg%2F1261jr65g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Marwar+Hospital/@28.0146988,73.3222087,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd7fa04bdb93:0x4fc999e21765f921!8m2!3d28.0146988!4d73.3222087!16s%2Fg%2F1261jr65g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5185,7 +5228,8 @@
     "rating": 3.9,
     "reviews": 1,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Marwar+Hospital/@28.0146988,73.3222087,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd7fa04bdb93:0x4fc999e21765f921!8m2!3d28.0146988!4d73.3222087!16s%2Fg%2F1261jr65g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "nangal-cancer-hospital-and-research-institute-bikaner",
@@ -5234,7 +5278,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Nangal+Cancer+Hospital+and+Research+Institute/@28.0101404,73.324241,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6fffffffff:0xb58663cd0b325fd3!8m2!3d28.0101404!4d73.324241!16s%2Fg%2F11f5k170hc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Nangal+Cancer+Hospital+and+Research+Institute/@28.0101404,73.324241,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6fffffffff:0xb58663cd0b325fd3!8m2!3d28.0101404!4d73.324241!16s%2Fg%2F11f5k170hc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5303,7 +5347,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Nangal+Cancer+Hospital+and+Research+Institute/@28.0101404,73.324241,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6fffffffff:0xb58663cd0b325fd3!8m2!3d28.0101404!4d73.324241!16s%2Fg%2F11f5k170hc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "navjeevan-hospital-bikaner",
@@ -5351,7 +5396,7 @@
     "metrics": [
       "Google rating 3.4"
     ],
-    "image": "https://www.google.com/maps/place/Navjeevan+Hospital/@28.0214342,73.289297,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd65566ef685:0x307b5513da9aaba1!8m2!3d28.0214342!4d73.289297!16s%2Fg%2F11cp7glxkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Navjeevan+Hospital/@28.0214342,73.289297,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd65566ef685:0x307b5513da9aaba1!8m2!3d28.0214342!4d73.289297!16s%2Fg%2F11cp7glxkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5420,7 +5465,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Navjeevan+Hospital/@28.0214342,73.289297,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd65566ef685:0x307b5513da9aaba1!8m2!3d28.0214342!4d73.289297!16s%2Fg%2F11cp7glxkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "neuroscience-centre-bikaner",
@@ -5470,7 +5516,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Neuroscience+Centre/@27.9942309,73.3357138,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe772f5176f11:0x9c46be8773320e0c!8m2!3d27.9942309!4d73.3357138!16s%2Fg%2F11b8jd97pf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Neuroscience+Centre/@27.9942309,73.3357138,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe772f5176f11:0x9c46be8773320e0c!8m2!3d27.9942309!4d73.3357138!16s%2Fg%2F11b8jd97pf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5539,7 +5585,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Neuroscience+Centre/@27.9942309,73.3357138,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe772f5176f11:0x9c46be8773320e0c!8m2!3d27.9942309!4d73.3357138!16s%2Fg%2F11b8jd97pf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "opd-medicine-and-surgery-bikaner",
@@ -5587,7 +5634,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/OPD+Medicine+And+Surgery/@28.009068,73.3269328,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77ede6a7f2d:0xa8c23f8370b354e0!8m2!3d28.009068!4d73.3269328!16s%2Fg%2F11g873rjqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OPD+Medicine+And+Surgery/@28.009068,73.3269328,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77ede6a7f2d:0xa8c23f8370b354e0!8m2!3d28.009068!4d73.3269328!16s%2Fg%2F11g873rjqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5656,7 +5703,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OPD+Medicine+And+Surgery/@28.009068,73.3269328,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77ede6a7f2d:0xa8c23f8370b354e0!8m2!3d28.009068!4d73.3269328!16s%2Fg%2F11g873rjqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pbm-bikaner",
@@ -5705,7 +5753,7 @@
       "Google rating 3.9",
       "31+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/PBM/@28.0123973,73.3267033,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77e34820b01:0xd4e9950703cd870!8m2!3d28.0123973!4d73.3267033!16s%2Fg%2F11f3jmxgwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PBM/@28.0123973,73.3267033,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77e34820b01:0xd4e9950703cd870!8m2!3d28.0123973!4d73.3267033!16s%2Fg%2F11f3jmxgwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5774,7 +5822,8 @@
     "rating": 3.9,
     "reviews": 31,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PBM/@28.0123973,73.3267033,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77e34820b01:0xd4e9950703cd870!8m2!3d28.0123973!4d73.3267033!16s%2Fg%2F11f3jmxgwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pbm-eye-hospital-bikaner",
@@ -5822,7 +5871,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/PBM+Eye+Hospital/@28.0074975,73.3280326,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7793626c991:0xb01649e44cf62588!8m2!3d28.0074975!4d73.3280326!16s%2Fg%2F1w3w1f__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/PBM+Eye+Hospital/@28.0074975,73.3280326,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7793626c991:0xb01649e44cf62588!8m2!3d28.0074975!4d73.3280326!16s%2Fg%2F1w3w1f__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5888,10 +5937,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/PBM+Eye+Hospital/@28.0074975,73.3280326,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7793626c991:0xb01649e44cf62588!8m2!3d28.0074975!4d73.3280326!16s%2Fg%2F1w3w1f__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prashanti-bikaner",
@@ -5939,7 +5989,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Prashanti/@28.0171081,73.3214998,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd7f3d35a9ff:0xb6ebf87f1e513cf5!8m2!3d28.0171081!4d73.3214998!16s%2Fg%2F11g7nqkh_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prashanti/@28.0171081,73.3214998,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd7f3d35a9ff:0xb6ebf87f1e513cf5!8m2!3d28.0171081!4d73.3214998!16s%2Fg%2F11g7nqkh_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6005,10 +6055,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prashanti/@28.0171081,73.3214998,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd7f3d35a9ff:0xb6ebf87f1e513cf5!8m2!3d28.0171081!4d73.3214998!16s%2Fg%2F11g7nqkh_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pratap-prasuti-grih-bikaner",
@@ -6058,7 +6109,7 @@
       "Google rating 3.6",
       "9+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Pratap+Prasuti+Grih/@28.0052587,73.3100129,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe78f250a7b6d:0x8b251ed00ee4dd26!8m2!3d28.0052587!4d73.3100129!16s%2Fg%2F1w2ys831?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pratap+Prasuti+Grih/@28.0052587,73.3100129,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe78f250a7b6d:0x8b251ed00ee4dd26!8m2!3d28.0052587!4d73.3100129!16s%2Fg%2F1w2ys831?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6127,7 +6178,8 @@
     "rating": 3.6,
     "reviews": 9,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pratap+Prasuti+Grih/@28.0052587,73.3100129,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe78f250a7b6d:0x8b251ed00ee4dd26!8m2!3d28.0052587!4d73.3100129!16s%2Fg%2F1w2ys831?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajasthan-nursing-home-bikaner",
@@ -6176,7 +6228,7 @@
       "Google rating 3.9",
       "24+ public reviews"
     ],
-    "image": "https://www.google.com/maps/place/Rajasthan+Nursing+Home/@28.0018577,73.3230493,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe782addb9401:0xc62f8335667619cd!8m2!3d28.0018577!4d73.3230493!16s%2Fg%2F11c1pgkr56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajasthan+Nursing+Home/@28.0018577,73.3230493,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe782addb9401:0xc62f8335667619cd!8m2!3d28.0018577!4d73.3230493!16s%2Fg%2F11c1pgkr56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6245,7 +6297,8 @@
     "rating": 3.9,
     "reviews": 24,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajasthan+Nursing+Home/@28.0018577,73.3230493,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe782addb9401:0xc62f8335667619cd!8m2!3d28.0018577!4d73.3230493!16s%2Fg%2F11c1pgkr56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rajni-hospital-bikaner",
@@ -6293,7 +6346,7 @@
     "metrics": [
       "Google rating 3.5"
     ],
-    "image": "https://www.google.com/maps/place/Rajni+Hospital/data=!4m7!3m6!1s0x393fdd433a923847:0x5d6e7e7bf7b4b0b9!8m2!3d28.0216532!4d73.2966583!16s%2Fg%2F11cp7gglst!19sChIJRziSOkPdPzkRubC093t-bl0?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rajni+Hospital/data=!4m7!3m6!1s0x393fdd433a923847:0x5d6e7e7bf7b4b0b9!8m2!3d28.0216532!4d73.2966583!16s%2Fg%2F11cp7gglst!19sChIJRziSOkPdPzkRubC093t-bl0?authuser=0&hl=en&rclk=1"
@@ -6362,7 +6415,8 @@
     "rating": 3.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rajni+Hospital/data=!4m7!3m6!1s0x393fdd433a923847:0x5d6e7e7bf7b4b0b9!8m2!3d28.0216532!4d73.2966583!16s%2Fg%2F11cp7gglst!19sChIJRziSOkPdPzkRubC093t-bl0?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "rathi-dental-care-bikaner",
@@ -6410,7 +6464,7 @@
     "metrics": [
       "Google rating 3.2"
     ],
-    "image": "https://www.google.com/maps/place/Rathi+dental+care/@28.0247589,73.296412,17z/data=!3m1!4b1!4m6!3m5!1s0x393fddd255e1fc7b:0x4f401038e2bcef5a!8m2!3d28.0247589!4d73.296412!16s%2Fg%2F11h4t5mlmw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rathi+dental+care/@28.0247589,73.296412,17z/data=!3m1!4b1!4m6!3m5!1s0x393fddd255e1fc7b:0x4f401038e2bcef5a!8m2!3d28.0247589!4d73.296412!16s%2Fg%2F11h4t5mlmw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6479,7 +6533,8 @@
     "rating": 3.2,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rathi+dental+care/@28.0247589,73.296412,17z/data=!3m1!4b1!4m6!3m5!1s0x393fddd255e1fc7b:0x4f401038e2bcef5a!8m2!3d28.0247589!4d73.296412!16s%2Fg%2F11h4t5mlmw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sambhav-hospital-bikaner",
@@ -6527,7 +6582,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Sambhav+Hospital/@28.0165457,73.3234587,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd0921c51a09:0xd3ecd991ec31eafb!8m2!3d28.0165457!4d73.3234587!16s%2Fg%2F11h4bdx_tm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sambhav+Hospital/@28.0165457,73.3234587,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd0921c51a09:0xd3ecd991ec31eafb!8m2!3d28.0165457!4d73.3234587!16s%2Fg%2F11h4bdx_tm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6596,7 +6651,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sambhav+Hospital/@28.0165457,73.3234587,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd0921c51a09:0xd3ecd991ec31eafb!8m2!3d28.0165457!4d73.3234587!16s%2Fg%2F11h4bdx_tm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sardar-patel-medical-college-bikaner",
@@ -6645,7 +6701,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sardar+Patel+Medical+College/@28.0063889,73.3305142,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77f961c666b:0x618381289e869844!8m2!3d28.0063889!4d73.3305142!16s%2Fm%2F0274s6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sardar+Patel+Medical+College/@28.0063889,73.3305142,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77f961c666b:0x618381289e869844!8m2!3d28.0063889!4d73.3305142!16s%2Fm%2F0274s6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6714,7 +6770,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sardar+Patel+Medical+College/@28.0063889,73.3305142,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe77f961c666b:0x618381289e869844!8m2!3d28.0063889!4d73.3305142!16s%2Fm%2F0274s6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shekhawati-hospital-bikaner",
@@ -6764,7 +6821,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shekhawati+hospital/@28.0468589,73.3330235,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdda5733f3b61:0x90333c052374a0e1!8m2!3d28.0468589!4d73.3330235!16s%2Fg%2F11fxb92wtl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shekhawati+hospital/@28.0468589,73.3330235,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdda5733f3b61:0x90333c052374a0e1!8m2!3d28.0468589!4d73.3330235!16s%2Fg%2F11fxb92wtl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6833,7 +6890,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shekhawati+hospital/@28.0468589,73.3330235,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdda5733f3b61:0x90333c052374a0e1!8m2!3d28.0468589!4d73.3330235!16s%2Fg%2F11fxb92wtl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shreesar-dental-care-bikaner",
@@ -6881,7 +6939,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/SHREESAR+DENTAL+CARE/@28.0081426,73.32654,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7fec463c5e9:0xf61c3c7ef68fc761!8m2!3d28.0081426!4d73.32654!16s%2Fg%2F11h0t0nzcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHREESAR+DENTAL+CARE/@28.0081426,73.32654,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7fec463c5e9:0xf61c3c7ef68fc761!8m2!3d28.0081426!4d73.32654!16s%2Fg%2F11h0t0nzcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6950,7 +7008,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHREESAR+DENTAL+CARE/@28.0081426,73.32654,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7fec463c5e9:0xf61c3c7ef68fc761!8m2!3d28.0081426!4d73.32654!16s%2Fg%2F11h0t0nzcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-krishna-hospital-bikaner",
@@ -6999,7 +7058,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Krishna+Hospital/@28.0102793,73.3435858,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe76131d944f3:0x74274f19576f853e!8m2!3d28.0102793!4d73.3435858!16s%2Fg%2F11c6vwq96d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Krishna+Hospital/@28.0102793,73.3435858,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe76131d944f3:0x74274f19576f853e!8m2!3d28.0102793!4d73.3435858!16s%2Fg%2F11c6vwq96d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7068,7 +7127,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Krishna+Hospital/@28.0102793,73.3435858,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe76131d944f3:0x74274f19576f853e!8m2!3d28.0102793!4d73.3435858!16s%2Fg%2F11c6vwq96d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shri-ram-bikaner",
@@ -7117,7 +7177,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shri+Ram/@28.0135254,73.3239944,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd8003abf8ef:0xc09db4b63e79e3cf!8m2!3d28.0135254!4d73.3239944!16s%2Fg%2F11cs1f3zw8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shri+Ram/@28.0135254,73.3239944,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd8003abf8ef:0xc09db4b63e79e3cf!8m2!3d28.0135254!4d73.3239944!16s%2Fg%2F11cs1f3zw8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7186,7 +7246,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shri+Ram/@28.0135254,73.3239944,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd8003abf8ef:0xc09db4b63e79e3cf!8m2!3d28.0135254!4d73.3239944!16s%2Fg%2F11cs1f3zw8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shubham-nursing-home-bikaner",
@@ -7234,7 +7295,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/SHUBHAM+NURSING+HOME/data=!4m7!3m6!1s0x393fdd42afde3265:0x1bf6e75242e4bf17!8m2!3d28.0220026!4d73.2994263!16s%2Fg%2F11b7ld4089!19sChIJZTLer0LdPzkRF7_kQlLn9hs?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SHUBHAM+NURSING+HOME/data=!4m7!3m6!1s0x393fdd42afde3265:0x1bf6e75242e4bf17!8m2!3d28.0220026!4d73.2994263!16s%2Fg%2F11b7ld4089!19sChIJZTLer0LdPzkRF7_kQlLn9hs?authuser=0&hl=en&rclk=1"
@@ -7303,7 +7364,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SHUBHAM+NURSING+HOME/data=!4m7!3m6!1s0x393fdd42afde3265:0x1bf6e75242e4bf17!8m2!3d28.0220026!4d73.2994263!16s%2Fg%2F11b7ld4089!19sChIJZTLer0LdPzkRF7_kQlLn9hs?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shyam-dental-care-bikaner",
@@ -7351,7 +7413,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Shyam+Dental+care/@28.0245333,73.2989345,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd4266b5b797:0xc2dfe8b473d0edd6!8m2!3d28.0245333!4d73.2989345!16s%2Fg%2F11ggpxm54r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shyam+Dental+care/@28.0245333,73.2989345,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd4266b5b797:0xc2dfe8b473d0edd6!8m2!3d28.0245333!4d73.2989345!16s%2Fg%2F11ggpxm54r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7420,7 +7482,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shyam+Dental+care/@28.0245333,73.2989345,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd4266b5b797:0xc2dfe8b473d0edd6!8m2!3d28.0245333!4d73.2989345!16s%2Fg%2F11ggpxm54r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-city-bikaner",
@@ -7468,7 +7531,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Smile+City/@28.0068406,73.3266485,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe75d1e21346d:0x3740d19c90f84b1!8m2!3d28.0068406!4d73.3266485!16s%2Fg%2F11k6s1wk_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+City/@28.0068406,73.3266485,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe75d1e21346d:0x3740d19c90f84b1!8m2!3d28.0068406!4d73.3266485!16s%2Fg%2F11k6s1wk_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7537,7 +7600,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+City/@28.0068406,73.3266485,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe75d1e21346d:0x3740d19c90f84b1!8m2!3d28.0068406!4d73.3266485!16s%2Fg%2F11k6s1wk_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "soni-holistic-heart-lab-bikaner",
@@ -7587,7 +7651,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Soni+Holistic+Heart+Lab/@28.0128333,73.3237521,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe79496147ded:0xb74db1e36a87c97c!8m2!3d28.0128333!4d73.3237521!16s%2Fg%2F11ssz8n2k1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Soni+Holistic+Heart+Lab/@28.0128333,73.3237521,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe79496147ded:0xb74db1e36a87c97c!8m2!3d28.0128333!4d73.3237521!16s%2Fg%2F11ssz8n2k1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7653,10 +7717,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Soni+Holistic+Heart+Lab/@28.0128333,73.3237521,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe79496147ded:0xb74db1e36a87c97c!8m2!3d28.0128333!4d73.3237521!16s%2Fg%2F11ssz8n2k1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "stree-clinic-a-clinic-of-parivar-seva-sanstha-bikaner",
@@ -7705,7 +7770,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Stree+Clinic+(+A+Clinic+of+Parivar+Seva+Sanstha)/@28.0078136,73.318809,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe781460e63b5:0x9bada2ebef9685f0!8m2!3d28.0078136!4d73.318809!16s%2Fg%2F11bwpyg46_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Stree+Clinic+(+A+Clinic+of+Parivar+Seva+Sanstha)/@28.0078136,73.318809,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe781460e63b5:0x9bada2ebef9685f0!8m2!3d28.0078136!4d73.318809!16s%2Fg%2F11bwpyg46_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7774,7 +7839,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Stree+Clinic+(+A+Clinic+of+Parivar+Seva+Sanstha)/@28.0078136,73.318809,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe781460e63b5:0x9bada2ebef9685f0!8m2!3d28.0078136!4d73.318809!16s%2Fg%2F11bwpyg46_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sugni-devi-jaisraj-baid-hospital-bikaner",
@@ -7823,7 +7889,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sugni+Devi+Jaisraj+Baid+Hospital/@28.0066466,73.307943,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe78917cbcc6f:0xf74eb933256eb336!8m2!3d28.0066466!4d73.307943!16s%2Fg%2F1thbv191?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sugni+Devi+Jaisraj+Baid+Hospital/@28.0066466,73.307943,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe78917cbcc6f:0xf74eb933256eb336!8m2!3d28.0066466!4d73.307943!16s%2Fg%2F1thbv191?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7892,7 +7958,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sugni+Devi+Jaisraj+Baid+Hospital/@28.0066466,73.307943,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe78917cbcc6f:0xf74eb933256eb336!8m2!3d28.0066466!4d73.307943!16s%2Fg%2F1thbv191?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sun-shine-hospital-bikaner",
@@ -7941,7 +8008,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sun+Shine+Hospital/@27.9980903,73.3340314,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe78554dc48ad:0xd144dbe92e87d457!8m2!3d27.9980903!4d73.3340314!16s%2Fg%2F11k544vkky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sun+Shine+Hospital/@27.9980903,73.3340314,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe78554dc48ad:0xd144dbe92e87d457!8m2!3d27.9980903!4d73.3340314!16s%2Fg%2F11k544vkky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8010,7 +8077,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sun+Shine+Hospital/@27.9980903,73.3340314,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe78554dc48ad:0xd144dbe92e87d457!8m2!3d27.9980903!4d73.3340314!16s%2Fg%2F11k544vkky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "surana-nursing-home-bikaner",
@@ -8059,7 +8127,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/surana+nursing+home/@28.0041183,73.3275201,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe779b97ec5c7:0x688fb61d818b008b!8m2!3d28.0041183!4d73.3275201!16s%2Fg%2F1hm469773?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/surana+nursing+home/@28.0041183,73.3275201,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe779b97ec5c7:0x688fb61d818b008b!8m2!3d28.0041183!4d73.3275201!16s%2Fg%2F1hm469773?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8128,7 +8196,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/surana+nursing+home/@28.0041183,73.3275201,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe779b97ec5c7:0x688fb61d818b008b!8m2!3d28.0041183!4d73.3275201!16s%2Fg%2F1hm469773?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "tanveer-malawat-hospital-bikaner",
@@ -8176,7 +8245,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Tanveer+Malawat+hospital/@28.0253246,73.3304328,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd9b4d400001:0xf31cb8599e85a04e!8m2!3d28.0253246!4d73.3304328!16s%2Fg%2F11tgg7mvq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tanveer+Malawat+hospital/@28.0253246,73.3304328,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd9b4d400001:0xf31cb8599e85a04e!8m2!3d28.0253246!4d73.3304328!16s%2Fg%2F11tgg7mvq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8242,10 +8311,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tanveer+Malawat+hospital/@28.0253246,73.3304328,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd9b4d400001:0xf31cb8599e85a04e!8m2!3d28.0253246!4d73.3304328!16s%2Fg%2F11tgg7mvq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "urmila-hospital-bikaner",
@@ -8293,7 +8363,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/URMILA+HOSPITAL/@28.0384669,73.3756593,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdff379b07663:0x9b281c610775b277!8m2!3d28.0384669!4d73.3756593!16s%2Fg%2F11tsqxs3f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/URMILA+HOSPITAL/@28.0384669,73.3756593,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdff379b07663:0x9b281c610775b277!8m2!3d28.0384669!4d73.3756593!16s%2Fg%2F11tsqxs3f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8362,7 +8432,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/URMILA+HOSPITAL/@28.0384669,73.3756593,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdff379b07663:0x9b281c610775b277!8m2!3d28.0384669!4d73.3756593!16s%2Fg%2F11tsqxs3f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vardaan-hospital-bikaner",
@@ -8410,7 +8481,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Vardaan+Hospital/@28.0062781,73.3420943,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe766648d52cf:0xf1406191c44af131!8m2!3d28.0062781!4d73.3420943!16s%2Fg%2F11dx9fr1_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vardaan+Hospital/@28.0062781,73.3420943,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe766648d52cf:0xf1406191c44af131!8m2!3d28.0062781!4d73.3420943!16s%2Fg%2F11dx9fr1_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8476,10 +8547,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vardaan+Hospital/@28.0062781,73.3420943,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe766648d52cf:0xf1406191c44af131!8m2!3d28.0062781!4d73.3420943!16s%2Fg%2F11dx9fr1_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vatsalya-ivf-fertility-centre-bikaner",
@@ -8529,7 +8601,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vatsalya+IVF+Fertility+Centre/@28.0079475,73.3314027,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd729b199d2b:0x971711fba6b8ad6c!8m2!3d28.0079475!4d73.3314027!16s%2Fg%2F11scjw4_2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vatsalya+IVF+Fertility+Centre/@28.0079475,73.3314027,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd729b199d2b:0x971711fba6b8ad6c!8m2!3d28.0079475!4d73.3314027!16s%2Fg%2F11scjw4_2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8595,10 +8667,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vatsalya+IVF+Fertility+Centre/@28.0079475,73.3314027,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd729b199d2b:0x971711fba6b8ad6c!8m2!3d28.0079475!4d73.3314027!16s%2Fg%2F11scjw4_2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "wings-shrikrishna-bikaner",
@@ -8649,7 +8722,7 @@
       "811+ public reviews",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Wings+Shrikrishna/@28.0138806,73.3243014,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6c3f3ef51d:0xac398d191ee2e86f!8m2!3d28.0138806!4d73.3243014!16s%2Fg%2F11q4hv3rzk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Wings+Shrikrishna/@28.0138806,73.3243014,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6c3f3ef51d:0xac398d191ee2e86f!8m2!3d28.0138806!4d73.3243014!16s%2Fg%2F11q4hv3rzk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8718,7 +8791,8 @@
     "rating": 4.9,
     "reviews": 811,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Wings+Shrikrishna/@28.0138806,73.3243014,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdd6c3f3ef51d:0xac398d191ee2e86f!8m2!3d28.0138806!4d73.3243014!16s%2Fg%2F11q4hv3rzk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "www-drdawan-com-bikaner",
@@ -8767,7 +8841,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/www.drdawan.com/@28.0130396,73.3250524,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7dbb3cd1021:0x7b25adc551b306fb!8m2!3d28.0130396!4d73.3250524!16s%2Fg%2F11j6dnrq__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/www.drdawan.com/@28.0130396,73.3250524,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7dbb3cd1021:0x7b25adc551b306fb!8m2!3d28.0130396!4d73.3250524!16s%2Fg%2F11j6dnrq__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8836,7 +8910,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/www.drdawan.com/@28.0130396,73.3250524,17z/data=!3m1!4b1!4m6!3m5!1s0x393fe7dbb3cd1021:0x7b25adc551b306fb!8m2!3d28.0130396!4d73.3250524!16s%2Fg%2F11j6dnrq__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-clinic-root-canal-implant-center-best-dentist-in-bikaner-bikaner",
@@ -8885,7 +8960,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B6+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2(%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%9D%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%BF%F0%9D%97%AE+%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE)+-+Dental+Clinic%2FRoot+Canal%2FImplant+Center%2FBest+Dentist+in+Bikaner/@28.0305056,73.3740957,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdf0ad1e7422b:0xd1f6ad2e201fa4c4!8m2!3d28.0305056!4d73.3740957!16s%2Fg%2F11pzbzbr2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B6+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2(%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%9D%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%BF%F0%9D%97%AE+%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE)+-+Dental+Clinic%2FRoot+Canal%2FImplant+Center%2FBest+Dentist+in+Bikaner/@28.0305056,73.3740957,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdf0ad1e7422b:0xd1f6ad2e201fa4c4!8m2!3d28.0305056!4d73.3740957!16s%2Fg%2F11pzbzbr2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8954,6 +9029,7 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B6+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2(%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%9D%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%BF%F0%9D%97%AE+%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE)+-+Dental+Clinic%2FRoot+Canal%2FImplant+Center%2FBest+Dentist+in+Bikaner/@28.0305056,73.3740957,17z/data=!3m1!4b1!4m6!3m5!1s0x393fdf0ad1e7422b:0xd1f6ad2e201fa4c4!8m2!3d28.0305056!4d73.3740957!16s%2Fg%2F11pzbzbr2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

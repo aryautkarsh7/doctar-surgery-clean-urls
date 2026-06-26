@@ -47,7 +47,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aanchal-+Best+Hearing+Care+Centre+in+Cherthala/@9.6858376,76.343871,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d652b69782b:0xad747b419c89050a!8m2!3d9.6858376!4d76.343871!16s%2Fg%2F11y3dnf51k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aanchal-+Best+Hearing+Care+Centre+in+Cherthala/@9.6858376,76.343871,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d652b69782b:0xad747b419c89050a!8m2!3d9.6858376!4d76.343871!16s%2Fg%2F11y3dnf51k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -116,7 +116,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aanchal-+Best+Hearing+Care+Centre+in+Cherthala/@9.6858376,76.343871,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d652b69782b:0xad747b419c89050a!8m2!3d9.6858376!4d76.343871!16s%2Fg%2F11y3dnf51k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aawaaz-speech-and-hearing-care-centre-cherthala",
@@ -166,7 +167,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Aawaaz+Speech+and+Hearing+Care+Centre/@9.6799301,76.3397033,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c483d3c8b8f:0x55f89dd1fc089d5!8m2!3d9.6799301!4d76.3397033!16s%2Fg%2F11c1n6p5gh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aawaaz+Speech+and+Hearing+Care+Centre/@9.6799301,76.3397033,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c483d3c8b8f:0x55f89dd1fc089d5!8m2!3d9.6799301!4d76.3397033!16s%2Fg%2F11c1n6p5gh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -235,7 +236,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aawaaz+Speech+and+Hearing+Care+Centre/@9.6799301,76.3397033,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c483d3c8b8f:0x55f89dd1fc089d5!8m2!3d9.6799301!4d76.3397033!16s%2Fg%2F11c1n6p5gh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "adamukkath-dental-clinic-cherthala",
@@ -283,7 +285,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Adamukkath+Dental+Clinic/@9.6899916,76.3396026,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d56b1cee4d7:0x7842a50c869215e9!8m2!3d9.6899916!4d76.3396026!16s%2Fg%2F11rxht7xpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adamukkath+Dental+Clinic/@9.6899916,76.3396026,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d56b1cee4d7:0x7842a50c869215e9!8m2!3d9.6899916!4d76.3396026!16s%2Fg%2F11rxht7xpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -349,10 +351,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Adamukkath+Dental+Clinic/@9.6899916,76.3396026,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d56b1cee4d7:0x7842a50c869215e9!8m2!3d9.6899916!4d76.3396026!16s%2Fg%2F11rxht7xpp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "adwaya-ayurveda-cherthala",
@@ -401,7 +404,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Adwaya+Ayurveda/@9.6843348,76.3343959,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d9679faddf3:0xfa680428e541d63d!8m2!3d9.6843348!4d76.3343959!16s%2Fg%2F11mdpqvk70?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Adwaya+Ayurveda/@9.6843348,76.3343959,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d9679faddf3:0xfa680428e541d63d!8m2!3d9.6843348!4d76.3343959!16s%2Fg%2F11mdpqvk70?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -470,7 +473,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Adwaya+Ayurveda/@9.6843348,76.3343959,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d9679faddf3:0xfa680428e541d63d!8m2!3d9.6843348!4d76.3343959!16s%2Fg%2F11mdpqvk70?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "al-shifa-dental-care-alappuzha",
@@ -518,7 +522,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/AL+SHIFA+DENTAL+CARE/@9.8550308,76.3260042,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087104b104b799:0x67b864f9b295a8f4!8m2!3d9.8550308!4d76.3260042!16s%2Fg%2F11f1cjq67h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AL+SHIFA+DENTAL+CARE/@9.8550308,76.3260042,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087104b104b799:0x67b864f9b295a8f4!8m2!3d9.8550308!4d76.3260042!16s%2Fg%2F11f1cjq67h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -584,10 +588,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AL+SHIFA+DENTAL+CARE/@9.8550308,76.3260042,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087104b104b799:0x67b864f9b295a8f4!8m2!3d9.8550308!4d76.3260042!16s%2Fg%2F11f1cjq67h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "anand-dental-clinic-cherthala",
@@ -635,7 +640,7 @@
     "metrics": [
       "Google rating 3.9"
     ],
-    "image": "https://www.google.com/maps/place/Anand+Dental+Clinic/@9.6886143,76.3409123,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0887f09765b8a7:0x98553fcaa5c1f40!8m2!3d9.6886143!4d76.3409123!16s%2Fg%2F11wbfgklk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Anand+Dental+Clinic/@9.6886143,76.3409123,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0887f09765b8a7:0x98553fcaa5c1f40!8m2!3d9.6886143!4d76.3409123!16s%2Fg%2F11wbfgklk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -704,7 +709,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Anand+Dental+Clinic/@9.6886143,76.3409123,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0887f09765b8a7:0x98553fcaa5c1f40!8m2!3d9.6886143!4d76.3409123!16s%2Fg%2F11wbfgklk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aspire-dental-care-cherthala",
@@ -752,7 +758,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Aspire+Dental+Care/@9.6808777,76.3399775,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dd778e6c479:0x5f45865c140fabca!8m2!3d9.6808777!4d76.3399775!16s%2Fg%2F11hdsc5_21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aspire+Dental+Care/@9.6808777,76.3399775,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dd778e6c479:0x5f45865c140fabca!8m2!3d9.6808777!4d76.3399775!16s%2Fg%2F11hdsc5_21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -821,7 +827,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aspire+Dental+Care/@9.6808777,76.3399775,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dd778e6c479:0x5f45865c140fabca!8m2!3d9.6808777!4d76.3399775!16s%2Fg%2F11hdsc5_21?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aswathi-dental-clinic-cherthala",
@@ -869,7 +876,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Aswathi+Dental+Clinic/@9.7580699,76.3183313,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087a5542fa7013:0x6305630fc63becb0!8m2!3d9.7580699!4d76.3183313!16s%2Fg%2F1hc371mys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aswathi+Dental+Clinic/@9.7580699,76.3183313,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087a5542fa7013:0x6305630fc63becb0!8m2!3d9.7580699!4d76.3183313!16s%2Fg%2F1hc371mys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -938,7 +945,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aswathi+Dental+Clinic/@9.7580699,76.3183313,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087a5542fa7013:0x6305630fc63becb0!8m2!3d9.7580699!4d76.3183313!16s%2Fg%2F1hc371mys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayur-slim-beauty-cherthala",
@@ -985,7 +993,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Ayur+Slim+Beauty/@9.6876338,76.3415457,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c3f45f635f1:0xd184ba6d6f8293f6!8m2!3d9.6876338!4d76.3415457!16s%2Fg%2F1tpf5kxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ayur+Slim+Beauty/@9.6876338,76.3415457,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c3f45f635f1:0xd184ba6d6f8293f6!8m2!3d9.6876338!4d76.3415457!16s%2Fg%2F1tpf5kxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1051,10 +1059,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ayur+Slim+Beauty/@9.6876338,76.3415457,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c3f45f635f1:0xd184ba6d6f8293f6!8m2!3d9.6876338!4d76.3415457!16s%2Fg%2F1tpf5kxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhavani-dental-clinic-nedumprakkad",
@@ -1102,7 +1111,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Bhavani+Dental+Clinic/@9.7065316,76.3177255,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dba8abf4d1f:0x4ce729b7712eef6f!8m2!3d9.7065316!4d76.3177255!16s%2Fg%2F11swpmkm_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhavani+Dental+Clinic/@9.7065316,76.3177255,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dba8abf4d1f:0x4ce729b7712eef6f!8m2!3d9.7065316!4d76.3177255!16s%2Fg%2F11swpmkm_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1168,10 +1177,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhavani+Dental+Clinic/@9.7065316,76.3177255,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dba8abf4d1f:0x4ce729b7712eef6f!8m2!3d9.7065316!4d76.3177255!16s%2Fg%2F11swpmkm_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bliss-fertility-hospital-kottayam",
@@ -1221,7 +1231,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Bliss+Fertility+Hospital/@9.5909329,76.5609455,17z/data=!3m1!4b1!4m6!3m5!1s0x3b062dd4675d2439:0x93f76ba777ce873b!8m2!3d9.5909329!4d76.5609455!16s%2Fg%2F11h55ws12s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bliss+Fertility+Hospital/@9.5909329,76.5609455,17z/data=!3m1!4b1!4m6!3m5!1s0x3b062dd4675d2439:0x93f76ba777ce873b!8m2!3d9.5909329!4d76.5609455!16s%2Fg%2F11h55ws12s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1290,7 +1300,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bliss+Fertility+Hospital/@9.5909329,76.5609455,17z/data=!3m1!4b1!4m6!3m5!1s0x3b062dd4675d2439:0x93f76ba777ce873b!8m2!3d9.5909329!4d76.5609455!16s%2Fg%2F11h55ws12s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "city-dental-care-vaikom",
@@ -1338,7 +1349,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/City+Dental+Care/@9.7514442,76.390937,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08790db48d1b63:0x5657d6404a0ad0b2!8m2!3d9.7514442!4d76.390937!16s%2Fg%2F11c327mrbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/City+Dental+Care/@9.7514442,76.390937,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08790db48d1b63:0x5657d6404a0ad0b2!8m2!3d9.7514442!4d76.390937!16s%2Fg%2F11c327mrbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1404,10 +1415,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/City+Dental+Care/@9.7514442,76.390937,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08790db48d1b63:0x5657d6404a0ad0b2!8m2!3d9.7514442!4d76.390937!16s%2Fg%2F11c327mrbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "crown-dentistry-alappuzha",
@@ -1455,7 +1467,7 @@
     "metrics": [
       "Google rating 4.6"
     ],
-    "image": "https://www.google.com/maps/place/Crown+Dentistry/@9.6394291,76.3714334,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087fa4eba4f7e9:0x267563c61cee521c!8m2!3d9.6394291!4d76.3714334!16s%2Fg%2F11w_kwsyv7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Crown+Dentistry/@9.6394291,76.3714334,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087fa4eba4f7e9:0x267563c61cee521c!8m2!3d9.6394291!4d76.3714334!16s%2Fg%2F11w_kwsyv7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1524,7 +1536,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Crown+Dentistry/@9.6394291,76.3714334,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087fa4eba4f7e9:0x267563c61cee521c!8m2!3d9.6394291!4d76.3714334!16s%2Fg%2F11w_kwsyv7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "crystal-dental-care-cherthala",
@@ -1573,7 +1586,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Crystal+Dental+Care/@9.6851446,76.3025207,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087cee85af9043:0xbc347458a7c8d6c3!8m2!3d9.6851446!4d76.3025207!16s%2Fg%2F11ggb8j8zc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Crystal+Dental+Care/@9.6851446,76.3025207,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087cee85af9043:0xbc347458a7c8d6c3!8m2!3d9.6851446!4d76.3025207!16s%2Fg%2F11ggb8j8zc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1639,10 +1652,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Crystal+Dental+Care/@9.6851446,76.3025207,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087cee85af9043:0xbc347458a7c8d6c3!8m2!3d9.6851446!4d76.3025207!16s%2Fg%2F11ggb8j8zc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "d-s-r-memorial-oldage-home-and-palliative-care-hospital-cherthala",
@@ -1692,7 +1706,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/D+S+R+Memorial+Oldage+Home+and+Palliative+care+hospital/@9.6558271,76.3314547,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d8e4e61a62f:0x594aef5affcf46e9!8m2!3d9.6558271!4d76.3314547!16s%2Fg%2F11h6cr_87v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D+S+R+Memorial+Oldage+Home+and+Palliative+care+hospital/@9.6558271,76.3314547,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d8e4e61a62f:0x594aef5affcf46e9!8m2!3d9.6558271!4d76.3314547!16s%2Fg%2F11h6cr_87v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1761,7 +1775,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/D+S+R+Memorial+Oldage+Home+and+Palliative+care+hospital/@9.6558271,76.3314547,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d8e4e61a62f:0x594aef5affcf46e9!8m2!3d9.6558271!4d76.3314547!16s%2Fg%2F11h6cr_87v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "d-care-dental-clinic-cherthala",
@@ -1809,7 +1824,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/D-Care+Dental+Clinic/@9.687757,76.3251032,17z/data=!3m1!4b1!4m6!3m5!1s0x3b086d27a35b777f:0xf1edcb2ca6ab2627!8m2!3d9.687757!4d76.3251032!16s%2Fg%2F11pkmxkm07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/D-Care+Dental+Clinic/@9.687757,76.3251032,17z/data=!3m1!4b1!4m6!3m5!1s0x3b086d27a35b777f:0xf1edcb2ca6ab2627!8m2!3d9.687757!4d76.3251032!16s%2Fg%2F11pkmxkm07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1875,10 +1890,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/D-Care+Dental+Clinic/@9.687757,76.3251032,17z/data=!3m1!4b1!4m6!3m5!1s0x3b086d27a35b777f:0xf1edcb2ca6ab2627!8m2!3d9.687757!4d76.3251032!16s%2Fg%2F11pkmxkm07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ddrc-agilus-diagnostics-cherthala-alappuzha-cherthala",
@@ -1928,7 +1944,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DDRC+Agilus+Diagnostics+-+Cherthala,+Alappuzha/@9.6808125,76.3414375,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c37efd0e9eb:0xe3bb4a8bad6c68ae!8m2!3d9.6808125!4d76.3414375!16s%2Fg%2F11b_2kq1qd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DDRC+Agilus+Diagnostics+-+Cherthala,+Alappuzha/@9.6808125,76.3414375,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c37efd0e9eb:0xe3bb4a8bad6c68ae!8m2!3d9.6808125!4d76.3414375!16s%2Fg%2F11b_2kq1qd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1994,10 +2010,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DDRC+Agilus+Diagnostics+-+Cherthala,+Alappuzha/@9.6808125,76.3414375,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c37efd0e9eb:0xe3bb4a8bad6c68ae!8m2!3d9.6808125!4d76.3414375!16s%2Fg%2F11b_2kq1qd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "deepa-clinic-cherthala",
@@ -2045,7 +2062,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Deepa+Clinic/@9.6859314,76.3377488,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c46df58020d:0xaa98aaa1cf060755!8m2!3d9.6859314!4d76.3377488!16s%2Fg%2F11c59_j_48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Deepa+Clinic/@9.6859314,76.3377488,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c46df58020d:0xaa98aaa1cf060755!8m2!3d9.6859314!4d76.3377488!16s%2Fg%2F11c59_j_48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2111,10 +2128,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Deepa+Clinic/@9.6859314,76.3377488,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c46df58020d:0xaa98aaa1cf060755!8m2!3d9.6859314!4d76.3377488!16s%2Fg%2F11c59_j_48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dental-cosmetics-cherthala",
@@ -2163,7 +2181,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Cosmetics/@9.6922084,76.3398464,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d4ec19f5cb5:0xe41ca97607abe30f!8m2!3d9.6922084!4d76.3398464!16s%2Fg%2F11g1mvkcf2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Cosmetics/@9.6922084,76.3398464,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d4ec19f5cb5:0xe41ca97607abe30f!8m2!3d9.6922084!4d76.3398464!16s%2Fg%2F11g1mvkcf2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2229,10 +2247,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Cosmetics/@9.6922084,76.3398464,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d4ec19f5cb5:0xe41ca97607abe30f!8m2!3d9.6922084!4d76.3398464!16s%2Fg%2F11g1mvkcf2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dentlife-dental-centre-cherthala",
@@ -2280,7 +2299,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Dentlife+Dental+Centre/@9.676079,76.340399,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d43e31194d1:0xede13caeb927403f!8m2!3d9.676079!4d76.340399!16s%2Fg%2F11gk7jspx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dentlife+Dental+Centre/@9.676079,76.340399,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d43e31194d1:0xede13caeb927403f!8m2!3d9.676079!4d76.340399!16s%2Fg%2F11gk7jspx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2349,7 +2368,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dentlife+Dental+Centre/@9.676079,76.340399,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d43e31194d1:0xede13caeb927403f!8m2!3d9.676079!4d76.340399!16s%2Fg%2F11gk7jspx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "dolce-estetica-cherthala",
@@ -2398,7 +2418,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Dolce+Estetica/@9.6904291,76.3434761,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087db7aa9a0495:0xcf4f301be7b02f1c!8m2!3d9.6904291!4d76.3434761!16s%2Fg%2F11x22njdw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dolce+Estetica/@9.6904291,76.3434761,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087db7aa9a0495:0xcf4f301be7b02f1c!8m2!3d9.6904291!4d76.3434761!16s%2Fg%2F11x22njdw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2467,7 +2487,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dolce+Estetica/@9.6904291,76.3434761,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087db7aa9a0495:0xcf4f301be7b02f1c!8m2!3d9.6904291!4d76.3434761!16s%2Fg%2F11x22njdw0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "e-s-i-dispensary-cherthala-cherthala",
@@ -2516,7 +2537,7 @@
       "Google rating 4.1",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/E+S+I+Dispensary+Cherthala/@9.6740867,76.3360014,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c4b97f13d53:0xbd2b29bcfa8e80b!8m2!3d9.6740867!4d76.3360014!16s%2Fg%2F11fx9j9ykw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/E+S+I+Dispensary+Cherthala/@9.6740867,76.3360014,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c4b97f13d53:0xbd2b29bcfa8e80b!8m2!3d9.6740867!4d76.3360014!16s%2Fg%2F11fx9j9ykw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2585,7 +2606,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/E+S+I+Dispensary+Cherthala/@9.6740867,76.3360014,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c4b97f13d53:0xbd2b29bcfa8e80b!8m2!3d9.6740867!4d76.3360014!16s%2Fg%2F11fx9j9ykw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fathima-clinic-cherthala-cherthala",
@@ -2633,7 +2655,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Fathima+clinic+cherthala/@9.6851651,76.3500195,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d00789c5f87:0xa33519cc0b3c9c9b!8m2!3d9.6851651!4d76.3500195!16s%2Fg%2F11w1k13z25?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fathima+clinic+cherthala/@9.6851651,76.3500195,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d00789c5f87:0xa33519cc0b3c9c9b!8m2!3d9.6851651!4d76.3500195!16s%2Fg%2F11w1k13z25?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2699,10 +2721,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fathima+clinic+cherthala/@9.6851651,76.3500195,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d00789c5f87:0xa33519cc0b3c9c9b!8m2!3d9.6851651!4d76.3500195!16s%2Fg%2F11w1k13z25?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "focus-eye-hospital-cherthala-cherthala",
@@ -2751,7 +2774,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/FOCUS+EYE+HOSPITAL+CHERTHALA/@9.6778125,76.3406875,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d55658f1885:0x6c31b268a4be093!8m2!3d9.6778125!4d76.3406875!16s%2Fg%2F11rmq70xc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/FOCUS+EYE+HOSPITAL+CHERTHALA/@9.6778125,76.3406875,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d55658f1885:0x6c31b268a4be093!8m2!3d9.6778125!4d76.3406875!16s%2Fg%2F11rmq70xc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2820,7 +2843,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/FOCUS+EYE+HOSPITAL+CHERTHALA/@9.6778125,76.3406875,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d55658f1885:0x6c31b268a4be093!8m2!3d9.6778125!4d76.3406875!16s%2Fg%2F11rmq70xc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "fortune-physiotherapy-clinic-cherthala",
@@ -2869,7 +2893,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Fortune+Physiotherapy+Clinic/@9.6852724,76.3506134,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087ddddc813aff:0x87665aa515a2bbf9!8m2!3d9.6852724!4d76.3506134!16s%2Fg%2F11mrp0qvdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Fortune+Physiotherapy+Clinic/@9.6852724,76.3506134,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087ddddc813aff:0x87665aa515a2bbf9!8m2!3d9.6852724!4d76.3506134!16s%2Fg%2F11mrp0qvdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2935,10 +2959,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Fortune+Physiotherapy+Clinic/@9.6852724,76.3506134,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087ddddc813aff:0x87665aa515a2bbf9!8m2!3d9.6852724!4d76.3506134!16s%2Fg%2F11mrp0qvdb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "gowtham-ent-speciality-and-general-clinic-cherthala",
@@ -2987,7 +3012,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Gowtham+Ent+Speciality+%26General+Clinic/@9.6413125,76.3549375,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d34fc9bc393:0xb0eae858daf48222!8m2!3d9.6413125!4d76.3549375!16s%2Fg%2F11pcxjpr7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Gowtham+Ent+Speciality+%26General+Clinic/@9.6413125,76.3549375,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d34fc9bc393:0xb0eae858daf48222!8m2!3d9.6413125!4d76.3549375!16s%2Fg%2F11pcxjpr7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3056,7 +3081,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Gowtham+Ent+Speciality+%26General+Clinic/@9.6413125,76.3549375,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d34fc9bc393:0xb0eae858daf48222!8m2!3d9.6413125!4d76.3549375!16s%2Fg%2F11pcxjpr7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "health-plus-homoeo-clinic-cherthala",
@@ -3104,7 +3130,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Health+Plus+Homoeo+Clinic/@9.7013778,76.3176184,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d63a6ccea41:0x4f380d6d6bbb5998!8m2!3d9.7013778!4d76.3176184!16s%2Fg%2F11sjgl2w1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Health+Plus+Homoeo+Clinic/@9.7013778,76.3176184,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d63a6ccea41:0x4f380d6d6bbb5998!8m2!3d9.7013778!4d76.3176184!16s%2Fg%2F11sjgl2w1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3170,10 +3196,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Health+Plus+Homoeo+Clinic/@9.7013778,76.3176184,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d63a6ccea41:0x4f380d6d6bbb5998!8m2!3d9.7013778!4d76.3176184!16s%2Fg%2F11sjgl2w1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "holy-cross-hospital-cherthala",
@@ -3221,7 +3248,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Holy+Cross+Hospital/@9.7033187,76.3174684,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c7d5f3222e5:0xd3475b7e6ce0f2e1!8m2!3d9.7033187!4d76.3174684!16s%2Fg%2F1tqcjn7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Holy+Cross+Hospital/@9.7033187,76.3174684,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c7d5f3222e5:0xd3475b7e6ce0f2e1!8m2!3d9.7033187!4d76.3174684!16s%2Fg%2F1tqcjn7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3290,7 +3317,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Holy+Cross+Hospital/@9.7033187,76.3174684,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c7d5f3222e5:0xd3475b7e6ce0f2e1!8m2!3d9.7033187!4d76.3174684!16s%2Fg%2F1tqcjn7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ikshana-ayurveda-eye-and-ent-speciality-clinic-cherthala",
@@ -3340,7 +3368,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/IKSHANA+Ayurveda+Eye+and+ENT+Speciality+Clinic/@9.6872579,76.3333564,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d9bc80888c3:0x26bc54f61ee10552!8m2!3d9.6872579!4d76.3333564!16s%2Fg%2F11stfb07xc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/IKSHANA+Ayurveda+Eye+and+ENT+Speciality+Clinic/@9.6872579,76.3333564,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d9bc80888c3:0x26bc54f61ee10552!8m2!3d9.6872579!4d76.3333564!16s%2Fg%2F11stfb07xc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3406,10 +3434,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/IKSHANA+Ayurveda+Eye+and+ENT+Speciality+Clinic/@9.6872579,76.3333564,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d9bc80888c3:0x26bc54f61ee10552!8m2!3d9.6872579!4d76.3333564!16s%2Fg%2F11stfb07xc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "indo-american-hospital-maravanthuruthu",
@@ -3458,7 +3487,7 @@
       "Google rating 3.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Indo+American+Hospital/@9.791175,76.377085,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0879ef92ec9559:0xc003ec5891bb9af2!8m2!3d9.791175!4d76.377085!16s%2Fg%2F11r9zq7cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Indo+American+Hospital/@9.791175,76.377085,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0879ef92ec9559:0xc003ec5891bb9af2!8m2!3d9.791175!4d76.377085!16s%2Fg%2F11r9zq7cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3527,7 +3556,8 @@
     "rating": 3.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Indo+American+Hospital/@9.791175,76.377085,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0879ef92ec9559:0xc003ec5891bb9af2!8m2!3d9.791175!4d76.377085!16s%2Fg%2F11r9zq7cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "karunya-clinic-muhamma-cherthala",
@@ -3575,7 +3605,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/KARUNYA+Clinic+Muhamma/@9.6075752,76.3448538,17z/data=!3m1!4b1!4m6!3m5!1s0x3b088755aef4ac91:0x98871d75e7902ad4!8m2!3d9.6075752!4d76.3448538!16s%2Fg%2F11ghxpw2zd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KARUNYA+Clinic+Muhamma/@9.6075752,76.3448538,17z/data=!3m1!4b1!4m6!3m5!1s0x3b088755aef4ac91:0x98871d75e7902ad4!8m2!3d9.6075752!4d76.3448538!16s%2Fg%2F11ghxpw2zd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3644,7 +3674,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KARUNYA+Clinic+Muhamma/@9.6075752,76.3448538,17z/data=!3m1!4b1!4m6!3m5!1s0x3b088755aef4ac91:0x98871d75e7902ad4!8m2!3d9.6075752!4d76.3448538!16s%2Fg%2F11ghxpw2zd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kevin-s-dental-clinic-cherthala",
@@ -3692,7 +3723,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Kevin's+Dental+Clinic/@9.6899386,76.3367264,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c41ba5e5915:0xcc02979f28aacb08!8m2!3d9.6899386!4d76.3367264!16s%2Fg%2F1hm4fyctp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kevin's+Dental+Clinic/@9.6899386,76.3367264,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c41ba5e5915:0xcc02979f28aacb08!8m2!3d9.6899386!4d76.3367264!16s%2Fg%2F1hm4fyctp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3758,10 +3789,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kevin's+Dental+Clinic/@9.6899386,76.3367264,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c41ba5e5915:0xcc02979f28aacb08!8m2!3d9.6899386!4d76.3367264!16s%2Fg%2F1hm4fyctp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kinder-women-s-hospital-and-fertility-centre-cherthala",
@@ -3812,7 +3844,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kinder+Women's+Hospital+And+Fertility+Centre/@9.6633545,76.3410289,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dc995313659:0x29153fc8908a0618!8m2!3d9.6633545!4d76.3410289!16s%2Fg%2F1tkmkzx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kinder+Women's+Hospital+And+Fertility+Centre/@9.6633545,76.3410289,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dc995313659:0x29153fc8908a0618!8m2!3d9.6633545!4d76.3410289!16s%2Fg%2F1tkmkzx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3881,7 +3913,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kinder+Women's+Hospital+And+Fertility+Centre/@9.6633545,76.3410289,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dc995313659:0x29153fc8908a0618!8m2!3d9.6633545!4d76.3410289!16s%2Fg%2F1tkmkzx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kuncharath-dental-care-panavally",
@@ -3931,7 +3964,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Kuncharath+Dental+Care/@9.8108897,76.3526288,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0870af8eed459d:0x280cafb409c65942!8m2!3d9.8108897!4d76.3526288!16s%2Fg%2F11c6ltwn8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kuncharath+Dental+Care/@9.8108897,76.3526288,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0870af8eed459d:0x280cafb409c65942!8m2!3d9.8108897!4d76.3526288!16s%2Fg%2F11c6ltwn8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4000,7 +4033,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kuncharath+Dental+Care/@9.8108897,76.3526288,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0870af8eed459d:0x280cafb409c65942!8m2!3d9.8108897!4d76.3526288!16s%2Fg%2F11c6ltwn8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kvm-centre-forinner-peace-and-deaddiction-centre-cherthala",
@@ -4048,7 +4082,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/KVM+CENTRE+FORINNER+PEACE+AND+DEADDICTION+CENTRE/@9.6657835,76.3421107,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dc607e163c1:0x4fe87714c0d8be59!8m2!3d9.6657835!4d76.3421107!16s%2Fg%2F11qldr6h74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KVM+CENTRE+FORINNER+PEACE+AND+DEADDICTION+CENTRE/@9.6657835,76.3421107,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dc607e163c1:0x4fe87714c0d8be59!8m2!3d9.6657835!4d76.3421107!16s%2Fg%2F11qldr6h74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4114,10 +4148,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KVM+CENTRE+FORINNER+PEACE+AND+DEADDICTION+CENTRE/@9.6657835,76.3421107,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dc607e163c1:0x4fe87714c0d8be59!8m2!3d9.6657835!4d76.3421107!16s%2Fg%2F11qldr6h74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kvm-hospital-information-centre-cherthala",
@@ -4166,7 +4201,7 @@
     "metrics": [
       "Google rating 3.1"
     ],
-    "image": "https://www.google.com/maps/place/KVM+Hospital+Information+Centre/@9.6857826,76.3426162,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c38c2e2908d:0xaef4398dff1affe0!8m2!3d9.6857826!4d76.3426162!16s%2Fg%2F11c4z_50x8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KVM+Hospital+Information+Centre/@9.6857826,76.3426162,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c38c2e2908d:0xaef4398dff1affe0!8m2!3d9.6857826!4d76.3426162!16s%2Fg%2F11c4z_50x8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4235,7 +4270,8 @@
     "rating": 3.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KVM+Hospital+Information+Centre/@9.6857826,76.3426162,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c38c2e2908d:0xaef4398dff1affe0!8m2!3d9.6857826!4d76.3426162!16s%2Fg%2F11c4z_50x8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "matha-clinic-cherthala",
@@ -4283,7 +4319,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Matha+Clinic/@9.6859389,76.2983993,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d597f59939b:0x2ef73eba4a1461bc!8m2!3d9.6859389!4d76.2983993!16s%2Fg%2F11vhf454nw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matha+Clinic/@9.6859389,76.2983993,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d597f59939b:0x2ef73eba4a1461bc!8m2!3d9.6859389!4d76.2983993!16s%2Fg%2F11vhf454nw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4352,7 +4388,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Matha+Clinic/@9.6859389,76.2983993,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d597f59939b:0x2ef73eba4a1461bc!8m2!3d9.6859389!4d76.2983993!16s%2Fg%2F11vhf454nw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "matha-dental-clinic-cherthala",
@@ -4400,7 +4437,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Matha+Dental+Clinic/@9.7995755,76.3541189,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087a07afb6744f:0xe5602ce2d0a97465!8m2!3d9.7995755!4d76.3541189!16s%2Fg%2F11f400n9n5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Matha+Dental+Clinic/@9.7995755,76.3541189,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087a07afb6744f:0xe5602ce2d0a97465!8m2!3d9.7995755!4d76.3541189!16s%2Fg%2F11f400n9n5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4469,7 +4506,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Matha+Dental+Clinic/@9.7995755,76.3541189,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087a07afb6744f:0xe5602ce2d0a97465!8m2!3d9.7995755!4d76.3541189!16s%2Fg%2F11f400n9n5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mayo-dental-clinic-and-orthodontic-centre-cherthala",
@@ -4518,7 +4556,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Mayo+Dental+Clinic+and+Orthodontic+Centre/@9.6838529,76.3425741,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c38505b112d:0x99d538cc8f4c70c1!8m2!3d9.6838529!4d76.3425741!16s%2Fg%2F11clymj_v3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mayo+Dental+Clinic+and+Orthodontic+Centre/@9.6838529,76.3425741,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c38505b112d:0x99d538cc8f4c70c1!8m2!3d9.6838529!4d76.3425741!16s%2Fg%2F11clymj_v3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4584,10 +4622,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mayo+Dental+Clinic+and+Orthodontic+Centre/@9.6838529,76.3425741,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c38505b112d:0x99d538cc8f4c70c1!8m2!3d9.6838529!4d76.3425741!16s%2Fg%2F11clymj_v3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medicity-family-clinic-cherthala",
@@ -4636,7 +4675,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Medicity+family+clinic/@9.6817408,76.3632046,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dd912366849:0xaa8c5c849089f440!8m2!3d9.6817408!4d76.3632046!16s%2Fg%2F11l6t0r81_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Medicity+family+clinic/@9.6817408,76.3632046,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dd912366849:0xaa8c5c849089f440!8m2!3d9.6817408!4d76.3632046!16s%2Fg%2F11l6t0r81_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4705,7 +4744,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Medicity+family+clinic/@9.6817408,76.3632046,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dd912366849:0xaa8c5c849089f440!8m2!3d9.6817408!4d76.3632046!16s%2Fg%2F11l6t0r81_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mjkm-cancer-hospital-prathyasa-cherthala",
@@ -4754,7 +4794,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MJKM+Cancer+Hospital+(Prathyasa)/@9.6646454,76.338918,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087db616fdfb7f:0x6e9e272866db3969!8m2!3d9.6646454!4d76.338918!16s%2Fg%2F11clvn9v_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MJKM+Cancer+Hospital+(Prathyasa)/@9.6646454,76.338918,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087db616fdfb7f:0x6e9e272866db3969!8m2!3d9.6646454!4d76.338918!16s%2Fg%2F11clvn9v_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4820,10 +4860,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MJKM+Cancer+Hospital+(Prathyasa)/@9.6646454,76.338918,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087db616fdfb7f:0x6e9e272866db3969!8m2!3d9.6646454!4d76.338918!16s%2Fg%2F11clvn9v_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "olive-dental-care-kadakkarappally-cherthala",
@@ -4871,7 +4912,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Olive+dental+care+,kadakkarappally/@9.7059903,76.302778,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d4bff20cdef:0xeae301af563b1a24!8m2!3d9.7059903!4d76.302778!16s%2Fg%2F11s9vk22nq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Olive+dental+care+,kadakkarappally/@9.7059903,76.302778,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d4bff20cdef:0xeae301af563b1a24!8m2!3d9.7059903!4d76.302778!16s%2Fg%2F11s9vk22nq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -4940,7 +4981,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Olive+dental+care+,kadakkarappally/@9.7059903,76.302778,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d4bff20cdef:0xeae301af563b1a24!8m2!3d9.7059903!4d76.302778!16s%2Fg%2F11s9vk22nq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "olive-medicals-cherthala",
@@ -4989,7 +5031,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/OLIVE+MEDICALS/@9.6808793,76.3399745,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087df133bb4a2f:0x17f21cf382e5c58!8m2!3d9.6808793!4d76.3399745!16s%2Fg%2F11h1ywmh25?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/OLIVE+MEDICALS/@9.6808793,76.3399745,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087df133bb4a2f:0x17f21cf382e5c58!8m2!3d9.6808793!4d76.3399745!16s%2Fg%2F11h1ywmh25?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5058,7 +5100,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/OLIVE+MEDICALS/@9.6808793,76.3399745,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087df133bb4a2f:0x17f21cf382e5c58!8m2!3d9.6808793!4d76.3399745!16s%2Fg%2F11h1ywmh25?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "pan-advanced-specialty-dental-clinic-implant-center-and-aligner-provider-cherthala",
@@ -5108,7 +5151,7 @@
       "Google rating 4.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Pan+Advanced+Specialty+Dental+Clinic+(Implant+center+and+Aligner+Provider)/@9.6555709,76.3375518,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087de9dd9090f3:0xe0d1abf7161436a4!8m2!3d9.6555709!4d76.3375518!16s%2Fg%2F11shdnl94p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Pan+Advanced+Specialty+Dental+Clinic+(Implant+center+and+Aligner+Provider)/@9.6555709,76.3375518,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087de9dd9090f3:0xe0d1abf7161436a4!8m2!3d9.6555709!4d76.3375518!16s%2Fg%2F11shdnl94p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5177,7 +5220,8 @@
     "rating": 4.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Pan+Advanced+Specialty+Dental+Clinic+(Implant+center+and+Aligner+Provider)/@9.6555709,76.3375518,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087de9dd9090f3:0xe0d1abf7161436a4!8m2!3d9.6555709!4d76.3375518!16s%2Fg%2F11shdnl94p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prashanthi-super-clinic-cherthala",
@@ -5227,7 +5271,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Prashanthi+Super+Clinic/@9.6759925,76.3403809,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d1ca922edad:0x3d283d0ae67dba4a!8m2!3d9.6759925!4d76.3403809!16s%2Fg%2F11bztj5rkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prashanthi+Super+Clinic/@9.6759925,76.3403809,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d1ca922edad:0x3d283d0ae67dba4a!8m2!3d9.6759925!4d76.3403809!16s%2Fg%2F11bztj5rkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5293,10 +5337,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prashanthi+Super+Clinic/@9.6759925,76.3403809,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d1ca922edad:0x3d283d0ae67dba4a!8m2!3d9.6759925!4d76.3403809!16s%2Fg%2F11bztj5rkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prathyasa-cancer-care-center-cherthala",
@@ -5346,7 +5391,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Prathyasa+Cancer+Care+Center/@9.6645448,76.3394616,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087db66ca8946d:0x326fcf0d52e9b996!8m2!3d9.6645448!4d76.3394616!16s%2Fg%2F1tdghpsf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prathyasa+Cancer+Care+Center/@9.6645448,76.3394616,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087db66ca8946d:0x326fcf0d52e9b996!8m2!3d9.6645448!4d76.3394616!16s%2Fg%2F1tdghpsf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5415,7 +5460,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prathyasa+Cancer+Care+Center/@9.6645448,76.3394616,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087db66ca8946d:0x326fcf0d52e9b996!8m2!3d9.6645448!4d76.3394616!16s%2Fg%2F1tdghpsf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "providence-hospital-thumpoly-alappuzha-alappuzha",
@@ -5464,7 +5510,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Providence+Hospital,+Thumpoly,+Alappuzha/@9.5260443,76.3286143,17z/data=!3m1!4b1!4m6!3m5!1s0x3b088430890149e5:0x1d8a89fa6acac820!8m2!3d9.5260443!4d76.3286143!16s%2Fg%2F11g8wrxqb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Providence+Hospital,+Thumpoly,+Alappuzha/@9.5260443,76.3286143,17z/data=!3m1!4b1!4m6!3m5!1s0x3b088430890149e5:0x1d8a89fa6acac820!8m2!3d9.5260443!4d76.3286143!16s%2Fg%2F11g8wrxqb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5533,7 +5579,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Providence+Hospital,+Thumpoly,+Alappuzha/@9.5260443,76.3286143,17z/data=!3m1!4b1!4m6!3m5!1s0x3b088430890149e5:0x1d8a89fa6acac820!8m2!3d9.5260443!4d76.3286143!16s%2Fg%2F11g8wrxqb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "royal-eye-clinic-and-opticals-cherthala",
@@ -5583,7 +5630,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Royal+Eye+Clinic%26Opticals/@9.6807814,76.3399755,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dec8fcd3bff:0x9e518a0450db3bdf!8m2!3d9.6807814!4d76.3399755!16s%2Fg%2F11fl08b81v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Royal+Eye+Clinic%26Opticals/@9.6807814,76.3399755,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dec8fcd3bff:0x9e518a0450db3bdf!8m2!3d9.6807814!4d76.3399755!16s%2Fg%2F11fl08b81v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5652,7 +5699,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Royal+Eye+Clinic%26Opticals/@9.6807814,76.3399755,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dec8fcd3bff:0x9e518a0450db3bdf!8m2!3d9.6807814!4d76.3399755!16s%2Fg%2F11fl08b81v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "s-h-medical-centre-kottayam",
@@ -5701,7 +5749,7 @@
       "Google rating 4.5",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/S+H+Medical+Centre/@9.5943166,76.5296064,17z/data=!3m1!4b1!4m6!3m5!1s0x3b062b7448dedc4b:0xffbb4c3348a1f1e0!8m2!3d9.5943166!4d76.5296064!16s%2Fg%2F1tqtw9qg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/S+H+Medical+Centre/@9.5943166,76.5296064,17z/data=!3m1!4b1!4m6!3m5!1s0x3b062b7448dedc4b:0xffbb4c3348a1f1e0!8m2!3d9.5943166!4d76.5296064!16s%2Fg%2F1tqtw9qg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5770,7 +5818,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/S+H+Medical+Centre/@9.5943166,76.5296064,17z/data=!3m1!4b1!4m6!3m5!1s0x3b062b7448dedc4b:0xffbb4c3348a1f1e0!8m2!3d9.5943166!4d76.5296064!16s%2Fg%2F1tqtw9qg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sacred-heart-general-hospital-cherthala",
@@ -5820,7 +5869,7 @@
       "Google rating 3.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sacred+Heart+General+Hospital/@9.6619694,76.339097,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087db7e979d0f3:0xf584a2e0b195ef1d!8m2!3d9.6619694!4d76.339097!16s%2Fg%2F1tkc0k0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sacred+Heart+General+Hospital/@9.6619694,76.339097,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087db7e979d0f3:0xf584a2e0b195ef1d!8m2!3d9.6619694!4d76.339097!16s%2Fg%2F1tkc0k0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -5889,7 +5938,8 @@
     "rating": 3.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sacred+Heart+General+Hospital/@9.6619694,76.339097,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087db7e979d0f3:0xf584a2e0b195ef1d!8m2!3d9.6619694!4d76.339097!16s%2Fg%2F1tkc0k0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sacred-heart-general-hospital-ophthalmology-ward-cherthala",
@@ -5939,7 +5989,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sacred+Heart+General+Hospital,+Ophthalmology+ward/@9.6621823,76.338671,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087da190ea59c1:0x93744c0cf9c6ce00!8m2!3d9.6621823!4d76.338671!16s%2Fg%2F11ss7g4klq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sacred+Heart+General+Hospital,+Ophthalmology+ward/@9.6621823,76.338671,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087da190ea59c1:0x93744c0cf9c6ce00!8m2!3d9.6621823!4d76.338671!16s%2Fg%2F11ss7g4klq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6005,10 +6055,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sacred+Heart+General+Hospital,+Ophthalmology+ward/@9.6621823,76.338671,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087da190ea59c1:0x93744c0cf9c6ce00!8m2!3d9.6621823!4d76.338671!16s%2Fg%2F11ss7g4klq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sahrudaya-hospital-alappuzha-aryad-south",
@@ -6057,7 +6108,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sahrudaya+Hospital,+Alappuzha/@9.505333,76.3418693,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08846798c0a6f7:0xe87b78a22275498d!8m2!3d9.505333!4d76.3418693!16s%2Fg%2F11c5blnk4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sahrudaya+Hospital,+Alappuzha/@9.505333,76.3418693,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08846798c0a6f7:0xe87b78a22275498d!8m2!3d9.505333!4d76.3418693!16s%2Fg%2F11c5blnk4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6126,7 +6177,8 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sahrudaya+Hospital,+Alappuzha/@9.505333,76.3418693,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08846798c0a6f7:0xe87b78a22275498d!8m2!3d9.505333!4d76.3418693!16s%2Fg%2F11c5blnk4f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sanjos-hospital-alappuzha",
@@ -6174,7 +6226,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sanjos+Hospital/@9.5075384,76.3283344,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08844fe4c5afd5:0xddf74bf6259d25bb!8m2!3d9.5075384!4d76.3283344!16s%2Fg%2F11c1qbd867?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sanjos+Hospital/@9.5075384,76.3283344,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08844fe4c5afd5:0xddf74bf6259d25bb!8m2!3d9.5075384!4d76.3283344!16s%2Fg%2F11c1qbd867?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6243,7 +6295,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sanjos+Hospital/@9.5075384,76.3283344,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08844fe4c5afd5:0xddf74bf6259d25bb!8m2!3d9.5075384!4d76.3283344!16s%2Fg%2F11c1qbd867?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shenoy-vaidyan-memmorial-ayurveda-hospital-cherthala",
@@ -6291,7 +6344,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Shenoy+Vaidyan+Memmorial+Ayurveda+Hospital/@9.6870256,76.3389974,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c40ca06d201:0x44a3014577a67415!8m2!3d9.6870256!4d76.3389974!16s%2Fg%2F11g6mvqf8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shenoy+Vaidyan+Memmorial+Ayurveda+Hospital/@9.6870256,76.3389974,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c40ca06d201:0x44a3014577a67415!8m2!3d9.6870256!4d76.3389974!16s%2Fg%2F11g6mvqf8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6360,7 +6413,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shenoy+Vaidyan+Memmorial+Ayurveda+Hospital/@9.6870256,76.3389974,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c40ca06d201:0x44a3014577a67415!8m2!3d9.6870256!4d76.3389974!16s%2Fg%2F11g6mvqf8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sinare-ortho-clinic-alappuzha",
@@ -6409,7 +6463,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Sinare+ortho+clinic/@9.5083743,76.3282053,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0885ca236daf2d:0xc2f0d9bbf7734696!8m2!3d9.5083743!4d76.3282053!16s%2Fg%2F11vqntjq63?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sinare+ortho+clinic/@9.5083743,76.3282053,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0885ca236daf2d:0xc2f0d9bbf7734696!8m2!3d9.5083743!4d76.3282053!16s%2Fg%2F11vqntjq63?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6478,7 +6532,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sinare+ortho+clinic/@9.5083743,76.3282053,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0885ca236daf2d:0xc2f0d9bbf7734696!8m2!3d9.5083743!4d76.3282053!16s%2Fg%2F11vqntjq63?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sinsas-shahnaz-herbal-beauty-parlour-cherthala-beauty-clinic-birdal-makeover-beauty-salon-cherthala",
@@ -6528,7 +6583,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sinsas+Shahnaz+Herbal+Beauty+Parlour+Cherthala+-+Beauty+Clinic,+Birdal+Makeover,+Beauty+Salon/@9.6884903,76.3419919,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c3e95210e77:0xf07b0a692863b1c!8m2!3d9.6884903!4d76.3419919!16s%2Fg%2F11cn166147?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sinsas+Shahnaz+Herbal+Beauty+Parlour+Cherthala+-+Beauty+Clinic,+Birdal+Makeover,+Beauty+Salon/@9.6884903,76.3419919,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c3e95210e77:0xf07b0a692863b1c!8m2!3d9.6884903!4d76.3419919!16s%2Fg%2F11cn166147?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6594,10 +6649,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sinsas+Shahnaz+Herbal+Beauty+Parlour+Cherthala+-+Beauty+Clinic,+Birdal+Makeover,+Beauty+Salon/@9.6884903,76.3419919,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c3e95210e77:0xf07b0a692863b1c!8m2!3d9.6884903!4d76.3419919!16s%2Fg%2F11cn166147?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "skm-dental-clinic-and-cosmetic-care-kochi",
@@ -6646,7 +6702,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SKM+Dental+Clinic+%26+Cosmetic+Care/@9.8793478,76.3049138,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0871378dacccb7:0x222f9baafa0f3a0f!8m2!3d9.8793478!4d76.3049138!16s%2Fg%2F11h37rzjg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SKM+Dental+Clinic+%26+Cosmetic+Care/@9.8793478,76.3049138,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0871378dacccb7:0x222f9baafa0f3a0f!8m2!3d9.8793478!4d76.3049138!16s%2Fg%2F11h37rzjg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6715,7 +6771,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SKM+Dental+Clinic+%26+Cosmetic+Care/@9.8793478,76.3049138,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0871378dacccb7:0x222f9baafa0f3a0f!8m2!3d9.8793478!4d76.3049138!16s%2Fg%2F11h37rzjg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-care-dental-clinic-alappuzha",
@@ -6764,7 +6821,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/SMILE+CARE+DENTAL+CLINIC/@9.767407,76.318262,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087a57f7110205:0xed82eb38d2f082fb!8m2!3d9.767407!4d76.318262!16s%2Fg%2F11bzzzkhk9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SMILE+CARE+DENTAL+CLINIC/@9.767407,76.318262,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087a57f7110205:0xed82eb38d2f082fb!8m2!3d9.767407!4d76.318262!16s%2Fg%2F11bzzzkhk9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6833,7 +6890,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SMILE+CARE+DENTAL+CLINIC/@9.767407,76.318262,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087a57f7110205:0xed82eb38d2f082fb!8m2!3d9.767407!4d76.318262!16s%2Fg%2F11bzzzkhk9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-dental-lounge-aryad-south",
@@ -6882,7 +6940,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Dental+Lounge/@9.5667074,76.3275842,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0886ee09632ac9:0x6232fd0fe695ffe3!8m2!3d9.5667074!4d76.3275842!16s%2Fg%2F1wf370pw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Dental+Lounge/@9.5667074,76.3275842,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0886ee09632ac9:0x6232fd0fe695ffe3!8m2!3d9.5667074!4d76.3275842!16s%2Fg%2F1wf370pw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -6951,7 +7009,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Dental+Lounge/@9.5667074,76.3275842,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0886ee09632ac9:0x6232fd0fe695ffe3!8m2!3d9.5667074!4d76.3275842!16s%2Fg%2F1wf370pw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "smile-point-dental-clinic-cherthala-south",
@@ -6999,7 +7058,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Smile+Point+Dental+Clinic/@9.6539748,76.3178663,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d4beb7e86db:0x4f1884bcae7e3a3d!8m2!3d9.6539748!4d76.3178663!16s%2Fg%2F11hdnnh860?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Smile+Point+Dental+Clinic/@9.6539748,76.3178663,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d4beb7e86db:0x4f1884bcae7e3a3d!8m2!3d9.6539748!4d76.3178663!16s%2Fg%2F11hdnnh860?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7068,7 +7127,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Smile+Point+Dental+Clinic/@9.6539748,76.3178663,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d4beb7e86db:0x4f1884bcae7e3a3d!8m2!3d9.6539748!4d76.3178663!16s%2Fg%2F11hdnnh860?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sr-life-care-medical-and-dental-family-clinic-alappuzha",
@@ -7116,7 +7176,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/SR+Life+Care+Medical+And+Dental+Family+Clinic/@9.5371324,76.3419642,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08841f735861e5:0xb2186c7b1512ae7d!8m2!3d9.5371324!4d76.3419642!16s%2Fg%2F11f0_fks2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/SR+Life+Care+Medical+And+Dental+Family+Clinic/@9.5371324,76.3419642,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08841f735861e5:0xb2186c7b1512ae7d!8m2!3d9.5371324!4d76.3419642!16s%2Fg%2F11f0_fks2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7185,7 +7245,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/SR+Life+Care+Medical+And+Dental+Family+Clinic/@9.5371324,76.3419642,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08841f735861e5:0xb2186c7b1512ae7d!8m2!3d9.5371324!4d76.3419642!16s%2Fg%2F11f0_fks2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-narayana-medical-mission-hospital-cherthala",
@@ -7234,7 +7295,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Narayana+Medical+Mission+Hospital/@9.6744555,76.3413728,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c35f530328b:0xb56712052097a691!8m2!3d9.6744555!4d76.3413728!16s%2Fg%2F1v96k6nm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Narayana+Medical+Mission+Hospital/@9.6744555,76.3413728,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c35f530328b:0xb56712052097a691!8m2!3d9.6744555!4d76.3413728!16s%2Fg%2F1v96k6nm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7300,10 +7361,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Narayana+Medical+Mission+Hospital/@9.6744555,76.3413728,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c35f530328b:0xb56712052097a691!8m2!3d9.6744555!4d76.3413728!16s%2Fg%2F1v96k6nm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-narayana-medical-mission-hospital-new-block-cherthala",
@@ -7352,7 +7414,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sree+Narayana+Medical+Mission+Hospital+New+Block/@9.6746711,76.3419087,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d00d125d613:0x9cee9403a120619f!8m2!3d9.6746711!4d76.3419087!16s%2Fg%2F11hz_1zxq6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+Narayana+Medical+Mission+Hospital+New+Block/@9.6746711,76.3419087,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d00d125d613:0x9cee9403a120619f!8m2!3d9.6746711!4d76.3419087!16s%2Fg%2F11hz_1zxq6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7421,7 +7483,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+Narayana+Medical+Mission+Hospital+New+Block/@9.6746711,76.3419087,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d00d125d613:0x9cee9403a120619f!8m2!3d9.6746711!4d76.3419087!16s%2Fg%2F11hz_1zxq6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sree-venkateswara-hospital-cherthala",
@@ -7469,7 +7532,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Sree+venkateswara+hospital/@9.686556,76.3393771,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d2c0a3d2e0b:0x49ce212bb7cd75a4!8m2!3d9.686556!4d76.3393771!16s%2Fg%2F11dzdstm0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sree+venkateswara+hospital/@9.686556,76.3393771,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d2c0a3d2e0b:0x49ce212bb7cd75a4!8m2!3d9.686556!4d76.3393771!16s%2Fg%2F11dzdstm0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7538,7 +7601,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sree+venkateswara+hospital/@9.686556,76.3393771,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d2c0a3d2e0b:0x49ce212bb7cd75a4!8m2!3d9.686556!4d76.3393771!16s%2Fg%2F11dzdstm0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sreehareeyam-ayurveda-clinic-cherthala-north",
@@ -7586,7 +7650,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sreehareeyam+ayurveda+clinic/@9.6876219,76.3172915,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d005981e841:0xdd16be8ed0204bd!8m2!3d9.6876219!4d76.3172915!16s%2Fg%2F11w32jvqyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sreehareeyam+ayurveda+clinic/@9.6876219,76.3172915,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d005981e841:0xdd16be8ed0204bd!8m2!3d9.6876219!4d76.3172915!16s%2Fg%2F11w32jvqyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7652,10 +7716,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sreehareeyam+ayurveda+clinic/@9.6876219,76.3172915,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d005981e841:0xdd16be8ed0204bd!8m2!3d9.6876219!4d76.3172915!16s%2Fg%2F11w32jvqyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sreelakshmi-dental-clinic-cherthala",
@@ -7703,7 +7768,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Sreelakshmi+Dental+Clinic/@9.6891339,76.3420096,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c3f72acb1a5:0xe2e42a6bff3954e5!8m2!3d9.6891339!4d76.3420096!16s%2Fg%2F11f3wkxzy4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sreelakshmi+Dental+Clinic/@9.6891339,76.3420096,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c3f72acb1a5:0xe2e42a6bff3954e5!8m2!3d9.6891339!4d76.3420096!16s%2Fg%2F11f3wkxzy4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7772,7 +7837,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sreelakshmi+Dental+Clinic/@9.6891339,76.3420096,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c3f72acb1a5:0xe2e42a6bff3954e5!8m2!3d9.6891339!4d76.3420096!16s%2Fg%2F11f3wkxzy4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sreepathy-ayurveda-hospital-cherthala",
@@ -7822,7 +7888,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sreepathy+Ayurveda+Hospital/@9.6824909,76.3627797,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087e82a89d1f77:0x9c4bd9fccc5d21f9!8m2!3d9.6824909!4d76.3627797!16s%2Fg%2F1tdx743f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sreepathy+Ayurveda+Hospital/@9.6824909,76.3627797,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087e82a89d1f77:0x9c4bd9fccc5d21f9!8m2!3d9.6824909!4d76.3627797!16s%2Fg%2F1tdx743f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -7888,10 +7954,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sreepathy+Ayurveda+Hospital/@9.6824909,76.3627797,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087e82a89d1f77:0x9c4bd9fccc5d21f9!8m2!3d9.6824909!4d76.3627797!16s%2Fg%2F1tdx743f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "st-sebastian-s-visitation-hospital-arthunkal-cherthala",
@@ -7940,7 +8007,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/St+Sebastian's+Visitation+Hospital+Arthunkal/@9.6580178,76.2991972,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d19fae0fd49:0x152d1c1ccdf35d1c!8m2!3d9.6580178!4d76.2991972!16s%2Fg%2F11c20d6fww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/St+Sebastian's+Visitation+Hospital+Arthunkal/@9.6580178,76.2991972,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d19fae0fd49:0x152d1c1ccdf35d1c!8m2!3d9.6580178!4d76.2991972!16s%2Fg%2F11c20d6fww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8009,7 +8076,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/St+Sebastian's+Visitation+Hospital+Arthunkal/@9.6580178,76.2991972,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d19fae0fd49:0x152d1c1ccdf35d1c!8m2!3d9.6580178!4d76.2991972!16s%2Fg%2F11c20d6fww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "taluk-head-quarters-hospital-cherthala",
@@ -8058,7 +8126,7 @@
       "Google rating 3.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Taluk+Head+Quarters+Hospital/@9.6819228,76.3400984,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c47fa525879:0x38033d1c07db52f8!8m2!3d9.6819228!4d76.3400984!16s%2Fg%2F1tgllb9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Taluk+Head+Quarters+Hospital/@9.6819228,76.3400984,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c47fa525879:0x38033d1c07db52f8!8m2!3d9.6819228!4d76.3400984!16s%2Fg%2F1tgllb9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8124,10 +8192,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Taluk+Head+Quarters+Hospital/@9.6819228,76.3400984,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c47fa525879:0x38033d1c07db52f8!8m2!3d9.6819228!4d76.3400984!16s%2Fg%2F1tgllb9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "teresa-eye-and-migraine-centre-cherthala",
@@ -8175,7 +8244,7 @@
     "metrics": [
       "Google rating 4.5"
     ],
-    "image": "https://www.google.com/maps/place/Teresa+Eye%26Migraine+Centre/@9.6839365,76.3422524,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c385e9af069:0x2d66ee12d52e0237!8m2!3d9.6839365!4d76.3422524!16s%2Fg%2F11g6l_k8g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Teresa+Eye%26Migraine+Centre/@9.6839365,76.3422524,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c385e9af069:0x2d66ee12d52e0237!8m2!3d9.6839365!4d76.3422524!16s%2Fg%2F11g6l_k8g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8244,7 +8313,8 @@
     "rating": 4.5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Teresa+Eye%26Migraine+Centre/@9.6839365,76.3422524,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087c385e9af069:0x2d66ee12d52e0237!8m2!3d9.6839365!4d76.3422524!16s%2Fg%2F11g6l_k8g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "the-liver-clinic-kolkata",
@@ -8294,7 +8364,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8360,10 +8430,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "theresa-dental-care-muhamma",
@@ -8411,7 +8482,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Theresa+Dental+Care/@9.6067846,76.3553825,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08879ea7d0cd2d:0x9972d9331c82cb80!8m2!3d9.6067846!4d76.3553825!16s%2Fg%2F11pzyqw4kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Theresa+Dental+Care/@9.6067846,76.3553825,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08879ea7d0cd2d:0x9972d9331c82cb80!8m2!3d9.6067846!4d76.3553825!16s%2Fg%2F11pzyqw4kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8480,7 +8551,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Theresa+Dental+Care/@9.6067846,76.3553825,17z/data=!3m1!4b1!4m6!3m5!1s0x3b08879ea7d0cd2d:0x9972d9331c82cb80!8m2!3d9.6067846!4d76.3553825!16s%2Fg%2F11pzyqw4kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vaani-dental-care-cherthala-s-premier-dental-clinic-and-aligner-specialist-alappuzha-cherthala",
@@ -8529,7 +8601,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vaani+Dental+Care+-+Cherthala's+Premier+Dental+Clinic+%26+Aligner+Specialist+Alappuzha/@9.6308521,76.3138047,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d59caf8a3c9:0x98d2d18d2f7faa14!8m2!3d9.6308521!4d76.3138047!16s%2Fg%2F11rknbqxp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaani+Dental+Care+-+Cherthala's+Premier+Dental+Clinic+%26+Aligner+Specialist+Alappuzha/@9.6308521,76.3138047,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d59caf8a3c9:0x98d2d18d2f7faa14!8m2!3d9.6308521!4d76.3138047!16s%2Fg%2F11rknbqxp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8595,10 +8667,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vaani+Dental+Care+-+Cherthala's+Premier+Dental+Clinic+%26+Aligner+Specialist+Alappuzha/@9.6308521,76.3138047,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087d59caf8a3c9:0x98d2d18d2f7faa14!8m2!3d9.6308521!4d76.3138047!16s%2Fg%2F11rknbqxp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vadapuram-dental-care-cherthala",
@@ -8647,7 +8720,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vadapuram+Dental+Care/@9.6908468,76.3376628,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087de8e4b8a95b:0x3ab674274748d0cb!8m2!3d9.6908468!4d76.3376628!16s%2Fg%2F11kk2h_xbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vadapuram+Dental+Care/@9.6908468,76.3376628,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087de8e4b8a95b:0x3ab674274748d0cb!8m2!3d9.6908468!4d76.3376628!16s%2Fg%2F11kk2h_xbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8713,10 +8786,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vadapuram+Dental+Care/@9.6908468,76.3376628,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087de8e4b8a95b:0x3ab674274748d0cb!8m2!3d9.6908468!4d76.3376628!16s%2Fg%2F11kk2h_xbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vaidyer-s-ayurveda-medical-centre-cherthala",
@@ -8765,7 +8839,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Vaidyer's+Ayurveda+Medical+Centre/@9.6515902,76.2995194,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dac7ef0a0bb:0x9a8a7e241ed9413f!8m2!3d9.6515902!4d76.2995194!16s%2Fg%2F11h6n0bnz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vaidyer's+Ayurveda+Medical+Centre/@9.6515902,76.2995194,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dac7ef0a0bb:0x9a8a7e241ed9413f!8m2!3d9.6515902!4d76.2995194!16s%2Fg%2F11h6n0bnz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8834,7 +8908,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vaidyer's+Ayurveda+Medical+Centre/@9.6515902,76.2995194,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dac7ef0a0bb:0x9a8a7e241ed9413f!8m2!3d9.6515902!4d76.2995194!16s%2Fg%2F11h6n0bnz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "varuna-dental-care-and-orthodontic-center-cherthala",
@@ -8883,7 +8958,7 @@
     "metrics": [
       "Google rating 4.4"
     ],
-    "image": "https://www.google.com/maps/place/Varuna+Dental+Care+%26+orthodontic+Center/@9.7943319,76.3023498,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087a9c791cc15b:0x68ced96734256082!8m2!3d9.7943319!4d76.3023498!16s%2Fg%2F11gfnxzxgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Varuna+Dental+Care+%26+orthodontic+Center/@9.7943319,76.3023498,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087a9c791cc15b:0x68ced96734256082!8m2!3d9.7943319!4d76.3023498!16s%2Fg%2F11gfnxzxgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -8952,7 +9027,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Varuna+Dental+Care+%26+orthodontic+Center/@9.7943319,76.3023498,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087a9c791cc15b:0x68ced96734256082!8m2!3d9.7943319!4d76.3023498!16s%2Fg%2F11gfnxzxgq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vision-care-clinic-and-opticals-cherthala",
@@ -9001,7 +9077,7 @@
     "metrics": [
       "Google rating 4.7"
     ],
-    "image": "https://www.google.com/maps/place/Vision+Care+Clinic+%26+Opticals/@9.6837042,76.3386851,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087de440ab5a1d:0x9942ae3d224b53ef!8m2!3d9.6837042!4d76.3386851!16s%2Fg%2F11j1ccf291?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Vision+Care+Clinic+%26+Opticals/@9.6837042,76.3386851,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087de440ab5a1d:0x9942ae3d224b53ef!8m2!3d9.6837042!4d76.3386851!16s%2Fg%2F11j1ccf291?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9070,7 +9146,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Vision+Care+Clinic+%26+Opticals/@9.6837042,76.3386851,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087de440ab5a1d:0x9942ae3d224b53ef!8m2!3d9.6837042!4d76.3386851!16s%2Fg%2F11j1ccf291?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "we-care-family-dental-clinic-cherthala",
@@ -9118,7 +9195,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/WE+CARE-+Family+Dental+Clinic/@9.6565321,76.3586018,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dd95dace43b:0xca4ddc27e0344b65!8m2!3d9.6565321!4d76.3586018!16s%2Fg%2F11gglrhs8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/WE+CARE-+Family+Dental+Clinic/@9.6565321,76.3586018,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dd95dace43b:0xca4ddc27e0344b65!8m2!3d9.6565321!4d76.3586018!16s%2Fg%2F11gglrhs8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9187,7 +9264,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/WE+CARE-+Family+Dental+Clinic/@9.6565321,76.3586018,17z/data=!3m1!4b1!4m6!3m5!1s0x3b087dd95dace43b:0xca4ddc27e0344b65!8m2!3d9.6565321!4d76.3586018!16s%2Fg%2F11gglrhs8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "we-one-hospital-alappuzha",
@@ -9236,7 +9314,7 @@
       "Google rating 3.6",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/We+One+Hospital/@9.5836375,76.3505544,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0886d87462ba9f:0xb9f6fdd3014b52c1!8m2!3d9.5836375!4d76.3505544!16s%2Fg%2F1tdp_kn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/We+One+Hospital/@9.5836375,76.3505544,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0886d87462ba9f:0xb9f6fdd3014b52c1!8m2!3d9.5836375!4d76.3505544!16s%2Fg%2F1tdp_kn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
@@ -9305,6 +9383,7 @@
     "rating": 3.6,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/We+One+Hospital/@9.5836375,76.3505544,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0886d87462ba9f:0xb9f6fdd3014b52c1!8m2!3d9.5836375!4d76.3505544!16s%2Fg%2F1tdp_kn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
   }
 ]

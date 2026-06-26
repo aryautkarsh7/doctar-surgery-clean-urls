@@ -47,7 +47,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+%7C+Kajubagh+Karwar+%7C+Karwar/@14.8263563,74.1317829,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61a2ae62cc9f:0x87bd4379713d6082!8m2!3d14.8263563!4d74.1317829!16s%2Fg%2F11y14m3z_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+%7C+Kajubagh+Karwar+%7C+Karwar/@14.8263563,74.1317829,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61a2ae62cc9f:0x87bd4379713d6082!8m2!3d14.8263563!4d74.1317829!16s%2Fg%2F11y14m3z_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -113,10 +113,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Test+%7C+Kajubagh+Karwar+%7C+Karwar/@14.8263563,74.1317829,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61a2ae62cc9f:0x87bd4379713d6082!8m2!3d14.8263563!4d74.1317829!16s%2Fg%2F11y14m3z_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "arun-dialysis-center-karwar",
@@ -164,7 +165,7 @@
     "metrics": [
       "Google rating 1.0"
     ],
-    "image": "https://www.google.com/maps/place/Arun+Dialysis+Center/@14.829986,74.1259676,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe615ace247595:0xaf2ff6c4dcbe0cf1!8m2!3d14.829986!4d74.1259676!16s%2Fg%2F11f7k5_tzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Arun+Dialysis+Center/@14.829986,74.1259676,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe615ace247595:0xaf2ff6c4dcbe0cf1!8m2!3d14.829986!4d74.1259676!16s%2Fg%2F11f7k5_tzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -230,10 +231,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 1.0,
+    "rating": 1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Arun+Dialysis+Center/@14.829986,74.1259676,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe615ace247595:0xaf2ff6c4dcbe0cf1!8m2!3d14.829986!4d74.1259676!16s%2Fg%2F11f7k5_tzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "aryashree-dental-clinic-karwar",
@@ -281,7 +283,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Aryashree+Dental+Clinic/@14.8059758,74.1282214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d474f613ed:0xf3d09b57a783637c!8m2!3d14.8059758!4d74.1282214!16s%2Fg%2F11gcmz2mmf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Aryashree+Dental+Clinic/@14.8059758,74.1282214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d474f613ed:0xf3d09b57a783637c!8m2!3d14.8059758!4d74.1282214!16s%2Fg%2F11gcmz2mmf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -350,7 +352,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Aryashree+Dental+Clinic/@14.8059758,74.1282214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d474f613ed:0xf3d09b57a783637c!8m2!3d14.8059758!4d74.1282214!16s%2Fg%2F11gcmz2mmf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "auradent-dental-skin-hair-clinic-karwar",
@@ -399,7 +402,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/AuraDent+DENTAL+%7C+SKIN+%7C+HAIR+CLINIC/@14.8046282,74.1311809,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61cd1274b0fd:0x59f6735fa7d09998!8m2!3d14.8046282!4d74.1311809!16s%2Fg%2F11x5svkp9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AuraDent+DENTAL+%7C+SKIN+%7C+HAIR+CLINIC/@14.8046282,74.1311809,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61cd1274b0fd:0x59f6735fa7d09998!8m2!3d14.8046282!4d74.1311809!16s%2Fg%2F11x5svkp9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -465,10 +468,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AuraDent+DENTAL+%7C+SKIN+%7C+HAIR+CLINIC/@14.8046282,74.1311809,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61cd1274b0fd:0x59f6735fa7d09998!8m2!3d14.8046282!4d74.1311809!16s%2Fg%2F11x5svkp9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ayur-sole-care-karwar",
@@ -517,7 +521,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/AYUR+SOLE+CARE/@14.8053652,74.1313663,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe613db884883f:0x21c09d96aab78e94!8m2!3d14.8053652!4d74.1313663!16s%2Fg%2F11l5v8w3pl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/AYUR+SOLE+CARE/@14.8053652,74.1313663,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe613db884883f:0x21c09d96aab78e94!8m2!3d14.8053652!4d74.1313663!16s%2Fg%2F11l5v8w3pl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -583,10 +587,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/AYUR+SOLE+CARE/@14.8053652,74.1313663,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe613db884883f:0x21c09d96aab78e94!8m2!3d14.8053652!4d74.1313663!16s%2Fg%2F11l5v8w3pl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bhagyalaxmi-complex-karwar",
@@ -634,7 +639,7 @@
     "metrics": [
       "Google rating 3.8"
     ],
-    "image": "https://www.google.com/maps/place/Bhagyalaxmi+Complex/@14.8131859,74.1315767,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60ce3c1d31dd:0xf657a01aac186f00!8m2!3d14.8131859!4d74.1315767!16s%2Fg%2F1jgltktn9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Bhagyalaxmi+Complex/@14.8131859,74.1315767,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60ce3c1d31dd:0xf657a01aac186f00!8m2!3d14.8131859!4d74.1315767!16s%2Fg%2F1jgltktn9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -703,7 +708,8 @@
     "rating": 3.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Bhagyalaxmi+Complex/@14.8131859,74.1315767,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60ce3c1d31dd:0xf657a01aac186f00!8m2!3d14.8131859!4d74.1315767!16s%2Fg%2F1jgltktn9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "bright-smiles-dental-clinic-karwar",
@@ -751,7 +757,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/BRIGHT+SMILES+DENTAL+CLINIC/@14.8183469,74.132466,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe6126ce748a25:0xee4425f066b6ec9a!8m2!3d14.8183469!4d74.132466!16s%2Fg%2F11mcyv7z8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/BRIGHT+SMILES+DENTAL+CLINIC/@14.8183469,74.132466,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe6126ce748a25:0xee4425f066b6ec9a!8m2!3d14.8183469!4d74.132466!16s%2Fg%2F11mcyv7z8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
@@ -817,10 +823,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/BRIGHT+SMILES+DENTAL+CLINIC/@14.8183469,74.132466,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe6126ce748a25:0xee4425f066b6ec9a!8m2!3d14.8183469!4d74.132466!16s%2Fg%2F11mcyv7z8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "care-dental-clinic-karwar",
@@ -866,7 +873,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Care+Dental+Clinic/@14.8077743,74.1306896,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61f6a119ccf5:0xfd3358e006fda06e!8m2!3d14.8077743!4d74.1306896!16s%2Fg%2F11k3yy3sxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Care+Dental+Clinic/@14.8077743,74.1306896,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61f6a119ccf5:0xfd3358e006fda06e!8m2!3d14.8077743!4d74.1306896!16s%2Fg%2F11k3yy3sxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -932,10 +939,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Care+Dental+Clinic/@14.8077743,74.1306896,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61f6a119ccf5:0xfd3358e006fda06e!8m2!3d14.8077743!4d74.1306896!16s%2Fg%2F11k3yy3sxh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "civil-hospital-kims-karwar-karwar",
@@ -984,7 +992,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/CIVIL+Hospital,+KIMS,+Karwar/data=!4m7!3m6!1s0x3bbe60cc05fab619:0xdb9f433135da8efd!8m2!3d14.8171522!4d74.1290051!16s%2Fg%2F11c2nmkf7l!19sChIJGbb6BcxgvjsR_Y7aNTFDn9s?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/CIVIL+Hospital,+KIMS,+Karwar/data=!4m7!3m6!1s0x3bbe60cc05fab619:0xdb9f433135da8efd!8m2!3d14.8171522!4d74.1290051!16s%2Fg%2F11c2nmkf7l!19sChIJGbb6BcxgvjsR_Y7aNTFDn9s?authuser=0&hl=en&rclk=1"
@@ -1050,10 +1058,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/CIVIL+Hospital,+KIMS,+Karwar/data=!4m7!3m6!1s0x3bbe60cc05fab619:0xdb9f433135da8efd!8m2!3d14.8171522!4d74.1290051!16s%2Fg%2F11c2nmkf7l!19sChIJGbb6BcxgvjsR_Y7aNTFDn9s?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dcdc-kidney-care-at-district-hospital-karwar-karwar",
@@ -1104,7 +1113,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/DCDC+Kidney+Care+at+District+Hospital+Karwar/data=!4m7!3m6!1s0x3bbe617e5d5529b1:0xa02a76a6843d9c89!8m2!3d14.8172997!4d74.1291829!16s%2Fg%2F11w280rd70!19sChIJsSlVXX5hvjsRiZw9hKZ2KqA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DCDC+Kidney+Care+at+District+Hospital+Karwar/data=!4m7!3m6!1s0x3bbe617e5d5529b1:0xa02a76a6843d9c89!8m2!3d14.8172997!4d74.1291829!16s%2Fg%2F11w280rd70!19sChIJsSlVXX5hvjsRiZw9hKZ2KqA?authuser=0&hl=en&rclk=1"
@@ -1170,10 +1179,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DCDC+Kidney+Care+at+District+Hospital+Karwar/data=!4m7!3m6!1s0x3bbe617e5d5529b1:0xa02a76a6843d9c89!8m2!3d14.8172997!4d74.1291829!16s%2Fg%2F11w280rd70!19sChIJsSlVXX5hvjsRiZw9hKZ2KqA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "dental-specialities-and-laser-photomedicine-ankola",
@@ -1221,7 +1231,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Dental+Specialities+%26+Laser+Photomedicine/@14.6597974,74.3070074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe8792618b39f1:0x8b73e9276457dd4e!8m2!3d14.6597974!4d74.3070074!16s%2Fg%2F11j93zpz1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Dental+Specialities+%26+Laser+Photomedicine/@14.6597974,74.3070074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe8792618b39f1:0x8b73e9276457dd4e!8m2!3d14.6597974!4d74.3070074!16s%2Fg%2F11j93zpz1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1287,10 +1297,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Dental+Specialities+%26+Laser+Photomedicine/@14.6597974,74.3070074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe8792618b39f1:0x8b73e9276457dd4e!8m2!3d14.6597974!4d74.3070074!16s%2Fg%2F11j93zpz1s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "district-hospital-karwar-karwar",
@@ -1336,7 +1347,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/District+Hospital+KARWAR/@14.8165822,74.1287637,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61003bb4b297:0x589b2ab4d684f07e!8m2!3d14.8165822!4d74.1287637!16s%2Fg%2F11yxn6dlmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/District+Hospital+KARWAR/@14.8165822,74.1287637,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61003bb4b297:0x589b2ab4d684f07e!8m2!3d14.8165822!4d74.1287637!16s%2Fg%2F11yxn6dlmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1402,10 +1413,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/District+Hospital+KARWAR/@14.8165822,74.1287637,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61003bb4b297:0x589b2ab4d684f07e!8m2!3d14.8165822!4d74.1287637!16s%2Fg%2F11yxn6dlmg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "durga-clinic-piles-fissure-fistula-and-skin-care-treatment-karwar",
@@ -1453,7 +1465,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/DURGA+CLINIC+-+Piles,+Fissure,+Fistula+and+Skin+Care+Treatment/@14.8052813,74.1289857,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe610036dbbdd9:0x18b3031223072bea!8m2!3d14.8052813!4d74.1289857!16s%2Fg%2F11m5nn2_dz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/DURGA+CLINIC+-+Piles,+Fissure,+Fistula+and+Skin+Care+Treatment/@14.8052813,74.1289857,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe610036dbbdd9:0x18b3031223072bea!8m2!3d14.8052813!4d74.1289857!16s%2Fg%2F11m5nn2_dz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1519,10 +1531,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/DURGA+CLINIC+-+Piles,+Fissure,+Fistula+and+Skin+Care+Treatment/@14.8052813,74.1289857,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe610036dbbdd9:0x18b3031223072bea!8m2!3d14.8052813!4d74.1289857!16s%2Fg%2F11m5nn2_dz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "durgambika-clinic-karwar",
@@ -1570,7 +1583,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Durgambika+Clinic/@14.8159178,74.1762772,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe6059fa607f2f:0xb1c96cc434e6734e!8m2!3d14.8159178!4d74.1762772!16s%2Fg%2F11c70chs9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Durgambika+Clinic/@14.8159178,74.1762772,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe6059fa607f2f:0xb1c96cc434e6734e!8m2!3d14.8159178!4d74.1762772!16s%2Fg%2F11c70chs9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1636,10 +1649,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Durgambika+Clinic/@14.8159178,74.1762772,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe6059fa607f2f:0xb1c96cc434e6734e!8m2!3d14.8159178!4d74.1762772!16s%2Fg%2F11c70chs9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ear-hospital-and-clinic-karwar",
@@ -1687,7 +1701,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Ear+hospital+and+clinic/@14.8063489,74.1296119,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61245cb52d27:0xa22c5a0aa0d4cf46!8m2!3d14.8063489!4d74.1296119!16s%2Fg%2F11js2ssxjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ear+hospital+and+clinic/@14.8063489,74.1296119,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61245cb52d27:0xa22c5a0aa0d4cf46!8m2!3d14.8063489!4d74.1296119!16s%2Fg%2F11js2ssxjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1753,10 +1767,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ear+hospital+and+clinic/@14.8063489,74.1296119,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61245cb52d27:0xa22c5a0aa0d4cf46!8m2!3d14.8063489!4d74.1296119!16s%2Fg%2F11js2ssxjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "firstchoice-laboratory-scan-and-diagnostics-centre-karwar",
@@ -1805,7 +1820,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Firstchoice+Laboratory,+Scan+and+Diagnostics+Centre./@14.8040534,74.1312731,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61694acfca61:0xb744a290e3fe7caa!8m2!3d14.8040534!4d74.1312731!16s%2Fg%2F11z1rl8wdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Firstchoice+Laboratory,+Scan+and+Diagnostics+Centre./@14.8040534,74.1312731,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61694acfca61:0xb744a290e3fe7caa!8m2!3d14.8040534!4d74.1312731!16s%2Fg%2F11z1rl8wdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1874,7 +1889,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Firstchoice+Laboratory,+Scan+and+Diagnostics+Centre./@14.8040534,74.1312731,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61694acfca61:0xb744a290e3fe7caa!8m2!3d14.8040534!4d74.1312731!16s%2Fg%2F11z1rl8wdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "government-ayurvedic-hospital-karwar-karwar",
@@ -1922,7 +1938,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Government+Ayurvedic+Hospital,+Karwar/@14.8105807,74.1310584,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d0355b90e1:0xdb327323bf800ae3!8m2!3d14.8105807!4d74.1310584!16s%2Fg%2F11dzd36l_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Government+Ayurvedic+Hospital,+Karwar/@14.8105807,74.1310584,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d0355b90e1:0xdb327323bf800ae3!8m2!3d14.8105807!4d74.1310584!16s%2Fg%2F11dzd36l_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -1991,7 +2007,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Government+Ayurvedic+Hospital,+Karwar/@14.8105807,74.1310584,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d0355b90e1:0xdb327323bf800ae3!8m2!3d14.8105807!4d74.1310584!16s%2Fg%2F11dzd36l_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "homeocare-international-belagavi-homeopathy-clinic-belgaum-belagavi",
@@ -2041,7 +2058,7 @@
       "Google rating 4.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Homeocare+International+Belagavi+%7C+Homeopathy+Clinic+-+Belgaum/@15.861924,74.507565,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf66af7de5b9f5:0x4e66295244b403d7!8m2!3d15.861924!4d74.507565!16s%2Fg%2F11b7lm3c9j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Homeocare+International+Belagavi+%7C+Homeopathy+Clinic+-+Belgaum/@15.861924,74.507565,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf66af7de5b9f5:0x4e66295244b403d7!8m2!3d15.861924!4d74.507565!16s%2Fg%2F11b7lm3c9j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2110,7 +2127,8 @@
     "rating": 4.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Homeocare+International+Belagavi+%7C+Homeopathy+Clinic+-+Belgaum/@15.861924,74.507565,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf66af7de5b9f5:0x4e66295244b403d7!8m2!3d15.861924!4d74.507565!16s%2Fg%2F11b7lm3c9j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "hotel-pandurang-international-kumta",
@@ -2159,7 +2177,7 @@
       "Google rating 3.7",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Hotel+Pandurang+International/@14.4385417,74.4290526,17z/data=!3m1!4b1!4m9!3m8!1s0x3bbc264077c65665:0xdd3f2c68102971de!5m2!4m1!1i2!8m2!3d14.4385417!4d74.4290526!16s%2Fg%2F11rxn3cxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Hotel+Pandurang+International/@14.4385417,74.4290526,17z/data=!3m1!4b1!4m9!3m8!1s0x3bbc264077c65665:0xdd3f2c68102971de!5m2!4m1!1i2!8m2!3d14.4385417!4d74.4290526!16s%2Fg%2F11rxn3cxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2228,7 +2246,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Hotel+Pandurang+International/@14.4385417,74.4290526,17z/data=!3m1!4b1!4m9!3m8!1s0x3bbc264077c65665:0xdd3f2c68102971de!5m2!4m1!1i2!8m2!3d14.4385417!4d74.4290526!16s%2Fg%2F11rxn3cxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "jatageshwara-clinic-ayurvedic-medicine-piles-fistula-fissure-clinic-karwar",
@@ -2276,7 +2295,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Jatageshwara+clinic+ayurvedic+medicine+Piles+Fistula+Fissure+Clinic/@14.8307518,74.131871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61bdcc14e315:0x67efae45a1699705!8m2!3d14.8307518!4d74.131871!16s%2Fg%2F11n9bqg98b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Jatageshwara+clinic+ayurvedic+medicine+Piles+Fistula+Fissure+Clinic/@14.8307518,74.131871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61bdcc14e315:0x67efae45a1699705!8m2!3d14.8307518!4d74.131871!16s%2Fg%2F11n9bqg98b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2342,10 +2361,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Jatageshwara+clinic+ayurvedic+medicine+Piles+Fistula+Fissure+Clinic/@14.8307518,74.131871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61bdcc14e315:0x67efae45a1699705!8m2!3d14.8307518!4d74.131871!16s%2Fg%2F11n9bqg98b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kairaa-poly-clinic-karwar",
@@ -2394,7 +2414,7 @@
     "metrics": [
       "Google rating 2.3"
     ],
-    "image": "https://www.google.com/maps/place/Kairaa+Poly+Clinic/@14.8178465,74.1322885,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61d039a4eb05:0xfcce3f46d61f79f0!8m2!3d14.8178465!4d74.1322885!16s%2Fg%2F11nm9twsgy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kairaa+Poly+Clinic/@14.8178465,74.1322885,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61d039a4eb05:0xfcce3f46d61f79f0!8m2!3d14.8178465!4d74.1322885!16s%2Fg%2F11nm9twsgy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2463,7 +2483,8 @@
     "rating": 2.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kairaa+Poly+Clinic/@14.8178465,74.1322885,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61d039a4eb05:0xfcce3f46d61f79f0!8m2!3d14.8178465!4d74.1322885!16s%2Fg%2F11nm9twsgy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "karwar-karwar",
@@ -2509,7 +2530,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Karwar,+Karnataka/@14.8115663,74.1294672,13z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60ce1a0140d7:0x3ceab1e851eb586a!8m2!3d14.8073777!4d74.129898!16zL20vMDVuNWRt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karwar,+Karnataka/@14.8115663,74.1294672,13z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60ce1a0140d7:0x3ceab1e851eb586a!8m2!3d14.8073777!4d74.129898!16zL20vMDVuNWRt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2575,10 +2596,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Karwar,+Karnataka/@14.8115663,74.1294672,13z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60ce1a0140d7:0x3ceab1e851eb586a!8m2!3d14.8073777!4d74.129898!16zL20vMDVuNWRt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "karwar-civil-hospital-mortuary-karwar",
@@ -2627,7 +2649,7 @@
     "metrics": [
       "Google rating 4.0"
     ],
-    "image": "https://www.google.com/maps/place/Karwar+Civil+Hospital+Mortuary/@14.8165655,74.1295248,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60cc1dbe33d1:0x58e5029c8ad47914!8m2!3d14.8165655!4d74.1295248!16s%2Fg%2F11f3nm4x9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karwar+Civil+Hospital+Mortuary/@14.8165655,74.1295248,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60cc1dbe33d1:0x58e5029c8ad47914!8m2!3d14.8165655!4d74.1295248!16s%2Fg%2F11f3nm4x9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2693,10 +2715,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Karwar+Civil+Hospital+Mortuary/@14.8165655,74.1295248,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60cc1dbe33d1:0x58e5029c8ad47914!8m2!3d14.8165655!4d74.1295248!16s%2Fg%2F11f3nm4x9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "karwar-eye-hospital-karwar",
@@ -2745,7 +2768,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Karwar+Eye+Hospital/@14.8228392,74.133582,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60c83aae2d15:0xfa2c1da26291aee!8m2!3d14.8228392!4d74.133582!16s%2Fg%2F11c0phyhkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karwar+Eye+Hospital/@14.8228392,74.133582,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60c83aae2d15:0xfa2c1da26291aee!8m2!3d14.8228392!4d74.133582!16s%2Fg%2F11c0phyhkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -2814,7 +2837,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Karwar+Eye+Hospital/@14.8228392,74.133582,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60c83aae2d15:0xfa2c1da26291aee!8m2!3d14.8228392!4d74.133582!16s%2Fg%2F11c0phyhkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "karwar-institute-of-medical-sciences-hospital-new-block-karwar",
@@ -2862,7 +2886,7 @@
     "metrics": [
       "Google rating 3.0"
     ],
-    "image": "https://www.google.com/maps/place/Karwar+Institute+of+Medical+Sciences+Hospital+%28New+Block%29/data=!4m7!3m6!1s0x3bbe61006b8820b1:0xc8901e35d02e29c9!8m2!3d14.8187955!4d74.1291201!16s%2Fg%2F11md22_gg2!19sChIJsSCIawBhvjsRySku0DUekMg?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Karwar+Institute+of+Medical+Sciences+Hospital+%28New+Block%29/data=!4m7!3m6!1s0x3bbe61006b8820b1:0xc8901e35d02e29c9!8m2!3d14.8187955!4d74.1291201!16s%2Fg%2F11md22_gg2!19sChIJsSCIawBhvjsRySku0DUekMg?authuser=0&hl=en&rclk=1"
@@ -2928,10 +2952,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 3.0,
+    "rating": 3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Karwar+Institute+of+Medical+Sciences+Hospital+%28New+Block%29/data=!4m7!3m6!1s0x3bbe61006b8820b1:0xc8901e35d02e29c9!8m2!3d14.8187955!4d74.1291201!16s%2Fg%2F11md22_gg2!19sChIJsSCIawBhvjsRySku0DUekMg?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "karwar-ortho-clinic-karwar",
@@ -2979,7 +3004,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/KARWAR+ORTHO+CLINIC/@14.8103643,74.1305077,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d18dbfc4b1:0x95ed908f4133de6d!8m2!3d14.8103643!4d74.1305077!16s%2Fg%2F11tg93zvv8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/KARWAR+ORTHO+CLINIC/@14.8103643,74.1305077,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d18dbfc4b1:0x95ed908f4133de6d!8m2!3d14.8103643!4d74.1305077!16s%2Fg%2F11tg93zvv8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3045,10 +3070,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/KARWAR+ORTHO+CLINIC/@14.8103643,74.1305077,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d18dbfc4b1:0x95ed908f4133de6d!8m2!3d14.8103643!4d74.1305077!16s%2Fg%2F11tg93zvv8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "khushi-mother-care-hospital-karwar",
@@ -3097,7 +3123,7 @@
     "metrics": [
       "Google rating 3.3"
     ],
-    "image": "https://www.google.com/maps/place/Khushi+Mother+Care+Hospital/@14.8187764,74.1323007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61d628737773:0xe7b7e81478eeb820!8m2!3d14.8187764!4d74.1323007!16s%2Fg%2F11lkb3vcvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Khushi+Mother+Care+Hospital/@14.8187764,74.1323007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61d628737773:0xe7b7e81478eeb820!8m2!3d14.8187764!4d74.1323007!16s%2Fg%2F11lkb3vcvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3166,7 +3192,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Khushi+Mother+Care+Hospital/@14.8187764,74.1323007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61d628737773:0xe7b7e81478eeb820!8m2!3d14.8187764!4d74.1323007!16s%2Fg%2F11lkb3vcvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "konkan-medical-centre-karwar",
@@ -3212,7 +3239,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Konkan+Medical+Centre/@14.8121111,74.1293408,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60cdf84be53d:0x4fd0b350d57b666f!8m2!3d14.8121111!4d74.1293408!16s%2Fg%2F1w9x_k7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Konkan+Medical+Centre/@14.8121111,74.1293408,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60cdf84be53d:0x4fd0b350d57b666f!8m2!3d14.8121111!4d74.1293408!16s%2Fg%2F1w9x_k7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3278,10 +3305,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Konkan+Medical+Centre/@14.8121111,74.1293408,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60cdf84be53d:0x4fd0b350d57b666f!8m2!3d14.8121111!4d74.1293408!16s%2Fg%2F1w9x_k7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "krsnaa-diagnostics-district-hospital-karwar-karwar",
@@ -3331,7 +3359,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%28District+Hospital+KARWAR+%29/data=!4m7!3m6!1s0x3bbe60cc03c33ce7:0xf6ebfc4a2258ec3d!8m2!3d14.817235!4d74.12961!16s%2Fg%2F11gf8dzb1b!19sChIJ5zzDA8xgvjsRPexYIkr86_Y?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Krsnaa+Diagnostics+%28District+Hospital+KARWAR+%29/data=!4m7!3m6!1s0x3bbe60cc03c33ce7:0xf6ebfc4a2258ec3d!8m2!3d14.817235!4d74.12961!16s%2Fg%2F11gf8dzb1b!19sChIJ5zzDA8xgvjsRPexYIkr86_Y?authuser=0&hl=en&rclk=1"
@@ -3400,7 +3428,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Krsnaa+Diagnostics+%28District+Hospital+KARWAR+%29/data=!4m7!3m6!1s0x3bbe60cc03c33ce7:0xf6ebfc4a2258ec3d!8m2!3d14.817235!4d74.12961!16s%2Fg%2F11gf8dzb1b!19sChIJ5zzDA8xgvjsRPexYIkr86_Y?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "kunkur-bone-fracture-treatment-kunkur",
@@ -3449,7 +3478,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Kunkur+Bone+Fracture+Treatment/@15.1326515,75.1767939,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb9256b40000001:0x1c7bd7ca16ed12cf!8m2!3d15.1326515!4d75.1767939!16s%2Fg%2F11fz1hjmf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kunkur+Bone+Fracture+Treatment/@15.1326515,75.1767939,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb9256b40000001:0x1c7bd7ca16ed12cf!8m2!3d15.1326515!4d75.1767939!16s%2Fg%2F11fz1hjmf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3518,7 +3547,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kunkur+Bone+Fracture+Treatment/@15.1326515,75.1767939,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb9256b40000001:0x1c7bd7ca16ed12cf!8m2!3d15.1326515!4d75.1767939!16s%2Fg%2F11fz1hjmf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "kunkur-bone-hospital-karnataka-kunkur",
@@ -3568,7 +3598,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Kunkur+Bone+Hospital,+Karnataka/@15.1258375,75.1726406,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb925c780a307c9:0xf5e6beb4b8d4a3f4!8m2!3d15.1258375!4d75.1726406!16s%2Fg%2F11q26z9ggk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Kunkur+Bone+Hospital,+Karnataka/@15.1258375,75.1726406,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb925c780a307c9:0xf5e6beb4b8d4a3f4!8m2!3d15.1258375!4d75.1726406!16s%2Fg%2F11q26z9ggk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3637,7 +3667,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Kunkur+Bone+Hospital,+Karnataka/@15.1258375,75.1726406,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb925c780a307c9:0xf5e6beb4b8d4a3f4!8m2!3d15.1258375!4d75.1726406!16s%2Fg%2F11q26z9ggk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "mahishi-trust-s-yoga-and-naturopathy-hospital-dharwad-hubli-daddi-kamalaapur",
@@ -3687,7 +3718,7 @@
       "Google rating 4.8",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Mahishi+Trust's+Yoga+%26+Naturopathy+Hospital+Dharwad-Hubli/@15.4577038,74.9285954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf3285c06a50a5:0xbd00cc3b897dd3b!8m2!3d15.4577038!4d74.9285954!16s%2Fg%2F1q64r5k3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Mahishi+Trust's+Yoga+%26+Naturopathy+Hospital+Dharwad-Hubli/@15.4577038,74.9285954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf3285c06a50a5:0xbd00cc3b897dd3b!8m2!3d15.4577038!4d74.9285954!16s%2Fg%2F1q64r5k3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3756,7 +3787,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Mahishi+Trust's+Yoga+%26+Naturopathy+Hospital+Dharwad-Hubli/@15.4577038,74.9285954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbf3285c06a50a5:0xbd00cc3b897dd3b!8m2!3d15.4577038!4d74.9285954!16s%2Fg%2F1q64r5k3p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "medsquare-ayurvedic-treatment-center-karwar-karwar",
@@ -3805,7 +3837,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/MedSquare+Ayurvedic+Treatment+Center+Karwar/@14.8076865,74.1335408,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe6196cf778081:0xd6e9904071cf47c9!8m2!3d14.8076865!4d74.1335408!16s%2Fg%2F11x8z_x05n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/MedSquare+Ayurvedic+Treatment+Center+Karwar/@14.8076865,74.1335408,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe6196cf778081:0xd6e9904071cf47c9!8m2!3d14.8076865!4d74.1335408!16s%2Fg%2F11x8z_x05n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -3871,10 +3903,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/MedSquare+Ayurvedic+Treatment+Center+Karwar/@14.8076865,74.1335408,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe6196cf778081:0xd6e9904071cf47c9!8m2!3d14.8076865!4d74.1335408!16s%2Fg%2F11x8z_x05n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "piles-fistula-clinic-peralasis-treatment-karwar",
@@ -3922,7 +3955,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Piles+fistula+clinic+Peralasis+treatment/data=!4m7!3m6!1s0x3bbe5f83e9995b89:0x2a971dfdd2c2c3ca!8m2!3d14.8979323!4d74.1076005!16s%2Fg%2F11krj74dbn!19sChIJiVuZ6YNfvjsRysPC0v0dlyo?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Piles+fistula+clinic+Peralasis+treatment/data=!4m7!3m6!1s0x3bbe5f83e9995b89:0x2a971dfdd2c2c3ca!8m2!3d14.8979323!4d74.1076005!16s%2Fg%2F11krj74dbn!19sChIJiVuZ6YNfvjsRysPC0v0dlyo?authuser=0&hl=en&rclk=1"
@@ -3991,7 +4024,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Piles+fistula+clinic+Peralasis+treatment/data=!4m7!3m6!1s0x3bbe5f83e9995b89:0x2a971dfdd2c2c3ca!8m2!3d14.8979323!4d74.1076005!16s%2Fg%2F11krj74dbn!19sChIJiVuZ6YNfvjsRysPC0v0dlyo?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "prashanti-dispensary-karwar",
@@ -4039,7 +4073,7 @@
     "metrics": [
       "Google rating 3.7"
     ],
-    "image": "https://www.google.com/maps/place/Prashanti+Dispensary/@14.8331105,74.1464722,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60bd76f5ef8b:0xf8732b5d8ed1194a!8m2!3d14.8331105!4d74.1464722!16s%2Fg%2F11cn6fmv2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prashanti+Dispensary/@14.8331105,74.1464722,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60bd76f5ef8b:0xf8732b5d8ed1194a!8m2!3d14.8331105!4d74.1464722!16s%2Fg%2F11cn6fmv2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4108,7 +4142,8 @@
     "rating": 3.7,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prashanti+Dispensary/@14.8331105,74.1464722,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60bd76f5ef8b:0xf8732b5d8ed1194a!8m2!3d14.8331105!4d74.1464722!16s%2Fg%2F11cn6fmv2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "prime-dental-care-karwar",
@@ -4154,7 +4189,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Prime+dental+care/data=!4m7!3m6!1s0x3bbe61828d56936d:0x50ec70ce0a9e5065!8m2!3d14.8054453!4d74.1311402!16s%2Fg%2F11t6_m2t4m!19sChIJbZNWjYJhvjsRZVCeCs5w7FA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Prime+dental+care/data=!4m7!3m6!1s0x3bbe61828d56936d:0x50ec70ce0a9e5065!8m2!3d14.8054453!4d74.1311402!16s%2Fg%2F11t6_m2t4m!19sChIJbZNWjYJhvjsRZVCeCs5w7FA?authuser=0&hl=en&rclk=1"
@@ -4220,10 +4255,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Prime+dental+care/data=!4m7!3m6!1s0x3bbe61828d56936d:0x50ec70ce0a9e5065!8m2!3d14.8054453!4d74.1311402!16s%2Fg%2F11t6_m2t4m!19sChIJbZNWjYJhvjsRZVCeCs5w7FA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "r-n-nayak-hospital-and-mrc-ankola-ankola",
@@ -4272,7 +4308,7 @@
       "Google rating 4.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/R+N+Nayak+Hospital+%26+MRC,+Ankola/@14.661766,74.3097192,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe8609bd9dfaff:0x7c564ff2dbd53c09!8m2!3d14.661766!4d74.3097192!16s%2Fg%2F1tjddmws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/R+N+Nayak+Hospital+%26+MRC,+Ankola/@14.661766,74.3097192,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe8609bd9dfaff:0x7c564ff2dbd53c09!8m2!3d14.661766!4d74.3097192!16s%2Fg%2F1tjddmws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4338,10 +4374,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 4.0,
+    "rating": 4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/R+N+Nayak+Hospital+%26+MRC,+Ankola/@14.661766,74.3097192,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe8609bd9dfaff:0x7c564ff2dbd53c09!8m2!3d14.661766!4d74.3097192!16s%2Fg%2F1tjddmws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "rafael-medicare-centre-madgaon",
@@ -4390,7 +4427,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Rafael+Medicare+Centre/@15.2740632,73.9599288,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c29a2c9019:0x1d28d34ca34347e5!8m2!3d15.2740632!4d73.9599288!16s%2Fg%2F1z44xylvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Rafael+Medicare+Centre/@15.2740632,73.9599288,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c29a2c9019:0x1d28d34ca34347e5!8m2!3d15.2740632!4d73.9599288!16s%2Fg%2F1z44xylvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4456,10 +4493,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Rafael+Medicare+Centre/@15.2740632,73.9599288,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c29a2c9019:0x1d28d34ca34347e5!8m2!3d15.2740632!4d73.9599288!16s%2Fg%2F1z44xylvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "renuka-the-lung-care-karwar",
@@ -4507,7 +4545,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Renuka+the+lung+care/@14.8182206,74.1325522,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61b13ddf628d:0x1da8f10ed4839fb8!8m2!3d14.8182206!4d74.1325522!16s%2Fg%2F11ydtktrdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Renuka+the+lung+care/@14.8182206,74.1325522,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61b13ddf628d:0x1da8f10ed4839fb8!8m2!3d14.8182206!4d74.1325522!16s%2Fg%2F11ydtktrdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4573,10 +4611,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Renuka+the+lung+care/@14.8182206,74.1325522,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61b13ddf628d:0x1da8f10ed4839fb8!8m2!3d14.8182206!4d74.1325522!16s%2Fg%2F11ydtktrdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sapphire-diagnostics-karwar-karwar",
@@ -4623,7 +4662,7 @@
       "Visit coordination"
     ],
     "metrics": [],
-    "image": "https://www.google.com/maps/place/Sapphire+Diagnostics+Karwar/@14.8190103,74.1325182,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe612407a7c21f:0x58541e57b6bdce63!8m2!3d14.8190103!4d74.1325182!16s%2Fg%2F11xcmlg26n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sapphire+Diagnostics+Karwar/@14.8190103,74.1325182,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe612407a7c21f:0x58541e57b6bdce63!8m2!3d14.8190103!4d74.1325182!16s%2Fg%2F11xcmlg26n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4689,10 +4728,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 0.0,
+    "rating": 0,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sapphire+Diagnostics+Karwar/@14.8190103,74.1325182,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe612407a7c21f:0x58541e57b6bdce63!8m2!3d14.8190103!4d74.1325182!16s%2Fg%2F11xcmlg26n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sasya-sanjeevini-panchakarma-centre-gokarna",
@@ -4741,7 +4781,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Sasya+Sanjeevini+Panchakarma+Centre/@14.5283994,74.3312534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe83cda51a0753:0x2da1bf6436067b03!8m2!3d14.5283994!4d74.3312534!16s%2Fg%2F11c54425p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sasya+Sanjeevini+Panchakarma+Centre/@14.5283994,74.3312534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe83cda51a0753:0x2da1bf6436067b03!8m2!3d14.5283994!4d74.3312534!16s%2Fg%2F11c54425p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -4810,7 +4850,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sasya+Sanjeevini+Panchakarma+Centre/@14.5283994,74.3312534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe83cda51a0753:0x2da1bf6436067b03!8m2!3d14.5283994!4d74.3312534!16s%2Fg%2F11c54425p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shanti-dental-clinic-and-implant-center-karwar",
@@ -4858,7 +4899,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Shanti+Dental+Clinic+and+Implant+center/data=!4m7!3m6!1s0x3bbe60d202a63f7b:0x5fc97a4b9a83d19c!8m2!3d14.8114283!4d74.1299151!16s%2Fg%2F11g_rfhyl!19sChIJez-mAtJgvjsRnNGDmkt6yV8?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shanti+Dental+Clinic+and+Implant+center/data=!4m7!3m6!1s0x3bbe60d202a63f7b:0x5fc97a4b9a83d19c!8m2!3d14.8114283!4d74.1299151!16s%2Fg%2F11g_rfhyl!19sChIJez-mAtJgvjsRnNGDmkt6yV8?authuser=0&hl=en&rclk=1"
@@ -4927,7 +4968,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shanti+Dental+Clinic+and+Implant+center/data=!4m7!3m6!1s0x3bbe60d202a63f7b:0x5fc97a4b9a83d19c!8m2!3d14.8114283!4d74.1299151!16s%2Fg%2F11g_rfhyl!19sChIJez-mAtJgvjsRnNGDmkt6yV8?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "shetty-eye-hospital-eye-hospital-in-karwar-eye-clinic-best-ophthalmologist-near-me-karwar",
@@ -4976,7 +5018,7 @@
       "Google rating 4.4",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shetty+Eye+Hospital+%7C+Eye+Hospital+in+Karwar+%7C+Eye+Clinic%7C+Best+Ophthalmologist+near+me./@14.8107231,74.1288127,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d2185e6849:0x447a59b8d12c279!8m2!3d14.8107231!4d74.1288127!16s%2Fg%2F11c5sym3s1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shetty+Eye+Hospital+%7C+Eye+Hospital+in+Karwar+%7C+Eye+Clinic%7C+Best+Ophthalmologist+near+me./@14.8107231,74.1288127,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d2185e6849:0x447a59b8d12c279!8m2!3d14.8107231!4d74.1288127!16s%2Fg%2F11c5sym3s1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5045,7 +5087,8 @@
     "rating": 4.4,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shetty+Eye+Hospital+%7C+Eye+Hospital+in+Karwar+%7C+Eye+Clinic%7C+Best+Ophthalmologist+near+me./@14.8107231,74.1288127,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d2185e6849:0x447a59b8d12c279!8m2!3d14.8107231!4d74.1288127!16s%2Fg%2F11c5sym3s1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-acupressure-wellness-center-akash-complex",
@@ -5094,7 +5137,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Acupressure+Wellness+Center/@15.2615327,73.9639081,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb315ab442f41:0xa498f8940cc25c45!8m2!3d15.2615327!4d73.9639081!16s%2Fg%2F11jdxjflbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Acupressure+Wellness+Center/@15.2615327,73.9639081,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb315ab442f41:0xa498f8940cc25c45!8m2!3d15.2615327!4d73.9639081!16s%2Fg%2F11jdxjflbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5160,10 +5203,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Acupressure+Wellness+Center/@15.2615327,73.9639081,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb315ab442f41:0xa498f8940cc25c45!8m2!3d15.2615327!4d73.9639081!16s%2Fg%2F11jdxjflbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "shree-datta-clinic-mudageri-arav",
@@ -5211,7 +5255,7 @@
     "metrics": [
       "Google rating 4.8"
     ],
-    "image": "https://www.google.com/maps/place/Shree+Datta+Clinic/@14.8849998,74.1304152,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe5f8c9b757405:0xc44908e24321c84d!8m2!3d14.8849998!4d74.1304152!16s%2Fg%2F11h5rr4yfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Shree+Datta+Clinic/@14.8849998,74.1304152,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe5f8c9b757405:0xc44908e24321c84d!8m2!3d14.8849998!4d74.1304152!16s%2Fg%2F11h5rr4yfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5280,7 +5324,8 @@
     "rating": 4.8,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Shree+Datta+Clinic/@14.8849998,74.1304152,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe5f8c9b757405:0xc44908e24321c84d!8m2!3d14.8849998!4d74.1304152!16s%2Fg%2F11h5rr4yfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sparsh-polyclinic-and-diagnostics-karwar",
@@ -5328,7 +5373,7 @@
     "metrics": [
       "Google rating 4.9"
     ],
-    "image": "https://www.google.com/maps/place/Sparsh+polyclinic+and+diagnostics/data=!4m7!3m6!1s0x3bbe6185a3efd799:0xeec5de10908f9a2f!8m2!3d14.8047137!4d74.1270699!16s%2Fg%2F11p0fykqv5!19sChIJmdfvo4VhvjsRL5qPkBDexe4?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sparsh+polyclinic+and+diagnostics/data=!4m7!3m6!1s0x3bbe6185a3efd799:0xeec5de10908f9a2f!8m2!3d14.8047137!4d74.1270699!16s%2Fg%2F11p0fykqv5!19sChIJmdfvo4VhvjsRL5qPkBDexe4?authuser=0&hl=en&rclk=1"
@@ -5397,7 +5442,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sparsh+polyclinic+and+diagnostics/data=!4m7!3m6!1s0x3bbe6185a3efd799:0xeec5de10908f9a2f!8m2!3d14.8047137!4d74.1270699!16s%2Fg%2F11p0fykqv5!19sChIJmdfvo4VhvjsRL5qPkBDexe4?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "spine-clinic-physiotherapy-majali",
@@ -5448,7 +5494,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Spine+Clinic+Physiotherapy/@14.8865369,74.1080503,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe5d33c408c7c9:0x2ee244e2b3d41077!8m2!3d14.8865369!4d74.1080503!16s%2Fg%2F11y1fswmrj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Spine+Clinic+Physiotherapy/@14.8865369,74.1080503,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe5d33c408c7c9:0x2ee244e2b3d41077!8m2!3d14.8865369!4d74.1080503!16s%2Fg%2F11y1fswmrj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5514,10 +5560,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Spine+Clinic+Physiotherapy/@14.8865369,74.1080503,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe5d33c408c7c9:0x2ee244e2b3d41077!8m2!3d14.8865369!4d74.1080503!16s%2Fg%2F11y1fswmrj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-mahalasa-family-dental-care-karwar",
@@ -5565,7 +5612,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Mahalasa+Family+Dental+Care/@14.8076964,74.1305128,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d15d1774d5:0x9d5790f09a7535f2!8m2!3d14.8076964!4d74.1305128!16s%2Fg%2F11g_p9r56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Mahalasa+Family+Dental+Care/@14.8076964,74.1305128,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d15d1774d5:0x9d5790f09a7535f2!8m2!3d14.8076964!4d74.1305128!16s%2Fg%2F11g_p9r56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5631,10 +5678,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Mahalasa+Family+Dental+Care/@14.8076964,74.1305128,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe60d15d1774d5:0x9d5790f09a7535f2!8m2!3d14.8076964!4d74.1305128!16s%2Fg%2F11g_p9r56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "sri-sai-ent-and-dental-clinic-karwar",
@@ -5682,7 +5730,7 @@
     "metrics": [
       "Google rating 4.3"
     ],
-    "image": "https://www.google.com/maps/place/Sri+Sai+Ent+%26+Dental+Clinic/@14.8067344,74.1295111,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe614ae660e4cf:0x734c3b107665e485!8m2!3d14.8067344!4d74.1295111!16s%2Fg%2F11h7stjn3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Sri+Sai+Ent+%26+Dental+Clinic/@14.8067344,74.1295111,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe614ae660e4cf:0x734c3b107665e485!8m2!3d14.8067344!4d74.1295111!16s%2Fg%2F11h7stjn3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5751,7 +5799,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Sri+Sai+Ent+%26+Dental+Clinic/@14.8067344,74.1295111,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe614ae660e4cf:0x734c3b107665e485!8m2!3d14.8067344!4d74.1295111!16s%2Fg%2F11h7stjn3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "st-ignatius-hospital-honnavar",
@@ -5800,7 +5849,7 @@
       "Google rating 3.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/St+Ignatius+hospital/@14.2872397,74.4534625,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbc3b026c8e712f:0xcd32d4bd87b2244f!8m2!3d14.2872397!4d74.4534625!16s%2Fg%2F1hc10kgqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/St+Ignatius+hospital/@14.2872397,74.4534625,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbc3b026c8e712f:0xcd32d4bd87b2244f!8m2!3d14.2872397!4d74.4534625!16s%2Fg%2F1hc10kgqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5869,7 +5918,8 @@
     "rating": 3.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/St+Ignatius+hospital/@14.2872397,74.4534625,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbc3b026c8e712f:0xcd32d4bd87b2244f!8m2!3d14.2872397!4d74.4534625!16s%2Fg%2F1hc10kgqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "st-mary-s-paralytic-centre-gopashitta",
@@ -5917,7 +5967,7 @@
     "metrics": [
       "Google rating 4.1"
     ],
-    "image": "https://www.google.com/maps/place/St.+Mary's+Paralytic+Centre/@14.9048173,74.2223775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbef562c2630a01:0x77ba561439dbcd11!8m2!3d14.9048173!4d74.2223775!16s%2Fg%2F1ts2yqwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/St.+Mary's+Paralytic+Centre/@14.9048173,74.2223775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbef562c2630a01:0x77ba561439dbcd11!8m2!3d14.9048173!4d74.2223775!16s%2Fg%2F1ts2yqwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -5986,7 +6036,8 @@
     "rating": 4.1,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/St.+Mary's+Paralytic+Centre/@14.9048173,74.2223775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbef562c2630a01:0x77ba561439dbcd11!8m2!3d14.9048173!4d74.2223775!16s%2Fg%2F1ts2yqwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swastik-diagnostic-centre-nabl-certified-laboratory-advanced-pathology-and-blood-testing-service-center-in-karwar-karwar",
@@ -6036,7 +6087,7 @@
       "Google rating 4.9",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Swastik+Diagnostic+Centre+(NABL+Certified+Laboratory)-+Advanced+Pathology+and+Blood+Testing+Service+Center+in+Karwar/@14.821759,74.1321304,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe617940eab19d:0x32ef066805dc2304!8m2!3d14.821759!4d74.1321304!16s%2Fg%2F11vxzbj9x_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swastik+Diagnostic+Centre+(NABL+Certified+Laboratory)-+Advanced+Pathology+and+Blood+Testing+Service+Center+in+Karwar/@14.821759,74.1321304,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe617940eab19d:0x32ef066805dc2304!8m2!3d14.821759!4d74.1321304!16s%2Fg%2F11vxzbj9x_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6105,7 +6156,8 @@
     "rating": 4.9,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swastik+Diagnostic+Centre+(NABL+Certified+Laboratory)-+Advanced+Pathology+and+Blood+Testing+Service+Center+in+Karwar/@14.821759,74.1321304,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe617940eab19d:0x32ef066805dc2304!8m2!3d14.821759!4d74.1321304!16s%2Fg%2F11vxzbj9x_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "swastik-diagnostic-centre-certified-laboratory-in-karwar-karwar",
@@ -6155,7 +6207,7 @@
       "Google rating 5.0",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Swastik+Diagnostic+Centre+%7C+Certified+Laboratory+in+Karwar./data=!4m7!3m6!1s0x3bbe6193f29bcf77:0xe32d343d2da200b7!8m2!3d14.8545153!4d74.1331495!16s%2Fg%2F11sn_2qsqt!19sChIJd8-b8pNhvjsRtwCiLT00LeM?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Swastik+Diagnostic+Centre+%7C+Certified+Laboratory+in+Karwar./data=!4m7!3m6!1s0x3bbe6193f29bcf77:0xe32d343d2da200b7!8m2!3d14.8545153!4d74.1331495!16s%2Fg%2F11sn_2qsqt!19sChIJd8-b8pNhvjsRtwCiLT00LeM?authuser=0&hl=en&rclk=1"
@@ -6221,10 +6273,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Swastik+Diagnostic+Centre+%7C+Certified+Laboratory+in+Karwar./data=!4m7!3m6!1s0x3bbe6193f29bcf77:0xe32d343d2da200b7!8m2!3d14.8545153!4d74.1331495!16s%2Fg%2F11sn_2qsqt!19sChIJd8-b8pNhvjsRtwCiLT00LeM?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "tara-clinic-karwar",
@@ -6272,7 +6325,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Tara+clinic/@14.8085125,74.1297656,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61007107a597:0x84465a2f8862ab45!8m2!3d14.8085125!4d74.1297656!16s%2Fg%2F11vpcmvwx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Tara+clinic/@14.8085125,74.1297656,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61007107a597:0x84465a2f8862ab45!8m2!3d14.8085125!4d74.1297656!16s%2Fg%2F11vpcmvwx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6338,10 +6391,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Tara+clinic/@14.8085125,74.1297656,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61007107a597:0x84465a2f8862ab45!8m2!3d14.8085125!4d74.1297656!16s%2Fg%2F11vpcmvwx3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "ultra-modern-dental-clinic-karwar",
@@ -6389,7 +6443,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/Ultra+Modern+Dental+Clinic/data=!4m7!3m6!1s0x3bbe61d072472449:0x60269d7c6a38e586!8m2!3d14.8166818!4d74.1371518!16s%2Fg%2F11n6vbz2vc!19sChIJSSRHctBhvjsRhuU4anydJmA?authuser=0&hl=en&rclk=1",
+    "image": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Ultra+Modern+Dental+Clinic/data=!4m7!3m6!1s0x3bbe61d072472449:0x60269d7c6a38e586!8m2!3d14.8166818!4d74.1371518!16s%2Fg%2F11n6vbz2vc!19sChIJSSRHctBhvjsRhuU4anydJmA?authuser=0&hl=en&rclk=1"
@@ -6455,10 +6509,11 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Ultra+Modern+Dental+Clinic/data=!4m7!3m6!1s0x3bbe61d072472449:0x60269d7c6a38e586!8m2!3d14.8166818!4d74.1371518!16s%2Fg%2F11n6vbz2vc!19sChIJSSRHctBhvjsRhuU4anydJmA?authuser=0&hl=en&rclk=1"
   },
   {
     "slug": "victor-hospital-madgaon",
@@ -6507,7 +6562,7 @@
       "Google rating 4.3",
       "Official website listed"
     ],
-    "image": "https://www.google.com/maps/place/Victor+Hospital/@15.2689598,73.9663188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6c5c4520d:0xa4045e195fdd67b3!8m2!3d15.2689598!4d73.9663188!16s%2Fg%2F1tdl4l90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/Victor+Hospital/@15.2689598,73.9663188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6c5c4520d:0xa4045e195fdd67b3!8m2!3d15.2689598!4d73.9663188!16s%2Fg%2F1tdl4l90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6576,7 +6631,8 @@
     "rating": 4.3,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/Victor+Hospital/@15.2689598,73.9663188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfb3c6c5c4520d:0xa4045e195fdd67b3!8m2!3d15.2689598!4d73.9663188!16s%2Fg%2F1tdl4l90?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "slug": "vinayak-dental-clinic-karwar",
@@ -6624,7 +6680,7 @@
     "metrics": [
       "Google rating 5.0"
     ],
-    "image": "https://www.google.com/maps/place/VINAYAK+DENTAL+CLINIC/@14.8094782,74.1304479,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61cbfe0d1cb3:0xf1f995c85061e53c!8m2!3d14.8094782!4d74.1304479!16s%2Fg%2F11qh6yzzjj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80",
     "logo": "",
     "gallery": [
       "https://www.google.com/maps/place/VINAYAK+DENTAL+CLINIC/@14.8094782,74.1304479,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61cbfe0d1cb3:0xf1f995c85061e53c!8m2!3d14.8094782!4d74.1304479!16s%2Fg%2F11qh6yzzjj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
@@ -6690,9 +6746,10 @@
       "left": 0,
       "top": 0
     },
-    "rating": 5.0,
+    "rating": 5,
     "reviews": 0,
     "distance": "",
-    "hours": "Hours not publicly listed"
+    "hours": "Hours not publicly listed",
+    "map_url": "https://www.google.com/maps/place/VINAYAK+DENTAL+CLINIC/@14.8094782,74.1304479,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbe61cbfe0d1cb3:0xf1f995c85061e53c!8m2!3d14.8094782!4d74.1304479!16s%2Fg%2F11qh6yzzjj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]
