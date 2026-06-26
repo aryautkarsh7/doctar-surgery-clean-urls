@@ -1,0 +1,120 @@
+[
+  {
+    "slug": "skin-health-and-rejuvenation-centre-mumbai",
+    "name": "Skin Health & Rejuvenation Centre",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Skin Health & Rejuvenation Centre has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Cardiac Surgery In Thane. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "089284 92540",
+    "alternatePhone": "",
+    "website": "https://www.rfhospital.org/care-centres/well-women-centre/skin-health-rejuvenation-centre",
+    "address": "Gate No - 5, Reliance Foundation Hospital, Sir H. N, Prarthana Samaj, Raja Ram Mohan Roy Rd, Charni Road East, Khetwadi, Girgaon, Mumbai, Maharashtra 400004",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400004",
+    "locality": "Girgaon",
+    "landmark": "Sir H. N",
+    "emergencyContact": "089284 92540",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Thane"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Skin+Health+%26+Rejuvenation+Centre/data=!4m7!3m6!1s0x3be7cf4463f50f11:0xf100b40d71518b86!8m2!3d18.958733!4d72.82005!16s%2Fg%2F11lnwx__7r!19sChIJEQ_1Y0TP5zsRhotRcQ20APE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Skin+Health+%26+Rejuvenation+Centre/data=!4m7!3m6!1s0x3be7cf4463f50f11:0xf100b40d71518b86!8m2!3d18.958733!4d72.82005!16s%2Fg%2F11lnwx__7r!19sChIJEQ_1Y0TP5zsRhotRcQ20APE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.958733,
+      "lng": 72.82005,
+      "label": "Skin Health & Rejuvenation Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+]

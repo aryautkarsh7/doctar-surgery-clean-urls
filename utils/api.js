@@ -199,9 +199,13 @@
       const fileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + 'doctar.json';
       const cityUrl = '/data/cities/' + fileName;
       
-      const [res1, res2] = await Promise.all([
+      const hospFileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + '.json';
+      const hospUrl = '/data/hospitals/' + hospFileName;
+      
+      const [res1, res2, res3] = await Promise.all([
         fetch(API_BASE + '/api/data/critical', { cache: 'no-store' }).catch(() => null),
         fetch(cityUrl, { cache: 'no-store' }).catch(() => null),
+        fetch(hospUrl, { cache: 'no-store' }).catch(() => null),
       ]);
 
       // Apply critical data (categories, treatments, subcategories, cities list)
@@ -253,6 +257,19 @@
           HOSPITALS.push(...Array.from(hMap.values()));
         }
       }
+      
+      // Merge rich hospital data
+      if (res3 && res3.ok) {
+        const json3 = await res3.json();
+        if (Array.isArray(json3) && json3.length > 0) {
+          const existingMap = new Map(HOSPITALS.map(h => [h.name, h]));
+          json3.forEach(h => {
+             existingMap.set(h.name, { ...(existingMap.get(h.name) || {}), ...h, city: h.city || city });
+          });
+          HOSPITALS.length = 0;
+          HOSPITALS.push(...Array.from(existingMap.values()));
+        }
+      }
 
       console.log('✅ Remote data loaded for', city);
     } catch (err) {
@@ -266,26 +283,45 @@
       const fileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + 'doctar.json';
       const cityUrl = '/data/cities/' + fileName;
       
-      const res = await fetch(cityUrl, { cache: 'no-store' });
-      if (!res.ok) return;
-      const json = await res.json();
+      const hospFileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + '.json';
+      const hospUrl = '/data/hospitals/' + hospFileName;
+      
+      const [res, resHosp] = await Promise.all([
+        fetch(cityUrl, { cache: 'no-store' }).catch(() => null),
+        fetch(hospUrl, { cache: 'no-store' }).catch(() => null)
+      ]);
 
-      if (Array.isArray(json)) {
-        DOCTORS.length = 0;
-        DOCTORS.push(...json);
-        
-        const hMap = new Map();
-        json.forEach(doc => {
-          if (Array.isArray(doc.hospitals)) {
-            doc.hospitals.forEach(h => {
-              if (!hMap.has(h.name)) {
-                hMap.set(h.name, { ...h, city: city });
-              }
-            });
-          }
-        });
-        HOSPITALS.length = 0;
-        HOSPITALS.push(...Array.from(hMap.values()));
+      if (res && res.ok) {
+        const json = await res.json();
+        if (Array.isArray(json)) {
+          DOCTORS.length = 0;
+          DOCTORS.push(...json);
+          
+          const hMap = new Map();
+          json.forEach(doc => {
+            if (Array.isArray(doc.hospitals)) {
+              doc.hospitals.forEach(h => {
+                if (!hMap.has(h.name)) {
+                  hMap.set(h.name, { ...h, city: city });
+                }
+              });
+            }
+          });
+          HOSPITALS.length = 0;
+          HOSPITALS.push(...Array.from(hMap.values()));
+        }
+      }
+      
+      if (resHosp && resHosp.ok) {
+        const jsonHosp = await resHosp.json();
+        if (Array.isArray(jsonHosp) && jsonHosp.length > 0) {
+          const existingMap = new Map(HOSPITALS.map(h => [h.name, h]));
+          jsonHosp.forEach(h => {
+             existingMap.set(h.name, { ...(existingMap.get(h.name) || {}), ...h, city: h.city || city });
+          });
+          HOSPITALS.length = 0;
+          HOSPITALS.push(...Array.from(existingMap.values()));
+        }
       }
 
       console.log('✅ City data reloaded for', city);

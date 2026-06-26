@@ -1,0 +1,238 @@
+[
+  {
+    "slug": "mallika-hospitals-mahbubnagar",
+    "name": "MALLIKA HOSPITALS",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MALLIKA HOSPITALS has built a strong reputation in Mahbubnagar for multidisciplinary treatment pathways covering Heart Surgery In Mahbubnagar. Operational strengths including Google rating 3.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098854 54128",
+    "alternatePhone": "",
+    "website": "https://mallikahospitals.in/",
+    "address": "Rajendra Nagar, Mahbubnagar, Telangana 509001",
+    "city": "Mahbubnagar",
+    "state": "Telangana",
+    "pincode": "509001",
+    "locality": "Rajendra Nagar",
+    "landmark": "Telangana 509001",
+    "emergencyContact": "098854 54128",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mahbubnagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MALLIKA+HOSPITALS/@16.754533,77.9999504,17z/data=!3m1!4b1!4m6!3m5!1s0x3bca28a3d6724de5:0x93a68169048436e4!8m2!3d16.754533!4d77.9999504!16s%2Fg%2F11dxcgydy5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MALLIKA+HOSPITALS/@16.754533,77.9999504,17z/data=!3m1!4b1!4m6!3m5!1s0x3bca28a3d6724de5:0x93a68169048436e4!8m2!3d16.754533!4d77.9999504!16s%2Fg%2F11dxcgydy5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.754533,
+      "lng": 77.9999504,
+      "label": "MALLIKA HOSPITALS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mathru-hrudayam-hospital-mahbubnagar",
+    "name": "Mathru Hrudayam Hospital",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mahbubnagar, Mathru Hrudayam Hospital offers coordinated hospital care with major focus on Heart Surgery In Mahbubnagar and Cardiac Care. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "087900 34955",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near, Shetty Complex Rd, New Town, Mahbubnagar, Telangana 509001",
+    "city": "Mahbubnagar",
+    "state": "Telangana",
+    "pincode": "509001",
+    "locality": "New Town",
+    "landmark": "New Town",
+    "emergencyContact": "087900 34955",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mahbubnagar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Mathru+Hrudayam+Hospital/@16.7523198,78.0017831,17z/data=!3m1!4b1!4m6!3m5!1s0x3bca29aee39d7c31:0xb7eeff6f6469e4e8!8m2!3d16.7523198!4d78.0017831!16s%2Fg%2F11v035lwqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mathru+Hrudayam+Hospital/@16.7523198,78.0017831,17z/data=!3m1!4b1!4m6!3m5!1s0x3bca29aee39d7c31:0xb7eeff6f6469e4e8!8m2!3d16.7523198!4d78.0017831!16s%2Fg%2F11v035lwqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7523198,
+      "lng": 78.0017831,
+      "label": "Mathru Hrudayam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+]

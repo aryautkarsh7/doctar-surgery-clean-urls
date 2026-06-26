@@ -1,0 +1,2348 @@
+[
+  {
+    "slug": "akash-jyoti-hospital-vidisha",
+    "name": "Akash Jyoti Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vidisha, Akash Jyoti Hospital brings together specialists for Laparoscopic Surgery In Vidisha. The facility stands out for Google rating 2.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098263 45838",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Durganagar, Chowraha, Civil Lines, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Civil Lines",
+    "landmark": "Civil Lines",
+    "emergencyContact": "098263 45838",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://www.google.com/maps/place/Akash+Jyoti+Hospital/data=!4m7!3m6!1s0x397c048a9a28f173:0xe9b53138a7c3144c!8m2!3d23.5193252!4d77.8156207!16s%2Fg%2F11ckx30xzn!19sChIJc_EomooEfDkRTBTDpzgxtek?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Akash+Jyoti+Hospital/data=!4m7!3m6!1s0x397c048a9a28f173:0xe9b53138a7c3144c!8m2!3d23.5193252!4d77.8156207!16s%2Fg%2F11ckx30xzn!19sChIJc_EomooEfDkRTBTDpzgxtek?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5193252,
+      "lng": 77.8156207,
+      "label": "Akash Jyoti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ayushman-dental-clinic-vidisha",
+    "name": "Ayushman dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ayushman dental clinic has built a strong reputation in Vidisha for multidisciplinary treatment pathways covering Oral Surgery In Vidisha. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079878 87763",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hospital Rd, below the under bridge, near sanjeevani hospital, Neemtaal, Baripura, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Baripura",
+    "landmark": "near sanjeevani hospital, Neemtaal, Baripura, Vidisha, Madhya Pradesh 464001",
+    "emergencyContact": "079878 87763",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Ayushman+dental+clinic/data=!4m7!3m6!1s0x397c054aedc255ff:0xbbc91cf585bc7909!8m2!3d23.5193756!4d77.8080541!16s%2Fg%2F11j8t2zfqp!19sChIJ_1XC7UoFfDkRCXm8hfUcybs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ayushman+dental+clinic/data=!4m7!3m6!1s0x397c054aedc255ff:0xbbc91cf585bc7909!8m2!3d23.5193756!4d77.8080541!16s%2Fg%2F11j8t2zfqp!19sChIJ_1XC7UoFfDkRCXm8hfUcybs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5193756,
+      "lng": 77.8080541,
+      "label": "Ayushman dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bagchi-sri-shankara-cancer-centre-and-research-institute-bhubaneswar",
+    "name": "Bagchi Sri Shankara Cancer Centre and Research Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhubaneswar, Bagchi Sri Shankara Cancer Centre and Research Institute offers coordinated hospital care with major focus on Cancer Surgery In Vidisha. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://bagchisrishankaracancercentre.org/",
+    "address": "IDCO Plot No. A2, Po-Janla, Ps, Info Valley, Info City-2 Mouza, Chandihata, Khordha, Bhubaneswar, Odisha 752054",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "752054",
+    "locality": "Khordha",
+    "landmark": "Ps",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bagchi+Sri+Shankara+Cancer+Centre+and+Research+Institute/data=!4m7!3m6!1s0x3a19a995f26f2d8b:0x20b3b89abfd177a0!8m2!3d20.2321852!4d85.7063509!16s%2Fg%2F11q7z_pmg_!19sChIJiy1v8pWpGToRoHfRv5q4syA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bagchi+Sri+Shankara+Cancer+Centre+and+Research+Institute/data=!4m7!3m6!1s0x3a19a995f26f2d8b:0x20b3b89abfd177a0!8m2!3d20.2321852!4d85.7063509!16s%2Fg%2F11q7z_pmg_!19sChIJiy1v8pWpGToRoHfRv5q4syA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2321852,
+      "lng": 85.7063509,
+      "label": "Bagchi Sri Shankara Cancer Centre and Research Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bansal-polyclinic-bpc-vidisha",
+    "name": "Bansal polyclinic (BPC)",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Vidisha, Bansal polyclinic (BPC) delivers integrated care across Spine Surgery In Vidisha. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GRC3+M3F Bansal polyclinic (BPC, Dandapura Rd, Daulatpur, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Daulatpur",
+    "landmark": "Daulatpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Bansal+polyclinic+(BPC)/@23.5216849,77.8026774,17z/data=!3m1!4b1!4m6!3m5!1s0x397c050048774a41:0x9f98d3afe42203ba!8m2!3d23.5216849!4d77.8026774!16s%2Fg%2F11yfthxktf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bansal+polyclinic+(BPC)/@23.5216849,77.8026774,17z/data=!3m1!4b1!4m6!3m5!1s0x397c050048774a41:0x9f98d3afe42203ba!8m2!3d23.5216849!4d77.8026774!16s%2Fg%2F11yfthxktf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5216849,
+      "lng": 77.8026774,
+      "label": "Bansal polyclinic (BPC)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chaitanya-hospital-vidisha",
+    "name": "Chaitanya hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vidisha often choose Chaitanya hospital for its strength in Liver Transplant Surgery In Vidisha. Its infrastructure includes Google rating 3.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075922 32687",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Khari Phatak Rd, Master Colony, Baripura, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Baripura",
+    "landmark": "Baripura",
+    "emergencyContact": "075922 32687",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Chaitanya+hospital/data=!4m7!3m6!1s0x397c052612fd329f:0x305532380550cb67!8m2!3d23.5270219!4d77.8200468!16s%2Fg%2F11fnyfnrrt!19sChIJnzL9EiYFfDkRZ8tQBTgyVTA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chaitanya+hospital/data=!4m7!3m6!1s0x397c052612fd329f:0x305532380550cb67!8m2!3d23.5270219!4d77.8200468!16s%2Fg%2F11fnyfnrrt!19sChIJnzL9EiYFfDkRZ8tQBTgyVTA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5270219,
+      "lng": 77.8200468,
+      "label": "Chaitanya hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chiranjeevi-hospital-vidisha",
+    "name": "Chiranjeevi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Chiranjeevi Hospital has built a strong reputation in Vidisha for multidisciplinary treatment pathways covering Heart Surgery In Vidisha. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091092 06263",
+    "alternatePhone": "",
+    "website": "",
+    "address": "National Highway 86, Sherpura, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Sherpura",
+    "landmark": "Vidisha",
+    "emergencyContact": "091092 06263",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Chiranjeevi+Hospital/data=!4m7!3m6!1s0x397c046239bfdca3:0xd33cf05494104a80!8m2!3d23.5222639!4d77.8208584!16s%2Fg%2F12hlhdcxd!19sChIJo9y_OWIEfDkRgEoQlFTwPNM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chiranjeevi+Hospital/data=!4m7!3m6!1s0x397c046239bfdca3:0xd33cf05494104a80!8m2!3d23.5222639!4d77.8208584!16s%2Fg%2F12hlhdcxd!19sChIJo9y_OWIEfDkRgEoQlFTwPNM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5222639,
+      "lng": 77.8208584,
+      "label": "Chiranjeevi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indu-jain-hospital-vidisha",
+    "name": "Indu Jain Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vidisha, Indu Jain Hospital delivers integrated care across Spine Surgery In Vidisha. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "075924 08117",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hospital Rd, Swarnkar Colony, Baripura, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Baripura",
+    "landmark": "Baripura",
+    "emergencyContact": "075924 08117",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Indu+Jain+Hospital/data=!4m7!3m6!1s0x397c045f112bd00b:0xc8c8cdceefc0b66!8m2!3d23.5213797!4d77.8100168!16s%2Fg%2F1hhhns6j6!19sChIJC9ArEV8EfDkRZgv87tyMjAw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indu+Jain+Hospital/data=!4m7!3m6!1s0x397c045f112bd00b:0xc8c8cdceefc0b66!8m2!3d23.5213797!4d77.8100168!16s%2Fg%2F1hhhns6j6!19sChIJC9ArEV8EfDkRZgv87tyMjAw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5213797,
+      "lng": 77.8100168,
+      "label": "Indu Jain Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jeevan-dhara-hospital-vidisha",
+    "name": "Jeevan Dhara Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vidisha often choose Jeevan Dhara Hospital for its strength in Laparoscopic Surgery In Vidisha. The facility stands out for Google rating 3.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098269 51260",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Civil Lines, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Civil Lines",
+    "landmark": "Madhya Pradesh 464001",
+    "emergencyContact": "098269 51260",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/Jeevan+Dhara+Hospital/@23.5187812,77.8150006,17z/data=!3m1!4b1!4m6!3m5!1s0x397c048a96270f07:0x9cab7075d879747!8m2!3d23.5187812!4d77.8150006!16s%2Fg%2F11ckx1m3zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jeevan+Dhara+Hospital/@23.5187812,77.8150006,17z/data=!3m1!4b1!4m6!3m5!1s0x397c048a96270f07:0x9cab7075d879747!8m2!3d23.5187812!4d77.8150006!16s%2Fg%2F11ckx1m3zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5187812,
+      "lng": 77.8150006,
+      "label": "Jeevan Dhara Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krishna-cancer-hospital-bhopal",
+    "name": "Krishna Cancer Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhopal, Krishna Cancer Hospital brings together specialists for Cancer Surgery In Vidisha. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075549 19919",
+    "alternatePhone": "",
+    "website": "https://krishnacancerhospitalbhopal.com/",
+    "address": "Sahyog Vihar, police station, near shahpura, Nav Door Sanchar Nagar, Rohit Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "pincode": "462039",
+    "locality": "Gulmohar Colony",
+    "landmark": "near shahpura, Nav Door Sanchar Nagar, Rohit Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+    "emergencyContact": "075549 19919",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Krishna+Cancer+Hospital/data=!4m7!3m6!1s0x397c43a6c0000001:0xf0b703b3803605b2!8m2!3d23.1866638!4d77.4354668!16s%2Fg%2F11kjry2xp3!19sChIJAQAAwKZDfDkRsgU2gLMDt_A?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Krishna+Cancer+Hospital/data=!4m7!3m6!1s0x397c43a6c0000001:0xf0b703b3803605b2!8m2!3d23.1866638!4d77.4354668!16s%2Fg%2F11kjry2xp3!19sChIJAQAAwKZDfDkRsgU2gLMDt_A?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.1866638,
+      "lng": 77.4354668,
+      "label": "Krishna Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maa-ivf-centre-vidisha",
+    "name": "Maa IVF Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Maa IVF Centre is a prominent hospital in Vidisha, known for structured tertiary care across IVF In Vidisha and Fertility Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "062325 51114",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Maa IVF Center, Maa Hospital & Research Center, C/o, Mohangiri, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Mohangiri",
+    "landmark": "C/o",
+    "emergencyContact": "062325 51114",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Vidisha",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Maa+IVF+Centre/data=!4m7!3m6!1s0x397c05b67de1f7af:0xc6ec8d13c2fd8d8c!8m2!3d23.5326855!4d77.81589!16s%2Fg%2F11yr2d4lc9!19sChIJr_fhfbYFfDkRjI39whON7MY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maa+IVF+Centre/data=!4m7!3m6!1s0x397c05b67de1f7af:0xc6ec8d13c2fd8d8c!8m2!3d23.5326855!4d77.81589!16s%2Fg%2F11yr2d4lc9!19sChIJr_fhfbYFfDkRjI39whON7MY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5326855,
+      "lng": 77.81589,
+      "label": "Maa IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "miracle-dental-and-facial-aesthetic-center-best-dental-hair-skin-specialist-in-vidisha-vidisha",
+    "name": "Miracle Dental & Facial Aesthetic Center - Best Dental, Hair, Skin Specialist In Vidisha",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vidisha, Miracle Dental & Facial Aesthetic Center - Best Dental, Hair, Skin Specialist In Vidisha offers coordinated hospital care with major focus on Kidney Transplant Surgery In Vidisha. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "081093 45689",
+    "alternatePhone": "+91 89891 16999",
+    "website": "https://www.miraclefacialaesthetic.in.net/",
+    "address": "Bus Stand, Old, Hospital Rd, near Sawarkar Bal Vihar, Swarnkar Colony, Baripura, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Baripura",
+    "landmark": "near Sawarkar Bal Vihar, Swarnkar Colony, Baripura, Vidisha, Madhya Pradesh 464001",
+    "emergencyContact": "+91 89891 16999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Miracle+Dental+%26+Facial+Aesthetic+Center+-+Best+Dental,+Hair,+Skin+Specialist+In+Vidisha/data=!4m7!3m6!1s0x397c045fadaf6b95:0x20b8f902346c87d0!8m2!3d23.5224376!4d77.8114176!16s%2Fg%2F11gbk216_6!19sChIJlWuvrV8EfDkR0IdsNAL5uCA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Miracle+Dental+%26+Facial+Aesthetic+Center+-+Best+Dental,+Hair,+Skin+Specialist+In+Vidisha/data=!4m7!3m6!1s0x397c045fadaf6b95:0x20b8f902346c87d0!8m2!3d23.5224376!4d77.8114176!16s%2Fg%2F11gbk216_6!19sChIJlWuvrV8EfDkR0IdsNAL5uCA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5224376,
+      "lng": 77.8114176,
+      "label": "Miracle Dental & Facial Aesthetic Center - Best Dental, Hair, Skin Specialist In Vidisha",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "modern-dental-clinic-vidisha-vidisha",
+    "name": "Modern Dental Clinic Vidisha",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Modern Dental Clinic Vidisha has built a strong reputation in Vidisha for multidisciplinary treatment pathways covering Oral Surgery In Vidisha. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090982 28475",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pital Mill Square, Shop no. 1 Near dhakad medical store Gali no. 2, Sagar Rd, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Sagar Rd",
+    "landmark": "Near dhakad medical store Gali no. 2, Sagar Rd, Vidisha, Madhya Pradesh 464001",
+    "emergencyContact": "090982 28475",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Modern+Dental+Clinic+Vidisha/data=!4m7!3m6!1s0x397c0568a9bf3419:0xa18593ccc2b360bf!8m2!3d23.5267988!4d77.8231611!16s%2Fg%2F11n2nqsj2c!19sChIJGTS_qWgFfDkRv2CzwsyThaE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Modern+Dental+Clinic+Vidisha/data=!4m7!3m6!1s0x397c0568a9bf3419:0xa18593ccc2b360bf!8m2!3d23.5267988!4d77.8231611!16s%2Fg%2F11n2nqsj2c!19sChIJGTS_qWgFfDkRv2CzwsyThaE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5267988,
+      "lng": 77.8231611,
+      "label": "Modern Dental Clinic Vidisha",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "neuberg-diagnostics-blood-tests-cbc-tests-and-full-body-checkup-vidisha",
+    "name": "Neuberg Diagnostics - Blood Tests, CBC Tests & Full Body Checkup",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vidisha, Neuberg Diagnostics - Blood Tests, CBC Tests & Full Body Checkup brings together specialists for Cancer Surgery In Vidisha and Diagnostic Center. With public-facing highlights like Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075924 42043",
+    "alternatePhone": "89390 66655",
+    "website": "https://www.neubergdiagnostics.com/labs/neuberg-in-madhya-pradesh-vidisha-old-civil-hospital-76978",
+    "address": "Prakhar Diagnostics Centre, Old Civil Hospital, Station Rd, Baripura, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Baripura",
+    "landmark": "Station Rd",
+    "emergencyContact": "89390 66655",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NeubergDiagnostics/",
+    "twitter": "https://twitter.com/Neuberg_Diag?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "instagram": "https://www.instagram.com/neubergdiagnostics/?hl=en",
+    "linkedin": "https://www.linkedin.com/company/neuberg-diagnostics/?originalSubdomain=in",
+    "youtube": "https://www.youtube.com/c/NeubergDiagnostics",
+    "specialties": [
+      "Cancer Surgery In Vidisha",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/data=!4m7!3m6!1s0x397c05210eee0eef:0x1903fb08320bc9ee!8m2!3d23.5235719!4d77.8139718!16s%2Fg%2F11ydwtzgzq!19sChIJ7w7uDiEFfDkR7skLMgj7Axk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Neuberg+Diagnostics+-+Blood+Tests,+CBC+Tests+%26+Full+Body+Checkup/data=!4m7!3m6!1s0x397c05210eee0eef:0x1903fb08320bc9ee!8m2!3d23.5235719!4d77.8139718!16s%2Fg%2F11ydwtzgzq!19sChIJ7w7uDiEFfDkR7skLMgj7Axk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5235719,
+      "lng": 77.8139718,
+      "label": "Neuberg Diagnostics - Blood Tests, CBC Tests & Full Body Checkup",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nigam-dental-hospital-vidisha",
+    "name": "Nigam Dental Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nigam Dental Hospital has built a strong reputation in Vidisha for multidisciplinary treatment pathways covering Cancer Surgery In Vidisha. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "083499 56511",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GRF6+53P, 47, Swarnkar Colony, Baripura, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Baripura",
+    "landmark": "Swarnkar Colony",
+    "emergencyContact": "083499 56511",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Nigam+Dental+Hospital/data=!4m7!3m6!1s0x397c045f25e5ae4b:0x1e1dc061cc3e9a9f!8m2!3d23.5218835!4d77.809006!16s%2Fg%2F1hc79txfg!19sChIJS67lJV8EfDkRn5o-zGHAHR4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nigam+Dental+Hospital/data=!4m7!3m6!1s0x397c045f25e5ae4b:0x1e1dc061cc3e9a9f!8m2!3d23.5218835!4d77.809006!16s%2Fg%2F1hc79txfg!19sChIJS67lJV8EfDkRn5o-zGHAHR4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5218835,
+      "lng": 77.809006,
+      "label": "Nigam Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "niramaya-hospital-vidisha",
+    "name": "NIRAMAYA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NIRAMAYA HOSPITAL is a prominent hospital in Vidisha, known for structured tertiary care across Laparoscopic Surgery In Vidisha. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "077779 77340",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NIRAMAYA HOSPITAL, Agya Ram Colony, 40, Teelakhedi Rd, near royal city, Royal City Colony, Durga Nagar, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Durga Nagar",
+    "landmark": "near royal city, Royal City Colony, Durga Nagar, Vidisha, Madhya Pradesh 464001",
+    "emergencyContact": "077779 77340",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/NIRAMAYA+HOSPITAL/@23.5109263,77.8138226,17z/data=!3m1!4b1!4m6!3m5!1s0x397c053a650b4e4b:0x1d928c65d6e7e1d2!8m2!3d23.5109263!4d77.8138226!16s%2Fg%2F11rd8v29fy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NIRAMAYA+HOSPITAL/@23.5109263,77.8138226,17z/data=!3m1!4b1!4m6!3m5!1s0x397c053a650b4e4b:0x1d928c65d6e7e1d2!8m2!3d23.5109263!4d77.8138226!16s%2Fg%2F11rd8v29fy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5109263,
+      "lng": 77.8138226,
+      "label": "NIRAMAYA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ortho-neuro-care-centre-vidisha-vidisha",
+    "name": "Ortho Neuro Care Centre, Vidisha",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Vidisha, Ortho Neuro Care Centre, Vidisha delivers integrated care across Spine Surgery In Vidisha, Neurosciences, and Orthopaedics. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Club Road, Sherpura, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Sherpura",
+    "landmark": "Vidisha",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Vidisha",
+      "Neurosciences",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Ortho+Neuro+Care+Centre,+Vidisha/data=!4m7!3m6!1s0x397c053da37bc36f:0x35135d0c71a676ed!8m2!3d23.5201503!4d77.8157407!16s%2Fg%2F11g2srzgd4!19sChIJb8N7oz0FfDkR7XamcQxdEzU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ortho+Neuro+Care+Centre,+Vidisha/data=!4m7!3m6!1s0x397c053da37bc36f:0x35135d0c71a676ed!8m2!3d23.5201503!4d77.8157407!16s%2Fg%2F11g2srzgd4!19sChIJb8N7oz0FfDkR7XamcQxdEzU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5201503,
+      "lng": 77.8157407,
+      "label": "Ortho Neuro Care Centre, Vidisha",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sadguru-hospital-and-homyo-clinic-vidisha",
+    "name": "Sadguru hospital and homyo clinic",
+    "type": "Health Consultant",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vidisha, Sadguru hospital and homyo clinic brings together specialists for Gynecologist Surgery In Vidisha and Health Consultant. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "195, Chota Sarafa, Talaiya Mohalla, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Talaiya Mohalla",
+    "landmark": "Talaiya Mohalla",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vidisha",
+      "Health Consultant"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sadguru+hospital+and+homyo+clinic/data=!4m7!3m6!1s0x397c05cbc0354e3b:0x334b08f57e2e0585!8m2!3d23.5264906!4d77.8061459!16s%2Fg%2F11s3h5l32c!19sChIJO041wMsFfDkRhQUufvUISzM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sadguru+hospital+and+homyo+clinic/data=!4m7!3m6!1s0x397c05cbc0354e3b:0x334b08f57e2e0585!8m2!3d23.5264906!4d77.8061459!16s%2Fg%2F11s3h5l32c!19sChIJO041wMsFfDkRhQUufvUISzM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5264906,
+      "lng": 77.8061459,
+      "label": "Sadguru hospital and homyo clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-shankar-hospital-vidisha",
+    "name": "Shri Shankar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vidisha, Shri Shankar Hospital brings together specialists for Heart Surgery In Vidisha. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075924 64999",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sanchi Rd, near SBI Bank, Shastri Nagar, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Shastri Nagar",
+    "landmark": "near SBI Bank, Shastri Nagar, Vidisha, Madhya Pradesh 464001",
+    "emergencyContact": "075924 64999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Shankar+Hospital/data=!4m7!3m6!1s0x397c05d537257cf7:0xe83628862e7bc17b!8m2!3d23.5138044!4d77.79354!16s%2Fg%2F11shpdk8jx!19sChIJ93wlN9UFfDkRe8F7LoYoNug?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Shankar+Hospital/data=!4m7!3m6!1s0x397c05d537257cf7:0xe83628862e7bc17b!8m2!3d23.5138044!4d77.79354!16s%2Fg%2F11shpdk8jx!19sChIJ93wlN9UFfDkRe8F7LoYoNug?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5138044,
+      "lng": 77.79354,
+      "label": "Shri Shankar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shriram-sonography-vidisha-ashirwad-hospital-vidisha",
+    "name": "ShriRam Sonography, Vidisha Ashirwad hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vidisha, ShriRam Sonography, Vidisha Ashirwad hospital brings together specialists for Gynecologist Surgery In Vidisha. Operational strengths including Google rating 3.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075924 06153",
+    "alternatePhone": "",
+    "website": "",
+    "address": "lohangi mohalla, khari phatak road,, near khedapati mata mandir, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "near khedapati mata mandir",
+    "landmark": "near khedapati mata mandir, Vidisha, Madhya Pradesh 464001",
+    "emergencyContact": "075924 06153",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/ShriRam+Sonography,+Vidisha+Ashirwad+hospital/data=!4m7!3m6!1s0x397c0461245f5f9d:0x777b6b2e50e891ad!8m2!3d23.5250456!4d77.8155207!16s%2Fg%2F11f11p24g9!19sChIJnV9fJGEEfDkRrZHoUC5re3c?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ShriRam+Sonography,+Vidisha+Ashirwad+hospital/data=!4m7!3m6!1s0x397c0461245f5f9d:0x777b6b2e50e891ad!8m2!3d23.5250456!4d77.8155207!16s%2Fg%2F11f11p24g9!19sChIJnV9fJGEEfDkRrZHoUC5re3c?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5250456,
+      "lng": 77.8155207,
+      "label": "ShriRam Sonography, Vidisha Ashirwad hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vivaan-healthcare-vidisha",
+    "name": "Vivaan Healthcare",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vivaan Healthcare is a prominent medical clinic in Vidisha, known for structured tertiary care across Oral Surgery In Vidisha. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Old, Hospital Rd, in front of Palod Petrol Pump, Swarnkar Colony, Baripura, Vidisha, Madhya Pradesh 464001",
+    "city": "Vidisha",
+    "state": "Madhya Pradesh",
+    "pincode": "464001",
+    "locality": "Baripura",
+    "landmark": "in front of Palod Petrol Pump",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Vidisha"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Vivaan+Healthcare/data=!4m7!3m6!1s0x397c050b536cb857:0x548b55283bc36936!8m2!3d23.5219608!4d77.8113701!16s%2Fg%2F11x1_swlm6!19sChIJV7hsUwsFfDkRNmnDOyhVi1Q?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vivaan+Healthcare/data=!4m7!3m6!1s0x397c050b536cb857:0x548b55283bc36936!8m2!3d23.5219608!4d77.8113701!16s%2Fg%2F11x1_swlm6!19sChIJV7hsUwsFfDkRNmnDOyhVi1Q?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.5219608,
+      "lng": 77.8113701,
+      "label": "Vivaan Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+]

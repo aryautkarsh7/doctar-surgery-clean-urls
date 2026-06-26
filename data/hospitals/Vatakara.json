@@ -1,0 +1,1773 @@
+[
+  {
+    "slug": "ashraya-poly-clinic-vatakara",
+    "name": "Ashraya Poly Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Vatakara, Ashraya Poly Clinic delivers integrated care across Neurosurgeon In Vatakara. With public-facing highlights like Google rating 3.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0496 251 4100",
+    "alternatePhone": "",
+    "website": "",
+    "address": "JH2V+2HM, Nut Street, Vatakara, Kerala 673104",
+    "city": "Vatakara",
+    "state": "Kerala",
+    "pincode": "673104",
+    "locality": "Nut Street",
+    "landmark": "Vatakara",
+    "emergencyContact": "0496 251 4100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Vatakara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/Ashraya+Poly+Clinic/data=!4m7!3m6!1s0x3ba6846c527ac47b:0xa5e1ec632c18d9e0!8m2!3d11.6000843!4d75.5939332!16s%2Fg%2F12hkwp01l!19sChIJe8R6UmyEpjsR4NkYLGPs4aU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ashraya+Poly+Clinic/data=!4m7!3m6!1s0x3ba6846c527ac47b:0xa5e1ec632c18d9e0!8m2!3d11.6000843!4d75.5939332!16s%2Fg%2F12hkwp01l!19sChIJe8R6UmyEpjsR4NkYLGPs4aU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.6000843,
+      "lng": 75.5939332,
+      "label": "Ashraya Poly Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "astenortho-pantheeramkavu",
+    "name": "AstenOrtho",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pantheeramkavu often choose AstenOrtho for its strength in Hip Replacement Surgery In Vatakara and Orthopaedics. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "hello@astenortho.com",
+    "phone": "0495 355 5000",
+    "alternatePhone": "+91 495 355 5000",
+    "website": "https://www.astenortho.com/",
+    "address": "NH 66, opposite Thappy's Arcade, Kodal Nadakkavu, Pantheerankave, Pantheeramkavu, Kerala 673019",
+    "city": "Pantheeramkavu",
+    "state": "Kerala",
+    "pincode": "673019",
+    "locality": "Pantheerankave",
+    "landmark": "opposite Thappy's Arcade, Kodal Nadakkavu, Pantheerankave, Pantheeramkavu, Kerala 673019",
+    "emergencyContact": "+91 495 355 5000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/astenortho",
+    "twitter": "https://x.com/AstenOrtho",
+    "instagram": "https://www.instagram.com/asten.ortho/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@AstenOrtho",
+    "specialties": [
+      "Hip Replacement Surgery In Vatakara",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AstenOrtho/data=!4m7!3m6!1s0x3ba65baa8b5a2595:0x8fbb5185db984c36!8m2!3d11.2316882!4d75.8514694!16s%2Fg%2F11bbx077_m!19sChIJlSVai6pbpjsRNkyY24VRu48?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AstenOrtho/data=!4m7!3m6!1s0x3ba65baa8b5a2595:0x8fbb5185db984c36!8m2!3d11.2316882!4d75.8514694!16s%2Fg%2F11bbx077_m!19sChIJlSVai6pbpjsRNkyY24VRu48?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.2316882,
+      "lng": 75.8514694,
+      "label": "AstenOrtho",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ayurmanthra-hospital-and-holistic-research-centre-vatakara",
+    "name": "Ayurmanthra Hospital &Holistic Research Centre.",
+    "type": "Acupuncture Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ayurmanthra Hospital &Holistic Research Centre. is a prominent acupuncture clinic in Vatakara, known for structured tertiary care across Spine Surgery In Vatakara. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@ayurmanthravatakara.in",
+    "phone": "089438 81383",
+    "alternatePhone": "+91 94465 27948",
+    "website": "https://ayurmanthravatakara.in/",
+    "address": "Gokulam tower, Ayurmanthra Hospitl, Vatakara, Kerala 673101",
+    "city": "Vatakara",
+    "state": "Kerala",
+    "pincode": "673101",
+    "locality": "Ayurmanthra Hospitl",
+    "landmark": "Vatakara",
+    "emergencyContact": "+91 94465 27948",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/AyurmanthraHospital",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/ayurmanthrahospital?igsh=ZGRyeHE2OWJmcnJj&utm_source=qr",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@ayurmanthrahospitalvadakara",
+    "specialties": [
+      "Spine Surgery In Vatakara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ayurmanthra+Hospital+%26Holistic+Research+Centre./data=!4m7!3m6!1s0x3ba68538fa4abe79:0x4c64c5b50c750f3e!8m2!3d11.5981116!4d75.589445!16s%2Fg%2F11tmzxpkx5!19sChIJeb5K-jiFpjsRPg91DLXFZEw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ayurmanthra+Hospital+%26Holistic+Research+Centre./data=!4m7!3m6!1s0x3ba68538fa4abe79:0x4c64c5b50c750f3e!8m2!3d11.5981116!4d75.589445!16s%2Fg%2F11tmzxpkx5!19sChIJeb5K-jiFpjsRPg91DLXFZEw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.5981116,
+      "lng": 75.589445,
+      "label": "Ayurmanthra Hospital &Holistic Research Centre.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ceeyam-hospital-vatakara",
+    "name": "Ceeyam Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vatakara, Ceeyam Hospital delivers integrated care across Kidney Transplant Surgery In Vatakara. With public-facing highlights like Google rating 3.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0496 251 4242",
+    "alternatePhone": "",
+    "website": "",
+    "address": "JH3M+9R7, Veerancheri, Vatakara, Kerala 673101",
+    "city": "Vatakara",
+    "state": "Kerala",
+    "pincode": "673101",
+    "locality": "Veerancheri",
+    "landmark": "Vatakara",
+    "emergencyContact": "0496 251 4242",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Vatakara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Ceeyam+Hospital/data=!4m7!3m6!1s0x3ba6847ac0a63e87:0x31052d2c3a8f0c2f!8m2!3d11.6037883!4d75.5843171!16s%2Fg%2F1trxc3wp!19sChIJhz6mwHqEpjsRLwyPOiwtBTE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ceeyam+Hospital/data=!4m7!3m6!1s0x3ba6847ac0a63e87:0x31052d2c3a8f0c2f!8m2!3d11.6037883!4d75.5843171!16s%2Fg%2F1trxc3wp!19sChIJhz6mwHqEpjsRLwyPOiwtBTE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.6037883,
+      "lng": 75.5843171,
+      "label": "Ceeyam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "city-dental-clinic-vatakara",
+    "name": "City Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Vatakara, City Dental Clinic delivers integrated care across Spine Neurosurgeon In Vatakara. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "citydentalvadakara@gmail.com",
+    "phone": "090720 43610",
+    "alternatePhone": "+91 496 252 6108",
+    "website": "https://www.citydentalvadakara.com/",
+    "address": "HHXV+RM4, Nut Street, Vatakara, Kerala 673101",
+    "city": "Vatakara",
+    "state": "Kerala",
+    "pincode": "673101",
+    "locality": "Nut Street",
+    "landmark": "Vatakara",
+    "emergencyContact": "+91 496 252 6108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Vatakara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/City+Dental+Clinic/data=!4m7!3m6!1s0x3ba6846c55036ea7:0xd1f2d08163eb7678!8m2!3d11.5994987!4d75.5941667!16s%2Fg%2F11c0xf5gdg!19sChIJp24DVWyEpjsReHbrY4HQ8tE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/City+Dental+Clinic/data=!4m7!3m6!1s0x3ba6846c55036ea7:0xd1f2d08163eb7678!8m2!3d11.5994987!4d75.5941667!16s%2Fg%2F11c0xf5gdg!19sChIJp24DVWyEpjsReHbrY4HQ8tE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.5994987,
+      "lng": 75.5941667,
+      "label": "City Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "diamond-health-care-vatakara",
+    "name": "DIAMOND HEALTH CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "DIAMOND HEALTH CARE has built a strong reputation in Vatakara for multidisciplinary treatment pathways covering Hip Replacement Surgery In Vatakara. Operational strengths including Google rating 3.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "092078 70001",
+    "alternatePhone": "",
+    "website": "",
+    "address": "JT Rd, near Petrol Pump, Badagara, Vatakara, Kerala 673101",
+    "city": "Vatakara",
+    "state": "Kerala",
+    "pincode": "673101",
+    "locality": "Badagara",
+    "landmark": "near Petrol Pump, Badagara, Vatakara, Kerala 673101",
+    "emergencyContact": "092078 70001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Vatakara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/DIAMOND+HEALTH+CARE/@11.6013492,75.5852323,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba685258fff2119:0x2eafdfdf2249a0cd!8m2!3d11.6013492!4d75.5852323!16s%2Fg%2F11hkjv97bv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DIAMOND+HEALTH+CARE/@11.6013492,75.5852323,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba685258fff2119:0x2eafdfdf2249a0cd!8m2!3d11.6013492!4d75.5852323!16s%2Fg%2F11hkjv97bv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.6013492,
+      "lng": 75.5852323,
+      "label": "DIAMOND HEALTH CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gmc-ortho-hospital-kozhikode",
+    "name": "GMC Ortho Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "GMC Ortho Hospital has built a strong reputation in Kozhikode for multidisciplinary treatment pathways covering Hip Replacement Surgery In Vatakara and Orthopaedics. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "gmchospitalcalicut@gmail.com",
+    "phone": "096337 89014",
+    "alternatePhone": "",
+    "website": "http://gmcorthohospital.com/",
+    "address": "Door 213, 4877, CH Cross Rd, near Bus Stop, West Nadakkave, East Nadakkave, Bilathikkulam, Kozhikode, Kerala 673011",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "pincode": "673011",
+    "locality": "Bilathikkulam",
+    "landmark": "near Bus Stop, West Nadakkave, East Nadakkave, Bilathikkulam, Kozhikode, Kerala 673011",
+    "emergencyContact": "096337 89014",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/gmcorthohospital",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/gmchospitalcalicut_",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Vatakara",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/GMC+Ortho+Hospital/data=!4m7!3m6!1s0x3ba65ecc121d9e05:0xfd7044f1cd48a741!8m2!3d11.273395!4d75.7770512!16s%2Fg%2F11fzfd3vxn!19sChIJBZ4dEsxepjsRQadIzfFEcP0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/GMC+Ortho+Hospital/data=!4m7!3m6!1s0x3ba65ecc121d9e05:0xfd7044f1cd48a741!8m2!3d11.273395!4d75.7770512!16s%2Fg%2F11fzfd3vxn!19sChIJBZ4dEsxepjsRQadIzfFEcP0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.273395,
+      "lng": 75.7770512,
+      "label": "GMC Ortho Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "government-district-hospital-vatakara-vatakara",
+    "name": "Government District Hospital, Vatakara",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted government hospital in Vatakara, Government District Hospital, Vatakara delivers integrated care across Liver Transplant Surgery In Vatakara. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0496 252 4259",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HHXW+FFQ, Nut Street, Vatakara, Kerala 673101",
+    "city": "Vatakara",
+    "state": "Kerala",
+    "pincode": "673101",
+    "locality": "Nut Street",
+    "landmark": "Vatakara",
+    "emergencyContact": "0496 252 4259",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vatakara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Government+District+Hospital,+Vatakara/data=!4m7!3m6!1s0x3ba6846cab83d20d:0x821c9cf8533078d4!8m2!3d11.5987154!4d75.5962496!16s%2Fg%2F11cp761hft!19sChIJDdKDq2yEpjsR1HgwU_icHII?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Government+District+Hospital,+Vatakara/data=!4m7!3m6!1s0x3ba6846cab83d20d:0x821c9cf8533078d4!8m2!3d11.5987154!4d75.5962496!16s%2Fg%2F11cp761hft!19sChIJDdKDq2yEpjsR1HgwU_icHII?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.5987154,
+      "lng": 75.5962496,
+      "label": "Government District Hospital, Vatakara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "janatha-hospital-vatakara",
+    "name": "Janatha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Janatha Hospital has built a strong reputation in Vatakara for multidisciplinary treatment pathways covering Spine Surgery In Vatakara. Its infrastructure includes Google rating 3.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@domainname.com",
+    "phone": "094469 83712",
+    "alternatePhone": "+91 85471 05473",
+    "website": "http://www.janathahospital.com/",
+    "address": "VO Rd, Veerancheri, Calicut, Vatakara, Kerala 673101",
+    "city": "Vatakara",
+    "state": "Kerala",
+    "pincode": "673101",
+    "locality": "Calicut",
+    "landmark": "Calicut",
+    "emergencyContact": "+91 85471 05473",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Vatakara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Janatha+Hospital/data=!4m7!3m6!1s0x3ba6847ab1a9ae73:0x4677f2e029b06779!8m2!3d11.603727!4d75.5849929!16s%2Fg%2F11bwhbhf5v!19sChIJc66psXqEpjsReWewKeDyd0Y?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Janatha+Hospital/data=!4m7!3m6!1s0x3ba6847ab1a9ae73:0x4677f2e029b06779!8m2!3d11.603727!4d75.5849929!16s%2Fg%2F11bwhbhf5v!19sChIJc66psXqEpjsReWewKeDyd0Y?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.603727,
+      "lng": 75.5849929,
+      "label": "Janatha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "javadent-dental-clinic-vatakara-vatakara",
+    "name": "Javadent | Dental Clinic Vatakara",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Javadent | Dental Clinic Vatakara is a prominent dental clinic in Vatakara, known for structured tertiary care across Spine Neurosurgeon In Vatakara. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@javadent.com",
+    "phone": "095262 62050",
+    "alternatePhone": "0496 796 0565",
+    "website": "https://javadent.com/",
+    "address": "Kelu’s Building, Opposite, New Bus Stand- Park Rd, Nut Street, Vatakara, Kerala 673101",
+    "city": "Vatakara",
+    "state": "Kerala",
+    "pincode": "673101",
+    "locality": "Nut Street",
+    "landmark": "New Bus Stand- Park Rd",
+    "emergencyContact": "0496 796 0565",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Javadent",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/javadent_dentalclinic",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Vatakara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Javadent+%7C+Dental+Clinic+Vatakara/data=!4m7!3m6!1s0x3ba6846a4d4e88a1:0x37ca97b5b794fc49!8m2!3d11.5954792!4d75.595129!16s%2Fg%2F1pp2vcqhn!19sChIJoYhOTWqEpjsRSfyUt7WXyjc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Javadent+%7C+Dental+Clinic+Vatakara/data=!4m7!3m6!1s0x3ba6846a4d4e88a1:0x37ca97b5b794fc49!8m2!3d11.5954792!4d75.595129!16s%2Fg%2F1pp2vcqhn!19sChIJoYhOTWqEpjsRSfyUt7WXyjc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.5954792,
+      "lng": 75.595129,
+      "label": "Javadent | Dental Clinic Vatakara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-vadakara-vatakara",
+    "name": "Metropolis Labs | Blood Test & Diagnostic Centre in Vadakara",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Metropolis Labs | Blood Test & Diagnostic Centre in Vadakara has built a strong reputation in Vatakara for multidisciplinary treatment pathways covering Cancer Surgery In Vatakara and Diagnostic Center. Operational strengths including Google rating 2.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0495 714 2950",
+    "alternatePhone": "+91 90332 73966",
+    "website": "https://www.metropolisindia.com/lab/diagnostic-centre-in-vadakara-near-petrol-pump-vadakara",
+    "address": "JT Rd, near Petrol Pump, Veerancheri, Vatakara, Kerala 673101",
+    "city": "Vatakara",
+    "state": "Kerala",
+    "pincode": "673101",
+    "locality": "Veerancheri",
+    "landmark": "near Petrol Pump, Veerancheri, Vatakara, Kerala 673101",
+    "emergencyContact": "+91 90332 73966",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/MetropolisLab/",
+    "twitter": "https://twitter.com/metropolislab",
+    "instagram": "https://www.instagram.com/metropolis_labs/",
+    "linkedin": "https://in.linkedin.com/company/metropolislab",
+    "youtube": "https://www.youtube.com/user/MetropolisHealthcare",
+    "specialties": [
+      "Cancer Surgery In Vatakara",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Vadakara/data=!4m7!3m6!1s0x3ba685478da2cf67:0xcd4ba3094ce14e4d!8m2!3d11.6016901!4d75.5848901!16s%2Fg%2F11vcxl5hpw!19sChIJZ8-ijUeFpjsRTU7hTAmjS80?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Vadakara/data=!4m7!3m6!1s0x3ba685478da2cf67:0xcd4ba3094ce14e4d!8m2!3d11.6016901!4d75.5848901!16s%2Fg%2F11vcxl5hpw!19sChIJZ8-ijUeFpjsRTU7hTAmjS80?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.6016901,
+      "lng": 75.5848901,
+      "label": "Metropolis Labs | Blood Test & Diagnostic Centre in Vadakara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nucleus-hospital-nadapuram",
+    "name": "Nucleus Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nucleus Hospital is a prominent hospital in Nadapuram, known for structured tertiary care across Hip Replacement Surgery In Vatakara. Its infrastructure includes Google rating 3.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "085890 50364",
+    "alternatePhone": "+91 96566 10170",
+    "website": "http://www.nucleushospitals.in/",
+    "address": "Nadapuram - Kuttiady Rd, Nadapuram, Kerala 673504",
+    "city": "Nadapuram",
+    "state": "Kerala",
+    "pincode": "673504",
+    "locality": "Nadapuram - Kuttiady Rd",
+    "landmark": "Kerala 673504",
+    "emergencyContact": "+91 96566 10170",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Nucleushcnadapuram/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Vatakara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nucleus+Hospital/data=!4m7!3m6!1s0x3ba681c87ce256db:0x75100f22e1e6e8b8!8m2!3d11.6864202!4d75.6565712!16s%2Fg%2F11bbwmc83w!19sChIJ21bifMiBpjsRuOjm4SIPEHU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nucleus+Hospital/data=!4m7!3m6!1s0x3ba681c87ce256db:0x75100f22e1e6e8b8!8m2!3d11.6864202!4d75.6565712!16s%2Fg%2F11bbwmc83w!19sChIJ21bifMiBpjsRuOjm4SIPEHU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.6864202,
+      "lng": 75.6565712,
+      "label": "Nucleus Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "reliva-physiotherapy-and-rehab-vadakara-vatakara",
+    "name": "ReLiva Physiotherapy & Rehab: Vadakara",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted physiotherapy center in Vatakara, ReLiva Physiotherapy & Rehab: Vadakara delivers integrated care across Spine Surgery In Vatakara and Physiotherapy Center. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099209 91584",
+    "alternatePhone": "+91 86559 60420",
+    "website": "https://reliva.in/physiotherapy-clinics/vadakara-kerala/?utm_source=gmb",
+    "address": "Baby Memorial Hospital, NH Bypass, Kozhikode, Chorode, Vatakara, Kerala 673106",
+    "city": "Vatakara",
+    "state": "Kerala",
+    "pincode": "673106",
+    "locality": "Chorode",
+    "landmark": "Kozhikode",
+    "emergencyContact": "+91 86559 60420",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/relivaphysiotherapy",
+    "twitter": "https://twitter.com/ReLiva_Physio",
+    "instagram": "https://www.instagram.com/reliva_physio",
+    "linkedin": "https://www.linkedin.com/company/reliva-physiotherapy-&-rehab",
+    "youtube": "https://www.youtube.com/@ReLivaPhysio",
+    "specialties": [
+      "Spine Surgery In Vatakara",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ReLiva+Physiotherapy+%26+Rehab:+Vadakara/data=!4m7!3m6!1s0x3ba685f7fbb4c933:0x2c2dd73c289300cb!8m2!3d11.6082883!4d75.5815061!16s%2Fg%2F11y_1_rdzl!19sChIJM8m0-_eFpjsRywCTKDzXLSw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ReLiva+Physiotherapy+%26+Rehab:+Vadakara/data=!4m7!3m6!1s0x3ba685f7fbb4c933:0x2c2dd73c289300cb!8m2!3d11.6082883!4d75.5815061!16s%2Fg%2F11y_1_rdzl!19sChIJM8m0-_eFpjsRywCTKDzXLSw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.6082883,
+      "lng": 75.5815061,
+      "label": "ReLiva Physiotherapy & Rehab: Vadakara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-physio-clinic-bankroad-vatakara",
+    "name": "The Physio Clinic Bankroad",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Physio Clinic Bankroad is a prominent physiotherapy center in Vatakara, known for structured tertiary care across Hip Replacement Surgery In Vatakara and Physiotherapy Center. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094003 39283",
+    "alternatePhone": "",
+    "website": "http://www.thephysioclinicbankroad.com/",
+    "address": "Bank Rd - Kurunthodi Rd, Keezhal, Vatakara, Kerala 673105",
+    "city": "Vatakara",
+    "state": "Kerala",
+    "pincode": "673105",
+    "locality": "Keezhal",
+    "landmark": "Vatakara",
+    "emergencyContact": "094003 39283",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Vatakara",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/The+Physio+Clinic+Bankroad/data=!4m7!3m6!1s0x3ba687684bdc1b2f:0xbe57deaecb651771!8m2!3d11.586332!4d75.6273997!16s%2Fg%2F11nmr37cjm!19sChIJLxvcS2iHpjsRcRdly67eV74?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Physio+Clinic+Bankroad/data=!4m7!3m6!1s0x3ba687684bdc1b2f:0xbe57deaecb651771!8m2!3d11.586332!4d75.6273997!16s%2Fg%2F11nmr37cjm!19sChIJLxvcS2iHpjsRcRdly67eV74?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.586332,
+      "lng": 75.6273997,
+      "label": "The Physio Clinic Bankroad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "v-trust-eye-hospital-vadakara-vatakara",
+    "name": "V TRUST EYE HOSPITAL VADAKARA",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vatakara, V TRUST EYE HOSPITAL VADAKARA offers coordinated hospital care with major focus on Brain Surgery In Vatakara. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094476 99020",
+    "alternatePhone": "+91 79026 66631",
+    "website": "https://www.vtrusteyehospital.com/",
+    "address": "NH bypass road, near New Bus Stand- Park Road, Nut Street, Vatakara, Kerala 673101",
+    "city": "Vatakara",
+    "state": "Kerala",
+    "pincode": "673101",
+    "locality": "Nut Street",
+    "landmark": "near New Bus Stand- Park Road, Nut Street, Vatakara, Kerala 673101",
+    "emergencyContact": "+91 79026 66631",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/vtrusteye?igsh=ZGE4N2wyOHlvODJh",
+    "linkedin": "https://www.linkedin.com/company/v-trust-eye-hospitals/",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Vatakara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/V+TRUST+EYE+HOSPITAL+VADAKARA/data=!4m7!3m6!1s0x3ba685006c474ced:0xdd3f4a7e75352707!8m2!3d11.596162!4d75.5952719!16s%2Fg%2F11lz8qgms3!19sChIJ7UxHbACFpjsRByc1dX5KP90?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/V+TRUST+EYE+HOSPITAL+VADAKARA/data=!4m7!3m6!1s0x3ba685006c474ced:0xdd3f4a7e75352707!8m2!3d11.596162!4d75.5952719!16s%2Fg%2F11lz8qgms3!19sChIJ7UxHbACFpjsRByc1dX5KP90?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.596162,
+      "lng": 75.5952719,
+      "label": "V TRUST EYE HOSPITAL VADAKARA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+]
