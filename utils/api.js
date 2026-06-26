@@ -277,6 +277,20 @@
         } catch(e) { console.warn('Failed to parse hospital JSON', e); }
       }
 
+      // Assign generic images to any hospital missing one (e.g. barebones ones from doctor data)
+      const STOCK_IMAGES = [
+        'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80',
+        'https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80',
+        'https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80',
+        'https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80',
+        'https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80'
+      ];
+      HOSPITALS.forEach((h, i) => {
+        if (!h.image || h.image.includes('google.com/maps')) {
+          h.image = STOCK_IMAGES[i % STOCK_IMAGES.length];
+        }
+      });
+
       console.log('✅ Remote data loaded for', city);
     } catch (err) {
       console.warn('⚠️ Using bundled data.js (backend unavailable):', err.message);
@@ -333,6 +347,20 @@
           }
         } catch(e) { console.warn('Failed to parse hospital JSON', e); }
       }
+
+      // Assign generic images to any hospital missing one (e.g. barebones ones from doctor data)
+      const STOCK_IMAGES = [
+        'https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80',
+        'https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80',
+        'https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80',
+        'https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80',
+        'https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80'
+      ];
+      HOSPITALS.forEach((h, i) => {
+        if (!h.image || h.image.includes('google.com/maps')) {
+          h.image = STOCK_IMAGES[i % STOCK_IMAGES.length];
+        }
+      });
 
       console.log('✅ City data reloaded for', city);
       if (typeof handleRoute === 'function') handleRoute();
