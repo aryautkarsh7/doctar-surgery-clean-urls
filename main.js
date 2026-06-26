@@ -232,7 +232,10 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (urlCitySlug && typeof cityFromSlug === 'function') {
       const cName = cityFromSlug(urlCitySlug);
       if (cName) {
+        window.DOCTAR_ROUTE_CITY = cName;
         try { localStorage.setItem('selectedCity', cName); } catch(e){}
+        const textSpan = document.getElementById('currentCityText');
+        if (textSpan) textSpan.textContent = cName;
       }
     }
 

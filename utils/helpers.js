@@ -35,6 +35,87 @@
     return url;
   }
 
+  function stableHash(str) {
+    let hash = 0;
+    const text = String(str || '');
+    for (let i = 0; i < text.length; i++) {
+      hash = ((hash << 5) - hash) + text.charCodeAt(i);
+      hash |= 0;
+    }
+    return Math.abs(hash);
+  }
+
+  function escapeHtmlAttr(value) {
+    return String(value || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
+  function optimizeCloudinaryUrl(url, w, h) {
+    const src = String(url || '').trim();
+    if (!src || !src.includes('res.cloudinary.com') || !src.includes('/upload/')) return src;
+    const width = w || 400;
+    const height = h || 300;
+    return src.replace('/upload/', `/upload/w_${width},h_${height},c_fill,q_auto,f_auto/`);
+  }
+
+  function cloudinaryFetchUrl(url, w, h) {
+    const cloudName = (window.DOCTAR_CLOUDINARY_CLOUD_NAME || '').trim();
+    const src = String(url || '').trim();
+    if (!cloudName || !/^https?:\/\//i.test(src)) return '';
+    const width = w || 400;
+    const height = h || 300;
+    return `https://res.cloudinary.com/${cloudName}/image/fetch/w_${width},h_${height},c_fill,q_auto,f_auto/${encodeURIComponent(src)}`;
+  }
+
+  function hospitalPlaceholderImageUrl(name, w, h) {
+    const label = String(name || 'Hospital').trim() || 'Hospital';
+    const initials = label
+      .replace(/&/g, ' and ')
+      .split(/\s+/)
+      .filter(Boolean)
+      .slice(0, 2)
+      .map(part => part.charAt(0).toUpperCase())
+      .join('') || 'H';
+    const palettes = [
+      ['#0f766e', '#99f6e4', '#f0fdfa'],
+      ['#1d4ed8', '#bfdbfe', '#eff6ff'],
+      ['#be123c', '#fecdd3', '#fff1f2'],
+      ['#7c2d12', '#fed7aa', '#fff7ed'],
+      ['#4c1d95', '#ddd6fe', '#f5f3ff'],
+      ['#166534', '#bbf7d0', '#f0fdf4'],
+      ['#334155', '#cbd5e1', '#f8fafc'],
+      ['#9d174d', '#fbcfe8', '#fdf2f8']
+    ];
+    const colors = palettes[stableHash(label) % palettes.length];
+    const width = w || 800;
+    const height = h || 520;
+    const safeLabel = label
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .slice(0, 58);
+    const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-label="${safeLabel}"><defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="${colors[2]}"/><stop offset="1" stop-color="${colors[1]}"/></linearGradient></defs><rect width="${width}" height="${height}" fill="url(#g)"/><rect x="${Math.round(width * 0.08)}" y="${Math.round(height * 0.16)}" width="${Math.round(width * 0.84)}" height="${Math.round(height * 0.62)}" rx="28" fill="#ffffff" opacity="0.82"/><path d="M${Math.round(width * 0.2)} ${Math.round(height * 0.78)}h${Math.round(width * 0.6)}v${Math.round(height * 0.08)}H${Math.round(width * 0.2)}z" fill="${colors[0]}" opacity="0.14"/><circle cx="${Math.round(width * 0.5)}" cy="${Math.round(height * 0.38)}" r="${Math.round(Math.min(width, height) * 0.15)}" fill="${colors[0]}" opacity="0.95"/><rect x="${Math.round(width * 0.47)}" y="${Math.round(height * 0.27)}" width="${Math.round(width * 0.06)}" height="${Math.round(height * 0.22)}" rx="8" fill="#fff"/><rect x="${Math.round(width * 0.39)}" y="${Math.round(height * 0.35)}" width="${Math.round(width * 0.22)}" height="${Math.round(height * 0.06)}" rx="8" fill="#fff"/><text x="50%" y="${Math.round(height * 0.68)}" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="${Math.round(Math.min(width, height) * 0.13)}" font-weight="800" fill="${colors[0]}">${initials}</text></svg>`;
+    return `data:image/svg+xml;base64,${btoa(unescape(encodeURIComponent(svg)))}`;
+  }
+
+  function hospitalImageUrl(hospital, w, h) {
+    const record = hospital || {};
+    const src = String(record.image || '').trim();
+    const width = w || 800;
+    const height = h || 520;
+    if (!src) return hospitalPlaceholderImageUrl(record.name, width, height);
+    if (src.includes('images.unsplash.com')) {
+      return cloudinaryFetchUrl(src, width, height) || src;
+    }
+    if (src.includes('res.cloudinary.com')) return optimizeCloudinaryUrl(src, width, height);
+    return src;
+  }
+
   function getDoctorCity(doctor) {
     return (doctor.location || '').split(',').pop().trim();
   }
@@ -52,6 +133,8 @@
   }
 
   function getCurrentCity() {
+    if (window.DOCTAR_ROUTE_CITY) return window.DOCTAR_ROUTE_CITY;
+
     const availableCities = getAvailableDoctorCities();
     const candidates = [];
 
@@ -259,12 +342,14 @@
     if (!slug) return getCurrentCity();
     const s = String(slug).toLowerCase();
     const names = ((typeof CITY_DATA !== 'undefined') ? CITY_DATA.map(c => c.name) : [])
+      .concat(typeof AVAILABLE_CITIES !== 'undefined' ? AVAILABLE_CITIES : [])
       .concat(getAvailableDoctorCities());
     const hit = names.find(name => {
       const cs = cityToSlug(name);
       return cs === s || s.endsWith('-' + cs);
     });
-    return hit || getCurrentCity();
+    if (hit) return hit;
+    return s.split('-').filter(Boolean).map(part => part.charAt(0).toUpperCase() + part.slice(1)).join(' ') || getCurrentCity();
   }
 
   // Link used by the homepage "Hospitals Near You" cards. Derives a category +

@@ -3,19 +3,14 @@
 // Loaded as a classic script — shares global scope with data.js & siblings.
 // =====================================================
 
-  function optimizeCloudinaryUrl(url, w = 400, h = 300) {
-    if (!url || !url.includes('res.cloudinary.com')) return url;
-    return url.replace('/upload/', `/upload/w_${w},h_${h},c_fill,q_auto,f_auto/`);
-  }
-
   function preloadHospitalImages(hospitals) {
     hospitals.slice(0, 3).forEach(h => {
-      const src = h.image;
+      const src = hospitalImageUrl(h, 400, 300);
       if (!src || !src.startsWith('http')) return;
       const link = document.createElement('link');
       link.rel = 'preload';
       link.as = 'image';
-      link.href = optimizeCloudinaryUrl(src);
+      link.href = src;
       document.head.appendChild(link);
     });
   }
@@ -362,7 +357,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
               ${featuredHospitals.map(hospital => `
                 <article class="fh-card${hospital.image ? '' : ' fh-img-failed'}" data-hospital-card="${hospital.slug}">
                   <div class="fh-card-media">
-                    <img src="${optimizeCloudinaryUrl(hospital.image || 'images/about-surgery.webp')}" alt="${hospital.name}" onerror="this.onerror=null;this.closest('.fh-card').classList.add('fh-img-failed');this.src='images/about-surgery.webp'">
+                    <img src="${hospitalImageUrl(hospital, 400, 300)}" alt="${escapeHtmlAttr(hospital.name)}" onerror="this.onerror=null;this.closest('.fh-card').classList.add('fh-img-failed');this.src=hospitalPlaceholderImageUrl(this.alt,400,300)">
                     <div class="card-logo-slot is-empty" title="Hospital logo">
                       <i class="fa-solid fa-hospital"></i>
                     </div>
@@ -417,7 +412,7 @@ ${homeDoctors.slice(0, 8).map(doc => `
             ${featuredHospitals.map(hospital => `
               <a href="/specialities/s" class="hnm2-card">
                 <div class="hnm2-card-img">
-                  <img src="${optimizeCloudinaryUrl(hospital.image || 'images/about-surgery.webp')}" alt="${hospital.name}" loading="lazy" onerror="this.src='images/about-surgery.webp'">
+                  <img src="${hospitalImageUrl(hospital, 400, 300)}" alt="${escapeHtmlAttr(hospital.name)}" loading="lazy" onerror="this.src=hospitalPlaceholderImageUrl(this.alt,400,300)">
                 </div>
                 <div class="hnm2-card-body">
                   <h3>${hospital.name}</h3>
