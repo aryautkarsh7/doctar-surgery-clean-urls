@@ -195,13 +195,17 @@
 
       // Fetch critical data + city data in parallel so the page renders ONCE with full data.
       // Sequential fetching caused a double-render flicker (skeleton → empty → full).
+      
+      const fileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + 'doctar.json';
+      const cityUrl = '/data/cities/' + fileName;
+      
       const [res1, res2] = await Promise.all([
-        fetch(API_BASE + '/api/data/critical', { cache: 'no-store' }),
-        fetch(API_BASE + '/api/data/city?city=' + encodeURIComponent(city), { cache: 'no-store' }),
+        fetch(API_BASE + '/api/data/critical', { cache: 'no-store' }).catch(() => null),
+        fetch(cityUrl, { cache: 'no-store' }).catch(() => null),
       ]);
 
       // Apply critical data (categories, treatments, subcategories, cities list)
-      if (res1.ok) {
+      if (res1 && res1.ok) {
         const json1 = await res1.json();
         const d1 = (json1 && json1.data) || {};
         if (Array.isArray(d1.categories) && d1.categories.length) {
@@ -228,19 +232,26 @@
         }
       }
 
-      // Apply city data (hospitals, doctors for current city)
-      if (res2.ok) {
+      // Apply city data (hospitals, doctors for current city) from local JSON
+      if (res2 && res2.ok) {
         const json2 = await res2.json();
-        const d2 = (json2 && json2.data) || {};
-        if (Array.isArray(d2.doctors) && d2.doctors.length) {
+        if (Array.isArray(json2)) {
           DOCTORS.length = 0;
-          DOCTORS.push(...d2.doctors);
-        }
-        if (Array.isArray(d2.hospitals) && d2.hospitals.length) {
+          DOCTORS.push(...json2);
+          
+          const hMap = new Map();
+          json2.forEach(doc => {
+            if (Array.isArray(doc.hospitals)) {
+              doc.hospitals.forEach(h => {
+                if (!hMap.has(h.name)) {
+                  hMap.set(h.name, { ...h, city: city });
+                }
+              });
+            }
+          });
           HOSPITALS.length = 0;
-          HOSPITALS.push(...d2.hospitals);
+          HOSPITALS.push(...Array.from(hMap.values()));
         }
-        if (Array.isArray(d2.pethospitals)) PET_HOSPITALS = d2.pethospitals;
       }
 
       console.log('✅ Remote data loaded for', city);
@@ -252,20 +263,30 @@
   // Load city-specific data and re-render — used only when the user switches city.
   async function _loadCityData(city) {
     try {
-      const res = await fetch(API_BASE + '/api/data/city?city=' + encodeURIComponent(city), { cache: 'no-store' });
+      const fileName = city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join('_') + 'doctar.json';
+      const cityUrl = '/data/cities/' + fileName;
+      
+      const res = await fetch(cityUrl, { cache: 'no-store' });
       if (!res.ok) return;
       const json = await res.json();
-      const d = (json && json.data) || {};
 
-      if (Array.isArray(d.doctors) && d.doctors.length) {
+      if (Array.isArray(json)) {
         DOCTORS.length = 0;
-        DOCTORS.push(...d.doctors);
-      }
-      if (Array.isArray(d.hospitals) && d.hospitals.length) {
+        DOCTORS.push(...json);
+        
+        const hMap = new Map();
+        json.forEach(doc => {
+          if (Array.isArray(doc.hospitals)) {
+            doc.hospitals.forEach(h => {
+              if (!hMap.has(h.name)) {
+                hMap.set(h.name, { ...h, city: city });
+              }
+            });
+          }
+        });
         HOSPITALS.length = 0;
-        HOSPITALS.push(...d.hospitals);
+        HOSPITALS.push(...Array.from(hMap.values()));
       }
-      if (Array.isArray(d.pethospitals)) PET_HOSPITALS = d.pethospitals;
 
       console.log('✅ City data reloaded for', city);
       if (typeof handleRoute === 'function') handleRoute();
