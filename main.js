@@ -134,6 +134,7 @@ function handleRoute() {
       case 'terms':               return renderTermsPage();
       case 'about':               return renderAboutPage();
       case 'contact':             return renderContactPage();
+      case 'careers':             return renderCareersPage();
 
       // Back-compat: old single-segment treatment links.
       case 'treatment':           return renderTreatmentPage(b);

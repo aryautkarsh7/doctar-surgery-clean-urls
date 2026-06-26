@@ -133,36 +133,65 @@
   function renderBlogsPage() {
     const posts = BLOG_POSTS.filter(post => post.published !== false);
     appContainer.innerHTML = `
-      <section class="all-cat-hero">
-        <div class="container all-cat-hero-inner">
-          <div class="breadcrumb" style="margin-bottom: 20px;">
-            <a href="/">Home</a> <span>›</span>
-            <span>Blogs</span>
-          </div>
-          <div class="all-cat-eyebrow"><i class="fa-solid fa-newspaper"></i> Medical Blogs</div>
-          <h1 class="all-cat-title">Latest <span>Medical Blogs</span></h1>
-          <p class="all-cat-sub">Helpful guides written by surgeons and care experts to help you prepare for treatment and recovery.</p>
+      <div class="static-page">
+        <div class="static-page-header">
+          <h1>The Surgery Blog</h1>
+          <p>Everything you read here exists to answer the question patients ask us most often before a consultation: “What is actually about to happen to me?”</p>
         </div>
-      </section>
-      <section class="blog-section">
-        <div class="container blog-inner">
-          <div class="blog-related-grid">
-            ${posts.map(post => `
-              <a href="/blog/${post.slug}/s" class="blog-card">
-                <div class="blog-card-media">
-                  <img src="${post.thumbnail || post.image || 'images/service-general.png'}" alt="${post.title}" onerror="this.src='images/service-general.png'">
-                  <span class="blog-card-category">${post.category}</span>
-                </div>
-                <div class="blog-card-body">
-                  <span class="blog-card-date">${formatBlogDate(post.createdAt || post.date)}</span>
-                  <h3 class="blog-card-title">${post.title}</h3>
-                  <span class="blog-card-readmore">READ MORE <i class="fa-solid fa-chevron-right"></i></span>
-                </div>
-              </a>
-            `).join('')}
+        <div class="static-layout-container">
+          <aside class="static-sidebar">
+            <h4>On this page</h4>
+            <nav class="static-sidebar-nav">
+              <a href="#what-we-write" class="static-sidebar-link">What We Write About</a>
+              <a href="#articles" class="static-sidebar-link">A Few Articles to Start With</a>
+              <a href="#disclaimer" class="static-sidebar-link">One Honest Disclaimer</a>
+            </nav>
+          </aside>
+          <div class="static-content">
+            <div class="static-card" style="margin-bottom: 20px;">
+              <h3 id="what-we-write">What We Write About</h3>
+              
+              <h4 style="margin-top: 20px; color: var(--text-main);">Before the Operating Table</h4>
+              <p>What a procedure actually involves — step by step, in plain language — along with the kind of anesthesia typically used, how long it takes, and what a same-day versus multi-day hospital stay looks like.</p>
+
+              <h4 style="margin-top: 20px; color: var(--text-main);">The Real Cost Conversation</h4>
+              <p>Price ranges across Indian cities, what drives a bill up or down (room category, surgeon's experience, complications), and how to approach insurance pre-authorization or no-cost EMI without getting blindsided later.</p>
+
+              <h4 style="margin-top: 20px; color: var(--text-main);">Recovery, Honestly</h4>
+              <p>Week-by-week recovery timelines for common procedures — what pain is normal, what isn't, when to call your surgeon versus when to wait it out, and how long before you're back to ordinary life.</p>
+
+              <h4 style="margin-top: 20px; color: var(--text-main);">Choosing Who Operates on You</h4>
+              <p>How to read a surgeon's profile properly, which credentials actually matter, what questions are worth asking in a first consultation, and how to interpret patient reviews without over- or under-weighting them.</p>
+
+              <h4 style="margin-top: 20px; color: var(--text-main);">Getting Ready</h4>
+              <p>Fasting windows, medications to pause, what to pack for a hospital admission, and the small logistical details that get overlooked until the morning of the surgery.</p>
+            </div>
+
+            <h3 id="articles" style="margin-top: 20px; margin-bottom: 20px;">A Few Articles to Start With</h3>
+            <div class="blog-related-grid" style="padding-bottom: 20px;">
+              ${posts.map(post => `
+                <a href="/blog/${post.slug}/s" class="blog-card">
+                  <div class="blog-card-media">
+                    <img src="${post.thumbnail || post.image || 'images/service-general.png'}" alt="${post.title}" onerror="this.src='images/service-general.png'">
+                    <span class="blog-card-category">${post.category}</span>
+                  </div>
+                  <div class="blog-card-body">
+                    <span class="blog-card-date">${formatBlogDate(post.createdAt || post.date)}</span>
+                    <h3 class="blog-card-title">${post.title}</h3>
+                    <span class="blog-card-readmore">READ MORE <i class="fa-solid fa-chevron-right"></i></span>
+                  </div>
+                </a>
+              `).join('')}
+            </div>
+
+            <div class="static-card">
+              <h3 id="disclaimer">One Honest Disclaimer</h3>
+              <p>Nothing on this blog replaces a conversation with your own doctor. Every case is different, and a general article can't account for your specific history, scans, or risk factors. Treat what you read here as preparation for that conversation — not a substitute for it.</p>
+              <p style="margin-top: 20px; font-weight: 600;">Want personalised guidance instead? Search for a surgeon near you or speak to a care coordinator on our free helpline.</p>
+            </div>
           </div>
         </div>
-      </section>
+      </div>
     `;
   }
 
