@@ -262,14 +262,16 @@
         } catch(e) { console.warn('Failed to parse doctor JSON', e); }
       }
       
-      // Merge rich hospital data
+      // Merge rich hospital data (use normalized names for matching)
       if (res3 && res3.ok) {
         try {
           const json3 = await res3.json();
           if (Array.isArray(json3) && json3.length > 0) {
-            const existingMap = new Map(HOSPITALS.map(h => [h.name, h]));
+            const normalize = n => (n || '').trim().toLowerCase().replace(/[^a-z0-9]/g, '');
+            const existingMap = new Map(HOSPITALS.map(h => [normalize(h.name), h]));
             json3.forEach(h => {
-               existingMap.set(h.name, { ...(existingMap.get(h.name) || {}), ...h, city: h.city || city });
+               const key = normalize(h.name);
+               existingMap.set(key, { ...(existingMap.get(key) || {}), ...h, city: h.city || city });
             });
             HOSPITALS.length = 0;
             HOSPITALS.push(...Array.from(existingMap.values()));
@@ -283,7 +285,17 @@
         'https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80',
         'https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80',
         'https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80',
-        'https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80'
+        'https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80',
+        'https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?w=800&q=80',
+        'https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&q=80',
+        'https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800&q=80',
+        'https://images.unsplash.com/photo-1504439468489-c8920d796a29?w=800&q=80',
+        'https://images.unsplash.com/photo-1530497610245-94d3c16cda28?w=800&q=80',
+        'https://images.unsplash.com/photo-1581595219315-a187dd40c322?w=800&q=80',
+        'https://images.unsplash.com/photo-1512678080530-7760d81faba6?w=800&q=80',
+        'https://images.unsplash.com/photo-1596541223130-5d31a73fb6c6?w=800&q=80',
+        'https://images.unsplash.com/photo-1583912267550-d6c2ac3196c0?w=800&q=80',
+        'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=800&q=80'
       ];
       HOSPITALS.forEach((h, i) => {
         if (!h.image || h.image.includes('google.com/maps')) {
@@ -343,9 +355,11 @@
         try {
           const jsonHosp = await resHosp.json();
           if (Array.isArray(jsonHosp) && jsonHosp.length > 0) {
-            const existingMap = new Map(HOSPITALS.map(h => [h.name, h]));
+            const normalize = n => (n || '').trim().toLowerCase().replace(/[^a-z0-9]/g, '');
+            const existingMap = new Map(HOSPITALS.map(h => [normalize(h.name), h]));
             jsonHosp.forEach(h => {
-               existingMap.set(h.name, { ...(existingMap.get(h.name) || {}), ...h, city: h.city || city });
+               const key = normalize(h.name);
+               existingMap.set(key, { ...(existingMap.get(key) || {}), ...h, city: h.city || city });
             });
             HOSPITALS.length = 0;
             HOSPITALS.push(...Array.from(existingMap.values()));
@@ -359,7 +373,17 @@
         'https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=800&q=80',
         'https://images.unsplash.com/photo-1551076805-e1869043e560?w=800&q=80',
         'https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80',
-        'https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80'
+        'https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800&q=80',
+        'https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?w=800&q=80',
+        'https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&q=80',
+        'https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800&q=80',
+        'https://images.unsplash.com/photo-1504439468489-c8920d796a29?w=800&q=80',
+        'https://images.unsplash.com/photo-1530497610245-94d3c16cda28?w=800&q=80',
+        'https://images.unsplash.com/photo-1581595219315-a187dd40c322?w=800&q=80',
+        'https://images.unsplash.com/photo-1512678080530-7760d81faba6?w=800&q=80',
+        'https://images.unsplash.com/photo-1596541223130-5d31a73fb6c6?w=800&q=80',
+        'https://images.unsplash.com/photo-1583912267550-d6c2ac3196c0?w=800&q=80',
+        'https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=800&q=80'
       ];
       HOSPITALS.forEach((h, i) => {
         if (!h.image || h.image.includes('google.com/maps')) {
